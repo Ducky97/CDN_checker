@@ -1,10 +1,10 @@
 {
     "http": {
         "header": {
-            "Date": "Thu, 17 Sep 2020 03:16:55 GMT",
+            "Date": "Thu, 17 Sep 2020 10:17:15 GMT",
             "Server": "Apache",
             "X-Powered-By": "PHP/5.3.3",
-            "Set-Cookie": "DokuWiki=vf16bcmr1u4e0nbl9s9q3au0b5; path=/; HttpOnly, DW68700bfd16c2027de7de74a5a8202a6f=deleted; expires=Wed, 18-Sep-2019 03:16:54 GMT; path=/; httponly",
+            "Set-Cookie": "DokuWiki=b1076ctvsir6rkc2p0j9bniie2; path=/; HttpOnly, DW68700bfd16c2027de7de74a5a8202a6f=deleted; expires=Wed, 18-Sep-2019 10:17:14 GMT; path=/; httponly",
             "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
             "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
             "Pragma": "no-cache",

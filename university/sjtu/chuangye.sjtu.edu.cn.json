@@ -1,14 +1,14 @@
 {
     "http": {
         "header": {
-            "Date": "Thu, 17 Sep 2020 03:34:16 GMT",
+            "Date": "Thu, 17 Sep 2020 04:57:08 GMT",
             "Server": "Apache",
             "X-Powered-By": "PHP/5.6.30",
             "Upgrade": "h2",
             "Connection": "Upgrade, close",
             "Vary": "Accept-Encoding",
             "Content-Encoding": "gzip",
-            "Content-Length": "8596",
+            "Content-Length": "8545",
             "Content-Type": "text/html; charset=utf-8"
         },
         "nslookup": {
@@ -32,14 +32,14 @@
     },
     "https": {
         "header": {
-            "Date": "Thu, 17 Sep 2020 03:34:18 GMT",
+            "Date": "Thu, 17 Sep 2020 04:57:10 GMT",
             "Server": "Apache",
             "X-Powered-By": "PHP/5.6.30",
             "Upgrade": "h2",
             "Connection": "Upgrade, close",
             "Vary": "Accept-Encoding",
             "Content-Encoding": "gzip",
-            "Content-Length": "8631",
+            "Content-Length": "8628",
             "Content-Type": "text/html; charset=utf-8"
         },
         "nslookup": {

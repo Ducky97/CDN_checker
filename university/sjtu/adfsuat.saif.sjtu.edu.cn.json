@@ -2,7 +2,7 @@
     "http": {
         "header": {
             "Content-Type": "text/html; charset=us-ascii",
-            "Date": "Thu, 17 Sep 2020 02:34:35 GMT",
+            "Date": "Thu, 17 Sep 2020 04:43:38 GMT",
             "Connection": "close",
             "Content-Length": "315"
         },
@@ -35,7 +35,7 @@
             "Server": "Microsoft-HTTPAPI/2.0",
             "X-Frame-Options": "DENY",
             "X-MS-Forwarded-Status-Code": "500",
-            "Date": "Thu, 17 Sep 2020 02:34:39 GMT"
+            "Date": "Thu, 17 Sep 2020 04:43:42 GMT"
         },
         "nslookup": {
             "adfsuat.saif.sjtu.edu.cn": [
