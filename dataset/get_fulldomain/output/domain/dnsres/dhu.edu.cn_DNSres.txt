@@ -1,0 +1,4162 @@
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+NXDOMAIN for dhu.edu.cn
+
+60.dhu.edu.cn. 0 IN A 220.250.64.225
+
+60.dhu.edu.cn. 30 IN A 220.250.64.225
+
+acm.dhu.edu.cn. 3600 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+acm.dhu.edu.cn. 3599 IN A 218.193.151.203
+
+connectionserve.ad.dhu.edu.cn. 3600 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connectionserve.ad.dhu.edu.cn. 3599 IN A 218.193.158.228
+
+connector-va.ad.dhu.edu.cn. 3600 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+connector-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.218
+
+dc1.ad.dhu.edu.cn. 3600 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+dc1.ad.dhu.edu.cn. 3599 IN A 218.193.144.158
+
+gateway-va.ad.dhu.edu.cn. 3600 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+gateway-va.ad.dhu.edu.cn. 3599 IN A 218.193.158.220
+
+securityserver.ad.dhu.edu.cn. 3600 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+securityserver.ad.dhu.edu.cn. 3599 IN A 218.193.158.227
+
+admissions.dhu.edu.cn. 126 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+admissions.dhu.edu.cn. 125 IN A 219.228.76.33
+
+afmg.dhu.edu.cn. 0 IN A 220.250.64.225
+
+afmg.dhu.edu.cn. 30 IN A 220.250.64.225
+
+agmeeting.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1314 IN A 218.193.144.93
+
+agmeeting.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1314 IN A 218.193.144.93
+
+agmeeting.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1314 IN A 218.193.144.93
+
+ai.dhu.edu.cn. 3600 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+ai.dhu.edu.cn. 3599 IN A 218.193.158.109
+
+alumni.dhu.edu.cn. 3033 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1770 IN A 218.193.144.93
+
+app.dhu.edu.cn. 2789 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+app.dhu.edu.cn. 2788 IN A 218.193.158.170
+
+appup.dhu.edu.cn. 3600 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+appup.dhu.edu.cn. 3599 IN A 218.193.158.156
+
+aqgl.dhu.edu.cn. 3600 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqgl.dhu.edu.cn. 3599 IN A 218.193.151.163
+
+aqjy.dhu.edu.cn. 2045 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+aqjy.dhu.edu.cn. 2044 IN A 218.193.151.161
+
+arcinfo.dhu.edu.cn. 0 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 30 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+arcinfo.dhu.edu.cn. 29 IN A 220.250.64.225
+
+asset.dhu.edu.cn. 99 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+asset.dhu.edu.cn. 98 IN A 218.193.151.93
+
+autodept.dhu.edu.cn. 3600 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+autodept.dhu.edu.cn. 3599 IN A 218.193.151.73
+
+biomedtextile.dhu.edu.cn. 3600 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextile.dhu.edu.cn. 3599 IN A 218.193.151.17
+
+biomedtextiles.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1314 IN A 218.193.144.93
+
+bmtm.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1396 IN A 218.193.144.93
+
+bookinf.dhu.edu.cn. 3600 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bookinf.dhu.edu.cn. 3599 IN A 218.193.151.67
+
+bwc.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1314 IN A 218.193.144.93
+
+bx.dhu.edu.cn. 3600 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+bx.dhu.edu.cn. 3599 IN A 219.228.76.46
+
+byj.dhu.edu.cn. 3600 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+byj.dhu.edu.cn. 3599 IN A 218.193.158.193
+
+calm.dhu.edu.cn. 2839 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+calm.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+calm.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+calm.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cas.dhu.edu.cn. 2981 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+cas.dhu.edu.cn. 2980 IN A 218.193.144.157
+
+case-studies.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1396 IN A 218.193.144.93
+
+cbpm2014.dhu.edu.cn. 0 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 30 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cbpm2014.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ccac.dhu.edu.cn. 2839 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+ccac-elab.dhu.edu.cn. 3600 IN CNAME fxcs-elab.dhu.edu.cn.
+fxcs-elab.dhu.edu.cn. 3599 IN A 218.193.151.110
+
+ccac-mlab.dhu.edu.cn. 3600 IN CNAME fxcs-elab.dhu.edu.cn.
+fxcs-elab.dhu.edu.cn. 3599 IN A 218.193.151.110
+
+cceb.dhu.edu.cn. 2839 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cceb.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+ccsp.dhu.edu.cn. 99 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+ccsp.dhu.edu.cn. 98 IN A 218.193.144.198
+
+cgzh.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+cgzh.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+cgzh.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+chaxin.dhu.edu.cn. 3600 IN A 202.120.146.3
+
+chaxin.dhu.edu.cn. 3599 IN A 202.120.146.3
+
+chaxin.dhu.edu.cn. 3599 IN A 202.120.146.3
+
+cicti.dhu.edu.cn. 2839 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cicti.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cicti.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cip.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+cip.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+cip.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+cist.dhu.edu.cn. 2808 IN A 219.228.79.2
+
+cist.dhu.edu.cn. 2807 IN A 219.228.79.2
+
+cist-elab.dhu.edu.cn. 3600 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cist-elab.dhu.edu.cn. 3599 IN A 218.193.151.116
+
+cj.dhu.edu.cn. 3031 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1769 IN A 218.193.144.93
+
+cj.dhu.edu.cn. 3030 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1769 IN A 218.193.144.93
+
+cj.dhu.edu.cn. 3030 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1769 IN A 218.193.144.93
+
+cjgl.dhu.edu.cn. 3600 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+cjgl.dhu.edu.cn. 3599 IN A 218.193.151.40
+
+ckjw.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+classair.dhu.edu.cn. 3600 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+classair.dhu.edu.cn. 3599 IN A 222.204.210.8
+
+clothinglab.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1313 IN A 218.193.144.93
+
+clzp.dhu.edu.cn. 3600 IN A 219.228.76.23
+
+clzp.dhu.edu.cn. 3599 IN A 219.228.76.23
+
+clzp.dhu.edu.cn. 3599 IN A 219.228.76.23
+
+cmse.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+cmse-elab.dhu.edu.cn. 3600 IN A 218.193.151.110
+
+cmse-ilab.dhu.edu.cn. 3600 IN CNAME cmse-elab.dhu.edu.cn.
+cmse-elab.dhu.edu.cn. 3599 IN A 218.193.151.110
+
+cmse-vlab.dhu.edu.cn. 3600 IN CNAME cmse-elab.dhu.edu.cn.
+cmse-elab.dhu.edu.cn. 3599 IN A 218.193.151.110
+
+portal.scf.dhu.edu.cnappup.dhu.edu.cn. 0 IN A 220.250.64.225
+
+yjsxk.dhu.edu.cndisk4u.dhu.edu.cn. 0 IN A 220.250.64.225
+
+mobile.dhu.edu.cnedb2.dhu.edu.cn. 0 IN A 220.250.64.225
+
+eoa.dhu.edu.cnewas.dhu.edu.cn. 0 IN A 220.250.64.225
+
+da.dhu.edu.cnexk.dhu.edu.cn. 0 IN A 220.250.64.225
+
+www.dhu.edu.cnjctd.dhu.edu.cn. 0 IN A 220.250.64.225
+
+sunshine.dhu.edu.cnportalnew.dhu.edu.cn. 0 IN A 220.250.64.225
+
+ky.dhu.edu.cnsmtc.dhu.edu.cn. 0 IN A 220.250.64.225
+
+mobile.dhu.edu.cnyjsxf.dhu.edu.cn. 0 IN A 220.250.64.225
+
+composites.dhu.edu.cn. 3600 IN CNAME biomedtextile.dhu.edu.cn.
+biomedtextile.dhu.edu.cn. 3598 IN A 218.193.151.17
+
+csit.dhu.edu.cn. 2197 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+csit.dhu.edu.cn. 2196 IN A 218.193.151.30
+
+cst.dhu.edu.cn. 2838 IN A 218.193.144.93
+
+cst.dhu.edu.cn. 2837 IN A 218.193.144.93
+
+cst.dhu.edu.cn. 2837 IN A 218.193.144.93
+
+ctx.dhu.edu.cn. 0 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 30 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ctx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+cwc.dhu.edu.cn. 2808 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cwc.dhu.edu.cn. 2807 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cwc.dhu.edu.cn. 2807 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 517 IN A 218.193.144.93
+
+cwgl.dhu.edu.cn. 2838 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cwgl.dhu.edu.cn. 2837 IN A 218.193.151.25
+
+cxcy.dhu.edu.cn. 1594 IN A 219.228.76.4
+
+cxcy.dhu.edu.cn. 1593 IN A 219.228.76.4
+
+cxcy.dhu.edu.cn. 1593 IN A 219.228.76.4
+
+czxt.dhu.edu.cn. 3600 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+czxt.dhu.edu.cn. 3599 IN A 219.228.76.41
+
+da.dhu.edu.cn. 2808 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1769 IN A 218.193.144.93
+
+da.dhu.edu.cn. 2807 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1769 IN A 218.193.144.93
+
+dhbinding.dhu.edu.cn. 0 IN A 220.250.64.225
+
+dhbinding.dhu.edu.cn. 30 IN A 220.250.64.225
+
+dhbwc.dhu.edu.cn. 3600 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhbwc.dhu.edu.cn. 3599 IN A 218.193.151.62
+
+dhgyznsgl.dhu.edu.cn. 3600 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhgyznsgl.dhu.edu.cn. 3599 IN A 219.228.76.49
+
+dhudisk.dhu.edu.cn. 2802 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhudisk.dhu.edu.cn. 2801 IN A 218.193.158.185
+
+dhuhysh.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1395 IN A 218.193.144.93
+
+dhupress.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1312 IN A 218.193.144.93
+
+dhuserver.dhu.edu.cn. 0 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 30 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhuserver.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dhyz.dhu.edu.cn. 1314 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+dhyz.dhu.edu.cn. 1313 IN A 218.193.151.32
+
+disk4u.dhu.edu.cn. 0 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 30 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 29 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 29 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 29 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 29 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 29 IN A 220.250.64.225
+
+disk4u.dhu.edu.cn. 29 IN A 220.250.64.225
+
+dns.dhu.edu.cn. 3600 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dns.dhu.edu.cn. 3599 IN A 218.193.144.2
+
+dwgk.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+dxyq.dhu.edu.cn. 3600 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+dxyq.dhu.edu.cn. 3599 IN A 219.228.76.35
+
+edb2.dhu.edu.cn. 0 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 30 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edb2.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 0 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 30 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edebug.dhu.edu.cn. 29 IN A 220.250.64.225
+
+edf.dhu.edu.cn. 2838 IN CNAME alumni.dhu.edu.cn.
+alumni.dhu.edu.cn. 29 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1312 IN A 218.193.144.93
+
+edf.dhu.edu.cn. 2837 IN CNAME alumni.dhu.edu.cn.
+alumni.dhu.edu.cn. 29 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1312 IN A 218.193.144.93
+
+edf.dhu.edu.cn. 2837 IN CNAME alumni.dhu.edu.cn.
+alumni.dhu.edu.cn. 29 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1312 IN A 218.193.144.93
+
+egj.dhu.edu.cn. 0 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 30 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egj.dhu.edu.cn. 29 IN A 220.250.64.225
+
+egs.dhu.edu.cn. 2749 IN A 218.193.144.184
+
+egs.dhu.edu.cn. 2748 IN A 218.193.144.184
+
+egs.dhu.edu.cn. 2748 IN A 218.193.144.184
+
+ehall.dhu.edu.cn. 2259 IN A 218.193.158.122
+
+ehall.dhu.edu.cn. 2258 IN A 218.193.158.122
+
+ehall.dhu.edu.cn. 2258 IN A 218.193.158.122
+
+ehall.dhu.edu.cn. 2258 IN A 218.193.158.122
+
+ejob.dhu.edu.cn. 1808 IN A 219.228.76.4
+
+ejob.dhu.edu.cn. 1807 IN A 219.228.76.4
+
+ejob.dhu.edu.cn. 1807 IN A 219.228.76.4
+
+ejob.dhu.edu.cn. 1807 IN A 219.228.76.4
+
+elearning.dhu.edu.cn. 3600 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+elearning.dhu.edu.cn. 3599 IN A 218.193.144.147
+
+emba.dhu.edu.cn. 3600 IN CNAME mba.dhu.edu.cn.
+mba.dhu.edu.cn. 3269 IN A 219.228.76.34
+
+emlab.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1312 IN A 218.193.144.93
+
+enewrs.dhu.edu.cn. 2787 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+enewrs.dhu.edu.cn. 2786 IN A 218.193.144.212
+
+english.dhu.edu.cn. 2838 IN A 218.193.144.93
+
+english.dhu.edu.cn. 2837 IN A 218.193.144.93
+
+english.dhu.edu.cn. 2837 IN A 218.193.144.93
+
+english.dhu.edu.cn. 2837 IN A 218.193.144.93
+
+env.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+env.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+env.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+env.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+eoa.dhu.edu.cn. 96 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+eoa.dhu.edu.cn. 95 IN A 218.193.144.191
+
+epay.dhu.edu.cn. 2260 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+epay.dhu.edu.cn. 2259 IN A 218.193.144.238
+
+erctt.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1312 IN A 218.193.144.93
+
+ereport.dhu.edu.cn. 3600 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+ereport.dhu.edu.cn. 3599 IN A 218.193.144.60
+
+eresearch.dhu.edu.cn. 0 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 30 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eresearch2.dhu.edu.cn. 3600 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+eresearch2.dhu.edu.cn. 3599 IN A 218.193.144.130
+
+ers.dhu.edu.cn. 3600 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+ers.dhu.edu.cn. 3599 IN A 218.193.144.173
+
+evod.dhu.edu.cn. 0 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 30 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+evod.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ewas.dhu.edu.cn. 3600 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ewas.dhu.edu.cn. 3599 IN A 218.193.144.36
+
+ews.dhu.edu.cn. 3600 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+ews.dhu.edu.cn. 3599 IN A 218.193.144.17
+
+exg.dhu.edu.cn. 3600 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg.dhu.edu.cn. 3599 IN A 218.193.144.205
+
+exg2.dhu.edu.cn. 3600 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exg2.dhu.edu.cn. 3599 IN A 218.193.144.174
+
+exk.dhu.edu.cn. 0 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 30 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exk.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 0 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 30 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+exxqf.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 0 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 30 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjs.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 0 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 30 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+eyjsjx.dhu.edu.cn. 29 IN A 220.250.64.225
+
+ezhsjfx.dhu.edu.cn. 3600 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+ezhsjfx.dhu.edu.cn. 3599 IN A 218.193.144.179
+
+fcrc.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fcrc.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fcrc.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+flc.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+flc.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+flc.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+flc.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+flowservices.dhu.edu.cn. 3600 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+flowservices.dhu.edu.cn. 3599 IN A 219.228.76.53
+
+fmct-cmrs.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fp.dhu.edu.cn. 1340 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1021 IN A 218.193.144.93
+
+ftp.dhu.edu.cn. 3600 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp.dhu.edu.cn. 3599 IN A 202.120.144.152
+
+ftp2.dhu.edu.cn. 3600 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+ftp2.dhu.edu.cn. 3599 IN A 218.193.144.99
+
+fxcs.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fxcs.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fxcs.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fxcs.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1394 IN A 218.193.144.93
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-elab.dhu.edu.cn. 3598 IN A 218.193.151.110
+
+fxcs-mlab.dhu.edu.cn. 3600 IN CNAME fxcs-elab.dhu.edu.cn.
+fxcs-elab.dhu.edu.cn. 3597 IN A 218.193.151.110
+
+fxcs-mlab.dhu.edu.cn. 3599 IN CNAME fxcs-elab.dhu.edu.cn.
+fxcs-elab.dhu.edu.cn. 3597 IN A 218.193.151.110
+
+fxcs-mlab.dhu.edu.cn. 3599 IN CNAME fxcs-elab.dhu.edu.cn.
+fxcs-elab.dhu.edu.cn. 3597 IN A 218.193.151.110
+
+fzjy.dhu.edu.cn. 2838 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+fzjy.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 516 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2888 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+fzys.dhu.edu.cn. 2887 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 2731 IN A 218.193.144.93
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+NXDOMAIN for gap.dhu.edu.cn
+
+gh.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+gh.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+gh.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+ghoa.dhu.edu.cn. 3600 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ghoa.dhu.edu.cn. 3599 IN A 218.193.151.45
+
+ginfo.dhu.edu.cn. 2806 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+ginfo.dhu.edu.cn. 2805 IN A 218.193.144.152
+
+glass.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+glgs.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+glgs.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+glgs.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1311 IN A 218.193.144.93
+
+glkc.dhu.edu.cn. 3600 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glkc.dhu.edu.cn. 3599 IN A 202.120.155.7
+
+glxy.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+glxy.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+glxy.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+gonghui.dhu.edu.cn. 3600 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gonghui.dhu.edu.cn. 3599 IN A 218.193.151.158
+
+gs.dhu.edu.cn. 2922 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1406 IN A 218.193.144.93
+
+gs.dhu.edu.cn. 2921 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1406 IN A 218.193.144.93
+
+gs.dhu.edu.cn. 2921 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1406 IN A 218.193.144.93
+
+gs.dhu.edu.cn. 2921 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1406 IN A 218.193.144.93
+
+guest.dhu.edu.cn. 3600 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+guest.dhu.edu.cn. 3599 IN A 202.120.144.3
+
+hc.dhu.edu.cn. 2837 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hc.dhu.edu.cn. 2836 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 515 IN A 218.193.144.93
+
+hdh.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1310 IN A 218.193.144.93
+
+hdh.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1310 IN A 218.193.144.93
+
+hdh.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1310 IN A 218.193.144.93
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+NXDOMAIN for dns.huawei.dhu.edu.cn
+
+ices.dhu.edu.cn. 2827 IN A 218.193.144.93
+
+ices.dhu.edu.cn. 2826 IN A 218.193.144.93
+
+ices.dhu.edu.cn. 2826 IN A 218.193.144.93
+
+ices.dhu.edu.cn. 2826 IN A 218.193.144.93
+
+ico.dhu.edu.cn. 2827 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 505 IN A 218.193.144.93
+
+ico.dhu.edu.cn. 2826 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 505 IN A 218.193.144.93
+
+ico.dhu.edu.cn. 2826 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 505 IN A 218.193.144.93
+
+ictst.dhu.edu.cn. 2827 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 505 IN A 218.193.144.93
+
+idp.dhu.edu.cn. 409 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+idp.dhu.edu.cn. 408 IN A 219.228.76.55
+
+ifbmtm.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+ikaoqin.dhu.edu.cn. 3600 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+ikaoqin.dhu.edu.cn. 3599 IN A 218.193.158.186
+
+inforcenter.dhu.edu.cn. 2827 IN A 218.193.144.93
+
+inforcenter.dhu.edu.cn. 2826 IN A 218.193.144.93
+
+inforcenter.dhu.edu.cn. 2826 IN A 218.193.144.93
+
+inforcenter.dhu.edu.cn. 2826 IN A 218.193.144.93
+
+iras.dhu.edu.cn. 3600 IN A 202.120.146.18
+
+iras.dhu.edu.cn. 3599 IN A 202.120.146.18
+
+iras.dhu.edu.cn. 3599 IN A 202.120.146.18
+
+its.dhu.edu.cn. 3600 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+its.dhu.edu.cn. 3599 IN A 218.193.144.125
+
+japanese.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+japanese.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+japanese.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+jctd.dhu.edu.cn. 3600 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jctd.dhu.edu.cn. 3599 IN A 202.120.155.3
+
+jffp.dhu.edu.cn. 3600 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+jffp.dhu.edu.cn. 3599 IN A 218.193.144.241
+
+join.dhu.edu.cn. 3600 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+join.dhu.edu.cn. 3599 IN A 218.193.151.84
+
+jpkc.dhu.edu.cn. 2249 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkc.dhu.edu.cn. 2248 IN A 219.228.76.12
+
+jpkcgxk.dhu.edu.cn. 3600 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jpkcgxk.dhu.edu.cn. 3599 IN A 218.193.151.56
+
+jsfz.dhu.edu.cn. 2248 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+jw.dhu.edu.cn. 3552 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 503 IN A 218.193.144.93
+
+jw.dhu.edu.cn. 3551 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 503 IN A 218.193.144.93
+
+jw.dhu.edu.cn. 3551 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 503 IN A 218.193.144.93
+
+jw.dhu.edu.cn. 3551 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 503 IN A 218.193.144.93
+
+jwbjc.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 375 IN A 218.193.144.93
+
+jwdep.dhu.edu.cn. 2248 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwdep.dhu.edu.cn. 2247 IN A 218.193.151.13
+
+jwgl.dhu.edu.cn. 2248 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+jwgl.dhu.edu.cn. 2247 IN A 218.193.151.149
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+NXDOMAIN for jwjl.dhu.edu.cn
+
+kexie.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+klet.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+kms.dhu.edu.cn. 2790 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms.dhu.edu.cn. 2789 IN A 219.228.76.38
+
+kms2010.dhu.edu.cn. 3600 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+kms2010.dhu.edu.cn. 3599 IN A 219.228.76.37
+
+korean.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+korean.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+korean.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+korean.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+NXDOMAIN for kqserver.dhu.edu.cn
+
+ky.dhu.edu.cn. 3600 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+ky.dhu.edu.cn. 3599 IN A 218.193.144.207
+
+lab.dhu.edu.cn. 2248 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+lab.dhu.edu.cn. 2247 IN A 218.193.151.75
+
+library.dhu.edu.cn. 3019 IN A 202.120.146.10
+
+library.dhu.edu.cn. 3018 IN A 202.120.146.10
+
+library.dhu.edu.cn. 3018 IN A 202.120.146.10
+
+library.dhu.edu.cn. 3018 IN A 202.120.146.10
+
+ltxmis.dhu.edu.cn. 3600 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+ltxmis.dhu.edu.cn. 3599 IN A 218.193.151.188
+
+lxs.dhu.edu.cn. 3600 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+lxs.dhu.edu.cn. 3599 IN A 218.193.151.176
+
+mail.dhu.edu.cn. 3600 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.dhu.edu.cn. 3599 IN A 218.193.144.116
+
+mail.mail.dhu.edu.cn. 3600 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1611 IN A 123.58.177.239
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+NXDOMAIN for mailgw.dhu.edu.cn
+
+map.dhu.edu.cn. 3600 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+map.dhu.edu.cn. 3599 IN A 218.193.144.143
+
+marx.dhu.edu.cn. 2826 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+marx.dhu.edu.cn. 2825 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+marx.dhu.edu.cn. 2825 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mba.dhu.edu.cn. 3257 IN A 219.228.76.34
+
+mbajw.dhu.edu.cn. 3600 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+mbajw.dhu.edu.cn. 3599 IN A 202.120.144.54
+
+meccol.dhu.edu.cn. 30 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+lab.meccol.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 504 IN A 218.193.144.93
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+NXDOMAIN for memcs.dhu.edu.cn
+
+mfa.dhu.edu.cn. 2795 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1395 IN A 218.193.144.93
+
+mfa.dhu.edu.cn. 2794 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1395 IN A 218.193.144.93
+
+mfa.dhu.edu.cn. 2794 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1395 IN A 218.193.144.93
+
+mobile.dhu.edu.cn. 3600 IN A 218.193.158.195
+
+mobile.dhu.edu.cn. 3599 IN A 218.193.158.195
+
+mobile.dhu.edu.cn. 3599 IN A 218.193.158.195
+
+mobile.dhu.edu.cn. 3599 IN A 218.193.158.195
+
+mobile.dhu.edu.cn. 3599 IN A 218.193.158.195
+
+mobile.dhu.edu.cn. 3599 IN A 218.193.158.195
+
+mobile.dhu.edu.cn. 3599 IN A 218.193.158.195
+
+mobile2.dhu.edu.cn. 3189 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile2.dhu.edu.cn. 3188 IN A 218.193.158.169
+
+mobile3.dhu.edu.cn. 3600 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile3.dhu.edu.cn. 3599 IN A 218.193.158.171
+
+mobile4.dhu.edu.cn. 3600 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mobile4.dhu.edu.cn. 3599 IN A 218.193.158.168
+
+mpa.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 375 IN A 218.193.144.93
+
+mpa.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 375 IN A 218.193.144.93
+
+mpa.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 375 IN A 218.193.144.93
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+NXDOMAIN for mrtg.dhu.edu.cn
+
+mti.dhu.edu.cn. 3600 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mti.dhu.edu.cn. 3599 IN A 218.193.151.53
+
+mucp.dhu.edu.cn. 3600 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+mucp.dhu.edu.cn. 3599 IN A 218.193.158.165
+
+my.dhu.edu.cn. 2248 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+my.dhu.edu.cn. 2247 IN CNAME ehall.dhu.edu.cn.
+ehall.dhu.edu.cn. 2247 IN A 218.193.158.122
+
+myplus.dhu.edu.cn. 3144 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myplus.dhu.edu.cn. 3143 IN A 218.193.158.162
+
+myportal.dhu.edu.cn. 3600 IN A 218.193.144.218
+
+myportal.dhu.edu.cn. 3599 IN A 218.193.144.218
+
+myportal.dhu.edu.cn. 3599 IN A 218.193.144.218
+
+myportal.dhu.edu.cn. 3599 IN A 218.193.144.218
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for nas1.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+NXDOMAIN for ndrw.dhu.edu.cn
+
+newlx.dhu.edu.cn. 3600 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+newlx.dhu.edu.cn. 3599 IN A 218.193.144.45
+
+news.dhu.edu.cn. 30 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+news.dhu.edu.cn. 29 IN A 218.193.144.94
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nh.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+NXDOMAIN for nhce.dhu.edu.cn
+
+ntp.dhu.edu.cn. 3600 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+ntp.dhu.edu.cn. 3599 IN A 218.193.144.134
+
+oa.dhu.edu.cn. 3600 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+oa.dhu.edu.cn. 3599 IN A 218.193.144.41
+
+pe.dhu.edu.cn. 2825 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+pe.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+pe.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+pe.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+pigai.dhu.edu.cn. 3600 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pigai.dhu.edu.cn. 3599 IN A 218.193.151.154
+
+pilab.dhu.edu.cn. 3600 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+pilab.dhu.edu.cn. 3599 IN A 218.193.144.53
+
+portal.dhu.edu.cn. 3600 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal.dhu.edu.cn. 3599 IN A 202.120.144.74
+
+portal1.dhu.edu.cn. 3600 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal1.dhu.edu.cn. 3599 IN A 202.120.144.71
+
+portal2.dhu.edu.cn. 3600 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal2.dhu.edu.cn. 3599 IN A 202.120.144.72
+
+portal3.dhu.edu.cn. 3600 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal3.dhu.edu.cn. 3599 IN A 202.120.144.133
+
+portal4.dhu.edu.cn. 3600 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal4.dhu.edu.cn. 3599 IN A 202.120.144.134
+
+portal5.dhu.edu.cn. 3600 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal5.dhu.edu.cn. 3599 IN A 202.120.144.135
+
+portal6.dhu.edu.cn. 3600 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal6.dhu.edu.cn. 3599 IN A 202.120.144.131
+
+portal7.dhu.edu.cn. 3600 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portal7.dhu.edu.cn. 3599 IN A 202.120.144.132
+
+portalnew.dhu.edu.cn. 3600 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew.dhu.edu.cn. 3599 IN A 202.120.144.177
+
+portalnew2.dhu.edu.cn. 3600 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew2.dhu.edu.cn. 3599 IN A 202.120.144.179
+
+portalnew3.dhu.edu.cn. 3600 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portalnew3.dhu.edu.cn. 3599 IN A 202.120.144.180
+
+portaltest.dhu.edu.cn. 3600 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portaltest.dhu.edu.cn. 3599 IN A 202.120.144.176
+
+portalwy.dhu.edu.cn. 3600 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+portalwy.dhu.edu.cn. 3599 IN A 202.120.144.178
+
+qianbaojun.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+NXDOMAIN for rds.dhu.edu.cn
+
+research.dhu.edu.cn. 2825 IN A 218.193.144.93
+
+research.dhu.edu.cn. 2824 IN A 218.193.144.93
+
+research.dhu.edu.cn. 2824 IN A 218.193.144.93
+
+rising.dhu.edu.cn. 3600 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+rising.dhu.edu.cn. 3599 IN A 218.193.151.164
+
+NXDOMAIN for riyuluntan.dhu.edu.cn
+
+NXDOMAIN for riyuluntan.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+NXDOMAIN for rzids.dhu.edu.cn
+
+saista.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 373 IN A 218.193.144.93
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+NXDOMAIN for sakaitest.dhu.edu.cn
+
+sc.dhu.edu.cn. 30 IN A 220.250.64.225
+
+sc.dhu.edu.cn. 29 IN A 220.250.64.225
+
+sc.dhu.edu.cn. 29 IN A 220.250.64.225
+
+scdhu.dhu.edu.cn. 30 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2825 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+scf.dhu.edu.cn. 2824 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+portal.scf.dhu.edu.cn. 3600 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+portal.scf.dhu.edu.cn. 3599 IN A 218.193.151.79
+
+sch.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+sch.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+sch.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+sch.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+sf6800b.dhu.edu.cn. 3600 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+sf6800b.dhu.edu.cn. 3599 IN A 218.193.144.34
+
+NXDOMAIN for sfg.dhu.edu.cn
+
+NXDOMAIN for sfg.dhu.edu.cn
+
+NXDOMAIN for sfg.dhu.edu.cn
+
+sific.dhu.edu.cn. 2825 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 502 IN A 218.193.144.93
+
+sio.dhu.edu.cn. 3600 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sio.dhu.edu.cn. 3599 IN A 219.228.76.4
+
+sj.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+sj.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+sj.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+sklfpm.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+NXDOMAIN for smtc.dhu.edu.cn
+
+sphy.dhu.edu.cn. 3600 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+sphy.dhu.edu.cn. 3599 IN A 218.193.144.80
+
+ssgl.dhu.edu.cn. 3600 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+ssgl.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+structures.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+dhyz.student.dhu.edu.cn. 1899 IN CNAME dhyz.dhu.edu.cn.
+dhyz.dhu.edu.cn. 1298 IN A 218.193.151.32
+
+stuinfo.dhu.edu.cn. 3600 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+stuinfo.dhu.edu.cn. 3599 IN A 218.193.144.223
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+NXDOMAIN for style.dhu.edu.cn
+
+sunshine.dhu.edu.cn. 3600 IN A 202.120.144.2
+
+sunshine.dhu.edu.cn. 3599 IN A 202.120.144.2
+
+szdag.dhu.edu.cn. 3600 IN A 218.193.144.139
+
+szy.dhu.edu.cn. 3600 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+szy.dhu.edu.cn. 3599 IN A 218.193.151.85
+
+teainfo.dhu.edu.cn. 3600 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+teainfo.dhu.edu.cn. 3599 IN A 218.193.144.226
+
+tewc.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+texcol.dhu.edu.cn. 2824 IN A 218.193.144.93
+
+texcol.dhu.edu.cn. 2823 IN A 218.193.144.93
+
+texcol.dhu.edu.cn. 2823 IN A 218.193.144.93
+
+texcolss.dhu.edu.cn. 635 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 59 IN A 218.193.144.93
+
+texcolss.dhu.edu.cn. 634 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 59 IN A 218.193.144.93
+
+texcolss.dhu.edu.cn. 634 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 59 IN A 218.193.144.93
+
+textilekeylab.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+tw.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+NXDOMAIN for tzjk.dhu.edu.cn
+
+ucp.dhu.edu.cn. 3600 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+ucp.dhu.edu.cn. 3599 IN A 218.193.144.193
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+NXDOMAIN for uniform.dhu.edu.cn
+
+v.dhu.edu.cn. 3600 IN CNAME www.dhu.edu.cn.
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+viewsec.dhu.edu.cn. 3600 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+viewsec.dhu.edu.cn. 3599 IN A 218.193.151.114
+
+vip.dhu.edu.cn. 2669 IN A 202.120.146.25
+
+vip.dhu.edu.cn. 2668 IN A 202.120.146.25
+
+vip.dhu.edu.cn. 2668 IN A 202.120.146.25
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+NXDOMAIN for vip2.dhu.edu.cn
+
+vpn.dhu.edu.cn. 2049 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+vpn.dhu.edu.cn. 2048 IN A 202.120.154.4
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+webmail.dhu.edu.cn. 2824 IN A 218.193.144.116
+
+webmail.dhu.edu.cn. 2823 IN A 218.193.144.116
+
+webmail.dhu.edu.cn. 2823 IN A 218.193.144.116
+
+webplus.dhu.edu.cn. 2792 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+webplus.dhu.edu.cn. 2791 IN A 218.193.144.95
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+NXDOMAIN for webvpn.dhu.edu.cn
+
+wserver.dhu.edu.cn. 3600 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+wserver.dhu.edu.cn. 3599 IN A 218.193.158.129
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www.dhu.edu.cn. 302 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2324 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www2.dhu.edu.cn. 2323 IN A 218.193.144.94
+
+www3.dhu.edu.cn. 30 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+www3.dhu.edu.cn. 29 IN A 220.250.64.225
+
+wxserver.dhu.edu.cn. 3600 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxserver.dhu.edu.cn. 3599 IN A 218.193.144.186
+
+wxtest.dhu.edu.cn. 3600 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wxtest.dhu.edu.cn. 3599 IN A 218.193.158.192
+
+wzb.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+wzb.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+wzb.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+xb.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+xb.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+xb.dhu.edu.cn. 3599 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 501 IN A 218.193.144.93
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+NXDOMAIN for xcb.dhu.edu.cn
+
+xcbwzq.dhu.edu.cn. 2821 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+xcbwzq.dhu.edu.cn. 2820 IN A 218.193.144.188
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+NXDOMAIN for xgehall.dhu.edu.cn
+
+xgjy.dhu.edu.cn. 3600 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+xgjy.dhu.edu.cn. 3599 IN A 202.120.144.69
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+NXDOMAIN for xiaoban.dhu.edu.cn
+
+xkzx.dhu.edu.cn. 3600 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xkzx.dhu.edu.cn. 3599 IN A 218.193.151.91
+
+xsc.dhu.edu.cn. 2796 IN CNAME xscx.dhu.edu.cn.
+xscx.dhu.edu.cn. 2795 IN A 218.193.151.85
+
+xscx.dhu.edu.cn. 2795 IN A 218.193.151.85
+
+xsfw.dhu.edu.cn. 3600 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsfw.dhu.edu.cn. 3599 IN A 218.193.158.163
+
+xsxf.dhu.edu.cn. 3600 IN CNAME ssgl.dhu.edu.cn.
+ssgl.dhu.edu.cn. 3596 IN A 218.193.144.29
+
+xuebao.dhu.edu.cn. 2821 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+xuebao.dhu.edu.cn. 2820 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+xuebao.dhu.edu.cn. 2820 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+xwpg.dhu.edu.cn. 3600 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xwpg.dhu.edu.cn. 3599 IN A 218.193.151.97
+
+xxbprss.dhu.edu.cn. 3600 IN A 218.193.158.121
+
+xxbservices.dhu.edu.cn. 3600 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbservices.dhu.edu.cn. 3599 IN A 218.193.158.139
+
+xxbucp.dhu.edu.cn. 3600 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxbucp.dhu.edu.cn. 3599 IN A 218.193.158.118
+
+xxgk.dhu.edu.cn. 2821 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+xxgk.dhu.edu.cn. 2820 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+xxgk.dhu.edu.cn. 2820 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+ybqyy.dhu.edu.cn. 3600 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ybqyy.dhu.edu.cn. 3599 IN A 218.193.151.186
+
+ydlib.dhu.edu.cn. 3600 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+ydlib.dhu.edu.cn. 3599 IN A 202.120.146.39
+
+yjsda.dhu.edu.cn. 3600 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+yjsda.dhu.edu.cn. 3599 IN A 218.193.144.177
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+NXDOMAIN for yjsdep.dhu.edu.cn
+
+yjsxf.dhu.edu.cn. 3600 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+yjsxf.dhu.edu.cn. 3599 IN A 218.193.144.29
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxk.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+NXDOMAIN for yjsxw.dhu.edu.cn
+
+yjszs.dhu.edu.cn. 1539 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+yjszs.dhu.edu.cn. 1538 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+yjszs.dhu.edu.cn. 1538 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+yjszs.dhu.edu.cn. 1538 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+yx.dhu.edu.cn. 3600 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+yx.dhu.edu.cn. 3599 IN A 218.193.144.230
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+NXDOMAIN for yzb.dhu.edu.cn
+
+zcdep.dhu.edu.cn. 408 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+zcdep.dhu.edu.cn. 407 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+zcdep.dhu.edu.cn. 407 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+zcdep.dhu.edu.cn. 407 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+zcgs.dhu.edu.cn. 3600 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 498 IN A 218.193.144.93
+
+NXDOMAIN for zgchen.dhu.edu.cn
+
+NXDOMAIN for zgchen.dhu.edu.cn
+
+zs.dhu.edu.cn. 1079 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1389 IN A 218.193.144.93
+
+zs.dhu.edu.cn. 1078 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1389 IN A 218.193.144.93
+
+zs.dhu.edu.cn. 1078 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1389 IN A 218.193.144.93
+
+zs.dhu.edu.cn. 1078 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1389 IN A 218.193.144.93
+
+zscqgl.dhu.edu.cn. 3600 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscqgl.dhu.edu.cn. 3599 IN A 218.193.144.22
+
+zscx.dhu.edu.cn. 3600 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+zscx.dhu.edu.cn. 3599 IN A 218.193.158.142
+
+ztb.dhu.edu.cn. 3200 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1293 IN A 218.193.144.93
+
+ztb.dhu.edu.cn. 3199 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1293 IN A 218.193.144.93
+
+ztb.dhu.edu.cn. 3199 IN CNAME web.dhu.edu.cn.
+web.dhu.edu.cn. 1293 IN A 218.193.144.93
+
+zzdy.dhu.edu.cn. 3600 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+
+zzdy.dhu.edu.cn. 3599 IN A 218.193.151.156
+

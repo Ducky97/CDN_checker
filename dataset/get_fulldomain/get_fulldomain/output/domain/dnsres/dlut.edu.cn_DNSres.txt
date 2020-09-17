@@ -1,0 +1,2004 @@
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+NXDOMAIN for dlut.edu.cn
+
+60th.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+70th.dlut.edu.cn. 65721 IN A 202.118.76.180
+
+70th.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+70th.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+70th.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+70th.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+aa.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+aa.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+aaschool.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+aaschool.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+act.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+alumni.dlut.edu.cn. 50912 IN A 202.118.76.180
+
+alumni.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+alumni.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+alumni.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+amce.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+anam.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+anhuilu.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+anhuilu.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+anshan.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+anshan.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+apitest.dlut.edu.cn. 86400 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+apitest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+app.dlut.edu.cn. 65717 IN A 202.118.78.2
+
+apss2019.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+auth.dlut.edu.cn. 60 IN A 202.118.66.117
+
+auth.dlut.edu.cn. 60 IN A 202.118.66.117
+
+auth.dlut.edu.cn. 59 IN A 202.118.66.117
+
+avamar1.dlut.edu.cn. 86400 IN A 202.118.66.121
+
+avamar1.dlut.edu.cn. 7199 IN A 202.118.66.121
+
+avamar1.dlut.edu.cn. 7199 IN A 202.118.66.121
+
+avamar1.dlut.edu.cn. 7199 IN A 202.118.66.121
+
+avamar2.dlut.edu.cn. 86400 IN A 202.118.66.122
+
+avamar2.dlut.edu.cn. 7199 IN A 202.118.66.122
+
+avamar2.dlut.edu.cn. 7199 IN A 202.118.66.122
+
+avamarproxy1.dlut.edu.cn. 86400 IN A 202.118.66.123
+
+avamarproxy1.dlut.edu.cn. 7199 IN A 202.118.66.123
+
+avamarproxy1.dlut.edu.cn. 7199 IN A 202.118.66.123
+
+avamarproxy1.dlut.edu.cn. 7199 IN A 202.118.66.123
+
+avamarproxy2.dlut.edu.cn. 86400 IN A 202.118.66.124
+
+avamarproxy2.dlut.edu.cn. 7199 IN A 202.118.66.124
+
+avamarproxy2.dlut.edu.cn. 7199 IN A 202.118.66.124
+
+avamarproxy2.dlut.edu.cn. 7199 IN A 202.118.66.124
+
+avamarproxy3.dlut.edu.cn. 86400 IN A 202.118.66.125
+
+avamarproxy3.dlut.edu.cn. 7199 IN A 202.118.66.125
+
+avamarproxy4.dlut.edu.cn. 86400 IN A 202.118.66.126
+
+avamarproxy4.dlut.edu.cn. 7199 IN A 202.118.66.126
+
+avamarproxy4.dlut.edu.cn. 7199 IN A 202.118.66.126
+
+avamarproxy5.dlut.edu.cn. 86400 IN A 202.118.66.127
+
+avamarproxy5.dlut.edu.cn. 7199 IN A 202.118.66.127
+
+avamarproxy5.dlut.edu.cn. 7199 IN A 202.118.66.127
+
+avamarproxy5.dlut.edu.cn. 7199 IN A 202.118.66.127
+
+baby.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+baby.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+baby.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+balance2.dlut.edu.cn. 86400 IN A 202.118.66.26
+
+balance2.dlut.edu.cn. 7199 IN A 202.118.66.26
+
+balance2.dlut.edu.cn. 7199 IN A 202.118.66.26
+
+balance2.dlut.edu.cn. 7199 IN A 202.118.66.26
+
+banyan.dlut.edu.cn. 86400 IN CNAME palm.dlut.edu.cn.
+palm.dlut.edu.cn. 7199 IN A 202.118.66.15
+
+bbs.dlut.edu.cn. 53788 IN CNAME rose.dlut.edu.cn.
+rose.dlut.edu.cn. 7199 IN A 202.118.66.5
+
+bbs.dlut.edu.cn. 7199 IN CNAME rose.dlut.edu.cn.
+rose.dlut.edu.cn. 7199 IN A 202.118.66.5
+
+bbs.dlut.edu.cn. 7199 IN CNAME rose.dlut.edu.cn.
+rose.dlut.edu.cn. 7199 IN A 202.118.66.5
+
+bbs.dlut.edu.cn. 7199 IN CNAME rose.dlut.edu.cn.
+rose.dlut.edu.cn. 7199 IN A 202.118.66.5
+
+berry.dlut.edu.cn. 86400 IN A 202.118.66.196
+
+berry.dlut.edu.cn. 7199 IN A 202.118.66.196
+
+berry.dlut.edu.cn. 7199 IN A 202.118.66.196
+
+berry.dlut.edu.cn. 7199 IN A 202.118.66.196
+
+bgw.dlut.edu.cn. 86400 IN A 202.118.66.254
+
+bgw.dlut.edu.cn. 7199 IN A 202.118.66.254
+
+bgw.dlut.edu.cn. 7199 IN A 202.118.66.254
+
+bgw.dlut.edu.cn. 7199 IN A 202.118.66.254
+
+bjpostdoctor.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+bme.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+bme.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+bochuan.dlut.edu.cn. 57348 IN A 202.118.76.180
+
+business.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+business.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+business.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+cache.dlut.edu.cn. 86400 IN A 202.118.66.128
+
+cache.dlut.edu.cn. 7199 IN A 202.118.66.128
+
+cache.dlut.edu.cn. 7199 IN A 202.118.66.128
+
+cache.dlut.edu.cn. 7199 IN A 202.118.66.128
+
+cache1.dlut.edu.cn. 86400 IN A 222.26.160.133
+
+cache1.dlut.edu.cn. 7199 IN A 222.26.160.133
+
+cache1.dlut.edu.cn. 7199 IN A 222.26.160.133
+
+cache1.dlut.edu.cn. 7199 IN A 222.26.160.133
+
+cache2.dlut.edu.cn. 86400 IN A 222.26.160.134
+
+cache2.dlut.edu.cn. 7199 IN A 222.26.160.134
+
+cache2.dlut.edu.cn. 7199 IN A 222.26.160.134
+
+cache2.dlut.edu.cn. 7199 IN A 222.26.160.134
+
+carbon.dlut.edu.cn. 60 IN A 202.118.76.180
+
+carbon.dlut.edu.cn. 60 IN A 202.118.76.180
+
+career.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+career.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ccc2017.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ce.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ceb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ceb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ceb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ceb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ceb-chem.dlut.edu.cn. 71565 IN A 202.118.76.180
+
+ceb-chem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+cedrus.dlut.edu.cn. 86400 IN A 202.118.66.6
+
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+cgbmis.dlut.edu.cn. 86400 IN A 202.118.65.43
+
+cggi.dlut.edu.cn. 83048 IN A 202.118.76.93
+
+cgzb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+changchun.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+chem.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+chemeng.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+chemeng.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+chemlab.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+chuangxin.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+chuangxin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+chuangxin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+chuangxin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+cippus.dlut.edu.cn. 86400 IN A 210.30.96.101
+
+city.dlut.edu.cn. 86400 IN A 210.30.96.42
+city.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+cityczxt.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityczxt.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+citydl.dlut.edu.cn. 86400 IN A 210.30.96.41
+citydl.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+citydzyzdh.dlut.edu.cn. 86400 IN A 210.30.96.41
+citydzyzdh.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+cityftp.dlut.edu.cn. 86400 IN A 210.30.96.41
+cityftp.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+cityftp.dlut.edu.cn. 7199 IN A 210.30.96.42
+cityftp.dlut.edu.cn. 7199 IN A 210.30.96.41
+
+cityftp.dlut.edu.cn. 7199 IN A 210.30.96.42
+cityftp.dlut.edu.cn. 7199 IN A 210.30.96.41
+
+cityftp.dlut.edu.cn. 7199 IN A 210.30.96.42
+cityftp.dlut.edu.cn. 7199 IN A 210.30.96.41
+
+citygl.dlut.edu.cn. 86400 IN A 210.30.96.41
+citygl.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+cityjsj.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityjsj.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+cityjy.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityjy.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+cityjy.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityjy.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityjy.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityjy.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+citymaoism.dlut.edu.cn. 432000 IN A 210.30.96.41
+citymaoism.dlut.edu.cn. 432000 IN A 210.30.96.42
+
+cityryst.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityryst.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+citytsg.dlut.edu.cn. 86400 IN A 210.30.96.42
+citytsg.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+citytw.dlut.edu.cn. 86400 IN A 210.30.96.41
+citytw.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+citytw.dlut.edu.cn. 7199 IN A 210.30.96.42
+citytw.dlut.edu.cn. 7199 IN A 210.30.96.41
+
+citywgy.dlut.edu.cn. 86400 IN A 210.30.96.42
+citywgy.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+citywlgc.dlut.edu.cn. 86400 IN A 210.30.96.41
+citywlgc.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+citywlgc.dlut.edu.cn. 7199 IN A 210.30.96.42
+citywlgc.dlut.edu.cn. 7199 IN A 210.30.96.41
+
+citywlgc.dlut.edu.cn. 7199 IN A 210.30.96.42
+citywlgc.dlut.edu.cn. 7199 IN A 210.30.96.41
+
+cityxhxt.dlut.edu.cn. 86400 IN A 210.30.96.41
+cityxhxt.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+cityxsgz.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityxsgz.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+cityyb.dlut.edu.cn. 86400 IN A 210.30.96.41
+cityyb.dlut.edu.cn. 86400 IN A 210.30.96.42
+
+cityyscm.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityyscm.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+cityzs.dlut.edu.cn. 86400 IN A 210.30.96.42
+cityzs.dlut.edu.cn. 86400 IN A 210.30.96.41
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.41
+cityzs.dlut.edu.cn. 7199 IN A 210.30.96.42
+
+civil.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+civil.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+cm.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dlut.edu.cn<BR>mail.dlut.edu.cn<BR>portal.dlut.edu.cn<BR>sso.dlut.edu.cn<BR>v.dlut.edu.cn<BR>www.dlut.edu.cn. 0 IN A 220.250.64.225
+
+dlut.edu.cn<BR>mail.dlut.edu.cn<BR>portal.dlut.edu.cn<BR>sso.dlut.edu.cn<BR>v.dlut.edu.cn<BR>www.dlut.edu.cn. 60 IN A 220.250.64.225
+
+dlut.edu.cn<BR>mail.dlut.edu.cn<BR>portal.dlut.edu.cn<BR>sso.dlut.edu.cn<BR>v.dlut.edu.cn<BR>www.dlut.edu.cn. 59 IN A 220.250.64.225
+
+dlut.edu.cn<BR>mail.dlut.edu.cn<BR>portal.dlut.edu.cn<BR>sso.dlut.edu.cn<BR>v.dlut.edu.cn<BR>www.dlut.edu.cn. 59 IN A 220.250.64.225
+
+dlut.edu.cn<BR>mail.dlut.edu.cn<BR>portal.dlut.edu.cn<BR>sso.dlut.edu.cn<BR>v.dlut.edu.cn<BR>www.dlut.edu.cn. 59 IN A 220.250.64.225
+
+mail.dlut.edu.cnavamar2.dlut.edu.cn. 0 IN A 220.250.64.225
+
+palm.dlut.edu.cndb.dlut.edu.cn. 0 IN A 220.250.64.225
+
+tmslsyzx.dlut.edu.cndns2.dlut.edu.cn. 0 IN A 220.250.64.225
+
+cnetsci2019.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+avamarproxy4.dlut.edu.cnsso.dlut.edu.cn. 0 IN A 220.250.64.225
+
+sso.dlut.edu.cnstoretest.dlut.edu.cn. 0 IN A 220.250.64.225
+
+mytest.dlut.edu.cnteach.dlut.edu.cn. 0 IN A 220.250.64.225
+
+pjzsjy.dlut.edu.cnwww.dlut.edu.cn. 0 IN A 220.250.64.225
+
+collnet2019.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+cs.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ctf.dlut.edu.cn. 86400 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctf.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+ctfd.dlut.edu.cn. 6206 IN A 202.118.76.180
+
+ctfd.dlut.edu.cn. 6205 IN A 202.118.76.180
+
+ctfd.dlut.edu.cn. 6205 IN A 202.118.76.180
+
+ctfd.dlut.edu.cn. 6205 IN A 202.118.76.180
+
+cw.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+cw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+cwmsweb.dlut.edu.cn. 86400 IN A 202.118.76.235
+
+cypress.dlut.edu.cn. 86400 IN A 202.118.66.202
+
+cypress.dlut.edu.cn. 7199 IN A 202.118.66.202
+
+cypress.dlut.edu.cn. 7199 IN A 202.118.66.202
+
+cypress.dlut.edu.cn. 7199 IN A 202.118.66.202
+
+daisy.dlut.edu.cn. 86400 IN A 202.118.66.7
+
+daisy.dlut.edu.cn. 7199 IN A 202.118.66.7
+
+daisy.dlut.edu.cn. 7199 IN A 202.118.66.7
+
+daisy.dlut.edu.cn. 7199 IN A 202.118.66.7
+
+dangan.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dangan.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dangan.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dangan.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+data.dlut.edu.cn. 86400 IN A 202.118.76.166
+
+data.dlut.edu.cn. 7199 IN A 202.118.76.166
+
+data.dlut.edu.cn. 7199 IN A 202.118.76.166
+
+data.dlut.edu.cn. 7199 IN A 202.118.76.166
+
+data.dlut.edu.cn. 7199 IN A 202.118.76.166
+
+db.dlut.edu.cn. 86400 IN A 202.118.66.9
+
+db.dlut.edu.cn. 7199 IN A 202.118.66.9
+
+db.dlut.edu.cn. 7199 IN A 202.118.66.9
+
+dbji.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dbji.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dd2500.dlut.edu.cn. 86400 IN A 202.118.66.229
+
+dd2500.dlut.edu.cn. 7199 IN A 202.118.66.229
+
+dd2500.dlut.edu.cn. 7199 IN A 202.118.66.229
+
+dd2500.dlut.edu.cn. 7199 IN A 202.118.66.229
+
+denm.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+denm.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dev.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dli.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dli.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dli.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dlutir.dlut.edu.cn. 29394 IN A 202.118.76.225
+
+dlutir.dlut.edu.cn. 7199 IN A 202.118.76.225
+
+dlutir.dlut.edu.cn. 7199 IN A 202.118.76.225
+
+dlutir.dlut.edu.cn. 7199 IN A 202.118.76.225
+
+dms.dlut.edu.cn. 86400 IN A 202.118.65.8
+
+dns1.dlut.edu.cn. 86400 IN CNAME gingko.dlut.edu.cn.
+gingko.dlut.edu.cn. 7199 IN A 202.118.66.8
+
+dns1.dlut.edu.cn. 7199 IN CNAME gingko.dlut.edu.cn.
+gingko.dlut.edu.cn. 7199 IN A 202.118.66.8
+
+dns1.dlut.edu.cn. 7199 IN CNAME gingko.dlut.edu.cn.
+gingko.dlut.edu.cn. 7199 IN A 202.118.66.8
+
+dns1.dlut.edu.cn. 7199 IN CNAME gingko.dlut.edu.cn.
+gingko.dlut.edu.cn. 7199 IN A 202.118.66.8
+
+dns1.dlut.edu.cn. 7199 IN CNAME gingko.dlut.edu.cn.
+gingko.dlut.edu.cn. 7199 IN A 202.118.66.8
+
+dns2.dlut.edu.cn. 86400 IN CNAME cedrus.dlut.edu.cn.
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+dns2.dlut.edu.cn. 7199 IN CNAME cedrus.dlut.edu.cn.
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+dns2.dlut.edu.cn. 7199 IN CNAME cedrus.dlut.edu.cn.
+cedrus.dlut.edu.cn. 7199 IN A 202.118.66.6
+
+drise.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+drise.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dutdice.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dutdice.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dutdice.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dutdice.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dutp.dlut.edu.cn. 54113 IN A 202.118.76.180
+
+dutp.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dutpdownload.dlut.edu.cn. 86400 IN A 202.118.65.141
+
+dutpdownload.dlut.edu.cn. 7199 IN A 202.118.65.141
+
+dutpdownload.dlut.edu.cn. 7199 IN A 202.118.65.141
+
+dutpdownload.dlut.edu.cn. 7199 IN A 202.118.65.141
+
+dutpwj.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dyechem.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+dyechem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ecard.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ecard.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ecoplan.dlut.edu.cn. 86400 IN A 202.118.75.194
+ecoplan.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+eda.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+eda.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+edf.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+edf.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+edf.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+edf.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+edp.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+edp.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ee.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ee.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ee.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ee.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+eee.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+emba.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+en.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+en.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+en.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+en.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+est.dlut.edu.cn. 68324 IN A 202.118.76.180
+
+est.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+eucalypt.dlut.edu.cn. 86400 IN A 202.118.66.61
+
+eucalypt.dlut.edu.cn. 7199 IN A 202.118.66.61
+
+eucalypt.dlut.edu.cn. 7199 IN A 202.118.66.61
+
+eucalypt.dlut.edu.cn. 7199 IN A 202.118.66.61
+
+faculty.dlut.edu.cn. 68382 IN A 202.118.76.205
+
+faculty.dlut.edu.cn. 7199 IN A 202.118.76.205
+
+faculty.dlut.edu.cn. 7199 IN A 202.118.76.205
+
+faculty.dlut.edu.cn. 7199 IN A 202.118.76.205
+
+faculty-en.dlut.edu.cn. 86400 IN A 202.118.76.205
+
+fc973.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+fc973.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fg.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+fg.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fg.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fg.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fg.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fg.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fhss.dlut.edu.cn. 60 IN A 202.118.76.180
+
+fhss.dlut.edu.cn. 59 IN A 202.118.76.180
+
+filesmftv.dlut.edu.cn. 86400 IN A 202.118.65.134
+
+filesmftv.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+filesmftv.dlut.edu.cn. 7199 IN A 202.118.65.134
+
+finechem.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+finechem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+finechem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+finechem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fir.dlut.edu.cn. 86400 IN A 202.118.66.198
+
+fir.dlut.edu.cn. 7199 IN A 202.118.66.198
+
+fir.dlut.edu.cn. 7199 IN A 202.118.66.198
+
+fir.dlut.edu.cn. 7199 IN A 202.118.66.198
+
+fld.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+fld.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fld.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fld.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fld.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fld.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fme.dlut.edu.cn. 72819 IN A 202.118.76.180
+
+fme.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fme.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+frcfm.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+frcfm.dlut.edu.cn. 7199 IN A 202.118.65.108
+
+ftp.dlut.edu.cn. 86400 IN A 202.118.65.164
+
+ftp.dlut.edu.cn. 7199 IN A 202.118.65.164
+
+ftp.dlut.edu.cn. 7199 IN A 202.118.65.164
+
+ftp.dlut.edu.cn. 7199 IN A 202.118.65.164
+
+fwjxgl.dlut.edu.cn. 86400 IN A 202.118.65.94
+
+fx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+fx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+fzll.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+gach.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+gach.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+gbkh.dlut.edu.cn. 86400 IN A 202.118.65.18
+
+gcxl.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+gdjyyjzx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+gdjyyjzx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+gfy.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gingko.dlut.edu.cn. 7192 IN A 202.118.66.8
+
+gonghui.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+gonghuipj.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+grape.dlut.edu.cn. 86400 IN A 202.118.66.201
+
+grape.dlut.edu.cn. 7199 IN A 202.118.66.201
+
+grape.dlut.edu.cn. 7199 IN A 202.118.66.201
+
+grape.dlut.edu.cn. 7199 IN A 202.118.66.201
+
+gs.dlut.edu.cn. 22105 IN A 202.118.76.180
+
+gs.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+gs.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+gs.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+gs1.dlut.edu.cn. 15706 IN A 202.118.65.61
+
+gs1.dlut.edu.cn. 7199 IN A 202.118.65.61
+
+gs1.dlut.edu.cn. 7199 IN A 202.118.65.61
+
+gs1.dlut.edu.cn. 7199 IN A 202.118.65.61
+
+guodong.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+guodong.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+gxpt.dlut.edu.cn. 86400 IN A 202.118.65.9
+
+gztc.dlut.edu.cn. 86400 IN A 202.118.65.44
+
+h-membrane.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+hazel.dlut.edu.cn. 86400 IN A 202.118.66.2
+
+hazel.dlut.edu.cn. 7199 IN A 202.118.66.2
+
+hazel.dlut.edu.cn. 7199 IN A 202.118.66.2
+
+hazel.dlut.edu.cn. 7199 IN A 202.118.66.2
+
+hiya.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+houqin.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+houqin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+houqin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+houqin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+hpc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+hpc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+hpcacct.dlut.edu.cn. 86400 IN A 202.118.65.48
+
+hpcacct.dlut.edu.cn. 7199 IN A 202.118.65.48
+
+hpcacct.dlut.edu.cn. 7199 IN A 202.118.65.48
+
+huodong.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+huodong.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+hyxy.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+hyxy.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ice.dlut.edu.cn. 69388 IN A 202.118.76.180
+
+ice.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ice.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ice.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+icome2019.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+idp.dlut.edu.cn. 86400 IN A 202.118.72.75
+
+idp.dlut.edu.cn. 7199 IN A 202.118.72.75
+
+idp.dlut.edu.cn. 7199 IN A 202.118.72.75
+
+idp.dlut.edu.cn. 7199 IN A 202.118.72.75
+
+idp.dlut.edu.cn. 7199 IN A 202.118.72.75
+
+ieee.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+iest.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+img.dlut.edu.cn. 86400 IN A 202.118.65.51
+
+imooc.dlut.edu.cn. 86400 IN A 202.118.65.199
+
+imooc.dlut.edu.cn. 7199 IN A 202.118.65.199
+
+imoocapp.dlut.edu.cn. 86400 IN A 202.118.65.199
+
+imoocapp.dlut.edu.cn. 7199 IN A 202.118.65.199
+
+imoocapp.dlut.edu.cn. 7199 IN A 202.118.65.199
+
+imooci.dlut.edu.cn. 86400 IN A 202.118.65.199
+
+imoocmsg.dlut.edu.cn. 51146 IN A 202.118.65.199
+
+info.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+info.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+inv.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ip.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ip.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ips.dlut.edu.cn. 86400 IN A 202.118.65.37
+
+ir.dlut.edu.cn. 86400 IN A 202.118.75.18
+
+ir.dlut.edu.cn. 7199 IN A 202.118.75.18
+
+ishpmie.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+ismeg2019.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+iso.dlut.edu.cn. 86400 IN CNAME dns.lface.org.
+dns.lface.org. 222 IN A 123.127.134.6
+
+itp.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+its.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+its.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+its.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+its.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+itspj.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+jasmine.dlut.edu.cn. 86400 IN A 202.118.66.200
+
+jasmine.dlut.edu.cn. 7199 IN A 202.118.66.200
+
+jasmine.dlut.edu.cn. 7199 IN A 202.118.66.200
+
+jasmine.dlut.edu.cn. 7199 IN A 202.118.66.200
+
+jgdw.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+jgdw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jgdw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jgdw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jingjia.dlut.edu.cn. 86400 IN A 202.118.65.76
+
+jjc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+jjc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jjw.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+jjw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jjw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jjw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+jmcs.dlut.edu.cn. 86400 IN A 202.118.65.130
+
+jmre.dlut.edu.cn. 6493 IN A 202.118.65.62
+
+jmre.dlut.edu.cn. 6492 IN A 202.118.65.62
+
+jmre.dlut.edu.cn. 6492 IN A 202.118.65.62
+
+jmre.dlut.edu.cn. 6492 IN A 202.118.65.62
+
+jmre.dlut.edu.cn. 6492 IN A 202.118.65.62
+
+job.dlut.edu.cn. 86400 IN A 202.118.65.2
+
+jzjjgwh.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+labplpc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+landscapedesign.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+lib.dlut.edu.cn. 318985 IN A 202.118.76.180
+
+lib.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+lib.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+lib.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+etd.lib.dlut.edu.cn. 234272 IN A 202.118.72.110
+
+ftp.lib.dlut.edu.cn. 318986 IN A 202.118.72.13
+
+il2019.lib.dlut.edu.cn. 604800 IN A 202.118.72.80
+
+opac.lib.dlut.edu.cn. 318987 IN A 202.118.72.80
+
+opac.lib.dlut.edu.cn. 7199 IN A 202.118.72.80
+
+www.lib.dlut.edu.cn. 318987 IN A 202.118.76.180
+
+www.lib.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+www.lib.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+www.lib.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+life.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+life.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+life.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+life.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+lingxi.dlut.edu.cn. 57327 IN A 202.118.76.180
+
+lis.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+lists.dlut.edu.cn. 16171 IN A 202.118.65.160
+
+lists.dlut.edu.cn. 7199 IN A 202.118.65.160
+
+lists.dlut.edu.cn. 7199 IN A 202.118.65.160
+
+lists.dlut.edu.cn. 7199 IN A 202.118.65.160
+
+lists.dlut.edu.cn. 7199 IN A 202.118.65.160
+
+lists.dlut.edu.cn. 7199 IN A 202.118.65.160
+
+liuyi-group.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+lixiao.dlut.edu.cn. 86400 IN A 202.118.65.118
+
+loec.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+loec.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ltgl.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ltgl.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+lx.dlut.edu.cn. 86400 IN A 202.118.65.20
+
+lxh.dlut.edu.cn. 86400 IN A 202.118.70.18
+
+lxh.dlut.edu.cn. 7199 IN A 202.118.70.18
+
+lxh.dlut.edu.cn. 7199 IN A 202.118.70.18
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+NXDOMAIN for m.dlut.edu.cn
+
+apps-xiaoyuan.m.dlut.edu.cn. 86400 IN A 202.118.76.159
+
+cityzs.dlut.edu.cnwww.m.dlut.edu.cn. 0 IN A 220.250.64.225
+
+lightapp.m.dlut.edu.cn. 86400 IN A 202.118.76.155
+
+service.m.dlut.edu.cn. 77142 IN A 202.118.76.150
+
+service.m.dlut.edu.cn. 7199 IN A 202.118.76.150
+
+service.m.dlut.edu.cn. 7199 IN A 202.118.76.150
+
+service.m.dlut.edu.cn. 7199 IN A 202.118.76.150
+
+store.m.dlut.edu.cn. 86400 IN A 202.118.76.152
+
+www.m.dlut.edu.cn. 0 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 60 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 59 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 59 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 59 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 59 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 59 IN A 220.250.64.225
+
+www.m.dlut.edu.cn. 59 IN A 220.250.64.225
+
+mail.dlut.edu.cn. 83982 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+mail.dlut.edu.cn. 7199 IN A 202.118.66.82
+
+NXDOMAIN for mail3.dlut.edu.cn
+
+NXDOMAIN for mail3.dlut.edu.cn
+
+NXDOMAIN for mail3.dlut.edu.cn
+
+NXDOMAIN for mail3.dlut.edu.cn
+
+map.dlut.edu.cn. 86400 IN A 202.118.65.74
+
+marx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+marx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+marx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+math.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+math.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+math.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+math.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+matpro.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mba.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mba.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mba.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mba.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mbaglxt.dlut.edu.cn. 86400 IN A 202.118.65.78
+
+mbaglxt.dlut.edu.cn. 7199 IN A 202.118.65.78
+
+mbaglxt.dlut.edu.cn. 7199 IN A 202.118.65.78
+
+mbaglxt.dlut.edu.cn. 7199 IN A 202.118.65.78
+
+mcareer.dlut.edu.cn. 47169 IN A 202.118.65.101
+
+mcareer.dlut.edu.cn. 7199 IN A 202.118.65.101
+
+mcareer.dlut.edu.cn. 7199 IN A 202.118.65.101
+
+mcareer.dlut.edu.cn. 7199 IN A 202.118.65.101
+
+meeting.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+meeting.dlut.edu.cn. 7199 IN A 202.118.65.108
+
+meme.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mirror.dlut.edu.cn. 86400 IN A 202.118.65.164
+
+mirror.dlut.edu.cn. 7199 IN A 202.118.65.164
+
+mirror.dlut.edu.cn. 7199 IN A 202.118.65.164
+
+mirror.dlut.edu.cn. 7199 IN A 202.118.65.164
+
+mmlab.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mmlab.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mmm.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mmm.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mnstlab.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mnstlab.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+molcatal.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mooc.dlut.edu.cn. 86400 IN A 202.118.65.199
+
+mooc.dlut.edu.cn. 7199 IN A 202.118.65.199
+
+mooc.dlut.edu.cn. 7199 IN A 202.118.65.199
+
+mooc.dlut.edu.cn. 7199 IN A 202.118.65.199
+
+mpa.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mpa.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mpa.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mpa.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mrtg.dlut.edu.cn. 86400 IN CNAME peach.dlut.edu.cn.
+peach.dlut.edu.cn. 7199 IN A 202.118.66.17
+
+ms.dlut.edu.cn. 86400 IN A 202.118.65.111
+
+mse.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+mse.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+mttse2019.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+NXDOMAIN for mx.dlut.edu.cn
+
+NXDOMAIN for mx.dlut.edu.cn
+
+NXDOMAIN for mx.dlut.edu.cn
+
+NXDOMAIN for mx.dlut.edu.cn
+
+mx1.dlut.edu.cn. 14970 IN A 202.118.66.80
+
+mx1.dlut.edu.cn. 7199 IN A 202.118.66.80
+
+mx1.dlut.edu.cn. 7199 IN A 202.118.66.80
+
+mx1.dlut.edu.cn. 7199 IN A 202.118.66.80
+
+mx1.dlut.edu.cn. 7199 IN A 202.118.66.80
+
+mx1.dlut.edu.cn. 7199 IN A 202.118.66.80
+
+mx2.dlut.edu.cn. 14970 IN A 202.118.66.81
+
+mx2.dlut.edu.cn. 7199 IN A 202.118.66.81
+
+mx2.dlut.edu.cn. 7199 IN A 202.118.66.81
+
+mx2.dlut.edu.cn. 7199 IN A 202.118.66.81
+
+mx2.dlut.edu.cn. 7199 IN A 202.118.66.81
+
+mytest.dlut.edu.cn. 86400 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+mytest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+naoe.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+naoe.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ncpst19.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+soft.net.dlut.edu.cn. 86400 IN A 202.118.65.164
+
+news.dlut.edu.cn. 82972 IN A 202.118.76.227
+
+news.dlut.edu.cn. 7199 IN A 202.118.76.227
+
+news.dlut.edu.cn. 7199 IN A 202.118.76.227
+
+news.dlut.edu.cn. 7199 IN A 202.118.76.227
+
+news.dlut.edu.cn. 7199 IN A 202.118.76.227
+
+admin.noc.dlut.edu.cn. 0 IN A 220.250.64.225
+
+admin.noc.dlut.edu.cn. 60 IN A 220.250.64.225
+
+admin.noc.dlut.edu.cn. 59 IN A 220.250.64.225
+
+admin.noc.dlut.edu.cn. 59 IN A 220.250.64.225
+
+ns1.dlut.edu.cn. 86400 IN A 202.118.66.27
+
+ns1.dlut.edu.cn. 7199 IN A 202.118.66.27
+
+ns1.dlut.edu.cn. 7199 IN A 202.118.66.27
+
+ns1.dlut.edu.cn. 7199 IN A 202.118.66.27
+
+ns2.dlut.edu.cn. 86400 IN A 202.118.66.28
+
+ns2.dlut.edu.cn. 7199 IN A 202.118.66.28
+
+ns2.dlut.edu.cn. 7199 IN A 202.118.66.28
+
+ns2.dlut.edu.cn. 7199 IN A 202.118.66.28
+
+ns3.dlut.edu.cn. 86400 IN A 202.118.66.29
+
+ns3.dlut.edu.cn. 7199 IN A 202.118.66.29
+
+ns3.dlut.edu.cn. 7199 IN A 202.118.66.29
+
+ns3.dlut.edu.cn. 7199 IN A 202.118.66.29
+
+ns4.dlut.edu.cn. 86400 IN A 202.118.66.30
+
+ns4.dlut.edu.cn. 7199 IN A 202.118.66.30
+
+ns4.dlut.edu.cn. 7199 IN A 202.118.66.30
+
+ns4.dlut.edu.cn. 7199 IN A 202.118.66.30
+
+oa.dlut.edu.cn. 86400 IN A 202.118.65.34
+
+oa.dlut.edu.cn. 7199 IN A 202.118.65.34
+
+oa.dlut.edu.cn. 7199 IN A 202.118.65.34
+
+oa.dlut.edu.cn. 7199 IN A 202.118.65.34
+
+oeis.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+oeis.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+office.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+office.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+dns.online.dlut.edu.cn. 0 IN A 220.250.64.225
+
+dns.online.dlut.edu.cn. 60 IN A 220.250.64.225
+
+dns.online.dlut.edu.cn. 59 IN A 220.250.64.225
+
+dns.online.dlut.edu.cn. 59 IN A 220.250.64.225
+
+palm.dlut.edu.cn. 7172 IN A 202.118.66.15
+
+palm.dlut.edu.cn. 7172 IN A 202.118.66.15
+
+palm.dlut.edu.cn. 7172 IN A 202.118.66.15
+
+palm.dlut.edu.cn. 7172 IN A 202.118.66.15
+
+pan.dlut.edu.cn. 67511 IN A 202.118.66.141
+
+pan.dlut.edu.cn. 7199 IN A 202.118.66.141
+
+pan.dlut.edu.cn. 7199 IN A 202.118.66.141
+
+pan.dlut.edu.cn. 7199 IN A 202.118.66.141
+
+panjin.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+panjin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+panjin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+panjin.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+panjinkeyan.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+passport2-api.dlut.edu.cn. 69294 IN A 202.118.65.199
+
+patent.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pay.dlut.edu.cn. 86400 IN A 202.118.65.85
+
+pay.dlut.edu.cn. 7199 IN A 202.118.65.85
+
+pay.dlut.edu.cn. 7199 IN A 202.118.65.85
+
+pay.dlut.edu.cn. 7199 IN A 202.118.65.85
+
+peach.dlut.edu.cn. 7198 IN A 202.118.66.17
+
+peach.dlut.edu.cn. 7198 IN A 202.118.66.17
+
+peach.dlut.edu.cn. 7198 IN A 202.118.66.17
+
+peach.dlut.edu.cn. 7198 IN A 202.118.66.17
+
+peach.dlut.edu.cn. 7198 IN A 202.118.66.17
+
+pear.dlut.edu.cn. 86400 IN A 202.118.66.89
+
+pear.dlut.edu.cn. 7199 IN A 202.118.66.89
+
+pear.dlut.edu.cn. 7199 IN A 202.118.66.89
+
+pear.dlut.edu.cn. 7199 IN A 202.118.66.89
+
+peng-group.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+peony.dlut.edu.cn. 86400 IN A 202.118.66.18
+
+peony.dlut.edu.cn. 7199 IN A 202.118.66.18
+
+peony.dlut.edu.cn. 7199 IN A 202.118.66.18
+
+peony.dlut.edu.cn. 7199 IN A 202.118.66.18
+
+perdep.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+perdep.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+phoenix.dlut.edu.cn. 86400 IN A 202.118.66.208
+
+phoenix.dlut.edu.cn. 7199 IN A 202.118.66.208
+
+phoenix.dlut.edu.cn. 7199 IN A 202.118.66.208
+
+phoenix.dlut.edu.cn. 7199 IN A 202.118.66.208
+
+photochem.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+phyedu.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+phyedu.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+phyedu.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+physics.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+physics.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+physics.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pine.dlut.edu.cn. 86400 IN A 202.118.66.19
+
+pine.dlut.edu.cn. 7199 IN A 202.118.66.19
+
+pine.dlut.edu.cn. 7199 IN A 202.118.66.19
+
+pine.dlut.edu.cn. 7199 IN A 202.118.66.19
+
+pjcareer.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjenglish.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjfxcszx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjfxcszx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjfxcszx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjfxcszx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjlib.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjlsm.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjlsm.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjoia.dlut.edu.cn. 57322 IN A 202.118.76.180
+
+pjoia.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjoia.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjoia.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjpce.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjpce.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjrlzydqgzb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjsci.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjsci.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjsci.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjsci.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjteach.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjteach.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjxqcwbgs.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjxqtw.dlut.edu.cn. 85531 IN A 202.118.76.180
+
+pjxqtw.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjxqzwb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjxqzwb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjxsgzb.dlut.edu.cn. 86400 IN A 202.118.65.3
+
+pjxsgzb.dlut.edu.cn. 7199 IN A 202.118.65.3
+
+pjyjy.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjzsjy.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+pjzsjy.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjzsjy.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+pjzsjy.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+plasmaphys.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+polyhedron.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+port.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+port.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+port.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+port.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+portal.dlut.edu.cn. 1800 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+portal.dlut.edu.cn. 1799 IN A 202.118.76.185
+
+postdoctor.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+power.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+power.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+press.dlut.edu.cn. 86400 IN A 202.118.65.89
+
+press.dlut.edu.cn. 7199 IN A 202.118.65.89
+
+press.dlut.edu.cn. 7199 IN A 202.118.65.89
+
+press.dlut.edu.cn. 7199 IN A 202.118.65.89
+
+prunus.dlut.edu.cn. 86400 IN A 202.118.66.4
+
+prunus.dlut.edu.cn. 7199 IN A 202.118.66.4
+
+prunus.dlut.edu.cn. 7199 IN A 202.118.66.4
+
+prunus.dlut.edu.cn. 7199 IN A 202.118.66.4
+
+pseg.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+psy.dlut.edu.cn. 86400 IN A 202.118.65.19
+
+rc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+rc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+rc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+rc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+rcd.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+rcd.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+rcd.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+recruit.dlut.edu.cn. 0 IN A 220.250.64.225
+
+recruit.dlut.edu.cn. 60 IN A 220.250.64.225
+
+recruit.dlut.edu.cn. 59 IN A 220.250.64.225
+
+renwen.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+renwen.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+rose.dlut.edu.cn. 7170 IN A 202.118.66.5
+
+rose.dlut.edu.cn. 7170 IN A 202.118.66.5
+
+rose.dlut.edu.cn. 7170 IN A 202.118.66.5
+
+rose.dlut.edu.cn. 7170 IN A 202.118.66.5
+
+rose.dlut.edu.cn. 7170 IN A 202.118.66.5
+
+rszp.dlut.edu.cn. 86400 IN A 202.118.65.244
+
+sae.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sae.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+saelab.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sail.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sail.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sail.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sail.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sche.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sche.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sche.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sche.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+scidep.dlut.edu.cn. 69538 IN A 202.118.76.180
+
+scidep.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+scm.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+scse.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+scse.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+search.dlut.edu.cn. 86400 IN A 202.118.66.178
+
+search.dlut.edu.cn. 7199 IN A 202.118.66.178
+
+search.dlut.edu.cn. 7199 IN A 202.118.66.178
+
+search.dlut.edu.cn. 7199 IN A 202.118.66.178
+
+sei.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sem.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sem.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sfe.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sfsc.dlut.edu.cn. 86400 IN A 202.118.65.108
+
+share.dlut.edu.cn. 86400 IN A 202.118.65.117
+
+she.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+she.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+shebei.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+shebei.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+shebei2011.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+shzx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sie.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sie.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sie.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sie.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sie.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sie.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sipesc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sipesc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sjc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sjc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+slcoe.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+slcoe.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sme.dlut.edu.cn. 50043 IN A 202.118.76.180
+
+sme.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+smedut.dlut.edu.cn. 78267 IN A 202.118.76.180
+
+smedut.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+solar.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+solar.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+sports.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+sports.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+spst.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+spst.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ss.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+ssdut.dlut.edu.cn. 5311 IN A 202.118.76.180
+
+ssdut.dlut.edu.cn. 5310 IN A 202.118.76.180
+
+ssdut.dlut.edu.cn. 5310 IN A 202.118.76.180
+
+ssdut.dlut.edu.cn. 5310 IN A 202.118.76.180
+
+sso.dlut.edu.cn. 53777 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+sso.dlut.edu.cn. 7199 IN A 202.118.76.195
+
+storetest.dlut.edu.cn. 86400 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+storetest.dlut.edu.cn. 7199 IN A 58.155.209.24
+
+stujxgl.dlut.edu.cn. 86400 IN A 202.118.65.96
+
+sz.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+talent.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+talent.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+teach.dlut.edu.cn. 79685 IN A 202.118.76.180
+
+teach.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+teach.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+teach.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+teach.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+teajxgl.dlut.edu.cn. 86400 IN A 202.118.65.95
+
+techdep.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+techdep.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+techdep.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+tmslsyzx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+trans.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+tuanwei.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+tuanwei.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+tv.dlut.edu.cn. 86400 IN A 202.118.65.51
+
+tycgzx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+tycgzx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+tyg.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+tzb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+tzb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+tzb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+tzb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+v.dlut.edu.cn. 1800 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+v.dlut.edu.cn. 1799 IN A 211.140.198.196
+
+vehicle.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+vehicle.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+vehicle.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+video.dlut.edu.cn. 86400 IN A 202.118.76.124
+
+video.dlut.edu.cn. 7199 IN A 202.118.76.124
+
+video.dlut.edu.cn. 7199 IN A 202.118.76.124
+
+vod.dlut.edu.cn. 86400 IN A 202.118.65.145
+vod.dlut.edu.cn. 86400 IN A 202.118.65.144
+vod.dlut.edu.cn. 86400 IN A 202.118.65.146
+vod.dlut.edu.cn. 86400 IN A 202.118.65.143
+
+vod.dlut.edu.cn. 7199 IN A 202.118.65.143
+vod.dlut.edu.cn. 7199 IN A 202.118.65.146
+vod.dlut.edu.cn. 7199 IN A 202.118.65.144
+vod.dlut.edu.cn. 7199 IN A 202.118.65.145
+
+vod.dlut.edu.cn. 7199 IN A 202.118.65.143
+vod.dlut.edu.cn. 7199 IN A 202.118.65.146
+vod.dlut.edu.cn. 7199 IN A 202.118.65.144
+vod.dlut.edu.cn. 7199 IN A 202.118.65.145
+
+water.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+webvpn.dlut.edu.cn. 84114 IN A 202.118.65.216
+
+webvpn.dlut.edu.cn. 7199 IN A 202.118.65.216
+
+webvpn.dlut.edu.cn. 7199 IN A 202.118.65.216
+
+webvpn.dlut.edu.cn. 7199 IN A 202.118.65.216
+
+webvpn.dlut.edu.cn. 7199 IN A 202.118.65.216
+
+webvpn.dlut.edu.cn. 7199 IN A 202.118.65.216
+
+wenfa.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+willow.dlut.edu.cn. 86400 IN A 202.118.66.191
+
+willow.dlut.edu.cn. 7199 IN A 202.118.66.191
+
+willow.dlut.edu.cn. 7199 IN A 202.118.66.191
+
+willow.dlut.edu.cn. 7199 IN A 202.118.66.191
+
+wiselab.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+wiselab.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+www.dlut.edu.cn. 53195 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www.dlut.edu.cn. 7199 IN A 202.118.66.66
+
+www-db.dlut.edu.cn. 86400 IN A 202.118.66.31
+
+www-db.dlut.edu.cn. 7199 IN A 202.118.66.31
+
+www3.dlut.edu.cn. 86400 IN A 202.118.66.34
+
+www3.dlut.edu.cn. 7199 IN A 202.118.66.34
+
+www3.dlut.edu.cn. 7199 IN A 202.118.66.34
+
+www3.dlut.edu.cn. 7199 IN A 202.118.66.34
+
+wwwold.dlut.edu.cn. 86400 IN A 202.118.66.34
+
+xbsk.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xbsk.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xcb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xcb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xkb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xkb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xkpj.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xkpj.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xlzx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xlzx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xsc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xsgzb.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xsgzb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xsgzb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xsgzb.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+xswyh.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xszc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+xygzc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+yagoo.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+yagoo.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+yjs.dlut.edu.cn. 65974 IN A 202.118.76.180
+
+yjs.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+ysfwzx.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+yx.dlut.edu.cn. 79685 IN A 202.118.76.180
+
+yx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+yx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+yx.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+yxxt.dlut.edu.cn. 86400 IN A 202.118.65.22
+
+yzalumni.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zcglc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zczhanggroupdlut.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zdysc.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zdysc.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+zizhu.dlut.edu.cn. 86400 IN A 202.118.76.172
+
+zizhu.dlut.edu.cn. 7199 IN A 202.118.76.172
+
+zizhu.dlut.edu.cn. 7199 IN A 202.118.76.172
+
+zs.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zs.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+zsb.dlut.edu.cn. 86400 IN A 202.118.65.79
+
+zsb.dlut.edu.cn. 7199 IN A 202.118.65.79
+
+zsb.dlut.edu.cn. 7199 IN A 202.118.65.79
+
+zsb.dlut.edu.cn. 7199 IN A 202.118.65.79
+
+zuzhibu.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zuzhibu.dlut.edu.cn. 7199 IN A 202.118.76.180
+
+zzbgs.dlut.edu.cn. 86400 IN A 202.118.76.180
+
+zzbgs.dlut.edu.cn. 7199 IN A 202.118.76.180
+

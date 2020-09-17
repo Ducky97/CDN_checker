@@ -1,0 +1,637 @@
+NXDOMAIN for webvpn.hnu.edu.cnhnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+NXDOMAIN for hnu.edu.cn
+
+1000.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+1000.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+acadol.hnu.edu.cn. 86400 IN A 222.240.166.12
+
+acadol.hnu.edu.cn. 7199 IN A 222.240.166.12
+
+admi.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+arch.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+arch.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+bigdata.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+bio.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+bio.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+cbsc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+cbsc.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+cc.hnu.edu.cn. 77635 IN A 58.20.46.196
+
+cc.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+ce.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+cefms.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+cet.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+cet.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+chrem.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+cj.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+cj.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+cj.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+clxy.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+clxy.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+NXDOMAIN for hnu.edu.cnpt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for grjl.hnu.edu.cnpt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cn<BR>www.hnu.edu.cn
+
+NXDOMAIN for hdzs.hnu.edu.cnce.hnu.edu.cn
+
+NXDOMAIN for pt.hnu.edu.cndns.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cndns.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cngp.hnu.edu.cn
+
+NXDOMAIN for webvpn.hnu.edu.cnhdzs.hnu.edu.cn
+
+NXDOMAIN for dns.hnu.edu.cnpt.hnu.edu.cn
+
+NXDOMAIN for webvpn.hnu.edu.cnsmtp.hnu.edu.cn
+
+NXDOMAIN for hdzs.hnu.edu.cnwww.hnu.edu.cn
+
+csee.hnu.edu.cn. 179 IN A 58.20.46.196
+
+csee.hnu.edu.cn. 178 IN A 58.20.46.196
+
+csee.hnu.edu.cn. 178 IN A 58.20.46.196
+
+dag.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+design.hnu.edu.cn. 67728 IN A 58.20.46.196
+
+design.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+design.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+dmvb.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+dns.hnu.edu.cn. 12723 IN A 210.43.96.254
+
+dns.hnu.edu.cn. 7199 IN A 210.43.96.254
+
+dns.hnu.edu.cn. 7199 IN A 210.43.96.254
+
+dns.hnu.edu.cn. 7199 IN A 210.43.96.254
+
+dns.hnu.edu.cn. 7199 IN A 210.43.96.254
+
+dns.hnu.edu.cn. 7199 IN A 210.43.96.254
+
+dns.hnu.edu.cn. 7199 IN A 210.43.96.254
+
+dns2.hnu.edu.cn. 86400 IN A 61.187.64.2
+
+dns2.hnu.edu.cn. 7199 IN A 61.187.64.2
+
+dns3.hnu.edu.cn. 86400 IN A 210.43.97.1
+
+dns3.hnu.edu.cn. 7199 IN A 210.43.97.1
+
+edp.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+edrc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+edrc.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+edrc.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+edu.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+edu.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+ee.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+ee.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+eeit.hnu.edu.cn. 82926 IN A 58.20.46.196
+
+eeit.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+eeit.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+emba.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+emsc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+english.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+esnl.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+etet.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+etet.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+fangkong.hnu.edu.cn. 30499 IN A 202.197.98.24
+
+ggw.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+gjxy.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+gp.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+gra.hnu.edu.cn. 19166 IN A 58.20.46.196
+
+gra.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 66122 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+grjl.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+gym.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+hdjw.hnu.edu.cn. 65589 IN A 58.20.46.196
+
+hdjw.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+hdskc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+hdsw.hnu.edu.cn. 66375 IN A 58.20.46.196
+
+hdsw.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+hdzs.hnu.edu.cn. 86400 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hdzs.hnu.edu.cn. 7199 IN A 202.197.98.15
+
+hlw.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+hnuef.hnu.edu.cn. 82926 IN A 58.20.46.196
+
+hnuinfor.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+hnuxyy.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+hospital.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+hqfw.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+ibschool.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+ibschool.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+ibschool-en.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+iccs.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+icnc-fskd.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+infats.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+its.hnu.edu.cn. 82925 IN A 58.20.46.196
+
+its-diy.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+its-diy.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+jobs.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+jobs.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+jsb.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+jt.hnu.edu.cn. 67084 IN A 58.20.46.196
+
+jt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+jwc.hnu.edu.cn. 10863 IN A 58.20.46.196
+
+jwc.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+jxjyjd.hnu.edu.cn. 86400 IN A 222.240.166.11
+
+kjy.hnu.edu.cn. 77590 IN A 58.20.46.196
+
+law.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+law.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+lib.hnu.edu.cn. 60331 IN A 58.20.46.196
+
+lib.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+lib-wx.hnu.edu.cn. 76512 IN A 58.20.46.196
+
+lkjd.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+ltxc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+lx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+lzw.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+lzw.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+mail.hnu.edu.cn. 86400 IN CNAME tp.exmail.qq.com.
+tp.exmail.qq.com. 305 IN A 163.177.89.176
+
+mail.hnu.edu.cn. 7199 IN CNAME tp.exmail.qq.com.
+tp.exmail.qq.com. 305 IN A 163.177.89.176
+
+marx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+math.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+mba.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+miea.hnu.edu.cn. 85601 IN A 58.20.46.196
+
+mlib.hnu.edu.cn. 86400 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 362 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+5read.aichaoxing.com. 9 IN A 42.62.107.229
+5read.aichaoxing.com. 9 IN A 42.62.107.226
+5read.aichaoxing.com. 9 IN A 140.210.72.6
+
+mve.hnu.edu.cn. 80119 IN A 58.20.46.196
+
+mve.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+nanobio.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+nanobio.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+nanophotonics.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+nanophotonics.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+nanophotonics.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+news.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+news.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+nscc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+opac.hnu.edu.cn. 60340 IN A 58.20.46.196
+
+opac.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pa.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+pa.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+peixun.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+pgfz.hnu.edu.cn. 85249 IN A 58.20.46.196
+
+portal.hnu.edu.cn. 66733 IN A 58.20.46.196
+
+portal.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+postdoctor.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+postdoctor.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 85536 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+pt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+qks.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+res.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+robotics.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+robotics.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+rsc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+run.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+run.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+NXDOMAIN for run.hnu.edu.cn<BR>www.run.hnu.edu.cn
+
+sbgx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+sbgx.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+scc.hnu.edu.cn. 8751 IN A 58.20.46.196
+
+scc.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+sczx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+sjc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+sjxzxx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+smtp.hnu.edu.cn. 86400 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+smtp.hnu.edu.cn. 7199 IN CNAME smtp.exmail.qq.com.
+smtp.exmail.qq.com. 381 IN A 163.177.90.125
+smtp.exmail.qq.com. 381 IN A 157.255.245.108
+smtp.exmail.qq.com. 381 IN A 58.251.82.205
+
+spe.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+spe.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+sports.hnu.edu.cn. 69503 IN A 58.20.46.196
+
+syzx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+szc.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+tdxlss.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+tmsyzx.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+vlib.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+vod.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+vpn.hnu.edu.cn. 14735 IN A 58.20.46.199
+
+vpn.hnu.edu.cn. 7199 IN A 58.20.46.199
+
+vpntest.hnu.edu.cn. 86400 IN A 222.240.162.61
+
+vpntest.hnu.edu.cn. 7199 IN A 222.240.162.61
+
+webmail.hnu.edu.cn. 86400 IN A 58.20.46.196
+
+webvpn.hnu.edu.cn. 3600 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+webvpn.hnu.edu.cn. 3599 IN A 202.197.98.124
+
+weixin.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+wenku.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+wsc.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+www.hnu.edu.cn. 29600 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www.hnu.edu.cn. 7199 IN A 202.197.98.24
+
+www-en.hnu.edu.cn. 82922 IN A 58.20.46.196
+
+www-en.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+wxy.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+wxy.hnu.edu.cn. 3599 IN A 58.20.46.196
+
+xb.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+xcb.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+xinwen.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+xsbd.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+xxgk.hnu.edu.cn. 75885 IN A 58.20.46.196
+
+xxgk.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+xysf.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+xyzh.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+ygb.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+ygfw.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+yjsxt.hnu.edu.cn. 26357 IN A 58.20.46.196
+
+yjsxt.hnu.edu.cn. 7199 IN A 58.20.46.196
+
+ylsy.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+ylsy.hnu.edu.cn. 3599 IN A 58.20.46.196
+
+yssyzx.hnu.edu.cn. 86000 IN A 58.20.46.196
+
+zbt.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+zcglxt.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+zcglxt.hnu.edu.cn. 3599 IN A 58.20.46.196
+
+zcgs.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+zczx.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+zgskxyj.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+zikao.hnu.edu.cn. 3600 IN A 58.20.46.196
+
+NXDOMAIN for zwhd.hnu.edu.cn
+
+zys.hnu.edu.cn. 86400 IN A 58.20.46.196
+

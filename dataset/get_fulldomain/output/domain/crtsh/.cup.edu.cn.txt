@@ -1,0 +1,7 @@
+*.cup.edu.cn
+eserv.cup.edu.cn
+imgeserv.cup.edu.cn
+me.cup.edu.cn
+menhu.cup.edu.cn
+portal.cup.edu.cn
+sso.cup.edu.cn

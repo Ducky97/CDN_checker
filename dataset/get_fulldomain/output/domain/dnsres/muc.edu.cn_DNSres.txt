@@ -1,0 +1,2010 @@
+muc.edu.cn. 21600 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+muc.edu.cn. 7199 IN A 210.31.0.9
+
+111cles.muc.edu.cn. 3600 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+111cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+56c.muc.edu.cn. 0 IN A 220.250.64.225
+
+56c.muc.edu.cn. 30 IN A 220.250.64.225
+
+art.muc.edu.cn. 3600 IN A 210.31.15.253
+
+art.muc.edu.cn. 3599 IN A 210.31.15.253
+
+art.muc.edu.cn. 3599 IN A 210.31.15.253
+
+artron.muc.edu.cn. 3600 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+artron.muc.edu.cn. 3599 IN A 210.31.3.245
+
+bookcd.muc.edu.cn. 3600 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bookcd.muc.edu.cn. 3599 IN A 210.31.3.214
+
+bwg.muc.edu.cn. 3600 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwg.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3600 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+bwwz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ca.muc.edu.cn. 1804 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+ca.muc.edu.cn. 1803 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 59 IN A 210.31.15.251
+
+www.career.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3599 IN A 210.31.15.251
+
+cbs.muc.edu.cn. 3600 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cbs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+chaowen.muc.edu.cn. 0 IN A 220.250.64.225
+
+chaowen.muc.edu.cn. 30 IN A 220.250.64.225
+
+cie.muc.edu.cn. 3600 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cie.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3600 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn111cles.muc.edu.cn. 0 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 0 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 30 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+wximg.muc.edu.cn<BR>wx.muc.edu.cn. 29 IN A 220.250.64.225
+
+opac.muc.edu.cncie.muc.edu.cn. 0 IN A 220.250.64.225
+
+yyxy.muc.edu.cnhlles.muc.edu.cn. 0 IN A 220.250.64.225
+
+bwwz.muc.edu.cnigea.muc.edu.cn. 0 IN A 220.250.64.225
+
+cnki.muc.edu.cn. 3600 IN A 210.31.3.232
+
+dns1.muc.edu.cnlxy.muc.edu.cn. 0 IN A 220.250.64.225
+
+minli.muc.edu.cnmba.muc.edu.cn. 0 IN A 220.250.64.225
+
+ns1.muc.edu.cnmet.muc.edu.cn. 0 IN A 220.250.64.225
+
+grsjy.muc.edu.cnmindaltx.muc.edu.cn. 0 IN A 220.250.64.225
+
+jijian.muc.edu.cnsj.muc.edu.cn. 0 IN A 220.250.64.225
+
+fzk.muc.edu.cntzb.muc.edu.cn. 0 IN A 220.250.64.225
+
+cqvip.muc.edu.cn. 3600 IN A 210.31.3.249
+
+cwcx.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3599 IN A 210.31.15.251
+
+cwcx.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3599 IN A 210.31.15.251
+
+cwcx.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3599 IN A 210.31.15.251
+
+cxsm.muc.edu.cn. 3600 IN A 210.31.15.253
+
+cxsm.muc.edu.cn. 3599 IN A 210.31.15.253
+
+cxsm.muc.edu.cn. 3599 IN A 210.31.15.253
+
+dns.muc.edu.cn. 21600 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns.muc.edu.cn. 7199 IN A 210.31.0.10
+
+dns1.muc.edu.cn. 21600 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns1.muc.edu.cn. 7199 IN A 210.31.0.9
+
+dns2.muc.edu.cn. 0 IN A 220.250.64.225
+
+dns2.muc.edu.cn. 30 IN A 220.250.64.225
+
+eco.muc.edu.cn. 3600 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+eco.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3600 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+edu.muc.edu.cn. 3599 IN A 210.31.15.253
+
+frc.muc.edu.cn. 0 IN A 220.250.64.225
+
+frc.muc.edu.cn. 30 IN A 220.250.64.225
+
+fzhghc.muc.edu.cn. 21600 IN A 210.31.15.253
+
+fzk.muc.edu.cn. 3600 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+fzk.muc.edu.cn. 3599 IN A 210.31.3.236
+
+gh.muc.edu.cn. 3600 IN A 210.31.15.253
+
+gh.muc.edu.cn. 3599 IN A 210.31.15.253
+
+gh.muc.edu.cn. 3599 IN A 210.31.15.253
+
+giving.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+giving.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grs.muc.edu.cn. 3324 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grs.muc.edu.cn. 3323 IN A 210.31.15.253
+
+grsjy.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsjy.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsold.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsold.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+grsold.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3598 IN A 210.31.15.251
+
+history.muc.edu.cn. 3600 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+history.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3600 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hlles.muc.edu.cn. 3599 IN A 210.31.15.253
+
+hqjt.muc.edu.cn. 21600 IN A 210.31.15.253
+
+i.muc.edu.cn. 0 IN A 220.250.64.225
+
+i.muc.edu.cn. 30 IN A 220.250.64.225
+
+www.icmlc.muc.edu.cn. 3600 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.icmlc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+idp-lib.muc.edu.cn. 3600 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+idp-lib.muc.edu.cn. 3599 IN A 210.31.3.50
+
+igea.muc.edu.cn. 3600 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+igea.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ilaw.muc.edu.cn. 0 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 30 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+ilaw.muc.edu.cn. 29 IN A 220.250.64.225
+
+jijian.muc.edu.cn. 3600 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jijian.muc.edu.cn. 3599 IN A 210.31.15.253
+
+js.muc.edu.cn. 0 IN A 220.250.64.225
+
+js.muc.edu.cn. 30 IN A 220.250.64.225
+
+jw.muc.edu.cn. 3600 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jw.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jwxt1.muc.edu.cn. 21600 IN A 210.31.15.37
+
+jwxt1.muc.edu.cn. 7199 IN A 210.31.15.37
+
+jwxt2.muc.edu.cn. 21600 IN A 210.31.15.38
+
+jwxt2.muc.edu.cn. 7199 IN A 210.31.15.38
+
+kazak.muc.edu.cn. 0 IN A 220.250.64.225
+
+kazak.muc.edu.cn. 30 IN A 220.250.64.225
+
+ksbm.muc.edu.cn. 0 IN A 220.250.64.225
+
+ksbm.muc.edu.cn. 30 IN A 220.250.64.225
+
+jw.muc.edu.cnwww.law.muc.edu.cn. 0 IN A 220.250.64.225
+
+www.law.muc.edu.cn. 3600 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.law.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.lib.muc.edu.cn. 3600 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+www.lib.muc.edu.cn. 3599 IN A 210.31.15.97
+
+ljc.muc.edu.cn. 3600 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ljc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxs.muc.edu.cn. 21600 IN CNAME dns.lface.org.
+dns.lface.org. 1101 IN A 123.127.134.6
+
+lxs.muc.edu.cn. 7199 IN CNAME dns.lface.org.
+dns.lface.org. 1101 IN A 123.127.134.6
+
+lxy.muc.edu.cn. 3600 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+lxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+marxism.muc.edu.cn. 3600 IN A 210.31.15.253
+
+marxism.muc.edu.cn. 3599 IN A 210.31.15.253
+
+marxism.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3600 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mba.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3600 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mdfz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3600 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+met.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3600 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mindaltx.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3600 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+minzuyiyao.muc.edu.cn. 0 IN A 220.250.64.225
+
+minzuyiyao.muc.edu.cn. 30 IN A 220.250.64.225
+
+mmxy.muc.edu.cn. 0 IN A 220.250.64.225
+
+mmxy.muc.edu.cn. 30 IN A 220.250.64.225
+
+ms.muc.edu.cn. 3600 IN A 210.31.15.253
+
+www.ms.muc.edu.cn. 0 IN A 220.250.64.225
+
+www.ms.muc.edu.cn. 30 IN A 220.250.64.225
+
+msy.muc.edu.cn. 3600 IN A 210.31.15.253
+
+mwx.muc.edu.cn. 0 IN A 220.250.64.225
+
+mwx.muc.edu.cn. 30 IN A 220.250.64.225
+
+myzx.muc.edu.cn. 3600 IN A 210.31.15.253
+
+mzx.muc.edu.cn. 0 IN A 220.250.64.225
+
+mzx.muc.edu.cn. 30 IN A 220.250.64.225
+
+mzy.muc.edu.cn. 3600 IN A 210.31.15.253
+
+mzy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+mzy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3600 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+news.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nginx.muc.edu.cn. 0 IN A 220.250.64.225
+
+nginx.muc.edu.cn. 30 IN A 220.250.64.225
+
+nginx.muc.edu.cn. 29 IN A 220.250.64.225
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nginx1.muc.edu.cn. 3597 IN A 210.31.15.251
+
+nic.muc.edu.cn. 0 IN A 220.250.64.225
+
+nic.muc.edu.cn. 30 IN A 220.250.64.225
+
+nmlr.muc.edu.cn. 3600 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+nmlr.muc.edu.cn. 3599 IN A 210.31.15.253
+
+ns1.muc.edu.cn. 0 IN A 220.250.64.225
+
+ns2.muc.edu.cn. 0 IN A 220.250.64.225
+
+ns2.muc.edu.cn. 30 IN A 220.250.64.225
+
+oir.muc.edu.cn. 3600 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+oir.muc.edu.cn. 3599 IN A 210.31.15.253
+
+opac.muc.edu.cn. 3600 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+opac.muc.edu.cn. 3599 IN A 210.31.3.219
+
+pgb.muc.edu.cn. 0 IN A 220.250.64.225
+
+pgb.muc.edu.cn. 30 IN A 220.250.64.225
+
+phil.muc.edu.cn. 3600 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+phil.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3600 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+qks.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.research.muc.edu.cn. 0 IN A 220.250.64.225
+
+www.research.muc.edu.cn. 30 IN A 220.250.64.225
+
+www.rsc.muc.edu.cn. 3600 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.rsc.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3600 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sce.muc.edu.cn. 3599 IN A 210.31.15.253
+
+jxgl.sce.muc.edu.cn. 0 IN A 220.250.64.225
+
+jxgl.sce.muc.edu.cn. 30 IN A 220.250.64.225
+
+scemll.muc.edu.cn. 3600 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+scemll.muc.edu.cn. 3599 IN A 210.31.15.253
+
+seatbook.muc.edu.cn. 0 IN A 220.250.64.225
+
+seatbook.muc.edu.cn. 30 IN A 220.250.64.225
+
+www.sfs.muc.edu.cn. 3600 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+www.sfs.muc.edu.cn. 3599 IN A 210.31.15.253
+
+shenji.muc.edu.cn. 3600 IN A 210.31.15.253
+
+shenji.muc.edu.cn. 3599 IN A 210.31.15.253
+
+shenji.muc.edu.cn. 3599 IN A 210.31.15.253
+
+shusheng.muc.edu.cn. 3600 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+shusheng.muc.edu.cn. 3599 IN A 210.31.3.242
+
+sj.muc.edu.cn. 0 IN A 220.250.64.225
+
+sport.muc.edu.cn. 3600 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+sport.muc.edu.cn. 3599 IN A 210.31.15.253
+
+student.muc.edu.cn. 0 IN A 220.250.64.225
+
+student.muc.edu.cn. 30 IN A 220.250.64.225
+
+sy.muc.edu.cn. 0 IN A 220.250.64.225
+
+sy.muc.edu.cn. 30 IN A 220.250.64.225
+
+tjcz.muc.edu.cn. 3600 IN A 210.31.15.253
+
+tjcz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tjcz.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3600 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+tzb.muc.edu.cn. 3599 IN A 210.31.15.253
+
+uyghur.muc.edu.cn. 0 IN A 220.250.64.225
+
+uyghur.muc.edu.cn. 30 IN A 220.250.64.225
+
+g.wanfangdata.com.cn.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+g.wanfangdata.com.cn.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+login.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+caj.d.cnki.net.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+caj.d.cnki.net.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+elib.cnki.net.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+www.cnki.net.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+www.cnki.net.vlib.muc.edu.cn. 3599 IN A 210.31.3.217
+
+www.xm.cnki.net.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+www.aps.org.vlib.muc.edu.cn. 3600 IN A 210.31.3.217
+
+vpn.muc.edu.cn. 19743 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+202-112-118-46.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+app-muc-edu-cn.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+ca-muc-edu-cn.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+eutils-ncbi-nlm-nih-gov-s.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+fsso-cnki-net-s.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+grsjyxt-muc-edu-cn.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+imuc.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+kdoc-cnki-net.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+kns-cnki-net.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+login-cnki-net.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+pdf-d-cnki-net.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+www-balis-edu-cn.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+www-google--analytics-com-s.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+www-google--analytics-com-s.vpn.muc.edu.cn. 7199 IN A 210.31.15.200
+
+zy-muc-edu-cn-1710-p.vpn.muc.edu.cn. 21600 IN A 210.31.15.200
+
+vpnnew.muc.edu.cn. 0 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 30 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 0 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 30 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.vpnnew.muc.edu.cn. 29 IN A 220.250.64.225
+
+wd.muc.edu.cn. 3600 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+wd.muc.edu.cn. 3599 IN A 210.31.15.253
+
+webvpn.muc.edu.cn. 0 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 30 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 0 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 30 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+www.webvpn.muc.edu.cn. 29 IN A 220.250.64.225
+
+wp.muc.edu.cn. 21600 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wp.muc.edu.cn. 7199 IN A 210.31.15.56
+
+wssb.muc.edu.cn. 0 IN A 220.250.64.225
+
+wssb.muc.edu.cn. 30 IN A 220.250.64.225
+
+www.muc.edu.cn. 3981 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+www.muc.edu.cn. 3980 IN A 210.31.15.253
+
+wx.muc.edu.cn. 21600 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wx.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 21600 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+wximg.muc.edu.cn. 7199 IN A 210.31.0.250
+
+xgxt.muc.edu.cn. 0 IN A 220.250.64.225
+
+xgxt.muc.edu.cn. 30 IN A 220.250.64.225
+
+xiaoban.muc.edu.cn. 0 IN A 220.250.64.225
+
+xiaoban.muc.edu.cn. 30 IN A 220.250.64.225
+
+xiaoyou.muc.edu.cn. 3600 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xiaoyou.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xinchuan.muc.edu.cn. 3600 IN A 210.31.15.253
+
+xingong.muc.edu.cn. 3600 IN A 210.31.15.253
+
+xinli.muc.edu.cn. 3600 IN A 210.31.15.253
+
+xinli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xinli.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3600 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+xxgk.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yingxin.muc.edu.cn. 0 IN A 220.250.64.225
+
+yingxin.muc.edu.cn. 30 IN A 220.250.64.225
+
+yjsyx.muc.edu.cn. 0 IN A 220.250.64.225
+
+yjsyx.muc.edu.cn. 30 IN A 220.250.64.225
+
+youth.muc.edu.cn. 3600 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+youth.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yssb.muc.edu.cn. 0 IN A 220.250.64.225
+
+yssb.muc.edu.cn. 30 IN A 220.250.64.225
+
+yuke.muc.edu.cn. 3600 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yuke.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yunpan.muc.edu.cn. 3600 IN A 210.31.15.23
+
+yunpan.muc.edu.cn. 3599 IN A 210.31.15.23
+
+yxy.muc.edu.cn. 3600 IN A 210.31.15.253
+
+yywx.muc.edu.cn. 0 IN A 220.250.64.225
+
+yywx.muc.edu.cn. 30 IN A 220.250.64.225
+
+yyxy.muc.edu.cn. 3600 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+yyxy.muc.edu.cn. 3599 IN A 210.31.15.253
+
+zb.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3594 IN A 210.31.15.251
+
+zb.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3594 IN A 210.31.15.251
+
+zb.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3594 IN A 210.31.15.251
+
+zbcg.muc.edu.cn. 0 IN A 220.250.64.225
+
+zbcg.muc.edu.cn. 30 IN A 220.250.64.225
+
+zbn.muc.edu.cn. 3600 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3594 IN A 210.31.15.251
+
+zbn.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3594 IN A 210.31.15.251
+
+zbn.muc.edu.cn. 3599 IN CNAME nginx1.muc.edu.cn.
+nginx1.muc.edu.cn. 3594 IN A 210.31.15.251
+
+zbs.muc.edu.cn. 600 IN A 210.31.15.27
+
+zbs.muc.edu.cn. 599 IN A 210.31.15.27
+
+zcgl.muc.edu.cn. 3600 IN A 210.31.15.253
+
+zuguo70.muc.edu.cn. 3600 IN A 210.31.15.253
+
+zy.muc.edu.cn. 3600 IN A 210.31.15.88
+

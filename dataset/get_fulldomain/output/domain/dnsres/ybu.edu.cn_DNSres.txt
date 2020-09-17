@@ -1,0 +1,812 @@
+ybu.edu.cn. 14400 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for 2011.ybu.edu.cn
+
+NXDOMAIN for 2011.ybu.edu.cn
+
+70.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6200 IN A 219.150.13.31
+
+70.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6200 IN A 219.150.13.31
+
+70.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6200 IN A 219.150.13.31
+
+alumni.ybu.edu.cn. 14400 IN A 219.150.13.74
+
+alumni.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+alumni.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+alumni.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+art.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+art.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+art.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+artscore.ybu.edu.cn. 14400 IN A 219.150.13.34
+
+artscore.ybu.edu.cn. 7199 IN A 219.150.13.34
+
+authserver.ybu.edu.cn. 14400 IN A 219.150.13.52
+
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+NXDOMAIN for b2.ybu.edu.cn
+
+NXDOMAIN for b2.ybu.edu.cn
+
+bbs.ybu.edu.cn. 14400 IN A 219.217.20.15
+
+bbs.ybu.edu.cn. 7199 IN A 219.217.20.15
+
+NXDOMAIN for caiwu.ybu.edu.cn
+
+NXDOMAIN for caiwu.ybu.edu.cn
+
+career.ybu.edu.cn. 14400 IN A 47.91.162.12
+
+career.ybu.edu.cn. 7199 IN A 47.91.162.12
+
+career.ybu.edu.cn. 7199 IN A 47.91.162.12
+
+career.ybu.edu.cn. 7199 IN A 47.91.162.12
+
+NXDOMAIN for cfd.ybu.edu.cn
+
+NXDOMAIN for cfd.ybu.edu.cn
+
+cg.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for chem.ybu.edu.cn
+
+NXDOMAIN for chem.ybu.edu.cn
+
+NXDOMAIN for chemlab.ybu.edu.cn
+
+NXDOMAIN for chemlab.ybu.edu.cn
+
+chengjiao.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+chengjiao.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+chengjiao.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+cickps.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+cickps.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+cickps.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+cickps.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for kpdb.ybu.edu.cnjjh.ybu.edu.cn
+
+NXDOMAIN for www.ybu.edu.cnjjh.ybu.edu.cn
+
+NXDOMAIN for www.ybu.edu.cnkorealaw.ybu.edu.cn
+
+NXDOMAIN for skc.ybu.edu.cnkpdb.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cnkpdb.ybu.edu.cn
+
+NXDOMAIN for www.ybu.edu.cnkpdb.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cnmpa.ybu.edu.cn
+
+cnsk.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cnwechat.ybu.edu.cn
+
+NXDOMAIN for jiaowu.ybu.edu.cnybus3.ybu.edu.cn
+
+NXDOMAIN for crc.ybu.edu.cn
+
+NXDOMAIN for crc.ybu.edu.cn
+
+ddh12.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ddh12.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ddh12.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+demo.ybu.edu.cn. 14400 IN A 219.150.13.37
+
+demo.ybu.edu.cn. 7199 IN A 219.150.13.37
+
+djxk.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+djxk.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+djxk.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+dns1.ybu.edu.cn. 14400 IN A 202.198.192.10
+
+dns1.ybu.edu.cn. 7199 IN A 202.198.192.10
+
+dns2.ybu.edu.cn. 14400 IN A 202.198.192.11
+
+dns2.ybu.edu.cn. 7199 IN A 202.198.192.11
+
+dns3.ybu.edu.cn. 14400 IN A 219.150.13.38
+
+dns3.ybu.edu.cn. 7199 IN A 219.150.13.38
+
+NXDOMAIN for elec.ybu.edu.cn
+
+NXDOMAIN for elec.ybu.edu.cn
+
+NXDOMAIN for gaojiao.ybu.edu.cn
+
+NXDOMAIN for gaojiao.ybu.edu.cn
+
+NXDOMAIN for geog.ybu.edu.cn
+
+NXDOMAIN for geog.ybu.edu.cn
+
+gj.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+gj.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+gj.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+gj.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6198 IN A 219.150.13.31
+
+gkzp.ybu.edu.cn. 14400 IN CNAME authserver.ybu.edu.cn.
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+gkzp.ybu.edu.cn. 7199 IN CNAME authserver.ybu.edu.cn.
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+gkzp.ybu.edu.cn. 7199 IN CNAME authserver.ybu.edu.cn.
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+gkzp.ybu.edu.cn. 7199 IN CNAME authserver.ybu.edu.cn.
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+grad.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+grad.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+grad.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+grad.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+gradms.ybu.edu.cn. 14400 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+gradms.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+gradms.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+gradms.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+NXDOMAIN for gxxg.ybu.edu.cn
+
+NXDOMAIN for gxxg.ybu.edu.cn
+
+gxy.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+gxy.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+gxy.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+gxy.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for gzzd.ybu.edu.cn
+
+hlxy.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+hlxy.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+hlxy.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for home1.ybu.edu.cn
+
+NXDOMAIN for home1.ybu.edu.cn
+
+homepage.ybu.edu.cn. 14400 IN A 219.150.13.53
+
+homepage.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+homepage.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+hqg.ybu.edu.cn. 14400 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+hqg.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+NXDOMAIN for humanist.ybu.edu.cn
+
+NXDOMAIN for humanist.ybu.edu.cn
+
+hunchunxq.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+hunchunxq.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+hunchunxq.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+hyxx.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6197 IN A 219.150.13.31
+
+hyxx.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6197 IN A 219.150.13.31
+
+NXDOMAIN for iie.ybu.edu.cn
+
+NXDOMAIN for iie.ybu.edu.cn
+
+iiplab.ybu.edu.cn. 14400 IN A 219.150.13.53
+
+iiplab.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+iiplab.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+iiplab.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+NXDOMAIN for ikps.ybu.edu.cn
+
+NXDOMAIN for ikps.ybu.edu.cn
+
+inc.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+inc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+inc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+info.ybu.edu.cn. 14400 IN A 219.217.20.123
+
+info.ybu.edu.cn. 7199 IN A 219.217.20.123
+
+international.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+international.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+international.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+jianzhu.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+jianzhu.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+jiaowu.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6196 IN A 219.150.13.31
+
+jiaowu.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6196 IN A 219.150.13.31
+
+jiaowu.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6196 IN A 219.150.13.31
+
+NXDOMAIN for jiwei.ybu.edu.cn
+
+NXDOMAIN for jiwei.ybu.edu.cn
+
+jjh.ybu.edu.cn. 14400 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+jjh.ybu.edu.cn. 7199 IN A 219.150.13.74
+
+NXDOMAIN for journal.ybu.edu.cn
+
+NXDOMAIN for journal.ybu.edu.cn
+
+jwxt.ybu.edu.cn. 14400 IN A 219.150.13.76
+
+jwxt.ybu.edu.cn. 7199 IN A 219.150.13.76
+
+jwxt.ybu.edu.cn. 7199 IN A 219.150.13.76
+
+jyk1.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+jyk1.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+jyk1.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+jyk1.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+kjc.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+kjc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+kjc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+kjc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+NXDOMAIN for kpdb.ybu.edu.cn
+
+ksc.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+ksc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ksc.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+kszx.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+kszx.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+kszx.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+NXDOMAIN for law.ybu.edu.cn
+
+NXDOMAIN for law.ybu.edu.cn
+
+lib.ybu.edu.cn. 14400 IN A 219.150.13.64
+
+lib.ybu.edu.cn. 7199 IN A 219.150.13.64
+
+lib.ybu.edu.cn. 7199 IN A 219.150.13.64
+
+lib.ybu.edu.cn. 7199 IN A 219.150.13.64
+
+idl.lib.ybu.edu.cn. 14400 IN A 202.198.212.78
+
+liuxue.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+liuxue.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+liuxue.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+liuxue.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+lxyz.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+lxyz.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+lxyz.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+mail.ybu.edu.cn. 14400 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+mail.ybu.edu.cn. 7199 IN A 219.150.13.36
+
+NXDOMAIN for math.ybu.edu.cn
+
+NXDOMAIN for math.ybu.edu.cn
+
+mobile.ybu.edu.cn. 14400 IN CNAME authserver.ybu.edu.cn.
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+mobile.ybu.edu.cn. 7199 IN CNAME authserver.ybu.edu.cn.
+authserver.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+mooc.ybu.edu.cn. 14400 IN A 219.150.13.55
+
+mooc.ybu.edu.cn. 7199 IN A 219.150.13.55
+
+mooc.ybu.edu.cn. 7199 IN A 219.150.13.55
+
+mooc.ybu.edu.cn. 7199 IN A 219.150.13.55
+
+NXDOMAIN for mpa.ybu.edu.cn
+
+NXDOMAIN for mppa.ybu.edu.cn
+
+NXDOMAIN for mppa.ybu.edu.cn
+
+normal.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+normal.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+normal.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+normal.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+nrfm.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+nrfm.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+nrfm.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6195 IN A 219.150.13.31
+
+NXDOMAIN for nxy.ybu.edu.cn
+
+NXDOMAIN for nxy.ybu.edu.cn
+
+NXDOMAIN for pharmlab.ybu.edu.cn
+
+NXDOMAIN for pharmlab.ybu.edu.cn
+
+NXDOMAIN for physics.ybu.edu.cn
+
+NXDOMAIN for physics.ybu.edu.cn
+
+portal.ybu.edu.cn. 14400 IN A 219.150.13.52
+
+portal.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+portal.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+portal.ybu.edu.cn. 7199 IN A 219.150.13.52
+
+rnkx.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+rsc.ybu.edu.cn. 14400 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+rsc.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+rsc.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+science.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+science.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+skc.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6194 IN A 219.150.13.31
+
+skc.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6194 IN A 219.150.13.31
+
+NXDOMAIN for tiyu.ybu.edu.cn
+
+NXDOMAIN for tiyu.ybu.edu.cn
+
+tkm.ybu.edu.cn. 14400 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+tkm.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+tkm.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+NXDOMAIN for tuanxue.ybu.edu.cn
+
+NXDOMAIN for tuanxue.ybu.edu.cn
+
+video.ybu.edu.cn. 14400 IN A 219.150.13.42
+
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+web-dx5.ybu.edu.cn. 6194 IN A 219.150.13.31
+
+web-dx5.ybu.edu.cn. 6194 IN A 219.150.13.31
+
+web-dx5.ybu.edu.cn. 6194 IN A 219.150.13.31
+
+NXDOMAIN for web-wt5.ybu.edu.cn
+
+NXDOMAIN for web-wt5.ybu.edu.cn
+
+webvpn.ybu.edu.cn. 14400 IN A 219.150.13.66
+
+webvpn.ybu.edu.cn. 7199 IN A 219.150.13.66
+
+portal.webvpn.ybu.edu.cn. 14400 IN A 219.150.13.66
+
+portal.webvpn.ybu.edu.cn. 7199 IN A 219.150.13.66
+
+wechat.ybu.edu.cn. 14400 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+wechat.ybu.edu.cn. 7199 IN A 219.150.13.45
+
+NXDOMAIN for www.ybu.edu.cnwechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+NXDOMAIN for wechat.ybu.edu.cn<BR>www.wechat.ybu.edu.cn
+
+wgyxy.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+wgyxy.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+wgyxy.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6194 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+www.ybu.edu.cn. 6193 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+xiaoban.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+xiaoban.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+xiaoban.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+xiaoban.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+xinwen.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+xsgl.ybu.edu.cn. 14400 IN A 219.217.20.100
+
+xuesheng.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+xuesheng.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+xuesheng.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+xuesheng.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+xwxx.ybu.edu.cn. 14400 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+xwxx.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+xwxx.ybu.edu.cn. 7199 IN CNAME web-dx4.ybu.edu.cn.
+web-dx4.ybu.edu.cn. 7199 IN A 219.150.13.53
+
+xxgk.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+xxgk.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+xxgk.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+xxgk.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybuef.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ybuef.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ybuef.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ybuef.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ybunews.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+ybunews.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybunews.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ybunews.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for ybus1.ybu.edu.cn
+
+NXDOMAIN for ybus1.ybu.edu.cn
+
+NXDOMAIN for ybus2.ybu.edu.cn
+
+NXDOMAIN for ybus2.ybu.edu.cn
+
+NXDOMAIN for ybus3.ybu.edu.cn
+
+ybuspoc.ybu.edu.cn. 14398 IN A 219.150.13.55
+
+ybuspoc.ybu.edu.cn. 7199 IN A 219.150.13.55
+
+ydarts.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ydarts.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ydarts.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ydarts.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ydhq.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ydhq.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ydhq.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 6193 IN A 219.150.13.31
+
+ydyxy.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+ydyxy.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+ydyxy.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+yp.ybu.edu.cn. 14400 IN A 219.150.13.54
+
+yp.ybu.edu.cn. 7199 IN A 219.150.13.54
+
+yp.ybu.edu.cn. 7199 IN A 219.150.13.54
+
+ypofficeonline.ybu.edu.cn. 14400 IN A 219.150.13.63
+
+ypofficeonline.ybu.edu.cn. 7199 IN A 219.150.13.63
+
+yx.ybu.edu.cn. 14400 IN A 219.150.13.31
+
+yx.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+NXDOMAIN for yxy.ybu.edu.cn
+
+NXDOMAIN for yxy.ybu.edu.cn
+
+NXDOMAIN for zhongyi.ybu.edu.cn
+
+NXDOMAIN for zhongyi.ybu.edu.cn
+
+NXDOMAIN for zjc.ybu.edu.cn
+
+NXDOMAIN for zjc.ybu.edu.cn
+
+zsb.ybu.edu.cn. 14400 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+zsb.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+zsb.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+zsb.ybu.edu.cn. 7199 IN CNAME web-dx5.ybu.edu.cn.
+web-dx5.ybu.edu.cn. 7199 IN A 219.150.13.31
+
+zzbcp.ybu.edu.cn. 14400 IN A 219.150.13.53
+

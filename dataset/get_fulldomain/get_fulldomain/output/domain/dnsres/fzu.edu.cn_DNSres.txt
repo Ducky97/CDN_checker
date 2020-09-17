@@ -1,0 +1,1731 @@
+fzu.edu.cn. 3480 IN A 210.34.48.25
+fzu.edu.cn. 3480 IN A 210.34.48.16
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+fzu.edu.cn. 3479 IN A 210.34.48.16
+fzu.edu.cn. 3479 IN A 210.34.48.25
+
+2018acf.fzu.edu.cn. 3600 IN A 59.77.233.79
+
+2018acf.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018acf.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018acf.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018acf.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018acf.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018uhpc.fzu.edu.cn. 3600 IN A 59.77.233.79
+
+2018uhpc.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018uhpc.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018uhpc.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018uhpc.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+2018uhpc.fzu.edu.cn. 3599 IN A 59.77.233.79
+
+60.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+60.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+60.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+60.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+60.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+60.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+acm.fzu.edu.cn. 3600 IN A 59.77.134.1
+
+acm.fzu.edu.cn. 3599 IN A 59.77.134.1
+
+adm.fzu.edu.cn. 3600 IN A 59.77.226.55
+
+adm.fzu.edu.cn. 3599 IN A 59.77.226.55
+
+algorithm.fzu.edu.cn. 3600 IN A 59.77.134.3
+
+arch-bridges.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+arch-bridges.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cn.arch-bridges.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+art.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+backup.fzu.edu.cn. 3600 IN A 210.34.48.23
+
+backup.fzu.edu.cn. 3599 IN A 210.34.48.23
+
+backup.fzu.edu.cn. 3599 IN A 210.34.48.23
+
+bbs.fzu.edu.cn. 1349 IN A 59.77.226.60
+
+bbs.fzu.edu.cn. 1348 IN A 59.77.226.60
+
+bio.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+bio.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+biotech.fzu.edu.cn. 0 IN A 220.250.64.225
+
+biotech.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+biotech.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+bookcd.fzu.edu.cn. 3600 IN A 218.193.121.18
+
+bookcd.fzu.edu.cn. 3599 IN A 218.193.121.18
+
+bookcd.fzu.edu.cn. 3599 IN A 218.193.121.18
+
+bookcd.fzu.edu.cn. 3599 IN A 218.193.121.18
+
+bwb.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+bwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+bwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+bwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+bwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+bwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+c.fzu.edu.cn. 2785 IN A 59.77.231.6
+
+c.fzu.edu.cn. 2784 IN A 59.77.231.6
+
+c.fzu.edu.cn. 2784 IN A 59.77.231.6
+
+c.fzu.edu.cn. 2784 IN A 59.77.231.6
+
+c.fzu.edu.cn. 2784 IN A 59.77.231.6
+
+cabc.fzu.edu.cn. 3600 IN A 59.77.226.76
+
+cabc.fzu.edu.cn. 3599 IN A 59.77.226.76
+
+cabc.fzu.edu.cn. 3599 IN A 59.77.226.76
+
+cabc.fzu.edu.cn. 3599 IN A 59.77.226.76
+
+caisun.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+caisun.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+caisun.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+center.fzu.edu.cn. 0 IN A 220.250.64.225
+
+center.fzu.edu.cn. 60 IN A 220.250.64.225
+
+cerc.fzu.edu.cn. 3600 IN A 59.77.233.141
+
+cerc.fzu.edu.cn. 3599 IN A 59.77.233.141
+
+cerc.fzu.edu.cn. 3599 IN A 59.77.233.141
+
+cerc.fzu.edu.cn. 3599 IN A 59.77.233.141
+
+che.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.che.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+en.che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.che.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chelab.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+chelab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chelab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chelab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chelab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chem.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+chem.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemlab.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+chemlab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemlab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemlab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemlab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chemlab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+chinacrypt2013.fzu.edu.cn. 3600 IN A 59.77.135.245
+
+chinacrypt2013.fzu.edu.cn. 3599 IN A 59.77.135.245
+
+chinacrypt2013.fzu.edu.cn. 3599 IN A 59.77.135.245
+
+chinacrypt2013.fzu.edu.cn. 3599 IN A 59.77.135.245
+
+civil.fzu.edu.cn. 60 IN A 59.77.231.18
+
+en.civil.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+en.civil.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+civilhy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+civilpostgraduate.fzu.edu.cn. 3600 IN A 59.77.231.18
+civilpostgraduate.fzu.edu.cn. 3600 IN A 59.77.233.137
+
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.233.137
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.233.137
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.233.137
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.233.137
+civilpostgraduate.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cjy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+cl.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+cl.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+clr.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+clsyzx.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+cmapc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+cmapc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cmapc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cmapc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cmapc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cmapc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+cmcs.fzu.edu.cn. 518 IN A 219.229.134.134
+
+cmcs.fzu.edu.cn. 517 IN A 219.229.134.134
+
+cmcs.fzu.edu.cn. 517 IN A 219.229.134.134
+
+cms.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+skc.fzu.edu.cnhgyjcl2014.fzu.edu.cn. 0 IN A 220.250.64.225
+
+sdrcce.fzu.edu.cnjjh.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+pop3.fzu.edu.cnpop3.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+imcl.fzu.edu.cnsalon.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+salon.fzu.edu.cnsbc.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+m.fzu.edu.cnstuic.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+center.fzu.edu.cnzhc.fzu.edu.cn. 0 IN A 220.250.64.225
+
+coding.fzu.edu.cn. 3600 IN A 59.77.233.161
+
+coding.fzu.edu.cn. 3599 IN A 59.77.233.161
+
+coding.fzu.edu.cn. 3599 IN A 59.77.233.161
+
+coding.fzu.edu.cn. 3599 IN A 59.77.233.161
+
+coding.fzu.edu.cn. 3599 IN A 59.77.233.161
+
+cpi.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+cs.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+cs.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+cs.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+cscw2006.fzu.edu.cn. 0 IN A 220.250.64.225
+
+cscw2006.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+cscw2006.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+cyberark.fzu.edu.cn. 0 IN A 220.250.64.225
+
+cyberark.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+cyberark.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+dag.fzu.edu.cn. 3600 IN A 59.77.233.123
+
+dag.fzu.edu.cn. 3599 IN A 59.77.233.123
+
+dag.fzu.edu.cn. 3599 IN A 59.77.233.123
+
+dag.fzu.edu.cn. 3599 IN A 59.77.233.123
+
+degree.fzu.edu.cn. 3600 IN A 218.193.121.58
+
+degree.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+degree.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+degree.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+dimacs.fzu.edu.cn. 3600 IN A 219.229.132.26
+
+dimacs.fzu.edu.cn. 3599 IN A 219.229.132.26
+
+dns.fzu.edu.cn. 3600 IN A 210.34.48.58
+
+dns2.fzu.edu.cn. 3600 IN A 219.229.132.22
+dns2.fzu.edu.cn. 3600 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3600 IN A 210.34.48.58
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.58
+dns2.fzu.edu.cn. 3599 IN A 210.34.48.57
+dns2.fzu.edu.cn. 3599 IN A 219.229.132.22
+
+dqxy.fzu.edu.cn. 3600 IN A 59.77.231.40
+
+dqxy.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+ds.fzu.edu.cn. 3600 IN A 59.77.134.2
+
+dsi.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+dxskjxh.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+dyzc.fzu.edu.cn. 3600 IN A 219.229.132.94
+
+dyzc.fzu.edu.cn. 3599 IN A 219.229.132.94
+
+dyzc.fzu.edu.cn. 3599 IN A 219.229.132.94
+
+dyzc.fzu.edu.cn. 3599 IN A 219.229.132.94
+
+dyzc.fzu.edu.cn. 3599 IN A 219.229.132.94
+
+dyzc.fzu.edu.cn. 3599 IN A 219.229.132.94
+
+eastaccount.fzu.edu.cn. 0 IN A 220.250.64.225
+
+eastaccount.fzu.edu.cn. 60 IN A 220.250.64.225
+
+eastaccount.fzu.edu.cn. 59 IN A 220.250.64.225
+
+eco-func.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+eco-func.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+eco-func.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+eco-func.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+eco-func.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+eco-func.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+ehall.fzu.edu.cn. 3600 IN CNAME ehall-fzu-edu-cn.cname.saaswaf.com.
+ehall-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+er.fzu.edu.cn. 2783 IN A 59.77.231.18
+
+er.fzu.edu.cn. 2782 IN A 59.77.231.18
+
+en.er.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+espace.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+espace.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+espace.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+fbmei.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fdgh.fzu.edu.cn. 2769 IN A 219.229.134.178
+
+fdgh.fzu.edu.cn. 2768 IN A 219.229.134.178
+
+fdgh.fzu.edu.cn. 2768 IN A 219.229.134.178
+
+fdgh.fzu.edu.cn. 2768 IN A 219.229.134.178
+
+fdgh.fzu.edu.cn. 2768 IN A 219.229.134.178
+
+fdgh.fzu.edu.cn. 2768 IN A 219.229.134.178
+
+fdhqdw.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fdmf.fzu.edu.cn. 3600 IN A 59.77.233.113
+
+fed.fzu.edu.cn. 3600 IN A 219.229.132.105
+
+fed.fzu.edu.cn. 3599 IN A 219.229.132.105
+
+fed.fzu.edu.cn. 3599 IN A 219.229.132.105
+
+fed.fzu.edu.cn. 3599 IN A 219.229.132.105
+
+fg211.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fg211.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fg211.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fg211.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fg211.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjfm.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fjheia.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fjheia.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjheia.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjheia.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjheia.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjicc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fjicc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjicc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjicc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjicc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fjicccbic.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fjrclh.fzu.edu.cn. 3600 IN A 219.229.135.8
+
+fjrclh.fzu.edu.cn. 3599 IN A 219.229.135.8
+
+fjrclh.fzu.edu.cn. 3599 IN A 219.229.135.8
+
+fjuedc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fjwlxh.fzu.edu.cn. 3600 IN A 219.229.132.108
+
+fmerc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fmerc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fmerc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fmerc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fmerc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fmerc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fpd.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fpgu.fzu.edu.cn. 3600 IN A 219.229.132.66
+
+fsad.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+fsad.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fsad.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fsad.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fsad.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fsad.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+fsc.fzu.edu.cn. 3600 IN A 59.77.231.40
+
+fsc.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+fsc.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+fsc.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+fsc.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+fsc.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+func.fzu.edu.cn. 3600 IN A 210.34.48.59
+
+func.fzu.edu.cn. 3599 IN A 210.34.48.59
+
+func.fzu.edu.cn. 3599 IN A 210.34.48.59
+
+func.fzu.edu.cn. 3599 IN A 210.34.48.59
+
+func.fzu.edu.cn. 3599 IN A 210.34.48.59
+
+func.fzu.edu.cn. 3599 IN A 210.34.48.59
+
+func.fzu.edu.cn. 3599 IN A 210.34.48.59
+
+fzdxb.fzu.edu.cn. 3600 IN A 59.77.226.56
+
+fzdxb.fzu.edu.cn. 3599 IN A 59.77.226.56
+
+fzdxb.fzu.edu.cn. 3599 IN A 59.77.226.56
+
+fzdxb.fzu.edu.cn. 3599 IN A 59.77.226.56
+
+fzuim.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+gate.fzu.edu.cn. 3600 IN A 210.34.48.52
+
+gate.fzu.edu.cn. 3599 IN A 210.34.48.52
+
+gate.fzu.edu.cn. 3599 IN A 210.34.48.52
+
+gate.fzu.edu.cn. 3599 IN A 210.34.48.52
+
+gate.fzu.edu.cn. 3599 IN A 210.34.48.52
+
+gate.fzu.edu.cn. 3599 IN A 210.34.48.52
+
+genomics.fzu.edu.cn. 3600 IN A 219.229.140.70
+
+glxy1.fzu.edu.cn. 3600 IN A 219.229.132.115
+glxy1.fzu.edu.cn. 3600 IN A 59.77.132.196
+
+glxy1.fzu.edu.cn. 3599 IN A 59.77.132.196
+glxy1.fzu.edu.cn. 3599 IN A 219.229.132.115
+
+glxy1.fzu.edu.cn. 3599 IN A 59.77.132.196
+glxy1.fzu.edu.cn. 3599 IN A 219.229.132.115
+
+glxy1.fzu.edu.cn. 3599 IN A 59.77.132.196
+glxy1.fzu.edu.cn. 3599 IN A 219.229.132.115
+
+goldsun.fzu.edu.cn. 0 IN A 220.250.64.225
+
+goldsun.fzu.edu.cn. 60 IN A 220.250.64.225
+
+goldsun.fzu.edu.cn. 59 IN A 220.250.64.225
+
+gqhwd.fzu.edu.cn. 3600 IN A 59.77.233.74
+
+gqhwd.fzu.edu.cn. 3599 IN A 59.77.233.74
+
+gqhwd.fzu.edu.cn. 3599 IN A 59.77.233.74
+
+gqhwd.fzu.edu.cn. 3599 IN A 59.77.233.74
+
+grs.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+grs.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+gw2.fzu.edu.cn. 3600 IN A 210.34.48.39
+
+gw2.fzu.edu.cn. 3599 IN A 210.34.48.39
+
+gw2.fzu.edu.cn. 3599 IN A 210.34.48.39
+
+gw2.fzu.edu.cn. 3599 IN A 210.34.48.39
+
+gw2.fzu.edu.cn. 3599 IN A 210.34.48.39
+
+gw2.fzu.edu.cn. 3599 IN A 210.34.48.39
+
+gyelab.fzu.edu.cn. 3600 IN A 59.77.135.98
+gyelab.fzu.edu.cn. 3600 IN A 218.193.112.251
+
+gyelab.fzu.edu.cn. 3599 IN A 218.193.112.251
+gyelab.fzu.edu.cn. 3599 IN A 59.77.135.98
+
+gyelab.fzu.edu.cn. 3599 IN A 218.193.112.251
+gyelab.fzu.edu.cn. 3599 IN A 59.77.135.98
+
+gyelab.fzu.edu.cn. 3599 IN A 218.193.112.251
+gyelab.fzu.edu.cn. 3599 IN A 59.77.135.98
+
+gzyq.fzu.edu.cn. 3600 IN A 59.77.231.23
+
+gzyq.fzu.edu.cn. 3599 IN A 59.77.231.23
+
+hgyjcl2014.fzu.edu.cn. 3600 IN A 59.77.233.138
+
+hgyjcl2014.fzu.edu.cn. 3599 IN A 59.77.233.138
+
+hgyjcl2014.fzu.edu.cn. 3599 IN A 59.77.233.138
+
+hjz.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+hjz.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+houqin.fzu.edu.cn. 3600 IN A 219.229.159.119
+
+hqc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hqc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+hr.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+hr.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+iamc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+iamc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+iamc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+iamc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+iamc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+iamc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+ibfu.fzu.edu.cn. 0 IN A 220.250.64.225
+
+ibpt.fzu.edu.cn. 3600 IN A 219.229.132.69
+
+icaci2015.fzu.edu.cn. 3600 IN A 219.229.134.134
+
+icaci2015.fzu.edu.cn. 3599 IN A 219.229.134.134
+
+icaci2015.fzu.edu.cn. 3599 IN A 219.229.134.134
+
+icaci2015.fzu.edu.cn. 3599 IN A 219.229.134.134
+
+icaci2015.fzu.edu.cn. 3599 IN A 219.229.134.134
+
+icxcy.fzu.edu.cn. 3600 IN A 59.77.135.123
+
+id.fzu.edu.cn. 3600 IN A 59.77.231.102
+
+id.fzu.edu.cn. 3599 IN A 59.77.231.102
+
+id.fzu.edu.cn. 3599 IN A 59.77.231.102
+
+id.fzu.edu.cn. 3599 IN A 59.77.231.102
+
+id.fzu.edu.cn. 3599 IN A 59.77.231.102
+
+id.fzu.edu.cn. 3599 IN A 59.77.231.102
+
+ieavs.fzu.edu.cn. 3600 IN A 59.77.233.113
+
+iera.fzu.edu.cn. 0 IN A 220.250.64.225
+
+iera.fzu.edu.cn. 60 IN A 220.250.64.225
+
+iera.fzu.edu.cn. 59 IN A 220.250.64.225
+
+ikao.fzu.edu.cn. 3600 IN A 59.77.233.113
+
+imap.fzu.edu.cn. 3600 IN A 210.34.48.25
+
+imap.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+imcl.fzu.edu.cn. 3600 IN A 59.77.233.51
+
+imcl.fzu.edu.cn. 3599 IN A 59.77.233.51
+
+ir.fzu.edu.cn. 3600 IN A 219.229.134.148
+
+irspsda.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+iss.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+itlab.fzu.edu.cn. 3600 IN A 59.77.226.47
+
+itlab.fzu.edu.cn. 3599 IN A 59.77.226.47
+
+itlab.fzu.edu.cn. 3599 IN A 59.77.226.47
+
+itlab.fzu.edu.cn. 3599 IN A 59.77.226.47
+
+itlab.fzu.edu.cn. 3599 IN A 59.77.226.47
+
+itlab.fzu.edu.cn. 3599 IN A 59.77.226.47
+
+jcc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jcc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jcc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jcc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jcc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jcc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jdzx.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jdzx.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jg.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg2gh.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jg2gh.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg2gh.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg2gh.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jg2gh.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jgcjx.fzu.edu.cn. 3600 IN A 59.77.135.102
+
+jgelab.fzu.edu.cn. 3600 IN A 59.77.135.102
+
+jgelab.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+jgelab.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+jgelab.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+jgelab.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+jggkx.fzu.edu.cn. 3600 IN A 59.77.135.102
+
+jgkjx.fzu.edu.cn. 3600 IN A 59.77.135.102
+
+jgmsm.fzu.edu.cn. 3600 IN A 59.77.233.113
+
+jgsyzx.fzu.edu.cn. 3600 IN A 59.77.135.123
+
+jgvod.fzu.edu.cn. 3600 IN A 59.77.135.104
+
+jgvod.fzu.edu.cn. 3599 IN A 59.77.135.104
+
+jgvod.fzu.edu.cn. 3599 IN A 59.77.135.104
+
+jgvod.fzu.edu.cn. 3599 IN A 59.77.135.104
+
+jgxy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jgxy.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jgxy.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jgxy1.fzu.edu.cn. 3600 IN A 219.229.132.115
+
+jgxy1.fzu.edu.cn. 3599 IN A 219.229.132.115
+
+jgxy1.fzu.edu.cn. 3599 IN A 219.229.132.115
+
+jgxy1.fzu.edu.cn. 3599 IN A 219.229.132.115
+
+jgyjs.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jjh.fzu.edu.cn. 3600 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjh.fzu.edu.cn. 3599 IN A 59.77.233.180
+
+jjkjy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jointlessbridges.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jwch.fzu.edu.cn. 2765 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jwch.fzu.edu.cn. 2764 IN A 59.77.226.27
+
+jxxy.fzu.edu.cn. 3600 IN A 59.77.231.40
+
+jzqbkc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jzqbkc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jzqbkc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jzqbkc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jzqbkc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+jzxy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+jzxy.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kf.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+kf.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+kf.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+kjc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+kjc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjgl.fzu.edu.cn. 3600 IN A 218.193.121.16
+
+kjkf.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+kjkf.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjkf.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjkf.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+kjkf.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+law.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+law.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.law.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+lib.fzu.edu.cn. 3600 IN A 218.193.121.105
+
+lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+opac.lib.fzu.edu.cn. 3600 IN A 218.193.121.100
+
+opac.lib.fzu.edu.cn. 3599 IN A 218.193.121.100
+
+opac.lib.fzu.edu.cn. 3599 IN A 218.193.121.100
+
+opac.lib.fzu.edu.cn. 3599 IN A 218.193.121.100
+
+opac.lib.fzu.edu.cn. 3599 IN A 218.193.121.100
+
+www.lib.fzu.edu.cn. 3600 IN A 218.193.121.105
+
+www.lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+www.lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+www.lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+www.lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+www.lib.fzu.edu.cn. 3599 IN A 218.193.121.105
+
+libdc.fzu.edu.cn. 3600 IN A 218.193.121.10
+
+libdc.fzu.edu.cn. 3599 IN A 218.193.121.10
+
+libdc.fzu.edu.cn. 3599 IN A 218.193.121.10
+
+libdc.fzu.edu.cn. 3599 IN A 218.193.121.10
+
+life.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+life.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+life.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+life.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+life.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+long.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+ltc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+ltc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+ltc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+ltc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+ltc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+m.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+mail.fzu.edu.cn. 3600 IN A 210.34.48.25
+
+mail.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+mailbox.fzu.edu.cn. 3600 IN A 59.77.233.86
+
+map.fzu.edu.cn. 3600 IN A 59.77.226.72
+
+map.fzu.edu.cn. 3599 IN A 59.77.226.72
+
+marx.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+mba.fzu.edu.cn. 3600 IN A 219.229.134.224
+
+mba.fzu.edu.cn. 3599 IN A 219.229.134.224
+
+mba.fzu.edu.cn. 3599 IN A 219.229.134.224
+
+mba.fzu.edu.cn. 3599 IN A 219.229.134.224
+
+mba.fzu.edu.cn. 3599 IN A 219.229.134.224
+
+mcmf.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+mcmf.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+message.fzu.edu.cn. 3600 IN A 59.77.233.86
+
+message.fzu.edu.cn. 3599 IN A 59.77.233.86
+
+message.fzu.edu.cn. 3599 IN A 59.77.233.86
+
+message.fzu.edu.cn. 3599 IN A 59.77.233.86
+
+message.fzu.edu.cn. 3599 IN A 59.77.233.86
+
+met.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+met.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+met2.fzu.edu.cn. 3600 IN CNAME met2.fzu.edu.cn.ctdns.cn.
+met2.fzu.edu.cn.ctdns.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.com.cn.
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.158
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.157
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 36.33.157.28
+
+met2.fzu.edu.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.cn.
+met2.fzu.edu.cn.ctdns.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.com.cn.
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.158
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.157
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 36.33.157.28
+
+met2.fzu.edu.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.cn.
+met2.fzu.edu.cn.ctdns.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.com.cn.
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.158
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.157
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 36.33.157.28
+
+met2.fzu.edu.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.cn.
+met2.fzu.edu.cn.ctdns.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.com.cn.
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.158
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.157
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 36.33.157.28
+
+met2.fzu.edu.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.cn.
+met2.fzu.edu.cn.ctdns.cn. 3599 IN CNAME met2.fzu.edu.cn.ctdns.com.cn.
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.158
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 58.241.250.157
+met2.fzu.edu.cn.ctdns.com.cn. 299 IN A 36.33.157.28
+
+miec.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+mobile1.fzu.edu.cn. 3600 IN A 59.77.231.26
+
+music.fzu.edu.cn. 3600 IN A 219.229.134.194
+
+music.fzu.edu.cn. 3599 IN A 219.229.134.194
+
+music.fzu.edu.cn. 3599 IN A 219.229.134.194
+
+music.fzu.edu.cn. 3599 IN A 219.229.134.194
+
+music.fzu.edu.cn. 3599 IN A 219.229.134.194
+
+music.fzu.edu.cn. 3599 IN A 219.229.134.194
+
+mydb.fzu.edu.cn. 3600 IN A 59.77.135.102
+
+nc.fzu.edu.cn. 3600 IN A 219.229.132.17
+
+nc.fzu.edu.cn. 3599 IN A 219.229.132.17
+
+nc.fzu.edu.cn. 3599 IN A 219.229.132.17
+
+nc.fzu.edu.cn. 3599 IN A 219.229.132.17
+
+ncip.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+nerc-cfc.fzu.edu.cn. 3600 IN A 59.77.233.149
+
+nerc-cfc.fzu.edu.cn. 3599 IN A 59.77.233.149
+
+nerc-cfc.fzu.edu.cn. 3599 IN A 59.77.233.149
+
+nerc-cfc.fzu.edu.cn. 3599 IN A 59.77.233.149
+
+nercfc.fzu.edu.cn. 3600 IN CNAME nercfc-fzu-edu-cn.cname.saaswaf.com.
+nercfc-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 54 IN A 112.13.67.99
+a004.cache.saaswaf.com. 54 IN A 119.188.95.115
+
+net.fzu.edu.cn. 3600 IN A 59.77.132.125
+
+net.fzu.edu.cn. 3599 IN A 59.77.132.125
+
+net.fzu.edu.cn. 3599 IN A 59.77.132.125
+
+net.fzu.edu.cn. 3599 IN A 59.77.132.125
+
+newdawn.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+newdawn.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+newdawn.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+news.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+news.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+nis.fzu.edu.cn. 3600 IN A 59.77.135.248
+
+nlrcsd2.fzu.edu.cn. 3600 IN A 59.77.233.67
+
+nlrcsd2.fzu.edu.cn. 3599 IN A 59.77.233.67
+
+nlrcsd2.fzu.edu.cn. 3599 IN A 59.77.233.67
+
+nlrcsd2.fzu.edu.cn. 3599 IN A 59.77.233.67
+
+nuclt.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+nuclt.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+oce.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+oce.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+oce.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+oce.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+oce.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+oce.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+oce-en.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+oce-en.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+office.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+office.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+office.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+office.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+office.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+pop3.fzu.edu.cn. 3600 IN A 210.34.48.25
+
+pop3.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+pop3.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+pop3.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+pop3.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+public.fzu.edu.cn. 3600 IN A 210.34.48.33
+
+public.fzu.edu.cn. 3599 IN A 210.34.48.33
+
+public.fzu.edu.cn. 3599 IN A 210.34.48.33
+
+public.fzu.edu.cn. 3599 IN A 210.34.48.33
+
+public.fzu.edu.cn. 3599 IN A 210.34.48.33
+
+public.fzu.edu.cn. 3599 IN A 210.34.48.33
+
+qingfeng.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+qingfeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+qingfeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+qingfeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+qingfeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+qingfeng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+qypx.fzu.edu.cn. 0 IN A 220.250.64.225
+
+qypx.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+qypx.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+rail.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+reading.fzu.edu.cn. 3600 IN A 218.193.121.58
+
+reading.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+reading.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+reading.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+ref.fzu.edu.cn. 3600 IN A 218.193.121.56
+
+ref.fzu.edu.cn. 3599 IN A 218.193.121.56
+
+ref.fzu.edu.cn. 3599 IN A 218.193.121.56
+
+ref.fzu.edu.cn. 3599 IN A 218.193.121.56
+
+renwen.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+renwen.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rsc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+rsc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rsc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rsc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rsc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rsc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rwb.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+rwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+rwb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+salon.fzu.edu.cn. 3600 IN A 219.229.154.101
+
+salon.fzu.edu.cn. 3599 IN A 219.229.154.101
+
+salon.fzu.edu.cn. 3599 IN A 219.229.154.101
+
+salon.fzu.edu.cn. 3599 IN A 219.229.154.101
+
+salon.fzu.edu.cn. 3599 IN A 219.229.154.101
+
+salon.fzu.edu.cn. 3599 IN A 219.229.154.101
+
+salon.fzu.edu.cn. 3599 IN A 219.229.154.101
+
+sava.fzu.edu.cn. 3600 IN A 210.34.48.2
+
+sava.fzu.edu.cn. 3599 IN A 210.34.48.2
+
+sava.fzu.edu.cn. 3599 IN A 210.34.48.2
+
+sava.fzu.edu.cn. 3599 IN A 210.34.48.2
+
+sava.fzu.edu.cn. 3599 IN A 210.34.48.2
+
+sava.fzu.edu.cn. 3599 IN A 210.34.48.2
+
+savi.fzu.edu.cn. 3600 IN A 210.34.48.4
+
+savi.fzu.edu.cn. 3599 IN A 210.34.48.4
+
+savi.fzu.edu.cn. 3599 IN A 210.34.48.4
+
+sbc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+sbc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sbc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sbc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sbc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sbcg.fzu.edu.cn. 3600 IN CNAME sbcg-fzu-edu-cn.cname.saaswaf.com.
+sbcg-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 53 IN A 112.13.67.99
+a004.cache.saaswaf.com. 53 IN A 119.188.95.115
+
+sbcg.fzu.edu.cn. 3599 IN CNAME sbcg-fzu-edu-cn.cname.saaswaf.com.
+sbcg-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 53 IN A 112.13.67.99
+a004.cache.saaswaf.com. 53 IN A 119.188.95.115
+
+sbcg.fzu.edu.cn. 3599 IN CNAME sbcg-fzu-edu-cn.cname.saaswaf.com.
+sbcg-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 53 IN A 112.13.67.99
+a004.cache.saaswaf.com. 53 IN A 119.188.95.115
+
+sbcg.fzu.edu.cn. 3599 IN CNAME sbcg-fzu-edu-cn.cname.saaswaf.com.
+sbcg-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 53 IN A 112.13.67.99
+a004.cache.saaswaf.com. 53 IN A 119.188.95.115
+
+sbcg.fzu.edu.cn. 3599 IN CNAME sbcg-fzu-edu-cn.cname.saaswaf.com.
+sbcg-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 53 IN A 112.13.67.99
+a004.cache.saaswaf.com. 53 IN A 119.188.95.115
+
+sbgl.fzu.edu.cn. 3600 IN A 59.77.231.23
+
+sdrcce.fzu.edu.cn. 3600 IN A 219.229.134.202
+
+sdrcce.fzu.edu.cn. 3599 IN A 219.229.134.202
+
+sdrcce.fzu.edu.cn. 3599 IN A 219.229.134.202
+
+sea.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+sea.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sea.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sea.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sea.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sec.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+sfl.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+sfl.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+shpg.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+shpg.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+siberc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.siberc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+en.siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+en.siberc.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+sirc.fzu.edu.cn. 3600 IN A 219.229.132.43
+
+sirc.fzu.edu.cn. 3599 IN A 219.229.132.43
+
+sirc.fzu.edu.cn. 3599 IN A 219.229.132.43
+
+sirc.fzu.edu.cn. 3599 IN A 219.229.132.43
+
+sirc.fzu.edu.cn. 3599 IN A 219.229.132.43
+
+sirc.fzu.edu.cn. 3599 IN A 219.229.132.43
+
+sjc.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+skc.fzu.edu.cn. 3600 IN A 59.77.231.6
+
+skc.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+skc.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+skc.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+skc.fzu.edu.cn. 3599 IN A 59.77.231.6
+
+slsdrz.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+slsdsys.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+smtp.fzu.edu.cn. 3600 IN A 210.34.48.25
+
+smtp.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+smtp.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+smtp.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+smtp.fzu.edu.cn. 3599 IN A 210.34.48.25
+
+sports.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+sr.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+sr.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2763 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2762 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2762 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2762 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2762 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2762 IN A 59.77.231.18
+
+stuic.fzu.edu.cn. 2762 IN A 59.77.231.18
+
+stzheng.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+stzheng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+stzheng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+stzheng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+stzheng.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+supramol.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+supramol.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+swms.fzu.edu.cn. 3600 IN CNAME swms-fzu-edu-cn.cname.saaswaf.com.
+swms-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 52 IN A 119.188.95.115
+a004.cache.saaswaf.com. 52 IN A 112.13.67.99
+
+swms.fzu.edu.cn. 3599 IN CNAME swms-fzu-edu-cn.cname.saaswaf.com.
+swms-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 52 IN A 119.188.95.115
+a004.cache.saaswaf.com. 52 IN A 112.13.67.99
+
+tangjing.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+tangjing.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tangjing.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tangjing.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tangjing.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tdx.fzu.edu.cn. 3600 IN A 219.229.132.122
+
+tdx.fzu.edu.cn. 3599 IN A 219.229.132.122
+
+dns.test.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+dns.test.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+dns.test.fzu.edu.cn. 3599 IN A 220.250.64.225
+
+tims.fzu.edu.cn. 3600 IN CNAME tims-fzu-edu-cn.cname.saaswaf.com.
+tims-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 52 IN A 119.188.95.115
+a004.cache.saaswaf.com. 52 IN A 112.13.67.99
+
+tims.fzu.edu.cn. 3599 IN CNAME tims-fzu-edu-cn.cname.saaswaf.com.
+tims-fzu-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 52 IN A 119.188.95.115
+a004.cache.saaswaf.com. 52 IN A 112.13.67.99
+
+tmsy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+tmsy.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tmxnsy.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+tmxnsy.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tmxsgzw.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+tyzf.fzu.edu.cn. 3600 IN A 219.229.134.172
+
+tzb.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+tzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+tzsb.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+usp.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+usp.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+vi.fzu.edu.cn. 3600 IN A 59.77.233.171
+
+vpn.fzu.edu.cn. 60 IN A 218.106.145.19
+
+vpn.fzu.edu.cn. 59 IN A 218.106.145.19
+
+vpn2.fzu.edu.cn. 3600 IN A 210.34.50.193
+
+vpn2.fzu.edu.cn. 3599 IN A 210.34.50.193
+
+vpn2.fzu.edu.cn. 3599 IN A 210.34.50.193
+
+vpn2.fzu.edu.cn. 3599 IN A 210.34.50.193
+
+vpn3.fzu.edu.cn. 3600 IN A 210.34.50.251
+
+vpn3.fzu.edu.cn. 3599 IN A 210.34.50.251
+
+w2.fzu.edu.cn. 3600 IN A 219.229.134.165
+
+w2.fzu.edu.cn. 3599 IN A 219.229.134.165
+
+w2.fzu.edu.cn. 3599 IN A 219.229.134.165
+
+w2.fzu.edu.cn. 3599 IN A 219.229.134.165
+
+w4.fzu.edu.cn. 0 IN A 220.250.64.225
+
+w4.fzu.edu.cn. 60 IN A 220.250.64.225
+
+w4.fzu.edu.cn. 59 IN A 220.250.64.225
+
+wanglab.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+wanglab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+wanglab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+wanglab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+wanglab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+wanglab.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+wdz.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+whd.fzu.edu.cn. 3600 IN A 59.77.135.102
+
+whd.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+whd.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+whd.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+whd.fzu.edu.cn. 3599 IN A 59.77.135.102
+
+wklhml.fzu.edu.cn. 3600 IN A 218.193.121.105
+
+wsus.fzu.edu.cn. 3600 IN A 210.34.48.55
+
+wsus.fzu.edu.cn. 3599 IN A 210.34.48.55
+
+wsus.fzu.edu.cn. 3599 IN A 210.34.48.55
+
+www.fzu.edu.cn. 3287 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www.fzu.edu.cn. 3286 IN A 59.77.231.60
+
+www1.fzu.edu.cn. 3600 IN A 59.77.231.66
+
+wx.fzu.edu.cn. 3600 IN A 59.77.233.120
+
+wxb.fzu.edu.cn. 3600 IN A 59.77.231.40
+
+wxb.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+wxb.fzu.edu.cn. 3599 IN A 59.77.231.40
+
+xbzrb.fzu.edu.cn. 3246 IN A 59.77.226.108
+
+xbzrb.fzu.edu.cn. 3245 IN A 59.77.226.108
+
+xbzrb.fzu.edu.cn. 3245 IN A 59.77.226.108
+
+xbzrb.fzu.edu.cn. 3245 IN A 59.77.226.108
+
+xbzrb.fzu.edu.cn. 3245 IN A 59.77.226.108
+
+xcb.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+xcb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+xcb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+xcb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+xcb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+xkzx.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+xsd.fzu.edu.cn. 3600 IN A 219.229.132.118
+
+xsd.fzu.edu.cn. 3599 IN A 219.229.132.118
+
+xsd.fzu.edu.cn. 3599 IN A 219.229.132.118
+
+xsd.fzu.edu.cn. 3599 IN A 219.229.132.118
+
+xugroup.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+xugroup.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+xuyijun.fzu.edu.cn. 3600 IN A 220.250.64.225
+
+xwgk.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+xwgk.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+xxb.fzu.edu.cn. 3600 IN A 59.77.231.40
+
+xyt.fzu.edu.cn. 3600 IN A 59.77.233.168
+
+xyt.fzu.edu.cn. 3599 IN A 59.77.233.168
+
+xyt.fzu.edu.cn. 3599 IN A 59.77.233.168
+
+xyt.fzu.edu.cn. 3599 IN A 59.77.233.168
+
+xyt.fzu.edu.cn. 3599 IN A 59.77.233.168
+
+xyt.fzu.edu.cn. 3599 IN A 59.77.233.168
+
+xyt.fzu.edu.cn. 3599 IN A 59.77.233.168
+
+xyzh.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+xyzh.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+ygxy.fzu.edu.cn. 3600 IN A 59.77.226.150
+
+ygxy.fzu.edu.cn. 3599 IN A 59.77.226.150
+
+yiban.fzu.edu.cn. 3600 IN A 59.77.233.33
+
+yiban.fzu.edu.cn. 3599 IN A 59.77.233.33
+
+yjsgl.fzu.edu.cn. 3600 IN A 59.77.231.102
+
+yjsy.fzu.edu.cn. 2761 IN A 59.77.231.18
+
+yjsy.fzu.edu.cn. 2760 IN A 59.77.231.18
+
+yklai.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+youth.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+youth.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+yva.fzu.edu.cn. 3600 IN A 59.77.226.59
+
+yva.fzu.edu.cn. 3599 IN A 59.77.226.59
+
+yva.fzu.edu.cn. 3599 IN A 59.77.226.59
+
+yva.fzu.edu.cn. 3599 IN A 59.77.226.59
+
+zhc.fzu.edu.cn. 3600 IN A 59.77.226.100
+
+zhc.fzu.edu.cn. 3599 IN A 59.77.226.100
+
+zhc.fzu.edu.cn. 3599 IN A 59.77.226.100
+
+zjxy.fzu.edu.cn. 2758 IN A 59.77.231.18
+
+zjxy.fzu.edu.cn. 2757 IN A 59.77.231.18
+
+zp.fzu.edu.cn. 3600 IN A 59.77.231.33
+
+zsb.fzu.edu.cn. 508 IN A 219.229.132.73
+
+zsb.fzu.edu.cn. 507 IN A 219.229.132.73
+
+zsb.fzu.edu.cn. 507 IN A 219.229.132.73
+
+zsb.fzu.edu.cn. 507 IN A 219.229.132.73
+
+zsb.fzu.edu.cn. 507 IN A 219.229.132.73
+
+zsb.fzu.edu.cn. 507 IN A 219.229.132.73
+
+zsd.fzu.edu.cn. 3600 IN A 218.193.121.58
+
+zsd.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+zsd.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+zsd.fzu.edu.cn. 3599 IN A 218.193.121.58
+
+zzb.fzu.edu.cn. 3600 IN A 59.77.231.18
+
+zzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+zzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+zzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+zzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+
+zzb.fzu.edu.cn. 3599 IN A 59.77.231.18
+

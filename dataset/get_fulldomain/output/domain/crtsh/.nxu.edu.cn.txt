@@ -1,0 +1,6 @@
+*.nxu.edu.cn
+email.nxu.edu.cn
+jwapp.nxu.edu.cn
+www.email.nxu.edu.cn
+yingxin.nxu.edu.cn
+zwxqbb.nxu.edu.cn

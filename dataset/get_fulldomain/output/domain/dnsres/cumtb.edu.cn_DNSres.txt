@@ -1,0 +1,484 @@
+NXDOMAIN for jwc.cumtb.edu.cncumtb.edu.cn
+
+NXDOMAIN for xyyxxxt.cumtb.edu.cncumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cn
+
+110.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+aqxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+auth.cumtb.edu.cn. 3600 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+auth.cumtb.edu.cn. 3599 IN A 202.112.209.45
+
+bbk.cumtb.edu.cn. 3600 IN A 118.228.224.70
+
+bkpg.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+bsminchina.cumtb.edu.cn. 3600 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bsminchina.cumtb.edu.cn. 3599 IN A 202.112.209.100
+
+bw.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+bwcx.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+NXDOMAIN for xyyxxxt.cumtb.edu.cnauth.cumtb.edu.cn
+
+NXDOMAIN for sysxc.cumtb.edu.cnimgapp.cumtb.edu.cn
+
+NXDOMAIN for www.vpn.cumtb.edu.cnjdxy.cumtb.edu.cn
+
+NXDOMAIN for cumtb.edu.cnjwweb.cumtb.edu.cn
+
+NXDOMAIN for dzb8.cumtb.edu.cnsysxc.cumtb.edu.cn
+
+NXDOMAIN for zkdbjwz.cumtb.edu.cnvpn.cumtb.edu.cn
+
+NXDOMAIN for oa.cumtb.edu.cnweixin.cumtb.edu.cn
+
+NXDOMAIN for mail.cumtb.edu.cnwww.cumtb.edu.cn
+
+NXDOMAIN for www.vpn.cumtb.edu.cnwww.cumtb.edu.cn
+
+crsm.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+cwc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+cyy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+dcxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+ddfp.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+dsh.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+dzb.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+dzb8.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+english.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+foundation.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+gdue.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+glxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+gonghui.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+hqzc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+iccstacse.cumtb.edu.cn. 3600 IN A 118.228.224.40
+
+idp.cumtb.edu.cn. 3600 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+idp.cumtb.edu.cn. 3599 IN A 202.112.209.51
+
+imgapp.cumtb.edu.cn. 3600 IN A 202.112.209.48
+
+imgapp.cumtb.edu.cn. 3599 IN A 202.112.209.48
+
+imgapp.cumtb.edu.cn. 3599 IN A 202.112.209.48
+
+imgapp.cumtb.edu.cn. 3599 IN A 202.112.209.48
+
+imgapp.cumtb.edu.cn. 3599 IN A 202.112.209.48
+
+imgapp.cumtb.edu.cn. 3599 IN A 202.112.209.48
+
+imgapp.cumtb.edu.cn. 3599 IN A 202.112.209.48
+
+international.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+jdxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+jjc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+jjs.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+jwc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+jwoweb.cumtb.edu.cn. 3600 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3600 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3599 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3599 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3599 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3599 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3599 IN A 202.112.209.46
+
+jwweb.cumtb.edu.cn. 3599 IN A 202.112.209.46
+
+jxjy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+jy.cumtb.edu.cn. 3600 IN A 118.228.224.20
+
+jy.cumtb.edu.cn. 3599 IN A 118.228.224.20
+
+jya.cumtb.edu.cn. 3600 IN A 118.228.224.20
+
+jyt.cumtb.edu.cn. 3600 IN A 118.228.224.20
+
+kd1.cumtb.edu.cn. 3600 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd1.cumtb.edu.cn. 3599 IN A 202.112.209.122
+
+kd2.cumtb.edu.cn. 3600 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kd2.cumtb.edu.cn. 3599 IN A 202.112.209.123
+
+kdny.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+kjcxzx.cumtb.edu.cn. 3600 IN A 219.242.68.33
+
+kjcy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+kjycyy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+kjycyy.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+kykxxb.cumtb.edu.cn. 3600 IN A 118.228.224.43
+
+lib.cumtb.edu.cn. 3600 IN A 219.242.65.10
+
+ljxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+login.cumtb.edu.cn. 3600 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+login.cumtb.edu.cn. 3599 IN A 202.112.208.2
+
+ltxc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+lxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+lxy.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+mail.cumtb.edu.cn. 3600 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+mail.cumtb.edu.cn. 3599 IN A 202.112.209.40
+
+news.cumtb.edu.cn. 3600 IN A 118.228.224.4
+
+news8.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+nyxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+oa.cumtb.edu.cn. 3600 IN A 202.112.209.41
+
+oa.cumtb.edu.cn. 3599 IN A 202.112.209.41
+
+oa.cumtb.edu.cn. 3599 IN A 202.112.209.41
+
+oa.cumtb.edu.cn. 3599 IN A 202.112.209.41
+
+oa.cumtb.edu.cn. 3599 IN A 202.112.209.41
+
+oa.cumtb.edu.cn. 3599 IN A 202.112.209.41
+
+oa.cumtb.edu.cn. 3599 IN A 202.112.209.41
+
+owvlab.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+rs.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+scee.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+scee.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+scee8.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+shxq.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+sjc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+smarx.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+smarx.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+student.cumtb.edu.cn. 3600 IN A 202.112.209.40
+
+sysxc.cumtb.edu.cn. 3600 IN A 202.112.209.43
+
+sysxc.cumtb.edu.cn. 3599 IN A 202.112.209.43
+
+sysxc.cumtb.edu.cn. 3599 IN A 202.112.209.43
+
+sysxc.cumtb.edu.cn. 3599 IN A 202.112.209.43
+
+sysxc.cumtb.edu.cn. 3599 IN A 202.112.209.43
+
+sysxc.cumtb.edu.cn. 3599 IN A 202.112.209.43
+
+tiyu.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+tzb.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+vpn.cumtb.edu.cn. 1908 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+vpn.cumtb.edu.cn. 1907 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3600 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+www.vpn.cumtb.edu.cn. 3599 IN A 202.112.215.5
+
+weixin.cumtb.edu.cn. 3600 IN A 202.112.209.132
+
+weixin.cumtb.edu.cn. 3599 IN A 202.112.209.132
+
+weixin.cumtb.edu.cn. 3599 IN A 202.112.209.132
+
+weixin.cumtb.edu.cn. 3599 IN A 202.112.209.132
+
+weixin.cumtb.edu.cn. 3599 IN A 202.112.209.132
+
+weixin.cumtb.edu.cn. 3599 IN A 202.112.209.132
+
+weixin.cumtb.edu.cn. 3599 IN A 202.112.209.132
+
+wfxy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+wlc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+www.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+xcb.cumtb.edu.cn. 3600 IN A 202.112.209.100
+
+xdjy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+xgc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+xgc.cumtb.edu.cn. 3599 IN A 202.112.209.92
+
+xiaoyou.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+xkb.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+xljk.cumtb.edu.cn. 3600 IN A 118.228.224.22
+
+xszz.cumtb.edu.cn. 3600 IN A 118.228.224.200
+
+xxgk.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+xyy.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+xyyxxxt.cumtb.edu.cn. 3600 IN A 202.112.209.42
+
+xyyxxxt.cumtb.edu.cn. 3599 IN A 202.112.209.42
+
+xyyxxxt.cumtb.edu.cn. 3599 IN A 202.112.209.42
+
+xyyxxxt.cumtb.edu.cn. 3599 IN A 202.112.209.42
+
+xyyxxxt.cumtb.edu.cn. 3599 IN A 202.112.209.42
+
+xyyxxxt.cumtb.edu.cn. 3599 IN A 202.112.209.42
+
+yjs.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+yjsglxt.cumtb.edu.cn. 3600 IN A 118.228.224.68
+
+zcc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+zkdbjwz.cumtb.edu.cn. 3600 IN A 202.112.209.49
+
+zkdbjwz.cumtb.edu.cn. 3599 IN A 202.112.209.49
+
+zkdbjwz.cumtb.edu.cn. 3599 IN A 202.112.209.49
+
+zkdbjwz.cumtb.edu.cn. 3599 IN A 202.112.209.49
+
+zkdbjwz.cumtb.edu.cn. 3599 IN A 202.112.209.49
+
+zkdbjwz.cumtb.edu.cn. 3599 IN A 202.112.209.49
+
+zkdbjwz.cumtb.edu.cn. 3599 IN A 202.112.209.49
+
+zwc.cumtb.edu.cn. 3600 IN A 202.112.209.92
+
+zyxy.cumtb.edu.cn. 3600 IN A 202.112.209.100
+
+zzb.cumtb.edu.cn. 634 IN A 202.112.209.92
+

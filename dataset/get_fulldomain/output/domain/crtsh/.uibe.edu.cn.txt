@@ -1,0 +1,4 @@
+*.uibe.edu.cn
+ea.uibe.edu.cn
+law.uibe.edu.cn
+mail.uibe.edu.cn

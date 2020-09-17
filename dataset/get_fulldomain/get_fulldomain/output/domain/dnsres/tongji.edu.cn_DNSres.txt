@@ -1,0 +1,2145 @@
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+NXDOMAIN for tongji.edu.cn
+
+1.tongji.edu.cn. 60 IN A 222.66.109.32
+1.tongji.edu.cn. 60 IN A 202.120.188.98
+
+1.tongji.edu.cn. 60 IN A 222.66.109.32
+1.tongji.edu.cn. 60 IN A 202.120.188.98
+
+1.tongji.edu.cn. 60 IN A 202.120.188.98
+1.tongji.edu.cn. 60 IN A 222.66.109.32
+
+110.tongji.edu.cn. 0 IN A 220.250.64.225
+
+4m3.tongji.edu.cn. 1988 IN A 202.120.188.3
+
+4m3.tongji.edu.cn. 1987 IN A 202.120.188.3
+
+4m3.tongji.edu.cn. 1987 IN A 202.120.188.3
+
+985monitor.tongji.edu.cn. 0 IN A 220.250.64.225
+
+985monitor.tongji.edu.cn. 60 IN A 220.250.64.225
+
+a434.tongji.edu.cn. 3600 IN A 222.66.109.32
+a434.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+a434.tongji.edu.cn. 3599 IN A 202.120.188.98
+a434.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+acem.tongji.edu.cn. 3600 IN A 202.120.188.98
+acem.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+acem.tongji.edu.cn. 3599 IN A 222.66.109.32
+acem.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+acem.tongji.edu.cn. 3599 IN A 222.66.109.32
+acem.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+acm.tongji.edu.cn. 3600 IN A 202.120.188.98
+acm.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+aero-mech.tongji.edu.cn. 3600 IN A 202.120.188.98
+aero-mech.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+aero-mech.tongji.edu.cn. 3599 IN A 222.66.109.32
+aero-mech.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+aero-mech.tongji.edu.cn. 3599 IN A 222.66.109.32
+aero-mech.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+agri.tongji.edu.cn. 3600 IN A 222.66.109.32
+agri.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+agserv.tongji.edu.cn. 3600 IN A 202.120.164.33
+
+aib.tongji.edu.cn. 3600 IN A 202.120.167.190
+
+aib.tongji.edu.cn. 3599 IN A 202.120.167.190
+
+al.tongji.edu.cn. 3600 IN A 202.120.188.98
+al.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+al.tongji.edu.cn. 3599 IN A 222.66.109.32
+al.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+al.tongji.edu.cn. 3599 IN A 222.66.109.32
+al.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+am.tongji.edu.cn. 399 IN A 202.120.188.98
+am.tongji.edu.cn. 399 IN A 222.66.109.32
+
+ammt.tongji.edu.cn. 3600 IN A 202.120.188.98
+ammt.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+apply-caup.tongji.edu.cn. 3600 IN A 202.120.167.83
+
+applymba.tongji.edu.cn. 884 IN A 202.120.188.98
+applymba.tongji.edu.cn. 884 IN A 222.66.109.32
+
+aqjy.tongji.edu.cn. 2292 IN A 202.120.164.18
+
+archi-caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+archi-caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+asns.tongji.edu.cn. 3600 IN A 222.66.109.32
+asns.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+asns.tongji.edu.cn. 3599 IN A 202.120.188.98
+asns.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+auipis.tongji.edu.cn. 3600 IN A 222.66.109.32
+auipis.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+auipis.tongji.edu.cn. 3599 IN A 202.120.188.98
+auipis.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+auipis.tongji.edu.cn. 3599 IN A 202.120.188.98
+auipis.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+auto.tongji.edu.cn. 1635 IN A 202.120.188.98
+auto.tongji.edu.cn. 1635 IN A 222.66.109.32
+
+auto.tongji.edu.cn. 1634 IN A 222.66.109.32
+auto.tongji.edu.cn. 1634 IN A 202.120.188.98
+
+baiyun.tongji.edu.cn. 3600 IN A 202.120.188.98
+baiyun.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+baowei.tongji.edu.cn. 3600 IN A 222.66.109.32
+baowei.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+bb.tongji.edu.cn. 3600 IN A 222.66.109.32
+bb.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+bidl.tongji.edu.cn. 3600 IN A 222.66.109.32
+bidl.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bidl.tongji.edu.cn. 3599 IN A 202.120.188.98
+bidl.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3600 IN A 222.66.109.32
+bkzs.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bkzs.tongji.edu.cn. 3599 IN A 202.120.188.98
+bkzs.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+bon.tongji.edu.cn. 0 IN A 220.250.64.225
+
+bon.tongji.edu.cn. 60 IN A 220.250.64.225
+
+bridge.tongji.edu.cn. 3600 IN A 202.120.188.98
+bridge.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+bridge.tongji.edu.cn. 3599 IN A 222.66.109.32
+bridge.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+bsim.tongji.edu.cn. 3600 IN A 222.66.109.32
+bsim.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+buildingenergy.tongji.edu.cn. 3600 IN A 222.66.109.32
+buildingenergy.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+bye.tongji.edu.cn. 3600 IN A 202.120.164.112
+
+bye.tongji.edu.cn. 3599 IN A 202.120.164.112
+
+ca.tongji.edu.cn. 3600 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+ca.tongji.edu.cn. 3599 IN A 202.120.189.92
+
+cadd.tongji.edu.cn. 3600 IN A 202.120.188.98
+cadd.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cai.tongji.edu.cn. 3600 IN A 222.66.109.32
+cai.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+cal.tongji.edu.cn. 3600 IN A 202.120.167.127
+
+cal.tongji.edu.cn. 3599 IN A 202.120.167.127
+
+NXDOMAIN for cangmeng.tongji.edu.cn
+
+NXDOMAIN for cangmeng.tongji.edu.cn
+
+canvas.tongji.edu.cn. 60 IN A 202.120.188.231
+
+canvas.tongji.edu.cn. 59 IN A 202.120.188.231
+
+castm.tongji.edu.cn. 3600 IN A 222.66.109.32
+castm.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3600 IN A 202.120.188.98
+caup-lab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+caup-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+caup-tlab.tongji.edu.cn. 3600 IN A 202.120.188.98
+caup-tlab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cbi.tongji.edu.cn. 0 IN A 220.250.64.225
+
+cbi.tongji.edu.cn. 60 IN A 220.250.64.225
+
+cc.tongji.edu.cn. 0 IN A 220.250.64.225
+
+cc.tongji.edu.cn. 60 IN A 220.250.64.225
+
+cdc.tongji.edu.cn. 3600 IN A 202.120.188.98
+cdc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cdh.tongji.edu.cn. 3600 IN A 202.120.188.98
+cdh.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cdhaw.tongji.edu.cn. 3600 IN A 222.66.109.32
+cdhaw.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+cdhk.tongji.edu.cn. 3600 IN A 202.120.188.98
+cdhk.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cdhk.tongji.edu.cn. 3599 IN A 222.66.109.32
+cdhk.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+cdi.tongji.edu.cn. 3600 IN A 202.120.188.98
+cdi.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cdi.tongji.edu.cn. 3599 IN A 222.66.109.32
+cdi.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+cdi.tongji.edu.cn. 3599 IN A 222.66.109.32
+cdi.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+cdibb.tongji.edu.cn. 3600 IN A 202.120.188.98
+cdibb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cdiiw.tongji.edu.cn. 3600 IN A 202.120.188.98
+cdiiw.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ceedp.tongji.edu.cn. 3600 IN A 222.66.109.32
+ceedp.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+celiang.tongji.edu.cn. 3600 IN A 222.66.109.32
+celiang.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+celiang.tongji.edu.cn. 3599 IN A 202.120.188.98
+celiang.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+ceonline.tongji.edu.cn. 3600 IN A 222.66.109.32
+ceonline.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ceonline.tongji.edu.cn. 3599 IN A 202.120.188.98
+ceonline.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+che.tongji.edu.cn. 3600 IN A 222.66.109.32
+che.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+chemcenter.tongji.edu.cn. 3600 IN A 222.66.109.32
+chemcenter.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+chemweb.tongji.edu.cn. 3600 IN A 222.66.109.32
+chemweb.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+chuangyegu.tongji.edu.cn. 3600 IN A 202.120.188.98
+chuangyegu.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cic.tongji.edu.cn. 3600 IN A 222.66.109.32
+cic.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+cims.tongji.edu.cn. 3600 IN A 222.66.109.32
+cims.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ciuc.tongji.edu.cn. 3600 IN A 202.120.188.98
+ciuc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+civileng.tongji.edu.cn. 3600 IN A 202.120.188.98
+civileng.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cloud985.tongji.edu.cn. 0 IN A 220.250.64.225
+
+cloud985.tongji.edu.cn. 60 IN A 220.250.64.225
+
+cloudapp.tongji.edu.cn. 3600 IN A 202.120.164.35
+
+cloudapp.tongji.edu.cn. 3599 IN A 202.120.164.35
+
+cloudapp.tongji.edu.cn. 3599 IN A 202.120.164.35
+
+clrc.tongji.edu.cn. 3600 IN A 222.66.109.32
+clrc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+cmstp.tongji.edu.cn. 0 IN A 220.250.64.225
+
+cmstp.tongji.edu.cn. 60 IN A 220.250.64.225
+
+ca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 0 IN A 220.250.64.225
+
+ca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 60 IN A 220.250.64.225
+
+ca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+ca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+ca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+ca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+tjjtcloud.tongji.edu.cnca.tongji.edu.cn<BR>imap.tongji.edu.cn<BR>mail.tongji.edu.cn<BR>pop.tongji.edu.cn<BR>smtp.tongji.edu.cn<BR>tjis.tongji.edu.cn<BR>wireless.tongji.edu.cn. 0 IN A 220.250.64.225
+
+caup-lab.tongji.edu.cncx.tongji.edu.cn. 0 IN A 220.250.64.225
+
+tongji.edu.cnkyfw.tongji.edu.cn. 0 IN A 220.250.64.225
+
+idp.tongji.edu.cnmail.tongji.edu.cn. 0 IN A 220.250.64.225
+
+imap.tongji.edu.cnmail.tongji.edu.cn. 0 IN A 220.250.64.225
+
+tjjtcloud.tongji.edu.cnpop.tongji.edu.cn. 0 IN A 220.250.64.225
+
+tjpay.tongji.edu.cnsseclass.tongji.edu.cn. 0 IN A 220.250.64.225
+
+idp.tongji.edu.cnwireless.tongji.edu.cn. 0 IN A 220.250.64.225
+
+idp2.tongji.edu.cnwireless.tongji.edu.cn. 0 IN A 220.250.64.225
+
+comm.tongji.edu.cn. 1488 IN A 222.66.109.32
+comm.tongji.edu.cn. 1488 IN A 202.120.188.98
+
+compbio.tongji.edu.cn. 3600 IN A 202.120.188.98
+compbio.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+coures.tongji.edu.cn. 3600 IN A 202.120.189.220
+
+coures.tongji.edu.cn. 3599 IN A 202.120.189.220
+
+cpos.tongji.edu.cn. 3600 IN A 202.120.188.98
+cpos.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cpos.tongji.edu.cn. 3599 IN A 222.66.109.32
+cpos.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+cqm.tongji.edu.cn. 3600 IN A 202.120.188.98
+cqm.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cruise.tongji.edu.cn. 3600 IN A 202.120.188.139
+
+cruise.tongji.edu.cn. 3599 IN A 202.120.188.139
+
+cs.tongji.edu.cn. 3600 IN A 222.66.109.32
+cs.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+cs1.tongji.edu.cn. 3600 IN A 202.120.163.250
+
+cs1.tongji.edu.cn. 3599 IN A 202.120.163.250
+
+cse.tongji.edu.cn. 3600 IN A 202.120.188.98
+cse.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+cse.tongji.edu.cn. 3599 IN A 222.66.109.32
+cse.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+cvrsg.tongji.edu.cn. 3600 IN A 222.66.109.32
+cvrsg.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+cwc.tongji.edu.cn. 2290 IN A 202.120.189.136
+
+cwc.tongji.edu.cn. 2289 IN A 202.120.189.136
+
+cwc.tongji.edu.cn. 2289 IN A 202.120.189.136
+
+cx.tongji.edu.cn. 0 IN A 220.250.64.225
+
+cxsyq.tongji.edu.cn. 3600 IN CNAME agserv.tongji.edu.cn.
+agserv.tongji.edu.cn. 3596 IN A 202.120.164.33
+
+cxtan.tongji.edu.cn. 0 IN A 220.250.64.225
+
+cxtan.tongji.edu.cn. 60 IN A 220.250.64.225
+
+cyy.tongji.edu.cn. 3600 IN A 222.66.109.32
+cyy.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+czb.tongji.edu.cn. 3600 IN A 202.120.176.6
+
+da.tongji.edu.cn. 3600 IN A 222.66.109.32
+da.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+daggl.tongji.edu.cn. 0 IN A 220.250.64.225
+
+daggl.tongji.edu.cn. 60 IN A 220.250.64.225
+
+dangban.tongji.edu.cn. 3600 IN A 222.66.109.32
+dangban.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+dangban.tongji.edu.cn. 3599 IN A 202.120.188.98
+dangban.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+dangjian.tongji.edu.cn. 2097 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dangjian.tongji.edu.cn. 2096 IN A 202.120.171.2
+
+dawsly.tongji.edu.cn. 3600 IN A 202.120.188.98
+dawsly.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dawsly.tongji.edu.cn. 3599 IN A 222.66.109.32
+dawsly.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+daz.tongji.edu.cn. 3600 IN A 222.66.109.32
+daz.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+s.daz.tongji.edu.cn. 0 IN A 220.250.64.225
+
+dcem.tongji.edu.cn. 3600 IN A 202.120.188.98
+dcem.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ddh11.tongji.edu.cn. 3600 IN A 222.66.109.32
+ddh11.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ddms.tongji.edu.cn. 3600 IN A 202.120.188.98
+ddms.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+de.tongji.edu.cn. 3600 IN A 202.120.188.98
+de.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+deanoffi.tongji.edu.cn. 3600 IN A 202.120.188.98
+deanoffi.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dee.tongji.edu.cn. 3600 IN A 202.120.188.98
+dee.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dent.tongji.edu.cn. 3600 IN A 222.66.109.32
+dent.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+deutsch.tongji.edu.cn. 3600 IN A 222.66.109.32
+deutsch.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+dgyj.tongji.edu.cn. 3600 IN A 222.66.109.32
+dgyj.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+resv.di.tongji.edu.cn. 3600 IN A 202.120.162.35
+
+diif.tongji.edu.cn. 3600 IN A 202.120.188.98
+diif.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dk.tongji.edu.cn. 3600 IN A 202.120.188.98
+dk.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dks.tongji.edu.cn. 3600 IN A 202.120.167.30
+dks.tongji.edu.cn. 3600 IN A 222.66.109.32
+dks.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+dljc.tongji.edu.cn. 3600 IN A 202.120.188.98
+dljc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dmb.tongji.edu.cn. 3600 IN A 202.120.188.98
+dmb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dns.tongji.edu.cn. 1102 IN A 202.120.191.30
+
+dns.tongji.edu.cn. 1101 IN A 202.120.191.30
+
+dns1.tongji.edu.cn. 2231 IN A 202.120.191.208
+
+dns1.tongji.edu.cn. 2230 IN A 202.120.191.208
+
+dns1.tongji.edu.cn. 2230 IN A 202.120.191.208
+
+dns2.tongji.edu.cn. 0 IN A 220.250.64.225
+
+dns2.tongji.edu.cn. 60 IN A 220.250.64.225
+
+dwgk.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+dxxxgk.tongji.edu.cn. 3600 IN A 202.120.188.98
+dxxxgk.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+eace.tongji.edu.cn. 3600 IN A 222.66.109.32
+eace.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+easec15.tongji.edu.cn. 3600 IN A 202.120.188.98
+easec15.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ebar.tongji.edu.cn. 0 IN A 220.250.64.225
+
+ebar.tongji.edu.cn. 60 IN A 220.250.64.225
+
+edelivery.tongji.edu.cn. 3600 IN A 202.120.166.1
+
+edelivery.tongji.edu.cn. 3599 IN A 202.120.166.1
+
+edp.tongji.edu.cn. 0 IN A 220.250.64.225
+
+ee.tongji.edu.cn. 3600 IN A 202.120.188.98
+ee.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+eelab.tongji.edu.cn. 3600 IN A 202.120.167.62
+
+eetc.tongji.edu.cn. 3600 IN A 222.66.109.32
+eetc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+emba.tongji.edu.cn. 3600 IN A 202.120.188.98
+emba.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+embach.tongji.edu.cn. 3600 IN A 202.120.188.98
+embach.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+en.tongji.edu.cn. 3600 IN A 202.120.188.98
+en.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+english.tongji.edu.cn. 3600 IN A 202.120.188.98
+english.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+english-c.tongji.edu.cn. 3600 IN A 202.120.188.98
+english-c.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+envirolab.tongji.edu.cn. 3600 IN A 202.120.188.98
+envirolab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+epc.tongji.edu.cn. 3600 IN A 202.120.188.98
+epc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+esb.tongji.edu.cn. 3600 IN A 222.66.109.32
+esb.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+essc.tongji.edu.cn. 3600 IN A 222.66.109.32
+essc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+essc.tongji.edu.cn. 3599 IN A 202.120.188.98
+essc.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+est.tongji.edu.cn. 3600 IN A 202.120.188.98
+est.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+est.tongji.edu.cn. 3599 IN A 222.66.109.32
+est.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+exam.tongji.edu.cn. 60 IN A 202.120.163.252
+
+fablab.tongji.edu.cn. 3600 IN A 202.120.163.110
+
+fao.tongji.edu.cn. 3600 IN A 222.66.109.32
+fao.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+fm.tongji.edu.cn. 3600 IN A 202.120.188.98
+fm.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+fm.tongji.edu.cn. 3599 IN A 222.66.109.32
+fm.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+foc.tongji.edu.cn. 3600 IN A 202.120.163.43
+
+football.tongji.edu.cn. 3600 IN A 202.120.188.98
+football.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+football.tongji.edu.cn. 3599 IN A 222.66.109.32
+football.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+football.tongji.edu.cn. 3599 IN A 222.66.109.32
+football.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+fund.tongji.edu.cn. 1435 IN A 222.66.109.32
+fund.tongji.edu.cn. 1435 IN A 202.120.188.98
+
+fzgh.tongji.edu.cn. 3600 IN A 202.120.188.98
+fzgh.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+gaolab.tongji.edu.cn. 3600 IN A 222.66.109.32
+gaolab.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+gbne.tongji.edu.cn. 3600 IN A 202.120.188.98
+gbne.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+geotec.tongji.edu.cn. 3600 IN A 222.66.109.32
+geotec.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+geotec.tongji.edu.cn. 3599 IN A 202.120.188.98
+geotec.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+german-studies-online.tongji.edu.cn. 3600 IN A 202.120.188.98
+german-studies-online.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ggw.tongji.edu.cn. 3600 IN A 222.66.109.32
+ggw.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ggw.tongji.edu.cn. 3599 IN A 202.120.188.98
+ggw.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+ghhy.tongji.edu.cn. 3600 IN CNAME jdhtian.tongji.edu.cn.
+jdhtian.tongji.edu.cn. 3599 IN A 222.66.109.32
+jdhtian.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+gnss.tongji.edu.cn. 3600 IN A 202.120.188.98
+gnss.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+gonghui.tongji.edu.cn. 60 IN A 202.120.188.98
+gonghui.tongji.edu.cn. 60 IN A 222.66.109.32
+
+gonghui.tongji.edu.cn. 59 IN A 222.66.109.32
+gonghui.tongji.edu.cn. 59 IN A 202.120.188.98
+
+gonghui.tongji.edu.cn. 59 IN A 222.66.109.32
+gonghui.tongji.edu.cn. 59 IN A 202.120.188.98
+
+gongyingbu.tongji.edu.cn. 3600 IN A 222.66.109.32
+gongyingbu.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+greatlab.tongji.edu.cn. 3600 IN A 222.66.109.32
+greatlab.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+gs.tongji.edu.cn. 1632 IN A 222.66.109.32
+gs.tongji.edu.cn. 1632 IN A 202.120.188.98
+
+gs-caup.tongji.edu.cn. 2291 IN A 222.66.109.32
+gs-caup.tongji.edu.cn. 2291 IN A 202.120.188.98
+
+gsu.tongji.edu.cn. 3600 IN A 202.120.188.98
+gsu.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+gtjuh.tongji.edu.cn. 3600 IN A 222.66.109.32
+gtjuh.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+gypt.tongji.edu.cn. 3600 IN A 222.66.109.32
+gypt.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+gyy.tongji.edu.cn. 3600 IN A 222.66.109.32
+gyy.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+gyy.tongji.edu.cn. 3599 IN A 202.120.188.98
+gyy.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+hb.tongji.edu.cn. 3600 IN A 202.120.188.98
+hb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+hello.tongji.edu.cn. 1746 IN CNAME agserv.tongji.edu.cn.
+agserv.tongji.edu.cn. 1745 IN A 202.120.164.33
+
+hello.tongji.edu.cn. 1745 IN CNAME agserv.tongji.edu.cn.
+agserv.tongji.edu.cn. 1745 IN A 202.120.164.33
+
+homepage.tongji.edu.cn. 60 IN A 202.120.188.97
+
+homepage.tongji.edu.cn. 60 IN A 202.120.188.97
+
+hq.tongji.edu.cn. 3600 IN A 222.66.109.32
+hq.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+hq.tongji.edu.cn. 3599 IN A 202.120.188.98
+hq.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+hr.tongji.edu.cn. 1773 IN A 202.120.188.98
+hr.tongji.edu.cn. 1773 IN A 222.66.109.32
+
+huiyi.tongji.edu.cn. 3600 IN A 202.120.188.98
+huiyi.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+hx.tongji.edu.cn. 3600 IN A 202.120.188.98
+hx.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+hx.tongji.edu.cn. 3599 IN A 222.66.109.32
+hx.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+hydraulic.tongji.edu.cn. 3600 IN A 222.66.109.32
+hydraulic.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ias.tongji.edu.cn. 3600 IN A 222.66.109.32
+ias.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ic-ic.tongji.edu.cn. 3600 IN A 202.120.167.33
+
+icamg-9.tongji.edu.cn. 3600 IN A 202.120.188.98
+icamg-9.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+icamg-9.tongji.edu.cn. 3599 IN A 222.66.109.32
+icamg-9.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+iccem2019.tongji.edu.cn. 3600 IN A 222.66.109.32
+iccem2019.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+iceie.tongji.edu.cn. 3600 IN A 222.66.109.32
+iceie.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+icourse.tongji.edu.cn. 3600 IN A 222.66.109.32
+icourse.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+idp.tongji.edu.cn. 3600 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp.tongji.edu.cn. 3599 IN A 202.120.188.9
+
+idp2.tongji.edu.cn. 3600 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+idp2.tongji.edu.cn. 3599 IN A 202.120.188.209
+
+ids.tongji.edu.cn. 60 IN A 202.120.164.49
+
+ifcim.tongji.edu.cn. 3600 IN A 202.120.188.98
+ifcim.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ifcim.tongji.edu.cn. 3599 IN A 222.66.109.32
+ifcim.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+ilab.tongji.edu.cn. 3600 IN A 202.120.188.98
+ilab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+imap.tongji.edu.cn. 1741 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+imap.tongji.edu.cn. 1740 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+inano.tongji.edu.cn. 3600 IN A 202.120.188.98
+inano.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ipcenter.tongji.edu.cn. 3600 IN A 222.66.109.32
+ipcenter.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ipoe.tongji.edu.cn. 3600 IN A 202.120.188.98
+ipoe.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ir.tongji.edu.cn. 0 IN A 220.250.64.225
+
+ir.tongji.edu.cn. 60 IN A 220.250.64.225
+
+is.tongji.edu.cn. 3600 IN A 222.66.109.32
+is.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+isjw.tongji.edu.cn. 60 IN A 222.66.109.32
+isjw.tongji.edu.cn. 60 IN A 202.120.188.98
+
+itongjis.tongji.edu.cn. 3600 IN A 202.120.188.98
+itongjis.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+its.tongji.edu.cn. 3600 IN A 222.66.109.32
+its.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+its.tongji.edu.cn. 3599 IN A 202.120.188.98
+its.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+ivc.tongji.edu.cn. 3600 IN A 222.66.109.32
+ivc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ivc.tongji.edu.cn. 3599 IN A 202.120.188.98
+ivc.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+ivcm.tongji.edu.cn. 3600 IN A 222.66.109.32
+ivcm.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jdhtian.tongji.edu.cn. 3598 IN A 222.66.109.32
+jdhtian.tongji.edu.cn. 3598 IN A 202.120.188.98
+
+jdzs.tongji.edu.cn. 3600 IN A 222.66.109.32
+jdzs.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jgdw.tongji.edu.cn. 3600 IN A 222.66.109.32
+jgdw.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jiading.tongji.edu.cn. 3600 IN A 222.66.109.32
+jiading.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jinxiao.tongji.edu.cn. 3600 IN A 202.120.188.98
+jinxiao.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+jinxiao.tongji.edu.cn. 3599 IN A 222.66.109.32
+jinxiao.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+jjc.tongji.edu.cn. 3600 IN A 202.120.188.98
+jjc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+jmling.tongji.edu.cn. 3600 IN A 222.66.109.32
+jmling.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jpkc.tongji.edu.cn. 3600 IN A 222.66.109.32
+jpkc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jsjjc.tongji.edu.cn. 3600 IN A 222.66.109.32
+jsjjc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jtgc.tongji.edu.cn. 3600 IN A 202.120.188.98
+jtgc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+jtkz.tongji.edu.cn. 3600 IN A 202.120.188.98
+jtkz.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+jtxx.tongji.edu.cn. 0 IN A 220.250.64.225
+
+jtxx.tongji.edu.cn. 60 IN A 220.250.64.225
+
+jw.tongji.edu.cn. 3600 IN A 222.66.109.32
+jw.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+jwc.tongji.edu.cn. 1630 IN A 222.66.109.32
+jwc.tongji.edu.cn. 1630 IN A 202.120.188.98
+
+jwzhailab.tongji.edu.cn. 3600 IN A 202.120.188.98
+jwzhailab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+jxcg.tongji.edu.cn. 3600 IN A 202.120.188.98
+jxcg.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+jxcg.tongji.edu.cn. 3599 IN A 222.66.109.32
+jxcg.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+jxsjpt.tongji.edu.cn. 3600 IN A 202.120.167.16
+
+jzdu.tongji.edu.cn. 3600 IN A 222.66.109.32
+jzdu.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+kaohe.tongji.edu.cn. 3600 IN A 202.120.188.98
+kaohe.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+kgb.tongji.edu.cn. 3600 IN A 202.120.188.98
+kgb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+kgb.tongji.edu.cn. 3599 IN A 222.66.109.32
+kgb.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+kouqiang.tongji.edu.cn. 3600 IN A 202.120.188.98
+kouqiang.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ky.tongji.edu.cn. 3600 IN A 202.120.164.33
+
+ky.tongji.edu.cn. 3599 IN A 202.120.164.33
+
+ky.tongji.edu.cn. 3599 IN A 202.120.164.33
+
+kyfw.tongji.edu.cn. 3600 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyfw.tongji.edu.cn. 3599 IN A 202.120.171.6
+
+kyy.tongji.edu.cn. 0 IN A 220.250.64.225
+
+labcom.tongji.edu.cn. 3600 IN A 202.120.188.98
+labcom.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+landscape-caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+landscape-caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+lapp.tongji.edu.cn. 3600 IN A 202.120.164.17
+
+lapp.tongji.edu.cn. 3599 IN A 202.120.164.17
+
+law.tongji.edu.cn. 3600 IN A 202.120.188.98
+law.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+lhw.tongji.edu.cn. 3600 IN A 202.120.188.98
+lhw.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+lib.tongji.edu.cn. 3600 IN A 202.120.189.11
+
+lib.tongji.edu.cn. 3599 IN A 202.120.189.11
+
+dl1.lib.tongji.edu.cn. 0 IN A 220.250.64.225
+
+dl1.lib.tongji.edu.cn. 60 IN A 220.250.64.225
+
+dl2.lib.tongji.edu.cn. 0 IN A 220.250.64.225
+
+dl2.lib.tongji.edu.cn. 60 IN A 220.250.64.225
+
+dl9.lib.tongji.edu.cn. 3600 IN A 202.120.188.23
+
+dl9.lib.tongji.edu.cn. 3599 IN A 202.120.188.23
+
+owa.lib.tongji.edu.cn. 3600 IN A 202.120.188.193
+
+owa.lib.tongji.edu.cn. 3599 IN A 202.120.188.193
+
+wanfang.lib.tongji.edu.cn. 0 IN A 220.250.64.225
+
+wanfang.lib.tongji.edu.cn. 60 IN A 220.250.64.225
+
+webpac.lib.tongji.edu.cn. 3600 IN A 202.120.189.133
+
+webpac.lib.tongji.edu.cn. 3599 IN A 202.120.189.133
+
+webpac.lib.tongji.edu.cn. 3599 IN A 202.120.189.133
+
+www.lib.tongji.edu.cn. 2305 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+www.lib.tongji.edu.cn. 2304 IN A 202.120.188.7
+
+life.tongji.edu.cn. 2887 IN A 202.120.188.98
+life.tongji.edu.cn. 2887 IN A 222.66.109.32
+
+ltb.tongji.edu.cn. 3600 IN A 202.120.188.98
+ltb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+lx-lab.tongji.edu.cn. 3600 IN A 222.66.109.32
+lx-lab.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+lx-lab.tongji.edu.cn. 3599 IN A 202.120.188.98
+lx-lab.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+mail.tongji.edu.cn. 2787 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail.tongji.edu.cn. 2786 IN A 202.120.164.60
+
+mail-mgmt.tongji.edu.cn. 2464 IN A 202.120.164.160
+
+mail-mgmt.tongji.edu.cn. 2463 IN A 202.120.164.160
+
+mail-mgmt.tongji.edu.cn. 2463 IN A 202.120.164.160
+
+mailusrsvr1.tongji.edu.cn. 3600 IN A 202.120.164.161
+
+mailusrsvr1.tongji.edu.cn. 3599 IN A 202.120.164.161
+
+mailusrsvr2.tongji.edu.cn. 3600 IN A 202.120.164.162
+
+mailusrsvr2.tongji.edu.cn. 3599 IN A 202.120.164.162
+
+mailusrsvr3.tongji.edu.cn. 3600 IN A 202.120.164.163
+
+mailusrsvr3.tongji.edu.cn. 3599 IN A 202.120.164.163
+
+mailusrsvr4.tongji.edu.cn. 3600 IN A 202.120.164.170
+
+mailusrsvr4.tongji.edu.cn. 3599 IN A 202.120.164.170
+
+mailusrsvr5.tongji.edu.cn. 3600 IN A 202.120.164.171
+
+mailusrsvr5.tongji.edu.cn. 3599 IN A 202.120.164.171
+
+mailusrsvr6.tongji.edu.cn. 3600 IN A 202.120.164.172
+
+mailusrsvr6.tongji.edu.cn. 3599 IN A 202.120.164.172
+
+math.tongji.edu.cn. 2226 IN A 222.66.109.32
+math.tongji.edu.cn. 2226 IN A 202.120.188.98
+
+math.tongji.edu.cn. 2225 IN A 202.120.188.98
+math.tongji.edu.cn. 2225 IN A 222.66.109.32
+
+mba.tongji.edu.cn. 60 IN A 222.66.109.32
+mba.tongji.edu.cn. 60 IN A 202.120.188.98
+
+mba.tongji.edu.cn. 59 IN A 202.120.188.98
+mba.tongji.edu.cn. 59 IN A 222.66.109.32
+
+me.tongji.edu.cn. 3600 IN CNAME sem2.tongji.edu.cn.
+sem2.tongji.edu.cn. 3599 IN A 202.120.188.98
+sem2.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+mec.tongji.edu.cn. 3600 IN A 222.66.109.32
+mec.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+med.tongji.edu.cn. 632 IN A 202.120.188.98
+med.tongji.edu.cn. 632 IN A 222.66.109.32
+
+med.tongji.edu.cn. 631 IN A 222.66.109.32
+med.tongji.edu.cn. 631 IN A 202.120.188.98
+
+mednew.tongji.edu.cn. 60 IN A 202.120.188.98
+mednew.tongji.edu.cn. 60 IN A 222.66.109.32
+
+mefaculty.tongji.edu.cn. 3600 IN A 202.120.188.98
+mefaculty.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mem.tongji.edu.cn. 3600 IN CNAME sem.tongji.edu.cn.
+sem.tongji.edu.cn. 3599 IN A 222.66.109.32
+sem.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mestudio.tongji.edu.cn. 3600 IN A 202.120.188.98
+mestudio.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mf.tongji.edu.cn. 3600 IN A 202.120.188.98
+mf.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mgg.tongji.edu.cn. 3600 IN A 202.120.188.98
+mgg.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mic.tongji.edu.cn. 3600 IN A 202.120.188.98
+mic.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mic.tongji.edu.cn. 3599 IN A 222.66.109.32
+mic.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+mif.tongji.edu.cn. 3600 IN A 202.120.188.98
+mif.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mirrors.tongji.edu.cn. 2785 IN A 202.120.188.98
+mirrors.tongji.edu.cn. 2785 IN A 222.66.109.32
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mirrors.tongji.edu.cn. 2784 IN A 222.66.109.32
+mirrors.tongji.edu.cn. 2784 IN A 202.120.188.98
+
+mlab.tongji.edu.cn. 3600 IN A 222.66.109.32
+mlab.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+mlab.tongji.edu.cn. 3599 IN A 202.120.188.98
+mlab.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+mpa.tongji.edu.cn. 3600 IN A 222.66.109.32
+mpa.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+mpacc.tongji.edu.cn. 3600 IN A 202.120.188.98
+mpacc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+mta.tongji.edu.cn. 56 IN A 202.120.164.60
+
+mx1.tongji.edu.cn. 3423 IN A 202.120.164.180
+
+mx1.tongji.edu.cn. 3422 IN A 202.120.164.180
+
+mx1.tongji.edu.cn. 3422 IN A 202.120.164.180
+
+mx2.tongji.edu.cn. 3423 IN A 202.120.164.181
+
+mx2.tongji.edu.cn. 3422 IN A 202.120.164.181
+
+my.tongji.edu.cn. 3600 IN A 202.120.188.98
+my.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+my.tongji.edu.cn. 3599 IN A 222.66.109.32
+my.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+myportal.tongji.edu.cn. 60 IN A 202.120.170.23
+
+nano.tongji.edu.cn. 3600 IN A 202.120.188.98
+nano.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+nasadmin.tongji.edu.cn. 0 IN A 220.250.64.225
+
+nasadmin.tongji.edu.cn. 60 IN A 220.250.64.225
+
+news.tongji.edu.cn. 3106 IN A 202.120.188.98
+news.tongji.edu.cn. 3106 IN A 222.66.109.32
+
+news.tongji.edu.cn. 3105 IN A 222.66.109.32
+news.tongji.edu.cn. 3105 IN A 202.120.188.98
+
+news.tongji.edu.cn. 3105 IN A 222.66.109.32
+news.tongji.edu.cn. 3105 IN A 202.120.188.98
+
+news-caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+news-caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+nic.tongji.edu.cn. 1812 IN A 222.66.109.32
+nic.tongji.edu.cn. 1812 IN A 202.120.188.98
+
+nmtc.tongji.edu.cn. 3600 IN A 202.120.188.98
+nmtc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+nmtc.tongji.edu.cn. 3599 IN A 222.66.109.32
+nmtc.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+nyglzx.tongji.edu.cn. 60 IN A 222.66.109.32
+nyglzx.tongji.edu.cn. 60 IN A 202.120.188.98
+
+nzxy.tongji.edu.cn. 3600 IN A 222.66.109.32
+nzxy.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+oa.tongji.edu.cn. 3600 IN A 202.120.164.4
+
+oa.tongji.edu.cn. 3599 IN A 202.120.164.4
+
+oa-caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+oa-caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+oaad.tongji.edu.cn. 3600 IN A 222.66.109.32
+oaad.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ocean.tongji.edu.cn. 3600 IN A 202.120.188.98
+ocean.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ocean.tongji.edu.cn. 3599 IN A 222.66.109.32
+ocean.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+open.tongji.edu.cn. 3600 IN A 222.66.109.32
+open.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+paycwc.tongji.edu.cn. 3600 IN A 202.120.171.14
+
+paycwc.tongji.edu.cn. 3599 IN A 202.120.171.14
+
+phononics.tongji.edu.cn. 3600 IN A 202.120.188.98
+phononics.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+photo.tongji.edu.cn. 3600 IN A 222.66.109.32
+photo.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+physics.tongji.edu.cn. 3600 IN A 222.66.109.32
+physics.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+physics.tongji.edu.cn. 3599 IN A 202.120.188.98
+physics.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+pla.tongji.edu.cn. 3600 IN A 222.66.109.32
+pla.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+polymer.tongji.edu.cn. 3600 IN A 202.120.188.98
+polymer.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+pop.tongji.edu.cn. 60 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 60 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+pop.tongji.edu.cn. 59 IN A 202.120.164.60
+
+portal.tongji.edu.cn. 3600 IN A 202.120.189.190
+
+portal.tongji.edu.cn. 3599 IN A 202.120.189.190
+
+prefabcenter.tongji.edu.cn. 3600 IN A 202.120.188.98
+prefabcenter.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+press.tongji.edu.cn. 3600 IN A 222.66.109.32
+press.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+press.tongji.edu.cn. 3599 IN A 202.120.188.98
+press.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+pw.tongji.edu.cn. 3600 IN CNAME jdhtian.tongji.edu.cn.
+jdhtian.tongji.edu.cn. 3593 IN A 202.120.188.98
+jdhtian.tongji.edu.cn. 3593 IN A 222.66.109.32
+
+pxd.tongji.edu.cn. 3600 IN A 222.66.109.32
+pxd.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+qa.tongji.edu.cn. 60 IN A 222.66.109.32
+qa.tongji.edu.cn. 60 IN A 202.120.188.98
+
+qgwang.tongji.edu.cn. 3600 IN A 222.66.109.32
+qgwang.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+qljk.tongji.edu.cn. 0 IN A 220.250.64.225
+
+qljk.tongji.edu.cn. 60 IN A 220.250.64.225
+
+rail.tongji.edu.cn. 3600 IN A 222.66.109.32
+rail.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+rail.tongji.edu.cn. 3599 IN A 202.120.188.98
+rail.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+railway.tongji.edu.cn. 3600 IN A 222.66.109.32
+railway.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+rczx.tongji.edu.cn. 3600 IN A 222.66.109.32
+rczx.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+revproxy.tongji.edu.cn. 0 IN A 220.250.64.225
+
+revproxy.tongji.edu.cn. 60 IN A 220.250.64.225
+
+risk.tongji.edu.cn. 3600 IN A 202.120.188.98
+risk.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+risk.tongji.edu.cn. 3599 IN A 222.66.109.32
+risk.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+rlzc.tongji.edu.cn. 3600 IN A 202.120.189.251
+
+rlzc.tongji.edu.cn. 3599 IN A 202.120.189.251
+
+robot.tongji.edu.cn. 3600 IN A 202.120.188.98
+robot.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+router.tongji.edu.cn. 0 IN A 220.250.64.225
+
+router.tongji.edu.cn. 60 IN A 220.250.64.225
+
+rte.tongji.edu.cn. 3600 IN A 202.120.188.98
+rte.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sal.tongji.edu.cn. 3078 IN A 222.66.109.32
+sal.tongji.edu.cn. 3078 IN A 202.120.188.98
+
+sal.tongji.edu.cn. 3077 IN A 202.120.188.98
+sal.tongji.edu.cn. 3077 IN A 222.66.109.32
+
+science.tongji.edu.cn. 3600 IN CNAME math.tongji.edu.cn.
+math.tongji.edu.cn. 2222 IN A 202.120.188.98
+math.tongji.edu.cn. 2222 IN A 222.66.109.32
+
+science.tongji.edu.cn. 3599 IN CNAME math.tongji.edu.cn.
+math.tongji.edu.cn. 2222 IN A 202.120.188.98
+math.tongji.edu.cn. 2222 IN A 222.66.109.32
+
+scsc.tongji.edu.cn. 3600 IN A 202.120.188.98
+scsc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+see.tongji.edu.cn. 3600 IN A 202.120.188.98
+see.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+seestudent.tongji.edu.cn. 0 IN A 220.250.64.225
+
+seestudent.tongji.edu.cn. 60 IN A 220.250.64.225
+
+sem.tongji.edu.cn. 3597 IN A 222.66.109.32
+sem.tongji.edu.cn. 3597 IN A 202.120.188.98
+
+sem.tongji.edu.cn. 3597 IN A 222.66.109.32
+sem.tongji.edu.cn. 3597 IN A 202.120.188.98
+
+sem-international.tongji.edu.cn. 3600 IN CNAME sem.tongji.edu.cn.
+sem.tongji.edu.cn. 3597 IN A 222.66.109.32
+sem.tongji.edu.cn. 3597 IN A 202.120.188.98
+
+sem2.tongji.edu.cn. 3597 IN A 202.120.188.98
+sem2.tongji.edu.cn. 3597 IN A 222.66.109.32
+
+sem2.tongji.edu.cn. 3597 IN A 202.120.188.98
+sem2.tongji.edu.cn. 3597 IN A 222.66.109.32
+
+semclass.tongji.edu.cn. 3600 IN A 202.120.188.98
+semclass.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+service.tongji.edu.cn. 3079 IN A 202.120.164.4
+
+sese.tongji.edu.cn. 564 IN A 222.66.109.32
+sese.tongji.edu.cn. 564 IN A 202.120.188.98
+
+sfc.tongji.edu.cn. 3600 IN A 222.66.109.32
+sfc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+sfl.tongji.edu.cn. 3600 IN A 222.66.109.32
+sfl.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+shbc.tongji.edu.cn. 0 IN A 220.250.64.225
+
+shfcv.tongji.edu.cn. 0 IN A 220.250.64.225
+
+shfcv.tongji.edu.cn. 60 IN A 220.250.64.225
+
+shmc.tongji.edu.cn. 3600 IN A 202.120.188.98
+shmc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+shmro.tongji.edu.cn. 3600 IN CNAME nmtc.tongji.edu.cn.
+nmtc.tongji.edu.cn. 3596 IN A 222.66.109.32
+nmtc.tongji.edu.cn. 3596 IN A 202.120.188.98
+
+shtjh.tongji.edu.cn. 3600 IN A 202.120.188.98
+shtjh.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sicip.tongji.edu.cn. 3600 IN A 202.120.188.98
+sicip.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sie.tongji.edu.cn. 3600 IN A 202.120.188.98
+sie.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sino-german-dialogue.tongji.edu.cn. 3600 IN A 202.120.188.98
+sino-german-dialogue.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sjc.tongji.edu.cn. 3600 IN A 222.66.109.32
+sjc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+sjjx.tongji.edu.cn. 3600 IN A 202.120.188.98
+sjjx.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sldrce.tongji.edu.cn. 3600 IN A 222.66.109.32
+sldrce.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+smart3d.tongji.edu.cn. 3600 IN A 202.120.188.98
+smart3d.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+sms.tongji.edu.cn. 3600 IN A 202.120.189.216
+
+sms.tongji.edu.cn. 3599 IN A 202.120.189.216
+
+smse.tongji.edu.cn. 60 IN A 222.66.109.32
+smse.tongji.edu.cn. 60 IN A 202.120.188.98
+
+smse.tongji.edu.cn. 59 IN A 202.120.188.98
+smse.tongji.edu.cn. 59 IN A 222.66.109.32
+
+smtp.tongji.edu.cn. 985 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+smtp.tongji.edu.cn. 984 IN CNAME mta.tongji.edu.cn.
+mta.tongji.edu.cn. 59 IN A 202.120.164.60
+
+solidwaste.tongji.edu.cn. 3600 IN A 222.66.109.32
+solidwaste.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+sports.tongji.edu.cn. 3600 IN A 222.66.109.32
+sports.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+spsir.tongji.edu.cn. 3600 IN A 222.66.109.32
+spsir.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+spsir.tongji.edu.cn. 3599 IN A 202.120.188.98
+spsir.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+srias.tongji.edu.cn. 3600 IN A 202.120.188.98
+srias.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+ss.tongji.edu.cn. 3600 IN A 202.120.170.23
+
+ss.tongji.edu.cn. 3599 IN A 202.120.170.23
+
+sse.tongji.edu.cn. 3600 IN A 222.66.109.32
+sse.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+sse.tongji.edu.cn. 3599 IN A 202.120.188.98
+sse.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+sse.tongji.edu.cn. 3599 IN A 202.120.188.98
+sse.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+sseclass.tongji.edu.cn. 0 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 60 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+sseclass.tongji.edu.cn. 59 IN A 220.250.64.225
+
+ssic.tongji.edu.cn. 3600 IN A 222.66.109.32
+ssic.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+steelpro.tongji.edu.cn. 3600 IN A 222.66.109.32
+steelpro.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+stjedoas2.tongji.edu.cn. 0 IN A 220.250.64.225
+
+stjedoas2.tongji.edu.cn. 60 IN A 220.250.64.225
+
+stru-en.tongji.edu.cn. 1704 IN A 222.66.109.32
+stru-en.tongji.edu.cn. 1704 IN A 202.120.188.98
+
+structure.tongji.edu.cn. 3600 IN A 202.120.188.98
+structure.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+student.tongji.edu.cn. 1623 IN CNAME xingshi.tongji.edu.cn.
+xingshi.tongji.edu.cn. 1622 IN A 202.120.163.196
+
+student.tongji.edu.cn. 1623 IN A 202.120.163.196
+
+student-caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+student-caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+student-tjdi.tongji.edu.cn. 3600 IN A 222.66.109.32
+student-tjdi.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+study.tongji.edu.cn. 3600 IN A 202.120.188.98
+study.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+study-info.tongji.edu.cn. 3600 IN CNAME dns.lface.org.
+dns.lface.org. 1303 IN A 123.127.134.6
+
+syjx.tongji.edu.cn. 60 IN A 202.120.188.98
+syjx.tongji.edu.cn. 60 IN A 222.66.109.32
+
+tdi.tongji.edu.cn. 3600 IN A 222.66.109.32
+tdi.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tdi.tongji.edu.cn. 3599 IN A 202.120.188.98
+tdi.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+timearchi.tongji.edu.cn. 3600 IN A 222.66.109.32
+timearchi.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tj-crrc.tongji.edu.cn. 3600 IN A 222.66.109.32
+tj-crrc.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tj91.tongji.edu.cn. 3350 IN A 202.120.170.23
+
+tj91.tongji.edu.cn. 3349 IN A 202.120.170.23
+
+tj91.tongji.edu.cn. 3349 IN A 202.120.170.23
+
+tja309.tongji.edu.cn. 3600 IN A 202.120.188.98
+tja309.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjae.tongji.edu.cn. 0 IN A 220.250.64.225
+
+tjae.tongji.edu.cn. 60 IN A 220.250.64.225
+
+tjce.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjce.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjcontinuing.tongji.edu.cn. 3600 IN A 202.120.163.95
+
+tjcwc.tongji.edu.cn. 1018 IN A 202.120.188.98
+tjcwc.tongji.edu.cn. 1018 IN A 222.66.109.32
+
+tjcwc.tongji.edu.cn. 1018 IN A 202.120.188.98
+tjcwc.tongji.edu.cn. 1018 IN A 222.66.109.32
+
+tjdi.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjdi.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjdi.tongji.edu.cn. 3599 IN A 222.66.109.32
+tjdi.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tjee.tongji.edu.cn. 2723 IN A 222.66.109.32
+tjee.tongji.edu.cn. 2723 IN A 202.120.188.98
+
+tjfj.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjfj.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjfj.tongji.edu.cn. 3599 IN A 222.66.109.32
+tjfj.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tjiec.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjiec.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjis.tongji.edu.cn. 3600 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjis.tongji.edu.cn. 3599 IN A 202.120.189.191
+
+tjjt.tongji.edu.cn. 3600 IN A 222.66.109.32
+tjjt.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tjjtcloud.tongji.edu.cn. 3600 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtcloud.tongji.edu.cn. 3599 IN A 202.120.188.187
+
+tjjtnew.tongji.edu.cn. 3600 IN A 202.120.167.63
+
+tjkg.tongji.edu.cn. 3600 IN A 222.66.109.32
+tjkg.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tjkg.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjkg.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjks.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjks.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjpay.tongji.edu.cn. 2412 IN A 202.120.188.28
+
+tjroad.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjroad.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjsic.tongji.edu.cn. 3600 IN A 222.66.109.32
+tjsic.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tjt.tongji.edu.cn. 0 IN A 220.250.64.225
+
+tjt.tongji.edu.cn. 60 IN A 220.250.64.225
+
+tjtdm.tongji.edu.cn. 3600 IN A 202.120.188.98
+tjtdm.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tjtdm.tongji.edu.cn. 3599 IN A 222.66.109.32
+tjtdm.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tjuti.tongji.edu.cn. 3600 IN A 222.66.109.32
+tjuti.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tjwm.tongji.edu.cn. 3600 IN A 222.66.109.32
+tjwm.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjwm.tongji.edu.cn. 3599 IN A 202.120.188.98
+tjwm.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tjygc.tongji.edu.cn. 0 IN A 220.250.64.225
+
+tjygc.tongji.edu.cn. 60 IN A 220.250.64.225
+
+tmxg.tongji.edu.cn. 3600 IN A 222.66.109.32
+tmxg.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+tmxg.tongji.edu.cn. 3599 IN A 202.120.188.98
+tmxg.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+tops.tongji.edu.cn. 3600 IN A 202.120.188.98
+tops.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tops.tongji.edu.cn. 3599 IN A 222.66.109.32
+tops.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tpm.tongji.edu.cn. 3600 IN A 202.120.188.98
+tpm.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+training-caup.tongji.edu.cn. 3600 IN A 202.120.188.98
+training-caup.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+trit.tongji.edu.cn. 3600 IN A 202.120.188.98
+trit.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tunnel.tongji.edu.cn. 3600 IN A 202.120.188.98
+tunnel.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+tunnel.tongji.edu.cn. 3599 IN A 222.66.109.32
+tunnel.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+tzb.tongji.edu.cn. 3600 IN A 202.120.188.98
+tzb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+unep-iesd.tongji.edu.cn. 2280 IN A 202.120.188.98
+unep-iesd.tongji.edu.cn. 2280 IN A 222.66.109.32
+
+unterricht.tongji.edu.cn. 3600 IN A 222.66.109.32
+unterricht.tongji.edu.cn. 3600 IN A 202.120.188.98
+unterricht.tongji.edu.cn. 3600 IN A 202.120.167.157
+
+upan.tongji.edu.cn. 60 IN A 202.120.166.34
+
+upd-caup.tongji.edu.cn. 2276 IN A 222.66.109.32
+upd-caup.tongji.edu.cn. 2276 IN A 202.120.188.98
+
+urbanization-think-tank.tongji.edu.cn. 3600 IN A 222.66.109.32
+urbanization-think-tank.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+urp.tongji.edu.cn. 3600 IN A 202.120.170.23
+
+uxlab.tongji.edu.cn. 3600 IN A 202.120.188.98
+uxlab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+uxlab.tongji.edu.cn. 3599 IN A 222.66.109.32
+uxlab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+vatlab.tongji.edu.cn. 3600 IN A 202.120.188.98
+vatlab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+vatlab.tongji.edu.cn. 3599 IN A 222.66.109.32
+vatlab.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+vecan.tongji.edu.cn. 3600 IN A 222.66.109.32
+vecan.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+vecan.tongji.edu.cn. 3599 IN A 202.120.188.98
+vecan.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+vibcon.tongji.edu.cn. 3600 IN A 222.66.109.32
+vibcon.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+vod.tongji.edu.cn. 2276 IN A 202.120.189.210
+
+vod.tongji.edu.cn. 2275 IN A 202.120.189.210
+
+vod.tongji.edu.cn. 2275 IN A 202.120.189.210
+
+vod-api.tongji.edu.cn. 3600 IN A 202.120.188.121
+
+vod-api.tongji.edu.cn. 3599 IN A 202.120.188.121
+
+vod-live.tongji.edu.cn. 253 IN A 202.120.188.119
+
+vod-live.tongji.edu.cn. 252 IN A 202.120.188.119
+
+vod-trans.tongji.edu.cn. 3600 IN A 202.120.188.204
+
+vod-trans.tongji.edu.cn. 3599 IN A 202.120.188.204
+
+vod-vod.tongji.edu.cn. 3600 IN A 202.120.188.203
+
+vod-vod.tongji.edu.cn. 3599 IN A 202.120.188.203
+
+wap.tongji.edu.cn. 3600 IN A 202.120.188.199
+
+wap.tongji.edu.cn. 3599 IN A 202.120.188.199
+
+webpacurp.tongji.edu.cn. 3600 IN A 202.120.189.194
+
+webpacurp.tongji.edu.cn. 3599 IN A 202.120.189.194
+
+weng.tongji.edu.cn. 3600 IN A 202.120.188.98
+weng.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+wiee.tongji.edu.cn. 3600 IN A 222.66.109.32
+wiee.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+wind-eng.tongji.edu.cn. 3600 IN A 202.120.188.98
+wind-eng.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+wireless.tongji.edu.cn. 0 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 60 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+wireless.tongji.edu.cn. 59 IN A 220.250.64.225
+
+wkb.tongji.edu.cn. 3600 IN A 222.66.109.32
+wkb.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+wkxuebao.tongji.edu.cn. 3600 IN A 202.120.167.71
+
+wlry.tongji.edu.cn. 3600 IN A 202.120.189.66
+
+wlry.tongji.edu.cn. 3599 IN A 202.120.189.66
+
+wm.tongji.edu.cn. 3600 IN A 202.120.188.98
+wm.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+women.tongji.edu.cn. 3600 IN A 222.66.109.32
+women.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+wubing.tongji.edu.cn. 3600 IN A 222.66.109.32
+wubing.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+wubing.tongji.edu.cn. 3599 IN A 202.120.188.98
+wubing.tongji.edu.cn. 3599 IN A 222.66.109.32
+
+www.tongji.edu.cn. 197 IN A 222.66.109.32
+www.tongji.edu.cn. 197 IN A 202.120.188.98
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+www.tongji.edu.cn. 196 IN A 202.120.188.98
+www.tongji.edu.cn. 196 IN A 222.66.109.32
+
+wzb.tongji.edu.cn. 3600 IN A 202.120.188.98
+wzb.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+xg.tongji.edu.cn. 3600 IN CNAME agserv.tongji.edu.cn.
+agserv.tongji.edu.cn. 3581 IN A 202.120.164.33
+
+xingshi.tongji.edu.cn. 1619 IN A 202.120.163.196
+
+xuanke.tongji.edu.cn. 3600 IN A 202.120.189.123
+
+xuweilab.tongji.edu.cn. 3600 IN A 222.66.109.32
+xuweilab.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+xxgk.tongji.edu.cn. 3600 IN A 202.120.163.21
+
+yang-lab.tongji.edu.cn. 3600 IN A 202.120.188.98
+yang-lab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+yanglab.tongji.edu.cn. 3600 IN A 202.120.188.98
+yanglab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+yangtze.tongji.edu.cn. 3600 IN A 222.66.109.32
+yangtze.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+yanzhongpei.tongji.edu.cn. 3600 IN A 222.66.109.32
+yanzhongpei.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+ygb.tongji.edu.cn. 2274 IN A 202.120.188.98
+ygb.tongji.edu.cn. 2274 IN A 222.66.109.32
+
+yikatongda.tongji.edu.cn. 3600 IN A 202.120.188.95
+
+yikatongda.tongji.edu.cn. 3599 IN A 202.120.188.95
+
+yiliao.tongji.edu.cn. 300 IN A 202.120.162.96
+
+yjsqd.tongji.edu.cn. 3600 IN A 202.120.188.189
+
+yjsqd.tongji.edu.cn. 3599 IN A 202.120.188.189
+
+yjszs.tongji.edu.cn. 1538 IN A 202.120.176.2
+
+yktids.tongji.edu.cn. 3600 IN A 202.120.189.121
+
+yktids.tongji.edu.cn. 3599 IN A 202.120.189.121
+
+yktzf.tongji.edu.cn. 3600 IN A 202.120.188.122
+
+yktzf.tongji.edu.cn. 3599 IN A 202.120.188.122
+
+youth.tongji.edu.cn. 3600 IN A 202.120.188.98
+youth.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+youth.tongji.edu.cn. 3599 IN A 222.66.109.32
+youth.tongji.edu.cn. 3599 IN A 202.120.188.98
+
+yun.tongji.edu.cn. 3600 IN A 202.120.164.109
+
+yun.tongji.edu.cn. 3599 IN A 202.120.164.109
+
+yuncmc.tongji.edu.cn. 3600 IN A 202.120.164.37
+
+yuncmc.tongji.edu.cn. 3599 IN A 202.120.164.37
+
+yuncmc.tongji.edu.cn. 3599 IN A 202.120.164.37
+
+yz.tongji.edu.cn. 2051 IN A 222.66.109.32
+yz.tongji.edu.cn. 2051 IN A 202.120.188.98
+
+yz.tongji.edu.cn. 2050 IN A 202.120.188.98
+yz.tongji.edu.cn. 2050 IN A 222.66.109.32
+
+yz.tongji.edu.cn. 2050 IN A 202.120.188.98
+yz.tongji.edu.cn. 2050 IN A 222.66.109.32
+
+zcsys.tongji.edu.cn. 3600 IN A 202.120.164.57
+
+zcsys.tongji.edu.cn. 3599 IN A 202.120.164.57
+
+zhanghc.tongji.edu.cn. 3600 IN A 202.120.188.98
+zhanghc.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+zhanglab.tongji.edu.cn. 3600 IN A 202.120.188.98
+zhanglab.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+zhangxu.tongji.edu.cn. 3600 IN A 202.120.188.98
+zhangxu.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+zhangyhgroup.tongji.edu.cn. 3600 IN A 202.120.188.98
+zhangyhgroup.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+zhouwanggong.tongji.edu.cn. 3600 IN A 202.120.188.98
+zhouwanggong.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+zhzx.tongji.edu.cn. 3600 IN A 202.120.163.88
+
+zijue.tongji.edu.cn. 3600 IN A 222.66.109.32
+zijue.tongji.edu.cn. 3600 IN A 202.120.188.98
+
+zp.tongji.edu.cn. 60 IN A 202.120.188.98
+zp.tongji.edu.cn. 60 IN A 222.66.109.32
+
+zp.tongji.edu.cn. 59 IN A 222.66.109.32
+zp.tongji.edu.cn. 59 IN A 202.120.188.98
+
+zp.tongji.edu.cn. 59 IN A 222.66.109.32
+zp.tongji.edu.cn. 59 IN A 202.120.188.98
+
+zxenglish.tongji.edu.cn. 0 IN A 220.250.64.225
+
+zxenglish.tongji.edu.cn. 60 IN A 220.250.64.225
+
+zyjin.tongji.edu.cn. 3600 IN A 202.120.188.98
+zyjin.tongji.edu.cn. 3600 IN A 222.66.109.32
+
+NXDOMAIN for zyxw.tongji.edu.cn
+
+zzfwjw.tongji.edu.cn. 3600 IN A 202.120.189.18
+
+zzfwjw.tongji.edu.cn. 3599 IN A 202.120.189.18
+

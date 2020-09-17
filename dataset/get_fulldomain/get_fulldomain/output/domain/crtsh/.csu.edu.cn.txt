@@ -1,0 +1,11 @@
+*.csu.edu.cn
+*.its.csu.edu.cn
+bb.csu.edu.cn
+blj.csu.edu.cn
+csuylg.csu.edu.cn
+dgdz.csu.edu.cn
+its.csu.edu.cn
+mail.csu.edu.cn
+tse.csu.edu.cn
+www.bb.csu.edu.cn
+www.csuylg.csu.edu.cn

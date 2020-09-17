@@ -1,0 +1,528 @@
+survey.hzau.edu.cnhzau.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for hzau.edu.cn
+
+NXDOMAIN for hzau.edu.cn
+
+NXDOMAIN for hzau.edu.cn
+
+NXDOMAIN for hzau.edu.cn
+
+NXDOMAIN for hzau.edu.cn
+
+NXDOMAIN for hzau.edu.cn
+
+NXDOMAIN for hzau.edu.cn
+
+110th.hzau.edu.cn. 14400 IN A 211.144.92.107
+
+120th.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+acm.hzau.edu.cn. 14400 IN A 211.69.133.223
+
+agbr.hzau.edu.cn. 14400 IN A 211.69.132.12
+
+agconference.hzau.edu.cn. 14400 IN A 211.69.130.37
+
+amrd.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+app.hzau.edu.cn. 60 IN A 211.69.143.108
+
+audiobook.hzau.edu.cn. 14400 IN A 211.69.130.104
+
+audiobook.hzau.edu.cn. 7199 IN A 211.69.130.104
+
+bbrc.hzau.edu.cn. 14400 IN A 211.69.143.17
+
+bcam.hzau.edu.cn. 14400 IN A 122.205.95.26
+
+biomed.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+bksy.hzau.edu.cn. 60 IN A 211.69.143.61
+
+bmb.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+bwg.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+career.hzau.edu.cn. 14400 IN A 211.69.143.59
+
+cars.hzau.edu.cn. 14400 IN A 122.205.95.55
+
+cas.hzau.edu.cn. 14267 IN A 211.69.143.158
+
+cbi.hzau.edu.cn. 60 IN A 211.69.140.138
+
+ccain.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+center.hzau.edu.cn. 3600 IN A 211.69.143.61
+
+cet.hzau.edu.cn. 60 IN A 211.69.143.61
+
+cf.hzau.edu.cn. 60 IN A 211.69.143.61
+
+cf.hzau.edu.cn. 59 IN A 211.69.143.61
+
+cf.hzau.edu.cn. 59 IN A 211.69.143.61
+
+chfs.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+chinayzsl.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+citrus.hzau.edu.cn. 14400 IN A 211.69.140.138
+
+clfs.hzau.edu.cn. 14400 IN A 211.69.128.173
+
+xyzj.hzau.edu.cnddd.hzau.edu.cn. 0 IN A 220.250.64.225
+
+yinlab.hzau.edu.cnddd.hzau.edu.cn. 0 IN A 220.250.64.225
+
+www.hzau.edu.cnggxy.hzau.edu.cn. 0 IN A 220.250.64.225
+
+xg.hzau.edu.cnmoodle.hzau.edu.cn. 0 IN A 220.250.64.225
+
+xg.hzau.edu.cnxyzj.hzau.edu.cn. 0 IN A 220.250.64.225
+
+www.hzau.edu.cnyinlab.hzau.edu.cn. 0 IN A 220.250.64.225
+
+coep.hzau.edu.cn. 14400 IN A 211.69.143.150
+
+coi.hzau.edu.cn. 60 IN A 211.69.143.61
+
+coisyzx.hzau.edu.cn. 14400 IN A 211.69.130.29
+
+cotton.hzau.edu.cn. 14400 IN A 211.69.141.136
+
+course.hzau.edu.cn. 14400 IN A 211.69.141.11
+
+cpis.hzau.edu.cn. 14400 IN A 211.69.132.1
+
+cppc.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+cpst.hzau.edu.cn. 7200 IN A 211.69.143.61
+
+crispr.hzau.edu.cn. 14400 IN A 211.69.140.137
+
+crispr.hzau.edu.cn. 7199 IN A 211.69.140.137
+
+crispr.hzau.edu.cn. 7199 IN A 211.69.140.137
+
+croplab.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+cwb.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+ddd.hzau.edu.cn. 14400 IN A 211.69.130.39
+
+ddd.hzau.edu.cn. 7199 IN A 211.69.130.39
+
+ddd.hzau.edu.cn. 7199 IN A 211.69.130.39
+
+ddd.hzau.edu.cn. 7199 IN A 211.69.130.39
+
+ddd.hzau.edu.cn. 7199 IN A 211.69.130.39
+
+ddd.hzau.edu.cn. 7199 IN A 211.69.130.39
+
+ddd.hzau.edu.cn. 7199 IN A 211.69.130.39
+
+dns.hzau.edu.cn. 2038 IN A 211.69.143.1
+
+dns1.hzau.edu.cn. 2038 IN A 211.69.143.2
+
+dns2.hzau.edu.cn. 2038 IN A 211.69.143.119
+
+dsxb.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+dxscxcy.hzau.edu.cn. 14400 IN A 211.69.130.88
+
+ecard.hzau.edu.cn. 14400 IN A 211.69.129.123
+
+ecdlab.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+ehqpc.hzau.edu.cn. 14400 IN A 211.69.143.126
+ehqpc.hzau.edu.cn. 14400 IN A 211.69.132.126
+
+ehqpc.hzau.edu.cn. 7199 IN A 211.69.132.126
+ehqpc.hzau.edu.cn. 7199 IN A 211.69.143.126
+
+ehqsso.hzau.edu.cn. 14400 IN A 211.69.132.126
+
+emc.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+eyou.hzau.edu.cn. 14400 IN A 211.69.143.18
+
+fao.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+fao1.hzau.edu.cn. 14400 IN A 211.69.143.26
+fao1.hzau.edu.cn. 14400 IN A 211.69.130.22
+
+fishqq.hzau.edu.cn. 14400 IN A 122.205.95.3
+
+fld.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+fld.hzau.edu.cn. 7199 IN A 211.69.143.62
+
+fld.hzau.edu.cn. 7199 IN A 211.69.143.62
+
+fzc.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+gcgi.hzau.edu.cn. 14400 IN A 211.69.140.142
+
+ggglsyzx.hzau.edu.cn. 14400 IN A 211.69.130.16
+
+ggxy.hzau.edu.cn. 60 IN A 211.69.143.62
+
+ggxy.hzau.edu.cn. 59 IN A 211.69.143.62
+
+gh.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+gis.hzau.edu.cn. 14400 IN A 211.69.132.90
+
+gjs.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+glab.hzau.edu.cn. 14400 IN A 218.199.68.199
+
+gong_lab.hzau.edu.cn. 14400 IN A 218.199.68.214
+
+gresource.hzau.edu.cn. 60 IN A 211.69.128.223
+
+gzsb.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+hbifst.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+hngs.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+hnmba.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+hnsc.hzau.edu.cn. 14400 IN A 211.69.143.8
+
+hnxb.hzau.edu.cn. 60 IN A 211.69.143.61
+
+hortilab.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+hospital.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+hq.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+hqjt.hzau.edu.cn. 14400 IN A 122.205.95.213
+
+hssf.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+hyhan.hzau.edu.cn. 60 IN A 122.205.95.116
+
+hzaml.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+hzsy.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+i.hzau.edu.cn. 14400 IN A 211.69.143.192
+
+iap2020.hzau.edu.cn. 14400 IN A 134.175.57.190
+
+ibi.hzau.edu.cn. 14400 IN A 211.69.140.139
+
+ic.hzau.edu.cn. 11050 IN A 211.69.143.61
+
+ics.hzau.edu.cn. 14400 IN A 211.69.130.36
+
+img.hzau.edu.cn. 14400 IN A 211.69.143.108
+
+itc.hzau.edu.cn. 12800 IN A 218.199.68.140
+
+jbts.hzau.edu.cn. 14400 IN A 211.69.128.232
+
+jc.hzau.edu.cn. 14400 IN A 218.199.68.138
+
+jcc.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+jcc1.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+jccpay.hzau.edu.cn. 14400 IN A 211.69.134.6
+
+jj.hzau.edu.cn. 14400 IN A 211.69.132.45
+
+jjc.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+jwb.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+jwgl.hzau.edu.cn. 60 IN A 211.69.128.65
+
+jxjy.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+kfy.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+kjcx.hzau.edu.cn. 14400 IN A 211.69.143.8
+
+klpm.hzau.edu.cn. 14400 IN A 122.205.95.38
+
+la.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+lac.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+lcpt.hzau.edu.cn. 14400 IN A 211.69.143.165
+
+li.hzau.edu.cn. 14400 IN A 211.69.143.69
+
+lib.hzau.edu.cn. 14400 IN A 211.69.140.13
+
+libproxy.hzau.edu.cn. 14400 IN A 218.199.77.44
+
+linx.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+lst.hzau.edu.cn. 14086 IN A 211.69.143.61
+
+ltx.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+lxy.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+m.hzau.edu.cn. 14400 IN A 211.69.143.108
+
+mail.hzau.edu.cn. 14400 IN A 211.69.143.19
+
+mari.hzau.edu.cn. 60 IN A 211.69.143.62
+
+mbltc.hzau.edu.cn. 14400 IN A 211.69.143.8
+
+menjin.hzau.edu.cn. 14400 IN A 211.69.129.39
+
+microbeng.hzau.edu.cn. 14400 IN A 211.69.143.8
+
+mks.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+mmgdb.hzau.edu.cn. 14400 IN A 211.69.140.138
+
+modem.hzau.edu.cn. 14400 IN A 122.205.95.139
+
+moodle.hzau.edu.cn. 14400 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+moodle.hzau.edu.cn. 7199 IN A 211.69.130.76
+
+mpa.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+mrc.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+my.hzau.edu.cn. 142807 IN A 211.69.143.61
+
+nbst.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+ncffi.hzau.edu.cn. 14400 IN A 122.205.95.3
+
+nercmp.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+news.hzau.edu.cn. 14400 IN A 211.69.143.108
+
+news1.hzau.edu.cn. 14400 IN A 211.69.143.103
+
+nhjy.hzau.edu.cn. 14400 IN A 211.69.143.54
+
+nplab.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+ntflab.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+pdc.hzau.edu.cn. 14400 IN A 211.69.143.114
+
+pecc.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+pepperhub.hzau.edu.cn. 14400 IN A 122.205.95.132
+
+plantphenomics.hzau.edu.cn. 14400 IN A 122.205.95.152
+
+pmite.hzau.edu.cn. 14400 IN A 211.69.128.224
+
+qbp.hzau.edu.cn. 14400 IN A 211.69.140.133
+
+qks.hzau.edu.cn. 7783 IN A 211.69.143.61
+
+rapeseed.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+rice.hzau.edu.cn. 11108 IN A 211.69.140.138
+
+rptdb.hzau.edu.cn. 14400 IN A 122.205.95.69
+
+rs.hzau.edu.cn. 14400 IN A 211.69.143.228
+
+rsc.hzau.edu.cn. 3165 IN A 211.69.143.62
+
+rsgl.hzau.edu.cn. 14400 IN A 211.69.143.79
+
+school.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+scjxzx.hzau.edu.cn. 14400 IN A 122.205.95.238
+
+sclxh.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+shipin.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+shop.hzau.edu.cn. 14400 IN A 211.69.128.218
+
+sjc.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+sky.hzau.edu.cn. 14400 IN A 122.205.95.41
+
+special.hzau.edu.cn. 14400 IN A 211.69.143.108
+
+spkx.hzau.edu.cn. 14400 IN A 211.69.143.54
+
+sport.hzau.edu.cn. 60 IN A 211.69.143.61
+
+sso.hzau.edu.cn. 14400 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+sso.hzau.edu.cn. 7199 IN A 211.69.143.135
+
+survey.hzau.edu.cn. 14400 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+survey.hzau.edu.cn. 7199 IN A 211.69.130.7
+
+swx.hzau.edu.cn. 7200 IN A 211.69.132.60
+
+syzx.hzau.edu.cn. 14400 IN A 211.69.143.54
+
+szssy.hzau.edu.cn. 14400 IN A 211.69.143.8
+
+tw.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+tzb.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+upload.hzau.edu.cn. 14400 IN A 211.69.143.108
+
+webmail.hzau.edu.cn. 14400 IN A 211.69.143.18
+
+webmail.hzau.edu.cn. 7199 IN A 211.69.143.18
+
+webmail.hzau.edu.cn. 7199 IN A 211.69.143.18
+
+wf.hzau.edu.cn. 172800 IN A 211.69.143.61
+
+www.hzau.edu.cn. 60 IN A 211.69.143.61
+
+www.hzau.edu.cn. 59 IN A 211.69.143.61
+
+www.hzau.edu.cn. 60 IN A 211.69.143.61
+
+www.hzau.edu.cn. 59 IN A 211.69.143.61
+
+www.hzau.edu.cn. 59 IN A 211.69.143.61
+
+www.hzau.edu.cn. 59 IN A 211.69.143.61
+
+www.hzau.edu.cn. 59 IN A 211.69.143.61
+
+wzj.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+xchb.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+xg.hzau.edu.cn. 14400 IN A 211.69.143.138
+
+xg.hzau.edu.cn. 7199 IN A 211.69.143.138
+
+xg.hzau.edu.cn. 7199 IN A 211.69.143.138
+
+xg.hzau.edu.cn. 7199 IN A 211.69.143.138
+
+xg.hzau.edu.cn. 7199 IN A 211.69.143.138
+
+xg.hzau.edu.cn. 7199 IN A 211.69.143.138
+
+xg.hzau.edu.cn. 7199 IN A 211.69.143.138
+
+xgc.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+xmt.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+xnc.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+xszz.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+xwgk.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+xyh.hzau.edu.cn. 14400 IN A 211.69.130.25
+
+xyzj.hzau.edu.cn. 14400 IN A 211.69.143.201
+
+xyzj.hzau.edu.cn. 7199 IN A 211.69.143.201
+
+xyzj.hzau.edu.cn. 7199 IN A 211.69.143.201
+
+xyzj.hzau.edu.cn. 7199 IN A 211.69.143.201
+
+xyzj.hzau.edu.cn. 7199 IN A 211.69.143.201
+
+xyzj.hzau.edu.cn. 7199 IN A 211.69.143.201
+
+xyzj.hzau.edu.cn. 7199 IN A 211.69.143.201
+
+yczx.hzau.edu.cn. 14400 IN A 211.69.130.99
+
+ydd.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+yinlab.hzau.edu.cn. 14400 IN A 211.69.132.99
+
+yinlab.hzau.edu.cn. 7199 IN A 211.69.132.99
+
+yinlab.hzau.edu.cn. 7199 IN A 211.69.132.99
+
+yinlab.hzau.edu.cn. 7199 IN A 211.69.132.99
+
+yjs.hzau.edu.cn. 160416 IN A 211.69.143.62
+
+yjsjob.hzau.edu.cn. 14400 IN A 211.69.128.132
+yjsjob.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+yjsjy.hzau.edu.cn. 14400 IN A 211.69.130.63
+
+yjsw.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+zhhq.hzau.edu.cn. 60 IN A 211.69.130.53
+
+zhu2011.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+zizhu.hzau.edu.cn. 14400 IN A 211.69.143.157
+
+zs.hzau.edu.cn. 14400 IN A 211.69.143.62
+
+ztb.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+zwx.hzau.edu.cn. 14400 IN A 211.69.130.71
+
+zyhj.hzau.edu.cn. 14400 IN A 211.69.143.61
+
+zyhj2.hzau.edu.cn. 14400 IN A 211.69.143.26
+
+zzb.hzau.edu.cn. 14400 IN A 211.69.143.61
+

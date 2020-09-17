@@ -1,0 +1,2250 @@
+20th.shzu.edu.cn. 300 IN A 116.255.235.199
+
+20th.shzu.edu.cn. 299 IN A 116.255.235.199
+
+20th.shzu.edu.cn. 299 IN A 116.255.235.199
+
+20th.shzu.edu.cn. 299 IN A 116.255.235.199
+
+20th.shzu.edu.cn. 299 IN A 116.255.235.199
+
+20th.shzu.edu.cn. 299 IN A 116.255.235.199
+
+NXDOMAIN for 3ddh.shzu.edu.cn
+
+NXDOMAIN for 3ddh.shzu.edu.cn
+
+NXDOMAIN for 3ddh.shzu.edu.cn
+
+NXDOMAIN for 3ddh.shzu.edu.cn
+
+60thjk.shzu.edu.cn. 300 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+60thjk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+art.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+art.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+artist.shzu.edu.cn. 300 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+artist.shzu.edu.cn. 299 IN A 116.255.235.199
+
+authserver.shzu.edu.cn. 3600 IN A 202.201.165.4
+
+authserver.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+bb.shzu.edu.cn. 3600 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn. 3599 IN A 202.201.165.42
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 300 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+service.shzu.edu.cnbb.shzu.edu.cn<BR>www.bb.shzu.edu.cn. 300 IN A 116.255.235.199
+
+bmrc.shzu.edu.cn. 300 IN A 116.255.235.199
+
+bmrc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bmrc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+btyq.shzu.edu.cn. 3600 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+btyq.shzu.edu.cn. 3599 IN A 202.201.162.180
+
+bwb.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bwb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+bx.shzu.edu.cn. 300 IN A 116.255.235.199
+
+bx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+bx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+card.shzu.edu.cn. 3600 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+card.shzu.edu.cn. 3599 IN A 202.201.167.2
+
+cee.shzu.edu.cn. 3600 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+cee.shzu.edu.cn. 3599 IN A 202.201.162.164
+
+clhg.shzu.edu.cn. 300 IN A 116.255.235.199
+
+clhg.shzu.edu.cn. 299 IN A 116.255.235.199
+
+clhg.shzu.edu.cn. 299 IN A 116.255.235.199
+
+clhg.shzu.edu.cn. 299 IN A 116.255.235.199
+
+clhg.shzu.edu.cn. 299 IN A 116.255.235.199
+
+cmrc.shzu.edu.cn. 300 IN A 116.255.235.199
+
+cmrc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+cmrc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+cmrc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+cmrc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn3ddh.shzu.edu.cn. 300 IN A 116.255.235.199
+
+jccdd.shzu.edu.cnbb.shzu.edu.cn. 300 IN A 116.255.235.199
+
+my.shzu.edu.cnbtyq.shzu.edu.cn. 300 IN A 116.255.235.199
+
+cwbm.shzu.edu.cncmrc.shzu.edu.cn. 300 IN A 116.255.235.199
+
+zzb.shzu.edu.cneol.shzu.edu.cn. 300 IN A 116.255.235.199
+
+dkzy.shzu.edu.cngcjs.shzu.edu.cn. 300 IN A 116.255.235.199
+
+jdxy.shzu.edu.cnjk.shzu.edu.cn. 300 IN A 116.255.235.199
+
+mail.shzu.edu.cnmail.shzu.edu.cn. 300 IN A 116.255.235.199
+
+sztz.shzu.edu.cnmail.shzu.edu.cn. 300 IN A 116.255.235.199
+
+bb.shzu.edu.cnnc.shzu.edu.cn. 300 IN A 116.255.235.199
+
+stu.shzu.edu.cnpsychology.shzu.edu.cn. 300 IN A 116.255.235.199
+
+gra.shzu.edu.cnwyxy.shzu.edu.cn. 300 IN A 116.255.235.199
+
+bb.shzu.edu.cn<BR>www.bb.shzu.edu.cnxpcc.shzu.edu.cn. 300 IN A 116.255.235.199
+
+mail.shzu.edu.cnzzxx.shzu.edu.cn. 300 IN A 116.255.235.199
+
+cwbm.shzu.edu.cn. 3600 IN A 202.201.166.131
+
+cwbm.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+cwbm.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+cwbm.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+cwbm.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+cwbm.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+cwbm.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+dag.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dag.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dkxy.shzu.edu.cn. 3450 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkxy.shzu.edu.cn. 3449 IN A 202.201.161.217
+
+dkzy.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+dkzy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dkzy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dkzy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dkzy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dkzy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dkzy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+dmtkj.shzu.edu.cn. 300 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dmtkj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dns1.shzu.edu.cn. 3600 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns1.shzu.edu.cn. 3599 IN A 202.201.160.8
+
+dns2.shzu.edu.cn. 3600 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dns2.shzu.edu.cn. 3599 IN A 202.201.160.88
+
+dzda.shzu.edu.cn. 300 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+dzda.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol.shzu.edu.cn. 3600 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol.shzu.edu.cn. 3599 IN A 202.201.161.146
+
+eol1.shzu.edu.cn. 300 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+eol1.shzu.edu.cn. 299 IN A 116.255.235.199
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+NXDOMAIN for eol2.shzu.edu.cn
+
+fgc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+fgc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gaut.shzu.edu.cn. 3600 IN A 202.201.162.181
+
+gcjs.shzu.edu.cn. 300 IN A 116.255.235.199
+
+gcjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+gcjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+gcjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+gcjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+gcjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+gh.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+gra.shzu.edu.cn. 3600 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gra.shzu.edu.cn. 3599 IN A 202.201.161.150
+
+gs.shzu.edu.cn. 3600 IN A 202.201.165.39
+
+gs.shzu.edu.cn. 3599 IN A 202.201.165.39
+
+gsyz.shzu.edu.cn. 3600 IN A 202.201.165.40
+
+gsyz.shzu.edu.cn. 3599 IN A 202.201.165.40
+
+NXDOMAIN for hglsgc.shzu.edu.cn
+
+NXDOMAIN for hglsgc.shzu.edu.cn
+
+NXDOMAIN for hglsgc.shzu.edu.cn
+
+NXDOMAIN for hglsgc.shzu.edu.cn
+
+NXDOMAIN for hglsgc.shzu.edu.cn
+
+hgxy.shzu.edu.cn. 3368 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hgxy.shzu.edu.cn. 3367 IN A 202.201.161.217
+
+hq.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hq.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+NXDOMAIN for hrsc.shzu.edu.cn
+
+NXDOMAIN for hrsc.shzu.edu.cn
+
+NXDOMAIN for hrsc.shzu.edu.cn
+
+NXDOMAIN for hrsc.shzu.edu.cn
+
+NXDOMAIN for hrsc.shzu.edu.cn
+
+NXDOMAIN for hrsc.shzu.edu.cn
+
+hsxx.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hsxx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+hxys.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+hxys.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ids.shzu.edu.cn. 3600 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids.shzu.edu.cn. 3599 IN A 202.201.161.69
+
+ids1.shzu.edu.cn. 3600 IN A 202.201.161.69
+
+ids2.shzu.edu.cn. 3600 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+ids2.shzu.edu.cn. 3599 IN A 202.201.161.70
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+NXDOMAIN for ir.shzu.edu.cn
+
+istar.shzu.edu.cn. 300 IN A 116.255.235.199
+
+istar.shzu.edu.cn. 299 IN A 116.255.235.199
+
+istar.shzu.edu.cn. 299 IN A 116.255.235.199
+
+istar.shzu.edu.cn. 299 IN A 116.255.235.199
+
+istar.shzu.edu.cn. 299 IN A 116.255.235.199
+
+istar.shzu.edu.cn. 299 IN A 116.255.235.199
+
+itest.shzu.edu.cn. 3600 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+itest.shzu.edu.cn. 3599 IN A 202.201.161.160
+
+jcc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jccdd.shzu.edu.cn. 3600 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd.shzu.edu.cn. 3599 IN A 202.201.166.131
+
+jccdd1.shzu.edu.cn. 3600 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jccdd1.shzu.edu.cn. 3599 IN A 202.201.161.85
+
+jdxy.shzu.edu.cn. 3384 IN A 202.201.161.217
+
+jdxy.shzu.edu.cn. 3383 IN A 202.201.161.217
+
+jdxy.shzu.edu.cn. 3383 IN A 202.201.161.217
+
+jdxy.shzu.edu.cn. 3383 IN A 202.201.161.217
+
+jdxy.shzu.edu.cn. 3383 IN A 202.201.161.217
+
+jdxy.shzu.edu.cn. 3383 IN A 202.201.161.217
+
+jdxy.shzu.edu.cn. 3383 IN A 202.201.161.217
+
+jgdw.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jgdw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jgdw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jgdw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jgdw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jgdw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jgdw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jjtx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jk.shzu.edu.cn. 300 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jk.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jw.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jwc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jxgl.shzu.edu.cn. 3600 IN A 202.201.162.132
+jxgl.shzu.edu.cn. 3600 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3600 IN A 202.201.162.135
+
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.135
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.132
+
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.135
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.132
+
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.135
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.132
+
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.135
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.132
+
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.135
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.132
+
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.135
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.136
+jxgl.shzu.edu.cn. 3599 IN A 202.201.162.132
+
+jxsyc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+jxsyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+jyjj.shzu.edu.cn. 300 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+jyjj.shzu.edu.cn. 299 IN A 116.255.235.199
+
+kjcy.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjcy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kjxy.shzu.edu.cn. 300 IN A 116.255.235.199
+
+kjxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+kjxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+kjxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+kjxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+kjxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+kyc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+kyglxt.shzu.edu.cn. 3600 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+kyglxt.shzu.edu.cn. 3599 IN A 202.201.161.176
+
+lbbm.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lbbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lib.shzu.edu.cn. 3600 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+lib.shzu.edu.cn. 3599 IN A 202.201.163.2
+
+ltxc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+ltxc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ltxc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ltxc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ltxc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ltxc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ltxc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+lxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+lzst.shzu.edu.cn. 300 IN A 116.255.235.199
+
+lzst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+lzst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+lzst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+lzst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+mail.shzu.edu.cn. 3600 IN A 202.201.165.35
+mail.shzu.edu.cn. 3600 IN A 202.201.165.36
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mail.shzu.edu.cn. 3599 IN A 202.201.165.36
+mail.shzu.edu.cn. 3599 IN A 202.201.165.35
+
+mailgw.shzu.edu.cn. 3600 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mailgw.shzu.edu.cn. 3599 IN A 202.201.161.233
+
+mails.shzu.edu.cn. 300 IN A 116.255.235.199
+
+mails.shzu.edu.cn. 299 IN A 116.255.235.199
+
+mails.shzu.edu.cn. 299 IN A 116.255.235.199
+
+mails.shzu.edu.cn. 299 IN A 116.255.235.199
+
+mails.shzu.edu.cn. 299 IN A 116.255.235.199
+
+mails.shzu.edu.cn. 299 IN A 116.255.235.199
+
+manager.shzu.edu.cn. 3600 IN A 202.201.161.219
+
+manager.shzu.edu.cn. 3599 IN A 202.201.161.219
+
+mba.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mba.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+meeting.shzu.edu.cn. 300 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+meeting.shzu.edu.cn. 299 IN A 116.255.235.199
+
+mksxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+mksxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+my.shzu.edu.cn. 3600 IN A 202.201.165.4
+
+my.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+my.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+my.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+my.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+my.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+my.shzu.edu.cn. 3599 IN A 202.201.165.4
+
+nc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+nc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+nc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+nc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+nc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+nc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+nc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+news.shzu.edu.cn. 300 IN A 116.255.235.199
+
+news.shzu.edu.cn. 299 IN A 116.255.235.199
+
+news.shzu.edu.cn. 299 IN A 116.255.235.199
+
+news.shzu.edu.cn. 299 IN A 116.255.235.199
+
+news.shzu.edu.cn. 299 IN A 116.255.235.199
+
+news.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 300 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+newweb.shzu.edu.cn. 299 IN A 116.255.235.199
+
+nxy.shzu.edu.cn. 3309 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+nxy.shzu.edu.cn. 3308 IN A 202.201.161.217
+
+oa.shzu.edu.cn. 3600 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+oa.shzu.edu.cn. 3599 IN A 202.201.161.84
+
+pay.shzu.edu.cn. 3600 IN A 202.201.167.4
+
+pay.shzu.edu.cn. 3599 IN A 202.201.167.4
+
+pay.shzu.edu.cn. 3599 IN A 202.201.167.4
+
+pay.shzu.edu.cn. 3599 IN A 202.201.167.4
+
+pay.shzu.edu.cn. 3599 IN A 202.201.167.4
+
+pay.shzu.edu.cn. 3599 IN A 202.201.167.4
+
+pe.shzu.edu.cn. 3600 IN A 202.201.162.141
+
+pe.shzu.edu.cn. 3599 IN A 202.201.162.141
+
+people.shzu.edu.cn. 300 IN A 116.255.235.199
+
+people.shzu.edu.cn. 299 IN A 116.255.235.199
+
+people.shzu.edu.cn. 299 IN A 116.255.235.199
+
+people.shzu.edu.cn. 299 IN A 116.255.235.199
+
+people.shzu.edu.cn. 299 IN A 116.255.235.199
+
+people.shzu.edu.cn. 299 IN A 116.255.235.199
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+NXDOMAIN for psychology.shzu.edu.cn
+
+report.shzu.edu.cn. 3600 IN A 202.201.161.65
+
+rsc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+rsc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+scc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sce.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+sce.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1640 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+sem.shzu.edu.cn. 1639 IN A 202.201.161.217
+
+service.shzu.edu.cn. 3600 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+service.shzu.edu.cn. 3599 IN A 202.201.161.197
+
+sfxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+sjc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+sjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sjc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sjxy.shzu.edu.cn. 3402 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+sjxy.shzu.edu.cn. 3401 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3343 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+skxy.shzu.edu.cn. 3342 IN A 202.201.161.217
+
+slxy.shzu.edu.cn. 300 IN A 116.255.235.199
+
+slxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+slxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+slxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+slxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+spxy.shzu.edu.cn. 3418 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+spxy.shzu.edu.cn. 3417 IN A 202.201.161.217
+
+statistics.shzu.edu.cn. 3600 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+statistics.shzu.edu.cn. 3599 IN A 202.201.165.32
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+NXDOMAIN for stu.shzu.edu.cn
+
+sysbc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+sysbc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+syzhgl.shzu.edu.cn. 3600 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+syzhgl.shzu.edu.cn. 3599 IN A 202.201.161.175
+
+sztz.shzu.edu.cn. 300 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+sztz.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 300 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+t.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 300 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+tmailbak.shzu.edu.cn. 299 IN A 116.255.235.199
+
+traffic.shzu.edu.cn. 3600 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+traffic.shzu.edu.cn. 3599 IN A 202.201.160.169
+
+tw.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tw.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+tyxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+tyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+unipus.shzu.edu.cn. 3600 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+unipus.shzu.edu.cn. 3599 IN A 202.201.161.161
+
+vpn.shzu.edu.cn. 300 IN A 116.255.235.199
+
+vpn.shzu.edu.cn. 299 IN A 116.255.235.199
+
+vpn.shzu.edu.cn. 299 IN A 116.255.235.199
+
+vpn.shzu.edu.cn. 299 IN A 116.255.235.199
+
+vpn.shzu.edu.cn. 299 IN A 116.255.235.199
+
+vpn.shzu.edu.cn. 299 IN A 116.255.235.199
+
+waf.shzu.edu.cn. 300 IN A 116.255.235.199
+
+web.shzu.edu.cn. 300 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+web.shzu.edu.cn. 299 IN A 116.255.235.199
+
+wmw.shzu.edu.cn. 300 IN A 116.255.235.199
+
+wsbm.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+wsbm.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+www.shzu.edu.cn. 3600 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+www.shzu.edu.cn. 3599 IN A 202.201.161.216
+
+wyxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+wyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+wyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+wyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+wyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+wyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+wyxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xcb.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xcb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xfjs.shzu.edu.cn. 300 IN A 116.255.235.199
+
+xfjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xfjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xfjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xfjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xfjs.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xgb.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xgb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xjbtpa.shzu.edu.cn. 300 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xjbtpa.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xljk.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xljk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xlzx.shzu.edu.cn. 300 IN A 116.255.235.199
+
+xlzx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xlzx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xlzx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xlzx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xlzx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xpcc.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xpcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xpcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xpcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xpcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xpcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xpcc.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xst.shzu.edu.cn. 300 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xst.shzu.edu.cn. 299 IN A 116.255.235.199
+
+xxgk.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xxgk.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xxxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xxxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+xyh.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+xyy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yaoxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yaoxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+ygb.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ygb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yixy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yixy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+yjsh.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yjsh.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+yktdd.shzu.edu.cn. 3600 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+yktdd.shzu.edu.cn. 3599 IN A 202.201.161.80
+
+ysyx.shzu.edu.cn. 300 IN A 116.255.235.199
+
+ysyx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+ysyx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+ysyx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+ysyx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+ysyx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 300 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxy.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 300 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yxylab.shzu.edu.cn. 299 IN A 116.255.235.199
+
+yz.shzu.edu.cn. 1038 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+yz.shzu.edu.cn. 1037 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zcgl.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zdzx.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zfxy.shzu.edu.cn. 3600 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zfxy.shzu.edu.cn. 3599 IN A 202.201.161.217
+
+zjc.shzu.edu.cn. 300 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zjc.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zsb.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zsb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+ztjy.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+ztjy.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3600 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzb.shzu.edu.cn. 3599 IN A 202.201.161.220
+
+zzxx.shzu.edu.cn. 300 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+
+zzxx.shzu.edu.cn. 299 IN A 116.255.235.199
+

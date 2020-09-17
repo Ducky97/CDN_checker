@@ -1,0 +1,2693 @@
+f51.its.csu.edu.cncsu.edu.cn. 0 IN A 220.250.64.225
+
+csu.edu.cn. 30 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+csu.edu.cn. 29 IN A 58.20.53.110
+
+2011cic.csu.edu.cn. 30 IN A 202.197.61.81
+
+309group.csu.edu.cn. 30 IN A 202.197.61.105
+
+54sh.csu.edu.cn. 30 IN A 202.197.61.40
+
+54sh.csu.edu.cn. 29 IN A 202.197.61.40
+
+71party.csu.edu.cn. 30 IN A 202.197.61.51
+
+71party.csu.edu.cn. 29 IN A 202.197.61.51
+
+abc2017.csu.edu.cn. 86400 IN A 202.197.71.218
+
+abc2017.csu.edu.cn. 7199 IN A 202.197.71.218
+
+abc2017.csu.edu.cn. 7199 IN A 202.197.71.218
+
+acdde2017.csu.edu.cn. 86400 IN A 202.197.71.174
+
+acdde2017.csu.edu.cn. 7199 IN A 202.197.71.174
+
+acdde2017.csu.edu.cn. 7199 IN A 202.197.71.174
+
+acdde2017.csu.edu.cn. 7199 IN A 202.197.71.174
+
+acm.csu.edu.cn. 0 IN A 202.197.79.250
+
+afc.csu.edu.cn. 30 IN A 202.197.71.100
+
+afc.csu.edu.cn. 29 IN A 202.197.71.100
+
+afc.csu.edu.cn. 29 IN A 202.197.71.100
+
+afc.csu.edu.cn. 29 IN A 202.197.71.100
+
+afc.csu.edu.cn. 29 IN A 202.197.71.100
+
+airl.csu.edu.cn. 86400 IN A 202.197.61.51
+
+ami.csu.edu.cn. 30 IN A 202.197.71.28
+
+arch.csu.edu.cn. 360 IN A 202.197.71.112
+
+arch.csu.edu.cn. 359 IN A 202.197.71.112
+
+arch.csu.edu.cn. 359 IN A 202.197.71.112
+
+art.csu.edu.cn. 30 IN A 202.197.61.117
+
+audit.csu.edu.cn. 30 IN A 202.197.61.51
+
+audit.csu.edu.cn. 29 IN A 202.197.61.51
+
+audit.csu.edu.cn. 29 IN A 202.197.61.51
+
+audit.csu.edu.cn. 29 IN A 202.197.61.51
+
+audit.csu.edu.cn. 29 IN A 202.197.61.51
+
+award.csu.edu.cn. 30 IN A 202.197.71.91
+
+award.csu.edu.cn. 29 IN A 202.197.71.91
+
+award.csu.edu.cn. 29 IN A 202.197.71.91
+
+bb.csu.edu.cn. 30 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn. 29 IN A 202.197.64.66
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 0 IN A 220.250.64.225
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 60 IN A 220.250.64.225
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+bb.csu.edu.cn<BR>www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 0 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 60 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.bb.csu.edu.cn. 59 IN A 220.250.64.225
+
+bbs.csu.edu.cn. 30 IN A 202.197.61.67
+
+bbs.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.csu.edu.cn. 29 IN A 202.197.61.67
+
+bigdata.csu.edu.cn. 30 IN A 202.197.61.51
+
+bigdata.csu.edu.cn. 29 IN A 202.197.61.51
+
+bioinformatics.csu.edu.cn. 30 IN A 202.197.61.233
+
+bioinformatics.csu.edu.cn. 29 IN A 202.197.61.233
+
+bioinformatics.csu.edu.cn. 29 IN A 202.197.61.233
+
+bkjxpg.csu.edu.cn. 86400 IN A 202.197.71.142
+
+bkjxpg.csu.edu.cn. 7199 IN A 202.197.71.142
+
+bkjxpg.csu.edu.cn. 7199 IN A 202.197.71.142
+
+bksy.csu.edu.cn. 60 IN A 202.197.61.51
+
+bksy.csu.edu.cn. 59 IN A 202.197.61.51
+
+bksy.csu.edu.cn. 59 IN A 202.197.61.51
+
+bksy.csu.edu.cn. 59 IN A 202.197.61.51
+
+blj.csu.edu.cn. 86400 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+blj.csu.edu.cn. 7199 IN A 202.197.61.132
+
+bodydonation.csu.edu.cn. 86400 IN A 202.197.71.127
+
+bodydonation.csu.edu.cn. 7199 IN A 202.197.71.127
+
+bodydonation.csu.edu.cn. 7199 IN A 202.197.71.127
+
+bs.csu.edu.cn. 30 IN A 202.197.61.51
+
+bs.csu.edu.cn. 29 IN A 202.197.61.51
+
+bs.csu.edu.cn. 29 IN A 202.197.61.51
+
+bs.csu.edu.cn. 29 IN A 202.197.61.51
+
+bs.csu.edu.cn. 29 IN A 202.197.61.51
+
+bsh.csu.edu.cn. 30 IN A 202.197.61.51
+
+bsh.csu.edu.cn. 29 IN A 202.197.61.51
+
+bsoa.csu.edu.cn. 30 IN A 202.197.61.221
+
+bsoa.csu.edu.cn. 29 IN A 202.197.61.221
+
+bsoa.csu.edu.cn. 29 IN A 202.197.61.221
+
+bsoa.csu.edu.cn. 29 IN A 202.197.61.221
+
+bsoa.csu.edu.cn. 29 IN A 202.197.61.221
+
+bsoa.csu.edu.cn. 29 IN A 202.197.61.221
+
+bsoa.csu.edu.cn. 29 IN A 202.197.61.221
+
+bwc.csu.edu.cn. 0 IN A 202.197.61.51
+
+bwc.csu.edu.cn. 60 IN A 202.197.61.51
+
+cadcg2017.csu.edu.cn. 86400 IN A 202.197.71.173
+
+cadcg2017.csu.edu.cn. 7199 IN A 202.197.71.173
+
+cadcg2017.csu.edu.cn. 7199 IN A 202.197.71.173
+
+cadcg2017.csu.edu.cn. 7199 IN A 202.197.71.173
+
+career.csu.edu.cn. 78019 IN A 202.197.61.221
+
+career.csu.edu.cn. 7199 IN A 202.197.61.221
+
+cc.csu.edu.cn. 0 IN A 202.197.64.68
+
+cc.csu.edu.cn. 60 IN A 202.197.64.68
+
+cc.csu.edu.cn. 59 IN A 202.197.64.68
+
+cc.csu.edu.cn. 59 IN A 202.197.64.68
+
+ccce.csu.edu.cn. 30 IN A 202.197.61.66
+
+ccce.csu.edu.cn. 29 IN A 202.197.61.66
+
+ccds.csu.edu.cn. 0 IN A 220.250.64.225
+
+ccds.csu.edu.cn. 60 IN A 220.250.64.225
+
+ccds.csu.edu.cn. 59 IN A 220.250.64.225
+
+ccegr.csu.edu.cn. 30 IN A 202.197.61.115
+
+ced.csu.edu.cn. 30 IN A 202.197.71.56
+
+chembase.csu.edu.cn. 30 IN A 202.197.61.93
+
+chemicals.csu.edu.cn. 52085 IN A 202.197.71.163
+
+chemicals.csu.edu.cn. 7199 IN A 202.197.71.163
+
+chemicals.csu.edu.cn. 7199 IN A 202.197.71.163
+
+chemicals.csu.edu.cn. 7199 IN A 202.197.71.163
+
+chinadxscy.csu.edu.cn. 60 IN A 202.197.71.3
+
+chinadxscy.csu.edu.cn. 59 IN A 202.197.71.3
+
+chinadxscy-cyfh.csu.edu.cn. 86400 IN A 202.197.71.3
+
+chinadxscy-jzw.csu.edu.cn. 0 IN A 220.250.64.225
+
+chinadxscy-jzw.csu.edu.cn. 60 IN A 220.250.64.225
+
+chinadxscy-jzw.csu.edu.cn. 59 IN A 220.250.64.225
+
+civil.csu.edu.cn. 30 IN A 202.197.61.122
+
+civil.csu.edu.cn. 29 IN A 202.197.61.122
+
+civilsimp.csu.edu.cn. 86400 IN A 202.197.36.201
+
+civilsimp.csu.edu.cn. 7199 IN A 202.197.36.201
+
+civilsimp.csu.edu.cn. 7199 IN A 202.197.36.201
+
+ckyc.csu.edu.cn. 30 IN A 202.197.61.124
+
+classroom.csu.edu.cn. 0 IN A 122.207.69.101
+
+classroom.csu.edu.cn. 60 IN A 122.207.69.101
+
+classroom.csu.edu.cn. 59 IN A 122.207.69.101
+
+classroom.csu.edu.cn. 59 IN A 122.207.69.101
+
+clj.csu.edu.cn. 61063 IN A 202.197.61.51
+
+clj.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cmee.csu.edu.cn. 30 IN A 202.197.61.81
+
+cmee.csu.edu.cn. 29 IN A 202.197.61.81
+
+cmees.csu.edu.cn. 0 IN A 202.197.61.76
+
+cmis.csu.edu.cn. 30 IN A 202.197.61.51
+
+cmis.csu.edu.cn. 29 IN A 202.197.61.51
+
+cmis.csu.edu.cn. 29 IN A 202.197.61.51
+
+tse.csu.edu.cnart.csu.edu.cn. 0 IN A 220.250.64.225
+
+ccce.csu.edu.cnbb.csu.edu.cn. 0 IN A 220.250.64.225
+
+lms.csu.edu.cnblj.csu.edu.cn. 0 IN A 220.250.64.225
+
+lib.its.csu.edu.cncse.csu.edu.cn. 0 IN A 220.250.64.225
+
+csu.edu.cndlab.csu.edu.cn. 0 IN A 220.250.64.225
+
+cne.csu.edu.cn. 60 IN A 220.168.16.133
+
+cne.csu.edu.cn. 59 IN A 220.168.16.133
+
+cne.csu.edu.cn. 59 IN A 220.168.16.133
+
+cne.csu.edu.cn. 59 IN A 220.168.16.133
+
+cne.csu.edu.cn. 59 IN A 220.168.16.133
+
+cned.csu.edu.cn. 30 IN A 202.197.55.241
+
+cned.csu.edu.cn. 29 IN A 202.197.55.241
+
+cned.csu.edu.cn. 29 IN A 202.197.55.241
+
+trackcheck.csu.edu.cnidplib.csu.edu.cn. 0 IN A 220.250.64.225
+
+carde1-vip.its.csu.edu.cnjcjnzx.csu.edu.cn. 0 IN A 220.250.64.225
+
+compubio.csu.edu.cn. 86400 IN A 202.197.61.235
+
+compubio.csu.edu.cn. 7199 IN A 202.197.61.235
+
+compubio.csu.edu.cn. 7199 IN A 202.197.61.235
+
+core.csu.edu.cn. 0 IN A 202.197.64.83
+
+core.csu.edu.cn. 60 IN A 202.197.64.83
+
+core.csu.edu.cn. 59 IN A 202.197.64.83
+
+core.csu.edu.cn. 59 IN A 202.197.64.83
+
+core.csu.edu.cn. 59 IN A 202.197.64.83
+
+cri.csu.edu.cn. 30 IN A 202.197.61.51
+
+cri.csu.edu.cn. 29 IN A 202.197.61.51
+
+cri.csu.edu.cn. 29 IN A 202.197.61.51
+
+cse.csu.edu.cn. 86400 IN A 202.197.61.51
+
+cse.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cse.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cse.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cse.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cse.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cse.csu.edu.cn. 7199 IN A 202.197.61.51
+
+csru.csu.edu.cn. 30 IN A 202.197.61.51
+
+csru.csu.edu.cn. 29 IN A 202.197.61.51
+
+csru.csu.edu.cn. 29 IN A 202.197.61.51
+
+csru.csu.edu.cn. 29 IN A 202.197.61.51
+
+cssra.csu.edu.cn. 86400 IN A 202.197.71.130
+
+cssra.csu.edu.cn. 7199 IN A 202.197.71.130
+
+cssra.csu.edu.cn. 7199 IN A 202.197.71.130
+
+csu-6.csu.edu.cn. 360 IN A 202.197.61.222
+
+csu-6.csu.edu.cn. 359 IN A 202.197.61.222
+
+csu-6.csu.edu.cn. 359 IN A 202.197.61.222
+
+csu-6.csu.edu.cn. 359 IN A 202.197.61.222
+
+csu-6.csu.edu.cn. 359 IN A 202.197.61.222
+
+csu-7.csu.edu.cn. 360 IN A 202.197.61.220
+
+csu-7.csu.edu.cn. 359 IN A 202.197.61.220
+
+csu-7.csu.edu.cn. 359 IN A 202.197.61.220
+
+csu-7.csu.edu.cn. 359 IN A 202.197.61.220
+
+csu-7.csu.edu.cn. 359 IN A 202.197.61.220
+
+csu-8.csu.edu.cn. 265 IN A 222.247.53.82
+
+csu-8.csu.edu.cn. 264 IN A 222.247.53.82
+
+csu-8.csu.edu.cn. 264 IN A 222.247.53.82
+
+csu-8.csu.edu.cn. 264 IN A 222.247.53.82
+
+csuef.csu.edu.cn. 30 IN A 202.197.61.51
+
+csuef.csu.edu.cn. 29 IN A 202.197.61.51
+
+csuef.csu.edu.cn. 29 IN A 202.197.61.51
+
+csuef.csu.edu.cn. 29 IN A 202.197.61.51
+
+csuef.csu.edu.cn. 29 IN A 202.197.61.51
+
+csup.csu.edu.cn. 0 IN A 202.197.64.129
+
+csup.csu.edu.cn. 60 IN A 202.197.64.129
+
+csup.csu.edu.cn. 59 IN A 202.197.64.129
+
+csuspa.csu.edu.cn. 60 IN A 202.197.71.130
+
+csuspa.csu.edu.cn. 59 IN A 202.197.71.130
+
+csuylg.csu.edu.cn. 30 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+csuylg.csu.edu.cn. 29 IN A 202.197.61.221
+
+sports.csu.edu.cncsuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 0 IN A 220.250.64.225
+
+csuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 0 IN A 220.250.64.225
+
+csuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 60 IN A 220.250.64.225
+
+csuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 59 IN A 220.250.64.225
+
+csuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 59 IN A 220.250.64.225
+
+csuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 59 IN A 220.250.64.225
+
+csuylg.csu.edu.cn<BR>www.csuylg.csu.edu.cn. 59 IN A 220.250.64.225
+
+csuylgwx.csu.edu.cn. 30 IN A 202.197.61.85
+
+ctld.csu.edu.cn. 86400 IN A 202.197.71.11
+
+cw.csu.edu.cn. 86400 IN A 202.197.71.68
+
+cw.csu.edu.cn. 7199 IN A 202.197.71.68
+
+cw.csu.edu.cn. 7199 IN A 202.197.71.68
+
+cwzc.csu.edu.cn. 86400 IN A 202.197.61.51
+
+cwzc.csu.edu.cn. 7199 IN A 202.197.61.51
+
+cxcypt.csu.edu.cn. 86400 IN A 202.197.61.221
+
+cxcypt.csu.edu.cn. 7199 IN A 202.197.61.221
+
+czgl.csu.edu.cn. 86400 IN A 202.197.61.221
+
+czzx.csu.edu.cn. 86400 IN A 202.197.61.221
+
+czzx.csu.edu.cn. 7199 IN A 202.197.61.221
+
+dag.csu.edu.cn. 60 IN A 202.197.61.51
+
+dag.csu.edu.cn. 59 IN A 202.197.61.51
+
+dag.csu.edu.cn. 59 IN A 202.197.61.51
+
+dag.csu.edu.cn. 59 IN A 202.197.61.51
+
+dag187.csu.edu.cn. 86400 IN A 202.197.71.187
+
+dag187.csu.edu.cn. 7199 IN A 202.197.71.187
+
+dag187.csu.edu.cn. 7199 IN A 202.197.71.187
+
+deptauto.csu.edu.cn. 0 IN A 202.197.66.98
+
+dgdz.csu.edu.cn. 0 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 60 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dgdz.csu.edu.cn. 59 IN A 122.207.68.171
+
+dkzy.csu.edu.cn. 30 IN A 202.197.61.51
+
+dlab.csu.edu.cn. 0 IN A 220.250.64.225
+
+dlab.csu.edu.cn. 60 IN A 220.250.64.225
+
+dmi.csu.edu.cn. 30 IN A 202.197.61.51
+
+dmkeylab.csu.edu.cn. 86400 IN A 202.197.71.148
+
+dx.csu.edu.cn. 86400 IN A 202.197.61.23
+
+dx.csu.edu.cn. 7199 IN A 202.197.61.23
+
+dx.csu.edu.cn. 7199 IN A 202.197.61.23
+
+dx.csu.edu.cn. 7199 IN A 202.197.61.23
+
+dx.csu.edu.cn. 7199 IN A 202.197.61.23
+
+ecard.csu.edu.cn. 60 IN A 202.197.61.48
+
+edp.csu.edu.cn. 30 IN A 202.197.61.51
+
+edp.csu.edu.cn. 29 IN A 202.197.61.51
+
+edp.csu.edu.cn. 29 IN A 202.197.61.51
+
+efx.csu.edu.cn. 30 IN A 202.197.71.12
+
+efx.csu.edu.cn. 29 IN A 202.197.71.12
+
+efz.csu.edu.cn. 30 IN A 202.197.61.51
+
+efz.csu.edu.cn. 29 IN A 202.197.61.51
+
+efz.csu.edu.cn. 29 IN A 202.197.61.51
+
+ehall.csu.edu.cn. 30 IN A 202.197.71.102
+
+ehr.csu.edu.cn. 30 IN A 202.197.61.29
+
+ehr.csu.edu.cn. 29 IN A 202.197.61.29
+
+ehr.csu.edu.cn. 29 IN A 202.197.61.29
+
+ehr.csu.edu.cn. 29 IN A 202.197.61.29
+
+emba.csu.edu.cn. 30 IN A 202.197.61.114
+
+en.csu.edu.cn. 60 IN A 202.197.71.97
+
+en.csu.edu.cn. 59 IN A 202.197.71.97
+
+en.csu.edu.cn. 59 IN A 202.197.71.97
+
+en.csu.edu.cn. 59 IN A 202.197.71.97
+
+en.csu.edu.cn. 59 IN A 202.197.71.97
+
+en.csu.edu.cn. 59 IN A 202.197.71.97
+
+en.csu.edu.cn. 59 IN A 202.197.71.97
+
+energy.csu.edu.cn. 30 IN A 202.197.61.79
+
+energy.csu.edu.cn. 29 IN A 202.197.61.79
+
+engnews.csu.edu.cn. 0 IN A 202.197.71.54
+
+engnews.csu.edu.cn. 60 IN A 202.197.71.54
+
+eol.csu.edu.cn. 0 IN A 122.207.65.159
+
+exam.csu.edu.cn. 0 IN A 202.197.61.241
+
+exam.csu.edu.cn. 60 IN A 202.197.61.241
+
+exam.csu.edu.cn. 59 IN A 202.197.61.241
+
+exam.csu.edu.cn. 59 IN A 202.197.61.241
+
+exam.csu.edu.cn. 59 IN A 202.197.61.241
+
+faculty.csu.edu.cn. 30 IN A 202.197.71.119
+
+faculty.csu.edu.cn. 29 IN A 202.197.71.119
+
+faculty.csu.edu.cn. 29 IN A 202.197.71.119
+
+faculty.csu.edu.cn. 29 IN A 202.197.71.119
+
+faculty.csu.edu.cn. 29 IN A 202.197.71.119
+
+faw2015.csu.edu.cn. 30 IN A 202.197.71.19
+
+fcglc.csu.edu.cn. 86400 IN A 202.197.61.221
+
+fcglc.csu.edu.cn. 7199 IN A 202.197.61.221
+
+fcglc.csu.edu.cn. 7199 IN A 202.197.61.221
+
+fdy.csu.edu.cn. 30 IN A 202.197.61.88
+
+fengxun.csu.edu.cn. 86400 IN A 202.197.71.131
+
+fengxun.csu.edu.cn. 7199 IN A 202.197.71.131
+
+fengxun.csu.edu.cn. 7199 IN A 202.197.71.131
+
+finance.csu.edu.cn. 30 IN A 202.197.61.51
+
+fire.csu.edu.cn. 86400 IN A 202.197.71.152
+
+fire.csu.edu.cn. 7199 IN A 202.197.71.152
+
+fire.csu.edu.cn. 7199 IN A 202.197.71.152
+
+fire.csu.edu.cn. 7199 IN A 202.197.71.152
+
+fire.csu.edu.cn. 7199 IN A 202.197.71.152
+
+fkc.csu.edu.cn. 61054 IN A 202.197.71.218
+
+fzb.csu.edu.cn. 3600 IN A 220.250.64.225
+
+fzb.csu.edu.cn. 3599 IN A 220.250.64.225
+
+fzb.csu.edu.cn. 3599 IN A 220.250.64.225
+
+gdjtaq.csu.edu.cn. 30 IN A 202.197.47.33
+
+gdyjzx.csu.edu.cn. 30 IN A 202.197.61.51
+
+gdyjzx.csu.edu.cn. 29 IN A 202.197.61.51
+
+gdyjzx.csu.edu.cn. 29 IN A 202.197.61.51
+
+gdyjzx.csu.edu.cn. 29 IN A 202.197.61.51
+
+gfist.csu.edu.cn. 360 IN A 202.197.71.116
+
+gfist.csu.edu.cn. 359 IN A 202.197.71.116
+
+gfist.csu.edu.cn. 359 IN A 202.197.71.116
+
+gfs.csu.edu.cn. 30 IN A 202.197.71.65
+
+ggw.csu.edu.cn. 30 IN A 202.197.61.51
+
+ggw.csu.edu.cn. 29 IN A 202.197.61.51
+
+ggw.csu.edu.cn. 29 IN A 202.197.61.51
+
+ggw.csu.edu.cn. 29 IN A 202.197.61.51
+
+gip.csu.edu.cn. 30 IN A 202.197.61.124
+
+gip.csu.edu.cn. 29 IN A 202.197.61.124
+
+gip.csu.edu.cn. 29 IN A 202.197.61.124
+
+git.csu.edu.cn. 86400 IN A 202.197.61.44
+
+git.csu.edu.cn. 7199 IN A 202.197.61.44
+
+git.csu.edu.cn. 7199 IN A 202.197.61.44
+
+gnss.csu.edu.cn. 0 IN A 220.250.64.225
+
+gnss.csu.edu.cn. 60 IN A 220.250.64.225
+
+gnss.csu.edu.cn. 59 IN A 220.250.64.225
+
+gonghui.csu.edu.cn. 30 IN A 202.197.71.52
+
+gra.csu.edu.cn. 0 IN A 202.197.61.221
+
+gra.csu.edu.cn. 60 IN A 202.197.61.221
+
+gra.csu.edu.cn. 59 IN A 202.197.61.221
+
+gra.csu.edu.cn. 59 IN A 202.197.61.221
+
+gra.csu.edu.cn. 59 IN A 202.197.61.221
+
+gramgr.csu.edu.cn. 30 IN A 202.197.71.149
+
+gramgr.csu.edu.cn. 29 IN A 202.197.71.149
+
+gramgrapp.csu.edu.cn. 86400 IN A 202.197.71.149
+
+gramgrapp.csu.edu.cn. 7199 IN A 202.197.71.149
+
+gramgrapp.csu.edu.cn. 7199 IN A 202.197.71.149
+
+hjsoa.csu.edu.cn. 86400 IN A 202.197.61.113
+
+hjsoa.csu.edu.cn. 7199 IN A 202.197.61.113
+
+hjsoa.csu.edu.cn. 7199 IN A 202.197.61.113
+
+hmyanggroup.csu.edu.cn. 30 IN A 202.197.61.51
+
+hpc.csu.edu.cn. 30 IN A 122.207.82.6
+
+hpc.csu.edu.cn. 29 IN A 122.207.82.6
+
+hpcm.csu.edu.cn. 30 IN A 202.197.61.81
+
+hpcm.csu.edu.cn. 29 IN A 202.197.61.81
+
+hqbzb.csu.edu.cn. 60 IN A 202.197.61.51
+
+hqbzb.csu.edu.cn. 59 IN A 202.197.61.51
+
+hqbzb.csu.edu.cn. 59 IN A 202.197.61.51
+
+hqbzb.csu.edu.cn. 59 IN A 202.197.61.51
+
+hqgl.csu.edu.cn. 86400 IN A 202.197.61.221
+
+hqgl.csu.edu.cn. 7199 IN A 202.197.61.221
+
+hqgl.csu.edu.cn. 7199 IN A 202.197.61.221
+
+hqlx.csu.edu.cn. 30 IN A 202.197.61.107
+
+hsrlab.csu.edu.cn. 30 IN A 202.197.61.122
+
+hxhgsg.csu.edu.cn. 0 IN A 220.250.64.225
+
+hxhgsg.csu.edu.cn. 60 IN A 220.250.64.225
+
+hxhgsg.csu.edu.cn. 59 IN A 220.250.64.225
+
+hyh.csu.edu.cn. 30 IN A 202.197.61.51
+
+hyh.csu.edu.cn. 29 IN A 202.197.61.51
+
+ice.csu.edu.cn. 86400 IN A 202.197.61.51
+
+ice.csu.edu.cn. 7199 IN A 202.197.61.51
+
+idplib.csu.edu.cn. 0 IN A 122.207.86.10
+
+idplib.csu.edu.cn. 60 IN A 122.207.86.10
+
+idplib.csu.edu.cn. 59 IN A 122.207.86.10
+
+idplib.csu.edu.cn. 59 IN A 122.207.86.10
+
+iecd.csu.edu.cn. 60 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+iecd.csu.edu.cn. 59 IN A 202.197.71.97
+
+ilg.csu.edu.cn. 30 IN A 202.197.61.51
+
+imap.csu.edu.cn. 60 IN CNAME mail.csu.edu.cn.
+mail.csu.edu.cn. 59 IN A 58.20.53.107
+
+ipm.csu.edu.cn. 86400 IN A 202.197.81.195
+
+ipm.csu.edu.cn. 7199 IN A 202.197.81.195
+
+ipm.csu.edu.cn. 7199 IN A 202.197.81.195
+
+ipm.csu.edu.cn. 7199 IN A 202.197.81.195
+
+ipm.csu.edu.cn. 7199 IN A 202.197.81.195
+
+irbxiangya.csu.edu.cn. 86400 IN A 202.197.61.221
+
+ist.csu.edu.cn. 30 IN A 202.197.61.18
+
+its.csu.edu.cn. 600 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+its.csu.edu.cn. 599 IN A 202.197.61.222
+
+aes.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+aes.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aes.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aes.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aes.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aes.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aitgo.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+aitgo.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aitgo.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aitgo.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+aitgo.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+app.its.csu.edu.cn. 60 IN A 58.20.53.110
+
+app.its.csu.edu.cn. 59 IN A 58.20.53.110
+
+app.its.csu.edu.cn. 59 IN A 58.20.53.110
+
+app.its.csu.edu.cn. 59 IN A 58.20.53.110
+
+app.its.csu.edu.cn. 59 IN A 58.20.53.110
+
+app.its.csu.edu.cn. 59 IN A 58.20.53.110
+
+bbs.its.csu.edu.cn. 30 IN A 202.197.61.67
+
+bbs.its.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.its.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.its.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.its.csu.edu.cn. 29 IN A 202.197.61.67
+
+bbs.its.csu.edu.cn. 29 IN A 202.197.61.67
+
+bi.its.csu.edu.cn. 86400 IN A 202.197.71.87
+
+bi.its.csu.edu.cn. 7199 IN A 202.197.71.87
+
+bi.its.csu.edu.cn. 7199 IN A 202.197.71.87
+
+bi.its.csu.edu.cn. 7199 IN A 202.197.71.87
+
+bi.its.csu.edu.cn. 7199 IN A 202.197.71.87
+
+bi.its.csu.edu.cn. 7199 IN A 202.197.71.87
+
+bi.its.csu.edu.cn. 7199 IN A 202.197.71.87
+
+ca.its.csu.edu.cn. 600 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+ca.its.csu.edu.cn. 599 IN A 202.197.61.221
+
+carde.its.csu.edu.cn. 86400 IN A 202.197.61.48
+
+carde.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+carde.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+carde.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+carde.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+carde1-vip.its.csu.edu.cn. 86400 IN A 202.197.61.55
+
+carde1-vip.its.csu.edu.cn. 7199 IN A 202.197.61.55
+
+carde1-vip.its.csu.edu.cn. 7199 IN A 202.197.61.55
+
+carde1-vip.its.csu.edu.cn. 7199 IN A 202.197.61.55
+
+carde1-vip.its.csu.edu.cn. 7199 IN A 202.197.61.55
+
+carde1-vip.its.csu.edu.cn. 7199 IN A 202.197.61.55
+
+carde2-vip.its.csu.edu.cn. 86400 IN A 202.197.61.56
+
+carde2-vip.its.csu.edu.cn. 7199 IN A 202.197.61.56
+
+carde2-vip.its.csu.edu.cn. 7199 IN A 202.197.61.56
+
+carde2-vip.its.csu.edu.cn. 7199 IN A 202.197.61.56
+
+carde2-vip.its.csu.edu.cn. 7199 IN A 202.197.61.56
+
+carde2-vip.its.csu.edu.cn. 7199 IN A 202.197.61.56
+
+carde2-vip.its.csu.edu.cn. 7199 IN A 202.197.61.56
+
+ccce.its.csu.edu.cn. 77404 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+ccce.its.csu.edu.cn. 7199 IN A 202.197.61.66
+
+chembase.its.csu.edu.cn. 86400 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+chembase.its.csu.edu.cn. 7199 IN A 202.197.61.93
+
+civil.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+civil.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+civil.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+csujwc.its.csu.edu.cn. 30 IN A 58.20.53.107
+
+csujwc.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+csujwc.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+csujwc.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+csujwc.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+cw.its.csu.edu.cn. 86400 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cw.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwemail.its.csu.edu.cn. 86400 IN A 202.197.71.22
+
+cwemail.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwemail.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwemail.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwemail.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwemail.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 86400 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+cwoa.its.csu.edu.cn. 7199 IN A 202.197.71.22
+
+dag.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+dag.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+dag.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+dag.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+dag.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+dag.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+datasearch.its.csu.edu.cn. 86400 IN A 202.197.71.168
+
+datasearch.its.csu.edu.cn. 7199 IN A 202.197.71.168
+
+datasearch.its.csu.edu.cn. 7199 IN A 202.197.71.168
+
+datasearch.its.csu.edu.cn. 7199 IN A 202.197.71.168
+
+datasearch.its.csu.edu.cn. 7199 IN A 202.197.71.168
+
+datasearch.its.csu.edu.cn. 7199 IN A 202.197.71.168
+
+datasearch.its.csu.edu.cn. 7199 IN A 202.197.71.168
+
+dcent.its.csu.edu.cn. 86400 IN A 172.30.1.27
+
+dcent.its.csu.edu.cn. 7199 IN A 172.30.1.27
+
+dcent.its.csu.edu.cn. 7199 IN A 172.30.1.27
+
+dcent.its.csu.edu.cn. 7199 IN A 172.30.1.27
+
+dcent.its.csu.edu.cn. 7199 IN A 172.30.1.27
+
+dcent.its.csu.edu.cn. 7199 IN A 172.30.1.27
+
+dcent.its.csu.edu.cn. 7199 IN A 172.30.1.27
+
+dcoracle.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+dcoracle.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+dcoracle.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+dx.its.csu.edu.cn. 86400 IN A 202.197.71.63
+
+dx.its.csu.edu.cn. 7199 IN A 202.197.71.63
+
+dx.its.csu.edu.cn. 7199 IN A 202.197.71.63
+
+dx.its.csu.edu.cn. 7199 IN A 202.197.71.63
+
+dx.its.csu.edu.cn. 7199 IN A 202.197.71.63
+
+dx.its.csu.edu.cn. 7199 IN A 202.197.71.63
+
+dx.its.csu.edu.cn. 7199 IN A 202.197.71.63
+
+ecard.its.csu.edu.cn. 86400 IN A 202.197.61.48
+
+ecard.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+ecard.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+ecard.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+ecard.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+ecard.its.csu.edu.cn. 7199 IN A 202.197.61.48
+
+exintest.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+exintest.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+exintest.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+f51.its.csu.edu.cn. 0 IN A 127.0.0.1
+
+f51.its.csu.edu.cn. 60 IN A 127.0.0.1
+
+f51.its.csu.edu.cn. 59 IN A 127.0.0.1
+
+f51.its.csu.edu.cn. 59 IN A 127.0.0.1
+
+fcglc.its.csu.edu.cn. 3600 IN A 220.250.64.225
+
+fcglc.its.csu.edu.cn. 3599 IN A 220.250.64.225
+
+finance.its.csu.edu.cn. 30 IN A 202.197.61.51
+
+finance.its.csu.edu.cn. 29 IN A 202.197.61.51
+
+finance.its.csu.edu.cn. 29 IN A 202.197.61.51
+
+finance.its.csu.edu.cn. 29 IN A 202.197.61.51
+
+finance.its.csu.edu.cn. 29 IN A 202.197.61.51
+
+finance.its.csu.edu.cn. 29 IN A 202.197.61.51
+
+gip.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+gip.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gip.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gip.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gip.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gip.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gip.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gonghui.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+gonghui.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gonghui.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gonghui.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gonghui.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gonghui.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gra.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+gra.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gra.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gra.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gra.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+gra.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+hc.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+hc.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+infoport.its.csu.edu.cn. 30 IN A 202.197.61.3
+
+infoport.its.csu.edu.cn. 29 IN A 202.197.61.3
+
+infoport.its.csu.edu.cn. 29 IN A 202.197.61.3
+
+infoport.its.csu.edu.cn. 29 IN A 202.197.61.3
+
+infoport.its.csu.edu.cn. 29 IN A 202.197.61.3
+
+jwctest.its.csu.edu.cn. 30 IN A 58.20.53.107
+
+jwctest.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+jwctest.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+jwctest.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+jwctest.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+jwctest.its.csu.edu.cn. 29 IN A 58.20.53.107
+
+kjc.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+kjc.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+law.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+law.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+law.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+law.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+law.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+law.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+lib.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+lxxt.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+lxxt.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+lxxt.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+lxxt.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+lxxt.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+lxxt.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+mqtt.its.csu.edu.cn. 86400 IN A 202.197.71.15
+
+mqtt.its.csu.edu.cn. 7199 IN A 202.197.71.15
+
+mqtt.its.csu.edu.cn. 7199 IN A 202.197.71.15
+
+mqtt.its.csu.edu.cn. 7199 IN A 202.197.71.15
+
+mqtt.its.csu.edu.cn. 7199 IN A 202.197.71.15
+
+mqtt.its.csu.edu.cn. 7199 IN A 202.197.71.15
+
+mqtt.its.csu.edu.cn. 7199 IN A 202.197.71.15
+
+my.its.csu.edu.cn. 30 IN A 202.197.61.221
+
+my.its.csu.edu.cn. 29 IN A 202.197.61.221
+
+my.its.csu.edu.cn. 29 IN A 202.197.61.221
+
+my.its.csu.edu.cn. 29 IN A 202.197.61.221
+
+my.its.csu.edu.cn. 29 IN A 202.197.61.221
+
+my.its.csu.edu.cn. 29 IN A 202.197.61.221
+
+my2.its.csu.edu.cn. 86400 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+my2.its.csu.edu.cn. 7199 IN A 202.197.71.101
+
+ncbe.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+ncbe.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+newcomer.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+newcomer.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+newcomer.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+newcomer.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+newcomer.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+newcomer.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+news.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+news.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+ns.its.csu.edu.cn. 595 IN A 202.197.61.222
+
+ns.its.csu.edu.cn. 594 IN A 202.197.61.222
+
+ns.its.csu.edu.cn. 594 IN A 202.197.61.222
+
+ns.its.csu.edu.cn. 594 IN A 202.197.61.222
+
+ns.its.csu.edu.cn. 594 IN A 202.197.61.222
+
+ntp.its.csu.edu.cn. 86400 IN A 202.197.61.2
+
+ntp.its.csu.edu.cn. 7199 IN A 202.197.61.2
+
+ntp.its.csu.edu.cn. 7199 IN A 202.197.61.2
+
+ntp.its.csu.edu.cn. 7199 IN A 202.197.61.2
+
+ntp.its.csu.edu.cn. 7199 IN A 202.197.61.2
+
+ntp.its.csu.edu.cn. 7199 IN A 202.197.61.2
+
+ntp.its.csu.edu.cn. 7199 IN A 202.197.61.2
+
+oa.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+oa.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+oa.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+oa.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+oa.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+oa.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+oa1.its.csu.edu.cn. 86400 IN A 202.197.61.50
+
+oa1.its.csu.edu.cn. 7199 IN A 202.197.61.50
+
+oa1.its.csu.edu.cn. 7199 IN A 202.197.61.50
+
+oa1.its.csu.edu.cn. 7199 IN A 202.197.61.50
+
+oa1.its.csu.edu.cn. 7199 IN A 202.197.61.50
+
+oa1.its.csu.edu.cn. 7199 IN A 202.197.61.50
+
+oa1.its.csu.edu.cn. 7199 IN A 202.197.61.50
+
+opac.its.csu.edu.cn. 30 IN A 122.207.86.34
+
+opac.its.csu.edu.cn. 29 IN A 122.207.86.34
+
+opac.its.csu.edu.cn. 29 IN A 122.207.86.34
+
+opac.its.csu.edu.cn. 29 IN A 122.207.86.34
+
+opac.its.csu.edu.cn. 29 IN A 122.207.86.34
+
+opac.its.csu.edu.cn. 29 IN A 122.207.86.34
+
+pay.its.csu.edu.cn. 86400 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pay.its.csu.edu.cn. 7199 IN A 202.197.61.16
+
+pca.its.csu.edu.cn. 86400 IN A 202.197.61.183
+
+pca.its.csu.edu.cn. 7199 IN A 202.197.61.183
+
+pca.its.csu.edu.cn. 7199 IN A 202.197.61.183
+
+pca.its.csu.edu.cn. 7199 IN A 202.197.61.183
+
+pca.its.csu.edu.cn. 7199 IN A 202.197.61.183
+
+pca.its.csu.edu.cn. 7199 IN A 202.197.61.183
+
+pca.its.csu.edu.cn. 7199 IN A 202.197.61.183
+
+permanage.its.csu.edu.cn. 86400 IN A 202.197.61.4
+
+permanage.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+permanage.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+permanage.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+permanage.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+permanage.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+pms.its.csu.edu.cn. 3600 IN A 220.250.64.225
+
+pms.its.csu.edu.cn. 3599 IN A 220.250.64.225
+
+pms.its.csu.edu.cn. 3599 IN A 220.250.64.225
+
+rmtlib.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+rmtlib.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+rmtlib.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+rmtlib.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+rmtlib.its.csu.edu.cn. 29 IN A 58.20.53.110
+
+siteadmin.its.csu.edu.cn. 86400 IN A 202.197.61.160
+
+soc.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+soc.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+sqlserver.its.csu.edu.cn. 86400 IN A 202.197.61.5
+
+sqlserver.its.csu.edu.cn. 7199 IN A 202.197.61.5
+
+sqlserver.its.csu.edu.cn. 7199 IN A 202.197.61.5
+
+sqlserver.its.csu.edu.cn. 7199 IN A 202.197.61.5
+
+sqlserver.its.csu.edu.cn. 7199 IN A 202.197.61.5
+
+sqlserver.its.csu.edu.cn. 7199 IN A 202.197.61.5
+
+sqlserver.its.csu.edu.cn. 7199 IN A 202.197.61.5
+
+szzs.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+szzs.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+szzs.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+t.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+t.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+t.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+tjxt.its.csu.edu.cn. 86400 IN A 202.197.61.4
+
+tjxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tjxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tjxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tjxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tjxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tsgreg.its.csu.edu.cn. 86400 IN A 202.197.61.4
+
+tsgreg.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tsgreg.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tsgreg.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tsgreg.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tsgreg.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+tz.its.csu.edu.cn. 86400 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+tz.its.csu.edu.cn. 7199 IN A 202.197.61.42
+
+voip.its.csu.edu.cn. 30 IN A 58.20.53.110
+
+webservice.its.csu.edu.cn. 86400 IN A 202.197.61.3
+
+webservice.its.csu.edu.cn. 7199 IN A 202.197.61.3
+
+webservice.its.csu.edu.cn. 7199 IN A 202.197.61.3
+
+webservice.its.csu.edu.cn. 7199 IN A 202.197.61.3
+
+webservice.its.csu.edu.cn. 7199 IN A 202.197.61.3
+
+webservice.its.csu.edu.cn. 7199 IN A 202.197.61.3
+
+webservice.its.csu.edu.cn. 7199 IN A 202.197.61.3
+
+wsbz.its.csu.edu.cn. 86400 IN A 202.197.61.4
+
+wsbz.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+wsbz.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+wsbz.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+wsbz.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+wsus.its.csu.edu.cn. 86400 IN A 202.197.61.6
+
+wsus.its.csu.edu.cn. 7199 IN A 202.197.61.6
+
+wsus.its.csu.edu.cn. 7199 IN A 202.197.61.6
+
+wsus.its.csu.edu.cn. 7199 IN A 202.197.61.6
+
+wsus.its.csu.edu.cn. 7199 IN A 202.197.61.6
+
+wsus.its.csu.edu.cn. 7199 IN A 202.197.61.6
+
+wsus.its.csu.edu.cn. 7199 IN A 202.197.61.6
+
+www.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+www.its.csu.edu.cn. 59 IN A 220.250.64.225
+
+xgb.its.csu.edu.cn. 3600 IN A 220.250.64.225
+
+xgb.its.csu.edu.cn. 3599 IN A 220.250.64.225
+
+xyh.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+xyh.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+ybstu.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+ybstu.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+yxxt.its.csu.edu.cn. 86400 IN A 202.197.61.4
+
+yxxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+yxxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+yxxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+yxxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+yxxt.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+zgyy.its.csu.edu.cn. 86400 IN A 202.197.61.4
+
+zgyy.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+zgyy.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+zgyy.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+zgyy.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+zgyy.its.csu.edu.cn. 7199 IN A 202.197.61.4
+
+zhw.its.csu.edu.cn. 0 IN A 220.250.64.225
+
+zhw.its.csu.edu.cn. 60 IN A 220.250.64.225
+
+jcjnzx.csu.edu.cn. 86400 IN A 202.197.71.73
+
+jcjnzx.csu.edu.cn. 7199 IN A 202.197.71.73
+
+jcxnjxzx.csu.edu.cn. 60 IN A 202.197.71.184
+
+jcxnjxzx.csu.edu.cn. 59 IN A 202.197.71.184
+
+jcxnjxzx.csu.edu.cn. 59 IN A 202.197.71.184
+
+jcyxy.csu.edu.cn. 30 IN A 202.197.61.205
+
+jcyxy.csu.edu.cn. 29 IN A 202.197.61.205
+
+jcyxy.csu.edu.cn. 29 IN A 202.197.61.205
+
+jdexp.csu.edu.cn. 86400 IN A 202.197.71.86
+
+jdexp.csu.edu.cn. 7199 IN A 202.197.71.86
+
+jdexp.csu.edu.cn. 7199 IN A 202.197.71.86
+
+jdexp.csu.edu.cn. 7199 IN A 202.197.71.86
+
+jdexp.csu.edu.cn. 7199 IN A 202.197.71.86
+
+jf.csu.edu.cn. 86400 IN A 202.197.71.172
+
+jf.csu.edu.cn. 7199 IN A 202.197.71.172
+
+jf.csu.edu.cn. 7199 IN A 202.197.71.172
+
+jf.csu.edu.cn. 7199 IN A 202.197.71.172
+
+jgdw.csu.edu.cn. 86400 IN A 202.197.71.135
+
+jgdw.csu.edu.cn. 7199 IN A 202.197.71.135
+
+jgdw.csu.edu.cn. 7199 IN A 202.197.71.135
+
+jgdw.csu.edu.cn. 7199 IN A 202.197.71.135
+
+jgzfpj.csu.edu.cn. 30 IN A 202.197.61.42
+
+jjc.csu.edu.cn. 30 IN A 202.197.61.51
+
+jjjc.csu.edu.cn. 30 IN A 202.197.61.51
+
+jjjc.csu.edu.cn. 29 IN A 202.197.61.51
+
+jjjc.csu.edu.cn. 29 IN A 202.197.61.51
+
+jjjc.csu.edu.cn. 29 IN A 202.197.61.51
+
+jobsky.csu.edu.cn. 60 IN A 202.197.61.69
+
+jobsky.csu.edu.cn. 59 IN A 202.197.61.69
+
+jobsky.csu.edu.cn. 59 IN A 202.197.61.69
+
+join-zhaozheng.csu.edu.cn. 3600 IN A 220.250.64.225
+
+join-zhaozheng.csu.edu.cn. 3599 IN A 220.250.64.225
+
+join-zhaozheng.csu.edu.cn. 3599 IN A 220.250.64.225
+
+journals.csu.edu.cn. 86400 IN A 202.197.64.129
+
+journals.csu.edu.cn. 7199 IN A 202.197.64.129
+
+journals.csu.edu.cn. 7199 IN A 202.197.64.129
+
+journals.csu.edu.cn. 7199 IN A 202.197.64.129
+
+jrse.csu.edu.cn. 86400 IN A 202.197.64.129
+
+jszx.csu.edu.cn. 0 IN A 122.207.68.138
+
+jzjxol.csu.edu.cn. 30 IN A 202.197.61.89
+
+kexie.csu.edu.cn. 30 IN A 202.197.61.51
+
+klccicme.csu.edu.cn. 30 IN A 202.197.61.51
+
+kxyjb.csu.edu.cn. 60 IN A 202.197.61.51
+
+kxyjb.csu.edu.cn. 59 IN A 202.197.61.51
+
+kxyjb.csu.edu.cn. 59 IN A 202.197.61.51
+
+kxyjb.csu.edu.cn. 59 IN A 202.197.61.51
+
+labsafety.csu.edu.cn. 86400 IN A 202.197.61.221
+
+labsafety.csu.edu.cn. 7199 IN A 202.197.61.221
+
+labsafety.csu.edu.cn. 7199 IN A 202.197.61.221
+
+labsafety.csu.edu.cn. 7199 IN A 202.197.61.221
+
+labsafety.csu.edu.cn. 7199 IN A 202.197.61.221
+
+labsafety.csu.edu.cn. 7199 IN A 202.197.61.221
+
+lari.csu.edu.cn. 30 IN A 202.197.61.221
+
+lari.csu.edu.cn. 29 IN A 202.197.61.221
+
+law.csu.edu.cn. 30 IN A 202.197.61.92
+
+law.csu.edu.cn. 29 IN A 202.197.61.92
+
+law.csu.edu.cn. 29 IN A 202.197.61.92
+
+law.csu.edu.cn. 29 IN A 202.197.61.92
+
+law.csu.edu.cn. 29 IN A 202.197.61.92
+
+law.csu.edu.cn. 29 IN A 202.197.61.92
+
+law.csu.edu.cn. 29 IN A 202.197.61.92
+
+lcjnsyx.csu.edu.cn. 0 IN A 202.197.71.115
+
+lcjnsyx.csu.edu.cn. 60 IN A 202.197.71.115
+
+lcjnsyx.csu.edu.cn. 59 IN A 202.197.71.115
+
+lib.csu.edu.cn. 30 IN A 122.207.86.18
+
+lib.csu.edu.cn. 29 IN A 122.207.86.18
+
+lib.csu.edu.cn. 29 IN A 122.207.86.18
+
+lib.csu.edu.cn. 29 IN A 122.207.86.18
+
+lib.csu.edu.cn. 29 IN A 122.207.86.18
+
+lib.csu.edu.cn. 29 IN A 122.207.86.18
+
+lib.csu.edu.cn. 29 IN A 122.207.86.18
+
+libcscy.csu.edu.cn. 86400 IN A 122.207.86.26
+
+libcx.csu.edu.cn. 86400 IN A 122.207.86.25
+
+libdb.csu.edu.cn. 70475 IN A 122.207.86.31
+
+libdb.csu.edu.cn. 7199 IN A 122.207.86.31
+
+libdb.csu.edu.cn. 7199 IN A 122.207.86.31
+
+libdb.csu.edu.cn. 7199 IN A 122.207.86.31
+
+libdb.csu.edu.cn. 7199 IN A 122.207.86.31
+
+libedu.csu.edu.cn. 53914 IN A 122.207.86.72
+
+libpaper.csu.edu.cn. 86400 IN A 122.207.86.73
+
+libuser.csu.edu.cn. 86400 IN A 122.207.86.36
+
+libuser.csu.edu.cn. 7199 IN A 122.207.86.36
+
+libuser.csu.edu.cn. 7199 IN A 122.207.86.36
+
+libuser.csu.edu.cn. 7199 IN A 122.207.86.36
+
+libzw.csu.edu.cn. 86400 IN A 122.207.86.65
+
+libzx.csu.edu.cn. 86400 IN A 122.207.86.17
+
+life.csu.edu.cn. 82476 IN A 202.197.61.51
+
+life.csu.edu.cn. 7199 IN A 202.197.61.51
+
+life.csu.edu.cn. 7199 IN A 202.197.61.51
+
+life.csu.edu.cn. 7199 IN A 202.197.61.51
+
+lms.csu.edu.cn. 60 IN A 122.207.69.104
+
+lms.csu.edu.cn. 59 IN A 122.207.69.104
+
+lms.csu.edu.cn. 59 IN A 122.207.69.104
+
+lms.csu.edu.cn. 59 IN A 122.207.69.104
+
+lms.csu.edu.cn. 59 IN A 122.207.69.104
+
+lnpg.csu.edu.cn. 30 IN A 202.197.71.57
+
+lsep.csu.edu.cn. 30 IN A 202.197.71.80
+
+ltxc.csu.edu.cn. 30 IN A 202.197.61.51
+
+ltxc.csu.edu.cn. 29 IN A 202.197.61.51
+
+ltxc.csu.edu.cn. 29 IN A 202.197.61.51
+
+lxyj.csu.edu.cn. 30 IN A 202.197.61.121
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+mail.csu.edu.cn. 47 IN A 58.20.53.107
+
+math.csu.edu.cn. 30 IN A 202.197.61.51
+
+math.csu.edu.cn. 29 IN A 202.197.61.51
+
+mbdc2011.csu.edu.cn. 0 IN A 220.250.64.225
+
+mbdc2011.csu.edu.cn. 60 IN A 220.250.64.225
+
+mbdc2011.csu.edu.cn. 59 IN A 220.250.64.225
+
+mcm.csu.edu.cn. 30 IN A 202.197.71.8
+
+me.csu.edu.cn. 86400 IN A 202.197.61.51
+
+mededu.csu.edu.cn. 86400 IN A 202.197.61.51
+
+mededu.csu.edu.cn. 7199 IN A 202.197.61.51
+
+meeting.csu.edu.cn. 86400 IN A 202.197.75.179
+
+meeting.csu.edu.cn. 7199 IN A 202.197.75.179
+
+meeting.csu.edu.cn. 7199 IN A 202.197.75.179
+
+mirc.csu.edu.cn. 30 IN A 202.197.61.51
+
+mirc.csu.edu.cn. 29 IN A 202.197.61.51
+
+mma.csu.edu.cn. 3600 IN A 220.250.64.225
+
+mma.csu.edu.cn. 3599 IN A 220.250.64.225
+
+mma.csu.edu.cn. 3599 IN A 220.250.64.225
+
+mpb.csu.edu.cn. 30 IN A 202.197.71.39
+
+mpb.csu.edu.cn. 29 IN A 202.197.71.39
+
+mpb.csu.edu.cn. 29 IN A 202.197.71.39
+
+mse.csu.edu.cn. 30 IN A 202.197.71.50
+
+mse.csu.edu.cn. 29 IN A 202.197.71.50
+
+mse.csu.edu.cn. 29 IN A 202.197.71.50
+
+mse.csu.edu.cn. 29 IN A 202.197.71.50
+
+mse.csu.edu.cn. 29 IN A 202.197.71.50
+
+mue.csu.edu.cn. 30 IN A 202.197.61.221
+
+my.csu.edu.cn. 60 IN A 58.20.53.110
+
+my.csu.edu.cn. 59 IN A 58.20.53.110
+
+my.csu.edu.cn. 59 IN A 58.20.53.110
+
+my.csu.edu.cn. 59 IN A 58.20.53.110
+
+my.csu.edu.cn. 59 IN A 58.20.53.110
+
+nclab.csu.edu.cn. 86400 IN A 202.197.71.176
+
+nclab.csu.edu.cn. 7199 IN A 202.197.71.176
+
+nclab.csu.edu.cn. 7199 IN A 202.197.71.176
+
+ncrc.csu.edu.cn. 86400 IN A 202.197.71.148
+
+ncrc.csu.edu.cn. 7199 IN A 202.197.71.148
+
+ncrc.csu.edu.cn. 7199 IN A 202.197.71.148
+
+ncrc.csu.edu.cn. 7199 IN A 202.197.71.148
+
+netclass.csu.edu.cn. 341 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netclass.csu.edu.cn. 340 IN A 202.197.64.84
+
+netlab.csu.edu.cn. 0 IN A 202.197.61.232
+
+netlab.csu.edu.cn. 60 IN A 202.197.61.232
+
+netlab.csu.edu.cn. 59 IN A 202.197.61.232
+
+netlab-mail.csu.edu.cn. 86400 IN A 202.197.54.31
+
+netlab-mail.csu.edu.cn. 7199 IN A 202.197.54.31
+
+netlab-mail.csu.edu.cn. 7199 IN A 202.197.54.31
+
+news.csu.edu.cn. 60 IN A 58.20.53.110
+
+news.csu.edu.cn. 59 IN A 58.20.53.110
+
+news.csu.edu.cn. 59 IN A 58.20.53.110
+
+news.csu.edu.cn. 59 IN A 58.20.53.110
+
+news.csu.edu.cn. 59 IN A 58.20.53.110
+
+news2.csu.edu.cn. 3600 IN A 220.250.64.225
+
+news2.csu.edu.cn. 3599 IN A 220.250.64.225
+
+news2.csu.edu.cn. 3599 IN A 220.250.64.225
+
+nic.csu.edu.cn. 30 IN A 202.197.61.51
+
+nic.csu.edu.cn. 29 IN A 202.197.61.51
+
+nic.csu.edu.cn. 29 IN A 202.197.61.51
+
+nic.csu.edu.cn. 29 IN A 202.197.61.51
+
+nic.csu.edu.cn. 29 IN A 202.197.61.51
+
+nmmse.csu.edu.cn. 30 IN A 202.197.71.50
+
+ns.csu.edu.cn. 579 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+ns.csu.edu.cn. 578 IN A 202.197.61.222
+
+nursing.csu.edu.cn. 30 IN A 202.197.71.106
+
+nursing.csu.edu.cn. 29 IN A 202.197.71.106
+
+nursing.csu.edu.cn. 29 IN A 202.197.71.106
+
+nursing.csu.edu.cn. 29 IN A 202.197.71.106
+
+office.csu.edu.cn. 30 IN A 202.197.61.51
+
+office.csu.edu.cn. 29 IN A 202.197.61.51
+
+onestop.csu.edu.cn. 3600 IN A 220.250.64.225
+
+pan.csu.edu.cn. 86400 IN A 202.197.71.133
+
+pan.csu.edu.cn. 7199 IN A 202.197.71.133
+
+pan.csu.edu.cn. 7199 IN A 202.197.71.133
+
+pan.csu.edu.cn. 7199 IN A 202.197.71.133
+
+pan.csu.edu.cn. 7199 IN A 202.197.71.133
+
+pantest.csu.edu.cn. 86400 IN A 202.197.71.227
+
+pantest.csu.edu.cn. 7199 IN A 202.197.71.227
+
+pantest.csu.edu.cn. 7199 IN A 202.197.71.227
+
+pe.csu.edu.cn. 30 IN A 202.197.71.98
+
+pe.csu.edu.cn. 29 IN A 202.197.71.98
+
+pe.csu.edu.cn. 29 IN A 202.197.71.98
+
+pe.csu.edu.cn. 29 IN A 202.197.71.98
+
+pjzx.csu.edu.cn. 86400 IN A 202.197.61.221
+
+pmbjb.csu.edu.cn. 86400 IN A 202.197.71.126
+
+pmbjb.csu.edu.cn. 7199 IN A 202.197.71.126
+
+pmbjb.csu.edu.cn. 7199 IN A 202.197.71.126
+
+pmbjb.csu.edu.cn. 7199 IN A 202.197.71.126
+
+pmri.csu.edu.cn. 30 IN A 202.197.61.123
+
+pmri.csu.edu.cn. 29 IN A 202.197.61.123
+
+pop3.csu.edu.cn. 17590 IN A 202.197.64.20
+pop3.csu.edu.cn. 17590 IN A 202.197.64.21
+
+pop3.csu.edu.cn. 7199 IN A 202.197.64.21
+pop3.csu.edu.cn. 7199 IN A 202.197.64.20
+
+pop3.csu.edu.cn. 7199 IN A 202.197.64.21
+pop3.csu.edu.cn. 7199 IN A 202.197.64.20
+
+pop3.csu.edu.cn. 7199 IN A 202.197.64.21
+pop3.csu.edu.cn. 7199 IN A 202.197.64.20
+
+pop3.csu.edu.cn. 7199 IN A 202.197.64.21
+pop3.csu.edu.cn. 7199 IN A 202.197.64.20
+
+pop3.csu.edu.cn. 7199 IN A 202.197.64.21
+pop3.csu.edu.cn. 7199 IN A 202.197.64.20
+
+print.csu.edu.cn. 86400 IN A 202.197.71.145
+
+print.csu.edu.cn. 7199 IN A 202.197.71.145
+
+print.csu.edu.cn. 7199 IN A 202.197.71.145
+
+ps.csu.edu.cn. 30 IN A 202.197.61.51
+
+ps.csu.edu.cn. 29 IN A 202.197.61.51
+
+ps.csu.edu.cn. 29 IN A 202.197.61.51
+
+ps.csu.edu.cn. 29 IN A 202.197.61.51
+
+ps.csu.edu.cn. 29 IN A 202.197.61.51
+
+psy.csu.edu.cn. 30 IN A 202.197.61.51
+
+psy.csu.edu.cn. 29 IN A 202.197.61.51
+
+pubmedplus.csu.edu.cn. 360 IN A 202.197.83.68
+
+pubmedplus.csu.edu.cn. 359 IN A 202.197.83.68
+
+pubmedplus.csu.edu.cn. 359 IN A 202.197.83.68
+
+qiduojun.csu.edu.cn. 0 IN A 202.197.61.111
+
+quantuminf.csu.edu.cn. 86400 IN A 202.197.41.158
+
+quantuminf.csu.edu.cn. 7199 IN A 202.197.41.158
+
+quantuminf.csu.edu.cn. 7199 IN A 202.197.41.158
+
+rdoa.csu.edu.cn. 30 IN A 202.197.71.33
+
+rnmlab.csu.edu.cn. 30 IN A 202.197.71.49
+
+rnmlab.csu.edu.cn. 29 IN A 202.197.71.49
+
+rnmlab.csu.edu.cn. 29 IN A 202.197.71.49
+
+rnmlab.csu.edu.cn. 29 IN A 202.197.71.49
+
+robocup.csu.edu.cn. 86400 IN A 122.207.65.123
+
+rsc.csu.edu.cn. 60 IN A 202.197.61.51
+
+rsc.csu.edu.cn. 59 IN A 202.197.61.51
+
+rsc2.csu.edu.cn. 0 IN A 220.250.64.225
+
+rsc2.csu.edu.cn. 3600 IN A 220.250.64.225
+
+rsc2.csu.edu.cn. 3599 IN A 220.250.64.225
+
+ruige.csu.edu.cn. 30 IN A 202.197.61.221
+
+saa.csu.edu.cn. 30 IN A 202.197.61.126
+
+saa.csu.edu.cn. 29 IN A 202.197.61.126
+
+saa.csu.edu.cn. 29 IN A 202.197.61.126
+
+saa.csu.edu.cn. 29 IN A 202.197.61.126
+
+sce.csu.edu.cn. 30 IN A 202.197.61.51
+
+sce.csu.edu.cn. 29 IN A 202.197.61.51
+
+sce.csu.edu.cn. 29 IN A 202.197.61.51
+
+sce.csu.edu.cn. 29 IN A 202.197.61.51
+
+scetm.csu.edu.cn. 86400 IN A 202.197.71.40
+
+scetm.csu.edu.cn. 7199 IN A 202.197.71.40
+
+scetm.csu.edu.cn. 7199 IN A 202.197.71.40
+
+scetm.csu.edu.cn. 7199 IN A 202.197.71.40
+
+sfl.csu.edu.cn. 30 IN A 202.197.61.112
+
+sfl.csu.edu.cn. 29 IN A 202.197.61.112
+
+sfl.csu.edu.cn. 29 IN A 202.197.61.112
+
+sfl.csu.edu.cn. 29 IN A 202.197.61.112
+
+sise.csu.edu.cn. 3600 IN A 220.250.64.225
+
+sise.csu.edu.cn. 3599 IN A 220.250.64.225
+
+sise2.csu.edu.cn. 3600 IN A 220.250.64.225
+
+sise2.csu.edu.cn. 3599 IN A 220.250.64.225
+
+sise2.csu.edu.cn. 3599 IN A 220.250.64.225
+
+siseblog.csu.edu.cn. 0 IN A 202.197.71.36
+
+sklpm.csu.edu.cn. 86400 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+sklpm.csu.edu.cn. 7199 IN A 202.197.71.166
+
+smartransport.csu.edu.cn. 86400 IN A 202.197.71.2
+
+smartransport.csu.edu.cn. 7199 IN A 202.197.71.2
+
+smartransport.csu.edu.cn. 7199 IN A 202.197.71.2
+
+smartransport.csu.edu.cn. 7199 IN A 202.197.71.2
+
+smse.csu.edu.cn. 30 IN A 202.197.61.113
+
+smse.csu.edu.cn. 29 IN A 202.197.61.113
+
+smse.csu.edu.cn. 29 IN A 202.197.61.113
+
+smse.csu.edu.cn. 29 IN A 202.197.61.113
+
+smse.csu.edu.cn. 29 IN A 202.197.61.113
+
+soa.csu.edu.cn. 86400 IN A 202.197.61.51
+
+soa.csu.edu.cn. 7199 IN A 202.197.61.51
+
+soa.csu.edu.cn. 7199 IN A 202.197.61.51
+
+soa.csu.edu.cn. 7199 IN A 202.197.61.51
+
+soa.csu.edu.cn. 7199 IN A 202.197.61.51
+
+software.csu.edu.cn. 30 IN A 202.197.61.51
+
+software.csu.edu.cn. 29 IN A 202.197.61.51
+
+software.csu.edu.cn. 29 IN A 202.197.61.51
+
+software.csu.edu.cn. 29 IN A 202.197.61.51
+
+software.csu.edu.cn. 29 IN A 202.197.61.51
+
+softwaresta.csu.edu.cn. 360 IN A 202.197.71.117
+
+softwaresta.csu.edu.cn. 359 IN A 202.197.71.117
+
+softwaresta.csu.edu.cn. 359 IN A 202.197.71.117
+
+sp.csu.edu.cn. 86400 IN A 202.197.61.51
+
+sp.csu.edu.cn. 7199 IN A 202.197.61.51
+
+spa.csu.edu.cn. 86400 IN A 202.197.71.130
+
+spa.csu.edu.cn. 7199 IN A 202.197.71.130
+
+spa.csu.edu.cn. 7199 IN A 202.197.71.130
+
+spa.csu.edu.cn. 7199 IN A 202.197.71.130
+
+sph.csu.edu.cn. 30 IN A 202.197.61.51
+
+sph.csu.edu.cn. 29 IN A 202.197.61.51
+
+sports.csu.edu.cn. 30 IN A 202.197.61.51
+
+sports.csu.edu.cn. 29 IN A 202.197.61.51
+
+sports.csu.edu.cn. 29 IN A 202.197.61.51
+
+sports.csu.edu.cn. 29 IN A 202.197.61.51
+
+srse.csu.edu.cn. 30 IN A 202.197.71.81
+
+stte.csu.edu.cn. 60 IN A 202.197.71.2
+
+stte.csu.edu.cn. 59 IN A 202.197.71.2
+
+stte.csu.edu.cn. 59 IN A 202.197.71.2
+
+stte.csu.edu.cn. 59 IN A 202.197.71.2
+
+stte.csu.edu.cn. 59 IN A 202.197.71.2
+
+stte.csu.edu.cn. 59 IN A 202.197.71.2
+
+studyabroad.csu.edu.cn. 86400 IN A 202.197.61.221
+
+studyabroad.csu.edu.cn. 7199 IN A 202.197.61.221
+
+stureg.csu.edu.cn. 86400 IN A 202.197.61.135
+
+stureg.csu.edu.cn. 7199 IN A 202.197.61.135
+
+stureg.csu.edu.cn. 7199 IN A 202.197.61.135
+
+stureg.csu.edu.cn. 7199 IN A 202.197.61.135
+
+supervision.csu.edu.cn. 600 IN A 122.207.69.108
+
+sydwxb.csu.edu.cn. 30 IN A 202.197.61.51
+
+sydwxb.csu.edu.cn. 29 IN A 202.197.61.51
+
+syjxzx.csu.edu.cn. 0 IN A 202.197.71.60
+
+szyjy.csu.edu.cn. 30 IN A 202.197.61.51
+
+tamc2020.csu.edu.cn. 86400 IN A 202.197.61.51
+
+tamc2020.csu.edu.cn. 7199 IN A 202.197.61.51
+
+tamc2020.csu.edu.cn. 7199 IN A 202.197.61.51
+
+tamc2020.csu.edu.cn. 7199 IN A 202.197.61.51
+
+tougao.csu.edu.cn. 86400 IN A 202.197.64.130
+
+tougao.csu.edu.cn. 7199 IN A 202.197.64.130
+
+tougao.csu.edu.cn. 7199 IN A 202.197.64.130
+
+tougao.csu.edu.cn. 7199 IN A 202.197.64.130
+
+tougao.csu.edu.cn. 7199 IN A 202.197.64.130
+
+tougao.csu.edu.cn. 7199 IN A 202.197.64.130
+
+tougao.csu.edu.cn. 7199 IN A 202.197.64.130
+
+trackcheck.csu.edu.cn. 86400 IN A 202.197.41.157
+
+trackcheck.csu.edu.cn. 7199 IN A 202.197.41.157
+
+trust.csu.edu.cn. 30 IN A 202.197.61.51
+
+trust.csu.edu.cn. 29 IN A 202.197.61.51
+
+trust.csu.edu.cn. 29 IN A 202.197.61.51
+
+trust.csu.edu.cn. 29 IN A 202.197.61.51
+
+trust.csu.edu.cn. 29 IN A 202.197.61.51
+
+tse.csu.edu.cn. 86400 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tse.csu.edu.cn. 7199 IN A 202.197.61.221
+
+tv.csu.edu.cn. 0 IN A 202.197.61.242
+
+txjt3.csu.edu.cn. 360 IN A 202.197.41.2
+
+txjt3.csu.edu.cn. 359 IN A 202.197.41.2
+
+txjt3.csu.edu.cn. 359 IN A 202.197.41.2
+
+tzb.csu.edu.cn. 30 IN A 202.197.61.51
+
+tzb.csu.edu.cn. 29 IN A 202.197.61.51
+
+vcc.csu.edu.cn. 30 IN A 202.197.71.99
+
+village.csu.edu.cn. 30 IN A 202.197.61.51
+
+village.csu.edu.cn. 29 IN A 202.197.61.51
+
+vlab.csu.edu.cn. 0 IN A 202.197.61.251
+
+vod.csu.edu.cn. 86400 IN A 202.197.61.244
+
+vod.csu.edu.cn. 7199 IN A 202.197.61.244
+
+vod.csu.edu.cn. 7199 IN A 202.197.61.244
+
+wcmc.csu.edu.cn. 0 IN A 202.197.37.25
+
+wcmc.csu.edu.cn. 60 IN A 202.197.37.25
+
+wcmc.csu.edu.cn. 59 IN A 202.197.37.25
+
+wcmc.csu.edu.cn. 59 IN A 202.197.37.25
+
+wcp.csu.edu.cn. 30 IN A 202.197.71.38
+
+web-mail.csu.edu.cn. 3600 IN CNAME mail.csu.edu.cn.
+mail.csu.edu.cn. 29 IN A 58.20.53.107
+
+web-mail.csu.edu.cn. 3599 IN CNAME mail.csu.edu.cn.
+mail.csu.edu.cn. 29 IN A 58.20.53.107
+
+web-mail.csu.edu.cn. 3599 IN CNAME mail.csu.edu.cn.
+mail.csu.edu.cn. 29 IN A 58.20.53.107
+
+wl.csu.edu.cn. 30 IN A 202.197.61.91
+
+wl.csu.edu.cn. 29 IN A 202.197.61.91
+
+wl.csu.edu.cn. 29 IN A 202.197.61.91
+
+wl.csu.edu.cn. 29 IN A 202.197.61.91
+
+www.csu.edu.cn. 60 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+www.csu.edu.cn. 59 IN A 58.20.53.110
+
+wxxy.csu.edu.cn. 60 IN A 202.197.61.221
+
+wxxy.csu.edu.cn. 59 IN A 202.197.61.221
+
+wxxy.csu.edu.cn. 59 IN A 202.197.61.221
+
+wxxy.csu.edu.cn. 59 IN A 202.197.61.221
+
+wxxy.csu.edu.cn. 59 IN A 202.197.61.221
+
+wxxy.csu.edu.cn. 59 IN A 202.197.61.221
+
+wyy.csu.edu.cn. 3600 IN A 220.250.64.225
+
+wyy.csu.edu.cn. 3599 IN A 220.250.64.225
+
+wyy.csu.edu.cn. 3599 IN A 220.250.64.225
+
+xbyxb.csu.edu.cn. 86400 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xbyxb.csu.edu.cn. 7199 IN A 202.197.64.130
+
+xcb.csu.edu.cn. 30 IN A 202.197.61.51
+
+xcb.csu.edu.cn. 29 IN A 202.197.61.51
+
+xfjs.csu.edu.cn. 30 IN A 202.197.71.33
+
+xgw.csu.edu.cn. 30 IN A 202.197.61.85
+
+xgw.csu.edu.cn. 29 IN A 202.197.61.85
+
+xgw.csu.edu.cn. 29 IN A 202.197.61.85
+
+xgw.csu.edu.cn. 29 IN A 202.197.61.85
+
+xgw.csu.edu.cn. 29 IN A 202.197.61.85
+
+xgw.csu.edu.cn. 29 IN A 202.197.61.85
+
+xgw2.csu.edu.cn. 86400 IN A 202.197.61.85
+
+xgw2.csu.edu.cn. 7199 IN A 202.197.61.85
+
+xgw2.csu.edu.cn. 7199 IN A 202.197.61.85
+
+xgw2.csu.edu.cn. 7199 IN A 202.197.61.85
+
+xgw2.csu.edu.cn. 7199 IN A 202.197.61.85
+
+xssw.csu.edu.cn. 30 IN A 202.197.61.221
+
+xszcks.csu.edu.cn. 86400 IN A 202.197.71.129
+
+xszcks.csu.edu.cn. 7199 IN A 202.197.71.129
+
+xszcks.csu.edu.cn. 7199 IN A 202.197.71.129
+
+xszcks.csu.edu.cn. 7199 IN A 202.197.71.129
+
+xszz.csu.edu.cn. 86400 IN A 202.197.61.51
+
+xszz.csu.edu.cn. 7199 IN A 202.197.61.51
+
+xszz.csu.edu.cn. 7199 IN A 202.197.61.51
+
+xwtg.csu.edu.cn. 30 IN A 202.197.71.32
+
+xxgk.csu.edu.cn. 30 IN A 202.197.61.51
+
+xxgk.csu.edu.cn. 29 IN A 202.197.61.51
+
+xxgk.csu.edu.cn. 29 IN A 202.197.61.51
+
+xxgk.csu.edu.cn. 29 IN A 202.197.61.51
+
+xycme.csu.edu.cn. 30 IN A 202.197.61.51
+
+xyh.csu.edu.cn. 86400 IN A 202.197.61.51
+
+xyh.csu.edu.cn. 7199 IN A 202.197.61.51
+
+xyh.csu.edu.cn. 7199 IN A 202.197.61.51
+
+xyh.csu.edu.cn. 7199 IN A 202.197.61.51
+
+xyhold.csu.edu.cn. 86400 IN A 202.197.71.197
+
+xyhold.csu.edu.cn. 7199 IN A 202.197.71.197
+
+xyhold.csu.edu.cn. 7199 IN A 202.197.71.197
+
+xykqyy.csu.edu.cn. 30 IN A 202.197.61.51
+
+xykqyy.csu.edu.cn. 29 IN A 202.197.61.51
+
+xylabmed.csu.edu.cn. 30 IN A 202.197.61.51
+
+xylabmed.csu.edu.cn. 29 IN A 202.197.61.51
+
+xylib.csu.edu.cn. 0 IN A 202.197.83.74
+
+xylib.csu.edu.cn. 60 IN A 202.197.83.74
+
+xysm.csu.edu.cn. 30 IN A 202.197.61.51
+
+xysm.csu.edu.cn. 29 IN A 202.197.61.51
+
+xysm.csu.edu.cn. 29 IN A 202.197.61.51
+
+www.xysm.csu.edu.cn. 30 IN A 202.197.61.51
+
+www.xysm.csu.edu.cn. 29 IN A 202.197.61.51
+
+ygb.csu.edu.cn. 0 IN A 202.197.71.64
+
+ygfw.csu.edu.cn. 82467 IN CNAME hqlx.csu.edu.cn.
+hqlx.csu.edu.cn. 7 IN A 202.197.61.107
+
+ygfw.csu.edu.cn. 7199 IN CNAME hqlx.csu.edu.cn.
+hqlx.csu.edu.cn. 7 IN A 202.197.61.107
+
+ygfw.csu.edu.cn. 7199 IN CNAME hqlx.csu.edu.cn.
+hqlx.csu.edu.cn. 7 IN A 202.197.61.107
+
+yhyxyw.csu.edu.cn. 86400 IN A 202.197.71.138
+
+yhyxyw.csu.edu.cn. 7199 IN A 202.197.71.138
+
+yhyxyw.csu.edu.cn. 7199 IN A 202.197.71.138
+
+yiban.csu.edu.cn. 30 IN A 202.197.61.90
+
+yjszsgl.csu.edu.cn. 0 IN A 202.197.56.162
+
+yjszsgl.csu.edu.cn. 60 IN A 202.197.56.162
+
+yjszsgl.csu.edu.cn. 59 IN A 202.197.56.162
+
+yjxksjxt.csu.edu.cn. 86400 IN A 202.197.71.74
+
+yjxksjxt.csu.edu.cn. 7199 IN A 202.197.71.74
+
+yjxksjxt.csu.edu.cn. 7199 IN A 202.197.71.74
+
+yjxksjxt.csu.edu.cn. 7199 IN A 202.197.71.74
+
+yjxksjxt.csu.edu.cn. 7199 IN A 202.197.71.74
+
+ylyn.csu.edu.cn. 30 IN A 202.197.61.94
+
+yqgx.csu.edu.cn. 86400 IN A 202.197.71.167
+
+yqgxapp.csu.edu.cn. 86400 IN A 202.197.71.167
+
+yqgxapp.csu.edu.cn. 7199 IN A 202.197.71.167
+
+yqgxapp.csu.edu.cn. 7199 IN A 202.197.71.167
+
+yxy.csu.edu.cn. 30 IN A 202.197.61.51
+
+yxy.csu.edu.cn. 29 IN A 202.197.61.51
+
+yxy.csu.edu.cn. 29 IN A 202.197.61.51
+
+yxy.csu.edu.cn. 29 IN A 202.197.61.51
+
+yxy.csu.edu.cn. 29 IN A 202.197.61.51
+
+yyglc.csu.edu.cn. 30 IN A 202.197.61.51
+
+yyglc.csu.edu.cn. 29 IN A 202.197.61.51
+
+yyglc.csu.edu.cn. 29 IN A 202.197.61.51
+
+yyglc.csu.edu.cn. 29 IN A 202.197.61.51
+
+yyglc.csu.edu.cn. 29 IN A 202.197.61.51
+
+zcc2.csu.edu.cn. 30 IN A 202.197.61.51
+
+zcc2.csu.edu.cn. 29 IN A 202.197.61.51
+
+zcc2.csu.edu.cn. 29 IN A 202.197.61.51
+
+zcc2.csu.edu.cn. 29 IN A 202.197.61.51
+
+zcjygs.csu.edu.cn. 30 IN A 202.197.71.58
+
+zf9902.csu.edu.cn. 0 IN A 220.250.64.225
+
+zf9902.csu.edu.cn. 3600 IN A 220.250.64.225
+
+zf9902.csu.edu.cn. 3599 IN A 220.250.64.225
+
+zgyy.csu.edu.cn. 30 IN A 202.197.61.51
+
+zgyy.csu.edu.cn. 29 IN A 202.197.61.51
+
+zgyy.csu.edu.cn. 29 IN A 202.197.61.51
+
+zhaosheng.csu.edu.cn. 30 IN A 202.197.61.104
+
+zhaosheng.csu.edu.cn. 29 IN A 202.197.61.104
+
+zhaosheng.csu.edu.cn. 29 IN A 202.197.61.104
+
+zhaosheng.csu.edu.cn. 29 IN A 202.197.61.104
+
+zhaosheng.csu.edu.cn. 29 IN A 202.197.61.104
+
+zjff.csu.edu.cn. 30 IN A 202.197.61.221
+
+zjff.csu.edu.cn. 29 IN A 202.197.61.221
+
+zjsgczx.csu.edu.cn. 30 IN A 202.197.61.113
+
+zjsgczx.csu.edu.cn. 29 IN A 202.197.61.113
+
+zjsgczx.csu.edu.cn. 29 IN A 202.197.61.113
+
+zjsgczx.csu.edu.cn. 29 IN A 202.197.61.113
+
+zjsgczx.csu.edu.cn. 29 IN A 202.197.61.113
+
+zjwh.csu.edu.cn. 30 IN A 202.197.61.51
+
+zk.csu.edu.cn. 30 IN A 202.197.61.51
+
+znfx.csu.edu.cn. 30 IN A 202.197.71.9
+
+znfx.csu.edu.cn. 29 IN A 202.197.71.9
+
+znfx.csu.edu.cn. 29 IN A 202.197.71.9
+
+znfz.csu.edu.cn. 30 IN A 202.197.71.1
+
+znyswl.csu.edu.cn. 86400 IN A 202.197.71.162
+
+znyswl.csu.edu.cn. 7199 IN A 202.197.71.162
+
+znyswl.csu.edu.cn. 7199 IN A 202.197.71.162
+
+znyswl.csu.edu.cn. 7199 IN A 202.197.71.162
+
+znyswl.csu.edu.cn. 7199 IN A 202.197.71.162
+
+znyswl.csu.edu.cn. 7199 IN A 202.197.71.162
+
+zyxh.csu.edu.cn. 86400 IN A 202.197.71.146
+
+zyxh.csu.edu.cn. 7199 IN A 202.197.71.146
+
+zyxh.csu.edu.cn. 7199 IN A 202.197.71.146
+
+zyxh.csu.edu.cn. 7199 IN A 202.197.71.146
+
+zzb.csu.edu.cn. 30 IN A 202.197.61.51
+
+zzb.csu.edu.cn. 29 IN A 202.197.61.51
+
+zzb.csu.edu.cn. 29 IN A 202.197.61.51
+
+zzxy.csu.edu.cn. 86400 IN A 202.197.71.183
+
+zzxy.csu.edu.cn. 7199 IN A 202.197.71.183
+
+zzxy.csu.edu.cn. 7199 IN A 202.197.71.183
+

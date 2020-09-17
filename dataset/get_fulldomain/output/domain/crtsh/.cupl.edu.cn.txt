@@ -1,0 +1,9 @@
+*.wvpn.cupl.edu.cn
+dy.cupl.edu.cn
+kaoshi.cupl.edu.cn
+mail.cupl.edu.cn
+nas.cupl.edu.cn
+webvpn.cupl.edu.cn
+wvpn.cupl.edu.cn
+wx.cupl.edu.cn
+wximg.cupl.edu.cn

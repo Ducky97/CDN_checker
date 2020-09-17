@@ -1,0 +1,11 @@
+*.ruc.edu.cn
+autodiscover.ruc.edu.cn
+cas.ruc.edu.cn
+mail.ruc.edu.cn
+owa.ruc.edu.cn
+pj.ruc.edu.cn
+pop3.ruc.edu.cn
+portal.ruc.edu.cn
+smtp.ruc.edu.cn
+sysb.ruc.edu.cn
+vpn.ruc.edu.cn

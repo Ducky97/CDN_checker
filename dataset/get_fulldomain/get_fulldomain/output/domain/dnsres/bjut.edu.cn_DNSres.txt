@@ -1,0 +1,2758 @@
+bjut.edu.cn. 600 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+bjut.edu.cn. 599 IN A 202.112.78.101
+
+ac.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+ac.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+ac.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+ac.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+ac.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+admissions.bjut.edu.cn. 600 IN CNAME admissions-bjut-edu-cn.cname.saaswaf.com.
+admissions-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+admissions.bjut.edu.cn. 599 IN CNAME admissions-bjut-edu-cn.cname.saaswaf.com.
+admissions-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+admissions.bjut.edu.cn. 599 IN CNAME admissions-bjut-edu-cn.cname.saaswaf.com.
+admissions-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+admissions.bjut.edu.cn. 599 IN CNAME admissions-bjut-edu-cn.cname.saaswaf.com.
+admissions-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+autodiscover.bjut.edu.cn. 0 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 60 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+autodiscover.bjut.edu.cn. 59 IN A 220.250.64.225
+
+bdic.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+bdic.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+bdic.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+bdic.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+bisec.bjut.edu.cn. 600 IN CNAME bjc-sec.bjut.edu.cn.
+bjc-sec.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+bisec.bjut.edu.cn. 599 IN CNAME bjc-sec.bjut.edu.cn.
+bjc-sec.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+bisec.bjut.edu.cn. 599 IN CNAME bjc-sec.bjut.edu.cn.
+bjc-sec.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+bisec.bjut.edu.cn. 599 IN CNAME bjc-sec.bjut.edu.cn.
+bjc-sec.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+bisec.bjut.edu.cn. 599 IN CNAME bjc-sec.bjut.edu.cn.
+bjc-sec.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+bjc-sec.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+
+bjfnc.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjfnc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjfnc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjfnc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjiad.bjut.edu.cn. 600 IN CNAME bjiad-bjut-edu-cn.cname.saaswaf.com.
+bjiad-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjiad.bjut.edu.cn. 599 IN CNAME bjiad-bjut-edu-cn.cname.saaswaf.com.
+bjiad-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjiad.bjut.edu.cn. 599 IN CNAME bjiad-bjut-edu-cn.cname.saaswaf.com.
+bjiad-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+bjutaa.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutaa.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutaa.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutaa.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutcie.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutcie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutcie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutcie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutcie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+bjutcie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 41 IN A 112.13.67.99
+a004.cache.saaswaf.com. 41 IN A 119.188.95.115
+
+ceee.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+ceee.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+ceee.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+ceee.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+ceee.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+ceee.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+ceee.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+cersmtp230.bjut.edu.cn. 600 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp230.bjut.edu.cn. 599 IN A 202.112.78.230
+
+cersmtp231.bjut.edu.cn. 600 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cersmtp231.bjut.edu.cn. 599 IN A 202.112.78.231
+
+cie.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+cie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+cie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+cie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+cie.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+clxy.bjut.edu.cn. 60 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 59 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+clxy.bjut.edu.cn. 59 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 59 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+clxy.bjut.edu.cn. 59 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 59 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+clxy.bjut.edu.cn. 59 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 59 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+clxy.bjut.edu.cn. 59 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 59 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+clxy-eng.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+clxy-eng.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+clxy-eng.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+cms.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cms.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cms.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cms.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cms.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cmsen.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+cmt.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cmt.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cmt.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+cmt.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 40 IN A 119.188.95.115
+a004.cache.saaswaf.com. 40 IN A 112.13.67.99
+
+wvpn.bjut.edu.cndragon2.bjut.edu.cn. 0 IN A 220.250.64.225
+
+www.bjut.edu.cndragon2.bjut.edu.cn. 0 IN A 220.250.64.225
+
+journal.bjut.edu.cnegw.bjut.edu.cn. 0 IN A 220.250.64.225
+
+xxxb.bjut.edu.cnlib.bjut.edu.cn. 0 IN A 220.250.64.225
+
+cersmtp230.bjut.edu.cnlibproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+yanzhao.bjut.edu.cnlibziyuan.bjut.edu.cn. 0 IN A 220.250.64.225
+
+cersmtp230.bjut.edu.cnslxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+xsc.bjut.edu.cnslxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+vpn.bjut.edu.cnwebvpn.bjut.edu.cn. 0 IN A 220.250.64.225
+
+graduate.bjut.edu.cnwww.bjut.edu.cn. 0 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cnwww.bjut.edu.cn. 0 IN A 220.250.64.225
+
+coremail.bjut.edu.cn. 600 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+NXDOMAIN for daijian.bjut.edu.cn
+
+NXDOMAIN for daijian.bjut.edu.cn
+
+dbxb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+dbxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+dbxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+dbxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+dragon.bjut.edu.cn. 600 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon.bjut.edu.cn. 599 IN A 202.112.78.1
+
+dragon2.bjut.edu.cn. 600 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dragon2.bjut.edu.cn. 599 IN A 114.251.253.216
+
+dzxxkz.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+
+dzxxkz.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+
+dzxxkz.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+
+ecc.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+
+ecc.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+
+egw.bjut.edu.cn. 600 IN A 114.251.253.227
+egw.bjut.edu.cn. 600 IN A 124.207.38.77
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+egw.bjut.edu.cn. 599 IN A 124.207.38.77
+egw.bjut.edu.cn. 599 IN A 114.251.253.227
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+NXDOMAIN for emails.bjut.edu.cn
+
+www.emails.bjut.edu.cn. 0 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 60 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.emails.bjut.edu.cn. 59 IN A 220.250.64.225
+
+energy.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+energy.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+energy.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+energy.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+energy.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+energyen.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 119.188.95.115
+a004.cache.saaswaf.com. 29 IN A 112.13.67.99
+
+english.bjut.edu.cn. 600 IN CNAME english-bjut-edu-cn.cname.saaswaf.com.
+english-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+english.bjut.edu.cn. 599 IN CNAME english-bjut-edu-cn.cname.saaswaf.com.
+english-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+english.bjut.edu.cn. 599 IN CNAME english-bjut-edu-cn.cname.saaswaf.com.
+english-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+eol2018.bjut.edu.cn. 600 IN A 211.71.90.33
+
+eol2018.bjut.edu.cn. 599 IN A 211.71.90.33
+
+eol2018.bjut.edu.cn. 599 IN A 211.71.90.33
+
+mooc1-api.eol2018.bjut.edu.cn. 600 IN CNAME eol2018.bjut.edu.cn.
+eol2018.bjut.edu.cn. 599 IN A 211.71.90.33
+
+passport2-api.eol2018.bjut.edu.cn. 600 IN CNAME eol2018.bjut.edu.cn.
+eol2018.bjut.edu.cn. 599 IN A 211.71.90.33
+
+video.eol2018.bjut.edu.cn. 600 IN CNAME eol2018.bjut.edu.cn.
+eol2018.bjut.edu.cn. 599 IN A 211.71.90.33
+
+erc.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 112.13.67.99
+a004.cache.saaswaf.com. 29 IN A 119.188.95.115
+
+erc.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 112.13.67.99
+a004.cache.saaswaf.com. 29 IN A 119.188.95.115
+
+erc.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 112.13.67.99
+a004.cache.saaswaf.com. 29 IN A 119.188.95.115
+
+NXDOMAIN for fgx-hc.bjut.edu.cn
+
+NXDOMAIN for fgx-hc.bjut.edu.cn
+
+fhss.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+
+fhss.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+
+fhss.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+
+fzghc.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+fzghc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+fzghc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+fzghc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+gjs.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+gjs.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+gjs.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+gjs.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+gkzp.bjut.edu.cn. 600 IN A 114.251.253.213
+
+gkzp.bjut.edu.cn. 599 IN A 114.251.253.213
+
+gkzp.bjut.edu.cn. 599 IN A 114.251.253.213
+
+graduate.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+graduate.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+graduate.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+graduate.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+graduate.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+graduate.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+graduate.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+hulm.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+
+hulm.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+
+hulm.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+
+hvac.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+
+hvac.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 20 IN A 112.13.67.99
+a004.cache.saaswaf.com. 20 IN A 119.188.95.115
+
+impm.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+
+impm.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+
+impm.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+
+impm.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+
+impm.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+
+impme.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+impme.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+impme.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+ir.bjut.edu.cn. 30 IN A 202.112.71.94
+
+ise.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+ise.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+ise.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+ise.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 27 IN A 112.13.67.99
+a004.cache.saaswaf.com. 27 IN A 119.188.95.115
+
+itsapp.bjut.edu.cn. 300 IN A 211.71.90.45
+
+itsapp.bjut.edu.cn. 299 IN A 211.71.90.45
+
+itsapp.bjut.edu.cn. 299 IN A 211.71.90.45
+
+itsapp.bjut.edu.cn. 299 IN A 211.71.90.45
+
+itsapp.bjut.edu.cn. 299 IN A 211.71.90.45
+
+itsapp.bjut.edu.cn. 299 IN A 211.71.90.45
+
+itsapp.bjut.edu.cn. 299 IN A 211.71.90.45
+
+jgxy.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+jgy.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jgy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jgy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jgy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jgy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jijianchu.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jijianchu.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jijianchu.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jijianchu.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jijianchu.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+journal.bjut.edu.cn. 600 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+journal.bjut.edu.cn. 599 IN CNAME journal-bjut-edu-cn.cname.saaswaf.com.
+journal-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jsjxy.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jsjxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jxjy.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jxjy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jxjy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jxjy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jxjy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jxjygl.bjut.edu.cn. 600 IN CNAME jxjygl-bjut-edu-cn.cname.saaswaf.com.
+jxjygl-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jxpg.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jxpg.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jxpg.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jxpg.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jxpg.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+
+jzcg.bjut.edu.cn. 600 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jzcg.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jzcg.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jzcg.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+jzcg.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+kjcxx.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+kjcxx.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+ksls.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 576 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+
+labmd.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+labmd.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+labmd.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+labmd.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 26 IN A 119.188.95.115
+a004.cache.saaswaf.com. 26 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 600 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+lib.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 19 IN A 119.188.95.115
+a004.cache.saaswaf.com. 19 IN A 112.13.67.99
+
+libaleph.bjut.edu.cn. 300 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+libaleph.bjut.edu.cn. 299 IN A 114.251.253.217
+
+NXDOMAIN for libportal.bjut.edu.cn
+
+NXDOMAIN for libportal.bjut.edu.cn
+
+NXDOMAIN for libportal.bjut.edu.cn
+
+libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+p8088-172.24.10.20.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+p8088-172.24.10.20.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+p88-202.198.141.98.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+p88-202.198.141.98.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+p88-202.198.141.98.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+pqdt.calis.edu.cn.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+pqdt.calis.edu.cn.libproxy.bjut.edu.cn. 60 IN A 220.250.64.225
+
+www.meeting.edu.cn.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+www.meeting.edu.cn.libproxy.bjut.edu.cn. 60 IN A 220.250.64.225
+
+dreamspark.eol.cn.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+dreamspark.eol.cn.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+static.springer.com.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+apps.webofknowledge.com.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+apps.webofknowledge.com.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+zxlj.cbpt.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+pay.bjut.edu.cnwww.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+caj.d.cnki.net.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+caj.d.cnki.net.libproxy.bjut.edu.cn. 60 IN A 220.250.64.225
+
+caj.d.cnki.net.libproxy.bjut.edu.cn. 59 IN A 220.250.64.225
+
+pdf.d.cnki.net.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+lsk.cnki.net.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+lsk.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+projects.cnki.net.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+scholar.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+scholar.cnki.net.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+tongji.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+tongji.cnki.net.libproxy.bjut.edu.cn. 3599 IN A 220.250.64.225
+
+www.tsk.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+www.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+yanshi.cnki.net.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+paragonplus.acs.org.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+ascelibrary.org.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+ascelibrary.org.libproxy.bjut.edu.cn. 60 IN A 220.250.64.225
+
+ascelibrary.org.libproxy.bjut.edu.cn. 59 IN A 220.250.64.225
+
+www.journals.cambridge.org.libproxy.bjut.edu.cn. 3600 IN A 220.250.64.225
+
+www.jstor.org.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+search.sciencemag.org.libproxy.bjut.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for libthesis.bjut.edu.cn
+
+NXDOMAIN for libthesis.bjut.edu.cn
+
+libzhongjingwang.bjut.edu.cn. 300 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libzhongjingwang.bjut.edu.cn. 299 IN A 114.251.253.221
+
+libziyuan.bjut.edu.cn. 600 IN CNAME libzy.bjut.edu.cn.
+libzy.bjut.edu.cn. 299 IN A 114.251.253.214
+
+libziyuan.bjut.edu.cn. 599 IN CNAME libzy.bjut.edu.cn.
+libzy.bjut.edu.cn. 299 IN A 114.251.253.214
+
+libziyuan.bjut.edu.cn. 599 IN CNAME libzy.bjut.edu.cn.
+libzy.bjut.edu.cn. 299 IN A 114.251.253.214
+
+libziyuan.bjut.edu.cn. 599 IN CNAME libzy.bjut.edu.cn.
+libzy.bjut.edu.cn. 299 IN A 114.251.253.214
+
+libziyuan.bjut.edu.cn. 599 IN CNAME libzy.bjut.edu.cn.
+libzy.bjut.edu.cn. 299 IN A 114.251.253.214
+
+life.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+life.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+lifescience.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+linkproof.bjut.edu.cn. 600 IN A 211.71.95.250
+linkproof.bjut.edu.cn. 600 IN A 114.251.253.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+linkproof.bjut.edu.cn. 599 IN A 114.251.253.250
+linkproof.bjut.edu.cn. 599 IN A 211.71.95.250
+
+ltxgzc.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+ltxgzc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+ltxgzc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 577 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 112.13.67.99
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+lxyz.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+lxyz.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+lxyz.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+lxyz.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+mail.bjut.edu.cn. 600 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+mail.bjut.edu.cn. 599 IN CNAME coremail.bjut.edu.cn.
+coremail.bjut.edu.cn. 599 IN A 114.251.253.226
+
+marx.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+marx.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+marx.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+marx.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+marx.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 555 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 183.136.237.220
+
+mba.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 554 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+mba.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 554 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+mba.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 554 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+mba.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 554 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+mba.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 554 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+NXDOMAIN for md-contest.bjut.edu.cn
+
+NXDOMAIN for md-contest.bjut.edu.cn
+
+NXDOMAIN for md-contest.bjut.edu.cn
+
+NXDOMAIN for md-contest.bjut.edu.cn
+
+met.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+met.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+met.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+met.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+met.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+mof.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+mof.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+mof.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+mof.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+mof.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+
+mr.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 6 IN A 183.136.237.220
+a004.cache.saaswaf.com. 6 IN A 119.188.95.115
+
+mr.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 6 IN A 183.136.237.220
+a004.cache.saaswaf.com. 6 IN A 119.188.95.115
+
+mr.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 6 IN A 183.136.237.220
+a004.cache.saaswaf.com. 6 IN A 119.188.95.115
+
+mr.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 6 IN A 183.136.237.220
+a004.cache.saaswaf.com. 6 IN A 119.188.95.115
+
+mr.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 6 IN A 183.136.237.220
+a004.cache.saaswaf.com. 6 IN A 119.188.95.115
+
+news.bjut.edu.cn. 600 IN CNAME www.bjut.edu.cn.
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+news.bjut.edu.cn. 599 IN CNAME www.bjut.edu.cn.
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+news.bjut.edu.cn. 599 IN CNAME www.bjut.edu.cn.
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+news.bjut.edu.cn. 599 IN CNAME www.bjut.edu.cn.
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+news.bjut.edu.cn. 599 IN CNAME www.bjut.edu.cn.
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+oetl.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+oetl.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+oetl.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+owa.bjut.edu.cn. 0 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 60 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+owa.bjut.edu.cn. 59 IN A 220.250.64.225
+
+pay.bjut.edu.cn. 300 IN A 114.251.253.215
+
+pay.bjut.edu.cn. 299 IN A 114.251.253.215
+
+pay.bjut.edu.cn. 299 IN A 114.251.253.215
+
+pay.bjut.edu.cn. 299 IN A 114.251.253.215
+
+rce.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+rce.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+rce.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+rce.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+rce.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+renwen.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+slxy.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+slxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+slxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+slxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+slxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+slxy.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+ssejw.bjut.edu.cn. 30 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+ssejw.bjut.edu.cn. 29 IN A 202.112.64.0
+
+tpeet.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+tyb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tyb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+tzb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+vpn.bjut.edu.cn. 600 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+vpn.bjut.edu.cn. 599 IN A 114.251.253.220
+
+webrecdoc.bjut.edu.cn. 600 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webrecdoc.bjut.edu.cn. 599 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webrecdoc.bjut.edu.cn. 599 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webrecdoc.bjut.edu.cn. 599 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webrecdoc.bjut.edu.cn. 599 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webrecdoc.bjut.edu.cn. 599 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webrecdoc.bjut.edu.cn. 599 IN CNAME webrecdoc-bjut-edu-cn.cname.saaswaf.com.
+webrecdoc-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+webvpn.bjut.edu.cn. 600 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+webvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+www.webvpn.bjut.edu.cn. 600 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+www.webvpn.bjut.edu.cn. 599 IN A 211.71.90.36
+
+weld.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+weld.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+weld.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+weld.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+weld.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+whcg.bjut.edu.cn. 600 IN CNAME whcg-bjut-edu-cn.cname.saaswaf.com.
+whcg-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+whcg.bjut.edu.cn. 599 IN CNAME whcg-bjut-edu-cn.cname.saaswaf.com.
+whcg-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+whcg.bjut.edu.cn. 599 IN CNAME whcg-bjut-edu-cn.cname.saaswaf.com.
+whcg-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+whcg.bjut.edu.cn. 599 IN CNAME whcg-bjut-edu-cn.cname.saaswaf.com.
+whcg-bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+wlc.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+wlc.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+wvpn.bjut.edu.cn. 600 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+wvpn.bjut.edu.cn. 599 IN A 114.251.253.236
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www.bjut.edu.cn. 599 IN CNAME www1stwaf.bjut.edu.cn.
+www1stwaf.bjut.edu.cn. 599 IN CNAME bjut-edu-cn.cname.saaswaf.com.
+bjut-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+xchb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+xchb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+xchb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+xchb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 112.13.67.99
+
+xddh.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+xddh.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+xddh.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+
+xkb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 598 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 5 IN A 183.136.237.220
+a004.cache.saaswaf.com. 5 IN A 119.188.95.115
+
+NXDOMAIN for xlddt.bjut.edu.cn
+
+NXDOMAIN for xlddt.bjut.edu.cn
+
+NXDOMAIN for xlddt.bjut.edu.cn
+
+xsc.bjut.edu.cn. 0 IN A 220.250.64.225
+
+xxgk.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxgk.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxgk.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxgk.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxgk.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxgk.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+xxxb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 588 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 119.188.95.115
+a004.cache.saaswaf.com. 48 IN A 112.13.67.99
+
+yanzhao.bjut.edu.cn. 60 IN CNAME yanzhao-bjut-edu-cn.cname.saaswaf.com.
+yanzhao-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+yanzhao.bjut.edu.cn. 59 IN CNAME yanzhao-bjut-edu-cn.cname.saaswaf.com.
+yanzhao-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+yanzhao.bjut.edu.cn. 59 IN CNAME yanzhao-bjut-edu-cn.cname.saaswaf.com.
+yanzhao-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+yanzhao.bjut.edu.cn. 59 IN CNAME yanzhao-bjut-edu-cn.cname.saaswaf.com.
+yanzhao-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+yanzhao.bjut.edu.cn. 59 IN CNAME yanzhao-bjut-edu-cn.cname.saaswaf.com.
+yanzhao-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+yanzhao.bjut.edu.cn. 59 IN CNAME yanzhao-bjut-edu-cn.cname.saaswaf.com.
+yanzhao-bjut-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 112.13.67.99
+a004.cache.saaswaf.com. 59 IN A 119.188.95.115
+
+ydmh-cname.bjut.edu.cn. 300 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ydmh-cname.bjut.edu.cn. 299 IN A 211.71.90.38
+
+ygb.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+ygb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+ygb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+ygb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+ygb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+ygb.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 47 IN A 112.13.67.99
+a004.cache.saaswaf.com. 47 IN A 119.188.95.115
+
+yslbm.bjut.edu.cn. 0 IN A 220.250.64.225
+
+yslbm.bjut.edu.cn. 60 IN A 220.250.64.225
+
+yslbm.bjut.edu.cn. 59 IN A 220.250.64.225
+
+zdns.bjut.edu.cn. 600 IN A 211.71.95.249
+zdns.bjut.edu.cn. 600 IN A 114.251.253.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zdns.bjut.edu.cn. 599 IN A 114.251.253.249
+zdns.bjut.edu.cn. 599 IN A 211.71.95.249
+
+zhaopin.bjut.edu.cn. 600 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+
+zhaopin.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+
+zhaopin.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+
+zhaopin.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+
+zhaopin.bjut.edu.cn. 599 IN CNAME www3rd.bjut.edu.cn.
+www3rd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+
+zuzhibu.bjut.edu.cn. 600 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+
+zuzhibu.bjut.edu.cn. 599 IN CNAME www2nd.bjut.edu.cn.
+www2nd.bjut.edu.cn. 599 IN CNAME www2nd-bjut-edu-cn.cname.saaswaf.com.
+www2nd-bjut-edu-cn.cname.saaswaf.com. 587 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 58 IN A 183.136.237.220
+a004.cache.saaswaf.com. 58 IN A 119.188.95.115
+

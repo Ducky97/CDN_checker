@@ -1,0 +1,2009 @@
+acm.imu.edu.cn. 3600 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+acm.imu.edu.cn. 3599 IN A 202.207.12.25
+
+ai.imu.edu.cn. 3600 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+ai.imu.edu.cn. 3599 IN A 202.207.12.229
+
+app.imu.edu.cn. 3600 IN A 222.31.212.254
+
+app.imu.edu.cn. 3599 IN A 222.31.212.254
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+NXDOMAIN for arch.imu.edu.cn
+
+arch1.imu.edu.cn. 3600 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+arch1.imu.edu.cn. 3599 IN A 202.207.153.12
+
+archive.imu.edu.cn. 3600 IN A 183.175.40.132
+
+archive.imu.edu.cn. 3599 IN A 183.175.40.132
+
+bbs.imu.edu.cn. 3600 IN CNAME saturn.imu.edu.cn.
+saturn.imu.edu.cn. 3599 IN A 202.207.146.89
+
+bep.imu.edu.cn. 3600 IN A 183.175.40.132
+
+bep.imu.edu.cn. 3599 IN A 183.175.40.132
+
+bigdata.imu.edu.cn. 3600 IN A 183.175.59.210
+
+bigdata.imu.edu.cn. 3599 IN A 183.175.59.210
+
+bioinfor.imu.edu.cn. 3600 IN A 183.175.59.3
+
+bioinformatics.imu.edu.cn. 3600 IN A 183.175.14.216
+
+bwc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+bwc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+cc.imu.edu.cn. 3600 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+cc.imu.edu.cn. 3599 IN A 202.207.12.210
+
+ccs.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ccs.imu.edu.cn. 3599 IN A 183.175.40.132
+
+cer.imu.edu.cn. 3600 IN A 183.175.40.243
+
+cer.imu.edu.cn. 3599 IN A 183.175.40.243
+
+cggl.imu.edu.cn. 3600 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+cggl.imu.edu.cn. 3599 IN A 202.207.15.15
+
+chem.imu.edu.cn. 3600 IN A 183.175.40.132
+
+chem.imu.edu.cn. 3599 IN A 183.175.40.132
+
+circle.imu.edu.cn. 3600 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+circle.imu.edu.cn. 3599 IN A 202.207.0.20
+
+cisco.imu.edu.cn. 3600 IN A 202.207.144.51
+cisco.imu.edu.cn. 3600 IN A 202.207.146.97
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+cisco.imu.edu.cn. 3599 IN A 202.207.146.97
+cisco.imu.edu.cn. 3599 IN A 202.207.144.51
+
+NXDOMAIN for portal.imu.edu.cncvscs.imu.edu.cn
+
+cne.imu.edu.cn. 3600 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+cne.imu.edu.cn. 3599 IN A 202.207.0.134
+
+NXDOMAIN for arch.imu.edu.cngspydd.imu.edu.cn
+
+NXDOMAIN for library.imu.edu.cnhonor.imu.edu.cn
+
+NXDOMAIN for biolab.imu.edu.cnlib.imu.edu.cn
+
+NXDOMAIN for vpnlib.imu.edu.cnmailgw.imu.edu.cn
+
+NXDOMAIN for xb.imu.edu.cnmoocs.imu.edu.cn
+
+NXDOMAIN for whjc.imu.edu.cnnotes.imu.edu.cn
+
+NXDOMAIN for arch1.imu.edu.cnxb.imu.edu.cn
+
+courseware.imu.edu.cn. 3600 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+courseware.imu.edu.cn. 3599 IN A 202.207.0.31
+
+csc.imu.edu.cn. 3600 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+csc.imu.edu.cn. 3599 IN A 202.207.0.238
+
+cslirugroup.imu.edu.cn. 3600 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+cslirugroup.imu.edu.cn. 3599 IN A 202.207.12.179
+
+curricula.imu.edu.cn. 3600 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+curricula.imu.edu.cn. 3599 IN A 202.207.0.212
+
+cvscs.imu.edu.cn. 3600 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cvscs.imu.edu.cn. 3599 IN A 202.207.12.213
+
+cwc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+cwc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+cwcjt.imu.edu.cn. 3600 IN A 43.254.149.213
+
+djgz.imu.edu.cn. 3600 IN A 183.175.40.132
+
+djgz.imu.edu.cn. 3599 IN A 183.175.40.132
+
+domino.imu.edu.cn. 3600 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+domino.imu.edu.cn. 3599 IN A 202.207.146.246
+
+dorm.imu.edu.cn. 3600 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dorm.imu.edu.cn. 3599 IN A 202.207.11.135
+
+dpd.imu.edu.cn. 3600 IN A 183.175.40.132
+
+dzxy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+dzxy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+ecology.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ecology.imu.edu.cn. 3599 IN A 183.175.40.132
+
+edf.imu.edu.cn. 3600 IN A 183.175.40.37
+
+elearn.imu.edu.cn. 3600 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+elearn.imu.edu.cn. 3599 IN A 202.207.146.151
+
+emba.imu.edu.cn. 3600 IN A 183.175.40.35
+
+emba.imu.edu.cn. 3599 IN A 183.175.40.35
+
+erpcs.imu.edu.cn. 3600 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+erpcs.imu.edu.cn. 3599 IN A 202.207.12.212
+
+etc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+etc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+flagnet.imu.edu.cn. 3600 IN A 183.175.40.34
+
+flagnet.imu.edu.cn. 3599 IN A 183.175.40.34
+
+flc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+flc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+fox.imu.edu.cn. 3600 IN A 183.175.40.132
+
+fox.imu.edu.cn. 3599 IN A 183.175.40.132
+
+games.imu.edu.cn. 3600 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+games.imu.edu.cn. 3599 IN A 202.207.146.211
+
+gfs.imu.edu.cn. 3600 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gfs.imu.edu.cn. 3599 IN A 202.207.0.246
+
+gonghui.imu.edu.cn. 3600 IN A 183.175.40.132
+
+gonghui.imu.edu.cn. 3599 IN A 183.175.40.132
+
+gs.imu.edu.cn. 3600 IN A 183.175.40.132
+
+gs.imu.edu.cn. 3599 IN A 183.175.40.132
+
+gspydd.imu.edu.cn. 3600 IN A 202.207.0.229
+
+gspydd.imu.edu.cn. 3599 IN A 202.207.0.229
+
+gspydd.imu.edu.cn. 3599 IN A 202.207.0.229
+
+gspydd.imu.edu.cn. 3599 IN A 202.207.0.229
+
+gspydd.imu.edu.cn. 3599 IN A 202.207.0.229
+
+gspydd.imu.edu.cn. 3599 IN A 202.207.0.229
+
+gspydd.imu.edu.cn. 3599 IN A 202.207.0.229
+
+gss.imu.edu.cn. 3600 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gss.imu.edu.cn. 3599 IN A 202.207.0.190
+
+gw2.imu.edu.cn. 3600 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+gw2.imu.edu.cn. 3599 IN A 202.207.0.51
+
+honor.imu.edu.cn. 3600 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+honor.imu.edu.cn. 3599 IN A 202.207.3.5
+
+hqc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+hqc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+hr.imu.edu.cn. 3600 IN A 183.175.40.243
+
+hr.imu.edu.cn. 3599 IN A 183.175.40.243
+
+hxsj.imu.edu.cn. 3600 IN A 183.175.40.45
+
+hzb.imu.edu.cn. 3600 IN A 183.175.40.68
+
+ibm.imu.edu.cn. 3600 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ibm.imu.edu.cn. 3599 IN A 202.207.146.88
+
+ice.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ice.imu.edu.cn. 3599 IN A 183.175.40.132
+
+iec.imu.edu.cn. 3600 IN A 183.175.40.132
+
+iec.imu.edu.cn. 3599 IN A 183.175.40.132
+
+imms.imu.edu.cn. 3600 IN A 183.175.40.132
+
+imms.imu.edu.cn. 3599 IN A 183.175.40.132
+
+imugw.imu.edu.cn. 3600 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imugw.imu.edu.cn. 3599 IN A 202.207.0.29
+
+imupress.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ir.imu.edu.cn. 3600 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+ir.imu.edu.cn. 3599 IN A 202.207.7.118
+
+jjxy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+jjxy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+jm.imu.edu.cn. 3600 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+jm.imu.edu.cn. 3599 IN A 202.207.1.202
+
+job.imu.edu.cn. 3600 IN A 222.31.212.253
+
+job.imu.edu.cn. 3599 IN A 222.31.212.253
+
+journal.imu.edu.cn. 3600 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+journal.imu.edu.cn. 3599 IN A 202.207.7.11
+
+js.imu.edu.cn. 3600 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+js.imu.edu.cn. 3599 IN A 202.207.11.2
+
+jsjwxt.imu.edu.cn. 3600 IN A 183.175.40.52
+
+jsjwxt.imu.edu.cn. 3599 IN A 183.175.40.52
+
+jszy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+NXDOMAIN for ai.imu.edu.cnwww.jt.imu.edu.cn
+
+mail.jt.imu.edu.cn. 3600 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+mail.jt.imu.edu.cn. 3599 IN A 202.207.156.3
+
+www.jt.imu.edu.cn. 3600 IN A 222.31.218.131
+
+jupiter.imu.edu.cn. 3600 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jupiter.imu.edu.cn. 3599 IN A 202.207.144.22
+
+jw.imu.edu.cn. 3600 IN A 183.175.40.132
+
+jwxt.imu.edu.cn. 3600 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jwxt.imu.edu.cn. 3599 IN A 183.175.40.53
+
+jxjy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+jxjy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+kygl.imu.edu.cn. 3600 IN A 183.175.40.146
+
+kygl.imu.edu.cn. 3599 IN A 183.175.40.146
+
+lab.imu.edu.cn. 3600 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+lab.imu.edu.cn. 3599 IN A 202.207.1.252
+
+ladder.imu.edu.cn. 3600 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+ladder.imu.edu.cn. 3599 IN A 202.207.146.68
+
+law.imu.edu.cn. 3600 IN A 183.175.40.132
+
+law.imu.edu.cn. 3599 IN A 183.175.40.132
+
+lib.imu.edu.cn. 3600 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+lib.imu.edu.cn. 3599 IN A 183.175.40.59
+
+NXDOMAIN for gspydd.imu.edu.cnidp.lib.imu.edu.cn
+
+idp.lib.imu.edu.cn. 3600 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+idp.lib.imu.edu.cn. 3599 IN A 202.207.7.139
+
+library.imu.edu.cn. 3600 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+library.imu.edu.cn. 3599 IN A 202.207.7.23
+
+libw.imu.edu.cn. 1647 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+libw.imu.edu.cn. 1646 IN A 202.207.7.82
+
+lsly.imu.edu.cn. 3600 IN A 222.31.216.98
+lsly.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ltxryglc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ltxryglc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mail.imu.edu.cn. 3600 IN A 123.58.178.129
+
+mail.imu.edu.cn. 3599 IN A 123.58.178.129
+
+mail2.imu.edu.cn. 3600 IN A 202.207.0.50
+
+mailgw.imu.edu.cn. 3600 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mailgw.imu.edu.cn. 3599 IN A 202.207.0.28
+
+mars.imu.edu.cn. 3600 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+mars.imu.edu.cn. 3599 IN A 202.207.146.254
+
+marxism.imu.edu.cn. 3600 IN A 183.175.40.132
+
+marxism.imu.edu.cn. 3599 IN A 183.175.40.132
+
+math.imu.edu.cn. 3600 IN A 183.175.40.132
+
+math.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mba.imu.edu.cn. 3600 IN A 183.175.40.35
+
+mba.imu.edu.cn. 3599 IN A 183.175.40.35
+
+mbak.imu.edu.cn. 3600 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+mbak.imu.edu.cn. 3599 IN A 202.207.0.54
+
+media.imu.edu.cn. 3600 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+media.imu.edu.cn. 3599 IN A 202.207.146.218
+
+mgenet.imu.edu.cn. 3600 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mgenet.imu.edu.cn. 3599 IN A 202.207.4.10
+
+mggyjjd.imu.edu.cn. 3600 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggyjjd.imu.edu.cn. 3599 IN A 202.207.5.21
+
+mggzx.imu.edu.cn. 3600 IN A 183.175.40.132
+
+mggzx.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mgx.imu.edu.cn. 3600 IN A 183.175.40.132
+
+mgx.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mgxzx.imu.edu.cn. 3600 IN A 183.175.40.132
+
+mgxzx.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mis.imu.edu.cn. 3600 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+mis.imu.edu.cn. 3599 IN A 202.207.157.74
+
+moocs.imu.edu.cn. 3600 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moocs.imu.edu.cn. 3599 IN A 222.31.212.254
+
+moon.imu.edu.cn. 3600 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+moon.imu.edu.cn. 3599 IN A 202.207.0.73
+
+mpa.imu.edu.cn. 3600 IN A 183.175.40.132
+mpa.imu.edu.cn. 3600 IN A 202.207.0.136
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mpa.imu.edu.cn. 3599 IN A 202.207.0.136
+mpa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+mrc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+mrc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+msy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+msy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+muse.imu.edu.cn. 3600 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+muse.imu.edu.cn. 3599 IN A 202.207.146.251
+
+my.imu.edu.cn. 3600 IN A 183.175.40.243
+
+my.imu.edu.cn. 3599 IN A 183.175.40.243
+
+nano.imu.edu.cn. 3600 IN A 183.175.40.132
+
+nc.imu.edu.cn. 3600 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+nc.imu.edu.cn. 3599 IN A 202.207.0.218
+
+ndbc2005.imu.edu.cn. 3600 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndbc2005.imu.edu.cn. 3599 IN A 202.207.0.45
+
+ndchuxin.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ndfwzx.imu.edu.cn. 3600 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndfwzx.imu.edu.cn. 3599 IN A 202.207.0.132
+
+ndjf.imu.edu.cn. 3600 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndjf.imu.edu.cn. 3599 IN A 202.207.15.130
+
+ndmw.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ndmw.imu.edu.cn. 3599 IN A 183.175.40.132
+
+NXDOMAIN for ndnews.imu.edu.cn
+
+ndsjc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+ndsjc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+ndxbskb.imu.edu.cn. 3600 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbskb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+ndxbzkb.imu.edu.cn. 3600 IN A 183.175.40.39
+
+ndxbzkb.imu.edu.cn. 3599 IN A 183.175.40.39
+
+neptune.imu.edu.cn. 3600 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+neptune.imu.edu.cn. 3599 IN A 202.207.0.77
+
+netlab.imu.edu.cn. 3600 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+netlab.imu.edu.cn. 3599 IN A 202.207.12.230
+
+news.imu.edu.cn. 3600 IN A 183.175.40.132
+
+news.imu.edu.cn. 3599 IN A 183.175.40.132
+
+nic.imu.edu.cn. 3600 IN A 183.175.40.132
+
+nic.imu.edu.cn. 3599 IN A 183.175.40.132
+
+nmg1.imu.edu.cn. 3600 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg1.imu.edu.cn. 3599 IN A 202.207.0.6
+
+nmg2.imu.edu.cn. 3600 IN CNAME mail.imu.edu.cn.
+mail.imu.edu.cn. 3596 IN A 123.58.178.129
+
+nmg2.imu.edu.cn. 3599 IN CNAME mail.imu.edu.cn.
+mail.imu.edu.cn. 3596 IN A 123.58.178.129
+
+NXDOMAIN for nmg3.imu.edu.cn
+
+nmgdxdekt.imu.edu.cn. 3600 IN A 183.175.40.34
+
+nmgdxdekt.imu.edu.cn. 3599 IN A 183.175.40.34
+
+nmgdxxyh.imu.edu.cn. 3600 IN A 183.175.40.44
+
+nmgjjkcx.imu.edu.cn. 3600 IN A 183.175.40.132
+
+nmgjjkcx.imu.edu.cn. 3599 IN A 183.175.40.132
+
+nmglzzx.imu.edu.cn. 3600 IN A 183.175.40.132
+
+nom.imu.edu.cn. 3600 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+nom.imu.edu.cn. 3599 IN A 202.207.7.15
+
+notes.imu.edu.cn. 3600 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+notes.imu.edu.cn. 3599 IN A 202.207.146.222
+
+office.imu.edu.cn. 3600 IN A 183.175.40.132
+
+office.imu.edu.cn. 3599 IN A 183.175.40.132
+
+oldflagnet.imu.edu.cn. 3600 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+oldflagnet.imu.edu.cn. 3599 IN A 202.207.0.231
+
+pay.imu.edu.cn. 3600 IN A 43.254.149.213
+
+pay.imu.edu.cn. 3599 IN A 43.254.149.213
+
+peace.imu.edu.cn. 3600 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+peace.imu.edu.cn. 3599 IN A 202.207.144.66
+
+phil.imu.edu.cn. 3600 IN A 183.175.40.132
+
+phil.imu.edu.cn. 3599 IN A 183.175.40.132
+
+portal.imu.edu.cn. 3600 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+portal.imu.edu.cn. 3599 IN A 202.207.0.105
+
+potato.imu.edu.cn. 3600 IN A 183.175.40.132
+
+potato.imu.edu.cn. 3599 IN A 183.175.40.132
+
+rocket.imu.edu.cn. 3600 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rocket.imu.edu.cn. 3599 IN A 202.207.0.50
+
+rsc.imu.edu.cn. 2664 IN A 183.175.40.132
+
+rsc.imu.edu.cn. 2663 IN A 183.175.40.132
+
+lxj.rsc.imu.edu.cn. 3600 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+lxj.rsc.imu.edu.cn. 3599 IN A 202.207.0.33
+
+see.imu.edu.cn. 3600 IN A 183.175.40.132
+
+see.imu.edu.cn. 3599 IN A 183.175.40.132
+
+skc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+skc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+sklab.imu.edu.cn. 3600 IN A 183.175.40.132
+
+sklab.imu.edu.cn. 3599 IN A 183.175.40.132
+
+sls.imu.edu.cn. 3600 IN A 183.175.40.132
+
+sls.imu.edu.cn. 3599 IN A 183.175.40.132
+
+slx.imu.edu.cn. 3600 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+slx.imu.edu.cn. 3599 IN A 202.207.146.228
+
+smkxxy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+smkxxy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+spade.imu.edu.cn. 3600 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spade.imu.edu.cn. 3599 IN A 202.207.146.250
+
+spc.imu.edu.cn. 3600 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spc.imu.edu.cn. 3599 IN A 202.207.0.225
+
+spm.imu.edu.cn. 3600 IN A 183.175.40.132
+
+spm.imu.edu.cn. 3599 IN A 183.175.40.132
+
+st.imu.edu.cn. 3600 IN A 183.175.40.132
+
+st.imu.edu.cn. 3599 IN A 183.175.40.132
+
+star1.imu.edu.cn. 3600 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+star1.imu.edu.cn. 3599 IN A 202.207.0.76
+
+surag.imu.edu.cn. 3600 IN A 202.207.7.96
+
+t.imu.edu.cn. 3600 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+t.imu.edu.cn. 3599 IN A 202.207.146.183
+
+testnc.imu.edu.cn. 3600 IN A 183.175.0.122
+
+tlhp.imu.edu.cn. 3022 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tlhp.imu.edu.cn. 3021 IN A 202.207.7.219
+
+tspl.imu.edu.cn. 3600 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+tspl.imu.edu.cn. 3599 IN A 202.207.7.7
+
+ttt.imu.edu.cn. 3600 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+ttt.imu.edu.cn. 3599 IN A 202.207.146.7
+
+txb.imu.edu.cn. 3600 IN A 183.175.40.132
+
+tyxy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+tyxy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+uaa.imu.edu.cn. 3600 IN A 183.175.40.132
+
+uaa.imu.edu.cn. 3599 IN A 183.175.40.132
+
+ups.imu.edu.cn. 3600 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+ups.imu.edu.cn. 3599 IN A 202.207.12.9
+
+uranus.imu.edu.cn. 3600 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+uranus.imu.edu.cn. 3599 IN A 202.207.146.21
+
+venus.imu.edu.cn. 3600 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+venus.imu.edu.cn. 3599 IN A 202.207.0.27
+
+vod.imu.edu.cn. 3600 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vod.imu.edu.cn. 3599 IN A 202.207.146.149
+
+vpnlib.imu.edu.cn. 3600 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+vpnlib.imu.edu.cn. 3599 IN A 202.207.0.145
+
+wenming.imu.edu.cn. 3600 IN A 183.175.40.132
+
+wenming.imu.edu.cn. 3599 IN A 183.175.40.132
+
+whjc.imu.edu.cn. 3600 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+whjc.imu.edu.cn. 3599 IN A 202.207.12.220
+
+wlaqz.imu.edu.cn. 3600 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlaqz.imu.edu.cn. 3599 IN A 202.207.0.150
+
+wlxy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+wlxy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+www.imu.edu.cn. 204 IN CNAME fox.imu.edu.cn.
+fox.imu.edu.cn. 203 IN A 183.175.40.132
+
+www.imu.edu.cn. 203 IN CNAME fox.imu.edu.cn.
+fox.imu.edu.cn. 203 IN A 183.175.40.132
+
+www1.imu.edu.cn. 3600 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+www1.imu.edu.cn. 3599 IN A 202.207.0.107
+
+wxxy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+wxxy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+xb.imu.edu.cn. 3600 IN A 202.207.0.251
+
+xb.imu.edu.cn. 3599 IN A 202.207.0.251
+
+xb.imu.edu.cn. 3599 IN A 202.207.0.251
+
+xb.imu.edu.cn. 3599 IN A 202.207.0.251
+
+xb.imu.edu.cn. 3599 IN A 202.207.0.251
+
+xb.imu.edu.cn. 3599 IN A 202.207.0.251
+
+xb.imu.edu.cn. 3599 IN A 202.207.0.251
+
+xgc.imu.edu.cn. 3600 IN A 183.175.40.132
+
+xgc.imu.edu.cn. 3599 IN A 183.175.40.132
+
+xiaoqing.imu.edu.cn. 3600 IN A 183.175.40.132
+
+xiaoqing.imu.edu.cn. 3599 IN A 183.175.40.132
+
+xiaoqingmw.imu.edu.cn. 3600 IN A 183.175.40.132
+
+xxfb.imu.edu.cn. 3600 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxfb.imu.edu.cn. 3599 IN A 202.207.0.106
+
+xxgk.imu.edu.cn. 3600 IN A 183.175.40.132
+
+xxgk.imu.edu.cn. 3599 IN A 183.175.40.132
+
+xz.imu.edu.cn. 3600 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xz.imu.edu.cn. 3599 IN A 202.207.3.21
+
+xzwlzx.imu.edu.cn. 3600 IN A 202.207.0.50
+
+ygb.imu.edu.cn. 3600 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+ygb.imu.edu.cn. 3599 IN A 202.207.0.205
+
+yjs.imu.edu.cn. 3600 IN A 183.175.40.243
+
+yjs.imu.edu.cn. 3599 IN A 183.175.40.243
+
+ykt.imu.edu.cn. 3600 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+ykt.imu.edu.cn. 3599 IN A 202.207.15.12
+
+yqgx.imu.edu.cn. 3600 IN A 183.175.40.46
+
+yqgx.imu.edu.cn. 3599 IN A 183.175.40.46
+
+zcgl.imu.edu.cn. 3600 IN A 183.175.40.132
+
+zhaosheng.imu.edu.cn. 3600 IN A 183.175.40.132
+
+zhaosheng.imu.edu.cn. 3599 IN A 183.175.40.132
+
+zlgc.imu.edu.cn. 3600 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zlgc.imu.edu.cn. 3599 IN A 202.207.0.234
+
+zmejjyjy.imu.edu.cn. 3600 IN A 183.175.40.132
+
+zmejjyjy.imu.edu.cn. 3599 IN A 183.175.40.132
+
+zoology.imu.edu.cn. 3600 IN A 183.175.40.132
+
+zoology.imu.edu.cn. 3599 IN A 183.175.40.132
+
+zp.imu.edu.cn. 3600 IN A 183.175.40.243
+
+zp.imu.edu.cn. 3599 IN A 183.175.40.243
+
+zygx.imu.edu.cn. 3600 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+zygx.imu.edu.cn. 3599 IN A 202.207.9.4
+
+NXDOMAIN for zztzb.imu.edu.cn
+
+NXDOMAIN for zztzb.imu.edu.cn
+

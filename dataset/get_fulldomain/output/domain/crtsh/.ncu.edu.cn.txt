@@ -1,0 +1,11 @@
+*.ncu.edu.cn
+*.wvpn.ncu.edu.cn
+e.ncu.edu.cn
+e1.ncu.edu.cn
+hakka.ncu.edu.cn
+home.ncu.edu.cn
+iot.ncu.edu.cn
+psc.ncu.edu.cn
+ssl.mail.ncu.edu.cn
+webservice.zjc.ncu.edu.cn
+www.ag.ncu.edu.cn

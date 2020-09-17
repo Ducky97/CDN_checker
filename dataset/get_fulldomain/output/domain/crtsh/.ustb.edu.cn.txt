@@ -1,0 +1,14 @@
+*.ustb.edu.cn
+crypto.ustb.edu.cn
+elib.ustb.edu.cn
+job.ustb.edu.cn
+ma.ustb.edu.cn
+n.ustb.edu.cn
+qiandao.ustb.edu.cn
+rettc.ustb.edu.cn
+salon.ustb.edu.cn
+ustb.id.ustb.edu.cn
+wf.ustb.edu.cn
+www.qiandao.ustb.edu.cn
+wx.ustb.edu.cn
+wximg.ustb.edu.cn

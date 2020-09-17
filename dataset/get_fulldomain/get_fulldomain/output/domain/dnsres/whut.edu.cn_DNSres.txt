@@ -1,0 +1,2469 @@
+whut.edu.cn. 60 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+whut.edu.cn. 59 IN A 202.114.50.2
+
+51mm.whut.edu.cn. 3600 IN A 202.114.88.181
+
+51mm.whut.edu.cn. 3599 IN A 202.114.88.181
+
+51mm.whut.edu.cn. 3599 IN A 202.114.88.181
+
+51mm.whut.edu.cn. 3599 IN A 202.114.88.181
+
+51mm.whut.edu.cn. 3599 IN A 202.114.88.181
+
+a-d.whut.edu.cn. 3600 IN A 218.197.103.12
+
+a-d.whut.edu.cn. 3599 IN A 218.197.103.12
+
+a-d.whut.edu.cn. 3599 IN A 218.197.103.12
+
+a-d.whut.edu.cn. 3599 IN A 218.197.103.12
+
+a-d.whut.edu.cn. 3599 IN A 218.197.103.12
+
+a-d.whut.edu.cn. 3599 IN A 218.197.103.12
+
+a-d.whut.edu.cn. 3599 IN A 218.197.103.12
+
+abs.whut.edu.cn. 3600 IN A 202.114.88.99
+
+abs.whut.edu.cn. 3599 IN A 202.114.88.99
+
+abs.whut.edu.cn. 3599 IN A 202.114.88.99
+
+abs.whut.edu.cn. 3599 IN A 202.114.88.99
+
+admission.whut.edu.cn. 3600 IN CNAME dns.lface.org.
+dns.lface.org. 1201 IN A 123.127.134.6
+
+admission.whut.edu.cn. 3599 IN CNAME dns.lface.org.
+dns.lface.org. 1201 IN A 123.127.134.6
+
+admission.whut.edu.cn. 3599 IN CNAME dns.lface.org.
+dns.lface.org. 1201 IN A 123.127.134.6
+
+admission.whut.edu.cn. 3599 IN CNAME dns.lface.org.
+dns.lface.org. 1201 IN A 123.127.134.6
+
+admission.whut.edu.cn. 3599 IN CNAME dns.lface.org.
+dns.lface.org. 1201 IN A 123.127.134.6
+
+admission.whut.edu.cn. 3599 IN CNAME dns.lface.org.
+dns.lface.org. 1201 IN A 123.127.134.6
+
+amucwut.whut.edu.cn. 3600 IN A 218.197.103.37
+
+arc.whut.edu.cn. 3600 IN A 218.197.101.220
+
+arc.whut.edu.cn. 3599 IN A 218.197.101.220
+
+arc.whut.edu.cn. 3599 IN A 218.197.101.220
+
+arc.whut.edu.cn. 3599 IN A 218.197.101.220
+
+arc.whut.edu.cn. 3599 IN A 218.197.101.220
+
+arc.whut.edu.cn. 3599 IN A 218.197.101.220
+
+arc.whut.edu.cn. 3599 IN A 218.197.101.220
+
+arts.whut.edu.cn. 3600 IN A 202.114.89.113
+
+arts.whut.edu.cn. 3599 IN A 202.114.89.113
+
+arts.whut.edu.cn. 3599 IN A 202.114.89.113
+
+arts.whut.edu.cn. 3599 IN A 202.114.89.113
+
+arts.whut.edu.cn. 3599 IN A 202.114.89.113
+
+atmsp.whut.edu.cn. 3600 IN A 202.114.89.15
+
+atmsp.whut.edu.cn. 3599 IN A 202.114.89.15
+
+atmsp.whut.edu.cn. 3599 IN A 202.114.89.15
+
+atmsp.whut.edu.cn. 3599 IN A 202.114.89.15
+
+atmsp.whut.edu.cn. 3599 IN A 202.114.89.15
+
+atmsp.whut.edu.cn. 3599 IN A 202.114.89.15
+
+auto.whut.edu.cn. 60 IN A 218.197.103.22
+
+auto.whut.edu.cn. 60 IN A 218.197.103.22
+
+auto.whut.edu.cn. 59 IN A 218.197.103.22
+
+auto.whut.edu.cn. 60 IN A 218.197.103.22
+
+auto.whut.edu.cn. 59 IN A 218.197.103.22
+
+auto.whut.edu.cn. 60 IN A 218.197.103.22
+
+bill.whut.edu.cn. 3600 IN A 218.197.98.70
+
+bill.whut.edu.cn. 3599 IN A 218.197.98.70
+
+bill.whut.edu.cn. 3599 IN A 218.197.98.70
+
+bill.whut.edu.cn. 3599 IN A 218.197.98.70
+
+bill.whut.edu.cn. 3599 IN A 218.197.98.70
+
+bill.whut.edu.cn. 3599 IN A 218.197.98.70
+
+campus.whut.edu.cn. 3600 IN A 202.114.88.182
+
+campus.whut.edu.cn. 3599 IN A 202.114.88.182
+
+campus.whut.edu.cn. 3599 IN A 202.114.88.182
+
+campus.whut.edu.cn. 3599 IN A 202.114.88.182
+
+cchm.whut.edu.cn. 3600 IN A 202.114.90.79
+
+cchm.whut.edu.cn. 3599 IN A 202.114.90.79
+
+cchm.whut.edu.cn. 3599 IN A 202.114.90.79
+
+cchm.whut.edu.cn. 3599 IN A 202.114.90.79
+
+cchm.whut.edu.cn. 3599 IN A 202.114.90.79
+
+cchm.whut.edu.cn. 3599 IN A 202.114.90.79
+
+cchm.whut.edu.cn. 3599 IN A 202.114.90.79
+
+cgt.whut.edu.cn. 0 IN A 220.250.64.225
+
+cgt.whut.edu.cn. 60 IN A 220.250.64.225
+
+cgt.whut.edu.cn. 59 IN A 220.250.64.225
+
+ciee.whut.edu.cn. 60 IN A 218.197.103.11
+
+ciee.whut.edu.cn. 59 IN A 218.197.103.11
+
+ciee.whut.edu.cn. 59 IN A 218.197.103.11
+
+ciee.whut.edu.cn. 59 IN A 218.197.103.11
+
+ciee.whut.edu.cn. 59 IN A 218.197.103.11
+
+ciee.whut.edu.cn. 59 IN A 218.197.103.11
+
+ciee.whut.edu.cn. 59 IN A 218.197.103.11
+
+cmra.whut.edu.cn. 3600 IN A 218.197.103.6
+
+cmra.whut.edu.cn. 3599 IN A 218.197.103.6
+
+cmra.whut.edu.cn. 3599 IN A 218.197.103.6
+
+cmra.whut.edu.cn. 3599 IN A 218.197.103.6
+
+cmra.whut.edu.cn. 3599 IN A 218.197.103.6
+
+cmra.whut.edu.cn. 3599 IN A 218.197.103.6
+
+cmra.whut.edu.cn. 3599 IN A 218.197.103.6
+
+whut.edu.cn<BR>www.whut.edu.cn. 0 IN A 220.250.64.225
+
+whut.edu.cn<BR>www.whut.edu.cn. 60 IN A 220.250.64.225
+
+whut.edu.cn<BR>www.whut.edu.cn. 59 IN A 220.250.64.225
+
+whut.edu.cn<BR>www.whut.edu.cn. 59 IN A 220.250.64.225
+
+gzc.whut.edu.cn<BR>xcb.whut.edu.cn. 0 IN A 220.250.64.225
+
+gzc.whut.edu.cn<BR>xcb.whut.edu.cn. 60 IN A 220.250.64.225
+
+gzc.whut.edu.cn<BR>xcb.whut.edu.cn. 59 IN A 220.250.64.225
+
+gzc.whut.edu.cn<BR>xcb.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.whut.edu.cncgt.whut.edu.cn. 0 IN A 220.250.64.225
+
+gzc.whut.edu.cncy.whut.edu.cn. 0 IN A 220.250.64.225
+
+wljy.whut.edu.cndns3.whut.edu.cn. 3600 IN A 220.250.64.225
+
+lgdy.whut.edu.cnenglish.whut.edu.cn. 0 IN A 220.250.64.225
+
+ifiota.whut.edu.cnpress.whut.edu.cn. 3600 IN A 220.250.64.225
+
+zxfz.whut.edu.cnselfaaa.whut.edu.cn. 0 IN A 220.250.64.225
+
+whut.edu.cnwljy.whut.edu.cn. 0 IN A 220.250.64.225
+
+sle.whut.edu.cnwlsys.whut.edu.cn. 3600 IN A 220.250.64.225
+
+whut.edu.cnyouth.whut.edu.cn. 0 IN A 220.250.64.225
+
+console.whut.edu.cn. 3600 IN A 218.197.100.69
+
+console.whut.edu.cn. 3599 IN A 218.197.100.69
+
+console.whut.edu.cn. 3599 IN A 218.197.100.69
+
+console.whut.edu.cn. 3599 IN A 218.197.100.69
+
+console.whut.edu.cn. 3599 IN A 218.197.100.69
+
+console.whut.edu.cn. 3599 IN A 218.197.100.69
+
+console.whut.edu.cn. 3599 IN A 218.197.100.69
+
+cslab.whut.edu.cn. 3600 IN A 59.69.101.195
+
+cslab.whut.edu.cn. 3599 IN A 59.69.101.195
+
+cslab.whut.edu.cn. 3599 IN A 59.69.101.195
+
+cslab.whut.edu.cn. 3599 IN A 59.69.101.195
+
+cslab.whut.edu.cn. 3599 IN A 59.69.101.195
+
+cst.whut.edu.cn. 3600 IN A 218.197.103.14
+
+cst.whut.edu.cn. 3599 IN A 218.197.103.14
+
+cst.whut.edu.cn. 3599 IN A 218.197.103.14
+
+cst.whut.edu.cn. 3599 IN A 218.197.103.14
+
+cst.whut.edu.cn. 3599 IN A 218.197.103.14
+
+cst.whut.edu.cn. 3599 IN A 218.197.103.14
+
+cwsf.whut.edu.cn. 3600 IN A 202.114.94.151
+
+cwsf.whut.edu.cn. 3599 IN A 202.114.94.151
+
+cwsf.whut.edu.cn. 3599 IN A 202.114.94.151
+
+cwsf.whut.edu.cn. 3599 IN A 202.114.94.151
+
+cwsf.whut.edu.cn. 3599 IN A 202.114.94.151
+
+cwsf.whut.edu.cn. 3599 IN A 202.114.94.151
+
+cxjj.whut.edu.cn. 3600 IN A 202.114.90.42
+
+cxjj.whut.edu.cn. 3599 IN A 202.114.90.42
+
+cxjj.whut.edu.cn. 3599 IN A 202.114.90.42
+
+cxjj.whut.edu.cn. 3599 IN A 202.114.90.42
+
+cxjj.whut.edu.cn. 3599 IN A 202.114.90.42
+
+cy.whut.edu.cn. 3600 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn. 3599 IN A 59.69.102.93
+
+cy.whut.edu.cn<BR>www.cy.whut.edu.cn. 3600 IN A 220.250.64.225
+
+cy.whut.edu.cn<BR>www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+cy.whut.edu.cn<BR>www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+cy.whut.edu.cn<BR>www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3600 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.cy.whut.edu.cn. 3599 IN A 220.250.64.225
+
+cyjt.whut.edu.cn. 3600 IN A 218.197.103.27
+
+cyjt.whut.edu.cn. 3599 IN A 218.197.103.27
+
+dept.whut.edu.cn. 3600 IN A 218.197.103.6
+
+dept.whut.edu.cn. 3599 IN A 218.197.103.6
+
+dept.whut.edu.cn. 3599 IN A 218.197.103.6
+
+dept.whut.edu.cn. 3599 IN A 218.197.103.6
+
+dept.whut.edu.cn. 3599 IN A 218.197.103.6
+
+dept.whut.edu.cn. 3599 IN A 218.197.103.6
+
+dlib.whut.edu.cn. 3600 IN A 202.114.89.14
+
+dm.whut.edu.cn. 3600 IN A 218.197.103.8
+
+dm.whut.edu.cn. 3599 IN A 218.197.103.8
+
+dm.whut.edu.cn. 3599 IN A 218.197.103.8
+
+dm.whut.edu.cn. 3599 IN A 218.197.103.8
+
+dm.whut.edu.cn. 3599 IN A 218.197.103.8
+
+dm.whut.edu.cn. 3599 IN A 218.197.103.8
+
+dns.whut.edu.cn. 3600 IN A 202.114.88.10
+
+dns.whut.edu.cn. 3599 IN A 202.114.88.10
+
+dns.whut.edu.cn. 3599 IN A 202.114.88.10
+
+dns.whut.edu.cn. 3599 IN A 202.114.88.10
+
+dns.whut.edu.cn. 3599 IN A 202.114.88.10
+
+dns2.whut.edu.cn. 3594 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns2.whut.edu.cn. 3593 IN A 202.114.88.11
+
+dns3.whut.edu.cn. 3596 IN A 202.114.88.8
+
+dns3.whut.edu.cn. 3595 IN A 202.114.88.8
+
+dns3.whut.edu.cn. 3595 IN A 202.114.88.8
+
+dns3.whut.edu.cn. 3595 IN A 202.114.88.8
+
+dns3.whut.edu.cn. 3595 IN A 202.114.88.8
+
+dns3.whut.edu.cn. 3595 IN A 202.114.88.8
+
+dns4.whut.edu.cn. 3596 IN A 202.114.88.9
+
+dns4.whut.edu.cn. 3595 IN A 202.114.88.9
+
+dns4.whut.edu.cn. 3595 IN A 202.114.88.9
+
+dns4.whut.edu.cn. 3595 IN A 202.114.88.9
+
+dns4.whut.edu.cn. 3595 IN A 202.114.88.9
+
+dns4.whut.edu.cn. 3595 IN A 202.114.88.9
+
+dns4.whut.edu.cn. 3595 IN A 202.114.88.9
+
+dzb.whut.edu.cn. 3600 IN A 218.197.103.34
+
+dzb.whut.edu.cn. 3599 IN A 218.197.103.34
+
+econ.whut.edu.cn. 3600 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econ.whut.edu.cn. 3599 IN A 218.197.103.21
+
+econportal.whut.edu.cn. 3600 IN A 218.197.118.47
+
+econportal.whut.edu.cn. 3599 IN A 218.197.118.47
+
+econportal.whut.edu.cn. 3599 IN A 218.197.118.47
+
+econportal.whut.edu.cn. 3599 IN A 218.197.118.47
+
+econportal.whut.edu.cn. 3599 IN A 218.197.118.47
+
+edf.whut.edu.cn. 3600 IN A 218.197.101.6
+
+edf.whut.edu.cn. 3599 IN A 218.197.101.6
+
+edf.whut.edu.cn. 3599 IN A 218.197.101.6
+
+edf.whut.edu.cn. 3599 IN A 218.197.101.6
+
+edf.whut.edu.cn. 3599 IN A 218.197.101.6
+
+edf.whut.edu.cn. 3599 IN A 218.197.101.6
+
+edt.whut.edu.cn. 3600 IN A 220.250.64.225
+
+edt.whut.edu.cn. 3599 IN A 220.250.64.225
+
+edt.whut.edu.cn. 3599 IN A 220.250.64.225
+
+edt.whut.edu.cn. 3599 IN A 220.250.64.225
+
+emba.whut.edu.cn. 3600 IN A 218.197.103.12
+
+emba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+emba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+emba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+emba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+energy.whut.edu.cn. 3600 IN A 218.197.103.6
+
+energy.whut.edu.cn. 3599 IN A 218.197.103.6
+
+energy.whut.edu.cn. 3599 IN A 218.197.103.6
+
+energy.whut.edu.cn. 3599 IN A 218.197.103.6
+
+energy.whut.edu.cn. 3599 IN A 218.197.103.6
+
+energy.whut.edu.cn. 3599 IN A 218.197.103.6
+
+english.whut.edu.cn. 3600 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+english.whut.edu.cn. 3599 IN A 202.114.95.2
+
+eplab.whut.edu.cn. 3600 IN A 59.69.103.163
+
+fgb.whut.edu.cn. 3600 IN A 218.197.103.34
+
+file.whut.edu.cn. 3600 IN A 202.114.88.150
+
+file.whut.edu.cn. 3599 IN A 202.114.88.150
+
+file.whut.edu.cn. 3599 IN A 202.114.88.150
+
+file.whut.edu.cn. 3599 IN A 202.114.88.150
+
+file.whut.edu.cn. 3599 IN A 202.114.88.150
+
+file.whut.edu.cn. 3599 IN A 202.114.88.150
+
+file.whut.edu.cn. 3599 IN A 202.114.88.150
+
+forum.whut.edu.cn. 3600 IN A 202.114.90.35
+
+forum.whut.edu.cn. 3599 IN A 202.114.90.35
+
+forum.whut.edu.cn. 3599 IN A 202.114.90.35
+
+forum.whut.edu.cn. 3599 IN A 202.114.90.35
+
+forum.whut.edu.cn. 3599 IN A 202.114.90.35
+
+forums.whut.edu.cn. 3600 IN A 218.197.103.44
+
+fostip.whut.edu.cn. 3600 IN A 218.197.103.8
+
+fostip.whut.edu.cn. 3599 IN A 218.197.103.8
+
+fostip.whut.edu.cn. 3599 IN A 218.197.103.8
+
+fostip.whut.edu.cn. 3599 IN A 218.197.103.8
+
+fostip.whut.edu.cn. 3599 IN A 218.197.103.8
+
+fostip.whut.edu.cn. 3599 IN A 218.197.103.8
+
+fupin.whut.edu.cn. 3600 IN A 218.197.103.10
+
+fupin.whut.edu.cn. 3599 IN A 218.197.103.10
+
+fupin.whut.edu.cn. 3599 IN A 218.197.103.10
+
+fupin.whut.edu.cn. 3599 IN A 218.197.103.10
+
+fupin.whut.edu.cn. 3599 IN A 218.197.103.10
+
+fupin.whut.edu.cn. 3599 IN A 218.197.103.10
+
+game.whut.edu.cn. 3600 IN A 218.197.101.21
+
+game.whut.edu.cn. 3599 IN A 218.197.101.21
+
+game.whut.edu.cn. 3599 IN A 218.197.101.21
+
+game.whut.edu.cn. 3599 IN A 218.197.101.21
+
+game.whut.edu.cn. 3599 IN A 218.197.101.21
+
+gcjy.whut.edu.cn. 3600 IN A 202.114.95.37
+
+gcjy.whut.edu.cn. 3599 IN A 202.114.95.37
+
+gcjy.whut.edu.cn. 3599 IN A 202.114.95.37
+
+gcjy.whut.edu.cn. 3599 IN A 202.114.95.37
+
+gcjy.whut.edu.cn. 3599 IN A 202.114.95.37
+
+gcjy.whut.edu.cn. 3599 IN A 202.114.95.37
+
+gd.whut.edu.cn. 3600 IN A 218.197.103.23
+
+gd.whut.edu.cn. 3599 IN A 218.197.103.23
+
+gd.whut.edu.cn. 3599 IN A 218.197.103.23
+
+gd.whut.edu.cn. 3599 IN A 218.197.103.23
+
+gd.whut.edu.cn. 3599 IN A 218.197.103.23
+
+gd.whut.edu.cn. 3599 IN A 218.197.103.23
+
+gd.whut.edu.cn. 3599 IN A 218.197.103.23
+
+gh.whut.edu.cn. 3600 IN A 218.197.101.39
+
+gh.whut.edu.cn. 3599 IN A 218.197.101.39
+
+gh.whut.edu.cn. 3599 IN A 218.197.101.39
+
+gh.whut.edu.cn. 3599 IN A 218.197.101.39
+
+gh.whut.edu.cn. 3599 IN A 218.197.101.39
+
+gjfh.whut.edu.cn. 3600 IN A 218.197.103.18
+
+gjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+gjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+gjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+gjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+gjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+gjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+fct.group.whut.edu.cn. 3600 IN A 218.197.103.7
+
+guan.group.whut.edu.cn. 3600 IN A 218.197.103.7
+
+guan.group.whut.edu.cn. 3599 IN A 218.197.103.7
+
+mai.group.whut.edu.cn. 3600 IN A 218.197.103.7
+
+mai.group.whut.edu.cn. 3599 IN A 218.197.103.7
+
+mai.group.whut.edu.cn. 3599 IN A 218.197.103.7
+
+mai.group.whut.edu.cn. 3599 IN A 218.197.103.7
+
+mai.group.whut.edu.cn. 3599 IN A 218.197.103.7
+
+mai.group.whut.edu.cn. 3599 IN A 218.197.103.7
+
+sun.group.whut.edu.cn. 3600 IN A 218.197.103.7
+
+gvpn.whut.edu.cn. 3600 IN A 113.57.176.227
+
+gvpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+gvpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+gvpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+gvpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+gvpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+gzc.whut.edu.cn. 3600 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+gzc.whut.edu.cn. 3599 IN A 202.114.90.46
+
+hgxy.whut.edu.cn. 3600 IN A 202.114.88.183
+
+hklrb.whut.edu.cn. 3600 IN A 202.114.95.41
+
+hklrb.whut.edu.cn. 3599 IN A 202.114.95.41
+
+hklrb.whut.edu.cn. 3599 IN A 202.114.95.41
+
+hklrb.whut.edu.cn. 3599 IN A 202.114.95.41
+
+hklrb.whut.edu.cn. 3599 IN A 202.114.95.41
+
+hklrb.whut.edu.cn. 3599 IN A 202.114.95.41
+
+hklrb.whut.edu.cn. 3599 IN A 202.114.95.41
+
+hp.whut.edu.cn. 3600 IN A 218.197.103.15
+
+hp.whut.edu.cn. 3599 IN A 218.197.103.15
+
+hp.whut.edu.cn. 3599 IN A 218.197.103.15
+
+hp.whut.edu.cn. 3599 IN A 218.197.103.15
+
+hp.whut.edu.cn. 3599 IN A 218.197.103.15
+
+hp.whut.edu.cn. 3599 IN A 218.197.103.15
+
+i.whut.edu.cn. 3600 IN A 218.197.103.13
+
+i.whut.edu.cn. 3599 IN A 218.197.103.13
+
+i.whut.edu.cn. 3599 IN A 218.197.103.13
+
+i.whut.edu.cn. 3599 IN A 218.197.103.13
+
+i.whut.edu.cn. 3599 IN A 218.197.103.13
+
+i.whut.edu.cn. 3599 IN A 218.197.103.13
+
+i.whut.edu.cn. 3599 IN A 218.197.103.13
+
+ictis.whut.edu.cn. 3600 IN A 218.197.99.33
+
+ictis.whut.edu.cn. 3599 IN A 218.197.99.33
+
+ictis.whut.edu.cn. 3599 IN A 218.197.99.33
+
+ictis.whut.edu.cn. 3599 IN A 218.197.99.33
+
+ictis.whut.edu.cn. 3599 IN A 218.197.99.33
+
+ictis.whut.edu.cn. 3599 IN A 218.197.99.33
+
+idp.whut.edu.cn. 3600 IN A 202.114.49.162
+
+idp.whut.edu.cn. 3599 IN A 202.114.49.162
+
+idp.whut.edu.cn. 3599 IN A 202.114.49.162
+
+idp.whut.edu.cn. 3599 IN A 202.114.49.162
+
+idp.whut.edu.cn. 3599 IN A 202.114.49.162
+
+idp.whut.edu.cn. 3599 IN A 202.114.49.162
+
+idp.whut.edu.cn. 3599 IN A 202.114.49.162
+
+ieb.whut.edu.cn. 3600 IN A 202.114.90.66
+
+ifiota.whut.edu.cn. 3600 IN A 59.69.101.4
+
+ifiota.whut.edu.cn. 3599 IN A 59.69.101.4
+
+ifiota.whut.edu.cn. 3599 IN A 59.69.101.4
+
+ifiota.whut.edu.cn. 3599 IN A 59.69.101.4
+
+ifiota.whut.edu.cn. 3599 IN A 59.69.101.4
+
+ifiota.whut.edu.cn. 3599 IN A 59.69.101.4
+
+igid.whut.edu.cn. 3600 IN A 218.197.103.21
+
+ilutm.whut.edu.cn. 3600 IN A 59.69.103.164
+
+ilutm.whut.edu.cn. 3599 IN A 59.69.103.164
+
+ilutm.whut.edu.cn. 3599 IN A 59.69.103.164
+
+ilutm.whut.edu.cn. 3599 IN A 59.69.103.164
+
+ilutm.whut.edu.cn. 3599 IN A 59.69.103.164
+
+immtm.whut.edu.cn. 3600 IN A 59.69.103.186
+
+immtm.whut.edu.cn. 3599 IN A 59.69.103.186
+
+immtm.whut.edu.cn. 3599 IN A 59.69.103.186
+
+immtm.whut.edu.cn. 3599 IN A 59.69.103.186
+
+immtm.whut.edu.cn. 3599 IN A 59.69.103.186
+
+imul.whut.edu.cn. 3600 IN A 218.197.103.8
+
+imul.whut.edu.cn. 3599 IN A 218.197.103.8
+
+imul.whut.edu.cn. 3599 IN A 218.197.103.8
+
+imul.whut.edu.cn. 3599 IN A 218.197.103.8
+
+imul.whut.edu.cn. 3599 IN A 218.197.103.8
+
+imul.whut.edu.cn. 3599 IN A 218.197.103.8
+
+iot.whut.edu.cn. 3600 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn. 3599 IN A 59.69.101.4
+
+iot.whut.edu.cn<BR>www.iot.whut.edu.cn. 3600 IN A 220.250.64.225
+
+iot.whut.edu.cn<BR>www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+iot.whut.edu.cn<BR>www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+iot.whut.edu.cn<BR>www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3600 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+www.iot.whut.edu.cn. 3599 IN A 220.250.64.225
+
+ismse.whut.edu.cn. 3600 IN A 218.197.103.25
+
+ismse.whut.edu.cn. 3599 IN A 218.197.103.25
+
+itiis.whut.edu.cn. 3600 IN A 202.114.93.4
+
+itiis.whut.edu.cn. 3599 IN A 202.114.93.4
+
+itiis.whut.edu.cn. 3599 IN A 202.114.93.4
+
+itiis.whut.edu.cn. 3599 IN A 202.114.93.4
+
+itiis.whut.edu.cn. 3599 IN A 202.114.93.4
+
+its.whut.edu.cn. 3600 IN A 218.197.103.8
+
+its.whut.edu.cn. 3599 IN A 218.197.103.8
+
+its.whut.edu.cn. 3599 IN A 218.197.103.8
+
+its.whut.edu.cn. 3599 IN A 218.197.103.8
+
+its.whut.edu.cn. 3599 IN A 218.197.103.8
+
+its.whut.edu.cn. 3599 IN A 218.197.103.8
+
+jiaotong.whut.edu.cn. 3600 IN A 202.114.88.183
+
+jiaotong.whut.edu.cn. 3599 IN A 202.114.88.183
+
+jiaotong.whut.edu.cn. 3599 IN A 202.114.88.183
+
+jiaotong.whut.edu.cn. 3599 IN A 202.114.88.183
+
+jiaotong.whut.edu.cn. 3599 IN A 202.114.88.183
+
+jingwei.whut.edu.cn. 3600 IN A 202.114.90.34
+
+jingwei.whut.edu.cn. 3599 IN A 202.114.90.34
+
+jingwei.whut.edu.cn. 3599 IN A 202.114.90.34
+
+jingwei.whut.edu.cn. 3599 IN A 202.114.90.34
+
+jingwei.whut.edu.cn. 3599 IN A 202.114.90.34
+
+jingwei.whut.edu.cn. 3599 IN A 202.114.90.34
+
+jpkc.whut.edu.cn. 3600 IN A 59.69.102.6
+
+jpkc.whut.edu.cn. 3599 IN A 59.69.102.6
+
+jpkc.whut.edu.cn. 3599 IN A 59.69.102.6
+
+jpkc.whut.edu.cn. 3599 IN A 59.69.102.6
+
+jpkc.whut.edu.cn. 3599 IN A 59.69.102.6
+
+jpkc.whut.edu.cn. 3599 IN A 59.69.102.6
+
+jtgjfh.whut.edu.cn. 3600 IN A 218.197.103.18
+
+jtgjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+jtgjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+jtgjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+jtgjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+jtgjfh.whut.edu.cn. 3599 IN A 218.197.103.18
+
+jwc.whut.edu.cn. 3600 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+jwc.whut.edu.cn. 3599 IN A 202.114.90.190
+
+cxcy.jwc.whut.edu.cn. 3600 IN A 202.114.90.168
+
+cxcy.jwc.whut.edu.cn. 3599 IN A 202.114.90.168
+
+cxcy.jwc.whut.edu.cn. 3599 IN A 202.114.90.168
+
+cxcy.jwc.whut.edu.cn. 3599 IN A 202.114.90.168
+
+cxcy.jwc.whut.edu.cn. 3599 IN A 202.114.90.168
+
+cxcy.jwc.whut.edu.cn. 3599 IN A 202.114.90.168
+
+cxcy.jwc.whut.edu.cn. 3599 IN A 202.114.90.168
+
+sso.jwc.whut.edu.cn. 3600 IN A 202.114.50.129
+
+sso.jwc.whut.edu.cn. 3599 IN A 202.114.50.129
+
+sso.jwc.whut.edu.cn. 3599 IN A 202.114.50.129
+
+sso.jwc.whut.edu.cn. 3599 IN A 202.114.50.129
+
+sso.jwc.whut.edu.cn. 3599 IN A 202.114.50.129
+
+sso.jwc.whut.edu.cn. 3599 IN A 202.114.50.129
+
+sso.jwc.whut.edu.cn. 3599 IN A 202.114.50.129
+
+jxpt.whut.edu.cn. 3600 IN A 59.69.102.20
+
+jxpt.whut.edu.cn. 3599 IN A 59.69.102.20
+
+jxpt.whut.edu.cn. 3599 IN A 59.69.102.20
+
+jxpt.whut.edu.cn. 3599 IN A 59.69.102.20
+
+jxpt.whut.edu.cn. 3599 IN A 59.69.102.20
+
+jxpt.whut.edu.cn. 3599 IN A 59.69.102.20
+
+kfy.whut.edu.cn. 60 IN A 218.197.103.14
+
+kfy.whut.edu.cn. 59 IN A 218.197.103.14
+
+kfy.whut.edu.cn. 59 IN A 218.197.103.14
+
+kfy.whut.edu.cn. 59 IN A 218.197.103.14
+
+kfy.whut.edu.cn. 59 IN A 218.197.103.14
+
+kfy.whut.edu.cn. 59 IN A 218.197.103.14
+
+kjj.whut.edu.cn. 0 IN A 220.250.64.225
+
+kjj.whut.edu.cn. 60 IN A 220.250.64.225
+
+kjj.whut.edu.cn. 59 IN A 220.250.64.225
+
+kjj.whut.edu.cn. 59 IN A 220.250.64.225
+
+kjzh.whut.edu.cn. 3600 IN A 218.197.103.33
+
+kjzh.whut.edu.cn. 3599 IN A 218.197.103.33
+
+lgdy.whut.edu.cn. 3600 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+lgdy.whut.edu.cn. 3599 IN A 202.114.90.45
+
+m.lgdy.whut.edu.cn. 3600 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.lgdy.whut.edu.cn. 3599 IN A 202.114.90.36
+
+lib.whut.edu.cn. 60 IN A 202.114.89.79
+
+lib.whut.edu.cn. 59 IN A 202.114.89.79
+
+lib.whut.edu.cn. 59 IN A 202.114.89.79
+
+lib.whut.edu.cn. 59 IN A 202.114.89.79
+
+lib.whut.edu.cn. 59 IN A 202.114.89.79
+
+lib.whut.edu.cn. 59 IN A 202.114.89.79
+
+lib.whut.edu.cn. 59 IN A 202.114.89.79
+
+cloud.lib.whut.edu.cn. 3600 IN A 202.114.89.49
+
+cloud.lib.whut.edu.cn. 3599 IN A 202.114.89.49
+
+cloud.lib.whut.edu.cn. 3599 IN A 202.114.89.49
+
+cloud.lib.whut.edu.cn. 3599 IN A 202.114.89.49
+
+cloud.lib.whut.edu.cn. 3599 IN A 202.114.89.49
+
+mc.lib.whut.edu.cn. 3600 IN CNAME mc.3g.chaoxing.com.
+mc.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+
+portal.lib.whut.edu.cn. 3600 IN A 202.114.89.53
+
+portal.lib.whut.edu.cn. 3599 IN A 202.114.89.53
+
+portal.lib.whut.edu.cn. 3599 IN A 202.114.89.53
+
+portal.lib.whut.edu.cn. 3599 IN A 202.114.89.53
+
+portal.lib.whut.edu.cn. 3599 IN A 202.114.89.53
+
+www.lib.whut.edu.cn. 3600 IN A 202.114.89.91
+
+www.lib.whut.edu.cn. 3599 IN A 202.114.89.91
+
+www.lib.whut.edu.cn. 3599 IN A 202.114.89.91
+
+www.lib.whut.edu.cn. 3599 IN A 202.114.89.91
+
+www.lib.whut.edu.cn. 3599 IN A 202.114.89.91
+
+live.whut.edu.cn. 3600 IN A 202.114.173.188
+
+live.whut.edu.cn. 3599 IN A 202.114.173.188
+
+live.whut.edu.cn. 3599 IN A 202.114.173.188
+
+live.whut.edu.cn. 3599 IN A 202.114.173.188
+
+live.whut.edu.cn. 3599 IN A 202.114.173.188
+
+live.whut.edu.cn. 3599 IN A 202.114.173.188
+
+lobot.whut.edu.cn. 3600 IN A 218.197.103.6
+
+lxx.whut.edu.cn. 3600 IN A 59.69.101.145
+
+mail.whut.edu.cn. 3600 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 142 IN A 123.58.177.239
+
+mail.whut.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 143 IN A 123.58.177.239
+
+mail.whut.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 142 IN A 123.58.177.239
+
+mail.whut.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 142 IN A 123.58.177.239
+
+mail.whut.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 142 IN A 123.58.177.239
+
+mail.whut.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 142 IN A 123.58.177.239
+
+math.whut.edu.cn. 3600 IN A 59.69.101.187
+
+math.whut.edu.cn. 3599 IN A 59.69.101.187
+
+math.whut.edu.cn. 3599 IN A 59.69.101.187
+
+math.whut.edu.cn. 3599 IN A 59.69.101.187
+
+math.whut.edu.cn. 3599 IN A 59.69.101.187
+
+mba.whut.edu.cn. 3600 IN A 218.197.103.12
+
+mba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mba.whut.edu.cn. 3599 IN A 218.197.103.12
+
+meeting.whut.edu.cn. 3600 IN A 202.114.88.189
+
+meeting.whut.edu.cn. 3599 IN A 202.114.88.189
+
+meeting.whut.edu.cn. 3599 IN A 202.114.88.189
+
+meeting.whut.edu.cn. 3599 IN A 202.114.88.189
+
+meeting.whut.edu.cn. 3599 IN A 202.114.88.189
+
+meeting.whut.edu.cn. 3599 IN A 202.114.88.189
+
+meeting.whut.edu.cn. 3599 IN A 202.114.88.189
+
+dcabes.meeting.whut.edu.cn. 3600 IN A 202.114.95.24
+
+dcabes.meeting.whut.edu.cn. 3599 IN A 202.114.95.24
+
+dcabes.meeting.whut.edu.cn. 3599 IN A 202.114.95.24
+
+dcabes.meeting.whut.edu.cn. 3599 IN A 202.114.95.24
+
+dcabes.meeting.whut.edu.cn. 3599 IN A 202.114.95.24
+
+dcabes.meeting.whut.edu.cn. 3599 IN A 202.114.95.24
+
+mipc.whut.edu.cn. 3600 IN A 59.69.103.148
+
+mipc.whut.edu.cn. 3599 IN A 59.69.103.148
+
+mipc.whut.edu.cn. 3599 IN A 59.69.103.148
+
+mipc.whut.edu.cn. 3599 IN A 59.69.103.148
+
+mipc.whut.edu.cn. 3599 IN A 59.69.103.148
+
+mkszyxy.whut.edu.cn. 3600 IN A 218.197.103.11
+
+mkszyxy.whut.edu.cn. 3599 IN A 218.197.103.11
+
+moa.whut.edu.cn. 3600 IN A 218.197.102.134
+
+moa.whut.edu.cn. 3599 IN A 218.197.102.134
+
+moa.whut.edu.cn. 3599 IN A 218.197.102.134
+
+moa.whut.edu.cn. 3599 IN A 218.197.102.134
+
+moa.whut.edu.cn. 3599 IN A 218.197.102.134
+
+mobile.whut.edu.cn. 3600 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mobile.whut.edu.cn. 3599 IN A 218.197.100.69
+
+mpa.whut.edu.cn. 3600 IN A 218.197.103.21
+
+mpa.whut.edu.cn. 3599 IN A 218.197.103.21
+
+mpa.whut.edu.cn. 3599 IN A 218.197.103.21
+
+mpa.whut.edu.cn. 3599 IN A 218.197.103.21
+
+mpa.whut.edu.cn. 3599 IN A 218.197.103.21
+
+mpa.whut.edu.cn. 3599 IN A 218.197.103.21
+
+mpa.whut.edu.cn. 3599 IN A 218.197.103.21
+
+mpacc.whut.edu.cn. 3600 IN A 218.197.103.12
+
+mpacc.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mpacc.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mpacc.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mpacc.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mpacc.whut.edu.cn. 3599 IN A 218.197.103.12
+
+mpacc.whut.edu.cn. 3599 IN A 218.197.103.12
+
+msg.whut.edu.cn. 3600 IN A 202.114.173.226
+
+msg.whut.edu.cn. 3599 IN A 202.114.173.226
+
+msg.whut.edu.cn. 3599 IN A 202.114.173.226
+
+msg.whut.edu.cn. 3599 IN A 202.114.173.226
+
+msg.whut.edu.cn. 3599 IN A 202.114.173.226
+
+mv.whut.edu.cn. 3600 IN A 218.197.103.12
+
+ncudetuhw.whut.edu.cn. 0 IN A 220.250.64.225
+
+ncudetuhw.whut.edu.cn. 60 IN A 220.250.64.225
+
+ncudetuhw.whut.edu.cn. 59 IN A 220.250.64.225
+
+ncudetuhw.whut.edu.cn. 59 IN A 220.250.64.225
+
+ncudetuhw.whut.edu.cn. 59 IN A 220.250.64.225
+
+neie.whut.edu.cn. 3600 IN A 59.69.102.19
+
+neie.whut.edu.cn. 3599 IN A 59.69.102.19
+
+neie.whut.edu.cn. 3599 IN A 59.69.102.19
+
+neie.whut.edu.cn. 3599 IN A 59.69.102.19
+
+neie.whut.edu.cn. 3599 IN A 59.69.102.19
+
+neie.whut.edu.cn. 3599 IN A 59.69.102.19
+
+neie.whut.edu.cn. 3599 IN A 59.69.102.19
+
+news.whut.edu.cn. 3600 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+news.whut.edu.cn. 3599 IN A 218.197.103.26
+
+m.lgdy.whut.edu.cn<BR>m.news.whut.edu.cn. 0 IN A 220.250.64.225
+
+m.lgdy.whut.edu.cn<BR>m.news.whut.edu.cn. 60 IN A 220.250.64.225
+
+m.lgdy.whut.edu.cn<BR>m.news.whut.edu.cn. 59 IN A 220.250.64.225
+
+m.lgdy.whut.edu.cn<BR>m.news.whut.edu.cn. 59 IN A 220.250.64.225
+
+cxjj.whut.edu.cnm.news.whut.edu.cn. 0 IN A 220.250.64.225
+
+m.news.whut.edu.cn. 3600 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+m.news.whut.edu.cn. 3599 IN A 202.114.90.36
+
+oa.whut.edu.cn. 3600 IN A 202.114.173.227
+
+oa.whut.edu.cn. 3599 IN A 202.114.173.227
+
+oa.whut.edu.cn. 3599 IN A 202.114.173.227
+
+oa.whut.edu.cn. 3599 IN A 202.114.173.227
+
+oa.whut.edu.cn. 3599 IN A 202.114.173.227
+
+one.whut.edu.cn. 3600 IN A 202.114.50.128
+
+one.whut.edu.cn. 3599 IN A 202.114.50.128
+
+one.whut.edu.cn. 3599 IN A 202.114.50.128
+
+one.whut.edu.cn. 3599 IN A 202.114.50.128
+
+one.whut.edu.cn. 3599 IN A 202.114.50.128
+
+one.whut.edu.cn. 3599 IN A 202.114.50.128
+
+one.whut.edu.cn. 3599 IN A 202.114.50.128
+
+phy.whut.edu.cn. 3600 IN A 59.69.101.134
+
+phy.whut.edu.cn. 3599 IN A 59.69.101.134
+
+phy.whut.edu.cn. 3599 IN A 59.69.101.134
+
+phy.whut.edu.cn. 3599 IN A 59.69.101.134
+
+phy.whut.edu.cn. 3599 IN A 59.69.101.134
+
+phy.whut.edu.cn. 3599 IN A 59.69.101.134
+
+phylab.whut.edu.cn. 3600 IN A 59.69.103.147
+
+phylab.whut.edu.cn. 3599 IN A 59.69.103.147
+
+phylab.whut.edu.cn. 3599 IN A 59.69.103.147
+
+phylab.whut.edu.cn. 3599 IN A 59.69.103.147
+
+phylab.whut.edu.cn. 3599 IN A 59.69.103.147
+
+phylab.whut.edu.cn. 3599 IN A 59.69.103.147
+
+press.whut.edu.cn. 3600 IN CNAME www.wutp.com.cn.
+www.wutp.com.cn. 599 IN A 202.114.173.254
+
+press.whut.edu.cn. 3599 IN CNAME www.wutp.com.cn.
+www.wutp.com.cn. 599 IN A 202.114.173.254
+
+press.whut.edu.cn. 3599 IN CNAME www.wutp.com.cn.
+www.wutp.com.cn. 600 IN A 202.114.173.254
+
+press.whut.edu.cn. 3599 IN CNAME www.wutp.com.cn.
+www.wutp.com.cn. 599 IN A 202.114.173.254
+
+press.whut.edu.cn. 3599 IN CNAME www.wutp.com.cn.
+www.wutp.com.cn. 599 IN A 202.114.173.254
+
+pub.whut.edu.cn. 3600 IN A 202.114.88.183
+
+pub.whut.edu.cn. 3599 IN A 202.114.88.183
+
+pub.whut.edu.cn. 3599 IN A 202.114.88.183
+
+pub.whut.edu.cn. 3599 IN A 202.114.88.183
+
+pub.whut.edu.cn. 3599 IN A 202.114.88.183
+
+pub2.whut.edu.cn. 3600 IN A 202.114.95.26
+
+pub2.whut.edu.cn. 3599 IN A 202.114.95.26
+
+pub2.whut.edu.cn. 3599 IN A 202.114.95.26
+
+pub2.whut.edu.cn. 3599 IN A 202.114.95.26
+
+pub2.whut.edu.cn. 3599 IN A 202.114.95.26
+
+pub2.whut.edu.cn. 3599 IN A 202.114.95.26
+
+public.whut.edu.cn. 3600 IN A 202.114.95.24
+
+public.whut.edu.cn. 3599 IN A 202.114.95.24
+
+public.whut.edu.cn. 3599 IN A 202.114.95.24
+
+public.whut.edu.cn. 3599 IN A 202.114.95.24
+
+public.whut.edu.cn. 3599 IN A 202.114.95.24
+
+public.whut.edu.cn. 3599 IN A 202.114.95.24
+
+public.whut.edu.cn. 3599 IN A 202.114.95.24
+
+public2.whut.edu.cn. 3600 IN A 202.114.88.130
+
+public2.whut.edu.cn. 3599 IN A 202.114.88.130
+
+public2.whut.edu.cn. 3599 IN A 202.114.88.130
+
+public2.whut.edu.cn. 3599 IN A 202.114.88.130
+
+public2.whut.edu.cn. 3599 IN A 202.114.88.130
+
+qianyue.whut.edu.cn. 3600 IN A 202.114.90.105
+
+qianyue.whut.edu.cn. 3599 IN A 202.114.90.105
+
+qianyue.whut.edu.cn. 3599 IN A 202.114.90.105
+
+qianyue.whut.edu.cn. 3599 IN A 202.114.90.105
+
+qianyue.whut.edu.cn. 3599 IN A 202.114.90.105
+
+qianyue.whut.edu.cn. 3599 IN A 202.114.90.105
+
+ras.whut.edu.cn. 3600 IN A 61.183.148.149
+
+rest.whut.edu.cn. 3600 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rest.whut.edu.cn. 3599 IN A 218.197.101.140
+
+rsc.whut.edu.cn. 3600 IN A 202.114.88.179
+
+rsc.whut.edu.cn. 3599 IN A 202.114.88.179
+
+rsc.whut.edu.cn. 3599 IN A 202.114.88.179
+
+rsc.whut.edu.cn. 3599 IN A 202.114.88.179
+
+rsc.whut.edu.cn. 3599 IN A 202.114.88.179
+
+rsc.whut.edu.cn. 3599 IN A 202.114.88.179
+
+rsc.whut.edu.cn. 3599 IN A 202.114.88.179
+
+rshc.whut.edu.cn. 3600 IN A 218.197.102.137
+
+rshc.whut.edu.cn. 3599 IN A 218.197.102.137
+
+rshc.whut.edu.cn. 3599 IN A 218.197.102.137
+
+rshc.whut.edu.cn. 3599 IN A 218.197.102.137
+
+rshc.whut.edu.cn. 3599 IN A 218.197.102.137
+
+rshc.whut.edu.cn. 3599 IN A 218.197.102.137
+
+rshc.whut.edu.cn. 3599 IN A 218.197.102.137
+
+sa.whut.edu.cn. 3600 IN A 218.197.103.36
+
+sa.whut.edu.cn. 3599 IN A 218.197.103.36
+
+sa.whut.edu.cn. 3599 IN A 218.197.103.36
+
+sa.whut.edu.cn. 3599 IN A 218.197.103.36
+
+sa.whut.edu.cn. 3599 IN A 218.197.103.36
+
+sa.whut.edu.cn. 3599 IN A 218.197.103.36
+
+sa.whut.edu.cn. 3599 IN A 218.197.103.36
+
+scc.whut.edu.cn. 3600 IN A 202.114.90.98
+
+scc.whut.edu.cn. 3599 IN A 202.114.90.98
+
+scc.whut.edu.cn. 3599 IN A 202.114.90.98
+
+scc.whut.edu.cn. 3599 IN A 202.114.90.98
+
+scc.whut.edu.cn. 3599 IN A 202.114.90.98
+
+scc.whut.edu.cn. 3599 IN A 202.114.90.98
+
+scc.whut.edu.cn. 3599 IN A 202.114.90.98
+
+sccels.whut.edu.cn. 3600 IN A 218.197.103.37
+
+sccels.whut.edu.cn. 3599 IN A 218.197.103.37
+
+sccels.whut.edu.cn. 3599 IN A 218.197.103.37
+
+sccels.whut.edu.cn. 3599 IN A 218.197.103.37
+
+sccels.whut.edu.cn. 3599 IN A 218.197.103.37
+
+sccels.whut.edu.cn. 3599 IN A 218.197.103.37
+
+scea.whut.edu.cn. 3600 IN A 218.197.103.14
+
+scea.whut.edu.cn. 3599 IN A 218.197.103.14
+
+scea.whut.edu.cn. 3599 IN A 218.197.103.14
+
+scea.whut.edu.cn. 3599 IN A 218.197.103.14
+
+scea.whut.edu.cn. 3599 IN A 218.197.103.14
+
+scea.whut.edu.cn. 3599 IN A 218.197.103.14
+
+scea.whut.edu.cn. 3599 IN A 218.197.103.14
+
+hsg.scholar.whut.edu.cn. 3600 IN A 218.197.103.8
+
+hsg.scholar.whut.edu.cn. 3599 IN A 218.197.103.8
+
+tonghq.scholar.whut.edu.cn. 3600 IN A 202.114.95.24
+
+xpyan.scholar.whut.edu.cn. 3600 IN A 218.197.103.8
+
+se.whut.edu.cn. 3600 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+se.whut.edu.cn. 3599 IN A 218.197.103.6
+
+selfaaa.whut.edu.cn. 3600 IN A 172.30.17.37
+
+selfaaa.whut.edu.cn. 3599 IN A 172.30.17.37
+
+selfaaa.whut.edu.cn. 3599 IN A 172.30.17.37
+
+selfaaa.whut.edu.cn. 3599 IN A 172.30.17.37
+
+sem.whut.edu.cn. 3600 IN A 218.197.103.30
+
+sem.whut.edu.cn. 3599 IN A 218.197.103.30
+
+sem.whut.edu.cn. 3599 IN A 218.197.103.30
+
+sem.whut.edu.cn. 3599 IN A 218.197.103.30
+
+sem.whut.edu.cn. 3599 IN A 218.197.103.30
+
+sem.whut.edu.cn. 3599 IN A 218.197.103.30
+
+sem.whut.edu.cn. 3599 IN A 218.197.103.30
+
+sen.whut.edu.cn. 3600 IN A 218.197.103.24
+
+sen.whut.edu.cn. 3599 IN A 218.197.103.24
+
+sep.whut.edu.cn. 3600 IN A 218.197.103.14
+
+sep.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sep.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sep.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sep.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sep.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sfc.whut.edu.cn. 3600 IN A 218.197.101.6
+
+sfc.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfc.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfc.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfc.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfc.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfcplatform.whut.edu.cn. 3600 IN A 218.197.101.6
+
+sfcplatform.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfcplatform.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfcplatform.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfcplatform.whut.edu.cn. 3599 IN A 218.197.101.6
+
+sfl.whut.edu.cn. 3600 IN A 218.197.103.14
+
+sfl.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sfl.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sfl.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sfl.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sfl.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sfl.whut.edu.cn. 3599 IN A 218.197.103.14
+
+shall.whut.edu.cn. 3600 IN A 202.114.173.86
+
+shizheng.whut.edu.cn. 3600 IN A 202.114.90.34
+
+shoufei.whut.edu.cn. 3600 IN A 202.114.88.119
+
+shoufei.whut.edu.cn. 3599 IN A 202.114.88.119
+
+shoufei.whut.edu.cn. 3599 IN A 202.114.88.119
+
+shoufei.whut.edu.cn. 3599 IN A 202.114.88.119
+
+shoufei.whut.edu.cn. 3599 IN A 202.114.88.119
+
+shoufei.whut.edu.cn. 3599 IN A 202.114.88.119
+
+shoufei.whut.edu.cn. 3599 IN A 202.114.88.119
+
+sie.whut.edu.cn. 3600 IN A 218.197.103.19
+
+sie.whut.edu.cn. 3599 IN A 218.197.103.19
+
+sie.whut.edu.cn. 3599 IN A 218.197.103.19
+
+sie.whut.edu.cn. 3599 IN A 218.197.103.19
+
+sie.whut.edu.cn. 3599 IN A 218.197.103.19
+
+sie.whut.edu.cn. 3599 IN A 218.197.103.19
+
+sie.whut.edu.cn. 3599 IN A 218.197.103.19
+
+silicate.whut.edu.cn. 3600 IN A 218.197.103.15
+
+silicate.whut.edu.cn. 3599 IN A 218.197.103.15
+
+silicate.whut.edu.cn. 3599 IN A 218.197.103.15
+
+silicate.whut.edu.cn. 3599 IN A 218.197.103.15
+
+silicate.whut.edu.cn. 3599 IN A 218.197.103.15
+
+silicate.whut.edu.cn. 3599 IN A 218.197.103.15
+
+silicate.whut.edu.cn. 3599 IN A 218.197.103.15
+
+sjysyj.whut.edu.cn. 3600 IN A 218.197.103.148
+
+sjysyj.whut.edu.cn. 3599 IN A 218.197.103.148
+
+sjysyj.whut.edu.cn. 3599 IN A 218.197.103.148
+
+sjysyj.whut.edu.cn. 3599 IN A 218.197.103.148
+
+sjysyj.whut.edu.cn. 3599 IN A 218.197.103.148
+
+sjysyj.whut.edu.cn. 3599 IN A 218.197.103.148
+
+sjysyj.whut.edu.cn. 3599 IN A 218.197.103.148
+
+sklwut.whut.edu.cn. 3600 IN A 218.197.103.7
+
+sklwut.whut.edu.cn. 3599 IN A 218.197.103.7
+
+sklwut.whut.edu.cn. 3599 IN A 218.197.103.7
+
+sklwut.whut.edu.cn. 3599 IN A 218.197.103.7
+
+sklwut.whut.edu.cn. 3599 IN A 218.197.103.7
+
+sklwut.whut.edu.cn. 3599 IN A 218.197.103.7
+
+sle.whut.edu.cn. 3600 IN A 218.197.103.14
+
+sle.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sle.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sle.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sle.whut.edu.cn. 3599 IN A 218.197.103.14
+
+sle.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smee.whut.edu.cn. 3600 IN A 218.197.103.12
+
+smee.whut.edu.cn. 3599 IN A 218.197.103.12
+
+smee.whut.edu.cn. 3599 IN A 218.197.103.12
+
+smee.whut.edu.cn. 3599 IN A 218.197.103.12
+
+smee.whut.edu.cn. 3599 IN A 218.197.103.12
+
+smee.whut.edu.cn. 3599 IN A 218.197.103.12
+
+smee.whut.edu.cn. 3599 IN A 218.197.103.12
+
+smse.whut.edu.cn. 3600 IN A 218.197.103.14
+
+smse.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smse.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smse.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smse.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smse.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smse.whut.edu.cn. 3599 IN A 218.197.103.14
+
+smtp.whut.edu.cn. 3600 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+smtp.whut.edu.cn. 3599 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+smtp.whut.edu.cn. 3599 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+smtp.whut.edu.cn. 3599 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+smtp.whut.edu.cn. 3599 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+smtp.whut.edu.cn. 3599 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+smtp.whut.edu.cn. 3599 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 1933 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 578 IN A 123.58.177.48
+smtphz.qiye.163.com. 578 IN A 123.58.177.49
+smtphz.qiye.163.com. 578 IN A 123.58.177.85
+
+sn.whut.edu.cn. 3600 IN A 202.114.90.76
+
+sn.whut.edu.cn. 3599 IN A 202.114.90.76
+
+sn.whut.edu.cn. 3599 IN A 202.114.90.76
+
+sn.whut.edu.cn. 3599 IN A 202.114.90.76
+
+sn.whut.edu.cn. 3599 IN A 202.114.90.76
+
+sn.whut.edu.cn. 3599 IN A 202.114.90.76
+
+som.whut.edu.cn. 60 IN A 218.197.103.12
+
+som.whut.edu.cn. 59 IN A 218.197.103.12
+
+som.whut.edu.cn. 59 IN A 218.197.103.12
+
+som.whut.edu.cn. 59 IN A 218.197.103.12
+
+som.whut.edu.cn. 59 IN A 218.197.103.12
+
+som.whut.edu.cn. 59 IN A 218.197.103.12
+
+som.whut.edu.cn. 59 IN A 218.197.103.12
+
+sopa.whut.edu.cn. 3600 IN A 218.197.103.28
+
+sopa.whut.edu.cn. 3599 IN A 218.197.103.28
+
+sports.whut.edu.cn. 3600 IN A 218.197.103.11
+
+sports.whut.edu.cn. 3599 IN A 218.197.103.11
+
+sports.whut.edu.cn. 3599 IN A 218.197.103.11
+
+sports.whut.edu.cn. 3599 IN A 218.197.103.11
+
+sports.whut.edu.cn. 3599 IN A 218.197.103.11
+
+sports.whut.edu.cn. 3599 IN A 218.197.103.11
+
+sree.whut.edu.cn. 3600 IN A 218.197.103.32
+
+sree.whut.edu.cn. 3599 IN A 218.197.103.32
+
+sree.whut.edu.cn. 3599 IN A 218.197.103.32
+
+sree.whut.edu.cn. 3599 IN A 218.197.103.32
+
+sree.whut.edu.cn. 3599 IN A 218.197.103.32
+
+sree.whut.edu.cn. 3599 IN A 218.197.103.32
+
+sree.whut.edu.cn. 3599 IN A 218.197.103.32
+
+ssci.whut.edu.cn. 3600 IN A 218.197.103.15
+
+ssci.whut.edu.cn. 3599 IN A 218.197.103.15
+
+ssci.whut.edu.cn. 3599 IN A 218.197.103.15
+
+ssci.whut.edu.cn. 3599 IN A 218.197.103.15
+
+ssci.whut.edu.cn. 3599 IN A 218.197.103.15
+
+ssci.whut.edu.cn. 3599 IN A 218.197.103.15
+
+ssci.whut.edu.cn. 3599 IN A 218.197.103.15
+
+sso.whut.edu.cn. 3600 IN A 172.31.32.20
+
+sso.whut.edu.cn. 3599 IN A 172.31.32.20
+
+sso.whut.edu.cn. 3599 IN A 172.31.32.20
+
+sso.whut.edu.cn. 3599 IN A 172.31.32.20
+
+sso.whut.edu.cn. 3599 IN A 172.31.32.20
+
+sso.whut.edu.cn. 3599 IN A 172.31.32.20
+
+st.whut.edu.cn. 3600 IN A 218.197.103.14
+
+st.whut.edu.cn. 3599 IN A 218.197.103.14
+
+st.whut.edu.cn. 3599 IN A 218.197.103.14
+
+st.whut.edu.cn. 3599 IN A 218.197.103.14
+
+st.whut.edu.cn. 3599 IN A 218.197.103.14
+
+st.whut.edu.cn. 3599 IN A 218.197.103.14
+
+stied.whut.edu.cn. 3600 IN A 218.197.103.8
+
+stied.whut.edu.cn. 3599 IN A 218.197.103.8
+
+stied.whut.edu.cn. 3599 IN A 218.197.103.8
+
+stied.whut.edu.cn. 3599 IN A 218.197.103.8
+
+stied.whut.edu.cn. 3599 IN A 218.197.103.8
+
+stied.whut.edu.cn. 3599 IN A 218.197.103.8
+
+stied.whut.edu.cn. 3599 IN A 218.197.103.8
+
+stu.whut.edu.cn. 3600 IN A 202.114.173.49
+
+stu.whut.edu.cn. 3599 IN A 202.114.173.49
+
+stu.whut.edu.cn. 3599 IN A 202.114.173.49
+
+stu.whut.edu.cn. 3599 IN A 202.114.173.49
+
+stu.whut.edu.cn. 3599 IN A 202.114.173.49
+
+stu.whut.edu.cn. 3599 IN A 202.114.173.49
+
+stuplaza.whut.edu.cn. 3600 IN A 59.69.102.29
+
+stuplaza.whut.edu.cn. 3599 IN A 59.69.102.29
+
+stuplaza.whut.edu.cn. 3599 IN A 59.69.102.29
+
+stuplaza.whut.edu.cn. 3599 IN A 59.69.102.29
+
+stuplaza.whut.edu.cn. 3599 IN A 59.69.102.29
+
+stuplaza.whut.edu.cn. 3599 IN A 59.69.102.29
+
+stuplaza.whut.edu.cn. 3599 IN A 59.69.102.29
+
+subject19.whut.edu.cn. 60 IN A 218.197.103.46
+
+svt.whut.edu.cn. 3600 IN A 218.197.103.15
+
+svt.whut.edu.cn. 3599 IN A 218.197.103.15
+
+temp0.whut.edu.cn. 3600 IN A 218.197.103.27
+
+tian.whut.edu.cn. 3600 IN A 218.197.101.5
+
+tian.whut.edu.cn. 3599 IN A 218.197.101.5
+
+tian.whut.edu.cn. 3599 IN A 218.197.101.5
+
+tian.whut.edu.cn. 3599 IN A 218.197.101.5
+
+tian.whut.edu.cn. 3599 IN A 218.197.101.5
+
+ttdc.whut.edu.cn. 3600 IN A 202.114.90.165
+
+ttdc.whut.edu.cn. 3599 IN A 202.114.90.165
+
+ttdc.whut.edu.cn. 3599 IN A 202.114.90.165
+
+ttdc.whut.edu.cn. 3599 IN A 202.114.90.165
+
+ttdc.whut.edu.cn. 3599 IN A 202.114.90.165
+
+ttdc.whut.edu.cn. 3599 IN A 202.114.90.165
+
+ttdc.whut.edu.cn. 3599 IN A 202.114.90.165
+
+tte.whut.edu.cn. 3600 IN A 202.114.89.13
+
+tte.whut.edu.cn. 3599 IN A 202.114.89.13
+
+tte.whut.edu.cn. 3599 IN A 202.114.89.13
+
+tte.whut.edu.cn. 3599 IN A 202.114.89.13
+
+tte.whut.edu.cn. 3599 IN A 202.114.89.13
+
+tzyjy.whut.edu.cn. 3600 IN A 218.197.103.6
+
+uklg.whut.edu.cn. 3600 IN A 218.197.103.139
+
+uklg.whut.edu.cn. 3599 IN A 218.197.103.139
+
+uklg.whut.edu.cn. 3599 IN A 218.197.103.139
+
+uklg.whut.edu.cn. 3599 IN A 218.197.103.139
+
+uklg.whut.edu.cn. 3599 IN A 218.197.103.139
+
+vision.whut.edu.cn. 3600 IN A 202.114.173.13
+
+vision.whut.edu.cn. 3599 IN A 202.114.173.13
+
+vision.whut.edu.cn. 3599 IN A 202.114.173.13
+
+vision.whut.edu.cn. 3599 IN A 202.114.173.13
+
+vision.whut.edu.cn. 3599 IN A 202.114.173.13
+
+vision.whut.edu.cn. 3599 IN A 202.114.173.13
+
+vpn.whut.edu.cn. 3600 IN A 113.57.176.227
+
+vpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+vpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+vpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+vpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+vpn.whut.edu.cn. 3599 IN A 113.57.176.227
+
+vpnt.whut.edu.cn. 60 IN A 113.57.176.227
+
+vpnt.whut.edu.cn. 59 IN A 113.57.176.227
+
+vpnt.whut.edu.cn. 60 IN A 113.57.176.227
+
+vpnt.whut.edu.cn. 59 IN A 113.57.176.227
+
+vpnt.whut.edu.cn. 59 IN A 113.57.176.227
+
+vpnt.whut.edu.cn. 59 IN A 113.57.176.227
+
+welcome.whut.edu.cn. 3600 IN A 202.114.94.164
+
+welcome.whut.edu.cn. 3599 IN A 202.114.94.164
+
+welcome.whut.edu.cn. 3599 IN A 202.114.94.164
+
+welcome.whut.edu.cn. 3599 IN A 202.114.94.164
+
+welcome.whut.edu.cn. 3599 IN A 202.114.94.164
+
+welcome.whut.edu.cn. 3599 IN A 202.114.94.164
+
+welcome.whut.edu.cn. 3599 IN A 202.114.94.164
+
+wenfa.whut.edu.cn. 3600 IN A 202.114.90.67
+
+wenfa.whut.edu.cn. 3599 IN A 202.114.90.67
+
+wenfa.whut.edu.cn. 3599 IN A 202.114.90.67
+
+wenfa.whut.edu.cn. 3599 IN A 202.114.90.67
+
+wenfa.whut.edu.cn. 3599 IN A 202.114.90.67
+
+wenfa.whut.edu.cn. 3599 IN A 202.114.90.67
+
+wenfa.whut.edu.cn. 3599 IN A 202.114.90.67
+
+whrt.whut.edu.cn. 3600 IN A 218.197.119.233
+
+wht.whut.edu.cn. 3600 IN A 202.114.88.88
+wht.whut.edu.cn. 3600 IN A 202.114.88.3
+
+wht.whut.edu.cn. 3599 IN A 202.114.88.3
+wht.whut.edu.cn. 3599 IN A 202.114.88.88
+
+wht.whut.edu.cn. 3599 IN A 202.114.88.3
+wht.whut.edu.cn. 3599 IN A 202.114.88.88
+
+wht.whut.edu.cn. 3599 IN A 202.114.88.3
+wht.whut.edu.cn. 3599 IN A 202.114.88.88
+
+wljy.whut.edu.cn. 3600 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn. 3599 IN A 202.114.94.6
+
+wljy.whut.edu.cn<BR>www.wljy.whut.edu.cn. 0 IN A 220.250.64.225
+
+wljy.whut.edu.cn<BR>www.wljy.whut.edu.cn. 60 IN A 220.250.64.225
+
+wljy.whut.edu.cn<BR>www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+wljy.whut.edu.cn<BR>www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 0 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 60 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+www.wljy.whut.edu.cn. 59 IN A 220.250.64.225
+
+wlsys.whut.edu.cn. 3600 IN A 59.69.101.130
+
+wlsys.whut.edu.cn. 3599 IN A 59.69.101.130
+
+wlsys.whut.edu.cn. 3599 IN A 59.69.101.130
+
+wlsys.whut.edu.cn. 3599 IN A 59.69.101.130
+
+wlsys.whut.edu.cn. 3599 IN A 59.69.101.130
+
+wlxt.whut.edu.cn. 3600 IN A 59.69.102.10
+
+wlxt.whut.edu.cn. 3599 IN A 59.69.102.10
+
+wlxt.whut.edu.cn. 3599 IN A 59.69.102.10
+
+wlxt.whut.edu.cn. 3599 IN A 59.69.102.10
+
+wlxt.whut.edu.cn. 3599 IN A 59.69.102.10
+
+wlxt.whut.edu.cn. 3599 IN A 59.69.102.10
+
+wts.whut.edu.cn. 3600 IN A 218.197.103.8
+
+wts.whut.edu.cn. 3599 IN A 218.197.103.8
+
+wts.whut.edu.cn. 3599 IN A 218.197.103.8
+
+wts.whut.edu.cn. 3599 IN A 218.197.103.8
+
+wts.whut.edu.cn. 3599 IN A 218.197.103.8
+
+wts.whut.edu.cn. 3599 IN A 218.197.103.8
+
+wutinfo.whut.edu.cn. 3600 IN A 218.197.103.16
+
+wutinfo.whut.edu.cn. 3599 IN A 218.197.103.16
+
+wutinfo.whut.edu.cn. 3599 IN A 218.197.103.16
+
+wutinfo.whut.edu.cn. 3599 IN A 218.197.103.16
+
+wutinfo.whut.edu.cn. 3599 IN A 218.197.103.16
+
+wutinfo.whut.edu.cn. 3599 IN A 218.197.103.16
+
+www.whut.edu.cn. 3600 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www.whut.edu.cn. 3599 IN A 202.114.50.2
+
+www1.whut.edu.cn. 3600 IN A 202.114.88.20
+
+www1.whut.edu.cn. 3599 IN A 202.114.88.20
+
+www1.whut.edu.cn. 3599 IN A 202.114.88.20
+
+www1.whut.edu.cn. 3599 IN A 202.114.88.20
+
+www1.whut.edu.cn. 3599 IN A 202.114.88.20
+
+www1.whut.edu.cn. 3599 IN A 202.114.88.20
+
+www1.whut.edu.cn. 3599 IN A 202.114.88.20
+
+wzb.whut.edu.cn. 3600 IN A 218.197.103.6
+
+xcb.whut.edu.cn. 3600 IN A 202.114.90.46
+
+xcb.whut.edu.cn. 3599 IN A 202.114.90.46
+
+xcb.whut.edu.cn. 3599 IN A 202.114.90.46
+
+xcb.whut.edu.cn. 3599 IN A 202.114.90.46
+
+xcb.whut.edu.cn. 3599 IN A 202.114.90.46
+
+xcb.whut.edu.cn. 3599 IN A 202.114.90.46
+
+xcb.whut.edu.cn. 3599 IN A 202.114.90.46
+
+xpb.whut.edu.cn. 3600 IN A 202.114.82.238
+
+xpb.whut.edu.cn. 3599 IN A 202.114.82.238
+
+xpb.whut.edu.cn. 3599 IN A 202.114.82.238
+
+xpb.whut.edu.cn. 3599 IN A 202.114.82.238
+
+xpb.whut.edu.cn. 3599 IN A 202.114.82.238
+
+xszl.whut.edu.cn. 3600 IN A 202.114.89.120
+
+xszl.whut.edu.cn. 3599 IN A 202.114.89.120
+
+xszl.whut.edu.cn. 3599 IN A 202.114.89.120
+
+xszl.whut.edu.cn. 3599 IN A 202.114.89.120
+
+xszl.whut.edu.cn. 3599 IN A 202.114.89.120
+
+xvpn.whut.edu.cn. 60 IN A 113.57.176.227
+
+xvpn.whut.edu.cn. 60 IN A 113.57.176.227
+
+xvpn.whut.edu.cn. 59 IN A 113.57.176.227
+
+xvpn.whut.edu.cn. 59 IN A 113.57.176.227
+
+xvpn.whut.edu.cn. 59 IN A 113.57.176.227
+
+xvpn.whut.edu.cn. 59 IN A 113.57.176.227
+
+xxgk.whut.edu.cn. 3600 IN A 202.114.88.26
+
+xxgk.whut.edu.cn. 3599 IN A 202.114.88.26
+
+xxgk.whut.edu.cn. 3599 IN A 202.114.88.26
+
+xxgk.whut.edu.cn. 3599 IN A 202.114.88.26
+
+xxgk.whut.edu.cn. 3599 IN A 202.114.88.26
+
+xxgk.whut.edu.cn. 3599 IN A 202.114.88.26
+
+xxgk.whut.edu.cn. 3599 IN A 202.114.88.26
+
+xyh.whut.edu.cn. 3600 IN A 218.197.101.7
+
+xyh.whut.edu.cn. 3599 IN A 218.197.101.7
+
+xyh.whut.edu.cn. 3599 IN A 218.197.101.7
+
+xyh.whut.edu.cn. 3599 IN A 218.197.101.7
+
+xyh.whut.edu.cn. 3599 IN A 218.197.101.7
+
+xyh.whut.edu.cn. 3599 IN A 218.197.101.7
+
+xyh.whut.edu.cn. 3599 IN A 218.197.101.7
+
+yjsh.whut.edu.cn. 3600 IN A 202.114.88.163
+
+yjsh.whut.edu.cn. 3599 IN A 202.114.88.163
+
+yjsh.whut.edu.cn. 3599 IN A 202.114.88.163
+
+yjsh.whut.edu.cn. 3599 IN A 202.114.88.163
+
+yjsh.whut.edu.cn. 3599 IN A 202.114.88.163
+
+yjsh.whut.edu.cn. 3599 IN A 202.114.88.163
+
+yjt.whut.edu.cn. 3600 IN A 218.197.103.15
+
+yjt.whut.edu.cn. 3599 IN A 218.197.103.15
+
+yjt.whut.edu.cn. 3599 IN A 218.197.103.15
+
+yjt.whut.edu.cn. 3599 IN A 218.197.103.15
+
+yjt.whut.edu.cn. 3599 IN A 218.197.103.15
+
+yjt.whut.edu.cn. 3599 IN A 218.197.103.15
+
+youth.whut.edu.cn. 3600 IN A 218.197.103.138
+
+youth.whut.edu.cn. 3599 IN A 218.197.103.138
+
+youth.whut.edu.cn. 3599 IN A 218.197.103.138
+
+youth.whut.edu.cn. 3599 IN A 218.197.103.138
+
+youth.whut.edu.cn. 3599 IN A 218.197.103.138
+
+youth.whut.edu.cn. 3599 IN A 218.197.103.138
+
+yqgx.whut.edu.cn. 3600 IN A 218.197.101.14
+
+yqgx.whut.edu.cn. 3599 IN A 218.197.101.14
+
+yqgx.whut.edu.cn. 3599 IN A 218.197.101.14
+
+yqgx.whut.edu.cn. 3599 IN A 218.197.101.14
+
+yqgx.whut.edu.cn. 3599 IN A 218.197.101.14
+
+yqgxpt.whut.edu.cn. 3600 IN A 59.69.100.198
+
+yqgxpt.whut.edu.cn. 3599 IN A 59.69.100.198
+
+yqgxpt.whut.edu.cn. 3599 IN A 59.69.100.198
+
+yqgxpt.whut.edu.cn. 3599 IN A 59.69.100.198
+
+yqgxpt.whut.edu.cn. 3599 IN A 59.69.100.198
+
+yqgxpt.whut.edu.cn. 3599 IN A 59.69.100.198
+
+z.whut.edu.cn. 3600 IN A 202.114.52.73
+
+zb.whut.edu.cn. 3600 IN A 202.114.90.49
+
+zb.whut.edu.cn. 3599 IN A 202.114.90.49
+
+zb.whut.edu.cn. 3599 IN A 202.114.90.49
+
+zb.whut.edu.cn. 3599 IN A 202.114.90.49
+
+zb.whut.edu.cn. 3599 IN A 202.114.90.49
+
+zb.whut.edu.cn. 3599 IN A 202.114.90.49
+
+zb.whut.edu.cn. 3599 IN A 202.114.90.49
+
+zdh.whut.edu.cn. 3600 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zdh.whut.edu.cn. 3599 IN A 218.197.107.217
+
+zhaopin.whut.edu.cn. 3600 IN A 218.197.101.27
+
+zhaopin.whut.edu.cn. 3599 IN A 218.197.101.27
+
+zhaopin.whut.edu.cn. 3599 IN A 218.197.101.27
+
+zhaopin.whut.edu.cn. 3599 IN A 218.197.101.27
+
+zhaopin.whut.edu.cn. 3599 IN A 218.197.101.27
+
+zhaopin.whut.edu.cn. 3599 IN A 218.197.101.27
+
+zhaopin.whut.edu.cn. 3599 IN A 218.197.101.27
+
+zhlgd.whut.edu.cn. 3600 IN A 202.114.50.128
+
+zhlgd.whut.edu.cn. 3599 IN A 202.114.50.128
+
+zhlgd.whut.edu.cn. 3599 IN A 202.114.50.128
+
+zhlgd.whut.edu.cn. 3599 IN A 202.114.50.128
+
+zhlgd.whut.edu.cn. 3599 IN A 202.114.50.128
+
+zhlgd.whut.edu.cn. 3599 IN A 202.114.50.128
+
+zhlgd.whut.edu.cn. 3599 IN A 202.114.50.128
+
+zhxg.whut.edu.cn. 3600 IN A 218.197.102.136
+
+zhxg.whut.edu.cn. 3599 IN A 218.197.102.136
+
+zs.whut.edu.cn. 3600 IN A 218.197.103.38
+
+zs.whut.edu.cn. 3599 IN A 218.197.103.38
+
+zs.whut.edu.cn. 3599 IN A 218.197.103.38
+
+zs.whut.edu.cn. 3599 IN A 218.197.103.38
+
+zs.whut.edu.cn. 3599 IN A 218.197.103.38
+
+zs.whut.edu.cn. 3599 IN A 218.197.103.38
+
+zxfz.whut.edu.cn. 3600 IN A 59.69.102.29
+
+zxfz.whut.edu.cn. 3599 IN A 59.69.102.29
+
+zxfz.whut.edu.cn. 3599 IN A 59.69.102.29
+
+zxfz.whut.edu.cn. 3599 IN A 59.69.102.29
+
+zxjlab.whut.edu.cn. 3600 IN A 202.114.88.183
+
+zxjlab.whut.edu.cn. 3599 IN A 202.114.88.183
+
+zxjlab.whut.edu.cn. 3599 IN A 202.114.88.183
+
+zxjlab.whut.edu.cn. 3599 IN A 202.114.88.183
+
+zxjlab.whut.edu.cn. 3599 IN A 202.114.88.183
+
+zxjlab.whut.edu.cn. 3599 IN A 202.114.88.183
+
+zyjh.whut.edu.cn. 3600 IN A 202.114.95.15
+
+zyjh.whut.edu.cn. 3599 IN A 202.114.95.15
+
+zyjh.whut.edu.cn. 3599 IN A 202.114.95.15
+
+zyjh.whut.edu.cn. 3599 IN A 202.114.95.15
+
+zyjh.whut.edu.cn. 3599 IN A 202.114.95.15
+
+zzb.whut.edu.cn. 3600 IN A 218.197.103.6
+
+zzb.whut.edu.cn. 3599 IN A 218.197.103.6
+
+zzb.whut.edu.cn. 3599 IN A 218.197.103.6
+
+zzb.whut.edu.cn. 3599 IN A 218.197.103.6
+
+zzb.whut.edu.cn. 3599 IN A 218.197.103.6
+
+zzb.whut.edu.cn. 3599 IN A 218.197.103.6
+

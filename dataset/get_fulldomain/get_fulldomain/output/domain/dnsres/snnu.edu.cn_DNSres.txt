@@ -1,0 +1,876 @@
+mail.snnu.edu.cnsnnu.edu.cn. 0 IN A 220.250.64.225
+
+mail.snnu.edu.cnsnnu.edu.cn. 60 IN A 220.250.64.225
+
+sxktds.snnu.edu.cnsnnu.edu.cn. 0 IN A 220.250.64.225
+
+www.snnu.edu.cnsnnu.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+NXDOMAIN for snnu.edu.cn
+
+211.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+211.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+admission.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+archives.snnu.edu.cn. 3600 IN A 219.244.176.3
+
+archives.snnu.edu.cn. 3599 IN A 219.244.176.3
+
+bb.snnu.edu.cn. 3600 IN A 113.200.212.116
+bb.snnu.edu.cn. 3600 IN A 124.89.33.179
+
+bb.snnu.edu.cn. 3599 IN A 124.89.33.179
+bb.snnu.edu.cn. 3599 IN A 113.200.212.116
+
+bbs.snnu.edu.cn. 0 IN A 220.250.64.225
+
+bchem.snnu.edu.cn. 3600 IN A 219.244.172.1
+
+bioinfo.snnu.edu.cn. 3600 IN A 219.244.71.192
+
+brain.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+bwcx.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+bwg1.snnu.edu.cn. 60 IN A 219.244.71.95
+
+cao.snnu.edu.cn. 3600 IN A 219.244.66.2
+
+cas.snnu.edu.cn. 3577 IN A 202.117.144.60
+
+cas.snnu.edu.cn. 3576 IN A 202.117.144.60
+
+ccs.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ccs.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+ccsen.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+cess.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+cgbm.snnu.edu.cn. 3600 IN A 219.244.71.160
+
+www.chem.snnu.edu.cn. 60 IN A 219.244.71.159
+
+www.chem.snnu.edu.cn. 60 IN A 219.244.71.159
+
+chemlab.snnu.edu.cn. 3600 IN A 219.244.171.198
+
+chemlab.snnu.edu.cn. 3599 IN A 219.244.171.198
+
+chemlab.snnu.edu.cn. 3599 IN A 219.244.171.198
+
+clxy.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+clxy.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+mail.cmail.snnu.edu.cn. 3600 IN A 220.250.64.225
+
+mail.cmail.snnu.edu.cn. 3599 IN A 220.250.64.225
+
+mail.cmail.snnu.edu.cn. 3599 IN A 220.250.64.225
+
+edu.snnu.edu.cnbbs.snnu.edu.cn. 3600 IN A 220.250.64.225
+
+edutech.snnu.edu.cnmail.snnu.edu.cn. 3600 IN A 220.250.64.225
+
+mail.snnu.edu.cnnic.snnu.edu.cn. 0 IN A 220.250.64.225
+
+mail.snnu.edu.cnnic.snnu.edu.cn. 60 IN A 220.250.64.225
+
+www.snnu.edu.cnspg.snnu.edu.cn. 0 IN A 220.250.64.225
+
+mail.snnu.edu.cnwww.snnu.edu.cn. 3600 IN A 220.250.64.225
+
+crs.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+crs.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+ctld.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ctld.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+ctpad.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ctpad.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+cwc.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+cwc.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+cwkf.snnu.edu.cn. 3600 IN A 219.244.70.12
+
+cwsfpt.snnu.edu.cn. 3600 IN A 219.244.70.8
+
+cxinw.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+cxinw.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+cyc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+cyc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+dangdh.snnu.edu.cn. 3600 IN A 202.117.144.43
+
+dangdh.snnu.edu.cn. 3599 IN A 202.117.144.43
+
+NXDOMAIN for ctld.snnu.edu.cndns.dc.snnu.edu.cn
+
+NXDOMAIN for dns.dc.snnu.edu.cn
+
+dlca.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+dlca.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+dlkcyjxl.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+dns.snnu.edu.cn. 3600 IN A 202.117.144.2
+
+dns.snnu.edu.cn. 3599 IN A 202.117.144.2
+
+dns.snnu.edu.cn. 3599 IN A 202.117.144.2
+
+dns.snnu.edu.cn. 3599 IN A 202.117.144.2
+
+dns.snnu.edu.cn. 3599 IN A 202.117.144.2
+
+dns1.snnu.edu.cn. 3600 IN A 61.185.190.254
+
+dns1.snnu.edu.cn. 3599 IN A 61.185.190.254
+
+dns1.snnu.edu.cn. 3599 IN A 61.185.190.254
+
+dns2.snnu.edu.cn. 3600 IN A 113.200.212.126
+
+dns2.snnu.edu.cn. 3599 IN A 113.200.212.126
+
+dns2.snnu.edu.cn. 3599 IN A 113.200.212.126
+
+dns2.snnu.edu.cn. 3599 IN A 113.200.212.126
+
+dns2.snnu.edu.cn. 3599 IN A 113.200.212.126
+
+dns3.snnu.edu.cn. 3600 IN A 210.74.131.254
+
+dns3.snnu.edu.cn. 3599 IN A 210.74.131.254
+
+dns3.snnu.edu.cn. 3599 IN A 210.74.131.254
+
+dns3.snnu.edu.cn. 3599 IN A 210.74.131.254
+
+dnsca.snnu.edu.cn. 0 IN A 220.250.64.225
+
+dnsca.snnu.edu.cn. 60 IN A 220.250.64.225
+
+dnsca.snnu.edu.cn. 59 IN A 220.250.64.225
+
+dnscnc.snnu.edu.cn. 3600 IN A 220.250.64.225
+
+dnscnc.snnu.edu.cn. 3599 IN A 220.250.64.225
+
+dnscnc.snnu.edu.cn. 3599 IN A 220.250.64.225
+
+door.snnu.edu.cn. 3600 IN A 202.117.144.106
+
+NXDOMAIN for dns.ds.snnu.edu.cn
+
+dzztb.snnu.edu.cn. 3600 IN A 202.117.144.115
+
+edu.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+edu.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+edu.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+edutech.snnu.edu.cn. 3600 IN A 202.117.156.207
+
+edutech.snnu.edu.cn. 3599 IN A 202.117.156.207
+
+edutech.snnu.edu.cn. 3599 IN A 202.117.156.207
+
+ef-al.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ef-al.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+english.snnu.edu.cn. 3600 IN A 202.117.144.45
+
+english.snnu.edu.cn. 3599 IN A 202.117.144.45
+
+english.snnu.edu.cn. 3599 IN A 202.117.144.45
+
+english.snnu.edu.cn. 3599 IN A 202.117.144.45
+
+env_dev.snnu.edu.cn. 3600 IN A 219.244.172.135
+
+env_dev.snnu.edu.cn. 3599 IN A 219.244.172.135
+
+mx.eqmail.snnu.edu.cn. 0 IN A 220.250.64.225
+
+mx.eqmail.snnu.edu.cn. 60 IN A 220.250.64.225
+
+www.eqmail.snnu.edu.cn. 0 IN A 220.250.64.225
+
+fbhs.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+ftp.snnu.edu.cn. 0 IN A 220.250.64.225
+
+ftp.snnu.edu.cn. 60 IN A 220.250.64.225
+
+ftp.snnu.edu.cn. 59 IN A 220.250.64.225
+
+fupin.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+fupin.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+fvp.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+fx.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+fx.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+fxdj.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+gac.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+gac.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+gdds.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+gdmc.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+gdmc.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+gdwxpy.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+geo.snnu.edu.cn. 3600 IN A 219.244.172.3
+
+geog.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+geog.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+ggxlx.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+ggxlx.snnu.edu.cn. 3599 IN A 202.117.144.159
+
+gh.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+gh.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+gis.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+gss.snnu.edu.cn. 3600 IN A 219.244.71.23
+
+gtzy.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+gtzy.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+gwzx.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+gwzx.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+gyy.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+gyy.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+gzc.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+hchc.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+hchc.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+heshan.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+heshan.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+his.snnu.edu.cn. 3600 IN A 202.117.156.209
+
+his.snnu.edu.cn. 3599 IN A 202.117.156.209
+
+his.snnu.edu.cn. 3599 IN A 202.117.156.209
+
+his.snnu.edu.cn. 3599 IN A 202.117.156.209
+
+hospital.snnu.edu.cn. 3600 IN A 202.117.144.241
+
+hqglc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+www.ibs.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+www.ibs.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+ijrc.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+imap.snnu.edu.cn. 3600 IN CNAME mail.snnu.edu.cn.
+mail.snnu.edu.cn. 3599 IN A 210.74.131.253
+
+imooc.snnu.edu.cn. 3600 IN A 219.244.171.92
+
+ipo.snnu.edu.cn. 2224 IN A 202.117.144.157
+
+ipo.snnu.edu.cn. 2223 IN A 202.117.144.157
+
+isac.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+isac.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+iscs.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+iscs.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+iscsen.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+itc.snnu.edu.cn. 3600 IN A 202.117.154.204
+
+www.itc.snnu.edu.cn. 3600 IN CNAME itc.snnu.edu.cn.
+itc.snnu.edu.cn. 3599 IN A 202.117.154.204
+
+jcsy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+jgdw.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+jghx.snnu.edu.cn. 3600 IN A 219.244.172.3
+
+jijian.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+jijianchu.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+job.snnu.edu.cn. 3600 IN A 219.244.70.47
+
+job.snnu.edu.cn. 3599 IN A 219.244.70.47
+
+job.snnu.edu.cn. 3599 IN A 219.244.70.47
+
+job.snnu.edu.cn. 3599 IN A 219.244.70.47
+
+jpkc.snnu.edu.cn. 3600 IN A 219.244.172.3
+
+jsjy.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+jsjy.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+jsyjs.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+jwc.snnu.edu.cn. 60 IN A 202.117.144.157
+
+jwc.snnu.edu.cn. 59 IN A 202.117.144.157
+
+jwxt.snnu.edu.cn. 3600 IN A 202.117.144.80
+
+jysx.snnu.edu.cn. 3600 IN A 202.117.144.36
+
+jyyjs.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+kb.snnu.edu.cn. 3600 IN A 219.244.71.216
+
+kexie.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+kjc.snnu.edu.cn. 60 IN A 202.117.144.157
+
+kjc.snnu.edu.cn. 59 IN A 202.117.144.157
+
+kjmz.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+kjmz.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+kjxt.snnu.edu.cn. 3600 IN A 219.244.71.71
+
+klascc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+klascc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+kzxy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+leave.snnu.edu.cn. 3600 IN A 210.74.131.210
+leave.snnu.edu.cn. 3600 IN A 113.200.212.82
+
+www.lib.snnu.edu.cn. 70196 IN A 219.244.71.147
+
+www.lib.snnu.edu.cn. 7199 IN A 219.244.71.147
+
+lifesci.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+lifesci.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+www.lit.snnu.edu.cn. 2089 IN A 202.117.144.157
+
+www.lit.snnu.edu.cn. 2088 IN A 202.117.144.157
+
+ltxc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ltxc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+lygh.snnu.edu.cn. 3600 IN A 219.244.172.1
+
+mail.snnu.edu.cn. 3597 IN A 210.74.131.253
+
+mail.snnu.edu.cn. 3597 IN A 210.74.131.253
+
+mail.snnu.edu.cn. 3597 IN A 210.74.131.253
+
+mail.snnu.edu.cn. 3597 IN A 210.74.131.253
+
+mail1.snnu.edu.cn. 0 IN A 220.250.64.225
+
+marxism.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+marxism.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+maths.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+maths.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+maths.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+maths.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+meishuxy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+meishuxy.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+mjy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+mjy.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+mobile.snnu.edu.cn. 3600 IN A 202.117.144.10
+
+msx.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+mtt.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+mtt.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+music.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+music.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+music.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+music.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+mx202.snnu.edu.cn. 3600 IN A 202.117.144.13
+
+mx202.snnu.edu.cn. 3599 IN A 202.117.144.13
+
+mx202.snnu.edu.cn. 3599 IN A 202.117.144.13
+
+mx202.snnu.edu.cn. 3599 IN A 202.117.144.13
+
+mx202.snnu.edu.cn. 3599 IN A 202.117.144.13
+
+mxcnc2.snnu.edu.cn. 3600 IN A 202.117.144.13
+
+my.snnu.edu.cn. 3600 IN A 202.117.144.10
+
+my.snnu.edu.cn. 3599 IN A 202.117.144.10
+
+nec.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+nel.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+nel.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+netgdhy.snnu.edu.cn. 3600 IN A 219.244.172.2
+
+netresearch.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+news.snnu.edu.cn. 3600 IN A 202.117.144.43
+
+news.snnu.edu.cn. 3599 IN A 202.117.144.43
+
+newyjs.snnu.edu.cn. 1921 IN A 202.117.144.46
+
+newyjs.snnu.edu.cn. 1920 IN A 202.117.144.46
+
+nic.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+nic.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+nkb.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+npc.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+nsp.snnu.edu.cn. 3600 IN A 202.117.144.149
+
+oa.snnu.edu.cn. 60 IN A 210.74.131.252
+
+oa.snnu.edu.cn. 59 IN A 210.74.131.252
+
+oa.snnu.edu.cn. 59 IN A 210.74.131.252
+
+oa.snnu.edu.cn. 59 IN A 210.74.131.252
+
+oa.snnu.edu.cn. 59 IN A 210.74.131.252
+
+oplog.snnu.edu.cn. 3600 IN A 113.200.212.83
+
+pari.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+pari.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+pc.snnu.edu.cn. 3600 IN A 219.244.71.3
+
+peeh.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+pop.snnu.edu.cn. 3600 IN CNAME mail.snnu.edu.cn.
+mail.snnu.edu.cn. 3599 IN A 210.74.131.253
+
+pop.snnu.edu.cn. 3599 IN CNAME mail.snnu.edu.cn.
+mail.snnu.edu.cn. 3599 IN A 210.74.131.253
+
+pop3.snnu.edu.cn. 3600 IN CNAME mail.snnu.edu.cn.
+mail.snnu.edu.cn. 3599 IN A 210.74.131.253
+
+pop3.snnu.edu.cn. 3599 IN CNAME mail.snnu.edu.cn.
+mail.snnu.edu.cn. 3599 IN A 210.74.131.253
+
+psych.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+psych.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+psyvlab.snnu.edu.cn. 3600 IN A 202.117.144.26
+
+rcb.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+rcshm.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+rcshm.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+rczp.snnu.edu.cn. 3600 IN A 219.244.71.125
+
+rczp.snnu.edu.cn. 3599 IN A 219.244.71.125
+
+rec.snnu.edu.cn. 60 IN A 202.117.144.46
+
+rsc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+rsc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+rwdl.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+saqxc.snnu.edu.cn. 3600 IN A 219.244.71.210
+
+sde.snnu.edu.cn. 600 IN A 210.74.131.223
+
+sde.snnu.edu.cn. 599 IN A 210.74.131.223
+
+www.sde.snnu.edu.cn. 300 IN A 61.185.190.222
+
+www.sde.snnu.edu.cn. 299 IN A 61.185.190.222
+
+shpg.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+sjc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+sjc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+sjkyl.snnu.edu.cn. 3600 IN A 219.244.172.4
+
+skc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+skc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+skyyjs.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+sl.snnu.edu.cn. 3600 IN A 219.244.172.152
+
+smtp.snnu.edu.cn. 3600 IN CNAME mail.snnu.edu.cn.
+mail.snnu.edu.cn. 3591 IN A 210.74.131.253
+
+sne.snnu.edu.cn. 600 IN A 202.117.154.228
+
+www.sne.snnu.edu.cn. 300 IN A 202.117.154.228
+www.sne.snnu.edu.cn. 300 IN A 61.185.190.220
+
+so.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+spg.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+spg.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+spg.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+spgcx.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+spgcx.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+spkxgl.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+sqjwh.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+sqjwh.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+sqjwh.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+sqjwh.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+ssdyey.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ssjdd.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+starjob.snnu.edu.cn. 3600 IN A 219.244.71.246
+
+student.snnu.edu.cn. 3600 IN A 202.117.156.239
+
+sxgpjh.snnu.edu.cn. 3600 IN A 219.244.71.20
+
+sxktds.snnu.edu.cn. 3600 IN A 202.117.144.131
+
+sxpa.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+sxus.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+sxus.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+sysaq.snnu.edu.cn. 3600 IN A 219.244.71.158
+
+sysaqks.snnu.edu.cn. 3600 IN A 219.244.71.91
+
+syxlx.snnu.edu.cn. 3600 IN A 219.244.172.4
+
+syzxspxy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+szcm.snnu.edu.cn. 3600 IN A 219.244.71.185
+
+szcm.snnu.edu.cn. 3599 IN A 219.244.71.185
+
+sztz.snnu.edu.cn. 3600 IN A 219.244.172.155
+
+tdh.snnu.edu.cn. 3600 IN A 219.244.172.152
+
+dns.test.snnu.edu.cn. 3600 IN A 202.117.144.16
+
+dns.test.snnu.edu.cn. 3599 IN A 202.117.144.16
+
+www.test.snnu.edu.cn. 3600 IN A 202.117.144.98
+
+tiel.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+tinf.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+tongzhanbu.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+ttca.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+tuanwei.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+tuanwei.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+turkey.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+turkey.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+tyrwzx.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+tyrwzx.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+tyxy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+tyxy.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+vlab.snnu.edu.cn. 3600 IN A 219.244.65.138
+
+vod.snnu.edu.cn. 0 IN A 220.250.64.225
+
+vod.snnu.edu.cn. 60 IN A 220.250.64.225
+
+vod.snnu.edu.cn. 59 IN A 220.250.64.225
+
+wanwu.snnu.edu.cn. 3600 IN A 219.244.71.60
+
+wanwu.snnu.edu.cn. 3599 IN A 219.244.71.60
+
+welcome.snnu.edu.cn. 3600 IN A 113.200.212.80
+welcome.snnu.edu.cn. 3600 IN A 210.74.131.208
+
+welcome.snnu.edu.cn. 3599 IN A 210.74.131.208
+welcome.snnu.edu.cn. 3599 IN A 113.200.212.80
+
+welcomesa.snnu.edu.cn. 3600 IN A 202.117.156.239
+
+wsxt.snnu.edu.cn. 3600 IN A 219.244.71.83
+
+wuli.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+wuli.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+wuli.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+wuli.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+www.snnu.edu.cn. 2293 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.snnu.edu.cn. 2292 IN A 210.74.131.214
+
+www.wyxy.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+www.wyxy.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+wyyjs.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+xbhz.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+xbjsjy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+xbsp.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xbsp.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+xcb.snnu.edu.cn. 3600 IN A 202.117.144.43
+
+xfjs.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xgxt.snnu.edu.cn. 3600 IN A 219.244.71.224
+
+xiaoban.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+xingweili.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xixia.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+mail.xjkc.snnu.edu.cn. 86400 IN A 202.117.144.11
+
+mail.xjkc.snnu.edu.cn. 7199 IN A 202.117.144.11
+
+mail.xjkc.snnu.edu.cn. 7199 IN A 202.117.144.11
+
+xljk.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xny.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xny.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+www.xsc.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+www.xsc.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+xsgy.snnu.edu.cn. 3600 IN A 210.74.131.205
+
+xsh.snnu.edu.cn. 0 IN A 220.250.64.225
+
+xswyh.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xswyh.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+xt.snnu.edu.cn. 3600 IN A 219.244.71.9
+
+www.xuebao.snnu.edu.cn. 3600 IN A 219.244.172.136
+
+xwpg.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+xxgk.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+xxgk.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+xxgk.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+xxgk.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+xxh.snnu.edu.cn. 3600 IN A 219.244.71.146
+
+xxh.snnu.edu.cn. 3599 IN A 219.244.71.146
+
+ydjpx.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+ydslx.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+yfang.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+ygb.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+ygb.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+www.yjs.snnu.edu.cn. 3600 IN A 202.117.144.231
+
+yjssys.snnu.edu.cn. 3600 IN A 219.244.71.52
+
+yjssys.snnu.edu.cn. 3599 IN A 219.244.71.52
+
+youtai.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+yywx.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+yywz.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+yyzx.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+yyzyzx.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+yz.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+yz.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+zbb.snnu.edu.cn. 3600 IN A 113.200.212.78
+zbb.snnu.edu.cn. 3600 IN A 210.74.131.206
+
+zcgl.snnu.edu.cn. 3600 IN A 202.117.144.53
+
+zggdwx.snnu.edu.cn. 3600 IN A 202.117.144.159
+
+zggdwx.snnu.edu.cn. 3599 IN A 202.117.144.159
+
+zhangbaohui.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+zhangbaohui.snnu.edu.cn. 3599 IN A 202.117.144.157
+
+zhongnan.snnu.edu.cn. 3600 IN A 202.117.144.36
+
+zqzx.snnu.edu.cn. 3600 IN A 219.244.172.152
+
+zrdl.snnu.edu.cn. 3600 IN A 219.244.172.1
+
+zsb.snnu.edu.cn. 3600 IN A 210.74.131.229
+
+zsb.snnu.edu.cn. 3599 IN A 210.74.131.229
+
+zsb.snnu.edu.cn. 3599 IN A 210.74.131.229
+
+zsb.snnu.edu.cn. 3599 IN A 210.74.131.229
+
+zuzhibu.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+zuzhibu.snnu.edu.cn. 3599 IN A 202.117.144.46
+
+zxsy.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+zyfw.snnu.edu.cn. 3600 IN A 219.244.172.187
+
+zyfz.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+zys.snnu.edu.cn. 3600 IN A 202.117.144.157
+
+zzzx.snnu.edu.cn. 3600 IN A 202.117.144.46
+
+zzzx.snnu.edu.cn. 3599 IN A 202.117.144.46
+

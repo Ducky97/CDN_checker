@@ -1,0 +1,4266 @@
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+NXDOMAIN for ecnu.edu.cn
+
+www.10cjk.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1889 IN A 202.120.92.25
+
+www.14th-shortstoryconference.ecnu.edu.cn. 3600 IN A 202.120.83.185
+
+acm.ecnu.edu.cn. 30 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 2198 IN A 202.120.88.23
+
+acme.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+acme.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+acme.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for hpldsrv.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for kyc.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+NXDOMAIN for zhang.admin.ecnu.edu.cn
+
+aebs.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+aebs.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+aebs.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+alumni.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+alumnimail.ecnu.edu.cn. 3600 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumnimail.ecnu.edu.cn. 3599 IN A 202.120.88.79
+
+alumniscan.ecnu.edu.cn. 3600 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+alumniscan.ecnu.edu.cn. 3599 IN A 202.120.88.74
+
+amo.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+applicationgsis.ecnu.edu.cn. 1676 IN A 202.120.83.199
+
+applicationidc.ecnu.edu.cn. 1677 IN A 202.120.83.202
+
+applicationnewjw.ecnu.edu.cn. 1676 IN A 202.120.83.236
+
+applicationrs.ecnu.edu.cn. 3600 IN A 202.120.83.191
+
+applicationrs.ecnu.edu.cn. 3599 IN A 202.120.83.191
+
+applicationyjs.ecnu.edu.cn. 3499 IN A 202.120.83.194
+
+applicationyjs.ecnu.edu.cn. 3498 IN A 202.120.83.194
+
+applicationyjs.ecnu.edu.cn. 3498 IN A 202.120.83.194
+
+aps.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+www.art.ecnu.edu.cn. 2558 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1889 IN A 202.120.92.25
+
+asc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+aspnetyi.ecnu.edu.cn. 3600 IN A 202.101.26.139
+
+biolab.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+www.biomed.ecnu.edu.cn. 379 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 378 IN A 202.120.92.25
+
+biophotonics.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1889 IN A 202.120.92.25
+
+bioteacher.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+www.brain.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+kms.bs.ecnu.edu.cn. 3600 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+kms.bs.ecnu.edu.cn. 3599 IN A 222.204.246.118
+
+bwc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+www.bx.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+mail.calendar.ecnu.edu.cn. 3600 IN A 202.120.85.225
+
+career.ecnu.edu.cn. 619 IN A 202.120.88.27
+
+career.ecnu.edu.cn. 618 IN A 202.120.88.27
+
+career.ecnu.edu.cn. 618 IN A 202.120.88.27
+
+www.career.ecnu.edu.cn. 2947 IN CNAME imoutside.ecnu.edu.cn.
+imoutside.ecnu.edu.cn. 1421 IN A 202.120.88.22
+
+www.cc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+ccmc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1888 IN A 202.120.92.25
+
+ccp.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+ccwihs.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+www.cee.ecnu.edu.cn. 1889 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1888 IN A 202.120.92.25
+
+cem.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+center.ecnu.edu.cn. 3600 IN A 202.101.26.17
+
+center.ecnu.edu.cn. 3599 IN A 202.101.26.17
+
+www.cftd.ecnu.edu.cn. 3569 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3568 IN A 202.120.92.25
+
+cgj.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+cgj.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+cgj.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1761 IN A 202.120.88.21
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+NXDOMAIN for ch.ecnu.edu.cn
+
+www.chem.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+chemedu.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1761 IN A 202.120.88.23
+
+chemlab.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2400 IN A 202.120.88.21
+
+www.chemold.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3599 IN A 202.120.83.120
+
+childrenpay.ecnu.edu.cn. 178 IN A 202.120.83.185
+
+chinese.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+chinese.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+chinese.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+chm.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+chunhua.ecnu.edu.cn. 3600 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+chunhua.ecnu.edu.cn. 3599 IN A 202.120.80.3
+
+www.clhm.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+clpm.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+NXDOMAIN for ex.nic.ecnu.edu.cnchunhua.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cnfoundation.ecnu.edu.cn
+
+cngi6.ecnu.edu.cn. 3600 IN A 202.120.80.49
+
+NXDOMAIN for lliu.nic.ecnu.edu.cnhillstone.ecnu.edu.cn
+
+www.lab.comm.ecnu.edu.cn. 3600 IN A 219.228.59.30
+
+www.comm.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+course.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+course.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+course.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+cpde.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+cpde.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+cpde.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+www.cpde.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+crouter.ecnu.edu.cn. 3600 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+crouter.ecnu.edu.cn. 3599 IN A 202.120.80.81
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+NXDOMAIN for fkshen.netlab.cs.ecnu.edu.cn
+
+www.cs.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3597 IN A 202.120.92.25
+
+www.cst.ecnu.edu.cn. 3600 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cst.ecnu.edu.cn. 3599 IN A 202.120.81.31
+
+www.cte.ecnu.edu.cn. 2564 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+www.cte.ecnu.edu.cn. 2563 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+www.cte.ecnu.edu.cn. 2563 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+NXDOMAIN for ctf.ecnu.edu.cn
+
+cwc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3597 IN A 202.120.92.25
+
+cwms.ecnu.edu.cn. 3600 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+cwms.ecnu.edu.cn. 3599 IN A 202.120.88.146
+
+www.cxcy.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3597 IN A 202.120.92.25
+
+cyjd.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+www.daf.ecnu.edu.cn. 3600 IN CNAME aspnetyi.ecnu.edu.cn.
+aspnetyi.ecnu.edu.cn. 3598 IN A 202.101.26.139
+
+www.dag.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3597 IN A 202.120.92.25
+
+dase.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+dase.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+dase.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+database.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1760 IN A 202.120.88.21
+
+non-degree.dce.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3597 IN A 202.120.92.25
+
+ddh.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1887 IN A 202.120.92.25
+
+ddh.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1887 IN A 202.120.92.25
+
+ddh2017.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3597 IN A 202.120.92.25
+
+dec.ecnu.edu.cn. 3600 IN A 202.120.94.198
+dec.ecnu.edu.cn. 3600 IN A 202.101.26.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dec.ecnu.edu.cn. 3599 IN A 202.101.26.198
+dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+NXDOMAIN for ad.vcloud.ecnu.edu.cnsakaibxk.dec.ecnu.edu.cn
+
+courseware.dec.ecnu.edu.cn. 3600 IN A 202.120.94.202
+
+courseware.dec.ecnu.edu.cn. 3599 IN A 202.120.94.202
+
+courseware.dec.ecnu.edu.cn. 3599 IN A 202.120.94.202
+
+dns.dec.ecnu.edu.cn. 3600 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+dns.dec.ecnu.edu.cn. 3599 IN A 202.120.94.198
+
+ds.dec.ecnu.edu.cn. 3600 IN A 202.120.94.222
+
+ds.dec.ecnu.edu.cn. 3599 IN A 202.120.94.222
+
+ecourse.dec.ecnu.edu.cn. 3600 IN A 202.120.94.238
+
+ecourse.dec.ecnu.edu.cn. 3599 IN A 202.120.94.238
+
+ecourse1.dec.ecnu.edu.cn. 3600 IN A 202.120.94.238
+
+ecourse1.dec.ecnu.edu.cn. 3599 IN A 202.120.94.238
+
+ecourse2.dec.ecnu.edu.cn. 3600 IN A 202.120.94.238
+
+ecourse2.dec.ecnu.edu.cn. 3599 IN A 202.120.94.238
+
+ecourse3.dec.ecnu.edu.cn. 3600 IN A 202.120.94.238
+
+ecourse3.dec.ecnu.edu.cn. 3599 IN A 202.120.94.238
+
+ejyyzj.dec.ecnu.edu.cn. 3600 IN A 202.120.94.219
+
+ejyyzj.dec.ecnu.edu.cn. 3599 IN A 202.120.94.219
+
+ejyyzj.dec.ecnu.edu.cn. 3599 IN A 202.120.94.219
+
+fms.dec.ecnu.edu.cn. 2764 IN A 202.120.94.251
+
+fms.dec.ecnu.edu.cn. 2763 IN A 202.120.94.251
+
+fms.dec.ecnu.edu.cn. 2763 IN A 202.120.94.251
+
+jsjy.dec.ecnu.edu.cn. 3600 IN A 202.120.94.226
+
+jsjy.dec.ecnu.edu.cn. 3599 IN A 202.120.94.226
+
+jsjy.dec.ecnu.edu.cn. 3599 IN A 202.120.94.226
+
+jsjy2.dec.ecnu.edu.cn. 30 IN A 220.250.64.225
+
+jsjy2.dec.ecnu.edu.cn. 29 IN A 220.250.64.225
+
+NXDOMAIN for jsjyxm.dec.ecnu.edu.cn
+
+NXDOMAIN for jsjyxm.dec.ecnu.edu.cn
+
+lmm.dec.ecnu.edu.cn. 3600 IN A 202.120.94.222
+
+lmm.dec.ecnu.edu.cn. 3599 IN A 202.120.94.222
+
+lmsbbs.dec.ecnu.edu.cn. 3600 IN A 202.120.94.222
+
+lmsbbs.dec.ecnu.edu.cn. 3599 IN A 202.120.94.222
+
+pop3.dec.ecnu.edu.cn. 3600 IN A 202.120.94.220
+
+pop3.dec.ecnu.edu.cn. 3599 IN A 202.120.94.220
+
+pop3.dec.ecnu.edu.cn. 3599 IN A 202.120.94.220
+
+rts.dec.ecnu.edu.cn. 3600 IN A 202.120.94.202
+
+rts.dec.ecnu.edu.cn. 3599 IN A 202.120.94.202
+
+rts.dec.ecnu.edu.cn. 3599 IN A 202.120.94.202
+
+sakaibxk.dec.ecnu.edu.cn. 2233 IN A 202.120.94.254
+
+sakaibxk.dec.ecnu.edu.cn. 2232 IN A 202.120.94.254
+
+sakaixxk.dec.ecnu.edu.cn. 3600 IN A 202.120.94.201
+
+sakaixxk.dec.ecnu.edu.cn. 3599 IN A 202.120.94.201
+
+sakaixxk.dec.ecnu.edu.cn. 3599 IN A 202.120.94.201
+
+sfs.dec.ecnu.edu.cn. 3600 IN A 202.120.94.219
+
+sfs.dec.ecnu.edu.cn. 3599 IN A 202.120.94.219
+
+sfs.dec.ecnu.edu.cn. 3599 IN A 202.120.94.219
+
+sfsmoodle.dec.ecnu.edu.cn. 3600 IN A 202.120.94.216
+
+sfsmoodle.dec.ecnu.edu.cn. 3599 IN A 202.120.94.216
+
+sfsmoodle.dec.ecnu.edu.cn. 3599 IN A 202.120.94.216
+
+smtp.dec.ecnu.edu.cn. 3600 IN A 202.120.94.220
+
+tongkao.dec.ecnu.edu.cn. 3600 IN A 202.120.94.206
+
+tongkao.dec.ecnu.edu.cn. 3599 IN A 202.120.94.206
+
+tongkao.dec.ecnu.edu.cn. 3599 IN A 202.120.94.206
+
+vclass.dec.ecnu.edu.cn. 3600 IN A 202.120.94.212
+
+vclass.dec.ecnu.edu.cn. 3599 IN A 202.120.94.212
+
+webmail.dec.ecnu.edu.cn. 2755 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail.dec.ecnu.edu.cn. 2754 IN A 202.120.94.220
+
+webmail1.dec.ecnu.edu.cn. 3600 IN A 202.101.26.220
+
+webmail1.dec.ecnu.edu.cn. 3599 IN A 202.101.26.220
+
+webmail1.dec.ecnu.edu.cn. 3599 IN A 202.101.26.220
+
+www.dec.ecnu.edu.cn. 30 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+www.dec.ecnu.edu.cn. 29 IN A 202.120.94.228
+
+xxk.dec.ecnu.edu.cn. 3600 IN A 202.101.26.234
+
+xxk.dec.ecnu.edu.cn. 3599 IN A 202.101.26.234
+
+xxk.dec.ecnu.edu.cn. 3599 IN A 202.101.26.234
+
+zsbm.dec.ecnu.edu.cn. 3052 IN A 202.120.94.227
+
+zsbm.dec.ecnu.edu.cn. 3051 IN A 202.120.94.227
+
+zsbm.dec.ecnu.edu.cn. 3051 IN A 202.120.94.227
+
+zxks.dec.ecnu.edu.cn. 3600 IN A 202.120.94.240
+
+zxks.dec.ecnu.edu.cn. 3599 IN A 202.120.94.240
+
+www.dedu.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3596 IN A 202.120.92.25
+
+www.deduold.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3599 IN A 202.120.88.60
+
+www.deit.ecnu.edu.cn. 3600 IN A 202.120.92.21
+
+www.dem.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3596 IN A 202.120.92.25
+
+www.dep.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3596 IN A 202.120.92.25
+
+design.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+design.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+www.design.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1759 IN A 202.120.88.21
+
+ditu.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1759 IN A 202.120.88.21
+
+djcgzs.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3596 IN A 202.120.92.25
+
+dljx.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1759 IN A 202.120.88.23
+
+docs.ecnu.edu.cn. 3600 IN A 202.120.80.203
+
+docs.ecnu.edu.cn. 3599 IN A 202.120.80.203
+
+docs.ecnu.edu.cn. 3599 IN A 202.120.80.203
+
+donglab.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1759 IN A 202.120.88.21
+
+download.ecnu.edu.cn. 1674 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1391 IN A 202.120.88.21
+
+download.ecnu.edu.cn. 1673 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1391 IN A 202.120.88.21
+
+download.ecnu.edu.cn. 1673 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1391 IN A 202.120.88.21
+
+www.dp.ecnu.edu.cn. 37 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 29 IN A 202.120.92.25
+
+www.dragon2.ecnu.edu.cn. 3600 IN CNAME aspnetyi.ecnu.edu.cn.
+aspnetyi.ecnu.edu.cn. 3596 IN A 202.101.26.139
+
+dwb.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1758 IN A 202.120.88.21
+
+dwgk.ecnu.edu.cn. 2972 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+www.dx.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3595 IN A 202.120.92.25
+
+dxb.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+dzxlx.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1758 IN A 202.120.88.23
+
+www.e-office.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3595 IN A 202.120.92.25
+
+e2lab.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3595 IN A 202.120.92.25
+
+ecard.ecnu.edu.cn. 3600 IN A 202.120.80.183
+
+www.ecard.ecnu.edu.cn. 1674 IN A 202.120.80.183
+
+ecnusite2.ecnu.edu.cn. 3600 IN A 202.120.92.21
+
+ecnutv.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1758 IN A 202.120.88.21
+
+www.ed.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1758 IN A 202.120.88.21
+
+edm.ecnu.edu.cn. 3600 IN A 202.101.26.223
+
+edmx.ecnu.edu.cn. 3600 IN A 202.101.26.223
+
+edmx.ecnu.edu.cn. 3599 IN A 202.101.26.223
+
+edmx.ecnu.edu.cn. 3599 IN A 202.101.26.223
+
+www.ee.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3595 IN A 202.120.92.25
+
+elearning.ecnu.edu.cn. 3185 IN A 59.78.197.97
+
+elearning.ecnu.edu.cn. 3184 IN A 59.78.197.97
+
+elearning.ecnu.edu.cn. 3184 IN A 59.78.197.97
+
+english.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+english.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+english.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+www.eoffice.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3595 IN A 202.120.92.25
+
+www.etcte.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1758 IN A 202.120.88.21
+
+etrn.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1758 IN A 202.120.88.23
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+NXDOMAIN for win-p9cnppldfb8.exmail.ecnu.edu.cn
+
+faculty.ecnu.edu.cn. 1326 IN CNAME ecnusite2.ecnu.edu.cn.
+ecnusite2.ecnu.edu.cn. 1325 IN A 202.120.92.21
+
+faculty.ecnu.edu.cn. 1325 IN CNAME ecnusite2.ecnu.edu.cn.
+ecnusite2.ecnu.edu.cn. 1325 IN A 202.120.92.21
+
+faculty.ecnu.edu.cn. 1325 IN CNAME ecnusite2.ecnu.edu.cn.
+ecnusite2.ecnu.edu.cn. 1325 IN A 202.120.92.21
+
+facultyold.ecnu.edu.cn. 3600 IN CNAME nhttps.ecnu.edu.cn.
+nhttps.ecnu.edu.cn. 3599 IN A 202.120.92.21
+
+facultyold.ecnu.edu.cn. 3599 IN CNAME nhttps.ecnu.edu.cn.
+nhttps.ecnu.edu.cn. 3599 IN A 202.120.92.21
+
+facultyold.ecnu.edu.cn. 3599 IN CNAME nhttps.ecnu.edu.cn.
+nhttps.ecnu.edu.cn. 3599 IN A 202.120.92.21
+
+fangzhi.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1757 IN A 202.120.88.21
+
+fcgl.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1757 IN A 202.120.88.23
+
+feer.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3594 IN A 202.120.92.25
+
+fem.ecnu.edu.cn. 1352 IN A 202.120.92.25
+
+fem.ecnu.edu.cn. 1351 IN A 202.120.92.25
+
+www.fl.ecnu.edu.cn. 36 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 29 IN A 202.120.92.25
+
+fmac2018.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3594 IN A 202.120.92.25
+
+www.fmri.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1757 IN A 202.120.88.21
+
+foundation.ecnu.edu.cn. 2740 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 29 IN A 202.120.92.25
+
+foundation.ecnu.edu.cn. 2739 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 29 IN A 202.120.92.25
+
+french.ecnu.edu.cn. 3600 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+french.ecnu.edu.cn. 3599 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+french.ecnu.edu.cn. 3599 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+www.freshman.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1757 IN A 202.120.88.21
+
+www.fwh.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1885 IN A 202.120.92.25
+
+fzghb.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1885 IN A 202.120.92.25
+
+www.gccp.ecnu.edu.cn. 60 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+www.gcie.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1884 IN A 202.120.92.25
+
+geo.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+geo.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+www.geo.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+geocomputation.ecnu.edu.cn. 3600 IN CNAME aspnetyi.ecnu.edu.cn.
+aspnetyi.ecnu.edu.cn. 3594 IN A 202.101.26.139
+
+www.geocomputation.ecnu.edu.cn. 3600 IN CNAME aspnetyi.ecnu.edu.cn.
+aspnetyi.ecnu.edu.cn. 3594 IN A 202.101.26.139
+
+www.ghcollege.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+ghhd.ecnu.edu.cn. 3600 IN A 202.120.92.21
+
+ghpw.ecnu.edu.cn. 3600 IN A 202.120.83.168
+
+gis.ecnu.edu.cn. 3600 IN A 202.120.92.20
+
+gjs.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+gonghui.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+greatchina.ecnu.edu.cn. 3600 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+greatchina.ecnu.edu.cn. 3599 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+greatchina.ecnu.edu.cn. 3599 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3598 IN A 202.120.92.25
+
+gspx.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+guanghua.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+gzc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+gzc.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+gzc.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+hanyu.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+hanyu.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+hanyu.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+hillstone.ecnu.edu.cn. 42 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+hillstone.ecnu.edu.cn. 41 IN A 202.120.92.50
+
+history.ecnu.edu.cn. 761 IN A 202.120.92.25
+
+hope.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3594 IN A 202.120.83.120
+
+hope.ecnu.edu.cn. 3599 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3594 IN A 202.120.83.120
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+NXDOMAIN for host.ecnu.edu.cn
+
+houqin.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+hr.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+hr.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+hr.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.hr.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+hrold.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3596 IN A 202.120.88.60
+
+hsdfx.ecnu.edu.cn. 3240 IN A 202.120.88.21
+
+hsgcsj.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1756 IN A 202.120.88.23
+
+https.ecnu.edu.cn. 1756 IN A 202.120.88.23
+
+www.hxp.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+hzjlb.ecnu.edu.cn. 3600 IN A 202.120.92.21
+
+www.iase.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+www.ibis.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+mail.ica.ecnu.edu.cn. 3600 IN A 211.144.121.119
+
+www.icf.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+ictac2013.ecnu.edu.cn. 3600 IN A 202.120.81.220
+
+www.icte.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.icte.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.icte.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+idc.ecnu.edu.cn. 3600 IN A 202.120.80.150
+
+idc.ecnu.edu.cn. 3599 IN A 202.120.80.150
+
+idc.ecnu.edu.cn. 3599 IN A 202.120.80.150
+
+www.idc.ecnu.edu.cn. 1648 IN A 202.120.80.150
+
+idp.ecnu.edu.cn. 2349 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp.ecnu.edu.cn. 2348 IN A 202.120.80.118
+
+idp-oauth.ecnu.edu.cn. 3600 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp-oauth.ecnu.edu.cn. 3599 IN A 202.120.92.12
+
+idp6.ecnu.edu.cn. 3600 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+idp6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3594 IN A 202.120.80.49
+
+www.iea.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+www.iec.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+ied.ecnu.edu.cn. 3600 IN A 202.101.26.138
+
+ied.ecnu.edu.cn. 3599 IN A 202.101.26.138
+
+ied.ecnu.edu.cn. 3599 IN A 202.101.26.138
+
+www.ied.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ied.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+www.ihe.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3593 IN A 202.120.92.25
+
+iice.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+ilab.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1756 IN A 202.120.88.21
+
+imap.ecnu.edu.cn. 3600 IN CNAME imaphz.qiye.163.com.
+imaphz.qiye.163.com. 758 IN A 101.71.155.100
+
+imap.ecnu.edu.cn. 3599 IN CNAME imaphz.qiye.163.com.
+imaphz.qiye.163.com. 758 IN A 101.71.155.100
+
+imhttps.ecnu.edu.cn. 117 IN A 202.120.88.27
+
+intercoh11.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3596 IN A 202.120.88.60
+
+internal-dns.ecnu.edu.cn. 3600 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internal-dns.ecnu.edu.cn. 3599 IN A 202.120.80.19
+
+internationalmeeting.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+internationalmeeting.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+internationalmeeting.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+iprocess.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+ir.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+ir.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+ir.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+irb.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+www.iscpes.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3596 IN A 202.120.88.60
+
+ismar2015.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1883 IN A 202.120.92.25
+
+iss.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1883 IN A 202.120.92.25
+
+www.itc.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2395 IN A 202.120.88.21
+
+itp.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1883 IN A 202.120.92.25
+
+www.iud.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1883 IN A 202.120.92.25
+
+www.iurp.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+jdhtian.ecnu.edu.cn. 3600 IN A 202.120.92.21
+
+jgdw.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3592 IN A 202.120.92.25
+
+www.jiajiao.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+www.jiaoliu.ecnu.edu.cn. 1124 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 2222 IN A 202.120.92.25
+
+www.jijian.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1882 IN A 202.120.92.25
+
+jjc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3592 IN A 202.120.92.25
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps1.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+NXDOMAIN for jlist-ps2.jlist.ecnu.edu.cn
+
+www.jobs.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+jobs1.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+jpge.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3595 IN A 202.120.88.60
+
+jpkc.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+jpkc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+jpkc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+jss.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1755 IN A 202.120.88.23
+
+jwc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3592 IN A 202.120.92.25
+
+www.jwc.ecnu.edu.cn. 947 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 2222 IN A 202.120.92.25
+
+www.kcs.ecnu.edu.cn. 1566 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+www.kcx.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+keyan.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1755 IN A 202.120.88.23
+
+www.kjc.ecnu.edu.cn. 32 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 2221 IN A 202.120.92.25
+
+klatasds.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3592 IN A 202.120.92.25
+
+laneh.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+www.law.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+lawfangzhen.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1755 IN A 202.120.88.21
+
+ldsd.ecnu.edu.cn. 3600 IN A 202.120.85.118
+
+ldsd.ecnu.edu.cn. 3599 IN A 202.120.85.118
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>libecnu.lib.ecnu.edu.cn
+
+encore.lib.ecnu.edu.cn. 950 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+encore.lib.ecnu.edu.cn. 949 IN A 202.120.82.43
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for encore.lib.ecnu.edu.cn<BR>www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+NXDOMAIN for www.encore.lib.ecnu.edu.cn
+
+libecnu.lib.ecnu.edu.cn. 3600 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+libecnu.lib.ecnu.edu.cn. 3599 IN A 202.120.82.40
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for libecnu.lib.ecnu.edu.cn<BR>www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+NXDOMAIN for www.libecnu.lib.ecnu.edu.cn
+
+m.lib.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1754 IN A 202.120.88.21
+
+www.lib.ecnu.edu.cn. 30 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1071 IN A 202.120.88.21
+
+www.xstb.lib.ecnu.edu.cn. 379 IN A 202.120.82.104
+
+www.library.ecnu.edu.cn. 3600 IN A 202.120.82.56
+
+life.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+life.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+life.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+liwa.ecnu.edu.cn. 3600 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+liwa.ecnu.edu.cn. 3599 IN A 202.120.80.1
+
+www.lps.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+lsc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+lxs.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+lxs.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+lxs.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+lxsapply.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+lxsapply.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+lxsapply.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+mail.ecnu.edu.cn. 2519 IN A 202.120.83.83
+
+mail.ecnu.edu.cn. 2518 IN A 202.120.83.83
+
+mail.ecnu.edu.cn. 2518 IN A 202.120.83.83
+
+mailscan.ecnu.edu.cn. 3600 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailscan.ecnu.edu.cn. 3599 IN A 202.120.88.73
+
+mailtest.ecnu.edu.cn. 3600 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+mailtest.ecnu.edu.cn. 3599 IN A 202.120.88.98
+
+map.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3593 IN A 202.120.88.60
+
+math.ecnu.edu.cn. 3600 IN A 202.120.88.21
+
+math.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+math.ecnu.edu.cn. 3599 IN A 202.120.88.21
+
+emis.math.ecnu.edu.cn. 3600 IN A 222.204.244.244
+
+euler.math.ecnu.edu.cn. 3600 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+euler.math.ecnu.edu.cn. 3599 IN A 222.204.244.240
+
+wims.math.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+wims.math.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+wims.math.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+www.math.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+www.mathlabo.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+www.mba.ecnu.edu.cn. 2221 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 2220 IN A 202.120.92.25
+
+mbamanage.ecnu.edu.cn. 2393 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2393 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbascore.ecnu.edu.cn. 2392 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2392 IN A 202.120.88.21
+
+mbazs.ecnu.edu.cn. 2849 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2393 IN A 202.120.88.21
+
+egateway.mettc.ecnu.edu.cn. 3600 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+egateway.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.242
+
+emg.mettc.ecnu.edu.cn. 3600 IN A 202.120.94.242
+
+webmail.mettc.ecnu.edu.cn. 3600 IN A 202.120.94.220
+
+webmail.mettc.ecnu.edu.cn. 3599 IN A 202.120.94.220
+
+mfa.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+mip.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+mks.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+moon.ecnu.edu.cn. 3600 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+moon.ecnu.edu.cn. 3599 IN A 202.120.80.2
+
+www.mpa.ecnu.edu.cn. 1350 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 59 IN A 202.120.92.25
+
+www.mtdd.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1880 IN A 202.120.92.25
+
+museum.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+music.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3590 IN A 202.120.92.25
+
+mxcer.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+mxcsy.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+mxcsy.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+mxcsy.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1753 IN A 202.120.88.21
+
+www.netcourse.ecnu.edu.cn. 3600 IN A 202.120.83.108
+
+www.netlab.ecnu.edu.cn. 3600 IN CNAME newweb2.ecnu.edu.cn.
+newweb2.ecnu.edu.cn. 3599 IN A 202.120.83.108
+
+network-tools.ecnu.edu.cn. 3600 IN A 202.120.80.5
+
+news.ecnu.edu.cn. 775 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 114 IN A 202.120.88.27
+
+news.ecnu.edu.cn. 774 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 114 IN A 202.120.88.27
+
+news.ecnu.edu.cn. 774 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 114 IN A 202.120.88.27
+
+newweb2.ecnu.edu.cn. 3599 IN A 202.120.83.108
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for acs-iii.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for android-nic.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for avocent.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for chma.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cnavocent.nic.ecnu.edu.cn
+
+NXDOMAIN for oauthserverdemo.ecnu.edu.cnvc.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cnxd.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for david.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for dcr6y61x.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnu-tuanwei.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for ecnuyjsy.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for editor.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for elearning.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for ex.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for exmail.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for fkshen.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for head.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for hp-dl160-1.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for lenovo-jwh7ah6e.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for liu4.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for lliu.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for mom.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for msmail.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicpub.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for nicstorage.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for oracle.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for ouyang.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for panda.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+NXDOMAIN for pchang.nic.ecnu.edu.cn
+
+pengwei.nic.ecnu.edu.cn. 3600 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pengwei.nic.ecnu.edu.cn. 3599 IN A 202.120.80.91
+
+pserver.nic.ecnu.edu.cn. 3600 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+pserver.nic.ecnu.edu.cn. 3599 IN A 202.120.80.242
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for robert.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for sakai.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for stat.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for storage.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-8z7v82x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for svctag-brrrx2x.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vc-5.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for vcs.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for web-new-137.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for webs-ii.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for wi.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for win-4r48emf8s42.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for www-e47b318b9c2.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xd.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xenapp.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for xzhou.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-server.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for yjsy-www.nic.ecnu.edu.cn
+
+NXDOMAIN for cs.nic.ecnu.edu.cnecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+NXDOMAIN for ecnu-4c9d0d15ff.nicpm.ecnu.edu.cn
+
+www.niepr.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+nm.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+nmr.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+www.ntcssp.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+oauthserverdemo.ecnu.edu.cn. 3600 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+oauthserverdemo.ecnu.edu.cn. 3599 IN A 202.120.85.162
+
+old.ecnu.edu.cn. 3600 IN A 202.120.85.10
+
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pan.ecnu.edu.cn. 3600 IN CNAME nrhttps.ecnu.edu.cn.
+nrhttps.ecnu.edu.cn. 3599 IN A 202.120.92.22
+
+pay.ecnu.edu.cn. 2513 IN A 202.120.83.170
+
+www.pde.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+pec.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+peclub.ecnu.edu.cn. 743 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 999 IN A 202.120.88.21
+
+peclub.ecnu.edu.cn. 742 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 999 IN A 202.120.88.21
+
+peclub.ecnu.edu.cn. 742 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 999 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pehdc.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+www.philo.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+phy.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+phy.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+phy.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+platform.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+pols.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+www.poppsy.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1750 IN A 202.120.88.21
+
+portal.ecnu.edu.cn. 3422 IN A 202.120.83.83
+
+portal.ecnu.edu.cn. 3421 IN A 202.120.83.83
+
+portal.ecnu.edu.cn. 3421 IN A 202.120.83.83
+
+portal1.ecnu.edu.cn. 2019 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+portal1.ecnu.edu.cn. 2018 IN A 202.120.80.157
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+NXDOMAIN for portal2.ecnu.edu.cn
+
+postdoctor.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3587 IN A 202.120.92.25
+
+www.pri.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2389 IN A 202.120.88.21
+
+aaa.proxy.ecnu.edu.cn. 3600 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+aaa.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3600 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+idc.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3600 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3600 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+portal1.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3600 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+webproxy.proxy.ecnu.edu.cn. 3599 IN CNAME wrd-proxy.ecnu.edu.cn.
+wrd-proxy.ecnu.edu.cn. 3599 IN A 202.120.80.63
+
+psy.ecnu.edu.cn. 60 IN A 202.120.92.25
+
+psy.ecnu.edu.cn. 59 IN A 202.120.92.25
+
+psy.ecnu.edu.cn. 59 IN A 202.120.92.25
+
+psy-booking.ecnu.edu.cn. 2962 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2388 IN A 202.120.88.21
+
+psylab.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2388 IN A 202.120.88.21
+
+qikan.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+www.qinzhu.ecnu.edu.cn. 2248 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1050 IN A 202.120.88.21
+
+qzlx.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3586 IN A 202.120.92.25
+
+radio.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3586 IN A 202.120.92.25
+
+www.rcewcc.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3587 IN A 202.120.83.120
+
+report.ecnu.edu.cn. 3600 IN A 202.120.83.195
+
+ru.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+ru.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+ru.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+rus.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+rus.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+rus.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+rus-ru.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1749 IN A 202.120.88.23
+
+ru.rus.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+www.rwxy.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3587 IN A 202.120.83.120
+
+saias.ecnu.edu.cn. 3600 IN A 202.120.88.23
+
+www.saias.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+sbc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3586 IN A 202.120.92.25
+
+sbg.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+sbg.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+sbg.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+www.schools.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+NXDOMAIN for ll.lliu.sd.ecnu.edu.cn
+
+www.sees.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2388 IN A 202.120.88.21
+
+www.seeslab.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3586 IN A 202.120.92.25
+
+sei.ecnu.edu.cn. 3600 IN A 202.120.88.23
+
+research.sei.ecnu.edu.cn. 3600 IN A 222.73.57.3
+
+www.robotics.sei.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+www.sei.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1749 IN A 202.120.88.21
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+NXDOMAIN for server.ecnu.edu.cn
+
+www.ses.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3586 IN A 202.120.92.25
+
+www.sfsold.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3587 IN A 202.120.83.120
+
+www.shenji.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3586 IN A 202.120.92.25
+
+www.shgxda.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2388 IN A 202.120.88.21
+
+shib-oauth-gateway.ecnu.edu.cn. 3600 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shib-oauth-gateway.ecnu.edu.cn. 3599 IN A 202.120.92.13
+
+shttps.ecnu.edu.cn. 3600 IN A 202.120.92.23
+
+www.shues.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 2215 IN A 202.120.92.25
+
+si-mian.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+sie.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+sino-eco30th.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+NXDOMAIN for www.sist.ecnu.edu.cn
+
+NXDOMAIN for www.sist.ecnu.edu.cn
+
+NXDOMAIN for www.sist.ecnu.edu.cn
+
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+sjdlyj.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1748 IN A 202.120.88.23
+
+www.skc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+sklec.ecnu.edu.cn. 3600 IN A 202.120.85.55
+
+sklec.ecnu.edu.cn. 3599 IN A 202.120.85.55
+
+sklec.ecnu.edu.cn. 3599 IN A 202.120.85.55
+
+english.sklec.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1748 IN A 202.120.88.21
+
+ky.sklec.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1748 IN A 202.120.88.21
+
+www.sklec.ecnu.edu.cn. 431 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+www.sklec.ecnu.edu.cn. 430 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+www.sklec.ecnu.edu.cn. 430 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+skmail.ecnu.edu.cn. 3600 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+skmail.ecnu.edu.cn. 3599 IN A 202.120.83.38
+
+www.slp.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+smail.ecnu.edu.cn. 3600 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+smail.ecnu.edu.cn. 3599 IN A 202.120.88.77
+
+www.smile.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+english.soci.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+www.soci.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+oa.sole.ecnu.edu.cn. 2744 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+oa.sole.ecnu.edu.cn. 2743 IN A 202.120.94.246
+
+www.sole.ecnu.edu.cn. 3041 IN A 202.120.94.236
+
+sp6.ecnu.edu.cn. 3600 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+sp6.ecnu.edu.cn. 3599 IN A 202.120.80.46
+
+spec-lab.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+spec-lab.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+spec-lab.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3585 IN A 202.120.92.25
+
+speedtest.ecnu.edu.cn. 3600 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+speedtest.ecnu.edu.cn. 3599 IN A 202.120.92.15
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+NXDOMAIN for speedtest6.ecnu.edu.cn
+
+srsp.ecnu.edu.cn. 3600 IN A 202.120.80.127
+
+srsp.ecnu.edu.cn. 3599 IN A 202.120.80.127
+
+ssc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+ssdc.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+www.sse.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3585 IN A 202.120.83.120
+
+www.start.ecnu.edu.cn. 3600 IN CNAME aspnetyi.ecnu.edu.cn.
+aspnetyi.ecnu.edu.cn. 3585 IN A 202.101.26.139
+
+stat.ecnu.edu.cn. 3600 IN A 202.120.92.25
+
+stat.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+stat.ecnu.edu.cn. 3599 IN A 202.120.92.25
+
+www.stc.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+mail.stu.ecnu.edu.cn. 1749 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+mail.stu.ecnu.edu.cn. 1748 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 29 IN A 58.251.81.43
+ssl.exmail.qq.com. 29 IN A 58.250.136.39
+
+studentcommons.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+stumailscan.ecnu.edu.cn. 3600 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+stumailscan.ecnu.edu.cn. 3599 IN A 202.120.88.72
+
+sun.ecnu.edu.cn. 3600 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+sun.ecnu.edu.cn. 3599 IN A 202.120.81.2
+
+swxjx.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+swxjx.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+swxjx.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+sxjx.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+sxzzkyj.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+szrc.ecnu.edu.cn. 3600 IN A 202.101.26.139
+
+www.tclab.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+www.tclab.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+www.tclab.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+www.teachlanguage.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+tgb.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+tiantong.ecnu.edu.cn. 3599 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1064 IN A 202.120.88.21
+
+tiantong.ecnu.edu.cn. 3598 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1064 IN A 202.120.88.21
+
+treasury.ecnu.edu.cn. 1663 IN A 202.120.81.94
+
+www.trustiot.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+tsla.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+tsla.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+tsla.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1747 IN A 202.120.88.23
+
+tv.ecnu.edu.cn. 1241 IN A 202.120.83.27
+
+www.tyxx.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+www.tyxx.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+www.tyxx.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+tzb.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+www.u-office.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+ubc.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+www.urban.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3584 IN A 202.120.92.25
+
+utcsol.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+NXDOMAIN for tiantong.ecnu.edu.cndc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc01.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+NXDOMAIN for dc02.v.ecnu.edu.cn
+
+www.vae.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+ad.vcloud.ecnu.edu.cn. 3600 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+ad.vcloud.ecnu.edu.cn. 3599 IN A 202.120.83.123
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for view.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-1.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-2.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+NXDOMAIN for xp-3.vcloud.ecnu.edu.cn
+
+vpn-cn.ecnu.edu.cn. 988 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-cn.ecnu.edu.cn. 987 IN A 202.120.88.160
+
+vpn-ct.ecnu.edu.cn. 2041 IN A 222.66.117.106
+
+vpn-ct.ecnu.edu.cn. 2040 IN A 222.66.117.106
+
+waf.ecnu.edu.cn. 3587 IN A 202.120.88.60
+
+wayf6.ecnu.edu.cn. 3600 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+wayf6.ecnu.edu.cn. 3599 IN CNAME cngi6.ecnu.edu.cn.
+cngi6.ecnu.edu.cn. 3590 IN A 202.120.80.49
+
+webgis.ecnu.edu.cn. 3600 IN A 49.52.29.252
+
+webgis.ecnu.edu.cn. 3599 IN A 49.52.29.252
+
+webmail.ecnu.edu.cn. 3600 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail.ecnu.edu.cn. 3599 IN A 202.120.88.78
+
+webmail1.ecnu.edu.cn. 3600 IN A 202.101.26.134
+webmail1.ecnu.edu.cn. 3600 IN A 202.120.88.76
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+webmail1.ecnu.edu.cn. 3599 IN A 202.120.88.76
+webmail1.ecnu.edu.cn. 3599 IN A 202.101.26.134
+
+wenzi.ecnu.edu.cn. 3036 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 29 IN A 202.120.88.23
+
+www.whblab.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1747 IN A 202.120.88.21
+
+wmzx.ecnu.edu.cn. 3600 IN CNAME imsite.ecnu.edu.cn.
+imsite.ecnu.edu.cn. 3588 IN A 202.120.92.25
+
+wrd-proxy.ecnu.edu.cn. 3597 IN A 202.120.80.63
+
+www.ecnu.edu.cn. 983 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www.ecnu.edu.cn. 982 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 982 IN A 202.120.88.27
+
+www2.ecnu.edu.cn. 3600 IN A 192.168.65.66
+
+www2.ecnu.edu.cn. 3599 IN A 192.168.65.66
+
+www3.ecnu.edu.cn. 3600 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+www3.ecnu.edu.cn. 3599 IN A 202.120.80.6
+
+x-sentinels.ecnu.edu.cn. 3600 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+x-sentinels.ecnu.edu.cn. 3599 IN A 202.120.83.82
+
+www.xb.ecnu.edu.cn. 108 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 59 IN A 202.120.88.21
+
+xbjk.ecnu.edu.cn. 108 IN CNAME hillstone.ecnu.edu.cn.
+hillstone.ecnu.edu.cn. 107 IN A 202.120.92.50
+
+xbjk.ecnu.edu.cn. 107 IN CNAME hillstone.ecnu.edu.cn.
+hillstone.ecnu.edu.cn. 107 IN A 202.120.92.50
+
+xbjk.ecnu.edu.cn. 107 IN CNAME hillstone.ecnu.edu.cn.
+hillstone.ecnu.edu.cn. 107 IN A 202.120.92.50
+
+xblk.ecnu.edu.cn. 3600 IN A 202.101.26.143
+
+xblk.ecnu.edu.cn. 3599 IN A 202.101.26.143
+
+xblk.ecnu.edu.cn. 3599 IN A 202.101.26.143
+
+xbzs.ecnu.edu.cn. 107 IN A 202.101.26.143
+
+xbzs.ecnu.edu.cn. 106 IN A 202.101.26.143
+
+xbzs.ecnu.edu.cn. 106 IN A 202.101.26.143
+
+xcb.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1874 IN A 202.120.92.25
+
+www.xgb.ecnu.edu.cn. 1663 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1380 IN A 202.120.88.21
+
+xiayu.ecnu.edu.cn. 3600 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+xiayu.ecnu.edu.cn. 3599 IN A 202.120.80.67
+
+www.xjcjy.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2386 IN A 202.120.88.21
+
+www.xkb.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1874 IN A 202.120.92.25
+
+xlzx.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1874 IN A 202.120.92.25
+
+xlzx.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1874 IN A 202.120.92.25
+
+xlzx.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1874 IN A 202.120.92.25
+
+www.xqzzyjzx.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1874 IN A 202.120.92.25
+
+xs.ecnu.edu.cn. 30 IN A 202.120.83.76
+
+www.xsgzb.ecnu.edu.cn. 3066 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1400 IN A 202.120.92.25
+
+xxgk.ecnu.edu.cn. 1319 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 255 IN A 202.120.88.21
+
+xxl.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3583 IN A 202.120.92.25
+
+xxl.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3583 IN A 202.120.92.25
+
+xxl.ecnu.edu.cn. 3599 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3583 IN A 202.120.92.25
+
+www.yerows.ecnu.edu.cn. 3598 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 256 IN A 202.120.88.21
+
+yhlin.ecnu.edu.cn. 3600 IN A 202.101.26.25
+
+yhlin.ecnu.edu.cn. 3599 IN A 202.101.26.25
+
+yingtao.ecnu.edu.cn. 3600 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+yingtao.ecnu.edu.cn. 3599 IN A 202.120.80.111
+
+pyxx.yjsy.ecnu.edu.cn. 3600 IN CNAME waf.ecnu.edu.cn.
+waf.ecnu.edu.cn. 3586 IN A 202.120.88.60
+
+www.yjsy.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3583 IN A 202.120.92.25
+
+xwxt.yjsy.ecnu.edu.cn. 2386 IN CNAME imoutside.ecnu.edu.cn.
+imoutside.ecnu.edu.cn. 308 IN A 202.120.88.22
+
+zsxx.yjsy.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1746 IN A 202.120.88.21
+
+yjszs.ecnu.edu.cn. 2985 IN CNAME hillstone.ecnu.edu.cn.
+hillstone.ecnu.edu.cn. 2984 IN A 202.120.92.50
+
+yjszs.ecnu.edu.cn. 2984 IN CNAME hillstone.ecnu.edu.cn.
+hillstone.ecnu.edu.cn. 2984 IN A 202.120.92.50
+
+yjszs.ecnu.edu.cn. 2984 IN CNAME hillstone.ecnu.edu.cn.
+hillstone.ecnu.edu.cn. 2984 IN A 202.120.92.50
+
+yjszs-bs.ecnu.edu.cn. 3600 IN CNAME yjszs-new-site.ecnu.edu.cn.
+yjszs-new-site.ecnu.edu.cn. 3366 IN A 202.120.92.133
+
+yjszs-new-site.ecnu.edu.cn. 3366 IN A 202.120.92.133
+
+yjszs-ss.ecnu.edu.cn. 2053 IN CNAME yjszs-new-site.ecnu.edu.cn.
+yjszs-new-site.ecnu.edu.cn. 59 IN A 202.120.92.133
+
+www.yjszs.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1746 IN A 202.120.88.21
+
+youth.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3583 IN A 202.120.92.25
+
+www.youth.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 3583 IN A 202.120.92.25
+
+www.ypzx.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1746 IN A 202.120.88.21
+
+yqgx.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1746 IN A 202.120.88.23
+
+www.yqgx.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2385 IN A 202.120.88.21
+
+ysyjs.ecnu.edu.cn. 3600 IN A 202.101.26.139
+
+yuanxi.ecnu.edu.cn. 3584 IN A 202.120.83.120
+
+yuanxi.ecnu.edu.cn. 3584 IN A 202.120.83.120
+
+yuanxi.ecnu.edu.cn. 3584 IN A 202.120.83.120
+
+www.zab.ecnu.edu.cn. 2742 IN A 202.120.92.20
+
+www.zab.ecnu.edu.cn. 2741 IN A 202.120.92.20
+
+www.zab.ecnu.edu.cn. 2741 IN A 202.120.92.20
+
+www.zcb.ecnu.edu.cn. 1452 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 29 IN A 202.120.92.25
+
+zhongwenzixiu.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1746 IN A 202.120.88.23
+
+zhoubian.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1746 IN A 202.120.88.23
+
+zhoubian.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1746 IN A 202.120.88.23
+
+zhoubian.ecnu.edu.cn. 3599 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1746 IN A 202.120.88.23
+
+www.zhuli.ecnu.edu.cn. 3600 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1873 IN A 202.120.92.25
+
+www.zhwx.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1746 IN A 202.120.88.21
+
+zhwxold.ecnu.edu.cn. 3600 IN CNAME yuanxi.ecnu.edu.cn.
+yuanxi.ecnu.edu.cn. 3584 IN A 202.120.83.120
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+NXDOMAIN for zimbrademo.ecnu.edu.cn
+
+zizhu.ecnu.edu.cn. 3600 IN CNAME https.ecnu.edu.cn.
+https.ecnu.edu.cn. 1746 IN A 202.120.88.23
+
+www.zizhu.ecnu.edu.cn. 3600 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 2385 IN A 202.120.88.21
+
+zsb.ecnu.edu.cn. 2302 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 968 IN A 202.120.88.27
+
+zsb.ecnu.edu.cn. 2301 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 968 IN A 202.120.88.27
+
+zsb.ecnu.edu.cn. 2301 IN CNAME imhttps.ecnu.edu.cn.
+imhttps.ecnu.edu.cn. 968 IN A 202.120.88.27
+
+www.zsb.ecnu.edu.cn. 2705 IN CNAME outside.ecnu.edu.cn.
+outside.ecnu.edu.cn. 1746 IN A 202.120.88.21
+
+zzb.ecnu.edu.cn. 2975 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1873 IN A 202.120.92.25
+
+zzb.ecnu.edu.cn. 2974 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1873 IN A 202.120.92.25
+
+zzb.ecnu.edu.cn. 2974 IN CNAME site.ecnu.edu.cn.
+site.ecnu.edu.cn. 1873 IN A 202.120.92.25
+

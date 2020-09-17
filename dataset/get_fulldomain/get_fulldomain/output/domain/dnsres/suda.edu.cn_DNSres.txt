@@ -1,0 +1,1988 @@
+lilab.jysw.suda.edu.cnkms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 0 IN A 220.250.64.225
+
+kms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 0 IN A 220.250.64.225
+
+kms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 60 IN A 220.250.64.225
+
+kms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 59 IN A 220.250.64.225
+
+kms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 59 IN A 220.250.64.225
+
+kms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 59 IN A 220.250.64.225
+
+kms.suda.edu.cn<BR>nmm.suda.edu.cn<BR>smartapp.suda.edu.cn<BR>suda.edu.cn. 59 IN A 220.250.64.225
+
+0042-reverse-proxy.suda.edu.cn. 1888 IN A 218.4.189.10
+
+0641-reverse-proxy.suda.edu.cn. 2313 IN A 218.4.189.4
+
+0642-reverse-proxy.suda.edu.cn. 3376 IN A 218.4.189.10
+
+1d.suda.edu.cn. 0 IN A 220.250.64.225
+
+a.suda.edu.cn. 0 IN A 220.250.64.225
+
+ac.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+ada.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+ada.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+aff.suda.edu.cn. 1105 IN CNAME 0042-reverse-proxy.suda.edu.cn.
+0042-reverse-proxy.suda.edu.cn. 1104 IN A 218.4.189.10
+
+aff.suda.edu.cn. 1104 IN CNAME 0042-reverse-proxy.suda.edu.cn.
+0042-reverse-proxy.suda.edu.cn. 1104 IN A 218.4.189.10
+
+mail.alu.suda.edu.cn. 3600 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1210 IN A 123.58.177.239
+
+alumni.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+aot.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+app.suda.edu.cn. 1865 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+app.suda.edu.cn. 1864 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+app2.suda.edu.cn. 0 IN A 220.250.64.225
+
+appconsole.suda.edu.cn. 0 IN A 220.250.64.225
+
+appt.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+appxiaosu.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+appxiaosu.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.10
+
+aproxy4.suda.edu.cn. 0 IN A 220.250.64.225
+
+aproxy5.suda.edu.cn. 3600 IN A 221.6.92.202
+
+arch.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+archives.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+audit.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+auth.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+bioinformatics.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+biolab.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+bkbylw.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+bmp.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+bsh.suda.edu.cn. 2312 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 2311 IN A 218.4.189.4
+
+bwc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+bwcx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+c.suda.edu.cn. 0 IN A 220.250.64.225
+
+c.suda.edu.cn. 60 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+c.suda.edu.cn. 59 IN A 220.250.64.225
+
+cadd.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+card.suda.edu.cn. 0 IN A 220.250.64.225
+
+card.suda.edu.cn. 60 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+card.suda.edu.cn. 59 IN A 220.250.64.225
+
+cgpt.suda.edu.cn. 3600 IN CNAME 0042-reverse-proxy.suda.edu.cn.
+0042-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2915 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chemistry.suda.edu.cn. 2914 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2277 IN A 218.4.189.10
+
+chinasemiotics.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+cich.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+cicrm.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+ciptlab.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.10
+
+cjjiaoxuems.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 2311 IN A 218.4.189.4
+
+cjlr.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+cjstudyms.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+cjy.suda.edu.cn. 0 IN A 220.250.64.225
+
+ckc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.10
+
+ckcsys.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+ckcsys.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+u.suda.edu.cnns1.cloud.suda.edu.cn. 0 IN A 220.250.64.225
+
+ns1.cloud.suda.edu.cn. 3600 IN A 202.195.128.10
+
+ns2.cloud.suda.edu.cn. 3600 IN A 202.195.128.16
+
+clsers.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.10
+
+suda.edu.cn<BR>www.suda.edu.cn. 0 IN A 220.250.64.225
+
+suda.edu.cn<BR>www.suda.edu.cn. 60 IN A 220.250.64.225
+
+suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 0 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 60 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+a.suda.edu.cn<BR>my.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 0 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 60 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.suda.edu.cn. 59 IN A 220.250.64.225
+
+rczp.suda.edu.cnbmp.suda.edu.cn. 0 IN A 220.250.64.225
+
+pac.suda.edu.cncard.suda.edu.cn. 0 IN A 220.250.64.225
+
+speed.suda.edu.cnspeedtest.suda.edu.cn. 0 IN A 220.250.64.225
+
+support.suda.edu.cnu.suda.edu.cn. 0 IN A 220.250.64.225
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cnv.suda.edu.cn. 0 IN A 220.250.64.225
+
+webservice.suda.edu.cnxk.suda.edu.cn. 0 IN A 220.250.64.225
+
+cps.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+cssus.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+csteaching.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+ctmi.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+cusg.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+cwc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+cxcyzx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+cxcyzx.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+dangxiao.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+db.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2307 IN A 218.4.189.10
+
+disciplinfo.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 944 IN A 218.4.189.10
+
+disk.suda.edu.cn. 3600 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+disk.suda.edu.cn. 3599 IN A 222.92.189.40
+
+djpt.suda.edu.cn. 3600 IN CNAME aproxy5.suda.edu.cn.
+aproxy5.suda.edu.cn. 3599 IN A 221.6.92.202
+
+dorm.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+dsh.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+dwshy.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+dwshy.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+dwzx.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+dxyqgl.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+dxyqglxt.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+dzxx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2306 IN A 218.4.189.10
+
+ecs.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+ecs.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+energy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2306 IN A 218.4.189.10
+
+catalysis.energy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2305 IN A 218.4.189.10
+
+siemis3c.energy.suda.edu.cn. 3600 IN CNAME aproxy5.suda.edu.cn.
+aproxy5.suda.edu.cn. 3597 IN A 221.6.92.202
+
+eng.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+eng.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+eng.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+eng.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+eos.suda.edu.cn. 2047 IN CNAME 0042-reverse-proxy.suda.edu.cn.
+0042-reverse-proxy.suda.edu.cn. 2046 IN A 218.4.189.10
+
+fineng.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2305 IN A 218.4.189.10
+
+forensic.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2305 IN A 218.4.189.10
+
+freshman.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+fscx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2304 IN A 218.4.189.10
+
+funsom.suda.edu.cn. 943 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+funsom.suda.edu.cn. 942 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+fxcs.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+fyxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+fyxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+old.fyxy.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3596 IN A 218.4.189.4
+
+fzb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2304 IN A 218.4.189.10
+
+zc.fzb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+gh.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+gkyjs.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+green.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+gwxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2304 IN A 218.4.189.10
+
+gwxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2304 IN A 218.4.189.10
+
+gysk.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3596 IN A 218.4.189.4
+
+gzc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+gzc.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+gzc-old.suda.edu.cn. 0 IN A 220.250.64.225
+
+zcpt.gzc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2304 IN A 218.4.189.10
+
+heaven.suda.edu.cn. 3600 IN A 218.4.189.10
+
+hep.suda.edu.cn. 3600 IN A 42.244.62.121
+
+hlt.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+hlt.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3599 IN A 218.4.189.4
+
+hlxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+hospital-admin.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 941 IN A 218.4.189.10
+
+hqglc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+hulab-ics.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3598 IN A 218.4.189.4
+
+hzb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+iai.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+ibms.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+ibms.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+ics.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+lilab.ics.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+ids1.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+imap.suda.edu.cn. 3600 IN CNAME imaphm.qiye.163.com.
+imaphm.qiye.163.com. 830 IN A 101.71.155.100
+
+imap.suda.edu.cn. 3599 IN CNAME imaphm.qiye.163.com.
+imaphm.qiye.163.com. 830 IN A 101.71.155.100
+
+imap.suda.edu.cn. 3599 IN CNAME imaphm.qiye.163.com.
+imaphm.qiye.163.com. 830 IN A 101.71.155.100
+
+info.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3595 IN A 218.4.189.4
+
+international.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+itcp.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3595 IN A 218.4.189.4
+
+its.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+its.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+jdxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+jdxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+jfsx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+jgdgw.suda.edu.cn. 986 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+jjs.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+jsgzb.suda.edu.cn. 2306 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+jskeylab.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2303 IN A 218.4.189.10
+
+jsyb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+jsyd.suda.edu.cn. 3600 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jsyd.suda.edu.cn. 3599 IN A 218.4.189.12
+
+jtxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+jtxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 940 IN A 218.4.189.10
+
+jwb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 939 IN A 218.4.189.10
+
+aiclass.jwb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 939 IN A 218.4.189.10
+
+jwoa.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3597 IN A 218.4.189.4
+
+jwsy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 939 IN A 218.4.189.10
+
+jxjy.suda.edu.cn. 600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 939 IN A 218.4.189.10
+
+jxjy.suda.edu.cn. 599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 939 IN A 218.4.189.10
+
+jxjy-online.suda.edu.cn. 3600 IN CNAME szdx.p.webtrn.cn.
+szdx.p.webtrn.cn. 599 IN A 221.122.122.15
+szdx.p.webtrn.cn. 599 IN A 221.122.122.11
+
+jxjy-online.suda.edu.cn. 3599 IN CNAME szdx.p.webtrn.cn.
+szdx.p.webtrn.cn. 600 IN A 221.122.122.11
+szdx.p.webtrn.cn. 600 IN A 221.122.122.15
+
+jxjycj.suda.edu.cn. 60 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2302 IN A 218.4.189.10
+
+jxjycj.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2302 IN A 218.4.189.10
+
+jxjylx.suda.edu.cn. 600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 939 IN A 218.4.189.10
+
+jxjypx.suda.edu.cn. 60 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+jxjyzk.suda.edu.cn. 600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+jxjyzs.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3596 IN A 218.4.189.4
+
+jysw.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 0 IN A 220.250.64.225
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 60 IN A 220.250.64.225
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 59 IN A 220.250.64.225
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 59 IN A 220.250.64.225
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 59 IN A 220.250.64.225
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 59 IN A 220.250.64.225
+
+lilab.jysw.suda.edu.cn<BR>www.lilab.jysw.suda.edu.cn. 59 IN A 220.250.64.225
+
+jyxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+jyxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+kczx.suda.edu.cn. 3600 IN A 42.244.42.191
+
+kczx.suda.edu.cn. 3599 IN A 42.244.42.191
+
+kczxdx.suda.edu.cn. 3600 IN A 218.4.189.11
+
+kms.suda.edu.cn. 3600 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+kms.suda.edu.cn. 3599 IN A 202.195.140.131
+
+ksbm.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3596 IN A 218.4.189.4
+
+labcenter.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+laowo.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+lass.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+law.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+library.suda.edu.cn. 1912 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2301 IN A 218.4.189.10
+
+library.suda.edu.cn. 1911 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2301 IN A 218.4.189.10
+
+library.suda.edu.cn. 1911 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2301 IN A 218.4.189.10
+
+library.suda.edu.cn. 1911 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2301 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+seat.library.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 938 IN A 218.4.189.10
+
+library1.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3595 IN A 218.4.189.4
+
+lmdc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 937 IN A 218.4.189.10
+
+ltc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 937 IN A 218.4.189.10
+
+mab.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 937 IN A 218.4.189.10
+
+macbio.suda.edu.cn. 60 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+mail.suda.edu.cn. 3600 IN A 123.58.177.239
+
+mail.suda.edu.cn. 3599 IN A 123.58.177.239
+
+map.suda.edu.cn. 3600 IN A 42.244.8.13
+
+mapp.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 936 IN A 218.4.189.10
+
+marxism.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+marxism.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2300 IN A 218.4.189.10
+
+math.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+mathsqxx.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3591 IN A 218.4.189.4
+
+mcd.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+med-lab.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3591 IN A 218.4.189.4
+
+medical.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+medical.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+medical.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+medical.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cn. 0 IN A 220.250.64.225
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cn. 60 IN A 220.250.64.225
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cn. 59 IN A 220.250.64.225
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cn. 59 IN A 220.250.64.225
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cn. 59 IN A 220.250.64.225
+
+syzxjxpt.medical.suda.edu.cn<BR>syzxzhgl.medical.suda.edu.cn. 59 IN A 220.250.64.225
+
+isso.medical.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3591 IN A 218.4.189.4
+
+medicalyjs.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3591 IN A 218.4.189.4
+
+mids.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+mm.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3591 IN A 218.4.189.4
+
+mnews.suda.edu.cn. 1858 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+mot.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+mpa.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+msetc.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3591 IN A 218.4.189.4
+
+msg.suda.edu.cn. 3600 IN A 42.244.8.129
+
+museum.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+music.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+mvl.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2299 IN A 218.4.189.10
+
+my.suda.edu.cn. 60 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+my.suda.edu.cn. 59 IN A 42.244.8.70
+
+myauth.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+nano.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+lab.nano.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2298 IN A 218.4.189.10
+
+nano1.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+nano1.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+nanogh.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2297 IN A 218.4.189.10
+
+neser.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+neuroscience.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+nlp.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+nmail.suda.edu.cn. 0 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 0 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 60 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+nmm.suda.edu.cn. 59 IN A 220.250.64.225
+
+npc.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+ns4.suda.edu.cn. 3590 IN A 202.195.128.20
+
+ns5.suda.edu.cn. 3590 IN A 202.195.128.26
+
+nsad.suda.edu.cn. 3600 IN A 202.195.128.10
+
+oese.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2297 IN A 218.4.189.10
+
+opencourse.suda.edu.cn. 3600 IN A 42.244.43.160
+
+oversea.suda.edu.cn. 936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 935 IN A 218.4.189.10
+
+pac.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2297 IN A 218.4.189.10
+
+pay.suda.edu.cn. 1463 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+pharm.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2297 IN A 218.4.189.10
+
+pharm.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2297 IN A 218.4.189.10
+
+pharm-nanomed.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3592 IN A 218.4.189.4
+
+pharm-nanomed.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3592 IN A 218.4.189.4
+
+physics.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 934 IN A 218.4.189.10
+
+physics.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 934 IN A 218.4.189.10
+
+physicsteacher.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3592 IN A 218.4.189.4
+
+pop3.suda.edu.cn. 3600 IN CNAME pophm.qiye.163.com.
+pophm.qiye.163.com. 1355 IN A 101.71.155.100
+
+ppwechat.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2297 IN A 218.4.189.10
+
+ptmgd.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3588 IN A 218.4.189.4
+
+ptmgd.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3588 IN A 218.4.189.4
+
+pvsec.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+pvsec.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+qzdgw.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 933 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rczp.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+report.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 933 IN A 218.4.189.10
+
+rsc.suda.edu.cn. 2297 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rsc.suda.edu.cn. 2296 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rckf.rsc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2296 IN A 218.4.189.10
+
+rsczp.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+sc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+scit.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+scit.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+scm.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3590 IN A 218.4.189.4
+
+scst.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+scst.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+cbd2019.scst.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3590 IN A 218.4.189.4
+
+sdgcxl.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+sdh.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+sdkjy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+sdkjy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+sdttc.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+sfl.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+shpg.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+shxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+shxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+siemis.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+sit.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3590 IN A 218.4.189.4
+
+sit.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3590 IN A 218.4.189.4
+
+sit2012.suda.edu.cn. 0 IN A 220.250.64.225
+
+skc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2295 IN A 218.4.189.10
+
+sklrmp.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 932 IN A 218.4.189.10
+
+smartapp.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+smartapp.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+speed.suda.edu.cn. 0 IN A 220.250.64.225
+
+speed.suda.edu.cn. 60 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speed.suda.edu.cn. 59 IN A 220.250.64.225
+
+speedtest.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+speedtest.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+ssis.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+ssl.suda.edu.cn. 0 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 60 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+ssl.suda.edu.cn. 59 IN A 220.250.64.225
+
+mail.stu.suda.edu.cn. 3600 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 311 IN A 123.58.177.239
+
+sudiim.suda.edu.cn. 3600 IN A 42.244.8.131
+
+sumcu.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+sumcu.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+sun-win.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+support.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+support.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+sutt.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3589 IN A 218.4.189.4
+
+swc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+sxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+sxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+sydw.suda.edu.cn. 0 IN A 220.250.64.225
+
+sylc.suda.edu.cn. 3600 IN A 42.244.34.21
+
+sysbio.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 931 IN A 218.4.189.10
+
+sysjzx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2294 IN A 218.4.189.10
+
+szdxrwb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2294 IN A 218.4.189.10
+
+szdxyy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 930 IN A 218.4.189.10
+
+szdxyy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 930 IN A 218.4.189.10
+
+tangcenter.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3588 IN A 218.4.189.4
+
+tcxfl.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 930 IN A 218.4.189.10
+
+tec.suda.edu.cn. 60 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tec.suda.edu.cn. 59 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+tecerp.suda.edu.cn. 3600 IN A 210.28.65.155
+
+tecj.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecj.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tecxsc.suda.edu.cn. 3600 IN CNAME aproxy5.suda.edu.cn.
+aproxy5.suda.edu.cn. 3587 IN A 221.6.92.202
+
+texlab.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+textile.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+textile.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+twzsy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+tyxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+jsggw.tyxy.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+tzb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 929 IN A 218.4.189.10
+
+u.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+u.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+ucenter.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3587 IN A 218.4.189.4
+
+v.suda.edu.cn. 3600 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+v.suda.edu.cn. 3599 IN A 42.244.43.160
+
+vpn.suda.edu.cn. 3600 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn. 3599 IN A 221.224.34.184
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 0 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 60 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn.suda.edu.cn<BR>www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 0 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 60 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+www.vpn.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn1.suda.edu.cn. 60 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn. 59 IN A 218.4.189.18
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 0 IN A 220.250.64.225
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 60 IN A 220.250.64.225
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn1.suda.edu.cn<BR>www.vpn1.suda.edu.cn. 59 IN A 220.250.64.225
+
+vpn2.suda.edu.cn. 3600 IN A 221.224.34.184
+
+vpnhome.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+vstream1.suda.edu.cn. 3600 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+vstream1.suda.edu.cn. 3599 IN A 42.244.43.162
+
+web.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+web.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+webservice.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservice.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webservicehttps.suda.edu.cn. 3599 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+webvpn.suda.edu.cn. 3600 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+webvpn.suda.edu.cn. 3599 IN A 202.195.140.180
+
+weixin.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+welcome.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+wg.suda.edu.cn. 3600 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+wg.suda.edu.cn. 3599 IN A 202.195.128.5
+
+www.suda.edu.cn. 2937 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+www.suda.edu.cn. 2936 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 59 IN A 218.4.189.10
+
+wx.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3583 IN A 218.4.189.4
+
+wxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+xb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+xcb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+zsb.suda.edu.cnxmt.xcb.suda.edu.cn. 0 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 0 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 60 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xmt.xcb.suda.edu.cn. 59 IN A 220.250.64.225
+
+xdgx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 928 IN A 218.4.189.10
+
+xiyuan.suda.edu.cn. 3584 IN A 202.195.128.13
+
+xjzx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2291 IN A 218.4.189.10
+
+xk.suda.edu.cn. 3600 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xk.suda.edu.cn. 3599 IN A 218.4.189.12
+
+xlzx.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+xsc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+xscxjy.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+xsh.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+yanhui.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3585 IN A 218.4.189.4
+
+yey.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3585 IN A 218.4.189.4
+
+yhot.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+yjs.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 927 IN A 218.4.189.10
+
+yjs.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 927 IN A 218.4.189.10
+
+yjs.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 927 IN A 218.4.189.10
+
+yjs.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 927 IN A 218.4.189.10
+
+yjsgl.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+youth.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+yqgxion.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+ysxy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+ysxy.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+yxbfzb.suda.edu.cn. 0 IN A 220.250.64.225
+
+yxbxgb.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+yxsyzx.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+yxygxpt.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3582 IN A 218.4.189.4
+
+zbzx.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+zbzx.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+zdns.suda.edu.cn. 0 IN A 220.250.64.225
+
+zdns.suda.edu.cn. 60 IN A 220.250.64.225
+
+zdns.suda.edu.cn. 59 IN A 220.250.64.225
+
+zdns.suda.edu.cn. 59 IN A 220.250.64.225
+
+zdns.suda.edu.cn. 59 IN A 220.250.64.225
+
+zdns.suda.edu.cn. 59 IN A 220.250.64.225
+
+zdns.suda.edu.cn. 59 IN A 220.250.64.225
+
+zhhz.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2290 IN A 218.4.189.10
+
+zjc.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zjk.suda.edu.cn. 3600 IN CNAME 0641-reverse-proxy.suda.edu.cn.
+0641-reverse-proxy.suda.edu.cn. 3581 IN A 218.4.189.4
+
+zpeng.suda.edu.cn. 0 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 60 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zpeng.suda.edu.cn. 59 IN A 220.250.64.225
+
+zqsy.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3600 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zsb.suda.edu.cn. 3599 IN CNAME 0642-reverse-proxy.suda.edu.cn.
+0642-reverse-proxy.suda.edu.cn. 2289 IN A 218.4.189.10
+
+zxbm.suda.edu.cn. 0 IN A 220.250.64.225
+
+zxbm.suda.edu.cn. 60 IN A 220.250.64.225
+
+zxbm.suda.edu.cn. 59 IN A 220.250.64.225
+
+zxbm.suda.edu.cn. 59 IN A 220.250.64.225
+
+zxbm.suda.edu.cn. 59 IN A 220.250.64.225
+
+zxbm.suda.edu.cn. 59 IN A 220.250.64.225
+
+zxbm.suda.edu.cn. 59 IN A 220.250.64.225
+
+zyjxjy.suda.edu.cn. 3474 IN CNAME szdx-zy.p.webtrn.cn.
+szdx-zy.p.webtrn.cn. 471 IN A 221.122.122.15
+szdx-zy.p.webtrn.cn. 471 IN A 221.122.122.11
+
+zyjxjy.suda.edu.cn. 3473 IN CNAME szdx-zy.p.webtrn.cn.
+szdx-zy.p.webtrn.cn. 471 IN A 221.122.122.15
+szdx-zy.p.webtrn.cn. 471 IN A 221.122.122.11
+

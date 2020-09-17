@@ -1,0 +1,1790 @@
+bjtu.edu.cn. 3600 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+bjtu.edu.cn. 3599 IN A 202.112.154.197
+
+2011rts.bjtu.edu.cn. 3600 IN A 121.194.63.149
+
+aad.bjtu.edu.cn. 3600 IN A 211.71.64.146
+
+aad.bjtu.edu.cn. 3599 IN A 211.71.64.146
+
+aad.bjtu.edu.cn. 3599 IN A 211.71.64.146
+
+acm.bjtu.edu.cn. 3600 IN A 202.205.98.244
+
+activity.bjtu.edu.cn. 3600 IN A 121.194.63.65
+
+activity.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+activity.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+ahc.bjtu.edu.cn. 3600 IN A 121.194.62.60
+
+algo.bjtu.edu.cn. 3600 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+algo.bjtu.edu.cn. 3599 IN A 59.64.0.113
+
+alumni.bjtu.edu.cn. 3600 IN A 59.64.0.81
+
+aonkeylab.bjtu.edu.cn. 3600 IN A 202.112.145.28
+
+aonkeylab.bjtu.edu.cn. 3599 IN A 202.112.145.28
+
+aonkeylab.bjtu.edu.cn. 3599 IN A 202.112.145.28
+
+aonkeylab.bjtu.edu.cn. 3599 IN A 202.112.145.28
+
+aonkeylab.bjtu.edu.cn. 3599 IN A 202.112.145.28
+
+app.bjtu.edu.cn. 3600 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+app.bjtu.edu.cn. 3599 IN A 121.194.62.51
+
+apply.bjtu.edu.cn. 3600 IN A 121.194.63.65
+
+apply.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+apply.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+apply.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+apply.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+apply.bjtu.edu.cn. 3599 IN A 121.194.63.65
+
+archives.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+www.bcisr.bjtu.edu.cn. 3600 IN A 121.194.63.134
+
+bdatct.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+bfusc.bjtu.edu.cn. 3600 IN A 202.112.159.195
+
+bfusc.bjtu.edu.cn. 3599 IN A 202.112.159.195
+
+bfusc.bjtu.edu.cn. 3599 IN A 202.112.159.195
+
+bjctrans.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+bjctrans.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+bjctrans.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+bjcxcy.bjtu.edu.cn. 3600 IN A 202.112.159.223
+
+bjgxszzx.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+bjwlsyjs.bjtu.edu.cn. 3600 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+bjwlsyjs.bjtu.edu.cn. 3599 IN A 121.194.62.61
+
+blog.bjtu.edu.cn. 3600 IN A 202.112.154.51
+
+blog.bjtu.edu.cn. 3599 IN A 202.112.154.51
+
+blog.bjtu.edu.cn. 3599 IN A 202.112.154.51
+
+blog.bjtu.edu.cn. 3599 IN A 202.112.154.51
+
+blog.bjtu.edu.cn. 3599 IN A 202.112.154.51
+
+bwc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+bwc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+cabs.bjtu.edu.cn. 3600 IN A 211.71.68.240
+
+cas.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+cas.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+cas.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+cas.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+cas.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+cas.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+cas.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+case.bjtu.edu.cn. 3600 IN A 121.194.63.134
+
+case.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+case.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+cc.bjtu.edu.cn. 3600 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+cc.bjtu.edu.cn. 3599 IN A 123.121.146.242
+
+ccd.bjtu.edu.cn. 3600 IN A 59.64.0.114
+
+ccd.bjtu.edu.cn. 3599 IN A 59.64.0.114
+
+ccd.bjtu.edu.cn. 3599 IN A 59.64.0.114
+
+ccd.bjtu.edu.cn. 3599 IN A 59.64.0.114
+
+ccd.bjtu.edu.cn. 3599 IN A 59.64.0.114
+
+ccd.bjtu.edu.cn. 3599 IN A 59.64.0.114
+
+ccisrpostdoctor.bjtu.edu.cn. 3600 IN A 121.194.63.6
+
+ccisrpostdoctor.bjtu.edu.cn. 3599 IN A 121.194.63.6
+
+ccisrpostdoctor.bjtu.edu.cn. 3599 IN A 121.194.63.6
+
+ccisrpostdoctor.bjtu.edu.cn. 3599 IN A 121.194.63.6
+
+ccisrpostdoctor.bjtu.edu.cn. 3599 IN A 121.194.63.6
+
+cec.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+center.bjtu.edu.cn. 3600 IN A 218.249.29.198
+
+center.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+cfd.bjtu.edu.cn. 3600 IN A 202.112.154.199
+
+cfd.bjtu.edu.cn. 3599 IN A 202.112.154.199
+
+cfd.bjtu.edu.cn. 3599 IN A 202.112.154.199
+
+cfd.bjtu.edu.cn. 3599 IN A 202.112.154.199
+
+cfd.bjtu.edu.cn. 3599 IN A 202.112.154.199
+
+chinamerger.bjtu.edu.cn. 3600 IN A 59.64.3.115
+
+cie.bjtu.edu.cn. 3600 IN A 121.194.62.85
+
+cie.bjtu.edu.cn. 3599 IN A 121.194.62.85
+
+cie.bjtu.edu.cn. 3599 IN A 121.194.62.85
+
+cie.bjtu.edu.cn. 3599 IN A 121.194.62.85
+
+citel.bjtu.edu.cn. 3600 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+citel.bjtu.edu.cn. 3599 IN A 202.205.99.177
+
+civil.bjtu.edu.cn. 3600 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+civil.bjtu.edu.cn. 3599 IN A 59.64.0.169
+
+tunnlab.civil.bjtu.edu.cn. 3600 IN A 121.194.63.142
+
+cjsrc.bjtu.edu.cn. 3600 IN A 121.194.63.76
+
+cjsrc.bjtu.edu.cn. 3599 IN A 121.194.63.76
+
+cjsrc.bjtu.edu.cn. 3599 IN A 121.194.63.76
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+bjtu.edu.cn<BR>mail.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+planning.bjtu.edu.cnbjtu.edu.cn<BR>mail.bjtu.edu.cn. 0 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 0 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 60 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cn. 59 IN A 220.250.64.225
+
+weixin.bjtu.edu.cn<BR>wximg.bjtu.edu.cnalgo.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+zzzx.bjtu.edu.cnalgo.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+smg.bjtu.edu.cnaonkeylab.bjtu.edu.cn. 0 IN A 220.250.64.225
+
+sci.bjtu.edu.cncjsrc.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+jdzs.bjtu.edu.cngsadmission.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+iis.bjtu.edu.cnguoji.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+ucc.bjtu.edu.cnicir.bjtu.edu.cn. 0 IN A 220.250.64.225
+
+ucc.bjtu.edu.cnmis.bjtu.edu.cn. 0 IN A 220.250.64.225
+
+cnms.bjtu.edu.cn. 3600 IN A 202.112.154.96
+
+www.zhixing.bjtu.edu.cnrwng.bjtu.edu.cn. 0 IN A 220.250.64.225
+
+computer.bjtu.edu.cn. 3600 IN A 59.64.0.85
+
+computer.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+computer.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+computer.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+computer.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+cs.bjtu.edu.cn. 3600 IN A 59.64.0.85
+
+cy.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+cy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+cy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+cy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+cy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+cy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+dbxb.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+dctt.bjtu.edu.cn. 3600 IN A 202.112.148.64
+
+ddclo.bjtu.edu.cn. 3600 IN A 211.71.76.141
+
+dean.bjtu.edu.cn. 3600 IN A 121.194.57.145
+
+dean.bjtu.edu.cn. 3599 IN A 121.194.57.145
+
+dean.bjtu.edu.cn. 3599 IN A 121.194.57.145
+
+dean.bjtu.edu.cn. 3599 IN A 121.194.57.145
+
+dean.bjtu.edu.cn. 3599 IN A 121.194.57.145
+
+debian.bjtu.edu.cn. 3600 IN CNAME mirror.bjtu.edu.cn.
+mirror.bjtu.edu.cn. 3599 IN A 202.112.154.58
+
+debian.bjtu.edu.cn. 3599 IN CNAME mirror.bjtu.edu.cn.
+mirror.bjtu.edu.cn. 3599 IN A 202.112.154.58
+
+debian.bjtu.edu.cn. 3599 IN CNAME mirror.bjtu.edu.cn.
+mirror.bjtu.edu.cn. 3599 IN A 202.112.154.58
+
+debian.bjtu.edu.cn. 3599 IN CNAME mirror.bjtu.edu.cn.
+mirror.bjtu.edu.cn. 3599 IN A 202.112.154.58
+
+debian.bjtu.edu.cn. 3599 IN CNAME mirror.bjtu.edu.cn.
+mirror.bjtu.edu.cn. 3599 IN A 202.112.154.58
+
+debian.bjtu.edu.cn. 3599 IN CNAME mirror.bjtu.edu.cn.
+mirror.bjtu.edu.cn. 3599 IN A 202.112.154.58
+
+dis.bjtu.edu.cn. 3600 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dis.bjtu.edu.cn. 3599 IN A 202.112.157.151
+
+dispub.bjtu.edu.cn. 3600 IN A 202.112.157.145
+
+dispub.bjtu.edu.cn. 3599 IN A 202.112.157.145
+
+dispub.bjtu.edu.cn. 3599 IN A 202.112.157.145
+
+dispub.bjtu.edu.cn. 3599 IN A 202.112.157.145
+
+dispub.bjtu.edu.cn. 3599 IN A 202.112.157.145
+
+dispub.bjtu.edu.cn. 3599 IN A 202.112.157.145
+
+dispub.bjtu.edu.cn. 3599 IN A 202.112.157.145
+
+disstream.bjtu.edu.cn. 3600 IN A 202.112.157.135
+
+disstream.bjtu.edu.cn. 3599 IN A 202.112.157.135
+
+disstream.bjtu.edu.cn. 3599 IN A 202.112.157.135
+
+disstream.bjtu.edu.cn. 3599 IN A 202.112.157.135
+
+disstream.bjtu.edu.cn. 3599 IN A 202.112.157.135
+
+disstream.bjtu.edu.cn. 3599 IN A 202.112.157.135
+
+disstream.bjtu.edu.cn. 3599 IN A 202.112.157.135
+
+dwtzb.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+dzxyky.bjtu.edu.cn. 3600 IN A 59.64.3.141
+
+eaie.bjtu.edu.cn. 3600 IN A 202.112.154.97
+
+eaie.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+eaie.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+eaie.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+eaie.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+eaie.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+eaie.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+eaie1.bjtu.edu.cn. 3600 IN A 202.205.99.141
+
+eaie1.bjtu.edu.cn. 3599 IN A 202.205.99.141
+
+eaie1.bjtu.edu.cn. 3599 IN A 202.205.99.141
+
+eaie1.bjtu.edu.cn. 3599 IN A 202.205.99.141
+
+ecard.bjtu.edu.cn. 3600 IN A 172.16.100.56
+
+ecard.bjtu.edu.cn. 3599 IN A 172.16.100.56
+
+ecard.bjtu.edu.cn. 3599 IN A 172.16.100.56
+
+ecard.bjtu.edu.cn. 3599 IN A 172.16.100.56
+
+ecard.bjtu.edu.cn. 3599 IN A 172.16.100.56
+
+ecard.bjtu.edu.cn. 3599 IN A 172.16.100.56
+
+ee.bjtu.edu.cn. 3600 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+ee.bjtu.edu.cn. 3599 IN A 202.112.155.155
+
+eiv.bjtu.edu.cn. 3600 IN A 121.194.63.134
+
+emt.bjtu.edu.cn. 3600 IN A 202.205.98.165
+
+emt.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+emt.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+emt.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+emt.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+emt.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+emt.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+en.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+en.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+en.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+en.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+en.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+en.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+en.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+erglab.bjtu.edu.cn. 3600 IN A 59.64.0.68
+
+erglab.bjtu.edu.cn. 3599 IN A 59.64.0.68
+
+erglab.bjtu.edu.cn. 3599 IN A 59.64.0.68
+
+erglab.bjtu.edu.cn. 3599 IN A 59.64.0.68
+
+erglab.bjtu.edu.cn. 3599 IN A 59.64.0.68
+
+erglab.bjtu.edu.cn. 3599 IN A 59.64.0.68
+
+erglab.bjtu.edu.cn. 3599 IN A 59.64.0.68
+
+faculty.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+faculty.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+foundation.bjtu.edu.cn. 3600 IN A 59.64.0.81
+
+fzzlyghc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+ggw.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+gjcxcy.bjtu.edu.cn. 3600 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjcxcy.bjtu.edu.cn. 3599 IN A 202.112.159.223
+
+gjyx.bjtu.edu.cn. 3600 IN A 121.194.62.100
+
+gs.bjtu.edu.cn. 3600 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gs.bjtu.edu.cn. 3599 IN A 59.64.0.92
+
+gsadmission.bjtu.edu.cn. 3600 IN A 121.194.57.153
+
+gsadmission.bjtu.edu.cn. 3599 IN A 121.194.57.153
+
+gsadmission.bjtu.edu.cn. 3599 IN A 121.194.57.153
+
+gsadmission.bjtu.edu.cn. 3599 IN A 121.194.57.153
+
+gsdb.bjtu.edu.cn. 3600 IN A 121.194.57.151
+
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdegree.bjtu.edu.cn. 3600 IN CNAME gsdb.bjtu.edu.cn.
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdegree.bjtu.edu.cn. 3599 IN CNAME gsdb.bjtu.edu.cn.
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdegree.bjtu.edu.cn. 3599 IN CNAME gsdb.bjtu.edu.cn.
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdegree.bjtu.edu.cn. 3599 IN CNAME gsdb.bjtu.edu.cn.
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gsdegree.bjtu.edu.cn. 3599 IN CNAME gsdb.bjtu.edu.cn.
+gsdb.bjtu.edu.cn. 3599 IN A 121.194.57.151
+
+gspdb.bjtu.edu.cn. 3600 IN A 202.112.154.88
+
+gspdb.bjtu.edu.cn. 3599 IN A 202.112.154.88
+
+gspdb.bjtu.edu.cn. 3599 IN A 202.112.154.88
+
+gspdb.bjtu.edu.cn. 3599 IN A 202.112.154.88
+
+gspdb.bjtu.edu.cn. 3599 IN A 202.112.154.88
+
+guoji.bjtu.edu.cn. 3600 IN A 121.194.62.100
+
+guoji.bjtu.edu.cn. 3599 IN A 121.194.62.100
+
+guoji.bjtu.edu.cn. 3599 IN A 121.194.62.100
+
+guoji.bjtu.edu.cn. 3599 IN A 121.194.62.100
+
+gzc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+gzc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+gzc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+gzc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+gzc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+gzc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+gzc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+highpc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+highpc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+highpc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+hpcms.bjtu.edu.cn. 3600 IN A 202.112.154.97
+
+hq.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+hqglc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+iacs.bjtu.edu.cn. 3600 IN A 202.205.98.165
+
+iacs.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+iacs.bjtu.edu.cn. 3599 IN A 202.205.98.165
+
+ic.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+ic.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+ic.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+ic.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+ic.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+ic.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+iccg.bjtu.edu.cn. 3600 IN A 202.205.99.148
+
+icir.bjtu.edu.cn. 3600 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icir.bjtu.edu.cn. 3599 IN A 121.194.62.99
+
+icn.bjtu.edu.cn. 3600 IN A 59.64.0.74
+
+icn.bjtu.edu.cn. 3599 IN A 59.64.0.74
+
+icn.bjtu.edu.cn. 3599 IN A 59.64.0.74
+
+icn.bjtu.edu.cn. 3599 IN A 59.64.0.74
+
+icn.bjtu.edu.cn. 3599 IN A 59.64.0.74
+
+icsp.bjtu.edu.cn. 3600 IN A 121.194.62.247
+
+ihall.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+iis.bjtu.edu.cn. 3600 IN A 121.194.62.50
+
+infosec.bjtu.edu.cn. 3600 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+infosec.bjtu.edu.cn. 3599 IN A 59.64.3.40
+
+insis.bjtu.edu.cn. 3600 IN A 121.194.63.122
+
+insis.bjtu.edu.cn. 3599 IN A 121.194.63.122
+
+insis.bjtu.edu.cn. 3599 IN A 121.194.63.122
+
+intl.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+intl.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+intl.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+intl.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+iplab.bjtu.edu.cn. 3600 IN A 211.71.65.254
+
+iplab.bjtu.edu.cn. 3599 IN A 211.71.65.254
+
+iplab.bjtu.edu.cn. 3599 IN A 211.71.65.254
+
+iplab.bjtu.edu.cn. 3599 IN A 211.71.65.254
+
+iplab.bjtu.edu.cn. 3599 IN A 211.71.65.254
+
+iplab.bjtu.edu.cn. 3599 IN A 211.71.65.254
+
+ipv6.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+ipv6.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+ipv6.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+ipv6.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+ipv6.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+jcc.bjtu.edu.cn. 3600 IN A 202.112.154.35
+
+jcc.bjtu.edu.cn. 3599 IN A 202.112.154.35
+
+jcc.bjtu.edu.cn. 3599 IN A 202.112.154.35
+
+jdxb.bjtu.edu.cn. 3600 IN A 121.194.63.144
+
+jdxb.bjtu.edu.cn. 3599 IN A 121.194.63.144
+
+jdxb.bjtu.edu.cn. 3599 IN A 121.194.63.144
+
+jdxb.bjtu.edu.cn. 3599 IN A 121.194.63.144
+
+jdxb.bjtu.edu.cn. 3599 IN A 121.194.63.144
+
+jdzs.bjtu.edu.cn. 3600 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jdzs.bjtu.edu.cn. 3599 IN A 202.112.159.13
+
+jg.bjtu.edu.cn. 3600 IN A 218.249.29.198
+
+jgmis.bjtu.edu.cn. 3600 IN A 121.194.63.50
+
+jgmis.bjtu.edu.cn. 3599 IN A 121.194.63.50
+
+jgmis.bjtu.edu.cn. 3599 IN A 121.194.63.50
+
+jgrsc.bjtu.edu.cn. 330 IN A 202.112.154.202
+
+jgrsc.bjtu.edu.cn. 329 IN A 202.112.154.202
+
+jgrsc.bjtu.edu.cn. 329 IN A 202.112.154.202
+
+jgrsc.bjtu.edu.cn. 329 IN A 202.112.154.202
+
+jgrsc.bjtu.edu.cn. 329 IN A 202.112.154.202
+
+jgrsc.bjtu.edu.cn. 329 IN A 202.112.154.202
+
+jgrsc.bjtu.edu.cn. 329 IN A 202.112.154.202
+
+jgtyb.bjtu.edu.cn. 3600 IN A 202.112.159.195
+
+jgtyb.bjtu.edu.cn. 3599 IN A 202.112.159.195
+
+jgtyb.bjtu.edu.cn. 3599 IN A 202.112.159.195
+
+jgtyb.bjtu.edu.cn. 3599 IN A 202.112.159.195
+
+jgtyb.bjtu.edu.cn. 3599 IN A 202.112.159.195
+
+jgxpb.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+jhtm.bjtu.edu.cn. 3600 IN A 211.71.67.179
+
+jingguan.bjtu.edu.cn. 3600 IN CNAME sem.bjtu.edu.cn.
+sem.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+jingguan.bjtu.edu.cn. 3599 IN CNAME sem.bjtu.edu.cn.
+sem.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+jingguan.bjtu.edu.cn. 3599 IN CNAME sem.bjtu.edu.cn.
+sem.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+jingguan.bjtu.edu.cn. 3599 IN CNAME sem.bjtu.edu.cn.
+sem.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+jingguan.bjtu.edu.cn. 3599 IN CNAME sem.bjtu.edu.cn.
+sem.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+jjc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+job.bjtu.edu.cn. 3600 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+job.bjtu.edu.cn. 3599 IN A 121.194.63.133
+
+jsvpn.bjtu.edu.cn. 3600 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jsvpn.bjtu.edu.cn. 3599 IN A 202.112.154.201
+
+jtys.bjtu.edu.cn. 3600 IN A 218.249.29.198
+
+jwc.bjtu.edu.cn. 3600 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwc.bjtu.edu.cn. 3599 IN A 121.194.57.133
+
+jwjcc.bjtu.edu.cn. 3600 IN A 202.112.154.27
+
+jx.bjtu.edu.cn. 3600 IN A 202.112.158.61
+
+jx.bjtu.edu.cn. 3599 IN A 202.112.158.61
+
+jx.bjtu.edu.cn. 3599 IN A 202.112.158.61
+
+jx.bjtu.edu.cn. 3599 IN A 202.112.158.61
+
+jx.bjtu.edu.cn. 3599 IN A 202.112.158.61
+
+kxjsc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+kxjsc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+kxjsc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+law.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+law.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+law.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+lib.bjtu.edu.cn. 3600 IN A 202.112.150.129
+
+lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+en.lib.bjtu.edu.cn. 3600 IN A 202.112.150.129
+
+en.lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+en.lib.bjtu.edu.cn. 3599 IN A 202.112.150.129
+
+libvpn.bjtu.edu.cn. 3600 IN A 202.205.103.248
+
+liuxue.bjtu.edu.cn. 1036 IN A 121.194.62.75
+
+ltxc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+m.bjtu.edu.cn. 3600 IN A 202.112.154.8
+
+mail.bjtu.edu.cn. 3600 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mail.bjtu.edu.cn. 3599 IN A 218.249.29.198
+
+mba.bjtu.edu.cn. 3600 IN A 121.194.63.134
+
+mba.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+mba.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+mba.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+mba.bjtu.edu.cn. 3599 IN A 121.194.63.134
+
+mece.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+mece.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mece.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mece.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mece.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mece.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mece.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+en.mece.bjtu.edu.cn. 3600 IN A 121.194.63.41
+
+mece2.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+mechatronics.bjtu.edu.cn. 3600 IN A 121.194.63.150
+
+mepro.bjtu.edu.cn. 3600 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+mepro.bjtu.edu.cn. 3599 IN A 121.194.62.241
+
+metalib.bjtu.edu.cn. 3600 IN A 202.112.150.127
+
+mf.bjtu.edu.cn. 3600 IN A 121.194.63.134
+
+mic.bjtu.edu.cn. 3600 IN A 121.194.63.14
+
+mic.bjtu.edu.cn. 3599 IN A 121.194.63.14
+
+mic.bjtu.edu.cn. 3599 IN A 121.194.63.14
+
+mic.bjtu.edu.cn. 3599 IN A 121.194.63.14
+
+mic.bjtu.edu.cn. 3599 IN A 121.194.63.14
+
+mic.bjtu.edu.cn. 3599 IN A 121.194.63.14
+
+mid.bjtu.edu.cn. 3600 IN A 121.194.63.36
+
+mid.bjtu.edu.cn. 3599 IN A 121.194.63.36
+
+mid.bjtu.edu.cn. 3599 IN A 121.194.63.36
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mirror.bjtu.edu.cn. 3595 IN A 202.112.154.58
+
+mis.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+mis.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mis.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mis.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mis.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mis.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+mkszyxy.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+mkszyxy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+mkszyxy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+mkszyxy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+mkszyxy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+msca.bjtu.edu.cn. 3600 IN A 202.112.154.74
+
+msca.bjtu.edu.cn. 3599 IN A 202.112.154.74
+
+msca.bjtu.edu.cn. 3599 IN A 202.112.154.74
+
+msca.bjtu.edu.cn. 3599 IN A 202.112.154.74
+
+msca.bjtu.edu.cn. 3599 IN A 202.112.154.74
+
+msca.bjtu.edu.cn. 3599 IN A 202.112.154.74
+
+naes.bjtu.edu.cn. 3600 IN A 121.194.62.55
+
+naes.bjtu.edu.cn. 3599 IN A 121.194.62.55
+
+naes.bjtu.edu.cn. 3599 IN A 121.194.62.55
+
+naes.bjtu.edu.cn. 3599 IN A 121.194.62.55
+
+naes.bjtu.edu.cn. 3599 IN A 121.194.62.55
+
+naes.bjtu.edu.cn. 3599 IN A 121.194.62.55
+
+new.bjtu.edu.cn. 3600 IN A 202.112.154.108
+
+new.bjtu.edu.cn. 3599 IN A 202.112.154.108
+
+new.bjtu.edu.cn. 3599 IN A 202.112.154.108
+
+new.bjtu.edu.cn. 3599 IN A 202.112.154.108
+
+new.bjtu.edu.cn. 3599 IN A 202.112.154.108
+
+news.bjtu.edu.cn. 3600 IN A 121.194.63.85
+
+news.bjtu.edu.cn. 3599 IN A 121.194.63.85
+
+news.bjtu.edu.cn. 3599 IN A 121.194.63.85
+
+news.bjtu.edu.cn. 3599 IN A 121.194.63.85
+
+news.bjtu.edu.cn. 3599 IN A 121.194.63.85
+
+news.bjtu.edu.cn. 3599 IN A 121.194.63.85
+
+news.bjtu.edu.cn. 3599 IN A 121.194.63.85
+
+nselab.bjtu.edu.cn. 3600 IN A 121.194.62.45
+
+ormis.bjtu.edu.cn. 3600 IN A 202.112.154.199
+
+ossc.bjtu.edu.cn. 3600 IN A 121.194.62.68
+
+ossc.bjtu.edu.cn. 3599 IN A 121.194.62.68
+
+ossc.bjtu.edu.cn. 3599 IN A 121.194.62.68
+
+p.bjtu.edu.cn. 3600 IN A 202.112.154.97
+
+phyvlab.bjtu.edu.cn. 3600 IN A 211.71.70.215
+
+planning.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+planning.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+planning.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+planning.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+planning.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+planning.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+postdeclare.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+press.bjtu.edu.cn. 3600 IN A 202.112.158.19
+
+press.bjtu.edu.cn. 3599 IN A 202.112.158.19
+
+press.bjtu.edu.cn. 3599 IN A 202.112.158.19
+
+qshyang.bjtu.edu.cn. 3600 IN A 211.71.67.42
+
+rjxy.bjtu.edu.cn. 3600 IN A 202.112.154.97
+
+rjxy.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+rjxy.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+rjxy.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+rtccvsec.bjtu.edu.cn. 3600 IN A 202.112.159.154
+
+rtccvsec.bjtu.edu.cn. 3599 IN A 202.112.159.154
+
+rtccvsec.bjtu.edu.cn. 3599 IN A 202.112.159.154
+
+rtccvsec.bjtu.edu.cn. 3599 IN A 202.112.159.154
+
+rtccvsec.bjtu.edu.cn. 3599 IN A 202.112.159.154
+
+rtccvsec.bjtu.edu.cn. 3599 IN A 202.112.159.154
+
+rtlab.bjtu.edu.cn. 3600 IN A 211.71.69.138
+
+rtlab.bjtu.edu.cn. 3599 IN A 211.71.69.138
+
+rtlab.bjtu.edu.cn. 3599 IN A 211.71.69.138
+
+rtlab.bjtu.edu.cn. 3599 IN A 211.71.69.138
+
+rtlab.bjtu.edu.cn. 3599 IN A 211.71.69.138
+
+rtlab.bjtu.edu.cn. 3599 IN A 211.71.69.138
+
+rwng.bjtu.edu.cn. 3600 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+rwng.bjtu.edu.cn. 3599 IN A 202.112.153.175
+
+s.bjtu.edu.cn. 3600 IN A 59.64.0.178
+
+sci.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+sci.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+sci.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+sci.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+scit.bjtu.edu.cn. 3600 IN A 59.64.0.85
+
+scit.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+scit.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+scit.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+scit.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+scit.bjtu.edu.cn. 3599 IN A 59.64.0.85
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+sem.bjtu.edu.cn. 3597 IN A 121.194.63.134
+
+en.sem.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+shangbao.bjtu.edu.cn. 3600 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shangbao.bjtu.edu.cn. 3599 IN A 59.64.3.155
+
+shpg.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+sjc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+skc.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+skc.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+skc.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+skc.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+smg.bjtu.edu.cn. 60 IN A 218.249.29.198
+
+smg.bjtu.edu.cn. 59 IN A 218.249.29.198
+
+smg.bjtu.edu.cn. 59 IN A 218.249.29.198
+
+smg.bjtu.edu.cn. 59 IN A 218.249.29.198
+
+smg.bjtu.edu.cn. 59 IN A 218.249.29.198
+
+smg.bjtu.edu.cn. 59 IN A 218.249.29.198
+
+sms.bjtu.edu.cn. 3600 IN A 59.64.0.101
+
+srmis.bjtu.edu.cn. 3600 IN A 202.112.154.199
+
+sse.bjtu.edu.cn. 3600 IN A 202.112.154.97
+
+sse.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+sse.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+sse.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+sse.bjtu.edu.cn. 3599 IN A 202.112.154.97
+
+study.bjtu.edu.cn. 3600 IN A 123.127.134.6
+
+study.bjtu.edu.cn. 3599 IN A 123.127.134.6
+
+study.bjtu.edu.cn. 3599 IN A 123.127.134.6
+
+study.bjtu.edu.cn. 3599 IN A 123.127.134.6
+
+study.bjtu.edu.cn. 3599 IN A 123.127.134.6
+
+study.bjtu.edu.cn. 3599 IN A 123.127.134.6
+
+study.bjtu.edu.cn. 3599 IN A 123.127.134.6
+
+sxdh.bjtu.edu.cn. 3600 IN A 121.194.62.24
+
+sy.bjtu.edu.cn. 3600 IN A 202.112.154.240
+
+tdam-bjkl.bjtu.edu.cn. 3600 IN A 121.194.63.124
+
+tdam-bjkl.bjtu.edu.cn. 3599 IN A 121.194.63.124
+
+tdam-bjkl.bjtu.edu.cn. 3599 IN A 121.194.63.124
+
+tdam-bjkl.bjtu.edu.cn. 3599 IN A 121.194.63.124
+
+tdam-bjkl.bjtu.edu.cn. 3599 IN A 121.194.63.124
+
+tkcs.bjtu.edu.cn. 3600 IN A 202.112.157.144
+
+tkcs.bjtu.edu.cn. 3599 IN A 202.112.157.144
+
+tkcs.bjtu.edu.cn. 3599 IN A 202.112.157.144
+
+tkcs.bjtu.edu.cn. 3599 IN A 202.112.157.144
+
+tkcs.bjtu.edu.cn. 3599 IN A 202.112.157.144
+
+tkcs.bjtu.edu.cn. 3599 IN A 202.112.157.144
+
+trans.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+trans.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+trans.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+trans1.bjtu.edu.cn. 3600 IN A 202.205.99.155
+
+tseit.bjtu.edu.cn. 3600 IN A 220.250.64.225
+
+tseit.bjtu.edu.cn. 3599 IN A 220.250.64.225
+
+tsse.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+tsse.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+tsse.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+tt.bjtu.edu.cn. 3600 IN A 59.64.0.57
+
+tunnel.bjtu.edu.cn. 3600 IN A 211.71.78.223
+
+ucc.bjtu.edu.cn. 3600 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+ucc.bjtu.edu.cn. 3599 IN A 121.194.63.127
+
+utcstt.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+utcstt.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+v.bjtu.edu.cn. 3600 IN A 202.112.159.148
+
+video.bjtu.edu.cn. 3600 IN A 121.194.62.36
+
+video.bjtu.edu.cn. 3599 IN A 121.194.62.36
+
+video.bjtu.edu.cn. 3599 IN A 121.194.62.36
+
+vpn.bjtu.edu.cn. 3600 IN A 202.205.103.249
+
+wdean.bjtu.edu.cn. 3600 IN A 202.112.154.12
+
+webvpn.bjtu.edu.cn. 3600 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.lib.webvpn.bjtu.edu.cn. 3600 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3600 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+www.webvpn.bjtu.edu.cn. 3599 IN A 219.242.114.17
+
+weixin.bjtu.edu.cn. 3600 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+weixin.bjtu.edu.cn. 3599 IN A 121.194.57.138
+
+welcome.bjtu.edu.cn. 3600 IN A 202.112.158.35
+
+welcomens.bjtu.edu.cn. 3600 IN A 202.112.158.35
+
+welcomens.bjtu.edu.cn. 3599 IN A 202.112.158.35
+
+welcomens.bjtu.edu.cn. 3599 IN A 202.112.158.35
+
+welcomens.bjtu.edu.cn. 3599 IN A 202.112.158.35
+
+welcomens.bjtu.edu.cn. 3599 IN A 202.112.158.35
+
+welcomens.bjtu.edu.cn. 3599 IN A 202.112.158.35
+
+wh.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+wh.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wh.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wh.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wh.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wh.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+webvpn.wh.bjtu.edu.cn. 3600 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+webvpn.wh.bjtu.edu.cn. 3599 IN A 58.59.84.59
+
+wlys.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+wlys.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wlys.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wlys.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+wlys.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+writing.bjtu.edu.cn. 3600 IN A 121.194.63.47
+
+writing.bjtu.edu.cn. 3599 IN A 121.194.63.47
+
+writing.bjtu.edu.cn. 3599 IN A 121.194.63.47
+
+writing.bjtu.edu.cn. 3599 IN A 121.194.63.47
+
+writing.bjtu.edu.cn. 3599 IN A 121.194.63.47
+
+www.bjtu.edu.cn. 325 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+www.bjtu.edu.cn. 324 IN A 202.112.154.197
+
+wximg.bjtu.edu.cn. 3600 IN A 121.194.57.138
+
+wyf.bjtu.edu.cn. 3600 IN A 121.194.63.97
+
+xbsk.bjtu.edu.cn. 3600 IN A 121.194.63.111
+
+xbsk.bjtu.edu.cn. 3599 IN A 121.194.63.111
+
+xbsk.bjtu.edu.cn. 3599 IN A 121.194.63.111
+
+xsc.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+xsc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xsc.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xshdzx.bjtu.edu.cn. 3600 IN A 121.194.62.16
+
+xshdzx.bjtu.edu.cn. 3599 IN A 121.194.62.16
+
+xshdzx.bjtu.edu.cn. 3599 IN A 121.194.62.16
+
+xxgk.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+xxgk.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xxgk.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xxgk.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xxgk.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xxgk.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xxgk.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xyy.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+xyy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xyy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xyy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xyy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+xyy.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+youth.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+youth.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+youth.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+youth.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+youth.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+yun.bjtu.edu.cn. 3600 IN A 202.112.154.180
+
+yun.bjtu.edu.cn. 3599 IN A 202.112.154.180
+
+yun.bjtu.edu.cn. 3599 IN A 202.112.154.180
+
+yun.bjtu.edu.cn. 3599 IN A 202.112.154.180
+
+yun.bjtu.edu.cn. 3599 IN A 202.112.154.180
+
+yun.bjtu.edu.cn. 3599 IN A 202.112.154.180
+
+yun.bjtu.edu.cn. 3599 IN A 202.112.154.180
+
+yyxy.bjtu.edu.cn. 3600 IN A 202.112.154.99
+
+yyxy.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+yyxy.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+yyxy.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+yyxy.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+yyxy.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+yyxy.bjtu.edu.cn. 3599 IN A 202.112.154.99
+
+zhixing.bjtu.edu.cn. 60 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+zhixing.bjtu.edu.cn. 59 IN A 202.112.154.108
+
+d00.zhixing.bjtu.edu.cn. 600 IN A 202.112.154.49
+
+d00.zhixing.bjtu.edu.cn. 599 IN A 202.112.154.49
+
+d00.zhixing.bjtu.edu.cn. 599 IN A 202.112.154.49
+
+d00.zhixing.bjtu.edu.cn. 599 IN A 202.112.154.49
+
+d00.zhixing.bjtu.edu.cn. 599 IN A 202.112.154.49
+
+d00.zhixing.bjtu.edu.cn. 599 IN A 202.112.154.49
+
+www.zhixing.bjtu.edu.cn. 600 IN A 202.112.154.108
+
+www.zhixing.bjtu.edu.cn. 599 IN A 202.112.154.108
+
+zljpzx.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+zsw.bjtu.edu.cn. 3600 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zsw.bjtu.edu.cn. 3599 IN A 202.112.159.24
+
+zy02.bjtu.edu.cn. 3600 IN A 121.194.58.120
+
+zzb.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+zzzx.bjtu.edu.cn. 3600 IN A 202.112.154.202
+
+zzzx.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+zzzx.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+zzzx.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+zzzx.bjtu.edu.cn. 3599 IN A 202.112.154.202
+
+zzzx.bjtu.edu.cn. 3599 IN A 202.112.154.202
+

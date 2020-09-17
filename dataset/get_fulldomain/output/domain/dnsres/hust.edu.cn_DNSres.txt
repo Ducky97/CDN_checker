@@ -1,0 +1,1675 @@
+hust.edu.cn. 7200 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+hust.edu.cn. 7199 IN A 202.114.0.245
+
+acm.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2657 IN A 210.42.108.7
+
+aco.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7160 IN A 210.42.108.5
+
+admission.hust.edu.cn. 7200 IN A 210.42.109.40
+
+advise.hust.edu.cn. 7200 IN A 210.42.109.48
+
+ae.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7199 IN A 210.42.108.5
+
+aeet.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4098 IN A 115.156.150.172
+
+af.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1465 IN A 115.156.150.170
+
+aia.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7199 IN A 210.42.108.5
+
+imds.aia.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7199 IN A 210.42.108.7
+
+aic.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2657 IN A 210.42.108.7
+
+mail.alumni.hust.edu.cn. 7200 IN CNAME edu.icoremail.net.
+edu.icoremail.net. 4 IN A 59.111.192.150
+
+amss.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7199 IN A 210.42.108.7
+
+anml.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1465 IN A 115.156.150.170
+
+ar.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7160 IN A 210.42.108.5
+
+art.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 2656 IN A 115.156.150.170
+
+atc.hust.edu.cn. 1845 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7199 IN A 210.42.108.5
+
+audit.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7160 IN A 210.42.108.5
+
+aup.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7199 IN A 210.42.108.5
+
+english.auto.hust.edu.cn. 0 IN A 220.250.64.225
+
+bcf.hust.edu.cn. 7200 IN A 115.156.135.249
+
+bim.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7199 IN A 115.156.150.171
+
+biophy.hust.edu.cn. 7200 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+biophy.hust.edu.cn. 7199 IN A 202.114.7.240
+
+bksjw.hust.edu.cn. 7200 IN A 122.205.11.3
+
+blog.hust.edu.cn. 7200 IN A 202.114.18.177
+
+bmal.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7199 IN A 210.42.108.7
+
+bmb.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7199 IN A 210.42.108.5
+
+bmp.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5660 IN A 115.156.150.173
+
+byhh.hust.edu.cn. 7200 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+byhh.hust.edu.cn. 7199 IN A 202.114.0.248
+
+bysj.hust.edu.cn. 7200 IN A 122.205.11.45
+
+career.hust.edu.cn. 2657 IN A 210.42.109.15
+
+case2019.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2656 IN A 210.42.108.7
+
+ceee.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7160 IN A 210.42.108.5
+
+cfd.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7199 IN A 210.42.108.7
+
+cgzx.hust.edu.cn. 7200 IN A 210.42.109.105
+
+ch.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7159 IN A 210.42.108.5
+
+chem.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7159 IN A 210.42.108.5
+
+bionano.chem.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4097 IN A 115.156.150.172
+
+chemlab.chem.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7198 IN A 115.156.150.171
+
+com.chem.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7198 IN A 115.156.150.171
+
+deli.chem.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7198 IN A 115.156.150.171
+
+english.chem.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7159 IN A 210.42.108.5
+
+m.chem.hust.edu.cn. 0 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 30 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+m.chem.hust.edu.cn. 29 IN A 220.250.64.225
+
+mic.chem.hust.edu.cn. 7200 IN A 202.114.18.159
+
+orglab.chem.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7198 IN A 115.156.150.171
+
+orgsyn.chem.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4097 IN A 115.156.150.172
+
+posm.chem.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7198 IN A 210.42.108.7
+
+chinagrid.hust.edu.cn. 7200 IN A 202.114.0.253
+
+chinese.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7159 IN A 210.42.108.5
+
+cids.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7197 IN A 115.156.150.171
+
+civil.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+english.civil.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+civilpb.hust.edu.cn. 0 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 30 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+civilpb.hust.edu.cn. 29 IN A 220.250.64.225
+
+ckkj.hust.edu.cn. 7200 IN A 210.42.109.189
+
+cm.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+hust.edu.cn<BR>mail.hust.edu.cn. 0 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 30 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cn. 29 IN A 220.250.64.225
+
+lc-vm.hust.edu.cnbiophy.hust.edu.cn. 0 IN A 220.250.64.225
+
+www2.hust.edu.cnbyhh.hust.edu.cn. 0 IN A 220.250.64.225
+
+byhh.hust.edu.cndqlh.hust.edu.cn. 0 IN A 220.250.64.225
+
+win.hust.edu.cndqlh.hust.edu.cn. 0 IN A 220.250.64.225
+
+hust.edu.cn<BR>mail.hust.edu.cndssl.hust.edu.cn. 0 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cndssl.hust.edu.cn. 0 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cnhudbt.hust.edu.cn. 0 IN A 220.250.64.225
+
+dyxx.hust.edu.cnsau.hust.edu.cn. 0 IN A 220.250.64.225
+
+webvpn.hust.edu.cnwebvpn.hust.edu.cn. 0 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cnwww.hust.edu.cn. 0 IN A 220.250.64.225
+
+lc-vm.hust.edu.cnzxq-jg-h3c7510e.hust.edu.cn. 0 IN A 220.250.64.225
+
+cpa.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+english.cpa.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 7197 IN A 115.156.150.173
+
+cs.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+ade.cs.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 7197 IN A 115.156.150.172
+
+cbib.cs.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4096 IN A 115.156.150.172
+
+english.cs.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7197 IN A 210.42.108.5
+
+iec.cs.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2655 IN A 210.42.108.7
+
+www.cs.hust.edu.cn. 7200 IN CNAME cs.hust.edu.cn.
+cs.hust.edu.cn. 7199 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+cse.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7158 IN A 210.42.108.5
+
+curriculum.hust.edu.cn. 7200 IN A 122.205.11.38
+
+cxcy.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1463 IN A 115.156.150.170
+
+cyjt.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5658 IN A 115.156.150.173
+
+dim2011.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2654 IN A 210.42.108.7
+
+dmet.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7197 IN A 210.42.108.7
+
+dns.hust.edu.cn. 7200 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns.hust.edu.cn. 7199 IN A 202.114.0.131
+
+dns1.hust.edu.cn. 7200 IN A 202.114.0.120
+
+dns2.hust.edu.cn. 7200 IN A 59.172.234.181
+
+dqlh.hust.edu.cn. 7200 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dqlh.hust.edu.cn. 7199 IN A 202.114.18.178
+
+dssl.hust.edu.cn. 0 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 30 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dssl.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 0 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 30 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606a.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 0 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 30 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dxq-xs-rjs8606b.hust.edu.cn. 29 IN A 220.250.64.225
+
+dyxx.hust.edu.cn. 7200 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+dyxx.hust.edu.cn. 7199 IN A 210.42.109.24
+
+eastlakeforum.hust.edu.cn. 7200 IN A 210.42.109.68
+
+eco.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7157 IN A 210.42.108.5
+
+english.eco.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7157 IN A 210.42.108.5
+
+jrzt.eco.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7196 IN A 115.156.150.171
+
+zpgyxcgj.eco.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1462 IN A 115.156.150.170
+
+econf.hust.edu.cn. 7200 IN A 202.114.9.221
+
+edf.hust.edu.cn. 785 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5657 IN A 115.156.150.173
+
+edp.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7196 IN A 115.156.150.171
+
+edutech.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7196 IN A 210.42.108.7
+
+eelab.hust.edu.cn. 7200 IN A 122.205.5.2
+
+ticup.eelab.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7195 IN A 210.42.108.7
+
+ehall.hust.edu.cn. 3837 IN A 122.205.9.73
+
+ei.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7195 IN A 210.42.108.5
+
+eic.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7156 IN A 210.42.108.5
+
+cloud.eic.hust.edu.cn. 7200 IN A 122.205.5.5
+
+mclab.eic.hust.edu.cn. 7200 IN A 122.205.5.4
+
+elearning.hust.edu.cn. 7200 IN A 122.205.11.113
+
+emall.hust.edu.cn. 7200 IN A 210.42.109.102
+
+emba.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7195 IN A 210.42.108.7
+
+employment.hust.edu.cn. 2399 IN A 210.42.109.68
+
+energy.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7195 IN A 210.42.108.5
+
+combustion.energy.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7195 IN A 210.42.108.7
+
+cpc.energy.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+itp.energy.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+lab.energy.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1461 IN A 115.156.150.170
+
+mpml.energy.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+nanoheat.energy.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7195 IN A 210.42.108.7
+
+nuclear.energy.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7156 IN A 210.42.108.5
+
+sklccyao.energy.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+small.energy.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1461 IN A 115.156.150.170
+
+tpl.energy.hust.edu.cn. 6856 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 6855 IN A 210.42.108.7
+
+tsl.energy.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+xu.energy.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+eng.hust.edu.cn. 0 IN A 220.250.64.225
+
+eng.hust.edu.cn. 30 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+eng.hust.edu.cn. 29 IN A 220.250.64.225
+
+english.hust.edu.cn. 781 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7194 IN A 210.42.108.5
+
+epic.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4094 IN A 115.156.150.172
+
+error.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7195 IN A 210.42.108.7
+
+ese.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7194 IN A 210.42.108.5
+
+funmat.ese.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 7194 IN A 115.156.150.172
+
+etc.hust.edu.cn. 0 IN A 220.250.64.225
+
+faculty.hust.edu.cn. 2470 IN CNAME zhanqun175.hust.edu.cn.
+zhanqun175.hust.edu.cn. 2469 IN A 115.156.150.175
+
+fdc.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7155 IN A 210.42.108.5
+
+fiscal.hust.edu.cn. 7200 IN A 115.156.150.171
+
+foa.fiscal.hust.edu.cn. 7200 IN A 202.114.11.203
+
+tjb.fiscal.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1460 IN A 115.156.150.170
+
+focus.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5655 IN A 115.156.150.173
+
+freshman.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5655 IN A 115.156.150.173
+
+fw01.hust.edu.cn. 0 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 30 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fw01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 0 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 30 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwdb.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 0 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 30 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+fwt01.hust.edu.cn. 29 IN A 220.250.64.225
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+NXDOMAIN for fwt02.hust.edu.cn
+
+fx.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7193 IN A 210.42.108.7
+
+fz.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7193 IN A 210.42.108.7
+
+gcxl.hust.edu.cn. 7200 IN A 122.205.11.115
+
+ggg.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7193 IN A 210.42.108.5
+
+glxb.hust.edu.cn. 7200 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7199 IN A 115.156.150.177
+
+grid.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 7193 IN A 115.156.150.173
+
+call.grid.hust.edu.cn. 7200 IN A 202.114.0.253
+
+qa.grid.hust.edu.cn. 7200 IN A 202.114.0.253
+
+gs.hust.edu.cn. 6364 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 3384 IN A 210.42.108.5
+
+enroll.gs.hust.edu.cn. 1957 IN A 122.205.9.101
+
+gszs.hust.edu.cn. 3811 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 3810 IN A 115.156.150.170
+
+gszz.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7193 IN A 210.42.108.7
+
+guard.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+guoxue.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+hae.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+sdny.hae.hust.edu.cn. 7200 IN A 202.114.18.182
+
+hbwhms.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7193 IN A 210.42.108.7
+
+hgrc.hust.edu.cn. 0 IN A 220.250.64.225
+
+history.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+hospital.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7193 IN A 210.42.108.5
+
+zp.hospital.hust.edu.cn. 7200 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+zp.hospital.hust.edu.cn. 7199 IN A 202.114.18.116
+
+hq.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+hr.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+huahong.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2651 IN A 210.42.108.7
+
+hub.hust.edu.cn. 60 IN A 122.205.11.1
+
+hubs.hust.edu.cn. 7200 IN A 122.205.11.9
+
+hubt.hust.edu.cn. 7200 IN A 122.205.11.8
+
+hudbt.hust.edu.cn. 7200 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn. 7199 IN A 202.114.27.9
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 0 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 30 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+hudbt.hust.edu.cn<BR>www.hudbt.hust.edu.cn. 29 IN A 220.250.64.225
+
+humanity.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+xiezuo.humanity.hust.edu.cn. 0 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 30 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 29 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 29 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 29 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 29 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 29 IN A 220.250.64.225
+
+xiezuo.humanity.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 0 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 30 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibmur.hust.edu.cn. 29 IN A 220.250.64.225
+
+ibp.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4092 IN A 115.156.150.172
+
+icare.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7154 IN A 210.42.108.5
+
+icc.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7193 IN A 210.42.108.7
+
+idc.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4091 IN A 115.156.150.172
+
+idp.hust.edu.cn. 7200 IN A 210.42.108.22
+
+iec.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7192 IN A 210.42.108.7
+
+english.iec.hust.edu.cn. 7200 IN A 115.156.150.93
+
+ifpr.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4091 IN A 115.156.150.172
+
+ii.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7192 IN A 210.42.108.5
+
+ime.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7153 IN A 210.42.108.5
+
+imo.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1458 IN A 115.156.150.170
+
+iptv.hust.edu.cn. 0 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 30 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+iptv.hust.edu.cn. 29 IN A 220.250.64.225
+
+irh.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7153 IN A 210.42.108.5
+
+isatap.hust.edu.cn. 7200 IN A 218.199.111.9
+
+isg.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 7192 IN A 115.156.150.173
+
+ismd.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1458 IN A 115.156.150.170
+
+iso.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7153 IN A 210.42.108.5
+
+itec.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7192 IN A 210.42.108.7
+
+jgdw.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1458 IN A 115.156.150.170
+
+jj.hust.edu.cn. 7200 IN A 115.156.150.17
+
+jj-fdc.hust.edu.cn. 7200 IN A 210.42.109.23
+
+jjc.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7153 IN A 210.42.108.5
+
+jky.hust.edu.cn. 1458 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1457 IN A 115.156.150.170
+
+job.hust.edu.cn. 7200 IN A 122.205.9.103
+
+juse.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7191 IN A 115.156.150.171
+
+jwc.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7152 IN A 210.42.108.5
+
+jwjc.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 7191 IN A 115.156.150.172
+
+kexie.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4090 IN A 115.156.150.172
+
+kfy.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7191 IN A 210.42.108.5
+
+lamd.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1457 IN A 115.156.150.170
+
+laser.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1457 IN A 115.156.150.170
+
+law.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7152 IN A 210.42.108.5
+
+lc-vm.hust.edu.cn. 0 IN A 220.250.64.225
+
+lc-vm.hust.edu.cn. 30 IN A 220.250.64.225
+
+lc-vm.hust.edu.cn. 29 IN A 220.250.64.225
+
+lc-vm.hust.edu.cn. 29 IN A 220.250.64.225
+
+lc-vm.hust.edu.cn. 29 IN A 220.250.64.225
+
+lc-vm.hust.edu.cn. 29 IN A 220.250.64.225
+
+lc-vm.hust.edu.cn. 29 IN A 220.250.64.225
+
+leao.hust.edu.cn. 60 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 59 IN A 210.42.108.5
+
+i-equip.leao.hust.edu.cn. 7200 IN A 210.42.109.51
+
+share.leao.hust.edu.cn. 7200 IN A 210.42.109.180
+
+ftp.lib.hust.edu.cn. 7200 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+ftp.lib.hust.edu.cn. 7199 IN A 218.199.91.5
+
+www.lib.hust.edu.cn. 7200 IN A 202.114.9.3
+
+life.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7191 IN A 210.42.108.5
+
+3bio.life.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7191 IN A 115.156.150.171
+
+bioinfo.life.hust.edu.cn. 3479 IN A 211.67.31.242
+
+english.life.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7152 IN A 210.42.108.5
+
+instshare.life.hust.edu.cn. 7200 IN A 211.67.31.251
+
+look.hust.edu.cn. 7200 IN A 122.205.11.12
+
+ltxc.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7191 IN A 210.42.108.7
+
+hub.m.hust.edu.cn. 7200 IN A 122.205.11.43
+
+mail.hust.edu.cn. 6156 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mail.hust.edu.cn. 6155 IN A 202.114.0.240
+
+mat.hust.edu.cn. 6167 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 6166 IN A 210.42.108.5
+
+aees.mat.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4090 IN A 115.156.150.172
+
+bmg.mat.hust.edu.cn. 4090 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4089 IN A 115.156.150.172
+
+carbon.mat.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 7190 IN A 115.156.150.172
+
+echem.mat.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4089 IN A 115.156.150.172
+
+english.mat.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7151 IN A 210.42.108.5
+
+lab.mat.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7190 IN A 210.42.108.7
+
+sysdoing.mat.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7190 IN A 115.156.150.171
+
+zml.mat.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7190 IN A 210.42.108.7
+
+math.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7190 IN A 115.156.150.171
+
+mathcenter.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4089 IN A 115.156.150.172
+
+maths.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7190 IN A 210.42.108.5
+
+matproc.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7190 IN A 210.42.108.7
+
+mba.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 7190 IN A 115.156.150.172
+
+mbp.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7190 IN A 210.42.108.7
+
+media.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7190 IN A 115.156.150.171
+
+meeting.hust.edu.cn. 7200 IN A 202.114.9.221
+
+mirror.hust.edu.cn. 7200 IN A 202.114.18.160
+
+mirrors.hust.edu.cn. 3798 IN CNAME mirror.hust.edu.cn.
+mirror.hust.edu.cn. 3797 IN A 202.114.18.160
+
+mis.hust.edu.cn. 7200 IN A 122.205.11.3
+
+mse.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7151 IN A 210.42.108.5
+
+english.mse.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7151 IN A 210.42.108.5
+
+nom.mse.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7189 IN A 115.156.150.171
+
+nacerc.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2647 IN A 210.42.108.7
+
+ncc.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7189 IN A 210.42.108.5
+
+ncs.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7150 IN A 210.42.108.5
+
+nerc.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7189 IN A 115.156.150.171
+
+news.hust.edu.cn. 7200 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+news.hust.edu.cn. 7199 IN CNAME zhanqun177.hust.edu.cn.
+zhanqun177.hust.edu.cn. 7195 IN A 115.156.150.177
+
+ngia.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7189 IN A 115.156.150.171
+
+oa.hust.edu.cn. 7200 IN A 210.42.109.86
+
+odp.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 2646 IN A 115.156.150.170
+
+oei.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7189 IN A 210.42.108.5
+
+english.oei.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7189 IN A 210.42.108.5
+
+mnmd.oei.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2647 IN A 210.42.108.7
+
+office.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7150 IN A 210.42.108.5
+
+vote.office.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2647 IN A 210.42.108.7
+
+one.hust.edu.cn. 5949 IN A 122.205.9.113
+
+pac.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7189 IN A 115.156.150.171
+
+pass.hust.edu.cn. 7041 IN A 122.205.9.70
+
+patent.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7189 IN A 210.42.108.7
+
+pay.hust.edu.cn. 4256 IN A 202.114.11.204
+
+pe.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7150 IN A 210.42.108.5
+
+pecg.hust.edu.cn. 7200 IN A 210.42.109.21
+
+petc.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7189 IN A 210.42.108.7
+
+petlab.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7189 IN A 210.42.108.7
+
+petzjk.hust.edu.cn. 7200 IN A 122.205.9.112
+
+sugar.pharm.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7189 IN A 210.42.108.7
+
+phil.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7150 IN A 210.42.108.5
+
+phys.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7150 IN A 210.42.108.5
+
+english.phys.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7188 IN A 210.42.108.5
+
+hdock.phys.hust.edu.cn. 7200 IN A 202.114.7.237
+
+huanglab.phys.hust.edu.cn. 7200 IN A 202.114.7.237
+
+ufolab.phys.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7188 IN A 210.42.108.7
+
+pibm.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4087 IN A 115.156.150.172
+
+pic.hust.edu.cn. 0 IN A 220.250.64.225
+
+pic.hust.edu.cn. 30 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+pic.hust.edu.cn. 29 IN A 220.250.64.225
+
+politics.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7149 IN A 210.42.108.5
+
+postdoctor.hust.edu.cn. 5650 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5649 IN A 115.156.150.173
+
+ppf-mat.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 2645 IN A 115.156.150.170
+
+profile.hust.edu.cn. 7200 IN A 210.42.109.131
+
+qiming.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7149 IN A 210.42.108.5
+
+www.redmud.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4087 IN A 115.156.150.172
+
+register.hust.edu.cn. 7200 IN A 210.42.109.204
+
+registrar.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1454 IN A 115.156.150.170
+
+rs.hust.edu.cn. 7200 IN A 210.42.109.4
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+NXDOMAIN for sau.hust.edu.cn
+
+seee.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+caemd.seee.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2645 IN A 210.42.108.7
+
+csps.seee.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2645 IN A 210.42.108.7
+
+english.seee.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7187 IN A 210.42.108.5
+
+machinececs.seee.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7187 IN A 210.42.108.7
+
+rest.seee.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1453 IN A 115.156.150.170
+
+server20.hust.edu.cn. 7200 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+server20.hust.edu.cn. 7199 IN A 202.114.0.242
+
+service.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 7187 IN A 115.156.150.173
+
+sfl.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+english.sfl.hust.edu.cn. 7200 IN A 115.156.150.93
+
+sgo.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4086 IN A 115.156.150.172
+
+shenzhen.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 7187 IN A 115.156.150.173
+
+sie.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+sjic.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7187 IN A 210.42.108.5
+
+sklcc.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7187 IN A 210.42.108.7
+
+sklcc-en.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7187 IN A 210.42.108.7
+
+skxb.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1453 IN A 115.156.150.170
+
+smail.hust.edu.cn. 0 IN A 220.250.64.225
+
+smail.hust.edu.cn. 30 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smail.hust.edu.cn. 29 IN A 220.250.64.225
+
+smart.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7187 IN A 115.156.150.171
+
+snde.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+soci.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7187 IN A 210.42.108.5
+
+english.soci.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+software.hust.edu.cn. 7200 IN A 210.42.109.4
+
+sph.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+sse.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+english.sse.hust.edu.cn. 7200 IN A 115.156.150.93
+
+sti.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4086 IN A 115.156.150.172
+
+storage.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7187 IN A 210.42.108.7
+
+student.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7148 IN A 210.42.108.5
+
+zz.student.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1453 IN A 115.156.150.170
+
+ppxsw.szjzw.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 2645 IN A 210.42.108.7
+
+tacs.hust.edu.cn. 0 IN A 220.250.64.225
+
+tjxb.hust.edu.cn. 7200 IN A 115.156.150.66
+
+trico-robot.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7187 IN A 210.42.108.7
+
+tto.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7147 IN A 210.42.108.5
+
+tzb.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1452 IN A 115.156.150.170
+
+vbn.hust.edu.cn. 7200 IN A 115.156.135.253
+
+vpn.hust.edu.cn. 3094 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+vpn.hust.edu.cn. 3093 IN A 202.114.0.250
+
+webvpn.hust.edu.cn. 7200 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+webvpn.hust.edu.cn. 7199 IN A 210.42.97.24
+
+wenkechu.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7147 IN A 210.42.108.5
+
+whmfc.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7147 IN A 210.42.108.5
+
+win.hust.edu.cn. 0 IN A 220.250.64.225
+
+win.hust.edu.cn. 30 IN A 220.250.64.225
+
+win.hust.edu.cn. 29 IN A 220.250.64.225
+
+win.hust.edu.cn. 29 IN A 220.250.64.225
+
+win.hust.edu.cn. 29 IN A 220.250.64.225
+
+win.hust.edu.cn. 29 IN A 220.250.64.225
+
+win.hust.edu.cn. 29 IN A 220.250.64.225
+
+win.hust.edu.cn. 29 IN A 220.250.64.225
+
+wn-wnlo.hust.edu.cn. 7200 IN A 115.156.150.131
+
+wnlo.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7147 IN A 210.42.108.5
+
+english.wnlo.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7147 IN A 210.42.108.5
+
+stlab.wnlo.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4085 IN A 115.156.150.172
+
+tfsc.wnlo.hust.edu.cn. 7200 IN CNAME zhanqun170.hust.edu.cn.
+zhanqun170.hust.edu.cn. 1452 IN A 115.156.150.170
+
+wsxk.hust.edu.cn. 7200 IN A 122.205.11.6
+
+www.hust.edu.cn. 3166 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www.hust.edu.cn. 3165 IN A 202.114.0.245
+
+www2.hust.edu.cn. 7200 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+www2.hust.edu.cn. 7199 IN A 202.114.18.29
+
+wxhq.hust.edu.cn. 7200 IN A 122.205.9.114
+
+xb.hust.edu.cn. 7200 IN A 202.114.18.200
+
+xcb.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7185 IN A 210.42.108.7
+
+xgh.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7146 IN A 210.42.108.5
+
+xlzx.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7185 IN A 115.156.150.171
+
+xsyj.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7185 IN A 210.42.108.7
+
+xxgk.hust.edu.cn. 7200 IN CNAME zhanqun173.hust.edu.cn.
+zhanqun173.hust.edu.cn. 5646 IN A 115.156.150.173
+
+xyh.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7185 IN A 210.42.108.7
+
+yanzhao.hust.edu.cn. 6450 IN A 210.42.109.140
+
+ygb.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7146 IN A 210.42.108.5
+
+yjs.hust.edu.cn. 7200 IN A 122.205.9.93
+
+yjsjw.hust.edu.cn. 7200 IN A 122.205.11.4
+
+yjsxw.hust.edu.cn. 4798 IN A 210.42.109.165
+
+youth.hust.edu.cn. 825 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7185 IN A 210.42.108.5
+
+yxysh.hust.edu.cn. 7200 IN CNAME zhanqun7.hust.edu.cn.
+zhanqun7.hust.edu.cn. 7185 IN A 210.42.108.7
+
+yysx.hust.edu.cn. 7200 IN A 115.156.150.88
+
+zhanqun170.hust.edu.cn. 1451 IN A 115.156.150.170
+
+zhanqun171.hust.edu.cn. 7185 IN A 115.156.150.171
+
+zhanqun172.hust.edu.cn. 4084 IN A 115.156.150.172
+
+zhanqun173.hust.edu.cn. 5646 IN A 115.156.150.173
+
+zhanqun175.hust.edu.cn. 2460 IN A 115.156.150.175
+
+zhanqun177.hust.edu.cn. 7191 IN A 115.156.150.177
+
+zhanqun5.hust.edu.cn. 7185 IN A 210.42.108.5
+
+zhanqun7.hust.edu.cn. 7185 IN A 210.42.108.7
+
+zsb.hust.edu.cn. 7200 IN CNAME zhanqun172.hust.edu.cn.
+zhanqun172.hust.edu.cn. 4084 IN A 115.156.150.172
+
+ztli.hust.edu.cn. 0 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 30 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+ztli.hust.edu.cn. 29 IN A 220.250.64.225
+
+zwb.hust.edu.cn. 7200 IN CNAME zhanqun171.hust.edu.cn.
+zhanqun171.hust.edu.cn. 7185 IN A 115.156.150.171
+
+zxq-jg-h3c7510e.hust.edu.cn. 0 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cn. 30 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-jg-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 0 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 30 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-cisco720.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 0 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 30 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-h3c7510e.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 0 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 30 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zxq-xs-rjs8606.hust.edu.cn. 29 IN A 220.250.64.225
+
+zzb.hust.edu.cn. 7200 IN CNAME zhanqun5.hust.edu.cn.
+zhanqun5.hust.edu.cn. 7146 IN A 210.42.108.5
+

@@ -1,0 +1,967 @@
+ecust.edu.cn. 85476 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+ecust.edu.cn. 7199 IN A 202.120.111.20
+
+acocp-lab.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+acocp-lab.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+acocp-lab.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+ai.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+aiche.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+aiche.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+alumni.ecust.edu.cn. 19451 IN A 59.78.109.170
+
+art.ecust.edu.cn. 17584 IN A 202.120.108.170
+
+art.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+art.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn
+
+automation.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+NXDOMAIN for bbs.ecust.edu.cn
+
+bds.ecust.edu.cn. 78554 IN A 202.120.108.187
+
+biotech.ecust.edu.cn. 71301 IN A 202.120.108.165
+
+biotech.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+biotech.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+bs.ecust.edu.cn. 3563 IN A 202.120.108.187
+
+bs.ecust.edu.cn. 3562 IN A 202.120.108.187
+
+bs.ecust.edu.cn. 3562 IN A 202.120.108.187
+
+career.bs.ecust.edu.cn. 3600 IN A 202.120.108.109
+
+j.bs.ecust.edu.cn. 1340 IN A 202.120.108.109
+
+NXDOMAIN for lab.bs.ecust.edu.cn
+
+NXDOMAIN for lab.bs.ecust.edu.cn
+
+bslab.ecust.edu.cn. 86400 IN A 59.78.109.170
+
+bwc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+bwc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+career.ecust.edu.cn. 2360 IN A 202.120.108.170
+
+career.ecust.edu.cn. 2359 IN A 202.120.108.170
+
+cec.ecust.edu.cn. 86400 IN A 59.78.109.170
+
+chem.ecust.edu.cn. 70482 IN A 202.120.108.165
+
+chem.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+chemech.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+NXDOMAIN for cisco-2511.ecust.edu.cn
+
+NXDOMAIN for cisco-2511.ecust.edu.cn
+
+NXDOMAIN for cisco-2511.ecust.edu.cn
+
+NXDOMAIN for cisco-2511.ecust.edu.cn
+
+NXDOMAIN for cisco-2511.ecust.edu.cn
+
+NXDOMAIN for cisco-2511.ecust.edu.cn
+
+cise.ecust.edu.cn. 66848 IN A 202.120.108.165
+
+cise.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+cise.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+cisenotice.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+clcg.ecust.edu.cn. 61085 IN A 202.120.108.170
+
+clcg.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+clxy.ecust.edu.cn. 77070 IN A 202.120.108.165
+
+clxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+clxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+clxydb.ecust.edu.cn. 58673 IN A 202.120.108.190
+
+clxydb.ecust.edu.cn. 7199 IN A 202.120.108.190
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for autodiscover.ecust.edu.cn<BR>idp.ecust.edu.cn<BR>mail.ecust.edu.cn<BR>owa.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn<BR>yunpan.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cncisco-2511.ecust.edu.cn
+
+NXDOMAIN for czzx.ecust.edu.cndns1.ecust.edu.cn
+
+NXDOMAIN for cisco-2511.ecust.edu.cnidp.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cnidp.ecust.edu.cn
+
+NXDOMAIN for nics1.ecust.edu.cnnics1.ecust.edu.cn
+
+NXDOMAIN for uml.ecust.edu.cnowa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cnwww.ecust.edu.cn
+
+NXDOMAIN for nics1.ecust.edu.cnzhxy.ecust.edu.cn
+
+cpsa.ecust.edu.cn. 31918 IN A 202.120.108.165
+
+cpsa.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+cpsa.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+cs.ecust.edu.cn. 86400 IN A 175.185.14.35
+
+cxcy.ecust.edu.cn. 86400 IN A 202.120.108.110
+
+cxcy.ecust.edu.cn. 7199 IN A 202.120.108.110
+
+cxcy.ecust.edu.cn. 7199 IN A 202.120.108.110
+
+cyc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+cyc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+czgl.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+czzx.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+dag.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+dag.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+db.ecust.edu.cn. 77037 IN A 202.120.108.165
+
+db.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+dns1.ecust.edu.cn. 86400 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns1.ecust.edu.cn. 7199 IN A 202.120.111.3
+
+dns2.ecust.edu.cn. 86400 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dns2.ecust.edu.cn. 7199 IN A 202.120.111.30
+
+dqwr.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+dwgk.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+dwxcb.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+e.ecust.edu.cn. 60750 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e.ecust.edu.cn. 7199 IN A 116.236.209.137
+
+e-learning.ecust.edu.cn. 68647 IN A 59.78.92.46
+
+lab.e.ecust.edu.cn. 62686 IN A 116.236.209.137
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+NXDOMAIN for www.e.ecust.edu.cn
+
+ecce.ecust.edu.cn. 86400 IN A 202.120.108.190
+
+edf.ecust.edu.cn. 86400 IN A 59.78.109.132
+
+edf.ecust.edu.cn. 7199 IN A 59.78.109.132
+
+edp.ecust.edu.cn. 86400 IN A 202.120.108.187
+
+ee.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+ee.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+emba.ecust.edu.cn. 86400 IN A 202.120.108.170
+
+event.ecust.edu.cn. 86400 IN A 202.120.108.109
+
+fwh.ecust.edu.cn. 69110 IN A 202.120.108.165
+
+fxcszx.ecust.edu.cn. 86400 IN A 59.78.109.170
+
+fxcszx.ecust.edu.cn. 7199 IN A 59.78.109.170
+
+fxy.ecust.edu.cn. 83658 IN A 202.120.108.165
+
+fxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+fxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+fxzx.ecust.edu.cn. 69406 IN A 202.120.108.165
+
+gh.ecust.edu.cn. 58452 IN A 202.120.108.165
+
+gh.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+gh.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+ghc.ecust.edu.cn. 70817 IN A 202.120.108.165
+
+gngfzxb.ecust.edu.cn. 77904 IN A 202.120.108.170
+
+gngfzxb.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+graduate.ecust.edu.cn. 69675 IN A 59.78.108.51
+
+gschool.ecust.edu.cn. 60109 IN A 202.120.108.165
+
+gschool.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+gschool.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+gxjk.ecust.edu.cn. 86400 IN A 202.120.108.170
+
+gxjk.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+gygl.ecust.edu.cn. 79145 IN A 59.78.109.90
+
+hagmhsn.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+hdlgxb.ecust.edu.cn. 79553 IN A 202.120.108.170
+
+hdsp.ecust.edu.cn. 68268 IN A 59.78.109.90
+
+hdsp.ecust.edu.cn. 7199 IN A 59.78.109.90
+
+hgceshi.ecust.edu.cn. 76097 IN A 219.220.210.145
+
+hggdjy.ecust.edu.cn. 74537 IN A 202.120.108.170
+
+hggdjy.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+hgxy.ecust.edu.cn. 58210 IN A 202.120.108.165
+
+hgxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+hgxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+hgxyenglish.ecust.edu.cn. 84951 IN A 202.120.108.110
+
+hldj.ecust.edu.cn. 61846 IN A 202.120.108.165
+
+hldj.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+hlis1.ecust.edu.cn. 86400 IN A 202.120.108.135
+
+hq.ecust.edu.cn. 85040 IN A 202.120.108.165
+
+hq.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+hxjs.ecust.edu.cn. 86400 IN A 202.120.108.177
+
+hxp.ecust.edu.cn. 65431 IN A 202.120.108.182
+
+hxp.ecust.edu.cn. 7199 IN A 202.120.108.182
+
+icct.ecust.edu.cn. 61798 IN A 202.120.108.165
+
+icct.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+ice.ecust.edu.cn. 69161 IN A 59.78.109.90
+
+ice.ecust.edu.cn. 7199 IN A 59.78.109.90
+
+icn.ecust.edu.cn. 68864 IN A 59.78.109.76
+
+icn.ecust.edu.cn. 7199 IN A 59.78.109.76
+
+idp.ecust.edu.cn. 84152 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+idp.ecust.edu.cn. 7199 IN A 202.120.111.102
+
+ies.ecust.edu.cn. 59428 IN A 202.120.108.187
+
+ies.ecust.edu.cn. 7199 IN A 202.120.108.187
+
+ies.ecust.edu.cn. 7199 IN A 202.120.108.187
+
+ihe.ecust.edu.cn. 20295 IN A 202.120.108.165
+
+ihe.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+ihr.ecust.edu.cn. 86400 IN A 172.18.14.61
+
+ihr.ecust.edu.cn. 7199 IN A 172.18.14.61
+
+imba.ecust.edu.cn. 86400 IN A 202.120.108.170
+
+imba.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+imba.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+imp.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+inquiry.ecust.edu.cn. 80137 IN A 202.120.108.39
+
+inquiry.ecust.edu.cn. 7199 IN A 202.120.108.39
+
+inquiry.ecust.edu.cn. 7199 IN A 202.120.108.39
+
+ipp.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+ist.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+ist.ecust.edu.cn. 7199 IN A 59.78.109.76
+
+jgdj.ecust.edu.cn. 83319 IN A 202.120.108.165
+
+jgdj.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+jgdj.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+jj.ecust.edu.cn. 76898 IN A 202.120.108.165
+
+jj.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+jjc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+jjc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+jlinlab.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+join.ecust.edu.cn. 70091 IN A 202.120.108.185
+
+journal.ecust.edu.cn. 5228 IN A 202.120.108.170
+
+journal.ecust.edu.cn. 5227 IN A 202.120.108.170
+
+jw.ecust.edu.cn. 58578 IN A 59.78.108.120
+
+jwc.ecust.edu.cn. 82191 IN A 202.120.108.165
+
+jwc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+jwc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+jxjy.ecust.edu.cn. 59175 IN A 202.120.108.170
+
+jxjy.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+jxjy.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+kjc.ecust.edu.cn. 58578 IN A 202.120.108.165
+
+kjc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+lib.ecust.edu.cn. 69366 IN A 202.120.96.42
+
+lib.ecust.edu.cn. 7199 IN A 202.120.96.42
+
+lib.ecust.edu.cn. 7199 IN A 202.120.96.42
+
+light.ecust.edu.cn. 2379 IN A 202.120.108.144
+
+lilab.ecust.edu.cn. 86400 IN A 59.78.98.102
+
+llc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+lmmd.ecust.edu.cn. 86400 IN A 59.78.98.101
+
+lmmd.ecust.edu.cn. 7199 IN A 59.78.98.101
+
+lmmd.ecust.edu.cn. 7199 IN A 59.78.98.101
+
+lsre.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+lsre.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+ltxgzc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+lura.ecust.edu.cn. 86400 IN A 202.120.108.187
+
+mail.ecust.edu.cn. 64339 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+mail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+imap.mail.ecust.edu.cn. 47006 IN CNAME imaphm.qiye.163.com.
+imaphm.qiye.163.com. 2056 IN A 101.71.155.100
+
+imap.mail.ecust.edu.cn. 7199 IN CNAME imaphm.qiye.163.com.
+imaphm.qiye.163.com. 2056 IN A 101.71.155.100
+
+stu.mail.ecust.edu.cn. 5333 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 1069 IN A 123.58.177.239
+
+mailgw.ecust.edu.cn. 86400 IN A 202.120.111.26
+
+marx.ecust.edu.cn. 72597 IN A 202.120.108.165
+
+mba.ecust.edu.cn. 25542 IN A 202.120.108.170
+
+mba.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+mcp.ecust.edu.cn. 86400 IN A 202.120.108.140
+
+mde.ecust.edu.cn. 10748 IN A 211.144.149.229
+
+mech.ecust.edu.cn. 18306 IN A 202.120.108.165
+
+mech.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+mech.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+mecheim.ecust.edu.cn. 69163 IN A 172.20.20.40
+
+mem.ecust.edu.cn. 62918 IN A 202.120.108.170
+
+mem.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+mem.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+metc.ecust.edu.cn. 68640 IN A 202.120.108.165
+
+metc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+mf.ecust.edu.cn. 86400 IN A 202.120.108.170
+
+mf.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+mpa.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+mpacc.ecust.edu.cn. 86400 IN A 202.120.108.170
+
+mpacc.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+mpacc.ecust.edu.cn. 7199 IN A 202.120.108.170
+
+my.ecust.edu.cn. 55216 IN A 202.120.108.144
+
+myportal.ecust.edu.cn. 86098 IN A 202.120.108.188
+
+myportal.ecust.edu.cn. 7199 IN A 202.120.108.188
+
+new.ecust.edu.cn. 86400 IN A 202.120.108.185
+
+news.ecust.edu.cn. 52517 IN A 202.120.111.43
+
+news.ecust.edu.cn. 7199 IN A 202.120.111.43
+
+news.ecust.edu.cn. 7199 IN A 202.120.111.43
+
+newsadmin.ecust.edu.cn. 84950 IN A 172.20.7.112
+
+NXDOMAIN for nics1.ecust.edu.cn
+
+NXDOMAIN for nics1.ecust.edu.cn
+
+NXDOMAIN for nics1.ecust.edu.cn
+
+NXDOMAIN for nics1.ecust.edu.cn
+
+NXDOMAIN for nics1.ecust.edu.cn
+
+nttc.ecust.edu.cn. 78086 IN A 202.120.108.165
+
+NXDOMAIN for owa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cn
+
+NXDOMAIN for owa.ecust.edu.cn
+
+pan.ecust.edu.cn. 8611 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+pan.ecust.edu.cn. 7199 IN A 202.120.108.158
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for pan.ecust.edu.cn<BR>www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+NXDOMAIN for www.pan.ecust.edu.cn
+
+personnel.ecust.edu.cn. 73524 IN A 202.120.108.165
+
+personnel.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+pharmacy.ecust.edu.cn. 27941 IN A 202.120.108.165
+
+pharmacy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+pharmacy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+pnliu.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+pnliu.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+press.ecust.edu.cn. 64696 IN A 116.236.209.181
+
+press.ecust.edu.cn. 7199 IN A 116.236.209.181
+
+pse.ecust.edu.cn. 86400 IN A 219.220.210.5
+
+pss.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+NXDOMAIN for pub.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cn
+
+NXDOMAIN for pub.ecust.edu.cn
+
+qysystem.ecust.edu.cn. 86400 IN A 202.120.108.170
+
+qzzx.ecust.edu.cn. 82086 IN A 59.78.109.76
+
+s.ecust.edu.cn. 63569 IN A 116.236.209.138
+s.ecust.edu.cn. 63569 IN A 116.236.209.144
+s.ecust.edu.cn. 63569 IN A 116.236.209.143
+
+s.ecust.edu.cn. 7199 IN A 116.236.209.143
+s.ecust.edu.cn. 7199 IN A 116.236.209.144
+s.ecust.edu.cn. 7199 IN A 116.236.209.138
+
+safety.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+safety.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+saltlake.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+sbc.ecust.edu.cn. 42310 IN A 202.120.108.165
+
+sbc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+sbc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+sbgl.ecust.edu.cn. 86400 IN A 59.78.109.122
+
+schfl.ecust.edu.cn. 13546 IN A 202.120.108.165
+
+schfl.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+schfl.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+science.ecust.edu.cn. 82989 IN A 202.120.108.165
+
+science.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+sgrc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+sjc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+sjc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+sklbe.ecust.edu.cn. 86400 IN A 59.78.109.170
+
+sklbe.ecust.edu.cn. 7199 IN A 59.78.109.170
+
+sklndd.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+skloche.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+skloche.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+smg.ecust.edu.cn. 82671 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+smg.ecust.edu.cn. 7199 IN A 202.120.111.26
+
+socialwork-tt.ecust.edu.cn. 86400 IN A 202.120.108.182
+
+sso.ecust.edu.cn. 57355 IN A 202.120.108.188
+
+sso.ecust.edu.cn. 7199 IN A 202.120.108.188
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+NXDOMAIN for storage.ecust.edu.cn
+
+student.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+student.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+szi.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+teacher.ecust.edu.cn. 66600 IN A 202.120.108.165
+
+tw.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+tw.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+tyx.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+tyx.ecust.edu.cn. 7199 IN A 59.78.109.90
+
+tzb.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+uml.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+unilab.ecust.edu.cn. 86400 IN A 202.120.108.182
+
+unilab.ecust.edu.cn. 7199 IN A 202.120.108.182
+
+urp.ecust.edu.cn. 86170 IN A 202.120.108.144
+
+user.ecust.edu.cn. 86400 IN A 202.120.108.109
+
+vpn.ecust.edu.cn. 84784 IN A 210.13.73.43
+
+webmail.ecust.edu.cn. 86400 IN A 202.120.111.20
+
+webmail.ecust.edu.cn. 7199 IN A 202.120.111.20
+
+whzhu.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+wisdom.ecust.edu.cn. 86400 IN A 202.120.108.110
+
+wkc.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+wkc.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+wmb.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+wmb.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+wsbm.ecust.edu.cn. 84212 IN A 59.78.109.170
+
+www.ecust.edu.cn. 53133 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www.ecust.edu.cn. 7199 IN A 202.120.108.164
+
+www2.ecust.edu.cn. 86400 IN A 202.120.108.164
+
+NXDOMAIN for xg.ecust.edu.cn
+
+xiaoban.ecust.edu.cn. 62748 IN A 202.120.108.165
+
+xiaoban.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+xjwx.ecust.edu.cn. 68644 IN A 59.78.109.90
+
+xk.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+xk3.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+xk5.ecust.edu.cn. 86400 IN A 59.78.109.90
+
+xlzx.ecust.edu.cn. 86400 IN A 202.120.108.110
+
+xswyh.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+xuefeng.ecust.edu.cn. 86400 IN A 202.120.108.165
+
+xuefeng.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+xxb.ecust.edu.cn. 62687 IN A 202.120.108.165
+
+xxb.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+xxb.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+xxgk.ecust.edu.cn. 10624 IN A 202.120.108.165
+
+xxgk.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+xxuge.ecust.edu.cn. 86400 IN A 202.120.107.34
+
+xyzh.ecust.edu.cn. 76099 IN A 59.78.109.132
+
+yfhan.ecust.edu.cn. 86400 IN A 59.78.109.76
+
+yfhan.ecust.edu.cn. 7199 IN A 59.78.109.76
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+NXDOMAIN for www.yunpan.ecust.edu.cn
+
+yx.ecust.edu.cn. 86400 IN A 202.120.108.190
+
+zdgxy.ecust.edu.cn. 76356 IN A 202.120.108.165
+
+zdgxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+zdgxyplatform.ecust.edu.cn. 86400 IN A 59.78.109.170
+
+zhxy.ecust.edu.cn. 63670 IN A 202.120.108.165
+
+zhxy.ecust.edu.cn. 7199 IN A 202.120.108.165
+
+zsb.ecust.edu.cn. 60085 IN A 202.120.108.165
+
+zsb.ecust.edu.cn. 7199 IN A 202.120.108.165
+

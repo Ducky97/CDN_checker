@@ -1,0 +1,22 @@
+tj.hainanu.edu.cnhd2.hainanu.edu.cn. 1800 IN A 125.217.98.66
+
+en.hainanu.edu.cn. 1800 IN CNAME en.hainanu.edu.cn.cdurl.cn.
+en.hainanu.edu.cn.cdurl.cn. 599 IN CNAME en.hainanu.edu.cn.wswebcdn.com.
+en.hainanu.edu.cn.wswebcdn.com. 59 IN A 211.95.52.121
+
+en.hainanu.edu.cn. 1799 IN CNAME en.hainanu.edu.cn.cdurl.cn.
+en.hainanu.edu.cn.cdurl.cn. 599 IN CNAME en.hainanu.edu.cn.wswebcdn.com.
+en.hainanu.edu.cn.wswebcdn.com. 59 IN A 211.95.52.121
+
+f.hainanu.edu.cn. 3600 IN A 125.217.98.67
+
+f.hainanu.edu.cn. 3599 IN A 125.217.98.67
+
+hd2.hainanu.edu.cn. 1800 IN A 125.217.98.33
+
+tj.hainanu.edu.cn. 86400 IN A 125.217.98.75
+
+www.hainanu.edu.cn. 1800 IN A 125.217.98.67
+
+www.hainanu.edu.cn. 1799 IN A 125.217.98.67
+

@@ -1,0 +1,2076 @@
+NXDOMAIN for mail.nudt.edu.cnmail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for mail.nudt.edu.cn<BR>nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+NXDOMAIN for nudt.edu.cn
+
+50th.nudt.edu.cn. 86400 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+50th.nudt.edu.cn. 7199 IN A 202.197.0.150
+
+6-87.nudt.edu.cn. 86400 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+6-87.nudt.edu.cn. 7199 IN A 202.197.0.115
+
+acm.nudt.edu.cn. 86400 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+acm.nudt.edu.cn. 7199 IN A 202.197.9.101
+
+agent2010.nudt.edu.cn. 86400 IN A 202.197.0.185
+
+agent2010.nudt.edu.cn. 7199 IN A 202.197.0.185
+
+agent2010.nudt.edu.cn. 7199 IN A 202.197.0.185
+
+agent2010.nudt.edu.cn. 7199 IN A 202.197.0.185
+
+agent2010.nudt.edu.cn. 7199 IN A 202.197.0.185
+
+agent2010.nudt.edu.cn. 7199 IN A 202.197.0.185
+
+agent2010.nudt.edu.cn. 7199 IN A 202.197.0.185
+
+ampg.nudt.edu.cn. 86400 IN CNAME vlab.nudt.edu.cn.
+vlab.nudt.edu.cn. 7199 IN A 202.197.9.139
+
+ask2017.nudt.edu.cn. 86400 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+ask2017.nudt.edu.cn. 7199 IN A 202.197.9.54
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+NXDOMAIN for bszs.nudt.edu.cn
+
+buy.nudt.edu.cn. 86400 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+buy.nudt.edu.cn. 7199 IN A 202.197.9.242
+
+ccis2015.nudt.edu.cn. 86400 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+ccis2015.nudt.edu.cn. 7199 IN A 202.197.9.46
+
+www.chinagrid.nudt.edu.cn. 86400 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+www.chinagrid.nudt.edu.cn. 7199 IN A 202.197.0.210
+
+NXDOMAIN for joces.nudt.edu.cn6-87.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for english.nudt.edu.cn<BR>www.nudt.edu.cn
+
+NXDOMAIN for nubot.nudt.edu.cnagent2010.nudt.edu.cn
+
+NXDOMAIN for user.nudt.edu.cnagent2010.nudt.edu.cn
+
+NXDOMAIN for redim.nudt.edu.cnbszs.nudt.edu.cn
+
+NXDOMAIN for www.chinagrid.nudt.edu.cngcsssyjxzx.nudt.edu.cn
+
+cngi.nudt.edu.cn. 86400 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+cngi.nudt.edu.cn. 7199 IN A 202.197.0.212
+
+NXDOMAIN for bszs.nudt.edu.cnnlp.nudt.edu.cn
+
+NXDOMAIN for uninav.nudt.edu.cnphm2014.nudt.edu.cn
+
+NXDOMAIN for planetlab-2.pdl.nudt.edu.cnsoftware.nudt.edu.cn
+
+NXDOMAIN for library.nudt.edu.cnzzb.nudt.edu.cn
+
+conf.nudt.edu.cn. 86400 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+conf.nudt.edu.cn. 7199 IN A 202.197.0.242
+
+ctlab.nudt.edu.cn. 86399 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+ctlab.nudt.edu.cn. 7199 IN A 202.197.9.113
+
+disk.nudt.edu.cn. 86400 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+disk.nudt.edu.cn. 7199 IN A 202.197.9.58
+
+dssq06.nudt.edu.cn. 86400 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dssq06.nudt.edu.cn. 7199 IN A 202.197.9.142
+
+dzkxjssyzx.nudt.edu.cn. 86400 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+dzkxjssyzx.nudt.edu.cn. 7199 IN A 202.197.9.42
+
+email.nudt.edu.cn. 86400 IN CNAME mail.nudt.edu.cn.
+mail.nudt.edu.cn. 7199 IN A 202.197.9.11
+
+emlab.nudt.edu.cn. 86400 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+emlab.nudt.edu.cn. 7199 IN A 202.197.9.111
+
+english.nudt.edu.cn. 86400 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+english.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+fif.nudt.edu.cn. 86400 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+fif.nudt.edu.cn. 7199 IN A 202.197.9.135
+
+firewall.nudt.edu.cn. 86400 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+firewall.nudt.edu.cn. 7199 IN A 202.197.0.1
+
+gcsssyjxzx.nudt.edu.cn. 86400 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gcsssyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.60
+
+gdjyyjxb.nudt.edu.cn. 86400 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdjyyjxb.nudt.edu.cn. 7199 IN A 202.197.9.41
+
+gdxy.nudt.edu.cn. 86400 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gdxy.nudt.edu.cn. 7199 IN A 202.197.0.250
+
+gfkj.nudt.edu.cn. 86400 IN CNAME gfkjjournal.nudt.edu.cn.
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gfkjjournal.nudt.edu.cn. 7199 IN A 202.197.9.40
+
+gforge.nudt.edu.cn. 86400 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+gforge.nudt.edu.cn. 7199 IN A 202.197.0.5
+
+grid.nudt.edu.cn. 86400 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+grid.nudt.edu.cn. 7199 IN A 202.197.0.19
+
+hel.nudt.edu.cn. 86400 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hel.nudt.edu.cn. 7199 IN A 202.197.9.152
+
+hpc2011.nudt.edu.cn. 86400 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+hpc2011.nudt.edu.cn. 7199 IN A 202.197.9.47
+
+icps.nudt.edu.cn. 86400 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+icps.nudt.edu.cn. 7199 IN A 202.197.0.110
+
+id.nudt.edu.cn. 86400 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+id.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for dns.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+NXDOMAIN for www.ipv6.nudt.edu.cn
+
+isc2011.nudt.edu.cn. 86400 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+isc2011.nudt.edu.cn. 7199 IN A 202.197.9.121
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+NXDOMAIN for isc2011vm.nudt.edu.cn
+
+jingjia.nudt.edu.cn. 86400 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+jingjia.nudt.edu.cn. 7199 IN A 202.197.9.134
+
+joces.nudt.edu.cn. 86400 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+joces.nudt.edu.cn. 7199 IN A 202.197.9.163
+
+journal.nudt.edu.cn. 76992 IN A 202.197.9.112
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+NXDOMAIN for jpkc2010.nudt.edu.cn
+
+jsjwl.nudt.edu.cn. 86400 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+jsjwl.nudt.edu.cn. 7199 IN A 202.197.0.192
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+NXDOMAIN for kd-gw.nudt.edu.cn
+
+kdweb.nudt.edu.cn. 86400 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+kdweb.nudt.edu.cn. 7199 IN A 202.197.9.34
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+NXDOMAIN for ksg.nudt.edu.cn
+
+ksz.nudt.edu.cn. 86400 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+ksz.nudt.edu.cn. 7199 IN A 202.197.9.127
+
+lansvr.nudt.edu.cn. 86400 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+lansvr.nudt.edu.cn. 7199 IN A 202.197.0.123
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+NXDOMAIN for ldapsvr.nudt.edu.cn
+
+libfw.nudt.edu.cn. 86400 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+libfw.nudt.edu.cn. 7199 IN A 202.197.9.13
+
+library.nudt.edu.cn. 86400 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+library.nudt.edu.cn. 7199 IN A 202.197.9.16
+
+libyc.nudt.edu.cn. 86400 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+libyc.nudt.edu.cn. 7199 IN A 202.197.9.10
+
+lp.nudt.edu.cn. 86400 IN A 202.197.9.2
+lp.nudt.edu.cn. 86400 IN A 222.240.177.46
+lp.nudt.edu.cn. 86400 IN A 61.187.54.3
+lp.nudt.edu.cn. 86400 IN A 222.240.177.38
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lp.nudt.edu.cn. 7199 IN A 222.240.177.38
+lp.nudt.edu.cn. 7199 IN A 61.187.54.3
+lp.nudt.edu.cn. 7199 IN A 222.240.177.46
+lp.nudt.edu.cn. 7199 IN A 202.197.9.2
+
+lwps.nudt.edu.cn. 86400 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lwps.nudt.edu.cn. 7199 IN A 202.197.9.64
+
+lxht.nudt.edu.cn. 86400 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+lxht.nudt.edu.cn. 7199 IN CNAME scramv.nudt.edu.cn.
+scramv.nudt.edu.cn. 7199 IN A 202.197.9.198
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mail.nudt.edu.cn. 7198 IN A 202.197.9.11
+
+mapi.nudt.edu.cn. 86400 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapi.nudt.edu.cn. 7199 IN A 202.197.9.90
+
+mapp.nudt.edu.cn. 86400 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+mapp.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+masa.nudt.edu.cn. 86400 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+mcom.nudt.edu.cn. 86400 IN A 202.197.9.80
+
+micro.nudt.edu.cn. 86400 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micro.nudt.edu.cn. 7199 IN A 202.197.0.114
+
+micros.nudt.edu.cn. 86400 IN CNAME moore.nudt.edu.cn.
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+mnote.nudt.edu.cn. 86400 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+mnote.nudt.edu.cn. 7199 IN A 202.197.9.96
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+moore.nudt.edu.cn. 7199 IN A 202.197.9.14
+
+mpa.nudt.edu.cn. 86400 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+mpa.nudt.edu.cn. 7199 IN A 202.197.9.18
+
+ndbc2003.nudt.edu.cn. 86400 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+ndbc2003.nudt.edu.cn. 7199 IN A 202.197.0.241
+
+nlp.nudt.edu.cn. 86400 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nlp.nudt.edu.cn. 7199 IN A 202.197.0.213
+
+nubot.nudt.edu.cn. 86400 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nubot.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+nwpyewu.nudt.edu.cn. 86400 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+nwpyewu.nudt.edu.cn. 7199 IN A 202.197.9.53
+
+pbg.nudt.edu.cn. 86400 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+pbg.nudt.edu.cn. 7199 IN A 202.197.9.45
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+NXDOMAIN for pdl.nudt.edu.cn
+
+planetlab-1.pdl.nudt.edu.cn. 86400 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-1.pdl.nudt.edu.cn. 7199 IN A 202.197.15.1
+
+planetlab-2.pdl.nudt.edu.cn. 86400 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+planetlab-2.pdl.nudt.edu.cn. 7199 IN A 202.197.15.3
+
+pdns.nudt.edu.cn. 86400 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+pdns.nudt.edu.cn. 7199 IN A 202.197.0.180
+
+phm2014.nudt.edu.cn. 86400 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+phm2014.nudt.edu.cn. 7199 IN A 202.197.9.141
+
+redhc.nudt.edu.cn. 86400 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redhc.nudt.edu.cn. 7199 IN A 202.197.9.95
+
+redim.nudt.edu.cn. 86400 IN A 42.48.85.225
+redim.nudt.edu.cn. 86400 IN A 202.197.9.95
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+redim.nudt.edu.cn. 7199 IN A 202.197.9.95
+redim.nudt.edu.cn. 7199 IN A 42.48.85.225
+
+s-ipv6.nudt.edu.cn. 86400 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+s-ipv6.nudt.edu.cn. 7199 IN A 202.197.0.160
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+NXDOMAIN for s5.nudt.edu.cn
+
+s601.nudt.edu.cn. 86400 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+s601.nudt.edu.cn. 7199 IN A 202.197.0.120
+
+sdns.nudt.edu.cn. 86400 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+sdns.nudt.edu.cn. 7199 IN A 202.197.0.181
+
+search.nudt.edu.cn. 86400 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+search.nudt.edu.cn. 7199 IN A 202.197.0.197
+
+NXDOMAIN for sec.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+NXDOMAIN for sei.nudt.edu.cn
+
+software.nudt.edu.cn. 86400 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+software.nudt.edu.cn. 7199 IN A 202.197.0.22
+
+spoc2014.nudt.edu.cn. 86400 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+spoc2014.nudt.edu.cn. 7199 IN A 202.197.9.43
+
+starbus.nudt.edu.cn. 86400 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+starbus.nudt.edu.cn. 7199 IN A 202.197.0.116
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testa.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+NXDOMAIN for testmail.nudt.edu.cn
+
+tougao.nudt.edu.cn. 86400 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+tougao.nudt.edu.cn. 7199 IN A 202.197.9.62
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+NXDOMAIN for tuoguan.nudt.edu.cn
+
+uninav.nudt.edu.cn. 86400 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uninav.nudt.edu.cn. 7199 IN A 202.197.9.61
+
+uoua.nudt.edu.cn. 86400 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+uoua.nudt.edu.cn. 7199 IN A 202.197.9.80
+
+user.nudt.edu.cn. 86400 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+user.nudt.edu.cn. 7199 IN A 202.197.9.241
+
+vag.nudt.edu.cn. 86400 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vag.nudt.edu.cn. 7199 IN A 202.197.9.140
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vlab.nudt.edu.cn. 7184 IN A 202.197.9.139
+
+vpn.nudt.edu.cn. 86400 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vpn.nudt.edu.cn. 7199 IN A 202.197.9.115
+
+vwt.nudt.edu.cn. 86400 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+vwt.nudt.edu.cn. 7199 IN A 202.197.9.229
+
+webmail.nudt.edu.cn. 86400 IN CNAME mail.nudt.edu.cn.
+mail.nudt.edu.cn. 7199 IN A 202.197.9.11
+
+wlogin.nudt.edu.cn. 86400 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+wlogin.nudt.edu.cn. 7199 IN A 202.197.9.161
+
+www.nudt.edu.cn. 72681 IN A 202.197.9.133
+www.nudt.edu.cn. 72681 IN A 110.53.188.133
+www.nudt.edu.cn. 72681 IN A 113.247.230.248
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+www.nudt.edu.cn. 7199 IN A 113.247.230.248
+www.nudt.edu.cn. 7199 IN A 110.53.188.133
+www.nudt.edu.cn. 7199 IN A 202.197.9.133
+
+wx.nudt.edu.cn. 86400 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+wx.nudt.edu.cn. 7199 IN A 202.197.9.160
+
+xnfzsyjxzx.nudt.edu.cn. 86400 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xnfzsyjxzx.nudt.edu.cn. 7199 IN A 202.197.9.49
+
+xy.nudt.edu.cn. 86400 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xy.nudt.edu.cn. 7199 IN A 202.197.9.144
+
+xyqxz.nudt.edu.cn. 86400 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+xyqxz.nudt.edu.cn. 7199 IN A 202.197.9.38
+
+yhsim.nudt.edu.cn. 86400 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yhsim.nudt.edu.cn. 7199 IN CNAME masa.nudt.edu.cn.
+masa.nudt.edu.cn. 7199 IN A 202.197.9.136
+
+yjszs.nudt.edu.cn. 86400 IN A 202.197.9.215
+
+zqxt.nudt.edu.cn. 86400 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zqxt.nudt.edu.cn. 7199 IN A 202.197.9.217
+
+zxfzxl.nudt.edu.cn. 86400 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zxfzxl.nudt.edu.cn. 7199 IN A 202.197.9.30
+
+zyt.nudt.edu.cn. 86400 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+zyt.nudt.edu.cn. 7199 IN A 202.197.9.57
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+
+NXDOMAIN for zzb.nudt.edu.cn
+

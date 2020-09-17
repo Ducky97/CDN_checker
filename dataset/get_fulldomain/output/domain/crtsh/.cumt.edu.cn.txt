@@ -1,0 +1,14 @@
+*.cumt.edu.cn
+51sys.cumt.edu.cn
+bkzs.cumt.edu.cn
+collab-edge.cumt.edu.cn
+core.cumt.edu.cn
+ctec.cumt.edu.cn
+cumtedf.cumt.edu.cn
+edge.cumt.edu.cn
+mail.cumt.edu.cn
+vpn.cumt.edu.cn
+www.core.cumt.edu.cn
+www.cumt.edu.cn
+www.edge.cumt.edu.cn
+xyt-wx.cumt.edu.cn

@@ -1,0 +1,4102 @@
+buct.edu.cn. 3600 IN A 202.4.130.229
+buct.edu.cn. 3600 IN A 124.206.29.134
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+buct.edu.cn. 3599 IN A 124.206.29.134
+buct.edu.cn. 3599 IN A 202.4.130.229
+
+60.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3599 IN A 106.39.22.29
+
+60.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3599 IN A 106.39.22.29
+
+60.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3599 IN A 106.39.22.29
+
+60.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3599 IN A 106.39.22.29
+
+acc.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3599 IN A 106.39.22.29
+
+alumni.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+alumnires.buct.edu.cn. 3600 IN A 202.4.157.81
+
+alumnires.buct.edu.cn. 3599 IN A 202.4.157.81
+
+alumnires.buct.edu.cn. 3599 IN A 202.4.157.81
+
+alumnires.buct.edu.cn. 3599 IN A 202.4.157.81
+
+alumnires.buct.edu.cn. 3599 IN A 202.4.157.81
+
+alumnires.buct.edu.cn. 3599 IN A 202.4.157.81
+
+alumnires.buct.edu.cn. 3599 IN A 202.4.157.81
+
+anni.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+anni.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+anni.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+anni.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+app.buct.edu.cn. 3600 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+NXDOMAIN for app.buct.edu.cn<BR>img.app.buct.edu.cn
+
+img.app.buct.edu.cn. 3600 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+img.app.buct.edu.cn. 3599 IN A 202.4.157.62
+
+aqyjy.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+aqyjy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+aqyjy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+aqyjy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+atc.buct.edu.cn. 3600 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+atc.buct.edu.cn. 3599 IN A 202.4.141.193
+
+baicsm.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+NXDOMAIN for en.baicsm.buct.edu.cn
+
+NXDOMAIN for en.baicsm.buct.edu.cn
+
+NXDOMAIN for en.baicsm.buct.edu.cn
+
+www.baicsm.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+beer.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+bercemwp.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+bercemwp.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+bercemwp.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+www.bhskxb.buct.edu.cn. 3600 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+www.bhskxb.buct.edu.cn. 3599 IN A 106.39.22.23
+
+bill.buct.edu.cn. 3600 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+bill.buct.edu.cn. 3599 IN A 202.4.130.91
+
+NXDOMAIN for www.bioprocess.buct.edu.cn
+
+bjbiomed.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+NXDOMAIN for www.bjbiomed.buct.edu.cn
+
+NXDOMAIN for www.bjbiomed.buct.edu.cn
+
+NXDOMAIN for www.bjbiomed.buct.edu.cn
+
+bjip.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3599 IN A 106.39.22.2
+
+bmst.buct.edu.cn. 3600 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 359 IN A 106.39.22.30
+
+bmst.buct.edu.cn. 3599 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 359 IN A 106.39.22.30
+
+bmst.buct.edu.cn. 3599 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 359 IN A 106.39.22.30
+
+bmst.buct.edu.cn. 3599 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 359 IN A 106.39.22.30
+
+bq.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+bq.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+bq.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+bq.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3598 IN A 106.39.22.29
+
+bt.buct.edu.cn. 3600 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+bt.buct.edu.cn. 3599 IN A 202.4.136.23
+
+buctgate.buct.edu.cn. 3600 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+buctgate.buct.edu.cn. 3599 IN A 202.4.130.120
+
+bye.buct.edu.cn. 3600 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+bye.buct.edu.cn. 3599 IN A 106.39.22.34
+
+NXDOMAIN for bye1.buct.edu.cn
+
+NXDOMAIN for bye1.buct.edu.cn
+
+NXDOMAIN for bye1.buct.edu.cn
+
+NXDOMAIN for bye1.buct.edu.cn
+
+NXDOMAIN for bye1.buct.edu.cn
+
+NXDOMAIN for bye1.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for bye2.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+NXDOMAIN for ca.buct.edu.cn
+
+caddy.buct.edu.cn. 3600 IN A 106.39.22.12
+
+caem.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+caem.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+caem.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+caem.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+www.caem.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cahe-as.buct.edu.cn. 3600 IN A 202.4.136.106
+
+cahe-as.buct.edu.cn. 3599 IN A 202.4.136.106
+
+cahe-as.buct.edu.cn. 3599 IN A 202.4.136.106
+
+cahe-as.buct.edu.cn. 3599 IN A 202.4.136.106
+
+cahe-as.buct.edu.cn. 3599 IN A 202.4.136.106
+
+cahe-as.buct.edu.cn. 3599 IN A 202.4.136.106
+
+caiwu.buct.edu.cn. 3600 IN A 202.4.130.251
+
+caiwu.buct.edu.cn. 3599 IN A 202.4.130.251
+
+caiwu.buct.edu.cn. 3599 IN A 202.4.130.251
+
+caiwu.buct.edu.cn. 3599 IN A 202.4.130.251
+
+caiwu.buct.edu.cn. 3599 IN A 202.4.130.251
+
+caiwu.buct.edu.cn. 3599 IN A 202.4.130.251
+
+caiwu.buct.edu.cn. 3599 IN A 202.4.130.251
+
+catalysis.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+catalysis.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+catalysis.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+catalysis.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+catest.buct.edu.cn. 3600 IN A 106.39.22.31
+catest.buct.edu.cn. 3600 IN A 121.195.154.239
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+catest.buct.edu.cn. 3599 IN A 121.195.154.239
+catest.buct.edu.cn. 3599 IN A 106.39.22.31
+
+cel.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cel.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cel.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cel.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+celjwmanager.buct.edu.cn. 3600 IN A 121.195.155.5
+
+celjwstudent.buct.edu.cn. 3600 IN A 121.195.155.9
+
+celjwstudent.buct.edu.cn. 3599 IN A 121.195.155.9
+
+celjwstudent.buct.edu.cn. 3599 IN A 121.195.155.9
+
+celzxkt.buct.edu.cn. 3600 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+celzxkt.buct.edu.cn. 3599 IN A 121.195.155.8
+
+cet.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cfdms.buct.edu.cn. 3600 IN A 202.4.130.52
+
+cfdms.buct.edu.cn. 3599 IN A 202.4.130.52
+
+cfdms.buct.edu.cn. 3599 IN A 202.4.130.52
+
+cfdms.buct.edu.cn. 3599 IN A 202.4.130.52
+
+cfdms.buct.edu.cn. 3599 IN A 202.4.130.52
+
+cfdms.buct.edu.cn. 3599 IN A 202.4.130.52
+
+cfdms.buct.edu.cn. 3599 IN A 202.4.130.52
+
+cffp.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+chelab.buct.edu.cn. 3600 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chelab.buct.edu.cn. 3599 IN A 202.4.130.50
+
+chem.buct.edu.cn. 3600 IN CNAME caddy.buct.edu.cn.
+caddy.buct.edu.cn. 3599 IN A 106.39.22.12
+
+chem.buct.edu.cn. 3599 IN CNAME caddy.buct.edu.cn.
+caddy.buct.edu.cn. 3599 IN A 106.39.22.12
+
+chem.buct.edu.cn. 3599 IN CNAME caddy.buct.edu.cn.
+caddy.buct.edu.cn. 3599 IN A 106.39.22.12
+
+chem.buct.edu.cn. 3599 IN CNAME caddy.buct.edu.cn.
+caddy.buct.edu.cn. 3599 IN A 106.39.22.12
+
+en.chem.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+en.chem.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+en.chem.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+chemistry.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+chemistry.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+chemistry.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+chemistry.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3597 IN A 106.39.22.29
+
+NXDOMAIN for chengren.buct.edu.cn
+
+NXDOMAIN for chengren.buct.edu.cn
+
+NXDOMAIN for chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+NXDOMAIN for www.chengren.buct.edu.cn
+
+cist.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cist.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cist.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+cist.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3597 IN A 106.39.22.29
+
+en.cist.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+cit.buct.edu.cn. 3600 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 3598 IN A 106.39.22.30
+
+cloud.buct.edu.cn. 3600 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cloud.buct.edu.cn. 3599 IN A 202.4.130.78
+
+cmp.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+NXDOMAIN for en.cmse.buct.edu.cn
+
+NXDOMAIN for en.cmse.buct.edu.cn
+
+NXDOMAIN for en.cmse.buct.edu.cn
+
+NXDOMAIN for en.cmse.buct.edu.cn
+
+www.cmse.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+www.cmse.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+www.cmse.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+www.cmse.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3597 IN A 106.39.22.2
+
+www.cmse1.buct.edu.cn. 3600 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+www.cmse1.buct.edu.cn. 3599 IN A 124.206.29.137
+
+NXDOMAIN for cost.buct.edu.cnbercemwp.buct.edu.cn
+
+NXDOMAIN for v.buct.edu.cncloud.buct.edu.cn
+
+NXDOMAIN for cahe-as.buct.edu.cne2.buct.edu.cn
+
+NXDOMAIN for zzgz.buct.edu.cngate.buct.edu.cn
+
+NXDOMAIN for bye1.buct.edu.cnjjfz.buct.edu.cn
+
+NXDOMAIN for gate.buct.edu.cnns3.buct.edu.cn
+
+NXDOMAIN for oa.buct.edu.cnns4.buct.edu.cn
+
+NXDOMAIN for course.buct.edu.cnopen.buct.edu.cn
+
+NXDOMAIN for track.buct.edu.cnwww.buct.edu.cn
+
+comp.buct.edu.cn. 3600 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+comp.buct.edu.cn. 3599 IN A 219.242.103.8
+
+computer.buct.edu.cn. 3600 IN A 202.4.155.7
+
+computer.buct.edu.cn. 3599 IN A 202.4.155.7
+
+computer.buct.edu.cn. 3599 IN A 202.4.155.7
+
+computer.buct.edu.cn. 3599 IN A 202.4.155.7
+
+computer.buct.edu.cn. 3599 IN A 202.4.155.7
+
+computer.buct.edu.cn. 3599 IN A 202.4.155.7
+
+computer.buct.edu.cn. 3599 IN A 202.4.155.7
+
+cost.buct.edu.cn. 3600 IN A 202.4.130.77
+
+cost.buct.edu.cn. 3599 IN A 202.4.130.77
+
+cost.buct.edu.cn. 3599 IN A 202.4.130.77
+
+cost.buct.edu.cn. 3599 IN A 202.4.130.77
+
+cost.buct.edu.cn. 3599 IN A 202.4.130.77
+
+cost.buct.edu.cn. 3599 IN A 202.4.130.77
+
+course.buct.edu.cn. 3600 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course.buct.edu.cn. 3599 IN A 106.39.22.30
+
+course-proxy2.buct.edu.cn. 3600 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2-mobile.buct.edu.cn. 3600 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2-mobile.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+course-proxy2-mobile.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3597 IN A 106.39.22.31
+catest.buct.edu.cn. 3597 IN A 121.195.154.239
+
+www.cpbiee.buct.edu.cn. 3600 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.cpbiee.buct.edu.cn. 3599 IN A 202.4.152.135
+
+NXDOMAIN for www.cppe.buct.edu.cn
+
+csc.buct.edu.cn. 3600 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+csc.buct.edu.cn. 3599 IN A 202.4.152.99
+
+ctld.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3595 IN A 106.39.22.29
+
+ctld.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3595 IN A 106.39.22.29
+
+ctld.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3595 IN A 106.39.22.29
+
+ctld.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3595 IN A 106.39.22.29
+
+cwc.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3595 IN A 106.39.22.29
+
+NXDOMAIN for www.cwc.buct.edu.cn
+
+NXDOMAIN for www.cwc.buct.edu.cn
+
+cxsm.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3595 IN A 106.39.22.29
+
+dangban.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3595 IN A 106.39.22.29
+
+dangban.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3595 IN A 106.39.22.29
+
+dangban.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3595 IN A 106.39.22.29
+
+dangban.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3595 IN A 106.39.22.29
+
+dangxiao.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+data.buct.edu.cn. 3600 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+data.buct.edu.cn. 3599 IN A 202.4.130.234
+
+ddh11.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3595 IN A 106.39.22.29
+
+www.dse.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3596 IN A 106.39.22.2
+
+dssa.buct.edu.cn. 3600 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssa.buct.edu.cn. 3599 IN A 106.39.22.15
+
+dssaold.buct.edu.cn. 3600 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+dssaold.buct.edu.cn. 3599 IN A 202.4.136.102
+
+e.buct.edu.cn. 3600 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e.buct.edu.cn. 3599 IN A 121.195.154.204
+
+e1.buct.edu.cn. 3600 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e1.buct.edu.cn. 3599 IN A 121.195.154.205
+
+e2.buct.edu.cn. 3600 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e2.buct.edu.cn. 3599 IN A 121.195.154.206
+
+e3.buct.edu.cn. 3600 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e3.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3600 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+e4.buct.edu.cn. 3599 IN A 121.195.154.207
+
+eadmin.buct.edu.cn. 3600 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+eadmin.buct.edu.cn. 3599 IN A 121.195.154.208
+
+ecard.buct.edu.cn. 3600 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+ecard.buct.edu.cn. 3599 IN A 202.4.130.111
+
+eccce.buct.edu.cn. 3600 IN A 124.206.29.157
+
+eccps.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+en.education.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3594 IN A 106.39.22.29
+
+eec.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eec.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eec.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eec.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eecmeeting.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eecmeeting.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eecmeeting.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+eecmeeting.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+ef.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3595 IN A 106.39.22.2
+
+effund.buct.edu.cn. 3600 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+effund.buct.edu.cn. 3599 IN A 202.4.157.81
+
+ehca.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3594 IN A 106.39.22.29
+
+NXDOMAIN for electrochem-lab.buct.edu.cn
+
+NXDOMAIN for electrochem-lab.buct.edu.cn
+
+NXDOMAIN for electrochem-lab.buct.edu.cn
+
+NXDOMAIN for electrochem-lab.buct.edu.cn
+
+energy.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+energy.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+energy.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+energy.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+energy.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+energy.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+energy.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3594 IN A 106.39.22.2
+
+engineer.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3593 IN A 106.39.22.29
+
+engineer.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3593 IN A 106.39.22.29
+
+engineer.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3593 IN A 106.39.22.29
+
+engineer.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3593 IN A 106.39.22.29
+
+english.buct.edu.cn. 3600 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3595 IN A 121.195.154.239
+catest.buct.edu.cn. 3595 IN A 106.39.22.31
+
+english.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3595 IN A 121.195.154.239
+catest.buct.edu.cn. 3595 IN A 106.39.22.31
+
+english.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3595 IN A 121.195.154.239
+catest.buct.edu.cn. 3595 IN A 106.39.22.31
+
+english.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3595 IN A 121.195.154.239
+catest.buct.edu.cn. 3595 IN A 106.39.22.31
+
+www.etc.buct.edu.cn. 3600 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etc.buct.edu.cn. 3599 IN A 202.4.130.254
+
+www.etwc2.buct.edu.cn. 3600 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+www.etwc2.buct.edu.cn. 3599 IN A 202.4.152.135
+
+flag.buct.edu.cn. 3600 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+flag.buct.edu.cn. 3599 IN A 124.206.29.178
+
+NXDOMAIN for forum.buct.edu.cn
+
+NXDOMAIN for forum.buct.edu.cn
+
+NXDOMAIN for forum.buct.edu.cn
+
+NXDOMAIN for forum.buct.edu.cn
+
+fwzx.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3591 IN A 106.39.22.2
+
+fwzx.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3591 IN A 106.39.22.2
+
+fwzx.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3591 IN A 106.39.22.2
+
+fwzx.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3591 IN A 106.39.22.2
+
+NXDOMAIN for gate.buct.edu.cn
+
+NXDOMAIN for gate.buct.edu.cn
+
+NXDOMAIN for gate.buct.edu.cn
+
+NXDOMAIN for gate.buct.edu.cn
+
+NXDOMAIN for gate.buct.edu.cn
+
+gbkh.buct.edu.cn. 3600 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gbkh.buct.edu.cn. 3599 IN A 202.4.157.202
+
+gh.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3591 IN A 106.39.22.29
+
+gh.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3591 IN A 106.39.22.29
+
+gh.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3591 IN A 106.39.22.29
+
+gh.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3591 IN A 106.39.22.29
+
+www.gonghui.buct.edu.cn. 3600 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+www.gonghui.buct.edu.cn. 3599 IN A 202.4.155.8
+
+goto.buct.edu.cn. 3600 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+www.goto.buct.edu.cn. 3600 IN CNAME goto.buct.edu.cn.
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+www.goto.buct.edu.cn. 3599 IN CNAME goto.buct.edu.cn.
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+www.goto.buct.edu.cn. 3599 IN CNAME goto.buct.edu.cn.
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+www.goto.buct.edu.cn. 3599 IN CNAME goto.buct.edu.cn.
+goto.buct.edu.cn. 3599 IN A 106.39.22.4
+
+grad.buct.edu.cn. 3600 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+grad.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3599 IN A 106.39.22.10
+mail.buct.edu.cn. 3599 IN A 106.39.22.9
+mail.buct.edu.cn. 3599 IN A 106.39.22.11
+
+www.grad.buct.edu.cn. 3600 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+www.grad.buct.edu.cn. 3599 IN A 202.4.134.18
+
+graduate.buct.edu.cn. 2022 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 2021 IN A 106.39.22.30
+
+graduate.buct.edu.cn. 2021 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 2021 IN A 106.39.22.30
+
+graduate.buct.edu.cn. 2021 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 2021 IN A 106.39.22.30
+
+graduate.buct.edu.cn. 2021 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 2021 IN A 106.39.22.30
+
+en.graduate.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3591 IN A 106.39.22.2
+
+gs.buct.edu.cn. 3600 IN A 124.206.29.142
+
+gs.buct.edu.cn. 3599 IN A 124.206.29.142
+
+gs.buct.edu.cn. 3599 IN A 124.206.29.142
+
+gsc.buct.edu.cn. 3600 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+gsc.buct.edu.cn. 3599 IN A 202.4.157.142
+
+guangjuhe.buct.edu.cn. 3600 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+guangjuhe.buct.edu.cn. 3599 IN A 202.4.130.33
+
+NXDOMAIN for www.gwhpc.buct.edu.cn
+
+gxy.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+gym.buct.edu.cn. 3600 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gym.buct.edu.cn. 3599 IN A 202.4.130.254
+
+gzc.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+gzs.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+www.gzs.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+www.gzs.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+www.gzs.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+www.gzs.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+gzzd.buct.edu.cn. 3600 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+gzzd.buct.edu.cn. 3599 IN A 202.4.135.180
+
+hdtz.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hdtz.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hdtz.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hdtz.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hgaq-jgzb.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3590 IN A 106.39.22.2
+
+NXDOMAIN for higee.buct.edu.cn
+
+NXDOMAIN for higee.buct.edu.cn
+
+NXDOMAIN for higee.buct.edu.cn
+
+NXDOMAIN for higee.buct.edu.cn
+
+hjzx.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hotel.buct.edu.cn. 3600 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+hotel.buct.edu.cn. 3599 IN A 202.4.130.30
+
+houqin.buct.edu.cn. 3600 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 3591 IN A 106.39.22.30
+
+houqin.buct.edu.cn. 3599 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 3591 IN A 106.39.22.30
+
+houqin.buct.edu.cn. 3599 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 3591 IN A 106.39.22.30
+
+houqin.buct.edu.cn. 3599 IN CNAME proxy.buct.edu.cn.
+proxy.buct.edu.cn. 3591 IN A 106.39.22.30
+
+hpc.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hpc.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hpc.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hpc.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hqbzb.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3590 IN A 106.39.22.29
+
+hr1.buct.edu.cn. 3600 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+hr1.buct.edu.cn. 3599 IN A 202.4.130.230
+
+huangjm.buct.edu.cn. 3600 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+huangjm.buct.edu.cn. 3599 IN A 202.4.152.6
+
+hzjlc.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+i.buct.edu.cn. 3600 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+i.buct.edu.cn. 3599 IN A 106.39.22.5
+
+idp-lib.buct.edu.cn. 3600 IN A 121.195.154.130
+
+idp-lib.buct.edu.cn. 3599 IN A 121.195.154.130
+
+idp-lib.buct.edu.cn. 3599 IN A 121.195.154.130
+
+iecd.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+iecd.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+iecd.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+iecd.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+iecdold.buct.edu.cn. 3600 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+iecdold.buct.edu.cn. 3599 IN A 121.195.154.201
+
+ielab.buct.edu.cn. 3600 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+ielab.buct.edu.cn. 3599 IN A 202.4.130.33
+
+NXDOMAIN for imm.buct.edu.cn
+
+NXDOMAIN for imm.buct.edu.cn
+
+NXDOMAIN for imm.buct.edu.cn
+
+NXDOMAIN for imm.buct.edu.cn
+
+NXDOMAIN for imm.buct.edu.cn
+
+NXDOMAIN for imm.buct.edu.cn
+
+NXDOMAIN for imm.buct.edu.cn
+
+ipme.buct.edu.cn. 3600 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+ipme.buct.edu.cn. 3599 IN A 124.206.29.171
+
+www.ircsm.buct.edu.cn. 3600 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.ircsm.buct.edu.cn. 3599 IN A 202.4.152.26
+
+isemoodle.buct.edu.cn. 3600 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+isemoodle.buct.edu.cn. 3599 IN A 121.195.154.239
+
+jiaowuchu.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jiaowuchu.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jiaowuchu.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jiaowuchu.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jjc.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jjc.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jjc.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jjc.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jjfz.buct.edu.cn. 3600 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+jjfz.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+jjfz.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+jjfz.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+jjfz.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+jjfz.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+jjfz.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+
+www.jn.buct.edu.cn. 3600 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+www.jn.buct.edu.cn. 3599 IN A 202.4.136.162
+
+job.buct.edu.cn. 613 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+job.buct.edu.cn. 612 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 612 IN A 106.39.22.29
+
+NXDOMAIN for www.job.buct.edu.cn
+
+www.journal.buct.edu.cn. 3600 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+www.journal.buct.edu.cn. 3599 IN A 202.4.154.2
+
+jshx.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3589 IN A 106.39.22.2
+
+jshx.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3589 IN A 106.39.22.2
+
+jshx.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3589 IN A 106.39.22.2
+
+jshx.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3589 IN A 106.39.22.2
+
+jwgl.buct.edu.cn. 3600 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwgl.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3600 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt.buct.edu.cn. 3599 IN A 202.4.152.146
+
+jwglxt-proxy.buct.edu.cn. 3600 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3600 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwglxt-proxy2.buct.edu.cn. 3599 IN CNAME catest.buct.edu.cn.
+catest.buct.edu.cn. 3591 IN A 121.195.154.239
+catest.buct.edu.cn. 3591 IN A 106.39.22.31
+
+jwjc.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3589 IN A 106.39.22.29
+
+jwsz.buct.edu.cn. 3600 IN A 202.4.152.148
+
+jwsz.buct.edu.cn. 3599 IN A 202.4.152.148
+
+jwsz.buct.edu.cn. 3599 IN A 202.4.152.148
+
+jwsz.buct.edu.cn. 3599 IN A 202.4.152.148
+
+jwsz.buct.edu.cn. 3599 IN A 202.4.152.148
+
+jwsz.buct.edu.cn. 3599 IN A 202.4.152.148
+
+jwsz.buct.edu.cn. 3599 IN A 202.4.152.148
+
+jxyj.buct.edu.cn. 3600 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+jxyj.buct.edu.cn. 3599 IN A 202.4.152.150
+
+www.kjc.buct.edu.cn. 3600 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+www.kjc.buct.edu.cn. 3599 IN A 124.206.29.149
+
+kygl.buct.edu.cn. 3600 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+kygl.buct.edu.cn. 3599 IN A 202.4.130.236
+
+lab.buct.edu.cn. 3600 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lab.buct.edu.cn. 3599 IN A 202.4.157.13
+
+lantu.buct.edu.cn. 3600 IN A 202.4.130.143
+
+lantu.buct.edu.cn. 3599 IN A 202.4.130.143
+
+lantu.buct.edu.cn. 3599 IN A 202.4.130.143
+
+lantu.buct.edu.cn. 3599 IN A 202.4.130.143
+
+lantu.buct.edu.cn. 3599 IN A 202.4.130.143
+
+lantu.buct.edu.cn. 3599 IN A 202.4.130.143
+
+lantu.buct.edu.cn. 3599 IN A 202.4.130.143
+
+ldh.buct.edu.cn. 3600 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+ldh.buct.edu.cn. 3599 IN A 202.4.138.208
+
+lib.buct.edu.cn. 3600 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+lib.buct.edu.cn. 3599 IN A 202.4.130.19
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for ftp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for idp.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for opac.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+NXDOMAIN for proxy1.lib.buct.edu.cn
+
+www.lib.buct.edu.cn. 3600 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+NXDOMAIN for lib1.buct.edu.cn
+
+lib2.buct.edu.cn. 3600 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+lib2.buct.edu.cn. 3599 IN CNAME lib.buct.edu.cn.
+lib.buct.edu.cn. 3598 IN A 202.4.130.19
+
+life.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+life.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+life.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+life.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+en.life.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+en.life.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+en.life.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+log.buct.edu.cn. 3600 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+log.buct.edu.cn. 3599 IN A 202.4.130.92
+
+lot.buct.edu.cn. 3600 IN A 202.4.130.36
+
+lot.buct.edu.cn. 3599 IN A 202.4.130.36
+
+lot.buct.edu.cn. 3599 IN A 202.4.130.36
+
+lot.buct.edu.cn. 3599 IN A 202.4.130.36
+
+lot.buct.edu.cn. 3599 IN A 202.4.130.36
+
+lot.buct.edu.cn. 3599 IN A 202.4.130.36
+
+lot.buct.edu.cn. 3599 IN A 202.4.130.36
+
+lowcarbon.buct.edu.cn. 3600 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+lowcarbon.buct.edu.cn. 3599 IN A 202.4.130.28
+
+ltx.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3587 IN A 106.39.22.29
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+mail.buct.edu.cn. 3595 IN A 106.39.22.10
+mail.buct.edu.cn. 3595 IN A 106.39.22.9
+mail.buct.edu.cn. 3595 IN A 106.39.22.11
+
+NXDOMAIN for mail1.buct.edu.cn
+
+NXDOMAIN for mail1.buct.edu.cn
+
+NXDOMAIN for mail1.buct.edu.cn
+
+NXDOMAIN for mail1.buct.edu.cn
+
+NXDOMAIN for mail1.buct.edu.cn
+
+NXDOMAIN for mail1.buct.edu.cn
+
+NXDOMAIN for mail1.buct.edu.cn
+
+marxism.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+marxism.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+marxism.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+marxism.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3587 IN A 106.39.22.29
+
+mba.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3588 IN A 106.39.22.2
+
+mba.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3588 IN A 106.39.22.2
+
+mba.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3588 IN A 106.39.22.2
+
+mba.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3588 IN A 106.39.22.2
+
+en.mech.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+NXDOMAIN for www.mech.buct.edu.cn
+
+media.buct.edu.cn. 3600 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+media.buct.edu.cn. 3599 IN A 202.4.136.29
+
+meepo.buct.edu.cn. 3600 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+meepo.buct.edu.cn. 3599 IN A 202.4.130.147
+
+membrane.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3587 IN A 106.39.22.29
+
+mlib.buct.edu.cn. 3600 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 42.62.107.226
+5read.aichaoxing.com. 9 IN A 140.210.72.6
+5read.aichaoxing.com. 9 IN A 42.62.107.229
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+NXDOMAIN for ms.mlib.buct.edu.cn
+
+mpacc.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3588 IN A 106.39.22.2
+
+www.ms.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3588 IN A 106.39.22.2
+
+my.buct.edu.cn. 3600 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+my.buct.edu.cn. 3599 IN A 106.39.22.33
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+NXDOMAIN for mypage.buct.edu.cn
+
+www.ncfc.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+newcampusname.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+newcampusname.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+newcampusname.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+newcampusname.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+news.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+news.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+news.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+news.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+www.nhca3.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3586 IN A 106.39.22.2
+
+ns.buct.edu.cn. 3600 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns.buct.edu.cn. 3599 IN A 202.4.130.100
+
+ns2.buct.edu.cn. 3600 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns2.buct.edu.cn. 3599 IN A 202.4.130.101
+
+ns3.buct.edu.cn. 3600 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns3.buct.edu.cn. 3599 IN A 121.195.159.100
+
+ns4.buct.edu.cn. 3600 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns4.buct.edu.cn. 3599 IN A 223.72.201.254
+
+ns5.buct.edu.cn. 3600 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+ns5.buct.edu.cn. 3599 IN A 106.39.22.254
+
+nyhjgzs.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+oa.buct.edu.cn. 3600 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+oa.buct.edu.cn. 3599 IN A 202.4.157.35
+
+NXDOMAIN for www.oic.buct.edu.cn
+
+NXDOMAIN for oldsci.buct.edu.cn
+
+NXDOMAIN for oldsci.buct.edu.cn
+
+NXDOMAIN for oldsci.buct.edu.cn
+
+omse.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+pay.buct.edu.cn. 3600 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+pay.buct.edu.cn. 3599 IN A 202.4.130.42
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+NXDOMAIN for www.polym.buct.edu.cn
+
+portal.buct.edu.cn. 3600 IN A 106.39.22.33
+
+portal.buct.edu.cn. 3599 IN A 106.39.22.33
+
+portal.buct.edu.cn. 3599 IN A 106.39.22.33
+
+ppnp.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3586 IN A 106.39.22.29
+
+process.buct.edu.cn. 3600 IN A 202.4.130.58
+
+process.buct.edu.cn. 3599 IN A 202.4.130.58
+
+process.buct.edu.cn. 3599 IN A 202.4.130.58
+
+process.buct.edu.cn. 3599 IN A 202.4.130.58
+
+process.buct.edu.cn. 3599 IN A 202.4.130.58
+
+process.buct.edu.cn. 3599 IN A 202.4.130.58
+
+process.buct.edu.cn. 3599 IN A 202.4.130.58
+
+www.pu.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3587 IN A 106.39.22.2
+
+qhdyjy.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qhdyjy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qhdyjy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qirongforum.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qirongforum.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qirongforum.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qirongforum.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3586 IN A 106.39.22.29
+
+qzlx.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+rcb.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3585 IN A 106.39.22.29
+
+rcb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3585 IN A 106.39.22.29
+
+rcb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3585 IN A 106.39.22.29
+
+rcb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3585 IN A 106.39.22.29
+
+rcecsp.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+rcecsp.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+rcecsp.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+rcecsp.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+re-book.buct.edu.cn. 3600 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+re-book.buct.edu.cn. 3599 IN A 121.195.154.218
+
+www.renshi.buct.edu.cn. 3600 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+www.renshi.buct.edu.cn. 3599 IN A 202.4.130.245
+
+research.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+research.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+research.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+research.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+mis.research.buct.edu.cn. 3600 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+mis.research.buct.edu.cn. 3599 IN A 202.4.152.53
+
+rsc.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3584 IN A 106.39.22.29
+
+rsc.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3584 IN A 106.39.22.29
+
+rsc.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3584 IN A 106.39.22.29
+
+rsc.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3584 IN A 106.39.22.29
+
+sci.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sci.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sci.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sci.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sci.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+security.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+security.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+security.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+security.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+www.security.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+www.security.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+www.security.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+www.security.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3584 IN A 106.39.22.29
+
+pay.selfchangcard.buct.edu.cn. 3600 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+pay.selfchangcard.buct.edu.cn. 3599 IN A 202.4.130.68
+
+en.sem.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sem.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sem.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+en.sem.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+www.sem.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3585 IN A 106.39.22.2
+
+www.setc.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3584 IN A 106.39.22.2
+
+sie.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3583 IN A 106.39.22.29
+
+sie.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3583 IN A 106.39.22.29
+
+sie.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3583 IN A 106.39.22.29
+
+sie.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3583 IN A 106.39.22.29
+
+www.sie.buct.edu.cn. 3600 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.sie.buct.edu.cn. 3599 IN A 202.4.152.26
+
+www.siemenscup.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3583 IN A 106.39.22.2
+
+www.sj.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3583 IN A 106.39.22.2
+
+smf.buct.edu.cn. 3600 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+NXDOMAIN for effund.buct.edu.cnwww.smf.buct.edu.cn
+
+www.smf.buct.edu.cn. 3600 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+www.smf.buct.edu.cn. 3599 IN A 202.4.136.6
+
+sms.buct.edu.cn. 3599 IN A 202.4.130.237
+
+sms.buct.edu.cn. 3598 IN A 202.4.130.237
+
+sms.buct.edu.cn. 3598 IN A 202.4.130.237
+
+sms.buct.edu.cn. 3598 IN A 202.4.130.237
+
+sms.buct.edu.cn. 3598 IN A 202.4.130.237
+
+sms.buct.edu.cn. 3598 IN A 202.4.130.237
+
+sms.buct.edu.cn. 3598 IN A 202.4.130.237
+
+snc.buct.edu.cn. 3600 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+snc.buct.edu.cn. 3599 IN A 202.4.136.99
+
+wechat.snc.buct.edu.cn. 3600 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+wechat.snc.buct.edu.cn. 3599 IN A 202.4.136.101
+
+software.buct.edu.cn. 3600 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+software.buct.edu.cn. 3599 IN A 121.195.153.229
+
+sp.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+srtp.buct.edu.cn. 3600 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+srtp.buct.edu.cn. 3599 IN A 202.4.152.181
+
+stud.buct.edu.cn. 3600 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+stud.buct.edu.cn. 3599 IN CNAME mail.buct.edu.cn.
+mail.buct.edu.cn. 3589 IN A 106.39.22.10
+mail.buct.edu.cn. 3589 IN A 106.39.22.9
+mail.buct.edu.cn. 3589 IN A 106.39.22.11
+
+suce2017.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+suce2017.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+suce2017.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+suce2017.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+sybase.buct.edu.cn. 3600 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sybase.buct.edu.cn. 3599 IN A 202.4.130.83
+
+sysaq.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+www.szjd.buct.edu.cn. 3600 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+www.szjd.buct.edu.cn. 3599 IN A 202.4.130.56
+
+talent.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+tclc.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+www.tdmt.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+top.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+track.buct.edu.cn. 3600 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+track.buct.edu.cn. 3599 IN A 202.4.136.133
+
+traffic.buct.edu.cn. 3600 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+traffic.buct.edu.cn. 3599 IN A 202.4.152.42
+
+tree.buct.edu.cn. 3600 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3600 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tree1.buct.edu.cn. 3599 IN A 202.4.130.95
+
+tzb.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3582 IN A 106.39.22.2
+
+ubuntu.buct.edu.cn. 3600 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+ubuntu.buct.edu.cn. 3599 IN A 124.206.29.168
+
+v.buct.edu.cn. 3600 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+v.buct.edu.cn. 3599 IN A 202.4.153.35
+
+vpn.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3581 IN A 106.39.22.29
+
+w.buct.edu.cn. 3600 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+w.buct.edu.cn. 3599 IN A 106.39.22.33
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+NXDOMAIN for www.w.buct.edu.cn
+
+wangyq.buct.edu.cn. 3600 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3600 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+www.wangyq.buct.edu.cn. 3599 IN A 202.4.152.28
+
+water-polymer.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3581 IN A 106.39.22.29
+
+weixin.buct.edu.cn. 3600 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+weixin.buct.edu.cn. 3599 IN A 202.4.130.102
+
+welcomesta.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+welcomesta.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+welcomesta.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+welcomesta.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+wfxy.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wfxy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wfxy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wfxy.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wfxyeng.buct.edu.cn. 3600 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wfxyeng.buct.edu.cn. 3599 IN A 202.4.130.240
+
+wljxjd.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+www.buct.edu.cn. 865 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+www.buct.edu.cn. 864 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 864 IN A 106.39.22.29
+
+wwwold.buct.edu.cn. 3600 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wwwold.buct.edu.cn. 3599 IN A 124.206.29.132
+
+wx.buct.edu.cn. 3600 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wx.buct.edu.cn. 3599 IN A 202.4.130.134
+
+wxgzc.buct.edu.cn. 3600 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wxgzc.buct.edu.cn. 3599 IN A 202.4.130.199
+
+wzb.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+wzb.buct.edu.cn. 3599 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3580 IN A 106.39.22.29
+
+NXDOMAIN for www.wzb.buct.edu.cn
+
+NXDOMAIN for www.wzb.buct.edu.cn
+
+xb.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xb.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xb.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xb.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xf.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+xf.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+xf.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+en.xgb.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+en.xgb.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+en.xgb.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+en.xgb.buct.edu.cn. 3599 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+www.xgb.buct.edu.cn. 3600 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+www.xgb.buct.edu.cn. 3599 IN A 202.4.136.136
+
+xieht.buct.edu.cn. 3600 IN A 202.4.152.92
+
+xieht.buct.edu.cn. 3599 IN A 202.4.152.92
+
+xieht.buct.edu.cn. 3599 IN A 202.4.152.92
+
+xieht.buct.edu.cn. 3599 IN A 202.4.152.92
+
+xieht.buct.edu.cn. 3599 IN A 202.4.152.92
+
+xieht.buct.edu.cn. 3599 IN A 202.4.152.92
+
+xieht.buct.edu.cn. 3599 IN A 202.4.152.92
+
+www.xmy.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+NXDOMAIN for xwfw.buct.edu.cn
+
+xxgk.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxgk.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxgk.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxgk.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxq.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxq.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxq.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xxq.buct.edu.cn. 3599 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+xyfw.buct.edu.cn. 3600 IN A 202.4.136.21
+
+xyfw.buct.edu.cn. 3599 IN A 202.4.136.21
+
+xyfw.buct.edu.cn. 3599 IN A 202.4.136.21
+
+xyfw.buct.edu.cn. 3599 IN A 202.4.136.21
+
+xyfw.buct.edu.cn. 3599 IN A 202.4.136.21
+
+xyfw.buct.edu.cn. 3599 IN A 202.4.136.21
+
+xyfw.buct.edu.cn. 3599 IN A 202.4.136.21
+
+yabec.buct.edu.cn. 3600 IN A 202.4.130.30
+
+yabec.buct.edu.cn. 3599 IN A 202.4.130.30
+
+yabec.buct.edu.cn. 3599 IN A 202.4.130.30
+
+yabec.buct.edu.cn. 3599 IN A 202.4.130.30
+
+yabec.buct.edu.cn. 3599 IN A 202.4.130.30
+
+yabec.buct.edu.cn. 3599 IN A 202.4.130.30
+
+yabec.buct.edu.cn. 3599 IN A 202.4.130.30
+
+www.yabec.buct.edu.cn. 3600 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+www.yabec.buct.edu.cn. 3599 IN A 202.4.130.162
+
+youth.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+ysgl.buct.edu.cn. 3600 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+ysgl.buct.edu.cn. 3599 IN A 202.4.135.57
+
+zizhu.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+www.zizhu.buct.edu.cn. 3600 IN CNAME cgb.buct.edu.cn.
+cgb.buct.edu.cn. 3580 IN A 106.39.22.29
+
+www.zngc.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3581 IN A 106.39.22.2
+
+zszx.buct.edu.cn. 3600 IN CNAME open.buct.edu.cn.
+open.buct.edu.cn. 3580 IN A 106.39.22.2
+
+zuzhibu.buct.edu.cn. 3600 IN CNAME sdwzq.buct.edu.cn.
+sdwzq.buct.edu.cn. 3579 IN A 106.39.22.29
+
+www.zzb.buct.edu.cn. 3600 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+www.zzb.buct.edu.cn. 3599 IN A 124.206.29.164
+
+zzgz.buct.edu.cn. 3600 IN A 202.4.157.202
+
+zzgz.buct.edu.cn. 3599 IN A 202.4.157.202
+
+zzgz.buct.edu.cn. 3599 IN A 202.4.157.202
+
+zzgz.buct.edu.cn. 3599 IN A 202.4.157.202
+
+zzgz.buct.edu.cn. 3599 IN A 202.4.157.202
+
+zzgz.buct.edu.cn. 3599 IN A 202.4.157.202
+

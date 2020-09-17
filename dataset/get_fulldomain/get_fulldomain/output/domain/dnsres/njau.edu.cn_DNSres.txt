@@ -1,0 +1,1509 @@
+infoweb.njau.edu.cnnjau.edu.cn. 0 IN A 220.250.64.225
+
+njau.edu.cn. 7200 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+njau.edu.cn. 7199 IN A 58.240.70.200
+
+110anni.njau.edu.cn. 7200 IN CNAME news.njau.edu.cn.
+news.njau.edu.cn. 6620 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6620 IN A 58.240.70.211
+
+110anni.njau.edu.cn. 7199 IN CNAME news.njau.edu.cn.
+news.njau.edu.cn. 6620 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6620 IN A 58.240.70.211
+
+2018.njau.edu.cn. 7200 IN CNAME 2017.njau.edu.cn.
+2018.njau.edu.cn. 0 IN A 220.250.64.225
+
+2019.njau.edu.cn. 7200 IN CNAME go.njau.edu.cn.
+go.njau.edu.cn. 7199 IN CNAME host.njau.edu.cn.
+host.njau.edu.cn. 7199 IN A 58.240.70.210
+
+90th.njau.edu.cn. 0 IN A 220.250.64.225
+
+90th.njau.edu.cn. 60 IN A 220.250.64.225
+
+90th.njau.edu.cn. 59 IN A 220.250.64.225
+
+aao.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+aao.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+aao.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+aao.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+ac.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+agriplan.njau.edu.cn. 7200 IN A 202.195.241.235
+
+agriplan.njau.edu.cn. 7199 IN A 202.195.241.235
+
+apiaceae.njau.edu.cn. 7200 IN A 202.195.250.106
+
+apiaceae.njau.edu.cn. 7199 IN A 202.195.250.106
+
+auth.njau.edu.cn. 7200 IN A 202.195.240.19
+
+authserver.njau.edu.cn. 7200 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+authserver.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7199 IN A 58.240.70.221
+
+bic.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+bio.njau.edu.cn. 7200 IN A 202.195.246.18
+
+bioinfo.njau.edu.cn. 7200 IN A 202.195.250.104
+
+biomass-group.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+bmb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+bmb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+bsa2018.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+bsa2018.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+bwc.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+bwc.njau.edu.cn. 60 IN A 202.195.246.240
+
+bwc.njau.edu.cn. 59 IN A 202.195.246.240
+
+bylw.njau.edu.cn. 7200 IN A 202.195.246.114
+
+bylw.njau.edu.cn. 7199 IN A 202.195.246.114
+
+bylw.njau.edu.cn. 7199 IN A 202.195.246.114
+
+cai.njau.edu.cn. 7200 IN A 202.195.241.114
+
+cbi.njau.edu.cn. 7200 IN A 202.195.246.60
+
+cc.njau.edu.cn. 7200 IN CNAME ccinfo.njau.edu.cn.
+ccinfo.njau.edu.cn. 7199 IN A 202.195.250.42
+
+cc.njau.edu.cn. 7199 IN CNAME ccinfo.njau.edu.cn.
+ccinfo.njau.edu.cn. 7199 IN A 202.195.250.42
+
+cc.njau.edu.cn. 7199 IN CNAME ccinfo.njau.edu.cn.
+ccinfo.njau.edu.cn. 7199 IN A 202.195.250.42
+
+ccinfo.njau.edu.cn. 7199 IN A 202.195.250.42
+
+chaxin.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+chem.njau.edu.cn. 7200 IN A 202.195.246.32
+
+chenlab.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+chenlab.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+cicmcp.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+cicmcp.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+clm.njau.edu.cn. 7200 IN A 202.195.246.12
+
+clm.njau.edu.cn. 7199 IN A 202.195.246.12
+
+clm.njau.edu.cn. 7199 IN A 202.195.246.12
+
+clm.njau.edu.cn. 7199 IN A 202.195.246.12
+
+pprc.njau.edu.cnento.njau.edu.cn. 0 IN A 220.250.64.225
+
+mumlab.njau.edu.cnmba.njau.edu.cn. 0 IN A 220.250.64.225
+
+infoweb.njau.edu.cnmei.njau.edu.cn. 0 IN A 220.250.64.225
+
+my.njau.edu.cnnews.njau.edu.cn. 0 IN A 220.250.64.225
+
+authserver.njau.edu.cnnjaudns.njau.edu.cn. 0 IN A 220.250.64.225
+
+infoweb.njau.edu.cnswzx.njau.edu.cn. 0 IN A 220.250.64.225
+
+coie.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+coie.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+coie.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+coieen.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+coieen.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cos.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cos.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cos.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cosen.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cosen.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cpf.njau.edu.cn. 7200 IN CNAME eco.njau.edu.cn.
+eco.njau.edu.cn. 7199 IN A 202.195.241.205
+
+cpf.njau.edu.cn. 7199 IN CNAME eco.njau.edu.cn.
+eco.njau.edu.cn. 7199 IN A 202.195.241.205
+
+cres.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cres.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+ctccs.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+ctccs.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+ctccs.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+cvm.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+cvm.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+cvm.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+cvmen.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+cyxy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+cyxy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+cyxy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dangan.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+dangan.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+dangan.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+dangan.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+dangan.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+db.njau.edu.cn. 7200 IN A 202.195.243.11
+
+db.njau.edu.cn. 7199 IN A 202.195.243.11
+
+db.njau.edu.cn. 7199 IN A 202.195.243.11
+
+dc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dky.njau.edu.cn. 7200 IN CNAME ssyy.njau.edu.cn.
+ssyy.njau.edu.cn. 7199 IN A 202.195.246.21
+
+dky.njau.edu.cn. 7199 IN CNAME ssyy.njau.edu.cn.
+ssyy.njau.edu.cn. 7199 IN A 202.195.246.21
+
+dky.njau.edu.cn. 7199 IN CNAME ssyy.njau.edu.cn.
+ssyy.njau.edu.cn. 7199 IN A 202.195.246.21
+
+dkylab.njau.edu.cn. 7200 IN A 202.195.250.117
+
+dongwu.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dongwu.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dongwu.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dpstar.njau.edu.cn. 7200 IN A 202.195.244.119
+
+dwyy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dwyy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+dx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+eco.njau.edu.cn. 7198 IN A 202.195.241.205
+
+economy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+economy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+economy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+economy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+ecosystemecology.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+efinance.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+efinance.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+efinance.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+english.njau.edu.cn. 7200 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6616 IN A 58.240.70.211
+
+english.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6616 IN A 58.240.70.211
+
+english.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6616 IN A 58.240.70.211
+
+engyouth.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+ento.njau.edu.cn. 7200 IN A 202.195.241.104
+
+finance.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+finance.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+finance.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+flb.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+food.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+food.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+food.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+food.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+foreign.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+foreign.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+foreign.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+foreign.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+foreignen.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+fpms.njau.edu.cn. 7200 IN A 202.195.246.39
+
+ftp.njau.edu.cn. 7200 IN A 202.195.244.88
+
+ghy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+ghy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+ghy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+gjs.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+gjs.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+go.njau.edu.cn. 7194 IN CNAME host.njau.edu.cn.
+host.njau.edu.cn. 7194 IN A 58.240.70.210
+
+go.njau.edu.cn. 7194 IN CNAME host.njau.edu.cn.
+host.njau.edu.cn. 7194 IN A 58.240.70.210
+
+gonghui.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+gonghui.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+grasch.njau.edu.cn. 5347 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5346 IN A 202.195.246.240
+
+grasch.njau.edu.cn. 5346 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5346 IN A 202.195.246.240
+
+grasch.njau.edu.cn. 5346 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5346 IN A 202.195.246.240
+
+grasch.njau.edu.cn. 5346 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5346 IN A 202.195.246.240
+
+grasch.njau.edu.cn. 5346 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5346 IN A 202.195.246.240
+
+graschgzb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+graschgzb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+graschgzb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7195 IN A 202.195.246.240
+
+host.njau.edu.cn. 7194 IN A 58.240.70.210
+
+hqjt.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+hqjt.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+hqjt.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+hqjt.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+idp.njau.edu.cn. 7200 IN A 202.195.240.20
+
+idp.njau.edu.cn. 7199 IN A 202.195.240.20
+
+idp.njau.edu.cn. 7199 IN A 202.195.240.20
+
+info.njau.edu.cn. 7200 IN A 202.195.246.23
+
+info.njau.edu.cn. 7199 IN A 202.195.246.23
+
+info.njau.edu.cn. 7199 IN A 202.195.246.23
+
+infoweb.njau.edu.cn. 7200 IN A 202.195.250.20
+
+infoweb.njau.edu.cn. 7199 IN A 202.195.250.20
+
+infoweb.njau.edu.cn. 7199 IN A 202.195.250.20
+
+infoweb.njau.edu.cn. 7199 IN A 202.195.250.20
+
+infoweb.njau.edu.cn. 7199 IN A 202.195.250.20
+
+infoweb.njau.edu.cn. 7199 IN A 202.195.250.20
+
+instrumentskl.njau.edu.cn. 7200 IN A 202.195.246.95
+
+ioi.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+ioi.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+iragn.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+iragn.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+iragn.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+ireea.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+ireea.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+ireea.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jalis-reader.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jcc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+jcc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+jcc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+jgb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+jgb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7194 IN A 202.195.246.240
+
+jjc.njau.edu.cn. 7200 IN A 202.195.246.25
+
+jjc.njau.edu.cn. 7199 IN A 202.195.246.25
+
+jjc.njau.edu.cn. 7199 IN A 202.195.246.25
+
+jjh.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+jjh.njau.edu.cn. 59 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+jjh.njau.edu.cn. 59 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+jjs.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjs.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjs.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jrsyzx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jrsyzx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jrsyzx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jrsyzx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jsb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jsfz.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jsfz.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+jszyzx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jszyzx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jszyzx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jw1.njau.edu.cn. 7200 IN A 202.195.250.44
+
+jw1.njau.edu.cn. 7199 IN A 202.195.250.44
+
+jw3.njau.edu.cn. 7200 IN A 202.195.250.43
+
+jw3.njau.edu.cn. 7199 IN A 202.195.250.43
+
+jwc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7193 IN A 202.195.246.240
+
+jysx.njau.edu.cn. 7200 IN A 202.195.241.114
+
+kexie.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+kexie.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+kexie.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+kjfw.njau.edu.cn. 7200 IN A 202.195.250.29
+
+kxyjy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+kxyjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+kxyjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+kxyjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7192 IN A 202.195.246.240
+
+la.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+la.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+la.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+lfc.njau.edu.cn. 7200 IN A 202.195.246.19
+
+lfc.njau.edu.cn. 7199 IN A 202.195.246.19
+
+lgm.njau.edu.cn. 7200 IN CNAME metc.njau.edu.cn.
+metc.njau.edu.cn. 7199 IN A 202.195.244.93
+
+lgm.njau.edu.cn. 7199 IN CNAME metc.njau.edu.cn.
+metc.njau.edu.cn. 7199 IN A 202.195.244.93
+
+lib.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+lib.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+lib.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+lib.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+liben.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+liben.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+libs.njau.edu.cn. 7200 IN A 202.195.243.74
+
+libweb.njau.edu.cn. 60 IN A 202.195.243.100
+
+libweb.njau.edu.cn. 59 IN A 202.195.243.100
+
+libwww.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+libwww.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+libwww.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+lic.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+ltx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+ltx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+ltx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+m2015.njau.edu.cn. 7200 IN CNAME v2015.njau.edu.cn.
+v2015.njau.edu.cn. 7199 IN A 58.240.70.217
+
+m2015.njau.edu.cn. 7199 IN CNAME v2015.njau.edu.cn.
+v2015.njau.edu.cn. 7199 IN A 58.240.70.217
+
+mail.njau.edu.cn. 6962 IN A 58.240.70.195
+
+mail.njau.edu.cn. 6961 IN A 58.240.70.195
+
+mail.njau.edu.cn. 6961 IN A 58.240.70.195
+
+mail.njau.edu.cn. 6961 IN A 58.240.70.195
+
+mailscan.njau.edu.cn. 7200 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 7199 IN A 58.240.70.195
+
+mascotton.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7191 IN A 202.195.246.240
+
+mba.njau.edu.cn. 7200 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mba.njau.edu.cn. 7199 IN A 202.195.244.9
+
+mei.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+metc.njau.edu.cn. 7198 IN A 202.195.244.93
+
+mlib.njau.edu.cn. 7200 IN A 202.195.244.211
+
+moakeylab.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+mobile.njau.edu.cn. 7200 IN A 202.195.244.120
+
+mpacc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+mpacc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+mumlab.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+mumlab.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+mxy.njau.edu.cn. 7200 IN A 202.195.250.39
+
+mxy.njau.edu.cn. 7199 IN A 202.195.250.39
+
+my.njau.edu.cn. 7200 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+my.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+myportal.njau.edu.cn. 7189 IN A 58.240.70.221
+
+naucc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+nausrt.njau.edu.cn. 7200 IN A 202.195.246.114
+
+nausrt.njau.edu.cn. 7199 IN A 202.195.246.114
+
+nauweb.njau.edu.cn. 6611 IN A 58.240.70.211
+
+nauxb.njau.edu.cn. 7200 IN A 202.195.244.66
+
+nauxb.njau.edu.cn. 7199 IN A 202.195.244.66
+
+nauxb.njau.edu.cn. 7199 IN A 202.195.244.66
+
+nauxb.njau.edu.cn. 7199 IN A 202.195.244.66
+
+nc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7190 IN A 202.195.246.240
+
+ncsi.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+ncsi.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+ncsi.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+net.njau.edu.cn. 7200 IN A 202.195.246.240
+
+net.njau.edu.cn. 7199 IN A 202.195.246.240
+
+net.njau.edu.cn. 7199 IN A 202.195.246.240
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+news.njau.edu.cn. 6610 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 6610 IN A 58.240.70.211
+
+newsadmin.njau.edu.cn. 7200 IN A 202.195.246.10
+
+newsadmin.njau.edu.cn. 7199 IN A 202.195.246.10
+
+nhccbase.njau.edu.cn. 7200 IN A 202.195.250.2
+
+nhccbase.njau.edu.cn. 7199 IN A 202.195.250.2
+
+nhccdata.njau.edu.cn. 7200 IN CNAME nhccbase.njau.edu.cn.
+nhccbase.njau.edu.cn. 7199 IN A 202.195.250.2
+
+njaudns.njau.edu.cn. 7200 IN A 202.195.241.234
+
+njaudns.njau.edu.cn. 7199 IN A 202.195.241.234
+
+nndyy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nndyy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nndyy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nndyy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nnyn.njau.edu.cn. 7200 IN A 202.195.246.73
+
+nnyn.njau.edu.cn. 7199 IN A 202.195.246.73
+
+nnyn.njau.edu.cn. 7199 IN A 202.195.246.73
+
+nnyn.njau.edu.cn. 7199 IN A 202.195.246.73
+
+nx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+nx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7188 IN A 202.195.246.240
+
+oa2.njau.edu.cn. 7200 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 7198 IN A 58.240.70.221
+
+olem.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+olem.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+olem.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7189 IN A 202.195.246.240
+
+pear.njau.edu.cn. 7200 IN A 202.195.246.34
+
+peargenome.njau.edu.cn. 7200 IN CNAME pear.njau.edu.cn.
+pear.njau.edu.cn. 7199 IN A 202.195.246.34
+
+peargenome.njau.edu.cn. 7199 IN CNAME pear.njau.edu.cn.
+pear.njau.edu.cn. 7199 IN A 202.195.246.34
+
+peargenome.njau.edu.cn. 7199 IN CNAME pear.njau.edu.cn.
+pear.njau.edu.cn. 7199 IN A 202.195.246.34
+
+pk.njau.edu.cn. 10800 IN A 127.0.0.1
+
+pk.njau.edu.cn. 7199 IN A 127.0.0.1
+
+bylw.pk.njau.edu.cn. 10800 IN A 211.87.6.105
+
+bylw.pk.njau.edu.cn. 7199 IN A 211.87.6.105
+
+cxxl.pk.njau.edu.cn. 10800 IN A 211.87.6.105
+
+cxxl.pk.njau.edu.cn. 7199 IN A 211.87.6.105
+
+cxxl.pk.njau.edu.cn. 7199 IN A 211.87.6.105
+
+dban.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+dqx.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+dqx.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+dqx.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+ghui.pk.njau.edu.cn. 60 IN A 211.87.4.205
+
+ghui.pk.njau.edu.cn. 59 IN A 211.87.4.205
+
+glx.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+glx.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+jcb.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+jcb.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+jcb.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+jcc.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+jcc.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+jcc.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+jcc.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+jcs.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+jpkc.pk.njau.edu.cn. 10800 IN A 211.87.6.80
+
+jsnj.pk.njau.edu.cn. 10800 IN A 211.87.4.210
+
+jsnj.pk.njau.edu.cn. 7199 IN A 211.87.4.210
+
+jw1.pk.njau.edu.cn. 10800 IN A 211.87.6.82
+
+jw1.pk.njau.edu.cn. 7199 IN A 211.87.6.82
+
+jwc.pk.njau.edu.cn. 10800 IN A 211.87.6.104
+
+jwc.pk.njau.edu.cn. 7199 IN A 211.87.6.104
+
+jwc.pk.njau.edu.cn. 7199 IN A 211.87.6.104
+
+jxx.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+jxx.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+kyc.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+kyc.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+kyc.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+lib.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+news.pk.njau.edu.cn. 60 IN A 211.87.4.205
+
+news.pk.njau.edu.cn. 59 IN A 211.87.4.205
+
+news.pk.njau.edu.cn. 59 IN A 211.87.4.205
+
+njjt.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+njjt.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+old.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+rsc.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+twei.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+twei.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+twei.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+www.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+www.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+www.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+www.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+wwwen.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+wwwen.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+xgc.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+xgc.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+xyh.pk.njau.edu.cn. 60 IN A 211.87.4.205
+
+yban2.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+yban2.pk.njau.edu.cn. 7199 IN A 211.87.4.205
+
+zwc.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+zyrz.pk.njau.edu.cn. 10800 IN A 211.87.4.205
+
+plan.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+plan.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+plan.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+plant.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+plant-c.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+plant-c.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+plant-en.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+plant-en.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+pop3.njau.edu.cn. 7200 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 5190 IN A 58.240.70.195
+
+pop3.njau.edu.cn. 7199 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 5190 IN A 58.240.70.195
+
+pop3.njau.edu.cn. 7199 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 5190 IN A 58.240.70.195
+
+pprc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+pprc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+pprc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+pprc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+pprc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+pprcen.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5334 IN A 202.195.246.240
+
+pth.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7199 IN A 202.195.246.240
+
+re.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+re.njau.edu.cn. 59 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+re.njau.edu.cn. 60 IN A 202.195.246.240
+
+read.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+read.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+res.njau.edu.cn. 7200 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 3321 IN A 58.240.70.221
+
+research.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rice.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rice.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rice.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rice.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rsrcw.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rsrcw.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rsrcw.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+rwjwb.njau.edu.cn. 7200 IN CNAME kjfw.njau.edu.cn.
+kjfw.njau.edu.cn. 7199 IN A 202.195.250.29
+
+rwskc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+rwskc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+rwskc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+rwskc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+sea.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+sea.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+site.njau.edu.cn. 7200 IN A 202.195.244.86
+
+site.njau.edu.cn. 7199 IN A 202.195.244.86
+
+sjc.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+sjc.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+slab.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+slab.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+slab.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+slab.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+smtp.njau.edu.cn. 7200 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 5189 IN A 58.240.70.195
+
+smtp.njau.edu.cn. 7199 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 5189 IN A 58.240.70.195
+
+smtp.njau.edu.cn. 7199 IN CNAME mail.njau.edu.cn.
+mail.njau.edu.cn. 5189 IN A 58.240.70.195
+
+sports.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+sports.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+sports.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7198 IN A 202.195.246.240
+
+ssyy.njau.edu.cn. 7185 IN A 202.195.246.21
+
+swzx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+sysgl.njau.edu.cn. 7200 IN A 202.195.244.126
+
+sysks.njau.edu.cn. 7200 IN A 202.195.246.46
+
+szb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+szb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+szb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+test.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+test.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+v2015.njau.edu.cn. 7191 IN A 58.240.70.217
+
+video.njau.edu.cn. 7200 IN A 202.195.243.30
+
+vpn.njau.edu.cn. 4479 IN CNAME dns3.njau.edu.cn.
+dns3.njau.edu.cn. 747 IN A 58.240.70.200
+
+vpn.njau.edu.cn. 4478 IN CNAME dns3.njau.edu.cn.
+dns3.njau.edu.cn. 747 IN A 58.240.70.200
+
+vpn.njau.edu.cn. 4478 IN CNAME dns3.njau.edu.cn.
+dns3.njau.edu.cn. 747 IN A 58.240.70.200
+
+vpn2.njau.edu.cn. 7200 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+kns-cnki-net.vpn2.njau.edu.cn. 7200 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+kns-cnki-net-s.vpn2.njau.edu.cn. 7200 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+wap-cnki-net.vpn2.njau.edu.cn. 7200 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7200 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+www.vpn2.njau.edu.cn. 7199 IN CNAME vpn2.njau.edu.cn.
+vpn2.njau.edu.cn. 7199 IN A 202.195.240.244
+
+wap.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+wap.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5333 IN A 202.195.246.240
+
+wapcn.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+wdjxj.njau.edu.cn. 7200 IN A 202.195.246.79
+
+wdjxj.njau.edu.cn. 7199 IN A 202.195.246.79
+
+wdjxj.njau.edu.cn. 7199 IN A 202.195.246.79
+
+webplus.njau.edu.cn. 7200 IN A 202.195.244.170
+
+weed.njau.edu.cn. 7200 IN A 202.195.246.26
+
+weed.njau.edu.cn. 7199 IN A 202.195.246.26
+
+weed.njau.edu.cn. 7199 IN A 202.195.246.26
+
+wsb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+wsb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+wsb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+wsdx.njau.edu.cn. 7200 IN A 202.195.246.65
+
+wsdx.njau.edu.cn. 7199 IN A 202.195.246.65
+
+www.njau.edu.cn. 7200 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+www.njau.edu.cn. 7199 IN CNAME nauweb.njau.edu.cn.
+nauweb.njau.edu.cn. 7199 IN A 58.240.70.211
+
+wyxx.njau.edu.cn. 7200 IN A 202.195.250.19
+
+xb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xnb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xnb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xnb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xrw.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5332 IN A 202.195.246.240
+
+xrw.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5332 IN A 202.195.246.240
+
+xrw.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5332 IN A 202.195.246.240
+
+xszj.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xszj.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xszj.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xtcx2011.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7197 IN A 202.195.246.240
+
+xxgk.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+xxgk.njau.edu.cn. 60 IN A 202.195.246.240
+
+xxgk.njau.edu.cn. 59 IN A 202.195.246.240
+
+xyh.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5331 IN A 202.195.246.240
+
+xyh.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5331 IN A 202.195.246.240
+
+yjs.njau.edu.cn. 7200 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 3319 IN A 58.240.70.221
+
+yjs.njau.edu.cn. 7199 IN CNAME myportal.njau.edu.cn.
+myportal.njau.edu.cn. 3319 IN A 58.240.70.221
+
+youth.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5331 IN A 202.195.246.240
+
+youth.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5331 IN A 202.195.246.240
+
+youth.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5331 IN A 202.195.246.240
+
+youth.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5331 IN A 202.195.246.240
+
+yun.njau.edu.cn. 7200 IN A 58.240.70.213
+
+yun.njau.edu.cn. 7199 IN A 58.240.70.213
+
+yun.njau.edu.cn. 7199 IN A 58.240.70.213
+
+yun.njau.edu.cn. 7199 IN A 58.240.70.213
+
+yx.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yx.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yyxy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yyxy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yyxy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yyxyenglish.njau.edu.cn. 7200 IN CNAME yyxy.njau.edu.cn.
+yyxy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+yyzyppjs.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zbb.njau.edu.cn. 7200 IN A 202.195.246.52
+
+zbb.njau.edu.cn. 7199 IN A 202.195.246.52
+
+zbb.njau.edu.cn. 7199 IN A 202.195.246.52
+
+zbb.njau.edu.cn. 7199 IN A 202.195.246.52
+
+zchq.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zchq.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zchq.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zcjy.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zcjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zcjy.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zcpt.njau.edu.cn. 7200 IN A 202.195.246.122
+
+zdnt.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 7196 IN A 202.195.246.240
+
+zhaopin.njau.edu.cn. 7200 IN CNAME dpstar.njau.edu.cn.
+dpstar.njau.edu.cn. 7199 IN A 202.195.244.119
+
+zhaopin.njau.edu.cn. 7199 IN CNAME dpstar.njau.edu.cn.
+dpstar.njau.edu.cn. 7199 IN A 202.195.244.119
+
+zsxx.njau.edu.cn. 60 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+zsxx.njau.edu.cn. 59 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+zsxx.njau.edu.cn. 59 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 59 IN A 202.195.246.240
+
+zzb.njau.edu.cn. 7200 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5330 IN A 202.195.246.240
+
+zzb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5330 IN A 202.195.246.240
+
+zzb.njau.edu.cn. 7199 IN CNAME shanrenyun.njau.edu.cn.
+shanrenyun.njau.edu.cn. 5330 IN A 202.195.246.240
+

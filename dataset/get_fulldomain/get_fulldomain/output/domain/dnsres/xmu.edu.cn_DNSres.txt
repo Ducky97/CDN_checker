@@ -1,0 +1,4871 @@
+icee.xmu.edu.cnxmu.edu.cn. 0 IN A 220.250.64.225
+
+xmu.edu.cn. 43200 IN A 210.34.0.12
+
+xmu.edu.cn. 7199 IN A 210.34.0.12
+
+xmu.edu.cn. 7199 IN A 210.34.0.12
+
+xmu.edu.cn. 7199 IN A 210.34.0.12
+
+xmu.edu.cn. 7199 IN A 210.34.0.12
+
+xmu.edu.cn. 7199 IN A 210.34.0.12
+
+xmu.edu.cn. 7199 IN A 210.34.0.12
+
+19th.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 1714 IN A 210.34.0.55
+
+2011-ichem.xmu.edu.cn. 43200 IN A 121.192.177.130
+
+2011csr.xmu.edu.cn. 43200 IN A 121.192.179.86
+
+7.xmu.edu.cn. 43200 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7.xmu.edu.cn. 7199 IN A 210.34.0.49
+
+7807.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 1063 IN A 210.34.0.61
+
+85.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+8848.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+95.xmu.edu.cn. 43200 IN A 121.192.190.117
+
+95.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+95.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+95.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+Catalog.xmu.edu.cn. 43200 IN A 210.34.4.28
+
+Catalog.xmu.edu.cn. 7199 IN A 210.34.4.28
+
+Catalog.xmu.edu.cn. 7199 IN A 210.34.4.28
+
+Catalog.xmu.edu.cn. 7199 IN A 210.34.4.28
+
+Catalog.xmu.edu.cn. 7199 IN A 210.34.4.28
+
+Catalog.xmu.edu.cn. 7199 IN A 210.34.4.28
+
+Catalog.xmu.edu.cn. 7199 IN A 210.34.4.28
+
+Dspace.xmu.edu.cn. 43154 IN A 210.34.4.6
+
+Dspace.xmu.edu.cn. 7199 IN A 210.34.4.6
+
+Dspace.xmu.edu.cn. 7199 IN A 210.34.4.6
+
+Dspace.xmu.edu.cn. 7199 IN A 210.34.4.6
+
+Dspace.xmu.edu.cn. 7199 IN A 210.34.4.6
+
+Dspace.xmu.edu.cn. 7199 IN A 210.34.4.6
+
+Dspace.xmu.edu.cn. 7199 IN A 210.34.4.6
+
+Etd.xmu.edu.cn. 41375 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Etd.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Lecture.xmu.edu.cn. 43200 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Lecture.xmu.edu.cn. 7199 IN A 210.34.4.31
+
+Libp.xmu.edu.cn. 43200 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libp.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+Libs.xmu.edu.cn. 4805 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Libs.xmu.edu.cn. 4804 IN A 210.34.4.20
+
+Linc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Linc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+Scholar.xmu.edu.cn. 43200 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Scholar.xmu.edu.cn. 7199 IN A 121.192.190.135
+
+Tuan.xmu.edu.cn. 43200 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Tuan.xmu.edu.cn. 7199 IN A 210.34.4.113
+
+Wenku.xmu.edu.cn. 43200 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+Wenku.xmu.edu.cn. 7199 IN A 210.34.4.13
+
+aalc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 1714 IN A 210.34.0.55
+
+acccen.xmu.edu.cn. 43200 IN A 121.192.191.165
+
+acccen.xmu.edu.cn. 7199 IN A 121.192.191.165
+
+acm.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+admissions.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 1063 IN A 210.34.0.55
+
+aeel.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4468 IN A 210.34.0.61
+
+aerospace.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+aerospace-en.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+afps.xmu.edu.cn. 43200 IN CNAME vhost-n1.xmu.edu.cn.
+vhost-n1.xmu.edu.cn. 7199 IN A 210.34.0.75
+
+ai.xmu.edu.cn. 43200 IN A 121.192.180.213
+
+ajcpp2018.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+algorithm.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+alumni.xmu.edu.cn. 32889 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 59 IN A 210.34.0.25
+
+ame.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4468 IN A 210.34.0.61
+
+amoylegis.xmu.edu.cn. 43200 IN A 219.229.80.177
+
+anet.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+anniversary.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4467 IN A 210.34.0.61
+
+anthro.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+apis.xmu.edu.cn. 43200 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+apis.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+applg.xmu.edu.cn. 1063 IN A 210.34.0.35
+
+application.xmu.edu.cn. 43200 IN A 219.229.80.122
+
+applymba.xmu.edu.cn. 43200 IN A 219.229.80.61
+
+applymba.xmu.edu.cn. 7199 IN A 219.229.80.61
+
+applymba.xmu.edu.cn. 7199 IN A 219.229.80.61
+
+applymba.xmu.edu.cn. 7199 IN A 219.229.80.61
+
+applymba.xmu.edu.cn. 7199 IN A 219.229.80.61
+
+archt.xmu.edu.cn. 28517 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+archtdesign.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4467 IN A 210.34.0.61
+
+art.xmu.edu.cn. 43200 IN A 121.192.179.53
+
+asid.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+astl.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+astro.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+atc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+atr.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+auto.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+auto.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+baowei.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+bbs.xmu.edu.cn. 28017 IN A 210.34.0.13
+
+bccl.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+beian.xmu.edu.cn. 43200 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beian.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+beianban.xmu.edu.cn. 4467 IN A 210.34.0.61
+
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+NXDOMAIN for beianv6.xmu.edu.cn
+
+bigdata.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4466 IN A 210.34.0.61
+
+bincon.xmu.edu.cn. 0 IN A 220.250.64.225
+
+biocomputing.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4466 IN A 210.34.0.61
+
+bioinf.xmu.edu.cn. 43200 IN A 121.192.179.203
+
+biovsc.xmu.edu.cn. 43200 IN A 219.229.80.52
+
+biovsc.xmu.edu.cn. 7199 IN A 219.229.80.52
+
+biovsc.xmu.edu.cn. 7199 IN A 219.229.80.52
+
+biovsc.xmu.edu.cn. 7199 IN A 219.229.80.52
+
+bkbm.xmu.edu.cn. 43200 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+bkjw.xmu.edu.cn. 43200 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjw.xmu.edu.cn. 7199 IN A 210.34.0.86
+
+bkjy.xmu.edu.cn. 43200 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkjy.xmu.edu.cn. 7199 IN A 219.229.80.43
+
+bkpg.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4466 IN A 210.34.0.61
+
+bkxk.xmu.edu.cn. 43200 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+bmi.xmu.edu.cn. 43200 IN A 121.192.181.102
+
+boards.xmu.edu.cn. 43200 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boards.xmu.edu.cn. 7199 IN A 219.229.80.151
+
+boya.xmu.edu.cn. 43200 IN A 121.192.180.164
+
+boya.xmu.edu.cn. 7199 IN A 121.192.180.164
+
+boya.xmu.edu.cn. 7199 IN A 121.192.180.164
+
+boya.xmu.edu.cn. 7199 IN A 121.192.180.164
+
+boya.xmu.edu.cn. 7199 IN A 121.192.180.164
+
+breastesupport.xmu.edu.cn. 43200 IN A 219.229.80.131
+
+bren.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+bsbm.xmu.edu.cn. 40687 IN A 121.192.190.71
+
+bwcx.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+capclc.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4466 IN A 210.34.0.61
+
+cas.xmu.edu.cn. 43200 IN A 121.192.191.165
+
+cascar.xmu.edu.cn. 43200 IN A 121.192.191.165
+
+casi.xmu.edu.cn. 43200 IN CNAME ccam.xmu.edu.cn.
+ccam.xmu.edu.cn. 7199 IN A 121.192.180.132
+
+cat.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4465 IN A 210.34.0.61
+
+cbe.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ccam.xmu.edu.cn. 7199 IN A 121.192.180.132
+
+cccmrc.xmu.edu.cn. 43200 IN CNAME vhost-n1.xmu.edu.cn.
+vhost-n1.xmu.edu.cn. 7199 IN A 210.34.0.75
+
+cceer.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cdi.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cdmc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ce.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cea.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ceac.xmu.edu.cn. 43200 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+ceac.xmu.edu.cn. 7199 IN A 219.229.80.65
+
+cedu.xmu.edu.cn. 17002 IN A 219.229.80.50
+
+cee.xmu.edu.cn. 27193 IN A 121.192.191.62
+
+cee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+cee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+cee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+cee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+ceetw.xmu.edu.cn. 43200 IN A 121.192.191.25
+
+ces.xmu.edu.cn. 43200 IN A 121.192.176.86
+
+cet.xmu.edu.cn. 43200 IN A 121.192.190.100
+
+cfcrs.xmu.edu.cn. 3608 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cfcrsorg.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+cflc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cfphd.xmu.edu.cn. 43200 IN A 121.192.176.103
+
+cfphd.xmu.edu.cn. 7199 IN A 121.192.176.103
+
+cfphd.xmu.edu.cn. 7199 IN A 121.192.176.103
+
+cfphd.xmu.edu.cn. 7199 IN A 121.192.176.103
+
+che.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+chem.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+chem-zzp.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+chematc.xmu.edu.cn. 43200 IN A 121.192.177.40
+
+chematc.xmu.edu.cn. 7199 IN A 121.192.177.40
+
+chematc.xmu.edu.cn. 7199 IN A 121.192.177.40
+
+chematc.xmu.edu.cn. 7199 IN A 121.192.177.40
+
+chematc.xmu.edu.cn. 7199 IN A 121.192.177.40
+
+chengjun.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+chinavr2015.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4465 IN A 210.34.0.61
+
+chinese.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+chlwu.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+choicec2.xmu.edu.cn. 43200 IN A 121.192.178.39
+
+choicec2.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+choicec2.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+choicec2.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+choicec2.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+chowcenter.xmu.edu.cn. 43200 IN A 121.192.176.4
+
+www.chowcenter.xmu.edu.cn. 43200 IN CNAME chowcenter.xmu.edu.cn.
+chowcenter.xmu.edu.cn. 7199 IN A 121.192.176.4
+
+chwang.xmu.edu.cn. 43200 IN CNAME rssi.xmu.edu.cn.
+rssi.xmu.edu.cn. 7199 IN A 121.192.180.183
+
+cia.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+cicep.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cloudtranslation.xmu.edu.cn. 43200 IN A 121.192.191.33
+
+clt.xmu.edu.cn. 43200 IN A 121.192.180.213
+
+clxg.xmu.edu.cn. 43200 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxg.xmu.edu.cn. 7199 IN A 121.192.191.131
+
+clxs.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4464 IN A 210.34.0.61
+
+cm.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cmaxmu.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cmlab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cmlms.xmu.edu.cn. 43200 IN A 121.192.178.141
+
+cmp.xmu.edu.cn. 43200 IN A 121.192.177.195
+
+cmp.xmu.edu.cn. 7199 IN A 121.192.177.195
+
+cmr2.xmu.edu.cn. 43200 IN A 121.192.176.15
+
+cmr2.xmu.edu.cn. 7199 IN A 121.192.176.15
+
+cmr2.xmu.edu.cn. 7199 IN A 121.192.176.15
+
+cmr2.xmu.edu.cn. 7199 IN A 121.192.176.15
+
+cmsadmin.xmu.edu.cn. 26999 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsadmin.xmu.edu.cn. 7199 IN A 172.27.75.33
+
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cmsp1.xmu.edu.cn. 43200 IN A 210.34.0.27
+
+cmsp1.xmu.edu.cn. 7199 IN A 210.34.0.27
+
+cmsp1.xmu.edu.cn. 7199 IN A 210.34.0.27
+
+cmsp1.xmu.edu.cn. 7199 IN A 210.34.0.27
+
+cmstest.xmu.edu.cn. 43200 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+cmstest.xmu.edu.cn. 7199 IN A 172.27.75.30
+
+Catalog.xmu.edu.cn<BR>Dspace.xmu.edu.cn<BR>Etd.xmu.edu.cn<BR>Lecture.xmu.edu.cn<BR>Libp.xmu.edu.cn<BR>Libs.xmu.edu.cn<BR>lib.xmu.edu.cn<BR>Linc.xmu.edu.cn<BR>Scholar.xmu.edu.cn<BR>Tuan.xmu.edu.cn<BR>Wenku.xmu.edu.cn. 0 IN A 220.250.64.225
+
+beianv6.xmu.edu.cn<BR>beian.xmu.edu.cn. 0 IN A 220.250.64.225
+
+dspace.xmu.edu.cn<BR>ir.xmu.edu.cn. 0 IN A 220.250.64.225
+
+imap.xmu.edu.cn<BR>mail.xmu.edu.cn<BR>pop3.xmu.edu.cn<BR>pop.xmu.edu.cn<BR>smtp.xmu.edu.cn. 0 IN A 220.250.64.225
+
+cmsadmin.xmu.edu.cn<BR>cmstest.xmu.edu.cn<BR>dkservice.xmu.edu.cn<BR>incjira.xmu.edu.cn<BR>microsoft.xmu.edu.cn<BR>moa.xmu.edu.cn<BR>oakk.xmu.edu.cn<BR>pan-owa.xmu.edu.cn<BR>pan.xmu.edu.cn<BR>webpro.xmu.edu.cn. 0 IN A 220.250.64.225
+
+cmsadmin.xmu.edu.cn<BR>cmstest.xmu.edu.cn<BR>dkservice.xmu.edu.cn<BR>ecard.xmu.edu.cn<BR>incjira.xmu.edu.cn<BR>microsoft.xmu.edu.cn<BR>moa.xmu.edu.cn<BR>oakk.xmu.edu.cn<BR>pan-owa.xmu.edu.cn<BR>pan.xmu.edu.cn<BR>webpro.xmu.edu.cn. 0 IN A 220.250.64.225
+
+apis.xmu.edu.cn<BR>bkjw.xmu.edu.cn<BR>bkxk.xmu.edu.cn<BR>idstar.xmu.edu.cn<BR>ids.xmu.edu.cn<BR>imp.xmu.edu.cn<BR>i.xmu.edu.cn<BR>ky.xmu.edu.cn<BR>lx.xmu.edu.cn<BR>pwd.xmu.edu.cn<BR>sk.xmu.edu.cn<BR>ssfw.xmu.edu.cn<BR>wzcg.xmu.edu.cn<BR>xg.xmu.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for apis.xmu.edu.cn<BR>bkjw.xmu.edu.cn<BR>bkxk.xmu.edu.cn<BR>idstar.xmu.edu.cn<BR>ids.xmu.edu.cn<BR>imp.xmu.edu.cn<BR>i.xmu.edu.cn<BR>kj.xmu.edu.cn<BR>ky.xmu.edu.cn<BR>lx.xmu.edu.cn<BR>oa.xmu.edu.cn<BR>pwd.xmu.edu.cn<BR>sk.xmu.edu.cn<BR>ssfw.xmu.edu.cn<BR>wzcg.xmu.edu.cn<BR>xg.xmu.edu.cn
+
+ceac.xmu.edu.cn<BR>zgyx2.xmu.edu.cn. 0 IN A 220.250.64.225
+
+learn.xmu.edu.cn<BR>zypx.xmu.edu.cn. 0 IN A 220.250.64.225
+
+ky.xmu.edu.cni2.xmu.edu.cn. 0 IN A 220.250.64.225
+
+mmhpc.xmu.edu.cnmaker4video.xmu.edu.cn. 0 IN A 220.250.64.225
+
+imp.xmu.edu.cnsecure.xmu.edu.cn. 0 IN A 220.250.64.225
+
+incjira.xmu.edu.cnvhost-a9.xmu.edu.cn. 0 IN A 220.250.64.225
+
+Catalog.xmu.edu.cnwww.xmu.edu.cn. 0 IN A 220.250.64.225
+
+cocc.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+codi.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4464 IN A 210.34.0.61
+
+coe.xmu.edu.cn. 43200 IN A 121.192.191.25
+
+coe70th.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4464 IN A 210.34.0.61
+
+coeetc.xmu.edu.cn. 43200 IN A 121.192.178.8
+
+coeoa.xmu.edu.cn. 1058 IN A 121.192.191.25
+
+coeoa.xmu.edu.cn. 1057 IN A 121.192.191.25
+
+coeoa.xmu.edu.cn. 1057 IN A 121.192.191.25
+
+coeoa.xmu.edu.cn. 1057 IN A 121.192.191.25
+
+coeoa.xmu.edu.cn. 1057 IN A 121.192.191.25
+
+cogsci.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+colr.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+combinatorics.xmu.edu.cn. 43200 IN A 121.192.180.130
+
+comdept.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+comi.xmu.edu.cn. 31559 IN A 121.192.178.246
+
+comm.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+comphys.xmu.edu.cn. 43200 IN A 121.192.177.196
+
+conf.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+conline.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+conline.xmu.edu.cn. 7199 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+copl.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+course.xmu.edu.cn. 600 IN CNAME course.xmu.edu.cn.wsdvs.com.
+course.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+course.xmu.edu.cn. 599 IN CNAME course.xmu.edu.cn.wsdvs.com.
+course.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+cpst.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+crc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+crlhd.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cs.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+csc.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4463 IN A 210.34.0.61
+
+cse.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+csrc.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+css.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+csvpn1.xmu.edu.cn. 43200 IN A 219.229.81.3
+
+csvpn1.xmu.edu.cn. 7199 IN A 219.229.81.3
+
+csvpn1.xmu.edu.cn. 7199 IN A 219.229.81.3
+
+csvpn1.xmu.edu.cn. 7199 IN A 219.229.81.3
+
+ctc.xmu.edu.cn. 43200 IN A 121.192.177.117
+
+ctc.xmu.edu.cn. 7199 IN A 121.192.177.117
+
+ctc.xmu.edu.cn. 7199 IN A 121.192.177.117
+
+ctc.xmu.edu.cn. 7199 IN A 121.192.177.117
+
+ctc.xmu.edu.cn. 7199 IN A 121.192.177.117
+
+ctld.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cuma.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+cvrs2015.xmu.edu.cn. 43200 IN CNAME rssi.xmu.edu.cn.
+rssi.xmu.edu.cn. 7199 IN A 121.192.180.183
+
+cwc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+cwcxsjf.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1058 IN A 210.34.0.35
+
+cwlms.xmu.edu.cn. 0 IN A 220.250.64.225
+
+cxcy.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+cxw.xmu.edu.cn. 43200 IN A 121.192.180.46
+
+cyh.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+czx.xmu.edu.cn. 43200 IN A 121.192.176.39
+
+czx.xmu.edu.cn. 7199 IN A 121.192.176.39
+
+dag.xmu.edu.cn. 43200 IN A 121.192.191.190
+
+datamining.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+dblab.xmu.edu.cn. 8412 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+dblab.xmu.edu.cn. 7199 IN A 121.192.191.138
+
+ddh10.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+dgd.xmu.edu.cn. 43200 IN A 121.192.191.25
+
+dgd.xmu.edu.cn. 7199 IN A 121.192.191.25
+
+dgd.xmu.edu.cn. 7199 IN A 121.192.191.25
+
+dgd.xmu.edu.cn. 7199 IN A 121.192.191.25
+
+dgd.xmu.edu.cn. 7199 IN A 121.192.191.25
+
+dgo.xmu.edu.cn. 1058 IN A 121.192.191.86
+
+dhlin.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+did.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+difculcase.xmu.edu.cn. 43200 IN A 121.192.180.5
+
+djks123.xmu.edu.cn. 43200 IN A 219.229.80.60
+
+djks123.xmu.edu.cn. 7199 IN A 219.229.80.60
+
+djks123.xmu.edu.cn. 7199 IN A 219.229.80.60
+
+djks123.xmu.edu.cn. 7199 IN A 219.229.80.60
+
+djks123.xmu.edu.cn. 7199 IN A 219.229.80.60
+
+dkservice.xmu.edu.cn. 43200 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dkservice.xmu.edu.cn. 7199 IN A 219.229.80.117
+
+dmci.xmu.edu.cn. 43200 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dmci.xmu.edu.cn. 7199 IN A 121.192.180.202
+
+dnp.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+dns1.xmu.edu.cn. 43200 IN A 210.34.0.14
+
+dns1.xmu.edu.cn. 7199 IN A 210.34.0.14
+
+dns1.xmu.edu.cn. 7199 IN A 210.34.0.14
+
+dns1.xmu.edu.cn. 7199 IN A 210.34.0.14
+
+dns1.xmu.edu.cn. 7199 IN A 210.34.0.14
+
+dns2.xmu.edu.cn. 43200 IN A 210.34.0.18
+
+dns2.xmu.edu.cn. 7199 IN A 210.34.0.18
+
+dns2.xmu.edu.cn. 7199 IN A 210.34.0.18
+
+dns2.xmu.edu.cn. 7199 IN A 210.34.0.18
+
+dns2.xmu.edu.cn. 7199 IN A 210.34.0.18
+
+dog.xmu.edu.cn. 43200 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dog.xmu.edu.cn. 7199 IN CNAME haishanzheng.github.io.
+haishanzheng.github.io. 3599 IN A 185.199.108.153
+haishanzheng.github.io. 3599 IN A 185.199.110.153
+haishanzheng.github.io. 3599 IN A 185.199.111.153
+haishanzheng.github.io. 3599 IN A 185.199.109.153
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dspace.xmu.edu.cn. 7193 IN A 210.34.4.6
+
+dwdx.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+dxsxly.xmu.edu.cn. 43200 IN A 121.192.191.117
+
+ec.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecard.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ecommerce.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4462 IN A 210.34.0.61
+
+econ.xmu.edu.cn. 43200 IN A 121.192.176.17
+
+economic.xmu.edu.cn. 43200 IN A 121.192.176.2
+
+economic.xmu.edu.cn. 7199 IN A 121.192.176.2
+
+economic.xmu.edu.cn. 7199 IN A 121.192.176.2
+
+economic.xmu.edu.cn. 7199 IN A 121.192.176.2
+
+economic.xmu.edu.cn. 7199 IN A 121.192.176.2
+
+economics.xmu.edu.cn. 43200 IN A 121.192.176.2
+
+eda.xmu.edu.cn. 43200 IN A 210.34.16.62
+
+eda.xmu.edu.cn. 7199 IN A 210.34.16.62
+
+eda.xmu.edu.cn. 7199 IN A 210.34.16.62
+
+eda.xmu.edu.cn. 7199 IN A 210.34.16.62
+
+www.eda.xmu.edu.cn. 43200 IN CNAME eda.xmu.edu.cn.
+eda.xmu.edu.cn. 7199 IN A 210.34.16.62
+
+edf.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+edp.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+edutech.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+eed.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+eedc.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+eedinfo.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+eedstu.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+eguard.xmu.edu.cn. 43200 IN A 210.34.7.119
+
+eguard.xmu.edu.cn. 7199 IN A 210.34.7.119
+
+eguard.xmu.edu.cn. 7199 IN A 210.34.7.119
+
+eguard.xmu.edu.cn. 7199 IN A 210.34.7.119
+
+eic.xmu.edu.cn. 43200 IN CNAME jys.xmu.edu.cn.
+jys.xmu.edu.cn. 7199 IN A 121.192.176.14
+
+eietc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+elc.xmu.edu.cn. 43200 IN A 121.192.176.25
+
+elc.xmu.edu.cn. 7199 IN A 121.192.176.25
+
+elc.xmu.edu.cn. 7199 IN A 121.192.176.25
+
+elc.xmu.edu.cn. 7199 IN A 121.192.176.25
+
+elc.xmu.edu.cn. 7199 IN A 121.192.176.25
+
+elec.xmu.edu.cn. 41353 IN A 59.77.37.173
+
+elec.xmu.edu.cn. 7199 IN A 59.77.37.173
+
+elec.xmu.edu.cn. 7199 IN A 59.77.37.173
+
+elec.xmu.edu.cn. 7199 IN A 59.77.37.173
+
+elec.xmu.edu.cn. 7199 IN A 59.77.37.173
+
+electrochem.xmu.edu.cn. 13349 IN A 219.229.80.176
+
+ema.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+emba.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+embedded.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+en.xmu.edu.cn. 29984 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+encomm.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+energy.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+energyetc.xmu.edu.cn. 43200 IN A 121.192.178.199
+
+energyinfo.xmu.edu.cn. 43200 IN A 121.192.191.254
+
+enlaw.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epay.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+epistemology.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+epitope.xmu.edu.cn. 43200 IN A 121.192.179.113
+
+esci.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ese.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+etd.xmu.edu.cn. 7192 IN A 210.34.4.13
+
+etd.xmu.edu.cn. 7192 IN A 210.34.4.13
+
+etd.xmu.edu.cn. 7192 IN A 210.34.4.13
+
+etd.xmu.edu.cn. 7192 IN A 210.34.4.13
+
+examination.xmu.edu.cn. 43200 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+examination.xmu.edu.cn. 7199 IN A 121.192.191.174
+
+eye.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+fdc.xmu.edu.cn. 43200 IN A 219.229.80.56
+
+fdc.xmu.edu.cn. 7199 IN A 219.229.80.56
+
+fdc.xmu.edu.cn. 7199 IN A 219.229.80.56
+
+fdc.xmu.edu.cn. 7199 IN A 219.229.80.56
+
+fdy.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+feel.xmu.edu.cn. 43200 IN A 121.192.176.29
+
+feelyoung.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+feichen.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4461 IN A 210.34.0.61
+
+fh.xmu.edu.cn. 43200 IN A 210.34.0.2
+fh.xmu.edu.cn. 43200 IN A 210.34.0.4
+
+finance.xmu.edu.cn. 1521 IN A 121.192.176.36
+
+finance.xmu.edu.cn. 1520 IN A 121.192.176.36
+
+finance.xmu.edu.cn. 1520 IN A 121.192.176.36
+
+finance.xmu.edu.cn. 1520 IN A 121.192.176.36
+
+finance.xmu.edu.cn. 1520 IN A 121.192.176.36
+
+fjcs.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+fjic.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+fjtzcl.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+fkyy.xmu.edu.cn. 43200 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyy.xmu.edu.cn. 7199 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5511 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+fkyyweixinduan.xmu.edu.cn. 5510 IN A 219.229.80.55
+
+ftcc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ftp2009.xmu.edu.cn. 43200 IN A 210.34.0.172
+
+ftp2009.xmu.edu.cn. 7199 IN A 210.34.0.172
+
+ftp2009.xmu.edu.cn. 7199 IN A 210.34.0.172
+
+ftp2009.xmu.edu.cn. 7199 IN A 210.34.0.172
+
+ftp2009.xmu.edu.cn. 7199 IN A 210.34.0.172
+
+funlab.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+fyjlab.xmu.edu.cn. 43200 IN A 121.192.177.234
+
+fyjlab.xmu.edu.cn. 7199 IN A 121.192.177.234
+
+fyjlab.xmu.edu.cn. 7199 IN A 121.192.177.234
+
+fyjlab.xmu.edu.cn. 7199 IN A 121.192.177.234
+
+gcjscenter.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+gdjpkc.xmu.edu.cn. 37189 IN A 121.192.180.133
+
+gdjpkc.xmu.edu.cn. 7199 IN A 121.192.180.133
+
+gdjpkc.xmu.edu.cn. 7199 IN A 121.192.180.133
+
+gdjpkc.xmu.edu.cn. 7199 IN A 121.192.180.133
+
+gdjpkc.xmu.edu.cn. 7199 IN A 121.192.180.133
+
+gdsx.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4460 IN A 210.34.0.61
+
+geotraces.xmu.edu.cn. 43200 IN A 219.229.80.156
+
+ggpx.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+gieri.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+gifts.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+git.xmu.edu.cn. 43200 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+git.xmu.edu.cn. 7199 IN A 210.34.0.40
+
+gjjmx.xmu.edu.cn. 43200 IN A 121.192.176.26
+
+gk.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+gongyu.xmu.edu.cn. 43200 IN A 121.192.191.248
+
+graduation.xmu.edu.cn. 43200 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graduation.xmu.edu.cn. 7199 IN A 219.229.80.164
+
+graphics.xmu.edu.cn. 43200 IN A 121.192.180.114
+
+gravity.xmu.edu.cn. 43200 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gravity.xmu.edu.cn. 7199 IN A 121.192.180.76
+
+gs.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+guoguan.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+guomao.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4460 IN A 210.34.0.61
+
+gxy.xmu.edu.cn. 43200 IN A 210.34.8.252
+
+haishion.xmu.edu.cn. 43200 IN A 210.34.218.160
+
+hanlab.xmu.edu.cn. 7191 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+heqc.xmu.edu.cn. 43200 IN CNAME vhost-n1.xmu.edu.cn.
+vhost-n1.xmu.edu.cn. 7199 IN A 210.34.0.75
+
+hgliao.xmu.edu.cn. 43200 IN CNAME vhost-n1.xmu.edu.cn.
+vhost-n1.xmu.edu.cn. 7199 IN A 210.34.0.75
+
+hippo.xmu.edu.cn. 43200 IN A 121.192.179.196
+
+history.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+hong.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+hospital.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+hpxia.xmu.edu.cn. 17016 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+hqjt.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+hr.xmu.edu.cn. 43200 IN A 210.34.0.133
+
+hrm.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+huanglab.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+huangpeiqiang.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+hyzy.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+i.xmu.edu.cn. 600 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i.xmu.edu.cn. 599 IN A 210.34.0.63
+
+i2.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+i2.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+i2.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+i2.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+i2.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+i2.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+i2.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1054 IN A 210.34.0.35
+
+iaec.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+iamoy.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4459 IN A 210.34.0.61
+
+ias.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4459 IN A 210.34.0.61
+
+iccshr.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ice.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+icee.xmu.edu.cn. 43200 IN A 121.192.191.62
+
+icee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+icee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+icee.xmu.edu.cn. 7199 IN A 121.192.191.62
+
+icimcs2014.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4459 IN A 210.34.0.61
+
+icpc2007.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4459 IN A 210.34.0.61
+
+icsd.xmu.edu.cn. 43200 IN A 121.192.178.254
+
+icsd.xmu.edu.cn. 7199 IN A 121.192.178.254
+
+icsd.xmu.edu.cn. 7199 IN A 121.192.178.254
+
+icsd.xmu.edu.cn. 7199 IN A 121.192.178.254
+
+icsd.xmu.edu.cn. 7199 IN A 121.192.178.254
+
+idp.xmu.edu.cn. 21008 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+idp.xmu.edu.cn. 7199 IN A 219.229.80.158
+
+ids.xmu.edu.cn. 33691 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+idstar.xmu.edu.cn. 43200 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar.xmu.edu.cn. 7199 IN A 210.34.0.141
+
+idstar1.xmu.edu.cn. 43200 IN A 210.34.0.141
+
+iee.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ieee-nems.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4459 IN A 210.34.0.61
+
+ifas.xmu.edu.cn. 43200 IN A 121.192.191.165
+
+iguard.xmu.edu.cn. 43200 IN A 59.77.37.171
+
+iguard.xmu.edu.cn. 7199 IN A 59.77.37.171
+
+iguard.xmu.edu.cn. 7199 IN A 59.77.37.171
+
+iguard.xmu.edu.cn. 7199 IN A 59.77.37.171
+
+iguard.xmu.edu.cn. 7199 IN A 59.77.37.171
+
+ihe.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+iheqa.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ihes.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4459 IN A 210.34.0.61
+
+ikev2.xmu.edu.cn. 43200 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+ikev2.xmu.edu.cn. 7199 IN A 117.28.251.206
+
+imacs2016.xmu.edu.cn. 43200 IN A 121.192.180.131
+
+imacs2016.xmu.edu.cn. 7199 IN A 121.192.180.131
+
+imacs2016.xmu.edu.cn. 7199 IN A 121.192.180.131
+
+imacs2016.xmu.edu.cn. 7199 IN A 121.192.180.131
+
+imacs2016.xmu.edu.cn. 7199 IN A 121.192.180.131
+
+imap.xmu.edu.cn. 43200 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+imap.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 6195 IN A 210.34.0.2
+mail.xmu.edu.cn. 6195 IN A 210.34.0.4
+
+ime.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+imp.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+imp.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+imp.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+imp.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+imp.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+imp.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+imt.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+inc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+inc2.xmu.edu.cn. 43200 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc2.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+inc3.xmu.edu.cn. 43200 IN A 210.34.0.245
+
+inc3.xmu.edu.cn. 7199 IN A 210.34.0.245
+
+inc3.xmu.edu.cn. 7199 IN A 210.34.0.245
+
+inc3.xmu.edu.cn. 7199 IN A 210.34.0.245
+
+inc3.xmu.edu.cn. 7199 IN A 210.34.0.245
+
+inccloud.xmu.edu.cn. 43200 IN A 172.27.75.181
+
+incjira.xmu.edu.cn. 43200 IN A 172.27.77.19
+
+incjira.xmu.edu.cn. 7199 IN A 172.27.77.19
+
+incjira.xmu.edu.cn. 7199 IN A 172.27.77.19
+
+incjira.xmu.edu.cn. 7199 IN A 172.27.77.19
+
+incjira.xmu.edu.cn. 7199 IN A 172.27.77.19
+
+incjira.xmu.edu.cn. 7199 IN A 172.27.77.19
+
+incjira.xmu.edu.cn. 7199 IN A 172.27.77.19
+
+incmonitor.xmu.edu.cn. 43200 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incmonitor.xmu.edu.cn. 7199 IN A 210.34.0.72
+
+incpm.xmu.edu.cn. 0 IN A 220.250.64.225
+
+incpm.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+incpm.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+incpm.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+incpm.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+incpm.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+incpm.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+incwiki.xmu.edu.cn. 43200 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwiki.xmu.edu.cn. 7199 IN A 172.27.77.52
+
+incwx.xmu.edu.cn. 43200 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+incwx.xmu.edu.cn. 7199 IN A 210.34.0.48
+
+information.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ioe.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4458 IN A 210.34.0.61
+
+ips.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4458 IN A 210.34.0.61
+
+ipv6.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+iqa.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4458 IN A 210.34.0.61
+
+ir.xmu.edu.cn. 2250 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+ir.xmu.edu.cn. 2249 IN A 210.34.4.6
+
+iredirect11.xmu.edu.cn. 43200 IN A 121.192.190.11
+
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+iredirect15.xmu.edu.cn. 43200 IN A 121.192.190.15
+
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+iredirect5.xmu.edu.cn. 43200 IN A 121.192.190.5
+
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+irsea.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+irsea.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+irsea.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+irsea.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+irsea.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ischoolgu.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+isecm.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4458 IN A 210.34.0.61
+
+itest.xmu.edu.cn. 43200 IN A 121.192.191.17
+
+itri.xmu.edu.cn. 43200 IN A 219.229.80.66
+
+ixmuapp.xmu.edu.cn. 43200 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+ixmuapp.xmu.edu.cn. 7199 IN A 121.192.191.113
+
+jbzhao.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+jcd.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+jdong-lab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jdx.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+jf.xmu.edu.cn. 43200 IN A 121.192.191.32
+
+jfli.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+jfz.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jgdw.xmu.edu.cn. 43200 IN A 121.192.190.117
+
+jgxy.xmu.edu.cn. 8023 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jgxy.xmu.edu.cn<BR>www.jgxy.xmu.edu.cn. 0 IN A 220.250.64.225
+
+www.jgxy.xmu.edu.cn. 8023 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 600 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 600 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+www.jgxy.xmu.edu.cn. 7199 IN CNAME jgxy.xmu.edu.cn.
+jgxy.xmu.edu.cn. 7199 IN CNAME www.xujc.com.
+www.xujc.com. 599 IN A 220.161.80.162
+
+jianggroup.xmu.edu.cn. 43200 IN A 121.192.177.55
+
+jinyuan.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+jjc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jjri.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+jjw.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4457 IN A 210.34.0.61
+
+jobs.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jpkc.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4457 IN A 210.34.0.61
+
+jptao.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+jsgzb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jupiter.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4457 IN A 210.34.0.61
+
+jwc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jxmu.xmu.edu.cn. 43200 IN A 125.76.229.22
+
+jys.xmu.edu.cn. 7195 IN A 121.192.176.14
+
+jytw.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+jyzd.xmu.edu.cn. 5932 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+kaltura.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4457 IN A 210.34.0.61
+
+kdd.xmu.edu.cn. 43200 IN A 121.192.180.69
+
+kdd.xmu.edu.cn. 7199 IN A 121.192.180.69
+
+kdd.xmu.edu.cn. 7199 IN A 121.192.180.69
+
+kdd.xmu.edu.cn. 7199 IN A 121.192.180.69
+
+kenyon.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+kh.xmu.edu.cn. 43200 IN A 219.229.80.53
+
+kj.xmu.edu.cn. 43200 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kj.xmu.edu.cn. 7199 IN CNAME iredirect11.xmu.edu.cn.
+iredirect11.xmu.edu.cn. 7199 IN A 121.192.190.11
+
+kptz.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1051 IN A 210.34.0.35
+
+ksyj.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+kszx.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ky.xmu.edu.cn. 43200 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+ky.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+ky.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+ky.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+ky.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+ky.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+ky.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+l.xmu.edu.cn. 600 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l.xmu.edu.cn. 599 IN CNAME l.xmu.edu.cn.wsdvs.com.
+l.xmu.edu.cn.wsdvs.com. 59 IN A 112.65.92.49
+
+l1.xmu.edu.cn. 43200 IN A 210.34.0.80
+
+lab318.xmu.edu.cn. 43200 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn. 7199 IN A 121.192.181.146
+
+lab318.xmu.edu.cn<BR>www.lab318.xmu.edu.cn. 0 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 0 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.lab318.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+lac.xmu.edu.cn. 15694 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+law.xmu.edu.cn. 34177 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+law90.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+lawtrain.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+learningcommons.xmu.edu.cn. 43200 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+learningcommons.xmu.edu.cn. 7199 IN A 219.229.80.111
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lecture.xmu.edu.cn. 7188 IN A 210.34.4.31
+
+lib.xmu.edu.cn. 43200 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+lib.xmu.edu.cn. 7199 IN A 210.34.4.108
+
+liberal.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libforum.xmu.edu.cn. 0 IN A 220.250.64.225
+
+libnt.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4456 IN A 210.34.0.61
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+libp.xmu.edu.cn. 7187 IN A 210.34.4.108
+
+library.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+library.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+library.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+libx.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+life.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+lifefacility.xmu.edu.cn. 43200 IN A 121.192.179.197
+
+lifegys.xmu.edu.cn. 43200 IN A 219.229.80.159
+
+lifelab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+lifeparty.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+lifetw.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+linc.xmu.edu.cn. 7187 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+lingyun.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4456 IN A 210.34.0.61
+
+linlab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+linuxlab.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+liulab.xmu.edu.cn. 43200 IN A 121.192.178.233
+
+liulab.xmu.edu.cn. 7199 IN A 121.192.178.233
+
+liulab.xmu.edu.cn. 7199 IN A 121.192.178.233
+
+liulab.xmu.edu.cn. 7199 IN A 121.192.178.233
+
+liuxue.xmu.edu.cn. 4775 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+lndx.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+lsp.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+ltxc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+luxun.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+lwp.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+lx.xmu.edu.cn. 43200 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lx.xmu.edu.cn. 7199 IN A 121.192.190.32
+
+lxiao.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+mac.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail.xmu.edu.cn. 6192 IN A 210.34.0.2
+mail.xmu.edu.cn. 6192 IN A 210.34.0.4
+
+mail7.xmu.edu.cn. 43200 IN A 210.34.0.7
+
+mail7.xmu.edu.cn. 7199 IN A 210.34.0.7
+
+mail7.xmu.edu.cn. 7199 IN A 210.34.0.7
+
+mail7.xmu.edu.cn. 7199 IN A 210.34.0.7
+
+makeboluo.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+maker10.xmu.edu.cn. 0 IN A 220.250.64.225
+
+maker10.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+maker10.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker10.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker10.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker10.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker10.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 0 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker4.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+maker4video.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+maker4video.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+maker4video.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+maker4video.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+maker4video.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+maker4video.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+maker4video.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+makerdms.xmu.edu.cn. 0 IN A 220.250.64.225
+
+makerdms.xmu.edu.cn. 60 IN A 220.250.64.225
+
+makerdms.xmu.edu.cn. 59 IN A 220.250.64.225
+
+makerdms.xmu.edu.cn. 60 IN A 220.250.64.225
+
+makerdms.xmu.edu.cn. 59 IN A 220.250.64.225
+
+makerdms.xmu.edu.cn. 59 IN A 220.250.64.225
+
+makerdms.xmu.edu.cn. 59 IN A 220.250.64.225
+
+manec.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+marx.xmu.edu.cn. 10021 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+marxpx.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+math.xmu.edu.cn. 43200 IN A 121.192.180.132
+
+math-faculty.xmu.edu.cn. 43200 IN A 121.192.180.131
+
+mathbk.xmu.edu.cn. 43200 IN CNAME ccam.xmu.edu.cn.
+ccam.xmu.edu.cn. 7199 IN A 121.192.180.132
+
+matomo.xmu.edu.cn. 199 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 198 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 198 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 198 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 198 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 198 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 198 IN A 210.34.4.73
+
+matomo.xmu.edu.cn. 199 IN A 210.34.4.73
+
+mba.xmu.edu.cn. 43200 IN A 219.239.94.168
+
+mba.xmu.edu.cn. 7199 IN A 219.239.94.168
+
+mba.xmu.edu.cn. 7199 IN A 219.239.94.168
+
+mba.xmu.edu.cn. 7199 IN A 219.239.94.168
+
+mba.xmu.edu.cn. 7199 IN A 219.239.94.168
+
+mba2002.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4455 IN A 210.34.0.61
+
+mbaalumni.xmu.edu.cn. 43200 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbaalumni.xmu.edu.cn. 7199 IN A 219.229.80.155
+
+mbazszt.xmu.edu.cn. 43200 IN A 219.239.94.169
+
+mbbs.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+mbio2011.xmu.edu.cn. 1051 IN A 121.192.191.25
+
+mbio2011.xmu.edu.cn. 1050 IN A 121.192.191.25
+
+mbio2011.xmu.edu.cn. 1050 IN A 121.192.191.25
+
+mbio2011.xmu.edu.cn. 1050 IN A 121.192.191.25
+
+mbio2011.xmu.edu.cn. 1050 IN A 121.192.191.25
+
+mcsc.xmu.edu.cn. 43200 IN A 121.192.190.90
+
+mcsc.xmu.edu.cn. 7199 IN A 121.192.190.90
+
+mcsc.xmu.edu.cn. 7199 IN A 121.192.190.90
+
+mcsc.xmu.edu.cn. 7199 IN A 121.192.190.90
+
+mcsc.xmu.edu.cn. 7199 IN A 121.192.190.90
+
+md.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+mda.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+mdxasia.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+med.xmu.edu.cn. 40675 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 1049 IN A 210.34.0.55
+
+meda.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+media.xmu.edu.cn. 600 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+media.xmu.edu.cn. 599 IN CNAME media.xmu.edu.cn.wswebcdn.com.
+media.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+medstu.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+mee.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+mee.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+meem.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+mel.xmu.edu.cn. 1049 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn. 1048 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1049 IN A 210.34.0.35
+
+mel.xmu.edu.cn<BR>www.mel.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.mel.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+melcomet.xmu.edu.cn. 43200 IN A 121.192.178.45
+
+melmeeting.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+metc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+metc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+metc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+metc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+metc.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+metcftp.xmu.edu.cn. 43200 IN A 121.192.180.34
+
+mgmt2.xmu.edu.cn. 0 IN A 220.250.64.225
+
+microsoft.xmu.edu.cn. 43200 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn<BR>download.microsoft.xmu.edu.cn. 0 IN A 220.250.64.225
+
+content.microsoft.xmu.edu.cn. 43200 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+content.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 43200 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+download.microsoft.xmu.edu.cn. 7199 IN CNAME microsoft.xmu.edu.cn.
+microsoft.xmu.edu.cn. 7199 IN A 210.34.0.138
+
+minjiang.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+mirel.xmu.edu.cn. 43200 IN A 121.192.180.165
+
+mirror.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4454 IN A 210.34.0.61
+
+mirrors.xmu.edu.cn. 40302 IN A 210.34.0.186
+
+mitm.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+mlb.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4454 IN A 210.34.0.61
+
+mme.xmu.edu.cn. 43200 IN A 121.192.178.39
+
+mme.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+mme.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+mme.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+mme.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+mmhpc.xmu.edu.cn. 43200 IN A 121.192.180.130
+
+mmhpc.xmu.edu.cn. 7199 IN A 121.192.180.130
+
+mmhpc.xmu.edu.cn. 7199 IN A 121.192.180.130
+
+mnsc.xmu.edu.cn. 43200 IN A 121.192.191.243
+
+mnsc.xmu.edu.cn. 7199 IN A 121.192.191.243
+
+mnsc.xmu.edu.cn. 7199 IN A 121.192.191.243
+
+mnsc.xmu.edu.cn. 7199 IN A 121.192.191.243
+
+moa.xmu.edu.cn. 43200 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+moa.xmu.edu.cn. 7199 IN A 210.34.0.145
+
+mobileir.xmu.edu.cn. 2245 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 2244 IN A 210.34.0.61
+
+mocom.xmu.edu.cn. 43200 IN A 121.192.180.77
+
+movie.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4454 IN A 210.34.0.61
+
+mse.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+msr.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+msvsc.xmu.edu.cn. 43200 IN A 121.192.178.74
+
+msvsc.xmu.edu.cn. 7199 IN A 121.192.178.74
+
+msvsc.xmu.edu.cn. 7199 IN A 121.192.178.74
+
+msvsc.xmu.edu.cn. 7199 IN A 121.192.178.74
+
+msvsc.xmu.edu.cn. 7199 IN A 121.192.178.74
+
+mswang.xmu.edu.cn. 43200 IN A 121.192.191.253
+
+mt.xmu.edu.cn. 43200 IN A 121.192.180.215
+
+mt.xmu.edu.cn. 7199 IN A 121.192.180.215
+
+musiczone.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+mvl.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+my.xmu.edu.cn. 43200 IN A 47.74.134.76
+
+mylearn.xmu.edu.cn. 43200 IN A 203.106.6.40
+
+mylib.xmu.edu.cn. 43200 IN A 210.34.4.80
+
+mylib.xmu.edu.cn. 7199 IN A 210.34.4.80
+
+mylib.xmu.edu.cn. 7199 IN A 210.34.4.80
+
+mylib.xmu.edu.cn. 7199 IN A 210.34.4.80
+
+mymedia.xmu.edu.cn. 43200 IN CNAME mymedia.xmu.edu.cn.wswebcdn.com.
+mymedia.xmu.edu.cn.wswebcdn.com. 59 IN A 112.65.92.49
+
+myv.xmu.edu.cn. 600 IN CNAME myv.xmu.edu.cn.wsdvs.com.
+myv.xmu.edu.cn.wsdvs.com. 59 IN A 153.99.174.210
+
+mzyk.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+nanofab.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4453 IN A 210.34.0.61
+
+nanyang.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ncl.xmu.edu.cn. 43200 IN A 121.192.191.134
+
+ncss.xmu.edu.cn. 43200 IN CNAME vhost-n1.xmu.edu.cn.
+vhost-n1.xmu.edu.cn. 7199 IN A 210.34.0.75
+
+nec.xmu.edu.cn. 16990 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 1048 IN A 210.34.0.25
+
+c.nec.xmu.edu.cn. 43200 IN A 121.192.191.233
+
+c.nec.xmu.edu.cn. 7199 IN A 121.192.191.233
+
+c.nec.xmu.edu.cn. 7199 IN A 121.192.191.233
+
+c.nec.xmu.edu.cn. 7199 IN A 121.192.191.233
+
+d.nec.xmu.edu.cn. 17129 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+d.nec.xmu.edu.cn. 7199 IN A 219.229.80.181
+
+edge.nec.xmu.edu.cn. 43200 IN A 121.192.191.238
+
+edge.nec.xmu.edu.cn. 7199 IN A 121.192.191.238
+
+edge.nec.xmu.edu.cn. 7199 IN A 121.192.191.238
+
+edge.nec.xmu.edu.cn. 7199 IN A 121.192.191.238
+
+i.nec.xmu.edu.cn. 43200 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+i.nec.xmu.edu.cn. 7199 IN A 219.229.80.133
+
+jpkc.nec.xmu.edu.cn. 43200 IN A 121.192.191.236
+
+mail.nec.xmu.edu.cn. 43200 IN A 121.192.191.237
+
+mail.nec.xmu.edu.cn. 7199 IN A 121.192.191.237
+
+mail.nec.xmu.edu.cn. 7199 IN A 121.192.191.237
+
+mail.nec.xmu.edu.cn. 7199 IN A 121.192.191.237
+
+mis.nec.xmu.edu.cn. 43200 IN CNAME jpkc.nec.xmu.edu.cn.
+jpkc.nec.xmu.edu.cn. 7199 IN A 121.192.191.236
+
+necpay.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+necpay.xmu.edu.cn. 7199 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+nectest.xmu.edu.cn. 43200 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nectest.xmu.edu.cn. 7199 IN A 121.192.191.223
+
+nel.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+nenmiao.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+net.xmu.edu.cn. 43200 IN CNAME network.xmu.edu.cn.
+network.xmu.edu.cn. 7199 IN CNAME inc.xmu.edu.cn.
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+netcenter.xmu.edu.cn. 43200 IN CNAME network.xmu.edu.cn.
+network.xmu.edu.cn. 7199 IN CNAME inc.xmu.edu.cn.
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+netedu.xmu.edu.cn. 43200 IN A 219.229.80.181
+
+www.netedu.xmu.edu.cn. 43200 IN CNAME nec.xmu.edu.cn.
+nec.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+network.xmu.edu.cn. 7199 IN CNAME inc.xmu.edu.cn.
+inc.xmu.edu.cn. 7199 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+neuro.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+news.xmu.edu.cn. 17266 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 5672 IN A 210.34.0.55
+
+nfzheng.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+nice.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+nidshm.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+nidvd.xmu.edu.cn. 43200 IN A 121.192.191.34
+
+nidvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+nidvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+nidvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+nidvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+nidvd3s.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+nidvdem.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+nidvdwxapi.xmu.edu.cn. 43200 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdwxapi.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+nidvdyun.xmu.edu.cn. 43200 IN A 121.192.179.118
+
+nlp.xmu.edu.cn. 43200 IN A 121.192.180.214
+
+nmrcen.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+nmrlab.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+nmt.xmu.edu.cn. 43200 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nmt.xmu.edu.cn. 7199 IN A 121.192.180.239
+
+nova.xmu.edu.cn. 43200 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+nova.xmu.edu.cn. 7199 IN A 219.229.80.58
+
+ns1.xmu.edu.cn. 43200 IN A 210.34.0.15
+
+ns1.xmu.edu.cn. 7199 IN A 210.34.0.15
+
+ns1.xmu.edu.cn. 7199 IN A 210.34.0.15
+
+ns1.xmu.edu.cn. 7199 IN A 210.34.0.15
+
+ns1.xmu.edu.cn. 7199 IN A 210.34.0.15
+
+ns2.xmu.edu.cn. 34173 IN A 210.34.0.16
+
+ns2.xmu.edu.cn. 7199 IN A 210.34.0.16
+
+ns2.xmu.edu.cn. 7199 IN A 210.34.0.16
+
+ns2.xmu.edu.cn. 7199 IN A 210.34.0.16
+
+ny.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+nydb.xmu.edu.cn. 43200 IN A 121.192.179.70
+
+nydb.xmu.edu.cn. 7199 IN A 121.192.179.70
+
+nydb.xmu.edu.cn. 7199 IN A 121.192.179.70
+
+nydb.xmu.edu.cn. 7199 IN A 121.192.179.70
+
+nydb.xmu.edu.cn. 7199 IN A 121.192.179.70
+
+nyen.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+nzc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+oa.xmu.edu.cn. 43200 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oa.xmu.edu.cn. 7199 IN A 210.34.0.135
+
+oakk.xmu.edu.cn. 43200 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+oakk.xmu.edu.cn. 7199 IN A 210.34.0.146
+
+ocean2011.xmu.edu.cn. 43200 IN A 121.192.178.39
+
+ocean2011.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+ocean2011.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+ocean2011.xmu.edu.cn. 7199 IN A 121.192.178.39
+
+ocia.xmu.edu.cn. 43200 IN A 121.192.180.5
+
+ocia.xmu.edu.cn. 7199 IN A 121.192.180.5
+
+ocia.xmu.edu.cn. 7199 IN A 121.192.180.5
+
+ocia.xmu.edu.cn. 7199 IN A 121.192.180.5
+
+ocia.xmu.edu.cn. 7199 IN A 121.192.180.5
+
+oec.xmu.edu.cn. 40882 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+oec.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+oec.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+oec.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+oec.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+oecc.xmu.edu.cn. 43200 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+oecc.xmu.edu.cn. 7199 IN A 121.192.179.141
+
+office.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ois.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+open.xmu.edu.cn. 1517 IN A 210.34.0.47
+
+ospet.xmu.edu.cn. 43200 IN A 121.192.191.25
+
+oti.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+p.xmu.edu.cn. 43200 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+p.xmu.edu.cn. 7199 IN A 210.34.0.171
+
+pami.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+pan.xmu.edu.cn. 43200 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan.xmu.edu.cn. 7199 IN A 210.34.0.20
+
+pan-owa.xmu.edu.cn. 43200 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pan-owa.xmu.edu.cn. 7199 IN A 219.229.80.105
+
+pass.xmu.edu.cn. 43200 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pass.xmu.edu.cn. 7199 IN A 210.34.0.164
+
+pcoss.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+pcossgroup.xmu.edu.cn. 43200 IN A 121.192.177.60
+
+pcss.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+pec.xmu.edu.cn. 43200 IN A 121.192.177.170
+
+pec.xmu.edu.cn. 7199 IN A 121.192.177.170
+
+pec.xmu.edu.cn. 7199 IN A 121.192.177.170
+
+pec.xmu.edu.cn. 7199 IN A 121.192.177.170
+
+pec.xmu.edu.cn. 7199 IN A 121.192.177.170
+
+pelab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+pharm.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+phi.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+photo.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+photo.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+photo.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+photo.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+photo.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+photo.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+photo.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+phys.xmu.edu.cn. 43200 IN A 121.192.177.201
+
+phys.xmu.edu.cn. 7199 IN A 121.192.177.201
+
+physpublic.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4451 IN A 210.34.0.61
+
+piers2019.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+pilab.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+plasma.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+pme.xmu.edu.cn. 43200 IN A 121.192.191.142
+
+pme.xmu.edu.cn. 7199 IN A 121.192.191.142
+
+pme.xmu.edu.cn. 7199 IN A 121.192.191.142
+
+pme.xmu.edu.cn. 7199 IN A 121.192.191.142
+
+pmee.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+pmr.xmu.edu.cn. 43200 IN CNAME beianbanissue.xmu.edu.cn.
+beianbanissue.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+pop.xmu.edu.cn. 43200 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+pop3.xmu.edu.cn. 26102 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+pop3.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+
+postdoctor.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+probability.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+pwd.xmu.edu.cn. 43200 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+pwd.xmu.edu.cn. 7199 IN CNAME ids.xmu.edu.cn.
+ids.xmu.edu.cn. 7199 IN A 121.192.190.23
+
+qolab.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+qqwanggroup.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+quyanyun.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+qvpn.xmu.edu.cn. 43200 IN A 59.77.20.75
+
+raid.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4451 IN A 210.34.0.61
+
+raman.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+rcbme.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4451 IN A 210.34.0.61
+
+reac2017.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+rice.xmu.edu.cn. 43200 IN A 59.77.37.166
+
+rice.xmu.edu.cn. 7199 IN A 59.77.37.166
+
+rice.xmu.edu.cn. 7199 IN A 59.77.37.166
+
+rice.xmu.edu.cn. 7199 IN A 59.77.37.166
+
+rlbwg.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+rlx.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+rmwzb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+router.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+rsc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+rscb.xmu.edu.cn. 43200 IN A 121.192.191.149
+
+rscb.xmu.edu.cn. 7199 IN A 121.192.191.149
+
+rscb.xmu.edu.cn. 7199 IN A 121.192.191.149
+
+rscb.xmu.edu.cn. 7199 IN A 121.192.191.149
+
+rscb.xmu.edu.cn. 7199 IN A 121.192.191.149
+
+rscr.xmu.edu.cn. 43200 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rscr.xmu.edu.cn. 7199 IN A 210.34.0.185
+
+rssi.xmu.edu.cn. 7187 IN A 121.192.180.183
+
+rwxy.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+rwz.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+samsun.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+sbd.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+sccmarx.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+scsc.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+scsi.xmu.edu.cn. 32449 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+se.xmu.edu.cn. 18378 IN A 121.192.176.2
+
+secure.xmu.edu.cn. 43200 IN A 127.0.0.1
+
+secure.xmu.edu.cn. 7199 IN A 127.0.0.1
+
+secure.xmu.edu.cn. 7199 IN A 127.0.0.1
+
+secure.xmu.edu.cn. 7199 IN A 127.0.0.1
+
+secure.xmu.edu.cn. 7199 IN A 127.0.0.1
+
+secure.xmu.edu.cn. 7199 IN A 127.0.0.1
+
+secure.xmu.edu.cn. 7199 IN A 127.0.0.1
+
+securelogin.xmu.edu.cn. 0 IN A 220.250.64.225
+
+securelogin.xmu.edu.cn. 60 IN A 220.250.64.225
+
+securelogin.xmu.edu.cn. 59 IN A 220.250.64.225
+
+securelogin.xmu.edu.cn. 59 IN A 220.250.64.225
+
+securelogin.xmu.edu.cn. 59 IN A 220.250.64.225
+
+securelogin.xmu.edu.cn. 59 IN A 220.250.64.225
+
+securelogin.xmu.edu.cn. 59 IN A 220.250.64.225
+
+sem.xmu.edu.cn. 43200 IN A 121.192.180.134
+
+service.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+ships.xmu.edu.cn. 43200 IN A 121.192.178.9
+
+sigroup.xmu.edu.cn. 43200 IN A 121.192.177.206
+
+sjc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+sk.xmu.edu.cn. 43200 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+sk.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+skc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+sklcsb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+sklvd.xmu.edu.cn. 43200 IN A 121.192.191.34
+
+sklvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+sklvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+sklvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+sklvd.xmu.edu.cn. 7199 IN A 121.192.191.34
+
+slh.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+sm.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+sm2.xmu.edu.cn. 7138 IN A 121.192.176.188
+
+sm2.xmu.edu.cn. 7137 IN A 121.192.176.188
+
+sm2.xmu.edu.cn. 7137 IN A 121.192.176.188
+
+sm2.xmu.edu.cn. 7137 IN A 121.192.176.188
+
+sm2.xmu.edu.cn. 7137 IN A 121.192.176.188
+
+smartdsp.xmu.edu.cn. 43200 IN A 121.192.180.230
+
+smb1.xmu.edu.cn. 43200 IN CNAME ftp2009.xmu.edu.cn.
+ftp2009.xmu.edu.cn. 7199 IN A 210.34.0.172
+
+smb3.xmu.edu.cn. 43200 IN CNAME ftp2009.xmu.edu.cn.
+ftp2009.xmu.edu.cn. 7199 IN A 210.34.0.172
+
+smtp.xmu.edu.cn. 43200 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+smtp.xmu.edu.cn. 7199 IN CNAME mail.xmu.edu.cn.
+mail.xmu.edu.cn. 7199 IN A 210.34.0.4
+mail.xmu.edu.cn. 7199 IN A 210.34.0.2
+
+soc.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+soe.xmu.edu.cn. 43200 IN A 121.192.176.2
+
+account.soe.xmu.edu.cn. 43200 IN A 121.192.176.40
+
+ae.soe.xmu.edu.cn. 43200 IN A 121.192.176.28
+
+course.soe.xmu.edu.cn. 43200 IN A 121.192.176.41
+
+event.soe.xmu.edu.cn. 43200 IN A 121.192.176.41
+
+i.soe.xmu.edu.cn. 43200 IN A 121.192.176.40
+
+p.soe.xmu.edu.cn. 43200 IN A 121.192.176.28
+
+p01.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p01.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p02.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p03.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p04.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p05.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p06.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p07.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p08.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 43200 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+p09.soe.xmu.edu.cn. 7199 IN A 121.192.176.33
+
+research.soe.xmu.edu.cn. 43200 IN A 121.192.176.75
+
+ta.soe.xmu.edu.cn. 43200 IN A 121.192.176.32
+
+www.soe.xmu.edu.cn. 1305 IN A 121.192.176.2
+
+software.xmu.edu.cn. 43200 IN A 121.192.180.67
+
+spa.xmu.edu.cn. 2743 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+speech.xmu.edu.cn. 40429 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+speed.xmu.edu.cn. 0 IN A 220.250.64.225
+
+speed.xmu.edu.cn. 60 IN A 220.250.64.225
+
+speed.xmu.edu.cn. 59 IN A 220.250.64.225
+
+speed.xmu.edu.cn. 59 IN A 220.250.64.225
+
+speed.xmu.edu.cn. 59 IN A 220.250.64.225
+
+speed.xmu.edu.cn. 59 IN A 220.250.64.225
+
+speed.xmu.edu.cn. 59 IN A 220.250.64.225
+
+sph.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+sphlab.xmu.edu.cn. 43200 IN A 121.192.191.82
+
+sphlab.xmu.edu.cn. 7199 IN A 121.192.191.82
+
+sphlab.xmu.edu.cn. 7199 IN A 121.192.191.82
+
+sphlab.xmu.edu.cn. 7199 IN A 121.192.191.82
+
+sphvc.xmu.edu.cn. 43200 IN A 121.192.179.112
+
+spmbt.xmu.edu.cn. 43200 IN A 121.192.191.25
+
+spp.xmu.edu.cn. 43200 IN A 121.192.179.236
+
+srna.xmu.edu.cn. 43200 IN A 59.77.20.84
+
+srna.xmu.edu.cn. 7199 IN A 59.77.20.84
+
+srna.xmu.edu.cn. 7199 IN A 59.77.20.84
+
+srna.xmu.edu.cn. 7199 IN A 59.77.20.84
+
+ssa.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ssc.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+ssfw.xmu.edu.cn. 43200 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssfw.xmu.edu.cn. 7199 IN CNAME bkxk.xmu.edu.cn.
+bkxk.xmu.edu.cn. 7199 IN A 210.34.0.38
+
+ssl.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+sslvpn.xmu.edu.cn. 43200 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+sslvpn.xmu.edu.cn. 7199 IN A 121.192.190.206
+
+ssyjsbm.xmu.edu.cn. 43200 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+ssyjsbm.xmu.edu.cn. 7199 IN A 121.192.191.117
+
+stats.xmu.edu.cn. 43200 IN A 121.192.176.31
+
+std.xmu.edu.cn. 1046 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+stinfo.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+stm.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+stu.xmu.edu.cn. 35838 IN A 223.252.214.105
+
+imap.stu.xmu.edu.cn. 43200 IN CNAME mail-edu1.icoremail.net.
+mail-edu1.icoremail.net. 179 IN A 59.111.192.151
+
+mail.stu.xmu.edu.cn. 43200 IN CNAME mail-edu1.icoremail.net.
+mail-edu1.icoremail.net. 179 IN A 59.111.192.151
+
+pop.stu.xmu.edu.cn. 43200 IN CNAME mail-edu1.icoremail.net.
+mail-edu1.icoremail.net. 179 IN A 59.111.192.151
+
+pop3.stu.xmu.edu.cn. 43200 IN CNAME mail-edu1.icoremail.net.
+mail-edu1.icoremail.net. 179 IN A 59.111.192.151
+
+smtp.stu.xmu.edu.cn. 43200 IN CNAME mail-edu1.icoremail.net.
+mail-edu1.icoremail.net. 179 IN A 59.111.192.151
+
+study.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+stunion.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+suihui.xmu.edu.cn. 43200 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suihui.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 43200 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+suimeeting.xmu.edu.cn. 7199 IN A 219.229.80.136
+
+sunlab01.xmu.edu.cn. 0 IN A 220.250.64.225
+
+sunlib.xmu.edu.cn. 0 IN A 220.250.64.225
+
+syb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+syjx.xmu.edu.cn. 43200 IN A 121.192.180.47
+
+tbi.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+teach.xmu.edu.cn. 43200 IN A 210.34.0.41
+
+tes.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4448 IN A 210.34.0.61
+
+tes2.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4448 IN A 210.34.0.61
+
+testwww.xmu.edu.cn. 43200 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+testwww.xmu.edu.cn. 7199 IN A 210.34.0.39
+
+theory-physics.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4448 IN A 210.34.0.61
+
+tianyuan.xmu.edu.cn. 43200 IN A 121.192.180.130
+
+tingke.xmu.edu.cn. 43200 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn. 7199 IN A 219.229.80.130
+
+tingke.xmu.edu.cn<BR>www.tingke.xmu.edu.cn. 0 IN A 220.250.64.225
+
+ts211.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4448 IN A 210.34.0.61
+
+tv.xmu.edu.cn. 43200 IN A 39.107.80.160
+
+tw.xmu.edu.cn. 36725 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+tw2.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+twfw.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+twi.xmu.edu.cn. 42536 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+twri.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+txddw.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+tyjxb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+tyjxb2.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+tyl.xmu.edu.cn. 43200 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tyl.xmu.edu.cn. 7199 IN A 121.192.179.100
+
+tzb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+uac.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+uacen.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ucas.xmu.edu.cn. 43200 IN A 121.192.178.39
+
+uh.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+ushistory.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+v.xmu.edu.cn. 600 IN CNAME v.xmu.edu.cn.wsdvs.com.
+v.xmu.edu.cn.wsdvs.com. 59 IN A 153.99.174.210
+
+v.xmu.edu.cn. 599 IN CNAME v.xmu.edu.cn.wsdvs.com.
+v.xmu.edu.cn.wsdvs.com. 60 IN A 153.99.174.210
+
+v.xmu.edu.cn. 60 IN A 153.99.174.210
+
+v.xmu.edu.cn. 59 IN A 153.99.174.210
+
+v.xmu.edu.cn. 59 IN A 153.99.174.210
+
+v.xmu.edu.cn. 59 IN A 153.99.174.210
+
+v.xmu.edu.cn. 59 IN A 153.99.174.210
+
+v.xmu.edu.cn. 59 IN A 153.99.174.210
+
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+vhost-a9.xmu.edu.cn. 43200 IN A 210.34.0.79
+
+vhost-a9.xmu.edu.cn. 7199 IN A 210.34.0.79
+
+vhost-a9.xmu.edu.cn. 7199 IN A 210.34.0.79
+
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+vhost-n1.xmu.edu.cn. 7194 IN A 210.34.0.75
+
+vhost-n1.xmu.edu.cn. 7194 IN A 210.34.0.75
+
+vhost-n1.xmu.edu.cn. 7194 IN A 210.34.0.75
+
+vhost-n1.xmu.edu.cn. 7194 IN A 210.34.0.75
+
+vhost-n1.xmu.edu.cn. 7194 IN A 210.34.0.75
+
+vmail.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4447 IN A 210.34.0.61
+
+vpc.xmu.edu.cn. 43200 IN A 121.192.190.46
+
+vpc.xmu.edu.cn. 7199 IN A 121.192.190.46
+
+vpc.xmu.edu.cn. 7199 IN A 121.192.190.46
+
+vpc.xmu.edu.cn. 7199 IN A 121.192.190.46
+
+vpc.xmu.edu.cn. 7199 IN A 121.192.190.46
+
+vpn.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+vpn.xmu.edu.cn. 7199 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+wanglab.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+webpro.xmu.edu.cn. 17799 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpro.xmu.edu.cn. 7199 IN A 210.34.0.58
+
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+webvpn.xmu.edu.cn. 43200 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+weihang.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+weixinpingtai.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+wel.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+welcome.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+werc.xmu.edu.cn. 43200 IN A 121.192.176.23
+
+werc.xmu.edu.cn. 7199 IN A 121.192.176.23
+
+werc.xmu.edu.cn. 7199 IN A 121.192.176.23
+
+werc.xmu.edu.cn. 7199 IN A 121.192.176.23
+
+wfzhuang.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4447 IN A 210.34.0.61
+
+wise.xmu.edu.cn. 4604 IN A 121.192.176.28
+
+wise.xmu.edu.cn. 4603 IN A 121.192.176.28
+
+www.wise.xmu.edu.cn. 43200 IN A 121.192.176.28
+
+wlanaw.xmu.edu.cn. 43200 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlanaw.xmu.edu.cn. 7199 IN A 172.27.64.129
+
+wlancp.xmu.edu.cn. 43200 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+wlancp.xmu.edu.cn. 7199 IN A 210.34.23.250
+
+secure.xmu.edu.cn<BR>sm05.wlancp.xmu.edu.cn<BR>sm25.wlancp.xmu.edu.cn<BR>sm5a.wlancp.xmu.edu.cn<BR>sm5b.wlancp.xmu.edu.cn<BR>wlancp.xmu.edu.cn<BR>zz25.wlancp.xmu.edu.cn<BR>zz5.wlancp.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+NXDOMAIN for idstar.xmu.edu.cn<BR>ids.xmu.edu.cn<BR>imap.xmu.edu.cn<BR>inc.xmu.edu.cn<BR>i.xmu.edu.cn<BR>mail.xmu.edu.cn<BR>oa.xmu.edu.cn<BR>pan.xmu.edu.cn<BR>pop3.xmu.edu.cn<BR>p.xmu.edu.cn<BR>securelogin.xmu.edu.cn<BR>sm05.wlancp.xmu.edu.cn<BR>sm25.wlancp.xmu.edu.cn<BR>sm5a.wlancp.xmu.edu.cn<BR>sm5b.wlancp.xmu.edu.cn<BR>smtp.xmu.edu.cn<BR>wlancp.xmu.edu.cn<BR>www.xmu.edu.cn<BR>zz25.wlancp.xmu.edu.cn<BR>zz5.wlancp.xmu.edu.cn
+
+sm05.wlancp.xmu.edu.cn. 43200 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm05.wlancp.xmu.edu.cn. 7199 IN A 121.192.191.137
+
+sm25.wlancp.xmu.edu.cn. 43200 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm25.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.251
+
+sm5a.wlancp.xmu.edu.cn. 43200 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5a.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.252
+
+sm5b.wlancp.xmu.edu.cn. 43200 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+sm5b.wlancp.xmu.edu.cn. 7199 IN A 210.34.23.253
+
+zz25.wlancp.xmu.edu.cn. 43200 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+zz25.wlancp.xmu.edu.cn. 7199 IN A 210.34.13.227
+
+women.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+womendejieriqingming.xmu.edu.cn. 43200 IN A 219.229.80.197
+
+womendejieriqingming.xmu.edu.cn. 7199 IN A 219.229.80.197
+
+wscec.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+wszg.xmu.edu.cn. 43200 IN A 121.192.190.117
+
+wszg1.xmu.edu.cn. 43200 IN A 121.192.190.117
+
+wszg1.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+wszg1.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+wszg1.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+wszg1.xmu.edu.cn. 7199 IN A 121.192.190.117
+
+wvpn.xmu.edu.cn. 43200 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+wvpn.xmu.edu.cn. 7199 IN CNAME webvpn.xmu.edu.cn.
+webvpn.xmu.edu.cn. 7199 IN A 210.34.20.162
+
+www.wvpn.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wvpn.xmu.edu.cn. 3599 IN A 220.250.64.225
+
+www-wkinfo-com-cn-443.wvpn.xmu.edu.cn. 0 IN A 220.250.64.225
+
+www.xmu.edu.cn. 1304 IN A 210.34.0.12
+
+www.xmu.edu.cn. 1303 IN A 210.34.0.12
+
+www.xmu.edu.cn. 1303 IN A 210.34.0.12
+
+www.xmu.edu.cn. 1303 IN A 210.34.0.12
+
+www.xmu.edu.cn. 1303 IN A 210.34.0.12
+
+www.xmu.edu.cn. 1303 IN A 210.34.0.12
+
+www.xmu.edu.cn. 1303 IN A 210.34.0.12
+
+wwwnews.xmu.edu.cn. 10076 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+wzcg.xmu.edu.cn. 43200 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+wzcg.xmu.edu.cn. 7199 IN CNAME iredirect15.xmu.edu.cn.
+iredirect15.xmu.edu.cn. 7199 IN A 121.192.190.15
+
+xah.xmu.edu.cn. 43200 IN A 210.34.0.25
+
+xah-wx.xmu.edu.cn. 43200 IN A 219.229.80.51
+
+xahoa.xmu.edu.cn. 43200 IN A 219.229.80.146
+
+xaxq.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xcb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xcl.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4446 IN A 210.34.0.61
+
+xcx-sm-alumni.xmu.edu.cn. 43200 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xcx-sm-alumni.xmu.edu.cn. 7199 IN A 219.229.80.126
+
+xdedp.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+xdfnjd.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xdgh.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xdhq.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 7199 IN A 210.34.0.35
+
+xdkx.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4446 IN A 210.34.0.61
+
+xdora.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xdpx.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+xdxbs.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xdyey.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xdzc.xmu.edu.cn. 43200 IN A 219.229.80.118
+
+xetcimi.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xg.xmu.edu.cn. 43200 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xg.xmu.edu.cn. 7199 IN CNAME iredirect5.xmu.edu.cn.
+iredirect5.xmu.edu.cn. 7199 IN A 121.192.190.5
+
+xianfeng.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+xmchd.xmu.edu.cn. 43200 IN A 219.229.80.89
+
+xminfo.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+xmqbs.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+xmse.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+xmsti.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+xmubs.xmu.edu.cn. 43200 IN CNAME applg.xmu.edu.cn.
+applg.xmu.edu.cn. 1040 IN A 210.34.0.35
+
+xmuit.xmu.edu.cn. 3600 IN A 220.250.64.225
+
+xmujpkc.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+xmujw.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xmuxg.xmu.edu.cn. 43200 IN A 219.229.80.67
+
+xmuxg.xmu.edu.cn. 7199 IN A 219.229.80.67
+
+xmyan.xmu.edu.cn. 43200 IN CNAME vhost-n1.xmu.edu.cn.
+vhost-n1.xmu.edu.cn. 7199 IN A 210.34.0.75
+
+xphi.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+xsc.xmu.edu.cn. 8517 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xsgzpt.xmu.edu.cn. 43200 IN A 121.192.191.113
+
+xsh.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xsswdt.xmu.edu.cn. 43200 IN A 121.192.191.84
+
+xszz.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+xuhougroup.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+xwxx.xmu.edu.cn. 43200 IN A 219.229.80.135
+
+yanggroup.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+yaya.xmu.edu.cn. 43200 IN A 121.192.190.93
+
+yaya.xmu.edu.cn. 7199 IN A 121.192.190.93
+
+yaya.xmu.edu.cn. 7199 IN A 121.192.190.93
+
+yaya.xmu.edu.cn. 7199 IN A 121.192.190.93
+
+yaya.xmu.edu.cn. 7199 IN A 121.192.190.93
+
+ygb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+yjsh.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+yjsy.xmu.edu.cn. 43200 IN A 210.34.0.175
+
+yoyo.xmu.edu.cn. 0 IN A 220.250.64.225
+
+yuanlab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+yunwei.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 4445 IN A 210.34.0.61
+
+yxsm.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+zccoa.xmu.edu.cn. 43200 IN A 121.192.176.117
+
+zccoa.xmu.edu.cn. 7199 IN A 121.192.176.117
+
+zccoa.xmu.edu.cn. 7199 IN A 121.192.176.117
+
+zccoa.xmu.edu.cn. 7199 IN A 121.192.176.117
+
+zchqc.xmu.edu.cn. 6216 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+zcwanggroup.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+zengwuyi.xmu.edu.cn. 43200 IN A 121.192.176.80
+
+zgyx2.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zgyx2.xmu.edu.cn. 7199 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zhangf.xmu.edu.cn. 43200 IN CNAME vhost-a1.xmu.edu.cn.
+vhost-a1.xmu.edu.cn. 7199 IN A 210.34.0.71
+
+zhanglab.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+zlhz.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+zp.xmu.edu.cn. 43200 IN A 121.192.190.105
+
+zqtian.xmu.edu.cn. 43200 IN CNAME vhost-l1.xmu.edu.cn.
+vhost-l1.xmu.edu.cn. 7199 IN A 210.34.0.31
+
+zs.xmu.edu.cn. 15595 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 622 IN A 210.34.0.55
+
+zsb.xmu.edu.cn. 1041 IN CNAME zs.xmu.edu.cn.
+zs.xmu.edu.cn. 1040 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 1039 IN A 210.34.0.55
+
+zsecard.xmu.edu.cn. 43200 IN CNAME beianban.xmu.edu.cn.
+beianban.xmu.edu.cn. 7199 IN A 210.34.0.61
+
+zsgl.xmu.edu.cn. 43200 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zsgl.xmu.edu.cn. 7199 IN A 219.229.80.121
+
+zxxie.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+
+zypx.xmu.edu.cn. 43200 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zypx.xmu.edu.cn. 7199 IN A 219.229.80.183
+
+zyz.xmu.edu.cn. 43200 IN A 121.192.191.173
+
+zzb.xmu.edu.cn. 43200 IN CNAME webpron1.xmu.edu.cn.
+webpron1.xmu.edu.cn. 7199 IN A 210.34.0.55
+
+zznet.xmu.edu.cn. 43200 IN A 121.192.181.24
+
+zzxq.xmu.edu.cn. 43200 IN CNAME cmsn1.xmu.edu.cn.
+cmsn1.xmu.edu.cn. 7199 IN A 210.34.0.25
+

@@ -1,0 +1,8 @@
+*.chd.edu.cn
+*.vpntest.chd.edu.cn
+app.chd.edu.cn
+service.yiban.chd.edu.cn
+vpn.chd.edu.cn
+vpntest.chd.edu.cn
+www.chd.edu.cn
+yiban.chd.edu.cn

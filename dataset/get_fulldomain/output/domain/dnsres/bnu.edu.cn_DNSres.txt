@@ -1,0 +1,2762 @@
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+NXDOMAIN for bnu.edu.cn
+
+532movie.bnu.edu.cn. 10800 IN A 172.16.215.40
+
+acm.bnu.edu.cn. 10800 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+acm.bnu.edu.cn. 7199 IN A 202.112.88.60
+
+admission.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+admission.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+admissionold.bnu.edu.cn. 10800 IN A 59.64.36.8
+
+adrem.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+ai.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3816 IN A 60.247.18.9
+
+aic-fe.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3816 IN A 60.247.18.9
+
+aic-fe.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3816 IN A 60.247.18.9
+
+aiccc.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+aiccc.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+aien.bnu.edu.cn. 10800 IN A 219.224.19.70
+
+apply.bnu.edu.cn. 10800 IN CNAME dns.lface.org.
+dns.lface.org. 7199 IN A 123.127.134.6
+
+ar.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3816 IN A 60.247.18.9
+
+www.art.bnu.edu.cn. 10800 IN A 219.224.19.223
+
+www.art.bnu.edu.cn. 7199 IN A 219.224.19.223
+
+astero.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3816 IN A 60.247.18.9
+
+astrowww.bnu.edu.cn. 10800 IN A 219.224.31.13
+
+astrowww.bnu.edu.cn. 7199 IN A 219.224.31.13
+
+atc.bnu.edu.cn. 3816 IN A 60.247.18.9
+
+atc.bnu.edu.cn. 3815 IN A 60.247.18.9
+
+audit.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3815 IN A 60.247.18.9
+
+babri.bnu.edu.cn. 10800 IN A 59.64.36.93
+
+bb.bnu.edu.cn. 10800 IN A 219.143.237.180
+
+bb.bnu.edu.cn. 7199 IN A 219.143.237.180
+
+bcs.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3815 IN A 60.247.18.9
+
+beiklerdc.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+bicic.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+bigdata.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5517 IN A 219.224.19.70
+
+bilab.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+bils.bnu.edu.cn. 10800 IN A 59.64.36.34
+
+bj-fszs.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+bjmcm.bnu.edu.cn. 10800 IN A 219.224.31.15
+
+bjwhfzyjy.bnu.edu.cn. 10800 IN CNAME plesk2015.bnu.edu.cn.
+plesk2015.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+bnugeo-address.bnu.edu.cn. 10800 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnugeo-address.bnu.edu.cn. 7199 IN A 219.224.19.247
+
+bnuhh.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bnuhh.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bnutg.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3814 IN A 60.247.18.9
+
+bnutg.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3814 IN A 60.247.18.9
+
+brain.bnu.edu.cn. 10800 IN A 114.255.220.34
+
+brain.bnu.edu.cn. 7199 IN A 114.255.220.34
+
+brain.bnu.edu.cn. 7199 IN A 114.255.220.34
+
+brdl.bnu.edu.cn. 10800 IN A 219.224.19.46
+
+brs.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+brs.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+bs.bnu.edu.cn. 4669 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bs.bnu.edu.cn. 4668 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bsee.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+bsee.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+btmm.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+business.bnu.edu.cn. 10800 IN A 59.64.36.67
+
+bwc.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bwc.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bwc.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bwcx.bnu.edu.cn. 10800 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 7199 IN A 60.247.18.7
+
+c.bnu.edu.cn. 10800 IN CNAME weixin.bnu.edu.cn.
+weixin.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+c.bnu.edu.cn. 7199 IN CNAME weixin.bnu.edu.cn.
+weixin.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+cagt.bnu.edu.cn. 10800 IN A 59.64.36.5
+
+career.bnu.edu.cn. 10212 IN A 219.143.237.233
+
+career.bnu.edu.cn. 7199 IN A 219.143.237.233
+
+cas.bnu.edu.cn. 10800 IN A 114.255.219.19
+
+cas.bnu.edu.cn. 7199 IN A 114.255.219.19
+
+casm.bnu.edu.cn. 10800 IN A 59.64.36.24
+
+casm.bnu.edu.cn. 7199 IN A 59.64.36.24
+
+casm-in.bnu.edu.cn. 10800 IN A 59.64.36.24
+
+cbd.bnu.edu.cn. 10800 IN A 219.224.31.57
+
+cbd.bnu.edu.cn. 7199 IN A 219.224.31.57
+
+cbh.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3814 IN A 60.247.18.9
+
+cbls.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+ccehd.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+ccehd.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+ccls.bnu.edu.cn. 10531 IN A 219.143.237.235
+
+ccls.bnu.edu.cn. 7199 IN A 219.143.237.235
+
+ccme.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+ccme.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+ccprr.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+ccprr.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+cecpc.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+ceesc.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+cef.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cen.bnu.edu.cn. 10800 IN A 219.224.31.16
+
+cfle.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+cfle.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+cflete.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cflete.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cg.bnu.edu.cn. 8538 IN A 219.224.19.145
+
+cgd.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+chanye.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+chbtan.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+ecc.chem.bnu.edu.cn. 10800 IN A 219.224.31.18
+
+www.chem.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+www.chem.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+chem1.bnu.edu.cn. 10800 IN A 219.224.19.39
+
+chem1.bnu.edu.cn. 7199 IN A 219.224.19.39
+
+www.chemold.bnu.edu.cn. 0 IN A 220.250.64.225
+
+child.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+chinaiid.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+chinaiid.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+chinese.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5516 IN A 219.224.19.70
+
+www.ciae.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cicabeq.bnu.edu.cn. 3992 IN A 114.255.220.35
+
+cicabeq.bnu.edu.cn. 3991 IN A 114.255.220.35
+
+ciccsv.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+www.ciee.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+cist.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cist.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cit.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cit.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cjc.bnu.edu.cn. 7541 IN A 219.224.31.56
+
+climatemodeling.bnu.edu.cn. 10800 IN A 219.224.31.22
+
+cls.bnu.edu.cn. 2452 IN CNAME www.cls.bnu.edu.cn.
+www.cls.bnu.edu.cn. 2451 IN A 59.64.36.40
+
+cls.bnu.edu.cn. 2451 IN CNAME www.cls.bnu.edu.cn.
+www.cls.bnu.edu.cn. 2451 IN A 59.64.36.40
+
+www.cls.bnu.edu.cn. 2451 IN A 59.64.36.40
+
+www.cls.bnu.edu.cn. 2451 IN A 59.64.36.40
+
+cmb.bnu.edu.cn. 10800 IN A 219.224.31.6
+
+cmooc.bnu.edu.cn. 10800 IN A 219.224.25.25
+
+cmooc.bnu.edu.cn. 7199 IN A 219.224.25.25
+
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+cms2014.bnu.edu.cn. 3813 IN A 60.247.18.9
+
+cnc2049.bnu.edu.cn. 10800 IN A 219.224.19.140
+
+NXDOMAIN for geot.bnu.edu.cnemail.bnu.edu.cn
+
+ns2.bnu.edu.cnglass-product.bnu.edu.cn. 0 IN A 220.250.64.225
+
+m5000b1.lib.bnu.edu.cniep.bnu.edu.cn. 30 IN A 220.250.64.225
+
+web.sne.bnu.edu.cnigpr.bnu.edu.cn. 0 IN A 220.250.64.225
+
+igpr.bnu.edu.cnmail.bnu.edu.cn. 0 IN A 220.250.64.225
+
+kg.bnu.edu.cnns2.bnu.edu.cn. 0 IN A 220.250.64.225
+
+ksei.bnu.edu.cnocia.bnu.edu.cn. 0 IN A 220.250.64.225
+
+ns.bnu.edu.cnsne.bnu.edu.cn. 0 IN A 220.250.64.225
+
+cogs.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+cogs.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+course.bnu.edu.cn. 10800 IN A 59.64.36.18
+
+cpt.bnu.edu.cn. 10800 IN A 219.224.31.16
+
+cpxy.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+crs.bnu.edu.cn. 10800 IN A 114.255.219.132
+
+csvc.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3811 IN A 60.247.18.9
+
+ctccs.bnu.edu.cn. 10800 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+cter.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+cter.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+culture.bnu.edu.cn. 10800 IN A 219.224.19.189
+
+cws.bnu.edu.cn. 10800 IN A 59.64.36.55
+
+cws.bnu.edu.cn. 7199 IN A 59.64.36.55
+
+dangan.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3810 IN A 60.247.18.9
+
+dangan.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3810 IN A 60.247.18.9
+
+db.bnu.edu.cn. 10800 IN A 219.224.19.97
+
+dmft.bnu.edu.cn. 10800 IN A 219.224.31.14
+
+dwxgb.bnu.edu.cn. 9497 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+dwxgb.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+dxsyst.bnu.edu.cn. 10800 IN CNAME pleskold1.bnu.edu.cn.
+pleskold1.bnu.edu.cn. 7199 IN A 219.224.19.49
+
+dxwl.bnu.edu.cn. 9883 IN A 219.224.19.113
+
+dxwl.bnu.edu.cn. 7199 IN A 219.224.19.113
+
+ecard.bnu.edu.cn. 10800 IN CNAME mcard.bnu.edu.cn.
+mcard.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+ecohat.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+ecology.bnu.edu.cn. 10800 IN A 202.112.87.15
+
+email.bnu.edu.cn. 10800 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+emi.bnu.edu.cn. 10800 IN A 219.224.19.157
+
+encicabeq.bnu.edu.cn. 10800 IN A 114.255.220.35
+
+encicabeq.bnu.edu.cn. 7199 IN A 114.255.220.35
+
+encicabeq.bnu.edu.cn. 7199 IN A 114.255.220.35
+
+encicabeq.bnu.edu.cn. 7199 IN A 114.255.220.35
+
+encicabeq.bnu.edu.cn. 7199 IN A 114.255.220.35
+
+encicabeq.bnu.edu.cn. 7199 IN A 114.255.220.35
+
+english.bnu.edu.cn. 10800 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 7199 IN A 60.247.18.7
+
+art.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+bnuk.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+business.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+fe.english.bnu.edu.cn. 10800 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.english.bnu.edu.cn. 7199 IN CNAME fe.bnu.edu.cn.
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+foreignlang.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+geo.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+international.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+lifescience.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+math.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+resource.english.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+englishold.bnu.edu.cn. 10800 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 7199 IN A 60.247.18.7
+
+env.bnu.edu.cn. 6277 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3810 IN A 60.247.18.9
+
+env.bnu.edu.cn. 6276 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3810 IN A 60.247.18.9
+
+envsci.bnu.edu.cn. 10800 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+eps.bnu.edu.cn. 10800 IN A 210.31.75.101
+
+eng.eps.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+gedc.eps.bnu.edu.cn. 10800 IN A 114.255.220.42
+
+gedc.eps.bnu.edu.cn. 7199 IN A 114.255.220.42
+
+www.eps.bnu.edu.cn. 10800 IN A 219.143.237.167
+
+www.eps.bnu.edu.cn. 7199 IN A 219.143.237.167
+
+epsy-lab.bnu.edu.cn. 10800 IN A 59.64.36.2
+
+epsy-lab.bnu.edu.cn. 7199 IN A 59.64.36.2
+
+epsy-owmlab.bnu.edu.cn. 10800 IN A 59.64.36.3
+
+ers.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+esg.bnu.edu.cn. 10800 IN A 219.224.31.22
+
+fd.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+fdy.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+fdy.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+fe.bnu.edu.cn. 7199 IN A 219.224.19.62
+
+www.fea.bnu.edu.cn. 10800 IN A 60.247.18.11
+
+www.fea.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+fnirs.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+freshman.bnu.edu.cn. 10800 IN A 219.224.19.149
+
+fzghc.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+gallery.bnu.edu.cn. 10800 IN CNAME plesk4.bnu.edu.cn.
+plesk4.bnu.edu.cn. 7199 IN A 219.224.19.87
+
+gccil2019.bnu.edu.cn. 10800 IN A 219.224.19.70
+
+gcess.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+gcess.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+gcr.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gd.bnu.edu.cn. 10800 IN A 219.224.31.6
+
+gd.bnu.edu.cn. 7199 IN A 219.224.31.6
+
+gd.bnu.edu.cn. 7199 IN A 219.224.31.6
+
+gda.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+gdi.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+gdi.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+geo.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+geo.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+geog.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+geog.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+geogother.bnu.edu.cn. 10800 IN A 219.224.19.180
+
+geot.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+geot.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+ggwy.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+ggwy.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+gh.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+gh.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+ghc.bnu.edu.cn. 0 IN A 220.250.64.225
+
+glass.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3809 IN A 60.247.18.9
+
+glass-product.bnu.edu.cn. 10800 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+glass-product.bnu.edu.cn. 7199 IN A 219.224.31.21
+
+globalchange.bnu.edu.cn. 10800 IN A 219.143.237.163
+
+gnhz.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3808 IN A 60.247.18.9
+
+gonglab.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+gonglab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+graduate.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+kw.graduate.bnu.edu.cn. 10800 IN CNAME graduate.bnu.edu.cn.
+graduate.bnu.edu.cn. 7199 IN A 59.64.36.102
+
+ss.graduate.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+ss.graduate.bnu.edu.cn. 7199 IN A 59.64.36.102
+
+pb.ss.graduate.bnu.edu.cn. 10800 IN CNAME graduate.bnu.edu.cn.
+graduate.bnu.edu.cn. 7199 IN A 59.64.36.102
+
+zs.graduate.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+2017.zs.graduate.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+2020.zs.graduate.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+mail.zs.graduate.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+gtes.bnu.edu.cn. 10800 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtes.bnu.edu.cn. 7199 IN CNAME plesk2014.bnu.edu.cn.
+plesk2014.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+gtt.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gtt.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+gujiyuan.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+gujiyuan.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+guoxue.bnu.edu.cn. 10800 IN A 219.143.237.162
+
+gxb.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+hanlab.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+haolaoshi.bnu.edu.cn. 10800 IN A 60.247.18.11
+
+hcwy.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+helab.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+helab.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+history.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+history.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+hq.bnu.edu.cn. 10800 IN A 219.224.19.47
+
+hr.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+hr.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+hydrocity.bnu.edu.cn. 10800 IN A 59.64.36.55
+
+hywh.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3808 IN A 60.247.18.9
+
+hywh.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3808 IN A 60.247.18.9
+
+hz.bnu.edu.cn. 10800 IN A 59.64.36.78
+
+hzbx.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3808 IN A 60.247.18.9
+
+hzbx.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3808 IN A 60.247.18.9
+
+iashr.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3808 IN A 60.247.18.9
+
+icb.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+iccr-drr.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+icip.bnu.edu.cn. 10800 IN CNAME plesk4.bnu.edu.cn.
+plesk4.bnu.edu.cn. 7199 IN A 219.224.19.87
+
+icip.bnu.edu.cn. 7199 IN CNAME plesk4.bnu.edu.cn.
+plesk4.bnu.edu.cn. 7199 IN A 219.224.19.87
+
+ics.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5511 IN A 219.224.19.70
+
+idp.bnu.edu.cn. 10800 IN A 114.255.219.134
+
+idp.bnu.edu.cn. 7199 IN A 114.255.219.134
+
+idp.bnu.edu.cn. 7199 IN A 114.255.219.134
+
+idp.bnu.edu.cn. 7199 IN A 114.255.219.134
+
+idp.bnu.edu.cn. 7199 IN A 114.255.219.134
+
+idp.bnu.edu.cn. 7199 IN A 114.255.219.134
+
+iea.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+iea.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+iep.bnu.edu.cn. 10800 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+iep.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+igpr.bnu.edu.cn. 10800 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn. 7199 IN A 219.224.31.27
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 0 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 30 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+igpr.bnu.edu.cn<BR>www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 0 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 30 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.igpr.bnu.edu.cn. 29 IN A 220.250.64.225
+
+imibr.bnu.edu.cn. 10800 IN A 114.255.220.22
+
+ina.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+ina.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+inei.bnu.edu.cn. 10800 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+inei.bnu.edu.cn. 7199 IN A 219.224.19.164
+
+info.bnu.edu.cn. 10800 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 7199 IN A 60.247.18.7
+
+info.bnu.edu.cn. 7199 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 7199 IN A 60.247.18.7
+
+datacenter.info.bnu.edu.cn. 10800 IN CNAME plesklinux1.bnu.edu.cn.
+plesklinux1.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+innovation2019.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+ipv6.bnu.edu.cn. 10800 IN CNAME mrtg.bnu.edu.cn.
+mrtg.bnu.edu.cn. 7199 IN A 219.224.19.100
+
+ipv6te.bnu.edu.cn. 10800 IN A 114.255.220.40
+
+ires.bnu.edu.cn. 10800 IN A 219.143.237.164
+
+ires.bnu.edu.cn. 7199 IN A 219.143.237.164
+
+irg.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+ischool.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5510 IN A 219.224.19.70
+
+ischool.bnu.edu.cn. 7199 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5510 IN A 219.224.19.70
+
+iso.bnu.edu.cn. 10800 IN A 219.143.237.236
+
+iso.bnu.edu.cn. 7199 IN A 219.143.237.236
+
+iwrm2018.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3807 IN A 60.247.18.9
+
+jcyjy.bnu.edu.cn. 10800 IN A 219.224.19.221
+
+jgdw.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3807 IN A 60.247.18.9
+
+jjb.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+jpc.bnu.edu.cn. 10800 IN A 219.143.237.228
+
+jpc.bnu.edu.cn. 7199 IN A 219.143.237.228
+
+jsgrzy.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+jsgzb.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3807 IN A 60.247.18.9
+
+jsjysj.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3807 IN A 60.247.18.9
+
+jsjysj.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3807 IN A 60.247.18.9
+
+jsjyxy.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+jsty.bnu.edu.cn. 10800 IN A 219.224.19.123
+
+jwb.bnu.edu.cn. 10800 IN A 219.224.19.181
+
+jwb.bnu.edu.cn. 7199 IN A 219.224.19.181
+
+jwc.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+dd.jwc.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+jwcold.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+jwcold.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+jyjsy.bnu.edu.cn. 10800 IN A 219.224.19.188
+
+jyjsy.bnu.edu.cn. 7199 IN A 219.224.19.188
+
+kczx.bnu.edu.cn. 10800 IN A 219.224.19.11
+
+kczx.bnu.edu.cn. 7199 IN A 219.224.19.11
+
+kejichu.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+kejichu.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+keyanyuan.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+keyanyuan.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+kg.bnu.edu.cn. 10800 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kg.bnu.edu.cn. 7199 IN A 219.224.31.46
+
+kino-eye.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+kled.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3806 IN A 60.247.18.9
+
+ksei.bnu.edu.cn. 10800 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+ksei.bnu.edu.cn. 7199 IN A 59.64.36.69
+
+labor.bnu.edu.cn. 10800 IN A 219.224.19.81
+
+labs.bnu.edu.cn. 10800 IN A 219.224.19.217
+
+law.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+law.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+lcell.bnu.edu.cn. 10800 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+lcell.bnu.edu.cn. 7199 IN A 59.64.36.36
+
+ldsr.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5509 IN A 219.224.19.70
+
+ldtk.bnu.edu.cn. 10800 IN A 219.224.31.9
+
+lenp.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3806 IN A 60.247.18.9
+
+25s.lib.bnu.edu.cn. 10800 IN A 202.112.82.27
+
+ame.lib.bnu.edu.cn. 10800 IN A 202.112.82.24
+
+aq.lib.bnu.edu.cn. 10800 IN A 202.112.82.84
+
+aq.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+aq.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+cceu.lib.bnu.edu.cn. 10800 IN A 202.112.82.70
+
+lenp.bnu.edu.cnidp.lib.bnu.edu.cn. 0 IN A 220.250.64.225
+
+ksei.bnu.edu.cnold.lib.bnu.edu.cn. 0 IN A 220.250.64.225
+
+qxk.bnu.edu.cnwww.lib.bnu.edu.cn. 0 IN A 220.250.64.225
+
+digi.lib.bnu.edu.cn. 10800 IN CNAME digi2.lib.bnu.edu.cn.
+digi2.lib.bnu.edu.cn. 7199 IN A 202.112.82.55
+
+digi2.lib.bnu.edu.cn. 7199 IN A 202.112.82.55
+
+discovery.lib.bnu.edu.cn. 10800 IN A 202.112.82.6
+
+ebook.lib.bnu.edu.cn. 10800 IN A 202.112.82.33
+
+email.lib.bnu.edu.cn. 10800 IN A 202.112.82.35
+
+emlib.lib.bnu.edu.cn. 10800 IN A 202.112.82.28
+
+etd.lib.bnu.edu.cn. 10800 IN A 202.112.82.116
+
+idp.lib.bnu.edu.cn. 10800 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+idp.lib.bnu.edu.cn. 7199 IN A 202.112.82.52
+
+imap.lib.bnu.edu.cn. 10800 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+imap.lib.bnu.edu.cn. 7199 IN A 202.112.82.35
+
+ir.lib.bnu.edu.cn. 10800 IN A 202.112.82.45
+
+m5000a1.lib.bnu.edu.cn. 10800 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000a1.lib.bnu.edu.cn. 7199 IN A 202.112.82.47
+
+m5000b1.lib.bnu.edu.cn. 10800 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+m5000b1.lib.bnu.edu.cn. 7199 IN A 202.112.82.7
+
+mail.lib.bnu.edu.cn. 10800 IN A 202.112.82.35
+
+meeting.lib.bnu.edu.cn. 10800 IN A 219.224.28.41
+
+old.lib.bnu.edu.cn. 10800 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+old.lib.bnu.edu.cn. 7199 IN A 202.112.82.19
+
+opac.lib.bnu.edu.cn. 10800 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+opac.lib.bnu.edu.cn. 7199 IN A 202.112.82.84
+
+search.lib.bnu.edu.cn. 10800 IN A 202.112.82.16
+
+shusheng.lib.bnu.edu.cn. 10800 IN A 202.112.82.23
+
+wanfang.lib.bnu.edu.cn. 10800 IN A 202.112.82.22
+
+www.lib.bnu.edu.cn. 10800 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+www.lib.bnu.edu.cn. 7199 IN A 202.112.82.32
+
+zhishisj.lib.bnu.edu.cn. 10800 IN A 202.112.82.60
+
+like-xb.bnu.edu.cn. 10800 IN CNAME plesk2015.bnu.edu.cn.
+plesk2015.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+liuchaolab.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+lxyz.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+lyxy.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+mail.bnu.edu.cn. 10800 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+mail.mail.bnu.edu.cn. 10800 IN CNAME stu.mail.bnu.edu.cn.
+stu.mail.bnu.edu.cn. 7199 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 567 IN A 123.58.177.239
+
+mail.mail.bnu.edu.cn. 7199 IN CNAME stu.mail.bnu.edu.cn.
+stu.mail.bnu.edu.cn. 7199 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 567 IN A 123.58.177.239
+
+stu.mail.bnu.edu.cn. 7199 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 567 IN A 123.58.177.239
+
+maker.bnu.edu.cn. 10800 IN A 219.224.31.7
+
+managechild.bnu.edu.cn. 10800 IN A 219.224.19.138
+
+maptqms.bnu.edu.cn. 10800 IN A 219.224.31.9
+
+marx.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+marx.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+math.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+math.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+math0.bnu.edu.cn. 10800 IN A 219.224.31.15
+
+math0.bnu.edu.cn. 7199 IN A 219.224.31.15
+
+mathold.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+mathold.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+maxdo.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+maxdo.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+mba.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+mba.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+mcard.bnu.edu.cn. 7194 IN A 114.255.220.46
+
+mdw.bnu.edu.cn. 10800 IN A 59.64.36.79
+
+mdw.bnu.edu.cn. 7199 IN A 59.64.36.79
+
+media.bnu.edu.cn. 10800 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 1445 IN A 60.247.18.7
+
+meeting.bnu.edu.cn. 10800 IN A 219.224.19.235
+
+mhs.bnu.edu.cn. 10800 IN A 59.64.36.44
+
+mirs.bnu.edu.cn. 10800 IN A 219.224.31.49
+
+mllab.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+mrtg.bnu.edu.cn. 7197 IN A 219.224.19.100
+
+mse.bnu.edu.cn. 10800 IN A 202.112.95.194
+
+mstd.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+mstd.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+mti.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+mti.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+ncslb.bnu.edu.cn. 10800 IN A 219.224.19.188
+
+news.bnu.edu.cn. 10800 IN A 60.247.18.10
+
+news.bnu.edu.cn. 7199 IN A 60.247.18.10
+
+nive.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+ns.bnu.edu.cn. 10800 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns.bnu.edu.cn. 7199 IN A 202.112.80.106
+
+ns2.bnu.edu.cn. 10800 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns2.bnu.edu.cn. 7199 IN A 202.112.80.168
+
+ns3.bnu.edu.cn. 10800 IN A 114.255.220.20
+
+ocia.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+oiec.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+oiec.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+one.bnu.edu.cn. 8254 IN A 114.255.219.18
+
+pan.bnu.edu.cn. 10800 IN A 114.255.219.24
+
+pdn.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+phil.bnu.edu.cn. 10454 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+phil.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+philsummer.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+phyanxiu.bnu.edu.cn. 10800 IN A 219.224.19.189
+
+physics.bnu.edu.cn. 3781 IN A 219.224.31.14
+
+physics.bnu.edu.cn. 3780 IN A 219.224.31.14
+
+physics.bnu.edu.cn. 3780 IN A 219.224.31.14
+
+pingjian.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3804 IN A 60.247.18.9
+
+plesk2.bnu.edu.cn. 7196 IN A 219.224.19.81
+
+plesk2014.bnu.edu.cn. 7195 IN A 219.224.19.80
+
+plesk2015.bnu.edu.cn. 7198 IN A 219.224.19.82
+
+plesk3.bnu.edu.cn. 5507 IN A 219.224.19.70
+
+plesk4.bnu.edu.cn. 7196 IN A 219.224.19.87
+
+plesklinux1.bnu.edu.cn. 7196 IN A 219.224.19.82
+
+plesklinux2.bnu.edu.cn. 10800 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+plesklinux2.bnu.edu.cn. 7199 IN A 219.224.19.148
+
+pleskold1.bnu.edu.cn. 7193 IN A 219.224.19.49
+
+pmo.bnu.edu.cn. 10800 IN A 219.224.31.56
+
+pop.bnu.edu.cn. 10800 IN CNAME email.bnu.edu.cn.
+email.bnu.edu.cn. 7199 IN A 219.142.121.58
+
+portal.bnu.edu.cn. 10800 IN A 114.255.219.18
+
+portal.bnu.edu.cn. 7199 IN A 114.255.219.18
+
+prsc.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+prsc.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+zyfw.prsc.bnu.edu.cn. 10800 IN A 219.143.237.166
+
+psy-abc.bnu.edu.cn. 10800 IN A 59.64.36.2
+
+psy-abc.bnu.edu.cn. 7199 IN A 59.64.36.2
+
+psych.bnu.edu.cn. 10800 IN A 59.64.36.2
+
+psych.bnu.edu.cn. 7199 IN A 59.64.36.2
+
+psych.bnu.edu.cn. 7199 IN A 59.64.36.2
+
+psych-lab.bnu.edu.cn. 10800 IN A 59.64.36.2
+
+book.psych.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 3230 IN A 219.224.19.70
+
+psykeylab.bnu.edu.cn. 10800 IN A 59.64.36.2
+
+pub.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+pub.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+pxzx.bnu.edu.cn. 10800 IN A 219.143.237.227
+
+qgxxtylm.bnu.edu.cn. 10800 IN A 219.224.19.96
+
+qigongshuyuan.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+qxk.bnu.edu.cn. 3359 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+qxk.bnu.edu.cn. 3358 IN A 59.64.36.82
+
+radiopharm.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+ramm.bnu.edu.cn. 10800 IN A 219.224.19.82
+
+ramm.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+rcde.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+robot.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+robot.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+rsgyy.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+rsgyy.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+rus.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+rws.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+rws.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+rws.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+sc.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+sc.bnu.edu.cn. 7199 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+www.sce.bnu.edu.cn. 10800 IN A 60.247.18.141
+
+scett.bnu.edu.cn. 10800 IN A 60.247.18.150
+
+guoji.scett.bnu.edu.cn. 10800 IN A 60.247.18.141
+
+m.guoji.scett.bnu.edu.cn. 10800 IN A 60.247.18.141
+
+mail.scett.bnu.edu.cn. 10800 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+mail.scett.bnu.edu.cn. 7199 IN A 60.247.18.145
+
+www.scett.bnu.edu.cn. 10800 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+www.scett.bnu.edu.cn. 7199 IN A 60.247.18.11
+
+sciencepark.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3803 IN A 60.247.18.9
+
+sctl.bnu.edu.cn. 0 IN A 220.250.64.225
+
+www.sds.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+sdxs.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+sdxs.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+sdyp.bnu.edu.cn. 10800 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+opac.lib.bnu.edu.cnwww.sdyp.bnu.edu.cn. 0 IN A 220.250.64.225
+
+help.sdyp.bnu.edu.cn. 10800 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+help.sdyp.bnu.edu.cn. 7199 IN A 114.255.218.252
+
+www.sdyp.bnu.edu.cn. 0 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 30 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+www.sdyp.bnu.edu.cn. 29 IN A 220.250.64.225
+
+seba.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+security.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3802 IN A 60.247.18.9
+
+serm.bnu.edu.cn. 10800 IN CNAME plesk2015.bnu.edu.cn.
+plesk2015.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+serm.bnu.edu.cn. 7199 IN CNAME plesk2015.bnu.edu.cn.
+plesk2015.bnu.edu.cn. 7199 IN A 219.224.19.82
+
+sf.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+sf.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+www.sfll.bnu.edu.cn. 3623 IN A 59.64.36.62
+
+www.sfll.bnu.edu.cn. 3622 IN A 59.64.36.62
+
+sflm.bnu.edu.cn. 10800 IN A 202.112.82.66
+
+sflm.bnu.edu.cn. 7199 IN A 202.112.82.66
+
+sflm.bnu.edu.cn. 7199 IN A 202.112.82.66
+
+sflm.bnu.edu.cn. 7199 IN A 202.112.82.66
+
+www.sg.bnu.edu.cn. 10800 IN A 59.64.36.19
+
+www.sg.bnu.edu.cn. 7199 IN A 59.64.36.19
+
+xy.sg.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+sgsw.bnu.edu.cn. 10800 IN CNAME plesk4.bnu.edu.cn.
+plesk4.bnu.edu.cn. 7199 IN A 219.224.19.87
+
+shzl.bnu.edu.cn. 10800 IN A 59.64.36.24
+
+sjc.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+sjc.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+skc.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+sli.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+sli.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+slp.bnu.edu.cn. 10800 IN CNAME fep-web.sdp.101.com.
+fep-web.sdp.101.com. 599 IN A 43.231.148.158
+fep-web.sdp.101.com. 599 IN A 43.231.144.252
+fep-web.sdp.101.com. 599 IN A 43.231.148.160
+fep-web.sdp.101.com. 599 IN A 43.231.148.159
+fep-web.sdp.101.com. 599 IN A 43.231.144.251
+fep-web.sdp.101.com. 599 IN A 43.231.148.161
+fep-web.sdp.101.com. 599 IN A 43.231.144.250
+fep-web.sdp.101.com. 599 IN A 43.231.144.248
+
+slp.bnu.edu.cn. 7199 IN CNAME fep-web.sdp.101.com.
+fep-web.sdp.101.com. 599 IN A 43.231.148.158
+fep-web.sdp.101.com. 599 IN A 43.231.144.252
+fep-web.sdp.101.com. 599 IN A 43.231.148.160
+fep-web.sdp.101.com. 599 IN A 43.231.148.159
+fep-web.sdp.101.com. 599 IN A 43.231.144.251
+fep-web.sdp.101.com. 599 IN A 43.231.148.161
+fep-web.sdp.101.com. 599 IN A 43.231.144.250
+fep-web.sdp.101.com. 599 IN A 43.231.144.248
+
+sms.bnu.edu.cn. 10800 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+sms.bnu.edu.cn. 7199 IN A 219.224.19.48
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+NXDOMAIN for sne.bnu.edu.cn
+
+help.sdyp.bnu.edu.cnsne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 0 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 0 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 30 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+sne.bnu.edu.cn<BR>web.sne.bnu.edu.cn. 29 IN A 220.250.64.225
+
+imap.lib.bnu.edu.cnweb.sne.bnu.edu.cn. 0 IN A 220.250.64.225
+
+jszg.sne.bnu.edu.cn. 10800 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+jszg.sne.bnu.edu.cn. 7199 IN A 119.254.111.206
+
+mail.sne.bnu.edu.cn. 10800 IN A 60.247.18.145
+
+web.sne.bnu.edu.cn. 5918 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+web.sne.bnu.edu.cn. 5917 IN A 60.247.18.140
+
+www.sne.bnu.edu.cn. 10800 IN A 60.247.18.130
+
+software.bnu.edu.cn. 10800 IN A 219.224.19.251
+
+ssdpp.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3802 IN A 60.247.18.9
+
+ssdpp.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3802 IN A 60.247.18.9
+
+sslvpn.bnu.edu.cn. 10800 IN A 114.255.218.202
+
+sss.bnu.edu.cn. 10800 IN A 219.224.31.12
+
+sss.bnu.edu.cn. 7199 IN A 219.224.31.12
+
+stat.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+stat.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+stem.bnu.edu.cn. 10800 IN A 59.64.36.71
+
+stem.bnu.edu.cn. 7199 IN A 59.64.36.71
+
+stem2012.bnu.edu.cn. 10800 IN A 59.64.36.71
+
+stemet.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+survey.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+swxtb.bnu.edu.cn. 10800 IN A 219.224.31.6
+
+swxtb.bnu.edu.cn. 7199 IN A 219.224.31.6
+
+www.syhls.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3801 IN A 60.247.18.9
+
+szsw.bnu.edu.cn. 10800 IN A 59.64.36.96
+
+szsw.bnu.edu.cn. 7199 IN A 59.64.36.96
+
+test2.bnu.edu.cn. 0 IN A 220.250.64.225
+
+thinking.bnu.edu.cn. 10800 IN A 219.224.19.19
+
+time.bnu.edu.cn. 10800 IN A 202.112.80.198
+
+tryer.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3801 IN A 60.247.18.9
+
+tyx.bnu.edu.cn. 10800 IN A 59.64.36.41
+
+www.tyx.bnu.edu.cn. 10800 IN CNAME tyx.bnu.edu.cn.
+tyx.bnu.edu.cn. 7199 IN A 59.64.36.41
+
+www.tyx.bnu.edu.cn. 7199 IN CNAME tyx.bnu.edu.cn.
+tyx.bnu.edu.cn. 7199 IN A 59.64.36.41
+
+tzb.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+tzb.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+ucsec.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+ultrafast.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3801 IN A 60.247.18.9
+
+uoa.bnu.edu.cn. 10800 IN A 114.255.219.21
+
+video.bnu.edu.cn. 10800 IN A 60.247.18.10
+
+vol.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+vol.bnu.edu.cn. 7199 IN A 219.224.19.80
+
+vpn.bnu.edu.cn. 10800 IN CNAME weixin.bnu.edu.cn.
+weixin.bnu.edu.cn. 7199 IN A 114.255.220.46
+
+vpn2.bnu.edu.cn. 10800 IN A 172.16.181.66
+
+vrvt.bnu.edu.cn. 10800 IN A 202.112.88.45
+
+www.vsecc.bnu.edu.cn. 10800 IN A 219.224.31.18
+
+vthere.bnu.edu.cn. 10800 IN A 219.224.19.142
+
+vw.bnu.edu.cn. 10800 IN A 219.224.19.142
+
+wangjingai.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+NXDOMAIN for wayf6.bnu.edu.cn
+
+weixin.bnu.edu.cn. 7198 IN A 114.255.220.46
+
+welcome.bnu.edu.cn. 10800 IN A 219.224.19.48
+
+welcomezh.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3800 IN A 60.247.18.9
+
+welcomezh.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3800 IN A 60.247.18.9
+
+wenku.bnu.edu.cn. 10800 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenku.bnu.edu.cn. 7199 IN A 202.112.82.101
+
+wenyixue.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+wifi.bnu.edu.cn. 10800 IN A 219.224.19.14
+
+wise.bnu.edu.cn. 10800 IN A 219.224.19.143
+
+wise.bnu.edu.cn. 7199 IN A 219.224.19.143
+
+wkxb.bnu.edu.cn. 10800 IN A 219.224.19.169
+
+wkxb.bnu.edu.cn. 7199 IN A 219.224.19.169
+
+wsmelab.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+wszf.bnu.edu.cn. 10800 IN A 114.255.220.71
+
+wszf.bnu.edu.cn. 7199 IN A 114.255.220.71
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1441 IN A 60.247.18.7
+
+www.bnu.edu.cn. 1440 IN A 60.247.18.7
+
+wxy.bnu.edu.cn. 9959 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+wxy.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+wyxlx.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+wzb.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+xcb.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+xiaoqing110.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xly.bnu.edu.cn. 10800 IN A 59.64.36.102
+
+xly.bnu.edu.cn. 7199 IN A 59.64.36.102
+
+xsc.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xsc.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xszx.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+xszx.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+xszz.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xszz.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xuefeng.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xuefeng.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xueronghua.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xueronghua.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xxgk.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xygh.bnu.edu.cn. 10800 IN CNAME plesk2.bnu.edu.cn.
+plesk2.bnu.edu.cn. 7199 IN A 219.224.19.81
+
+xyh.bnu.edu.cn. 10800 IN A 219.224.19.165
+
+xyy.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+xyy.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+ygb.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+yixue.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+yjh.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+youth.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+youth.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+yuanqing.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+yz.bnu.edu.cn. 5408 IN A 59.64.36.102
+
+yz.bnu.edu.cn. 5407 IN A 59.64.36.102
+
+zcgs.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+zcgs.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+zhanglab.bnu.edu.cn. 10800 IN CNAME plesk3.bnu.edu.cn.
+plesk3.bnu.edu.cn. 5502 IN A 219.224.19.70
+
+zhnews.bnu.edu.cn. 10800 IN CNAME www.bnu.edu.cn.
+www.bnu.edu.cn. 7199 IN A 60.247.18.7
+
+zhoutr.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+zhuhai.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+zkgyy.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+zkgyy.bnu.edu.cn. 7199 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+zs.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 3799 IN A 60.247.18.9
+
+zyfw.bnu.edu.cn. 10800 IN A 219.143.237.165
+
+zyfw.bnu.edu.cn. 7199 IN A 219.143.237.165
+
+zyxiaoyou.bnu.edu.cn. 10800 IN A 219.224.19.80
+
+zyzybj.bnu.edu.cn. 10800 IN CNAME cms2014.bnu.edu.cn.
+cms2014.bnu.edu.cn. 7199 IN A 60.247.18.9
+
+zzb.bnu.edu.cn. 10800 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+zzb.bnu.edu.cn. 7199 IN CNAME cms2012.bnu.edu.cn.
+cms2012.bnu.edu.cn. 7199 IN A 60.247.18.6
+
+zzbgz.bnu.edu.cn. 10800 IN A 219.224.31.51
+
+zzgz.bnu.edu.cn. 10800 IN A 219.224.31.51
+
+zzgz.bnu.edu.cn. 7199 IN A 219.224.31.51
+

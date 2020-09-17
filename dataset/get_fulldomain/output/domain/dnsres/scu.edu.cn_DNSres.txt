@@ -1,0 +1,6985 @@
+scu.edu.cn. 3600 IN A 182.139.132.58
+scu.edu.cn. 3600 IN A 202.115.32.72
+scu.edu.cn. 3600 IN A 182.139.132.57
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+scu.edu.cn. 3599 IN A 182.139.132.57
+scu.edu.cn. 3599 IN A 202.115.32.72
+scu.edu.cn. 3599 IN A 182.139.132.58
+
+3ac.scu.edu.cn. 3600 IN CNAME ggglxy.scu.edu.cn.
+ggglxy.scu.edu.cn. 3599 IN A 202.115.33.253
+
+720inst.scu.edu.cn. 3600 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720inst.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3600 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+720lab.scu.edu.cn. 3599 IN A 202.115.32.43
+
+abroad.scu.edu.cn. 3600 IN A 202.115.32.43
+
+acct.scu.edu.cn. 3600 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acct.scu.edu.cn. 3599 IN A 202.115.32.23
+
+acem.scu.edu.cn. 3600 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acem.scu.edu.cn. 3599 IN A 202.115.32.43
+
+acm.scu.edu.cn. 3600 IN A 125.69.85.25
+
+acm.scu.edu.cn. 3599 IN A 125.69.85.25
+
+amt.scu.edu.cn. 3600 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+amt.scu.edu.cn. 3599 IN A 202.115.62.171
+
+api.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+api.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appadmin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+applogin.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appms.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appservice.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3599 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstatic.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appstore.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+appweb.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3598 IN A 202.115.62.51
+
+archives.scu.edu.cn. 589 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives.scu.edu.cn. 588 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+
+archives-e.scu.edu.cn. 3600 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+archives-e.scu.edu.cn. 3599 IN A 202.115.46.20
+
+arclab.scu.edu.cn. 3600 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+arclab.scu.edu.cn. 3599 IN A 202.115.44.112
+
+art.scu.edu.cn. 3600 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+art.scu.edu.cn. 3599 IN A 202.115.33.131
+
+ascscu.scu.edu.cn. 3600 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+ascscu.scu.edu.cn. 3599 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3599 IN A 202.115.33.151
+
+atc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 588 IN A 211.83.159.100
+www1.scu.edu.cn. 588 IN A 211.83.159.99
+
+atc01.scu.edu.cn. 3600 IN A 202.115.33.148
+
+bbs.scu.edu.cn. 3600 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bbs.scu.edu.cn. 3599 IN A 125.69.85.16
+
+bio.scu.edu.cn. 3600 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bio.scu.edu.cn. 3599 IN A 125.69.85.8
+
+bioexpc.scu.edu.cn. 3600 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+bioexpc.scu.edu.cn. 3599 IN A 202.115.43.88
+
+biomater.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+biomater.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 408 IN A 211.83.159.99
+www1.scu.edu.cn. 408 IN A 211.83.159.100
+
+bldl.scu.edu.cn. 3600 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bldl.scu.edu.cn. 3599 IN A 202.115.33.150
+
+bml.scu.edu.cn. 3600 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bml.scu.edu.cn. 3599 IN A 202.115.44.174
+
+bs.scu.edu.cn. 3600 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bs.scu.edu.cn. 3599 IN A 202.115.33.223
+
+bsqs.scu.edu.cn. 3600 IN CNAME rxy.scu.edu.cn.
+rxy.scu.edu.cn. 3599 IN A 202.115.44.224
+
+bsqs.scu.edu.cn. 3599 IN CNAME rxy.scu.edu.cn.
+rxy.scu.edu.cn. 3599 IN A 202.115.44.224
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+NXDOMAIN for bw.scu.edu.cn
+
+bwc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+bwc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+
+cad.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+cad.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3599 IN A 211.83.159.54
+
+NXDOMAIN for gismp.scu.edu.cnwww.cad.scu.edu.cn
+
+www.cad.scu.edu.cn. 3600 IN A 202.115.56.67
+
+www.cad.scu.edu.cn. 3599 IN A 202.115.56.67
+
+www.cad.scu.edu.cn. 3599 IN A 202.115.56.67
+
+www.cad.scu.edu.cn. 3599 IN A 202.115.56.67
+
+www.cad.scu.edu.cn. 3599 IN A 202.115.56.67
+
+www.cad.scu.edu.cn. 3599 IN A 202.115.56.67
+
+www.cad.scu.edu.cn. 3599 IN A 202.115.56.67
+
+cbd2016.scu.edu.cn. 3600 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cbd2016.scu.edu.cn. 3599 IN A 202.115.33.130
+
+cc.scu.edu.cn. 3600 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cc.scu.edu.cn. 3599 IN A 202.115.47.176
+
+cce.scu.edu.cn. 3600 IN A 202.115.33.250
+
+ccftp.scu.edu.cn. 3600 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccftp.scu.edu.cn. 3599 IN A 202.115.47.177
+
+ccg.scu.edu.cn. 3600 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+ccg.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cci.scu.edu.cn. 3600 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cci.scu.edu.cn. 3599 IN A 202.115.43.29
+
+cclgi.scu.edu.cn. 3600 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+cclgi.scu.edu.cn. 3599 IN A 202.115.43.62
+
+ccs.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 587 IN A 211.83.159.99
+www1.scu.edu.cn. 587 IN A 211.83.159.100
+
+ccsas.scu.edu.cn. 3600 IN A 202.115.33.218
+
+ccst.scu.edu.cn. 3600 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ccst.scu.edu.cn. 3599 IN A 202.115.35.71
+
+ce.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 407 IN A 211.83.159.99
+www1.scu.edu.cn. 407 IN A 211.83.159.100
+
+ce01.scu.edu.cn. 3600 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+ce01.scu.edu.cn. 3599 IN A 202.115.44.110
+
+cert.scu.edu.cn. 3600 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+cert.scu.edu.cn. 3599 IN A 202.115.32.38
+
+ces.scu.edu.cn. 3600 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+ces.scu.edu.cn. 3599 IN A 202.115.43.42
+
+cg.scu.edu.cn. 3600 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cg.scu.edu.cn. 3599 IN A 202.115.62.198
+
+cgma.scu.edu.cn. 3600 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+cgma.scu.edu.cn. 3599 IN A 202.115.43.69
+
+charter.scu.edu.cn. 3600 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+charter.scu.edu.cn. 3599 IN A 202.115.43.35
+
+chem.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 586 IN A 211.83.159.100
+www1.scu.edu.cn. 586 IN A 211.83.159.99
+
+chem01.scu.edu.cn. 3600 IN A 202.115.44.176
+
+chem01.scu.edu.cn. 3599 IN A 202.115.44.176
+
+chemlab.scu.edu.cn. 3600 IN CNAME labsb.scu.edu.cn.
+labsb.scu.edu.cn. 3599 IN A 125.69.85.9
+
+cic.scu.edu.cn. 3600 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cic.scu.edu.cn. 3599 IN A 202.115.43.43
+
+cir.scu.edu.cn. 3600 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cir.scu.edu.cn. 3599 IN A 211.83.159.107
+
+cis.scu.edu.cn. 588 IN A 202.115.96.51
+
+clbz.scu.edu.cn. 3600 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+clbz.scu.edu.cn. 3599 IN A 202.115.35.78
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for imgwfw.scu.edu.cn<BR>wfw.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstore.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for api.scu.edu.cn<BR>appadmin.scu.edu.cn<BR>applogin.scu.edu.cn<BR>appms.scu.edu.cn<BR>app.scu.edu.cn<BR>appservice.scu.edu.cn<BR>appstatic.scu.edu.cn<BR>appstore.scu.edu.cn<BR>appweb.scu.edu.cn<BR>xiaoyuan.scu.edu.cn
+
+NXDOMAIN for gis.scu.edu.cnccs.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cnexp.scu.edu.cn
+
+NXDOMAIN for vweb34.scu.edu.cnnucl.scu.edu.cn
+
+NXDOMAIN for vs-bst.scu.edu.cnonline.scu.edu.cn
+
+cnpc2016.scu.edu.cn. 3600 IN CNAME 720lab.scu.edu.cn.
+720lab.scu.edu.cn. 3596 IN A 202.115.32.43
+
+NXDOMAIN for mail.sbc.scu.edu.cnqfsp1.scu.edu.cn
+
+NXDOMAIN for v228.scu.edu.cnseei.scu.edu.cn
+
+NXDOMAIN for seeipsa.scu.edu.cnv237.scu.edu.cn
+
+NXDOMAIN for iot2016.scu.edu.cnv239.scu.edu.cn
+
+cpcees.scu.edu.cn. 3600 IN CNAME sis.scu.edu.cn.
+sis.scu.edu.cn. 3596 IN A 202.115.33.151
+
+cpse.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cpse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+
+cs.scu.edu.cn. 3600 IN A 202.115.32.43
+
+cs.scu.edu.cn. 3599 IN A 202.115.32.43
+
+csri.scu.edu.cn. 3600 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+csri.scu.edu.cn. 3599 IN A 202.115.33.134
+
+cta.scu.edu.cn. 672 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cta.scu.edu.cn. 671 IN A 202.115.35.82
+
+cts.scu.edu.cn. 3600 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cts.scu.edu.cn. 3599 IN A 202.115.44.124
+
+cwf.scu.edu.cn. 3600 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwf.scu.edu.cn. 3599 IN A 202.115.44.170
+
+cwrh.scu.edu.cn. 3600 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwrh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+cwsn2016.scu.edu.cn. 3600 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+cwsn2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+dangban.scu.edu.cn. 3600 IN A 202.115.32.43
+
+danghui.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 585 IN A 211.83.159.100
+www1.scu.edu.cn. 585 IN A 211.83.159.99
+
+dart.scu.edu.cn. 3600 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dart.scu.edu.cn. 3599 IN A 202.115.32.39
+
+dcsj.scu.edu.cn. 3600 IN A 202.115.35.64
+
+discovery.scu.edu.cn. 3600 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+discovery.scu.edu.cn. 3599 IN A 202.115.54.28
+
+drc.scu.edu.cn. 3600 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drc.scu.edu.cn. 3599 IN A 202.115.43.44
+
+drmmt.scu.edu.cn. 3600 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+drmmt.scu.edu.cn. 3599 IN A 202.115.33.147
+
+dserver.scu.edu.cn. 3600 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dserver.scu.edu.cn. 3599 IN A 202.115.34.138
+
+dxpt.scu.edu.cn. 3600 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+dxpt.scu.edu.cn. 3599 IN A 202.115.62.24
+
+ecardapp.scu.edu.cn. 3600 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+ecardapp.scu.edu.cn. 3599 IN A 202.115.35.195
+
+eco-brewing.scu.edu.cn. 3600 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+eco-brewing.scu.edu.cn. 3599 IN A 202.115.43.86
+
+edp.scu.edu.cn. 3600 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+edp.scu.edu.cn. 3599 IN A 202.115.32.43
+
+educenter.scu.edu.cn. 3600 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+educenter.scu.edu.cn. 3599 IN A 202.115.43.85
+
+ee.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+ee.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+eec.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+eec.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3596 IN A 211.83.159.54
+
+ehall.scu.edu.cn. 3600 IN A 202.115.35.39
+
+eie.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+eie2.scu.edu.cn. 3600 IN A 202.115.44.181
+
+email.scu.edu.cn. 3600 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+email.scu.edu.cn. 3599 IN A 202.115.32.72
+
+emba.scu.edu.cn. 3600 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+emba.scu.edu.cn. 3599 IN A 211.83.159.51
+
+embajw.scu.edu.cn. 3600 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+embajw.scu.edu.cn. 3599 IN A 211.83.159.68
+
+en.scu.edu.cn. 585 IN A 202.115.32.43
+
+en.scu.edu.cn. 584 IN A 202.115.32.43
+
+english.scu.edu.cn. 3600 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+english.scu.edu.cn. 3599 IN A 202.115.32.43
+
+erwes.scu.edu.cn. 3600 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+erwes.scu.edu.cn. 3599 IN A 202.115.43.45
+
+esc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+esc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 404 IN A 211.83.159.100
+www1.scu.edu.cn. 404 IN A 211.83.159.99
+
+et.scu.edu.cn. 3600 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+et.scu.edu.cn. 3599 IN A 202.115.35.7
+
+etc.scu.edu.cn. 3600 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+etc.scu.edu.cn. 3599 IN A 211.83.159.54
+
+exp.scu.edu.cn. 3600 IN A 202.115.44.196
+
+exp.scu.edu.cn. 3599 IN A 202.115.44.196
+
+exp.scu.edu.cn. 3599 IN A 202.115.44.196
+
+exp.scu.edu.cn. 3599 IN A 202.115.44.196
+
+exp.scu.edu.cn. 3599 IN A 202.115.44.196
+
+exp.scu.edu.cn. 3599 IN A 202.115.44.196
+
+exp.scu.edu.cn. 3599 IN A 202.115.44.196
+
+fdinfo.scu.edu.cn. 3600 IN A 182.139.132.17
+
+fdinfo.scu.edu.cn. 3599 IN A 182.139.132.17
+
+flc.scu.edu.cn. 3600 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+flc2.scu.edu.cn. 3600 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+flc2.scu.edu.cn. 3599 IN A 202.115.33.153
+
+foundation.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+
+french.scu.edu.cn. 3600 IN A 202.115.33.210
+
+gat.scu.edu.cn. 3600 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+gat.scu.edu.cn. 3599 IN A 202.115.43.195
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxy.scu.edu.cn. 3594 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3600 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggglxyen.scu.edu.cn. 3599 IN A 202.115.33.253
+
+ggw.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+
+gh.scu.edu.cn. 3600 IN A 211.83.159.17
+
+gis.scu.edu.cn. 3600 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3600 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gisgd.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3600 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gismp.scu.edu.cn. 3599 IN CNAME gis.scu.edu.cn.
+gis.scu.edu.cn. 3599 IN A 211.83.159.11
+
+gj.scu.edu.cn. 3600 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gj.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3600 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+gjc.scu.edu.cn. 3599 IN A 202.115.32.43
+
+global.scu.edu.cn. 585 IN A 182.139.132.8
+
+global.scu.edu.cn. 584 IN A 182.139.132.8
+
+globaldata.scu.edu.cn. 3600 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+globaldata.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3600 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+goabroad.scu.edu.cn. 3599 IN A 202.115.43.157
+
+gs.scu.edu.cn. 60 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 59 IN A 211.83.159.99
+www1.scu.edu.cn. 59 IN A 211.83.159.100
+
+gs.scu.edu.cn. 59 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 59 IN A 211.83.159.99
+www1.scu.edu.cn. 59 IN A 211.83.159.100
+
+gsy.scu.edu.cn. 3600 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+gsy.scu.edu.cn. 3599 IN A 202.115.33.138
+
+guozc.scu.edu.cn. 3600 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+guozc.scu.edu.cn. 3599 IN A 202.115.44.121
+
+gxjd.scu.edu.cn. 585 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+gxjd.scu.edu.cn. 584 IN A 202.115.33.221
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+NXDOMAIN for gzc.scu.edu.cn
+
+hgc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+hgc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 583 IN A 211.83.159.99
+www1.scu.edu.cn. 583 IN A 211.83.159.100
+
+historytourism.scu.edu.cn. 3600 IN A 182.139.132.42
+
+hitachi.scu.edu.cn. 3600 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+hitachi.scu.edu.cn. 3599 IN A 202.115.43.1
+
+horizon-cs01.scu.edu.cn. 3600 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+horizon-cs01.scu.edu.cn. 3599 IN A 202.115.33.84
+
+hqfw.scu.edu.cn. 3600 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqfw.scu.edu.cn. 3599 IN A 202.115.43.140
+
+hqjt.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 402 IN A 211.83.159.100
+www1.scu.edu.cn. 402 IN A 211.83.159.99
+
+hqjt01.scu.edu.cn. 3600 IN A 202.115.32.43
+
+huodongshenpi.scu.edu.cn. 3600 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+huodongshenpi.scu.edu.cn. 3599 IN A 202.115.35.29
+
+hx.scu.edu.cn. 3600 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hx.scu.edu.cn. 3599 IN A 125.69.85.10
+
+hxbj.scu.edu.cn. 3600 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxbj.scu.edu.cn. 3599 IN A 202.115.43.188
+
+hxjcvlab.scu.edu.cn. 3600 IN A 202.115.33.171
+
+hxkq.scu.edu.cn. 3600 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hxkq.scu.edu.cn. 3599 IN A 202.115.43.2
+
+hys.scu.edu.cn. 3600 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+hys.scu.edu.cn. 3599 IN A 211.83.159.75
+
+iaas.scu.edu.cn. 3600 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iaas.scu.edu.cn. 3599 IN A 202.115.33.119
+
+iamp.scu.edu.cn. 3600 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+iamp.scu.edu.cn. 3599 IN A 202.115.35.83
+
+ibmtc.scu.edu.cn. 3600 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+ibmtc.scu.edu.cn. 3599 IN A 202.115.48.131
+
+iclass.scu.edu.cn. 3600 IN A 202.115.43.167
+
+idata.scu.edu.cn. 3600 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idata.scu.edu.cn. 3599 IN A 202.115.35.167
+
+idmr.scu.edu.cn. 3600 IN A 202.115.32.43
+
+idmr.scu.edu.cn. 3599 IN A 202.115.32.43
+
+idp.scu.edu.cn. 3600 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idp.scu.edu.cn. 3599 IN A 202.115.54.21
+
+idpa.scu.edu.cn. 3600 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpa.scu.edu.cn. 3599 IN A 125.69.85.21
+
+idpb.scu.edu.cn. 3600 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+idpb.scu.edu.cn. 3599 IN A 125.69.85.23
+
+ids.scu.edu.cn. 3600 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3600 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids1.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3600 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+ids2.scu.edu.cn. 3599 IN A 202.115.32.133
+
+idsimp.scu.edu.cn. 3600 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+idsimp.scu.edu.cn. 3599 IN A 202.115.32.219
+
+ihouse.scu.edu.cn. 3600 IN A 202.115.43.218
+
+iltc.scu.edu.cn. 583 IN CNAME cis.scu.edu.cn.
+cis.scu.edu.cn. 582 IN A 202.115.96.51
+
+imc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+
+imgwfw.scu.edu.cn. 3600 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+imgwfw.scu.edu.cn. 3599 IN A 211.83.159.26
+
+inelt.scu.edu.cn. 3600 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+inelt.scu.edu.cn. 3599 IN A 202.115.32.43
+
+int.scu.edu.cn. 3600 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+int.scu.edu.cn. 3599 IN A 202.115.46.17
+
+international.scu.edu.cn. 3600 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+international.scu.edu.cn. 3599 IN A 202.115.35.21
+
+iot2016.scu.edu.cn. 3600 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+iot2016.scu.edu.cn. 3599 IN A 202.115.33.132
+
+ir.scu.edu.cn. 3600 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+ir.scu.edu.cn. 3599 IN A 202.115.54.115
+
+isatap.scu.edu.cn. 3600 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+isatap.scu.edu.cn. 3599 IN A 202.115.39.98
+
+iti.scu.edu.cn. 3600 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+iti.scu.edu.cn. 3599 IN A 211.83.159.103
+
+itlab.scu.edu.cn. 3600 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itlab.scu.edu.cn. 3599 IN A 182.139.132.11
+
+itsm.scu.edu.cn. 3600 IN A 211.83.159.94
+
+jamp.scu.edu.cn. 3600 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jamp.scu.edu.cn. 3599 IN A 202.115.43.20
+
+jcfy.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jcfy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+
+jgb.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 581 IN A 211.83.159.100
+www1.scu.edu.cn. 581 IN A 211.83.159.99
+
+jgdw.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 580 IN A 211.83.159.99
+www1.scu.edu.cn. 580 IN A 211.83.159.100
+
+jgdw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 580 IN A 211.83.159.99
+www1.scu.edu.cn. 580 IN A 211.83.159.100
+
+jkreport.scu.edu.cn. 3600 IN A 211.83.159.50
+
+jls.scu.edu.cn. 3600 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jls.scu.edu.cn. 3599 IN A 202.115.43.46
+
+jsuese.scu.edu.cn. 3600 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jsuese.scu.edu.cn. 3599 IN A 202.115.43.36
+
+jw.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jw.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jwc.scu.edu.cn. 3600 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwc.scu.edu.cn. 3599 IN A 202.115.35.11
+
+jwce.scu.edu.cn. 3600 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwce.scu.edu.cn. 3599 IN A 202.115.47.181
+
+jwcweb.scu.edu.cn. 3600 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb.scu.edu.cn. 3599 IN A 202.115.47.133
+
+jwcweb2.scu.edu.cn. 3600 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jwcweb2.scu.edu.cn. 3599 IN A 202.115.47.131
+
+jxcg.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+jxyw.scu.edu.cn. 3600 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jxyw.scu.edu.cn. 3599 IN A 211.83.159.64
+
+jy.scu.edu.cn. 3600 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+jysbm.scu.edu.cn. 3600 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+jysbm.scu.edu.cn. 3599 IN A 202.115.47.165
+
+kjjr.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 580 IN A 211.83.159.100
+www1.scu.edu.cn. 580 IN A 211.83.159.99
+
+kjjz.scu.edu.cn. 3600 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjjz.scu.edu.cn. 3599 IN A 202.115.35.2
+
+kjy.scu.edu.cn. 3600 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kjy.scu.edu.cn. 3599 IN A 202.115.35.116
+
+kldtdds.scu.edu.cn. 3600 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kldtdds.scu.edu.cn. 3599 IN A 202.115.33.146
+
+kqjzw.scu.edu.cn. 3600 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kqjzw.scu.edu.cn. 3599 IN A 202.115.43.6
+
+kyy.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 400 IN A 211.83.159.99
+www1.scu.edu.cn. 400 IN A 211.83.159.100
+
+kyy1.scu.edu.cn. 3600 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+kyy1.scu.edu.cn. 3599 IN A 202.115.44.175
+
+archeol.lab.scu.edu.cn. 3600 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+archeol.lab.scu.edu.cn. 3599 IN A 202.115.44.124
+
+biosci.lab.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+chem.lab.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+clcla.lab.scu.edu.cn. 3600 IN CNAME labsb.scu.edu.cn.
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+NXDOMAIN for etc.lab.scu.edu.cn
+
+fltc.lab.scu.edu.cn. 3600 IN CNAME labsb.scu.edu.cn.
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+hxpcfm.lab.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxpcfm.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+hxsph.lab.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+mse.lab.scu.edu.cn. 3599 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+labanbao.scu.edu.cn. 3600 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labanbao.scu.edu.cn. 3599 IN A 202.115.44.128
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+labsb.scu.edu.cn. 3592 IN A 125.69.85.9
+
+lasernano.scu.edu.cn. 3600 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+lasernano.scu.edu.cn. 3599 IN A 202.115.44.181
+
+law.scu.edu.cn. 3600 IN A 202.115.32.43
+
+law01.scu.edu.cn. 3600 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+law01.scu.edu.cn. 3599 IN A 202.115.33.133
+
+lawenglish.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 399 IN A 211.83.159.100
+www1.scu.edu.cn. 399 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+lblab.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 579 IN A 211.83.159.100
+www1.scu.edu.cn. 579 IN A 211.83.159.99
+
+leao.scu.edu.cn. 3600 IN CNAME smartlab.scu.edu.cn.
+smartlab.scu.edu.cn. 3591 IN A 211.83.159.54
+
+les.scu.edu.cn. 3600 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+les.scu.edu.cn. 3599 IN A 202.115.58.126
+
+lib.scu.edu.cn. 581 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+lib.scu.edu.cn. 580 IN A 202.115.54.22
+
+libic.scu.edu.cn. 3600 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libic.scu.edu.cn. 3599 IN A 202.115.54.20
+
+libservice.scu.edu.cn. 3600 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libservice.scu.edu.cn. 3599 IN A 202.115.54.112
+
+libvpn.scu.edu.cn. 3600 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libvpn.scu.edu.cn. 3599 IN A 171.221.175.53
+
+libweixin.scu.edu.cn. 3600 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+libweixin.scu.edu.cn. 3599 IN A 202.115.54.23
+
+life.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+life.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+liqintong.scu.edu.cn. 3600 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+liqintong.scu.edu.cn. 3599 IN A 202.115.43.7
+
+lj.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+ltxc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+
+lvp.scu.edu.cn. 3600 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lvp.scu.edu.cn. 3599 IN A 202.115.43.61
+
+lw.scu.edu.cn. 3600 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+lw.scu.edu.cn. 3599 IN A 202.115.44.216
+
+mail.scu.edu.cn. 3600 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+mail.scu.edu.cn. 3599 IN A 202.115.35.227
+
+math.scu.edu.cn. 3600 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3600 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+math1.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mathweb.scu.edu.cn. 3600 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mathweb.scu.edu.cn. 3599 IN A 202.115.42.21
+
+mba.scu.edu.cn. 3381 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+mba.scu.edu.cn. 3380 IN A 202.115.44.108
+
+me.scu.edu.cn. 3600 IN A 202.115.33.214
+
+memory.scu.edu.cn. 3600 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+memory.scu.edu.cn. 3599 IN A 202.115.44.102
+
+metc.scu.edu.cn. 665 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mkszy.scu.edu.cn. 3600 IN A 202.115.32.43
+
+mkszy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3600 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+mnh.scu.edu.cn. 3599 IN A 202.115.32.43
+
+moa.scu.edu.cn. 3600 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+moa.scu.edu.cn. 3599 IN A 211.83.159.88
+
+mse.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+mse.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 578 IN A 211.83.159.100
+www1.scu.edu.cn. 578 IN A 211.83.159.99
+
+msec.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+msec.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 398 IN A 211.83.159.99
+www1.scu.edu.cn. 398 IN A 211.83.159.100
+
+mun.scu.edu.cn. 3600 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+mun.scu.edu.cn. 3599 IN A 202.115.59.2
+
+my.scu.edu.cn. 3600 IN A 202.115.32.219
+
+my.scu.edu.cn. 3599 IN A 202.115.32.219
+
+ncrc.scu.edu.cn. 3600 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+ncrc.scu.edu.cn. 3599 IN A 202.115.33.140
+
+nell.scu.edu.cn. 3600 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+nell.scu.edu.cn. 3599 IN A 202.115.43.49
+
+news.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 577 IN A 211.83.159.100
+www1.scu.edu.cn. 577 IN A 211.83.159.99
+
+news.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 577 IN A 211.83.159.100
+www1.scu.edu.cn. 577 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+newspaper.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 397 IN A 211.83.159.100
+www1.scu.edu.cn. 397 IN A 211.83.159.99
+
+nmu.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 577 IN A 211.83.159.99
+www1.scu.edu.cn. 577 IN A 211.83.159.100
+
+noa.scu.edu.cn. 3600 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+noa.scu.edu.cn. 3599 IN A 211.83.159.14
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+NXDOMAIN for ntci.scu.edu.cn
+
+ntp.scu.edu.cn. 3600 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+ntp.scu.edu.cn. 3599 IN A 202.115.32.84
+
+nucl.scu.edu.cn. 3600 IN A 202.115.50.115
+
+nucl.scu.edu.cn. 3599 IN A 202.115.50.115
+
+nucl.scu.edu.cn. 3599 IN A 202.115.50.115
+
+nucl.scu.edu.cn. 3599 IN A 202.115.50.115
+
+nucl.scu.edu.cn. 3599 IN A 202.115.50.115
+
+nucl.scu.edu.cn. 3599 IN A 202.115.50.115
+
+nucl.scu.edu.cn. 3599 IN A 202.115.50.115
+
+oip.scu.edu.cn. 3600 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oip.scu.edu.cn. 3599 IN A 202.115.44.126
+
+oldgw.scu.edu.cn. 3600 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+oldgw.scu.edu.cn. 3599 IN A 125.69.85.27
+
+online.scu.edu.cn. 3600 IN A 202.115.32.9
+
+online.scu.edu.cn. 3599 IN A 202.115.32.9
+
+online.scu.edu.cn. 3599 IN A 202.115.32.9
+
+online.scu.edu.cn. 3599 IN A 202.115.32.9
+
+online.scu.edu.cn. 3599 IN A 202.115.32.9
+
+online.scu.edu.cn. 3599 IN A 202.115.32.9
+
+online.scu.edu.cn. 3599 IN A 202.115.32.9
+
+opac.scu.edu.cn. 3600 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+opac.scu.edu.cn. 3599 IN A 202.115.54.13
+
+pce.scu.edu.cn. 3600 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pce.scu.edu.cn. 3599 IN A 125.69.85.15
+
+pe.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 577 IN A 211.83.159.100
+www1.scu.edu.cn. 577 IN A 211.83.159.99
+
+pead.scu.edu.cn. 3600 IN A 182.139.132.60
+
+pharmacy.scu.edu.cn. 3600 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+pharmacy.scu.edu.cn. 3599 IN A 202.115.32.43
+
+phys-cloud.scu.edu.cn. 3600 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+phys-cloud.scu.edu.cn. 3599 IN A 202.115.33.133
+
+physics.scu.edu.cn. 3600 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physics.scu.edu.cn. 3599 IN A 202.115.33.174
+
+physlab.scu.edu.cn. 3600 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+physlab.scu.edu.cn. 3599 IN A 202.115.51.96
+
+pme.scu.edu.cn. 3600 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+pme.scu.edu.cn. 3599 IN A 202.115.44.123
+
+NXDOMAIN for pmea.scu.edu.cn
+
+pmse.scu.edu.cn. 2954 IN A 182.139.132.22
+
+pmse.scu.edu.cn. 2953 IN A 182.139.132.22
+
+po.scu.edu.cn. 3600 IN A 202.115.32.43
+
+polychem.scu.edu.cn. 3600 IN A 211.83.159.62
+
+polymer.scu.edu.cn. 3600 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+polymer.scu.edu.cn. 3599 IN A 202.115.43.37
+
+portal.scu.edu.cn. 3600 IN A 125.69.85.22
+portal.scu.edu.cn. 3600 IN A 125.69.85.20
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal.scu.edu.cn. 3599 IN A 125.69.85.20
+portal.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3600 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+portal2.scu.edu.cn. 3599 IN A 125.69.85.22
+
+press.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+pri.scu.edu.cn. 3600 IN A 202.115.33.177
+
+pridns.scu.edu.cn. 3600 IN CNAME mail.scu.edu.cn.
+mail.scu.edu.cn. 3597 IN A 202.115.35.227
+
+pridns.scu.edu.cn. 3599 IN CNAME mail.scu.edu.cn.
+mail.scu.edu.cn. 3597 IN A 202.115.35.227
+
+proxy.scu.edu.cn. 3600 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+proxy.scu.edu.cn. 3599 IN A 125.69.85.7
+
+qfsp.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 576 IN A 211.83.159.99
+www1.scu.edu.cn. 576 IN A 211.83.159.100
+
+qfsp1.scu.edu.cn. 3600 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qfsp1.scu.edu.cn. 3599 IN A 202.115.43.82
+
+qyfz.scu.edu.cn. 3600 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+qyfz.scu.edu.cn. 3599 IN A 211.83.159.92
+
+radar.scu.edu.cn. 3600 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radar.scu.edu.cn. 3599 IN A 202.115.32.191
+
+radphys.scu.edu.cn. 3600 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+radphys.scu.edu.cn. 3599 IN A 202.115.50.120
+
+rsc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsc.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 396 IN A 211.83.159.99
+www1.scu.edu.cn. 396 IN A 211.83.159.100
+
+rsxxgl.scu.edu.cn. 3600 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl.scu.edu.cn. 3599 IN A 125.69.85.30
+
+rsxxgl2.scu.edu.cn. 3600 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+rsxxgl2.scu.edu.cn. 3599 IN A 202.115.35.60
+
+russian.scu.edu.cn. 3600 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+russian.scu.edu.cn. 3599 IN A 202.115.32.43
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+rxy.scu.edu.cn. 3587 IN A 202.115.44.224
+
+saa.scu.edu.cn. 3600 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+saa.scu.edu.cn. 3599 IN A 202.115.32.43
+
+sau.scu.edu.cn. 3600 IN A 202.115.44.186
+
+sbc.scu.edu.cn. 3600 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+sbc.scu.edu.cn. 3599 IN A 211.83.159.2
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for autodiscover.sbc.scu.edu.cn<BR>mail.sbc.scu.edu.cn<BR>owa.sbc.scu.edu.cn<BR>sbc.scu.edu.cn<BR>www.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for mail.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for owa.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+NXDOMAIN for www.sbc.scu.edu.cn
+
+science.scu.edu.cn. 3600 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+science.scu.edu.cn. 3599 IN A 202.115.43.22
+
+scloud.scu.edu.cn. 3600 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scloud.scu.edu.cn. 3599 IN A 202.115.33.85
+
+scuaa.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 575 IN A 211.83.159.100
+www1.scu.edu.cn. 575 IN A 211.83.159.99
+
+scudm.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 395 IN A 211.83.159.99
+www1.scu.edu.cn. 395 IN A 211.83.159.100
+
+scuetv.scu.edu.cn. 3600 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scuetv.scu.edu.cn. 3599 IN A 202.115.44.202
+
+scufd.scu.edu.cn. 3600 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3600 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scugsu.scu.edu.cn. 3599 IN A 202.115.32.43
+
+scuhtg.scu.edu.cn. 3600 IN A 202.115.32.43
+
+scujj.scu.edu.cn. 3600 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scujj.scu.edu.cn. 3599 IN A 125.69.85.13
+
+scupi.scu.edu.cn. 3600 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scupi.scu.edu.cn. 3599 IN A 202.115.33.142
+
+scuzs.scu.edu.cn. 3600 IN CNAME idsimp.scu.edu.cn.
+idsimp.scu.edu.cn. 3592 IN A 202.115.32.219
+
+sdzx.scu.edu.cn. 3600 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+sdzx.scu.edu.cn. 3599 IN A 202.115.44.205
+
+secdns.scu.edu.cn. 3600 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+secdns.scu.edu.cn. 3599 IN A 202.115.32.36
+
+seei.scu.edu.cn. 3600 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seei.scu.edu.cn. 3599 IN A 125.69.85.17
+
+seeipsa.scu.edu.cn. 3600 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+seeipsa.scu.edu.cn. 3599 IN A 202.115.43.12
+
+sesu.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+sf.scu.edu.cn. 3600 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sf.scu.edu.cn. 3599 IN A 202.115.44.248
+
+sim.scu.edu.cn. 3600 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sim.scu.edu.cn. 3599 IN A 202.115.58.56
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sis.scu.edu.cn. 3585 IN A 202.115.33.151
+
+sjc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 574 IN A 211.83.159.100
+www1.scu.edu.cn. 574 IN A 211.83.159.99
+
+skc.scu.edu.cn. 3600 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skc.scu.edu.cn. 3599 IN A 182.139.132.32
+
+skhl.scu.edu.cn. 3600 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+skhl.scu.edu.cn. 3599 IN A 211.83.159.19
+
+sklb.scu.edu.cn. 3600 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklb.scu.edu.cn. 3599 IN A 202.115.33.173
+
+sklpme.scu.edu.cn. 3600 IN A 202.115.33.177
+
+sklpme.scu.edu.cn. 3599 IN A 202.115.33.177
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+smartlab.scu.edu.cn. 3587 IN A 211.83.159.54
+
+soe.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soe.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 394 IN A 211.83.159.99
+www1.scu.edu.cn. 394 IN A 211.83.159.100
+
+soscu.scu.edu.cn. 3600 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+soscu.scu.edu.cn. 3599 IN A 202.115.36.219
+
+spalwxt.scu.edu.cn. 3600 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+spalwxt.scu.edu.cn. 3599 IN A 202.115.43.33
+
+sptrade.scu.edu.cn. 3600 IN A 202.115.43.146
+
+spzx.scu.edu.cn. 3600 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+spzx.scu.edu.cn. 3599 IN A 202.115.43.53
+
+sqb.scu.edu.cn. 3600 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+sqb.scu.edu.cn. 3599 IN A 211.83.159.100
+
+ssd.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+ssd.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 573 IN A 211.83.159.100
+www1.scu.edu.cn. 573 IN A 211.83.159.99
+
+sso.scu.edu.cn. 3600 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+sso.scu.edu.cn. 3599 IN A 202.115.33.117
+
+st.scu.edu.cn. 3600 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+st.scu.edu.cn. 3599 IN A 202.115.43.54
+
+mail.stu.scu.edu.cn. 3600 IN CNAME edu.icoremail.net.
+edu.icoremail.net. 179 IN A 59.111.192.150
+
+study.scu.edu.cn. 3600 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+study.scu.edu.cn. 3599 IN A 202.115.39.213
+
+su.scu.edu.cn. 3600 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+su.scu.edu.cn. 3599 IN A 202.115.44.161
+
+sun525.scu.edu.cn. 3600 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sun525.scu.edu.cn. 3599 IN A 202.115.44.197
+
+sunamp.scu.edu.cn. 3600 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+sunamp.scu.edu.cn. 3599 IN A 202.115.60.201
+
+susiud.scu.edu.cn. 3600 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+susiud.scu.edu.cn. 3599 IN A 202.115.43.55
+
+sw.scu.edu.cn. 713 IN A 202.115.32.43
+
+swjx.scu.edu.cn. 3600 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+swjx.scu.edu.cn. 3599 IN A 125.69.85.6
+
+sydw.scu.edu.cn. 3600 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+sydw.scu.edu.cn. 3599 IN A 202.115.35.69
+
+syl.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 393 IN A 211.83.159.100
+www1.scu.edu.cn. 393 IN A 211.83.159.99
+
+teacher.scu.edu.cn. 3600 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+teacher.scu.edu.cn. 3599 IN A 211.83.159.35
+
+test212.scu.edu.cn. 3600 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test212.scu.edu.cn. 3599 IN A 202.115.35.19
+
+test25.scu.edu.cn. 3600 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+test25.scu.edu.cn. 3599 IN A 202.115.32.25
+
+tianyuan.scu.edu.cn. 3600 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tianyuan.scu.edu.cn. 3599 IN A 202.115.33.203
+
+tjj.scu.edu.cn. 3600 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tjj.scu.edu.cn. 3599 IN A 202.115.36.181
+
+tradeins.scu.edu.cn. 3600 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tradeins.scu.edu.cn. 3599 IN A 202.115.43.56
+
+tuanwei.scu.edu.cn. 3600 IN A 202.115.32.43
+
+tufccis.scu.edu.cn. 3600 IN A 202.115.96.51
+
+tzb.scu.edu.cn. 3600 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+tzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+udmlab.scu.edu.cn. 3600 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+udmlab.scu.edu.cn. 3599 IN A 202.115.43.15
+
+upspower.scu.edu.cn. 3600 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+upspower.scu.edu.cn. 3599 IN A 202.115.32.200
+
+urbanchina.scu.edu.cn. 3600 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+urbanchina.scu.edu.cn. 3599 IN A 202.115.43.57
+
+v222.scu.edu.cn. 3600 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v222.scu.edu.cn. 3599 IN A 202.115.33.222
+
+v223.scu.edu.cn. 3600 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v223.scu.edu.cn. 3599 IN A 202.115.33.223
+
+v224.scu.edu.cn. 3600 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v224.scu.edu.cn. 3599 IN A 202.115.33.224
+
+v225.scu.edu.cn. 3600 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v225.scu.edu.cn. 3599 IN A 202.115.33.225
+
+v226.scu.edu.cn. 3600 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v226.scu.edu.cn. 3599 IN A 202.115.33.226
+
+v227.scu.edu.cn. 3600 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v227.scu.edu.cn. 3599 IN A 202.115.33.227
+
+v228.scu.edu.cn. 3600 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v228.scu.edu.cn. 3599 IN A 202.115.33.228
+
+v229.scu.edu.cn. 3600 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v229.scu.edu.cn. 3599 IN A 202.115.33.229
+
+v230.scu.edu.cn. 3600 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v230.scu.edu.cn. 3599 IN A 202.115.33.230
+
+v231.scu.edu.cn. 3600 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v231.scu.edu.cn. 3599 IN A 202.115.33.231
+
+v232.scu.edu.cn. 3600 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v232.scu.edu.cn. 3599 IN A 202.115.33.232
+
+v233.scu.edu.cn. 3600 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v233.scu.edu.cn. 3599 IN A 202.115.33.233
+
+v234.scu.edu.cn. 3600 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v234.scu.edu.cn. 3599 IN A 202.115.33.234
+
+v235.scu.edu.cn. 3600 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v235.scu.edu.cn. 3599 IN A 202.115.33.235
+
+v236.scu.edu.cn. 3600 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v236.scu.edu.cn. 3599 IN A 202.115.33.236
+
+v237.scu.edu.cn. 3600 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v237.scu.edu.cn. 3599 IN A 202.115.33.237
+
+v238.scu.edu.cn. 3600 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v238.scu.edu.cn. 3599 IN A 202.115.33.238
+
+v239.scu.edu.cn. 3600 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+v239.scu.edu.cn. 3599 IN A 202.115.33.239
+
+vcac.scu.edu.cn. 3600 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+vcac.scu.edu.cn. 3599 IN A 202.115.33.118
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+NXDOMAIN for vdp1.scu.edu.cn
+
+vftp.scu.edu.cn. 3600 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+vftp.scu.edu.cn. 3599 IN A 125.69.85.12
+
+volunteer.scu.edu.cn. 3600 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+volunteer.scu.edu.cn. 3599 IN A 202.115.44.186
+
+vote.scu.edu.cn. 3600 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vote.scu.edu.cn. 3599 IN A 202.115.44.179
+
+vra.scu.edu.cn. 3600 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vra.scu.edu.cn. 3599 IN A 202.115.33.87
+
+vs.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 391 IN A 211.83.159.100
+www1.scu.edu.cn. 391 IN A 211.83.159.99
+
+vs-bst.scu.edu.cn. 3600 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vs-bst.scu.edu.cn. 3599 IN A 202.115.44.125
+
+vtest.scu.edu.cn. 3600 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vtest.scu.edu.cn. 3599 IN A 202.115.32.76
+
+vweb1.scu.edu.cn. 3600 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb1.scu.edu.cn. 3599 IN A 125.69.85.29
+
+vweb11.scu.edu.cn. 3600 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb11.scu.edu.cn. 3599 IN A 182.139.132.26
+
+vweb12.scu.edu.cn. 3600 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb12.scu.edu.cn. 3599 IN A 182.139.132.25
+
+vweb2.scu.edu.cn. 3600 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb2.scu.edu.cn. 3599 IN A 125.69.85.28
+
+vweb34.scu.edu.cn. 3600 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb34.scu.edu.cn. 3599 IN A 202.115.32.34
+
+vweb7.scu.edu.cn. 3600 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+vweb7.scu.edu.cn. 3599 IN A 125.69.85.26
+
+wc4hospital.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 390 IN A 211.83.159.99
+www1.scu.edu.cn. 390 IN A 211.83.159.100
+
+wc4hospital.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 390 IN A 211.83.159.99
+www1.scu.edu.cn. 390 IN A 211.83.159.100
+
+wcsm.scu.edu.cn. 2796 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsm.scu.edu.cn. 2795 IN A 202.115.44.223
+
+wcsn.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 390 IN A 211.83.159.100
+www1.scu.edu.cn. 390 IN A 211.83.159.99
+
+wcsph.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+
+wcsph.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+
+wcums.scu.edu.cn. 3600 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+wcums.scu.edu.cn. 3599 IN A 202.115.32.43
+
+webtest.scu.edu.cn. 3600 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+webtest.scu.edu.cn. 3599 IN A 202.115.36.93
+
+wenxue.scu.edu.cn. 3600 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wenxue.scu.edu.cn. 3599 IN A 202.115.54.30
+
+wfw.scu.edu.cn. 195 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+wfw.scu.edu.cn. 194 IN CNAME imgwfw.scu.edu.cn.
+imgwfw.scu.edu.cn. 194 IN A 211.83.159.26
+
+whnlab.scu.edu.cn. 3600 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+whnlab.scu.edu.cn. 3599 IN A 202.115.43.58
+
+windowsupdate.scu.edu.cn. 3600 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+windowsupdate.scu.edu.cn. 3599 IN A 202.115.32.69
+
+wjl.scu.edu.cn. 3600 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wjl.scu.edu.cn. 3599 IN A 202.115.32.129
+
+wlb.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wlb.scu.edu.cn. 3599 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+wrh.scu.edu.cn. 3600 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+wrh.scu.edu.cn. 3599 IN A 202.115.43.40
+
+www.scu.edu.cn. 1862 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www.scu.edu.cn. 1861 IN A 202.115.32.43
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+www1.scu.edu.cn. 570 IN A 211.83.159.100
+www1.scu.edu.cn. 570 IN A 211.83.159.99
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for www2.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+NXDOMAIN for wyltc.scu.edu.cn
+
+wyxsk.scu.edu.cn. 3600 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+wyxsk.scu.edu.cn. 3599 IN A 202.115.43.25
+
+xbkfy.scu.edu.cn. 3600 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xbkfy.scu.edu.cn. 3599 IN A 202.115.43.138
+
+xc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 390 IN A 211.83.159.100
+www1.scu.edu.cn. 390 IN A 211.83.159.99
+
+xcb.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 390 IN A 211.83.159.99
+www1.scu.edu.cn. 390 IN A 211.83.159.100
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+NXDOMAIN for xfei.scu.edu.cn
+
+xgb.scu.edu.cn. 3600 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xgb.scu.edu.cn. 3599 IN A 202.115.35.30
+
+xiaoyuan.scu.edu.cn. 3600 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xiaoyuan.scu.edu.cn. 3599 IN CNAME app.scu.edu.cn.
+app.scu.edu.cn. 3579 IN A 202.115.62.51
+
+xljkjyzx.scu.edu.cn. 3600 IN A 211.83.159.99
+
+xljkjyzx.scu.edu.cn. 3599 IN A 211.83.159.99
+
+xsc.scu.edu.cn. 3600 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xsc.scu.edu.cn. 3599 IN A 202.115.35.67
+
+xscx.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 569 IN A 211.83.159.100
+www1.scu.edu.cn. 569 IN A 211.83.159.99
+
+xxgk.scu.edu.cn. 3600 IN A 202.115.32.43
+
+xyh.scu.edu.cn. 3600 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyh.scu.edu.cn. 3599 IN A 202.115.32.45
+
+xyy.scu.edu.cn. 3600 IN A 202.115.32.43
+
+yanglab.scu.edu.cn. 3600 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+yanglab.scu.edu.cn. 3599 IN A 202.115.43.17
+
+ygb.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 569 IN A 211.83.159.99
+www1.scu.edu.cn. 569 IN A 211.83.159.100
+
+ygc.scu.edu.cn. 3600 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+ygc.scu.edu.cn. 3599 IN A 202.115.43.18
+
+yjs.scu.edu.cn. 3600 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+yjs.scu.edu.cn. 3599 IN A 202.115.44.242
+
+ykxb.scu.edu.cn. 3600 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+ykxb.scu.edu.cn. 3599 IN A 202.115.43.211
+
+youth.scu.edu.cn. 3599 IN A 202.115.44.188
+
+ythx.scu.edu.cn. 3600 IN CNAME pmse.scu.edu.cn.
+pmse.scu.edu.cn. 3591 IN A 182.139.132.22
+
+ythx.scu.edu.cn. 3599 IN CNAME pmse.scu.edu.cn.
+pmse.scu.edu.cn. 3591 IN A 182.139.132.22
+
+yuwen.scu.edu.cn. 3600 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yuwen.scu.edu.cn. 3599 IN A 202.115.43.19
+
+yxglc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 568 IN A 211.83.159.100
+www1.scu.edu.cn. 568 IN A 211.83.159.99
+
+yz.scu.edu.cn. 3600 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+yz.scu.edu.cn. 3599 IN A 202.115.44.226
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+NXDOMAIN for zabbix_1.scu.edu.cn
+
+zgyy.scu.edu.cn. 3600 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zgyy.scu.edu.cn. 3599 IN A 125.69.85.9
+
+zhjw.scu.edu.cn. 655 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjw.scu.edu.cn. 654 IN A 202.115.47.141
+
+zhjwjs.scu.edu.cn. 655 IN A 202.115.47.185
+
+zjc.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 388 IN A 211.83.159.99
+www1.scu.edu.cn. 388 IN A 211.83.159.100
+
+zjczs.scu.edu.cn. 3600 IN A 211.83.159.77
+
+zjczs.scu.edu.cn. 3599 IN A 211.83.159.77
+
+zjczs.scu.edu.cn. 3599 IN A 211.83.159.77
+
+zjczs.scu.edu.cn. 3599 IN A 211.83.159.77
+
+zjczs.scu.edu.cn. 3599 IN A 211.83.159.77
+
+zjczs.scu.edu.cn. 3599 IN A 211.83.159.77
+
+zs.scu.edu.cn. 3600 IN CNAME www1.scu.edu.cn.
+www1.scu.edu.cn. 388 IN A 211.83.159.99
+www1.scu.edu.cn. 388 IN A 211.83.159.100
+
+zyztb.scu.edu.cn. 3600 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zyztb.scu.edu.cn. 3599 IN A 202.115.43.26
+
+zzb.scu.edu.cn. 3600 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzb.scu.edu.cn. 3599 IN A 202.115.32.43
+
+zzfw.scu.edu.cn. 3600 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+
+zzfw.scu.edu.cn. 3599 IN A 202.115.33.162
+

@@ -1,0 +1,8 @@
+*.neau.edu.cn
+*.webvpn.neau.edu.cn
+dnxg.neau.edu.cn
+jxpg.neau.edu.cn
+webvpn.neau.edu.cn
+wxopen.neau.edu.cn
+yd.lib.neau.edu.cn
+yx.neau.edu.cn

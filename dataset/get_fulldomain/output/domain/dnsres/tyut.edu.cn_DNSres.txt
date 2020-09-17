@@ -1,0 +1,1156 @@
+2011.tyut.edu.cn. 60 IN A 202.207.240.186
+
+2011.tyut.edu.cn. 59 IN A 202.207.240.186
+
+NXDOMAIN for antimail.tyut.edu.cn
+
+NXDOMAIN for antimail.tyut.edu.cn
+
+NXDOMAIN for antimail.tyut.edu.cn
+
+NXDOMAIN for antimail.tyut.edu.cn
+
+aqyj.tyut.edu.cn. 60 IN A 202.207.240.104
+
+arts.tyut.edu.cn. 60 IN A 202.207.240.104
+
+arts.tyut.edu.cn. 59 IN A 202.207.240.104
+
+arts.tyut.edu.cn. 59 IN A 202.207.240.104
+
+arts.tyut.edu.cn. 59 IN A 202.207.240.104
+
+bb.tyut.edu.cn. 60 IN A 202.207.240.242
+
+bb.tyut.edu.cn. 59 IN A 202.207.240.242
+
+bb.tyut.edu.cn. 59 IN A 202.207.240.242
+
+bcc2015.tyut.edu.cn. 60 IN A 202.207.240.159
+
+bcc2015.tyut.edu.cn. 59 IN A 202.207.240.159
+
+bcc2015.tyut.edu.cn. 59 IN A 202.207.240.159
+
+bwc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+bwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+bwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+bwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+bwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ccet.tyut.edu.cn. 60 IN A 202.207.240.104
+
+ccet.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ccst.tyut.edu.cn. 60 IN A 202.207.240.104
+
+cds.tyut.edu.cn. 60 IN A 202.207.240.104
+
+cds.tyut.edu.cn. 59 IN A 202.207.240.104
+
+cds.tyut.edu.cn. 59 IN A 202.207.240.104
+
+cds.tyut.edu.cn. 59 IN A 202.207.240.104
+
+cgzb.tyut.edu.cn. 60 IN A 202.207.240.104
+
+ciee.tyut.edu.cn. 60 IN A 202.207.240.104
+
+ciee.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ciee.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ciee.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ciee.tyut.edu.cn. 59 IN A 202.207.240.104
+
+cisp-bmei.tyut.edu.cn. 60 IN A 202.207.240.64
+
+cl.tyut.edu.cn. 60 IN A 202.207.240.104
+
+clyy.tyut.edu.cn. 60 IN A 202.207.240.206
+
+clyy.tyut.edu.cn. 59 IN A 202.207.240.206
+
+clyy.tyut.edu.cn. 59 IN A 202.207.240.206
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cnwww.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for qzxy.tyut.edu.cnwww.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cn
+
+NXDOMAIN for www.zxks.tyut.edu.cn<BR>zxks.tyut.edu.cndangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cndangan.tyut.edu.cn
+
+NXDOMAIN for gzc.tyut.edu.cndlxy.tyut.edu.cn
+
+NXDOMAIN for huiyi.tyut.edu.cngsb.tyut.edu.cn
+
+NXDOMAIN for xiaoyou.tyut.edu.cnlink.tyut.edu.cn
+
+NXDOMAIN for 2011.tyut.edu.cnvpn3.tyut.edu.cn
+
+NXDOMAIN for qzxy.tyut.edu.cnvpn3.tyut.edu.cn
+
+course.tyut.edu.cn. 60 IN A 202.207.240.244
+
+course.tyut.edu.cn. 59 IN A 202.207.240.244
+
+course.tyut.edu.cn. 59 IN A 202.207.240.244
+
+course.tyut.edu.cn. 59 IN A 202.207.240.244
+
+crjgl.tyut.edu.cn. 60 IN A 202.207.240.66
+
+crjgl.tyut.edu.cn. 59 IN A 202.207.240.66
+
+crjgl.tyut.edu.cn. 59 IN A 202.207.240.66
+
+csplab.tyut.edu.cn. 60 IN A 202.207.240.186
+
+csplab.tyut.edu.cn. 59 IN A 202.207.240.186
+
+csplab.tyut.edu.cn. 59 IN A 202.207.240.186
+
+cst.tyut.edu.cn. 60 IN A 202.207.240.104
+
+cst.tyut.edu.cn. 59 IN A 202.207.240.104
+
+cst.tyut.edu.cn. 59 IN A 202.207.240.104
+
+cst.tyut.edu.cn. 59 IN A 202.207.240.104
+
+dag.tyut.edu.cn. 60 IN A 202.207.240.104
+
+dangan.tyut.edu.cn. 60 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+dangan.tyut.edu.cn. 59 IN A 202.207.240.66
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cn<BR>www.dangan.tyut.edu.cn
+
+NXDOMAIN for dangan.tyut.edu.cnwww.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+NXDOMAIN for www.dangan.tyut.edu.cn
+
+dangban.tyut.edu.cn. 60 IN A 202.207.240.104
+
+dangban.tyut.edu.cn. 59 IN A 202.207.240.104
+
+dangban.tyut.edu.cn. 59 IN A 202.207.240.104
+
+dangban.tyut.edu.cn. 59 IN A 202.207.240.104
+
+dlxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+dlxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+dlxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+dmccves.tyut.edu.cn. 60 IN A 219.226.106.252
+
+dmccves.tyut.edu.cn. 59 IN A 219.226.106.252
+
+dmccves.tyut.edu.cn. 59 IN A 219.226.106.252
+
+ebcc.tyut.edu.cn. 60 IN A 202.207.240.66
+
+ebcc.tyut.edu.cn. 59 IN A 202.207.240.66
+
+ebcc.tyut.edu.cn. 59 IN A 202.207.240.66
+
+ebcc.tyut.edu.cn. 59 IN A 202.207.240.66
+
+ecard.tyut.edu.cn. 60 IN A 202.207.240.240
+
+ecard.tyut.edu.cn. 59 IN A 202.207.240.240
+
+ecard.tyut.edu.cn. 59 IN A 202.207.240.240
+
+ecard.tyut.edu.cn. 59 IN A 202.207.240.240
+
+NXDOMAIN for email.tyut.edu.cn
+
+NXDOMAIN for email.tyut.edu.cn
+
+NXDOMAIN for email.tyut.edu.cn
+
+NXDOMAIN for email.tyut.edu.cn
+
+NXDOMAIN for email.tyut.edu.cn
+
+NXDOMAIN for email.tyut.edu.cn
+
+NXDOMAIN for email.tyut.edu.cn
+
+english.tyut.edu.cn. 60 IN A 202.207.240.104
+
+english.tyut.edu.cn. 59 IN A 202.207.240.104
+
+english.tyut.edu.cn. 59 IN A 202.207.240.104
+
+english.tyut.edu.cn. 59 IN A 202.207.240.104
+
+etc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+etc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+etc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+etc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+faguichu.tyut.edu.cn. 60 IN A 202.207.240.104
+
+faguichu.tyut.edu.cn. 59 IN A 202.207.240.104
+
+faguichu.tyut.edu.cn. 59 IN A 202.207.240.104
+
+faguichu.tyut.edu.cn. 59 IN A 202.207.240.104
+
+fxcszx.tyut.edu.cn. 60 IN A 202.207.240.104
+
+gcy-coal.tyut.edu.cn. 60 IN A 202.207.240.154
+
+gcy-coal.tyut.edu.cn. 59 IN A 202.207.240.154
+
+gcy-coal.tyut.edu.cn. 59 IN A 202.207.240.154
+
+gonghui.tyut.edu.cn. 60 IN A 202.207.240.104
+
+gongqingtuan.tyut.edu.cn. 60 IN A 202.207.240.104
+
+gongqingtuan.tyut.edu.cn. 59 IN A 202.207.240.104
+
+gongqingtuan.tyut.edu.cn. 59 IN A 202.207.240.104
+
+gongqingtuan.tyut.edu.cn. 59 IN A 202.207.240.104
+
+gongyu.tyut.edu.cn. 60 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 59 IN A 202.207.240.186
+
+gongyu.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 59 IN A 202.207.240.186
+
+gongyu.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 59 IN A 202.207.240.186
+
+www.gs.tyut.edu.cn. 60 IN A 202.207.240.104
+
+gsb.tyut.edu.cn. 60 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsb.tyut.edu.cn. 59 IN A 202.207.240.66
+
+gsp.tyut.edu.cn. 60 IN A 202.207.240.104
+
+gzc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+gzc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+gzc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+NXDOMAIN for hg.tyut.edu.cn
+
+NXDOMAIN for hg.tyut.edu.cn
+
+NXDOMAIN for hg.tyut.edu.cn
+
+hgxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+hospital.tyut.edu.cn. 60 IN A 202.207.240.104
+
+hospital.tyut.edu.cn. 59 IN A 202.207.240.104
+
+hospital.tyut.edu.cn. 59 IN A 202.207.240.104
+
+hospital.tyut.edu.cn. 59 IN A 202.207.240.104
+
+houqin.tyut.edu.cn. 60 IN A 202.207.240.104
+
+houqin.tyut.edu.cn. 59 IN A 202.207.240.104
+
+houqin.tyut.edu.cn. 59 IN A 202.207.240.104
+
+houqin.tyut.edu.cn. 59 IN A 202.207.240.104
+
+huiyi.tyut.edu.cn. 60 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi.tyut.edu.cn. 59 IN A 183.175.155.70
+
+huiyi1.tyut.edu.cn. 60 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+huiyi1.tyut.edu.cn. 59 IN A 183.175.155.67
+
+iadmin.tyut.edu.cn. 60 IN A 202.207.240.104
+
+iadmin.tyut.edu.cn. 59 IN A 202.207.240.104
+
+iadmin.tyut.edu.cn. 59 IN A 202.207.240.104
+
+iadmin.tyut.edu.cn. 59 IN A 202.207.240.104
+
+iambe.tyut.edu.cn. 60 IN A 202.207.240.159
+
+iambe.tyut.edu.cn. 59 IN A 202.207.240.159
+
+iambe.tyut.edu.cn. 59 IN A 202.207.240.159
+
+ices.tyut.edu.cn. 60 IN A 202.207.240.104
+
+ices.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ices.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ices.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ie.tyut.edu.cn. 60 IN A 202.207.240.186
+
+ie.tyut.edu.cn. 59 IN A 202.207.240.186
+
+ie.tyut.edu.cn. 59 IN A 202.207.240.186
+
+ie.tyut.edu.cn. 59 IN A 202.207.240.186
+
+imfm.tyut.edu.cn. 60 IN A 202.207.240.104
+
+is.tyut.edu.cn. 60 IN CNAME dns.lface.org.
+dns.lface.org. 7199 IN A 123.127.134.6
+
+is.tyut.edu.cn. 59 IN CNAME dns.lface.org.
+dns.lface.org. 7199 IN A 123.127.134.6
+
+is.tyut.edu.cn. 59 IN CNAME dns.lface.org.
+dns.lface.org. 7199 IN A 123.127.134.6
+
+jcb.tyut.edu.cn. 60 IN A 202.207.240.207
+
+jcb.tyut.edu.cn. 59 IN A 202.207.240.207
+
+jcb.tyut.edu.cn. 59 IN A 202.207.240.207
+
+jcxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jcxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jcxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jcxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jgdw.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jgxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jhcwc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jhcwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jhcwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jhcwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jhcwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jijianchu.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jiuye.tyut.edu.cn. 60 IN A 202.207.240.77
+
+jiuye.tyut.edu.cn. 59 IN A 202.207.240.77
+
+jiuye.tyut.edu.cn. 59 IN A 202.207.240.77
+
+jiuye.tyut.edu.cn. 59 IN A 202.207.240.77
+
+jiwei.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jjglxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jjglxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jjglxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jjglxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jmsys.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jsyd.tyut.edu.cn. 60 IN A 202.207.240.145
+
+jsyd.tyut.edu.cn. 59 IN A 202.207.240.145
+
+jsyd.tyut.edu.cn. 59 IN A 202.207.240.145
+
+jwc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jwc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jwcurp.tyut.edu.cn. 120 IN CNAME jwcurp-a.tyut.edu.cn.
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.240.58
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.247.44
+
+jwcurp.tyut.edu.cn. 119 IN CNAME jwcurp-a.tyut.edu.cn.
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.240.58
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.247.44
+
+jwcurp.tyut.edu.cn. 119 IN CNAME jwcurp-a.tyut.edu.cn.
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.240.58
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.247.44
+
+jwcurp.tyut.edu.cn. 119 IN CNAME jwcurp-a.tyut.edu.cn.
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.240.58
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.247.44
+
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.240.58
+jwcurp-a.tyut.edu.cn. 119 IN A 202.207.247.44
+
+jxjyxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+jxjyxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jxjyxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jxjyxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+jzxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+kj.tyut.edu.cn. 60 IN A 202.207.240.104
+
+kj.tyut.edu.cn. 59 IN A 202.207.240.104
+
+kj.tyut.edu.cn. 59 IN A 202.207.240.104
+
+kj.tyut.edu.cn. 59 IN A 202.207.240.104
+
+NXDOMAIN for kscae.tyut.edu.cn
+
+NXDOMAIN for kscae.tyut.edu.cn
+
+kyxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+kyxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+NXDOMAIN for gsb.tyut.edu.cnwww.lib.tyut.edu.cn
+
+www.lib.tyut.edu.cn. 60 IN A 202.207.240.104
+
+www.lib.tyut.edu.cn. 59 IN A 202.207.240.104
+
+www.lib.tyut.edu.cn. 59 IN A 202.207.240.104
+
+www.lib.tyut.edu.cn. 59 IN A 202.207.240.104
+
+link.tyut.edu.cn. 3600 IN A 202.207.240.140
+
+link.tyut.edu.cn. 3599 IN A 202.207.240.140
+
+link.tyut.edu.cn. 3599 IN A 202.207.240.140
+
+link.tyut.edu.cn. 3599 IN A 202.207.240.140
+
+link.tyut.edu.cn. 3599 IN A 202.207.240.140
+
+link.tyut.edu.cn. 3599 IN A 202.207.240.140
+
+mail.link.tyut.edu.cn. 3600 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1113 IN A 123.58.177.239
+
+ltx.tyut.edu.cn. 60 IN A 202.207.240.104
+
+ltx.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ltx.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ltx.tyut.edu.cn. 59 IN A 202.207.240.104
+
+lx.tyut.edu.cn. 60 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 57 IN A 202.207.240.186
+
+lx.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 57 IN A 202.207.240.186
+
+lx.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 57 IN A 202.207.240.186
+
+lxyz.tyut.edu.cn. 60 IN A 202.207.240.66
+
+lxyz.tyut.edu.cn. 59 IN A 202.207.240.66
+
+lxyz.tyut.edu.cn. 59 IN A 202.207.240.66
+
+lxyz.tyut.edu.cn. 59 IN A 202.207.240.66
+
+mail.tyut.edu.cn. 60 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1113 IN A 123.58.177.239
+
+mail.tyut.edu.cn. 59 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1113 IN A 123.58.177.239
+
+mail.tyut.edu.cn. 59 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1113 IN A 123.58.177.239
+
+mail.tyut.edu.cn. 59 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1113 IN A 123.58.177.239
+
+mail.tyut.edu.cn. 59 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1113 IN A 123.58.177.239
+
+mailuser.tyut.edu.cn. 60 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+mailuser.tyut.edu.cn. 59 IN A 202.207.240.39
+
+NXDOMAIN for kscae.tyut.edu.cnmailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+NXDOMAIN for mailuser.tyut.edu.cn<BR>www.mailuser.tyut.edu.cn
+
+math.tyut.edu.cn. 60 IN A 202.207.240.104
+
+mc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+mc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mc.tyut.edu.cn. 59 IN A 202.207.240.104
+
+NXDOMAIN for mdesign.tyut.edu.cn
+
+NXDOMAIN for mdesign.tyut.edu.cn
+
+NXDOMAIN for mdesign.tyut.edu.cn
+
+mec.tyut.edu.cn. 60 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 57 IN A 202.207.240.186
+
+mec.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 57 IN A 202.207.240.186
+
+mec.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 57 IN A 202.207.240.186
+
+mks.tyut.edu.cn. 60 IN A 202.207.240.104
+
+mks.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mks.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mks.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mrenshi.tyut.edu.cn. 60 IN A 202.207.240.66
+
+mrenshi.tyut.edu.cn. 59 IN A 202.207.240.66
+
+mrenshi.tyut.edu.cn. 59 IN A 202.207.240.66
+
+ms.tyut.edu.cn. 60 IN A 202.207.240.26
+
+ms.tyut.edu.cn. 59 IN A 202.207.240.26
+
+ms.tyut.edu.cn. 59 IN A 202.207.240.26
+
+mxgwh.tyut.edu.cn. 60 IN A 202.207.240.104
+
+mxgwh.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mxgwh.tyut.edu.cn. 59 IN A 202.207.240.104
+
+mxgwh.tyut.edu.cn. 59 IN A 202.207.240.104
+
+newcarbon.tyut.edu.cn. 60 IN A 202.207.240.104
+
+oa.tyut.edu.cn. 60 IN A 202.207.240.19
+
+oa.tyut.edu.cn. 59 IN A 202.207.240.19
+
+oa.tyut.edu.cn. 59 IN A 202.207.240.19
+
+NXDOMAIN for oel2017.tyut.edu.cn
+
+NXDOMAIN for oel2017.tyut.edu.cn
+
+NXDOMAIN for oel2017.tyut.edu.cn
+
+office.tyut.edu.cn. 60 IN A 202.207.240.104
+
+office.tyut.edu.cn. 59 IN A 202.207.240.104
+
+office.tyut.edu.cn. 59 IN A 202.207.240.104
+
+office.tyut.edu.cn. 59 IN A 202.207.240.104
+
+officeoa.tyut.edu.cn. 60 IN A 202.207.240.122
+
+officetest.tyut.edu.cn. 60 IN A 202.207.240.122
+
+portal.tyut.edu.cn. 60 IN A 183.175.155.130
+
+portal.tyut.edu.cn. 59 IN A 183.175.155.130
+
+portal.tyut.edu.cn. 59 IN A 183.175.155.130
+
+portal.tyut.edu.cn. 59 IN A 183.175.155.130
+
+qcc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+qf.tyut.edu.cn. 60 IN A 202.207.240.104
+
+qf.tyut.edu.cn. 59 IN A 202.207.240.104
+
+qf.tyut.edu.cn. 59 IN A 202.207.240.104
+
+qf.tyut.edu.cn. 59 IN A 202.207.240.104
+
+qgzx.tyut.edu.cn. 60 IN A 202.207.247.34
+
+qgzx.tyut.edu.cn. 59 IN A 202.207.247.34
+
+qgzx.tyut.edu.cn. 59 IN A 202.207.247.34
+
+qkzx.tyut.edu.cn. 60 IN A 202.207.240.104
+
+qkzx.tyut.edu.cn. 59 IN A 202.207.240.104
+
+qkzx.tyut.edu.cn. 59 IN A 202.207.240.104
+
+qkzx.tyut.edu.cn. 59 IN A 202.207.240.104
+
+qzxy.tyut.edu.cn. 60 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+qzxy.tyut.edu.cn. 59 IN A 202.207.240.66
+
+radio.tyut.edu.cn. 60 IN A 202.207.240.26
+
+rczp.tyut.edu.cn. 60 IN A 183.175.155.138
+
+renshi.tyut.edu.cn. 60 IN A 202.207.240.104
+
+renshi.tyut.edu.cn. 59 IN A 202.207.240.104
+
+renshi.tyut.edu.cn. 59 IN A 202.207.240.104
+
+renshi.tyut.edu.cn. 59 IN A 202.207.240.104
+
+rjxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+shenjichu.tyut.edu.cn. 60 IN A 202.207.240.104
+
+slxy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+student.tyut.edu.cn. 30 IN A 202.207.240.104
+
+student.tyut.edu.cn. 29 IN A 202.207.240.104
+
+student.tyut.edu.cn. 29 IN A 202.207.240.104
+
+student.tyut.edu.cn. 29 IN A 202.207.240.104
+
+NXDOMAIN for sxdc.tyut.edu.cn
+
+NXDOMAIN for sxdc.tyut.edu.cn
+
+NXDOMAIN for sxdc.tyut.edu.cn
+
+sxjm.tyut.edu.cn. 60 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 56 IN A 202.207.240.186
+
+sxjm.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 56 IN A 202.207.240.186
+
+sxjm.tyut.edu.cn. 59 IN CNAME www.tyut.edu.cn.
+www.tyut.edu.cn. 56 IN A 202.207.240.186
+
+sxmes.tyut.edu.cn. 60 IN A 202.207.240.104
+
+sxmes.tyut.edu.cn. 59 IN A 202.207.240.104
+
+sxmes.tyut.edu.cn. 59 IN A 202.207.240.104
+
+sxmes.tyut.edu.cn. 59 IN A 202.207.240.104
+
+texsx.tyut.edu.cn. 60 IN A 202.207.240.66
+
+texsx.tyut.edu.cn. 59 IN A 202.207.240.66
+
+texsx.tyut.edu.cn. 59 IN A 202.207.240.66
+
+texsx.tyut.edu.cn. 59 IN A 202.207.240.66
+
+tv.tyut.edu.cn. 60 IN A 202.207.240.66
+
+tv.tyut.edu.cn. 59 IN A 202.207.240.66
+
+tv.tyut.edu.cn. 59 IN A 202.207.240.66
+
+tv.tyut.edu.cn. 59 IN A 202.207.240.66
+
+txdzz.tyut.edu.cn. 60 IN A 202.207.240.104
+
+tylgswyxgc.tyut.edu.cn. 60 IN A 202.207.240.104
+
+tyutsvr.tyut.edu.cn. 60 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyutsvr.tyut.edu.cn. 59 IN A 202.207.240.225
+
+tyxy.tyut.edu.cn. 59 IN A 202.207.240.104
+
+tyxy.tyut.edu.cn. 58 IN A 202.207.240.104
+
+tyxy.tyut.edu.cn. 58 IN A 202.207.240.104
+
+tyxy.tyut.edu.cn. 58 IN A 202.207.240.104
+
+tzb.tyut.edu.cn. 60 IN A 202.207.240.104
+
+upay.tyut.edu.cn. 49 IN A 202.207.240.200
+
+NXDOMAIN for v.tyut.edu.cn
+
+NXDOMAIN for v.tyut.edu.cn
+
+NXDOMAIN for v.tyut.edu.cn
+
+venus.tyut.edu.cn. 60 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+venus.tyut.edu.cn. 59 IN A 202.207.247.227
+
+vpn1.tyut.edu.cn. 60 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn1.tyut.edu.cn. 59 IN A 1.71.187.71
+
+vpn2.tyut.edu.cn. 60 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn2.tyut.edu.cn. 59 IN A 1.71.187.68
+
+vpn3.tyut.edu.cn. 60 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+vpn3.tyut.edu.cn. 59 IN A 202.207.240.1
+
+wcard.tyut.edu.cn. 60 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wcard.tyut.edu.cn. 59 IN A 202.207.245.238
+
+wgy.tyut.edu.cn. 60 IN A 202.207.240.104
+
+www.wsjf.tyut.edu.cn. 60 IN A 219.226.101.124
+
+www.wsjf.tyut.edu.cn. 59 IN A 219.226.101.124
+
+www.wsjf.tyut.edu.cn. 59 IN A 219.226.101.124
+
+www.wsjf.tyut.edu.cn. 59 IN A 219.226.101.124
+
+wuli.tyut.edu.cn. 60 IN A 202.207.240.104
+
+wuli.tyut.edu.cn. 59 IN A 202.207.240.104
+
+wuli.tyut.edu.cn. 59 IN A 202.207.240.104
+
+wuli.tyut.edu.cn. 59 IN A 202.207.240.104
+
+www.tyut.edu.cn. 55 IN A 202.207.240.186
+
+www.tyut.edu.cn. 55 IN A 202.207.240.186
+
+www.tyut.edu.cn. 55 IN A 202.207.240.186
+
+www.tyut.edu.cn. 55 IN A 202.207.240.186
+
+www2015.tyut.edu.cn. 60 IN A 202.207.240.186
+
+www2015.tyut.edu.cn. 59 IN A 202.207.240.186
+
+www2015.tyut.edu.cn. 59 IN A 202.207.240.186
+
+www2015.tyut.edu.cn. 59 IN A 202.207.240.186
+
+www2017.tyut.edu.cn. 60 IN A 202.207.240.104
+
+www2017.tyut.edu.cn. 59 IN A 202.207.240.104
+
+www2017.tyut.edu.cn. 59 IN A 202.207.240.104
+
+www2017.tyut.edu.cn. 59 IN A 202.207.240.104
+
+wzb.tyut.edu.cn. 60 IN A 202.207.240.104
+
+xcb.tyut.edu.cn. 60 IN A 202.207.240.104
+
+xiaoyou.tyut.edu.cn. 60 IN A 202.207.240.104
+
+xiaoyou.tyut.edu.cn. 59 IN A 202.207.240.104
+
+xiaoyou.tyut.edu.cn. 59 IN A 202.207.240.104
+
+xiaoyou.tyut.edu.cn. 59 IN A 202.207.240.104
+
+www.xuebao.tyut.edu.cn. 60 IN A 202.207.240.113
+
+www.xuebao.tyut.edu.cn. 59 IN A 202.207.240.113
+
+www.xuebao.tyut.edu.cn. 59 IN A 202.207.240.113
+
+xxgk.tyut.edu.cn. 60 IN A 202.207.240.104
+
+xxgk.tyut.edu.cn. 59 IN A 202.207.240.104
+
+xxgk.tyut.edu.cn. 59 IN A 202.207.240.104
+
+xxgk.tyut.edu.cn. 59 IN A 202.207.240.104
+
+ydzx.tyut.edu.cn. 60 IN A 202.207.240.157
+
+ydzx.tyut.edu.cn. 59 IN A 202.207.240.157
+
+ydzx.tyut.edu.cn. 59 IN A 202.207.240.157
+
+ysb.tyut.edu.cn. 60 IN A 202.207.240.104
+
+yz.tyut.edu.cn. 60 IN A 202.207.240.104
+
+yz.tyut.edu.cn. 59 IN A 202.207.240.104
+
+yz.tyut.edu.cn. 59 IN A 202.207.240.104
+
+yz.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zbcg.tyut.edu.cn. 60 IN A 202.207.240.66
+
+zcgs.tyut.edu.cn. 60 IN A 202.207.240.104
+
+zf.tyut.edu.cn. 60 IN A 202.207.240.104
+
+zf.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zf.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zf.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zhhq.tyut.edu.cn. 60 IN A 202.207.240.145
+
+zs.tyut.edu.cn. 60 IN A 202.207.240.104
+
+zs.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zs.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zs.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zsb.tyut.edu.cn. 60 IN A 202.207.240.77
+
+zsjyc.tyut.edu.cn. 60 IN A 202.207.240.77
+
+zsjyc.tyut.edu.cn. 59 IN A 202.207.240.77
+
+zsjyc.tyut.edu.cn. 59 IN A 202.207.240.77
+
+zxks.tyut.edu.cn. 60 IN A 202.207.240.114
+
+zxks.tyut.edu.cn. 59 IN A 202.207.240.114
+
+zxks.tyut.edu.cn. 59 IN A 202.207.240.114
+
+zzb.tyut.edu.cn. 60 IN A 202.207.240.104
+
+zzb.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zzb.tyut.edu.cn. 59 IN A 202.207.240.104
+
+zzb.tyut.edu.cn. 59 IN A 202.207.240.104
+

@@ -1,0 +1,2179 @@
+gs.ustb.edu.cnustb.edu.cn. 0 IN A 220.250.64.225
+
+ustb.id.ustb.edu.cnustb.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+NXDOMAIN for ustb.edu.cn
+
+2009.ustb.edu.cn. 7200 IN CNAME www2009.ustb.edu.cn.
+www2009.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+2009.ustb.edu.cn. 7199 IN CNAME www2009.ustb.edu.cn.
+www2009.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+2009.ustb.edu.cn. 7199 IN CNAME www2009.ustb.edu.cn.
+www2009.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+2009.ustb.edu.cn. 7199 IN CNAME www2009.ustb.edu.cn.
+www2009.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+5470.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+60.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+adma.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6952 IN A 123.124.147.249
+
+adma.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6952 IN A 123.124.147.249
+
+adma.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6952 IN A 123.124.147.249
+
+adma.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6952 IN A 123.124.147.249
+
+adma.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6952 IN A 123.124.147.249
+
+adma.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6952 IN A 123.124.147.249
+
+ae.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+alumni.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+alumni.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+alumni.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+alumni.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+alumni.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ants.ustb.edu.cn. 7200 IN A 222.199.220.27
+
+aqjy.ustb.edu.cn. 7200 IN A 202.204.52.117
+
+art.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+balis5.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+balis5.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+balis5.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+balis5.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+balis5.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+baowei.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+baowei.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+baowei.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+baowei.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+baowei.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+baowei.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+bjmge.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+bjmge.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+en.bjmge.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+bkd.ustb.edu.cn. 7200 IN CNAME i.ustb.edu.cn.
+i.ustb.edu.cn. 7199 IN A 202.204.49.191
+
+bkdaqjy.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+bkllxx.ustb.edu.cn. 7200 IN CNAME jsllxx.ustb.edu.cn.
+jsllxx.ustb.edu.cn. 7199 IN A 202.204.49.220
+
+bkzy.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+caiwu.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+caiwu.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+caiwu.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+caiwu.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+caiwu.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+caiwu.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cc.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+cc.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cc.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cc.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cc.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cec.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cec.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cec.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cec.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cec.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cee.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+NXDOMAIN for ces.ustb.edu.cn
+
+NXDOMAIN for ces.ustb.edu.cn
+
+NXDOMAIN for ces.ustb.edu.cn
+
+NXDOMAIN for ces.ustb.edu.cn
+
+cicst.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cicst.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cicst.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cicst.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cicst.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cicst.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+cje.ustb.edu.cn. 7200 IN CNAME ijmmm.ustb.edu.cn.
+ijmmm.ustb.edu.cn. 7199 IN A 115.25.60.6
+
+cje.ustb.edu.cn. 7199 IN CNAME ijmmm.ustb.edu.cn.
+ijmmm.ustb.edu.cn. 7199 IN A 115.25.60.6
+
+cje.ustb.edu.cn. 7199 IN CNAME ijmmm.ustb.edu.cn.
+ijmmm.ustb.edu.cn. 7199 IN A 115.25.60.6
+
+crypto.ustb.edu.cnwximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 0 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 0 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 30 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cn. 29 IN A 220.250.64.225
+
+wf.ustb.edu.cncres.ustb.edu.cn. 0 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cnfsp.ustb.edu.cn. 0 IN A 220.250.64.225
+
+wximg.ustb.edu.cn<BR>wx.ustb.edu.cnkeyanchu.ustb.edu.cn. 0 IN A 220.250.64.225
+
+elib.ustb.edu.cnma.ustb.edu.cn. 30 IN A 220.250.64.225
+
+ustb.id.ustb.edu.cnn.ustb.edu.cn. 0 IN A 220.250.64.225
+
+qiandao.ustb.edu.cnn.ustb.edu.cn. 0 IN A 220.250.64.225
+
+fsp.ustb.edu.cnnew.ustb.edu.cn. 0 IN A 220.250.64.225
+
+salon.ustb.edu.cnsmtp.ustb.edu.cn. 0 IN A 220.250.64.225
+
+lxs.ustb.edu.cnwf.ustb.edu.cn. 0 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cnwww1.ustb.edu.cn. 0 IN A 220.250.64.225
+
+cr.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cr.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cr.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cr.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cr.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cres.ustb.edu.cn. 7200 IN A 222.28.36.252
+
+cres.ustb.edu.cn. 7199 IN A 222.28.36.252
+
+cres.ustb.edu.cn. 7199 IN A 222.28.36.252
+
+cres.ustb.edu.cn. 7199 IN A 222.28.36.252
+
+cres.ustb.edu.cn. 7199 IN A 222.28.36.252
+
+crypto.ustb.edu.cn. 7200 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+crypto.ustb.edu.cn. 7199 IN A 202.204.62.142
+
+cy.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+cy.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cy.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cy.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cy.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+dag.ustb.edu.cn. 7200 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+dag.ustb.edu.cn. 7199 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+dangwei.ustb.edu.cn. 0 IN A 220.250.64.225
+
+ddh.ustb.edu.cn. 7200 IN A 202.204.49.205
+
+desk.ustb.edu.cn. 7200 IN A 202.204.49.184
+desk.ustb.edu.cn. 7200 IN A 202.204.49.185
+
+desk.ustb.edu.cn. 7199 IN A 202.204.49.185
+desk.ustb.edu.cn. 7199 IN A 202.204.49.184
+
+desk.ustb.edu.cn. 7199 IN A 202.204.49.185
+desk.ustb.edu.cn. 7199 IN A 202.204.49.184
+
+desk.ustb.edu.cn. 7199 IN A 202.204.49.185
+desk.ustb.edu.cn. 7199 IN A 202.204.49.184
+
+dj.ustb.edu.cn. 7200 IN A 202.204.49.248
+
+dns.ustb.edu.cn. 7200 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns.ustb.edu.cn. 7199 IN A 202.204.48.6
+
+dns2.ustb.edu.cn. 7200 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns2.ustb.edu.cn. 7199 IN A 202.204.48.8
+
+dns3.ustb.edu.cn. 7200 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns3.ustb.edu.cn. 7199 IN A 202.204.60.10
+
+dns4.ustb.edu.cn. 7200 IN A 123.124.147.252
+
+dns4.ustb.edu.cn. 7199 IN A 123.124.147.252
+
+dns4.ustb.edu.cn. 7199 IN A 123.124.147.252
+
+dns4.ustb.edu.cn. 7199 IN A 123.124.147.252
+
+dns4.ustb.edu.cn. 7199 IN A 123.124.147.252
+
+dsem.ustb.edu.cn. 7200 IN CNAME xy.sem.ustb.edu.cn.
+xy.sem.ustb.edu.cn. 7199 IN A 202.204.52.118
+
+edp.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+elearning.ustb.edu.cn. 7200 IN A 202.204.49.168
+
+elearning.ustb.edu.cn. 7199 IN A 202.204.49.168
+
+elearning.ustb.edu.cn. 7199 IN A 202.204.49.168
+
+elearning.ustb.edu.cn. 7199 IN A 202.204.49.168
+
+elib.ustb.edu.cn. 7200 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+elib.ustb.edu.cn. 7199 IN A 115.25.60.2
+
+email.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+emba.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+emba.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+emba.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+emba.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+emba.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+emba.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+en.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+en.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+en.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+en.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+en.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+fsp.ustb.edu.cn. 7200 IN A 202.204.52.50
+
+fsp.ustb.edu.cn. 7199 IN A 202.204.52.50
+
+fsp.ustb.edu.cn. 7199 IN A 202.204.52.50
+
+fsp.ustb.edu.cn. 7199 IN A 202.204.52.50
+
+ftp.ustb.edu.cn. 7200 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+ftp.ustb.edu.cn. 7199 IN A 202.204.60.11
+
+fupin.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+fupin.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7197 IN A 123.124.147.249
+
+gate.ustb.edu.cn. 7200 IN A 202.204.52.49
+
+gate.ustb.edu.cn. 7199 IN A 202.204.52.49
+
+gate.ustb.edu.cn. 7199 IN A 202.204.52.49
+
+gate.ustb.edu.cn. 7199 IN A 202.204.52.49
+
+gate.ustb.edu.cn. 7199 IN A 202.204.52.49
+
+gc.ustb.edu.cn. 7200 IN A 202.204.63.101
+
+gcmail.ustb.edu.cn. 7200 IN A 202.204.63.104
+
+gcmail.ustb.edu.cn. 7199 IN A 202.204.63.104
+
+gcmail.ustb.edu.cn. 7199 IN A 202.204.63.104
+
+gcmail.ustb.edu.cn. 7199 IN A 202.204.63.104
+
+gfs.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+gonghui.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+gonghui.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+graduate.ustb.edu.cn. 7200 IN CNAME i.ustb.edu.cn.
+i.ustb.edu.cn. 7196 IN A 202.204.49.191
+
+graduate.ustb.edu.cn. 7199 IN CNAME i.ustb.edu.cn.
+i.ustb.edu.cn. 7196 IN A 202.204.49.191
+
+gs.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+gs.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+gs.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+gs.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+gs.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+gym.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6949 IN A 123.124.147.249
+
+gym.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6949 IN A 123.124.147.249
+
+host48-25.ustb.edu.cn. 7200 IN A 202.204.48.25
+
+hosts52-60-67.ustb.edu.cn. 7200 IN A 202.204.52.60
+hosts52-60-67.ustb.edu.cn. 7200 IN A 202.204.52.67
+
+huasheng.ustb.edu.cn. 7200 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+huasheng.ustb.edu.cn. 7199 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+huasheng.ustb.edu.cn. 7199 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+huasheng.ustb.edu.cn. 7199 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+huasheng.ustb.edu.cn. 7199 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+huasheng.ustb.edu.cn. 7199 IN CNAME test3.ustb.edu.cn.
+test3.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+rettc.ustb.edu.cnold.huasheng.ustb.edu.cn. 0 IN A 220.250.64.225
+
+old.huasheng.ustb.edu.cn. 30 IN A 220.250.64.225
+
+old.huasheng.ustb.edu.cn. 29 IN A 220.250.64.225
+
+i.ustb.edu.cn. 7195 IN A 202.204.49.191
+
+id.ustb.edu.cn. 7200 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7200 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ustb.id.ustb.edu.cn. 7199 IN CNAME id.ustb.edu.cn.
+id.ustb.edu.cn. 7199 IN A 202.204.52.104
+
+ies.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+ies.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ies.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ies.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ies.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+iet.ustb.edu.cn. 7200 IN CNAME nercar.ustb.edu.cn.
+nercar.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+iet.ustb.edu.cn. 7199 IN CNAME nercar.ustb.edu.cn.
+nercar.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+iet.ustb.edu.cn. 7199 IN CNAME nercar.ustb.edu.cn.
+nercar.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+iet.ustb.edu.cn. 7199 IN CNAME nercar.ustb.edu.cn.
+nercar.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+iet.ustb.edu.cn. 7199 IN CNAME nercar.ustb.edu.cn.
+nercar.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ihmm.ustb.edu.cn. 7200 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ihmm.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ijmmm.ustb.edu.cn. 7196 IN A 115.25.60.6
+
+ijmmm.ustb.edu.cn. 7196 IN A 115.25.60.6
+
+info.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+iptv.ustb.edu.cn. 7200 IN A 202.204.49.176
+
+iptv.ustb.edu.cn. 7199 IN A 202.204.49.176
+
+iptv.ustb.edu.cn. 7199 IN A 202.204.49.176
+
+iptv.ustb.edu.cn. 7199 IN A 202.204.49.176
+
+iptv.ustb.edu.cn. 7199 IN A 202.204.49.176
+
+ipv6.ustb.edu.cn. 7200 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ipv6.ustb.edu.cn. 7199 IN A 202.204.60.14
+
+ir.ustb.edu.cn. 7200 IN A 202.204.50.104
+
+isc.ustb.edu.cn. 7200 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+isc.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+isc.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+isc.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ishijian.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+ishijian.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+ishijian.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+ishijian.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+ishijian.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+isport.ustb.edu.cn. 3839 IN A 123.124.147.249
+
+isport.ustb.edu.cn. 3838 IN A 123.124.147.249
+
+isport.ustb.edu.cn. 3838 IN A 123.124.147.249
+
+isport.ustb.edu.cn. 3838 IN A 123.124.147.249
+
+its.ustb.edu.cn. 7200 IN CNAME host52-102.ustb.edu.cn.
+host52-102.ustb.edu.cn. 7199 IN A 202.204.52.102
+
+jijianchu.ustb.edu.cn. 7200 IN A 202.204.59.210
+
+jiwei.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+jjglc.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+jjglc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+jjh.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+jjh.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+jjh.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+jjh.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+jjh.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+jkcs.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+jkcs.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+job.ustb.edu.cn. 7200 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+job.ustb.edu.cn. 7199 IN A 202.204.49.233
+
+jsfz.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+jsllxx.ustb.edu.cn. 7195 IN A 202.204.49.220
+
+jxpg.ustb.edu.cn. 0 IN A 220.250.64.225
+
+jxpg.ustb.edu.cn. 30 IN A 220.250.64.225
+
+jxpg.ustb.edu.cn. 29 IN A 220.250.64.225
+
+jxpg.ustb.edu.cn. 29 IN A 220.250.64.225
+
+jxxn.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+keyanchu.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+keyanchu.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+keyanchu.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+keyanchu.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+ktsb.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7195 IN A 123.124.147.249
+
+ky.ustb.edu.cn. 7200 IN A 222.28.62.2
+
+ky.ustb.edu.cn. 7199 IN A 222.28.62.2
+
+ky.ustb.edu.cn. 7199 IN A 222.28.62.2
+
+ky.ustb.edu.cn. 7199 IN A 222.28.62.2
+
+ky.ustb.edu.cn. 7199 IN A 222.28.62.2
+
+labmetall.ustb.edu.cn. 7200 IN A 222.199.202.252
+
+lib.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+lib.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+lib.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+lib.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+lib.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+lib.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+libzw.ustb.edu.cn. 7200 IN A 202.204.52.117
+
+ltx.ustb.edu.cn. 7200 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ltx.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ltx.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ltx.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ltx.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+lxs.ustb.edu.cn. 7200 IN CNAME test6.ustb.edu.cn.
+test6.ustb.edu.cn. 7199 IN A 202.204.52.42
+
+lxs.ustb.edu.cn. 7199 IN CNAME test6.ustb.edu.cn.
+test6.ustb.edu.cn. 7199 IN A 202.204.52.42
+
+lxs.ustb.edu.cn. 7199 IN CNAME test6.ustb.edu.cn.
+test6.ustb.edu.cn. 7199 IN A 202.204.52.42
+
+lxyz.ustb.edu.cn. 7200 IN CNAME ddh.ustb.edu.cn.
+ddh.ustb.edu.cn. 7196 IN A 202.204.49.205
+
+ma.ustb.edu.cn. 7200 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+ma.ustb.edu.cn. 7199 IN CNAME host48-25.ustb.edu.cn.
+host48-25.ustb.edu.cn. 7197 IN A 202.204.48.25
+
+mail.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+mail.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+marx.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+marx.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+marx.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+marx.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+marx.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+marx.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+matsec.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+matsec.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+matsec.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+matsec.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+matsec.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+matsec.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+mba.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+me.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+me.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+me.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+me.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+me.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+me.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+old.me.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+metall.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+metall.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+metall.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+metall.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+metall.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+metall.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+cn.metall.ustb.edu.cn. 0 IN A 220.250.64.225
+
+en.metall.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+en.metall.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+mgekeylab.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+mlib.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+mooc.ustb.edu.cn. 7200 IN CNAME ustb.fanya.chaoxing.com.
+ustb.fanya.chaoxing.com. 59 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 599 IN A 140.210.69.132
+fanya.aichaoxing.com. 599 IN A 140.210.69.133
+fanya.aichaoxing.com. 599 IN A 140.210.69.134
+fanya.aichaoxing.com. 599 IN A 140.210.69.130
+fanya.aichaoxing.com. 599 IN A 140.210.69.131
+
+mooc.ustb.edu.cn. 7199 IN CNAME ustb.fanya.chaoxing.com.
+ustb.fanya.chaoxing.com. 59 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 599 IN A 140.210.69.132
+fanya.aichaoxing.com. 599 IN A 140.210.69.133
+fanya.aichaoxing.com. 599 IN A 140.210.69.134
+fanya.aichaoxing.com. 599 IN A 140.210.69.130
+fanya.aichaoxing.com. 599 IN A 140.210.69.131
+
+mooc.ustb.edu.cn. 7199 IN CNAME ustb.fanya.chaoxing.com.
+ustb.fanya.chaoxing.com. 59 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 599 IN A 140.210.69.132
+fanya.aichaoxing.com. 599 IN A 140.210.69.133
+fanya.aichaoxing.com. 599 IN A 140.210.69.134
+fanya.aichaoxing.com. 599 IN A 140.210.69.130
+fanya.aichaoxing.com. 599 IN A 140.210.69.131
+
+mooc.ustb.edu.cn. 7199 IN CNAME ustb.fanya.chaoxing.com.
+ustb.fanya.chaoxing.com. 59 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 599 IN A 140.210.69.132
+fanya.aichaoxing.com. 599 IN A 140.210.69.133
+fanya.aichaoxing.com. 599 IN A 140.210.69.134
+fanya.aichaoxing.com. 599 IN A 140.210.69.130
+fanya.aichaoxing.com. 599 IN A 140.210.69.131
+
+mooc.ustb.edu.cn. 7199 IN CNAME ustb.fanya.chaoxing.com.
+ustb.fanya.chaoxing.com. 59 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 599 IN A 140.210.69.132
+fanya.aichaoxing.com. 599 IN A 140.210.69.133
+fanya.aichaoxing.com. 599 IN A 140.210.69.134
+fanya.aichaoxing.com. 599 IN A 140.210.69.130
+fanya.aichaoxing.com. 599 IN A 140.210.69.131
+
+mooc.ustb.edu.cn. 7199 IN CNAME ustb.fanya.chaoxing.com.
+ustb.fanya.chaoxing.com. 59 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 599 IN A 140.210.69.132
+fanya.aichaoxing.com. 599 IN A 140.210.69.133
+fanya.aichaoxing.com. 599 IN A 140.210.69.134
+fanya.aichaoxing.com. 599 IN A 140.210.69.130
+fanya.aichaoxing.com. 599 IN A 140.210.69.131
+
+mse.ustb.edu.cn. 3806 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 3805 IN A 123.124.147.249
+
+mse.ustb.edu.cn. 3805 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 3805 IN A 123.124.147.249
+
+mse.ustb.edu.cn. 3805 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 3805 IN A 123.124.147.249
+
+mse.ustb.edu.cn. 3805 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 3805 IN A 123.124.147.249
+
+mse.ustb.edu.cn. 3805 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 3805 IN A 123.124.147.249
+
+mse.ustb.edu.cn. 3805 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 3805 IN A 123.124.147.249
+
+en.mse.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+museum.ustb.edu.cn. 0 IN A 220.250.64.225
+
+n.ustb.edu.cn. 4715 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+n.ustb.edu.cn. 4714 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 4714 IN A 202.204.52.98
+
+nano.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+nano.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+nano.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+nano.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+nano.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ncms.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+ncms.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ncms.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ncms.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ncms.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+ncms.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+nercar.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+nercar.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+nercar.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+nercar.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+nercar.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+nercar.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+new.ustb.edu.cn. 7200 IN A 202.204.49.188
+
+new.ustb.edu.cn. 7199 IN A 202.204.49.188
+
+new.ustb.edu.cn. 7199 IN A 202.204.49.188
+
+new.ustb.edu.cn. 7199 IN A 202.204.49.188
+
+new.ustb.edu.cn. 7199 IN A 202.204.49.188
+
+new.ustb.edu.cn. 7199 IN A 202.204.49.188
+
+new.ustb.edu.cn. 7199 IN A 202.204.49.188
+
+news.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+news.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+news.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+news.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+news.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+news.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+oa.ustb.edu.cn. 7200 IN CNAME gate.ustb.edu.cn.
+gate.ustb.edu.cn. 7196 IN A 202.204.52.49
+
+oa.ustb.edu.cn. 7199 IN CNAME gate.ustb.edu.cn.
+gate.ustb.edu.cn. 7196 IN A 202.204.52.49
+
+oa.ustb.edu.cn. 7199 IN CNAME gate.ustb.edu.cn.
+gate.ustb.edu.cn. 7196 IN A 202.204.52.49
+
+oa.ustb.edu.cn. 7199 IN CNAME gate.ustb.edu.cn.
+gate.ustb.edu.cn. 7196 IN A 202.204.52.49
+
+oa.ustb.edu.cn. 7199 IN CNAME gate.ustb.edu.cn.
+gate.ustb.edu.cn. 7196 IN A 202.204.52.49
+
+oacheck.ustb.edu.cn. 7200 IN A 202.204.60.12
+
+odp.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+oice.ustb.edu.cn. 7200 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+oice.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+oice.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+oice.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+oice.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+oice.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7198 IN A 123.124.147.249
+
+oldme.ustb.edu.cn. 0 IN A 220.250.64.225
+
+oldme.ustb.edu.cn. 30 IN A 220.250.64.225
+
+oldme.ustb.edu.cn. 29 IN A 220.250.64.225
+
+oldme.ustb.edu.cn. 29 IN A 220.250.64.225
+
+onlineapply.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+onlineapply.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+onlineapply.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+onlineapply.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+onlineapply.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+openlab.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+pastechina.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+pay.ustb.edu.cn. 7200 IN A 202.204.49.210
+
+pay.ustb.edu.cn. 7199 IN A 202.204.49.210
+
+pay.ustb.edu.cn. 7199 IN A 202.204.49.210
+
+pay.ustb.edu.cn. 7199 IN A 202.204.49.210
+
+pay.ustb.edu.cn. 7199 IN A 202.204.49.210
+
+pay.ustb.edu.cn. 7199 IN A 202.204.49.210
+
+pbm.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+pbm.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+prir.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+prir.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+prir.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+prir.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+prir.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+project.ustb.edu.cn. 7200 IN A 202.204.49.179
+
+project.ustb.edu.cn. 7199 IN A 202.204.49.179
+
+project.ustb.edu.cn. 7199 IN A 202.204.49.179
+
+project.ustb.edu.cn. 7199 IN A 202.204.49.179
+
+project.ustb.edu.cn. 7199 IN A 202.204.49.179
+
+qiandao.ustb.edu.cn. 7200 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn. 7199 IN A 222.28.68.152
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 0 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 30 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+qiandao.ustb.edu.cn<BR>www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 0 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 30 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+www.qiandao.ustb.edu.cn. 29 IN A 220.250.64.225
+
+rettc.ustb.edu.cn. 7200 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rettc.ustb.edu.cn. 7199 IN A 222.28.49.253
+
+rsc.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+rsc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+rsc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+rsc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+rsc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+rsc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+saee.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+saee.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+salon.ustb.edu.cn. 7200 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+salon.ustb.edu.cn. 7199 IN A 139.199.125.144
+
+sbgx.ustb.edu.cn. 7200 IN A 202.204.49.249
+
+scce.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+scce.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+scce.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+scce.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+scce.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+scce.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sd.ustb.edu.cn. 7200 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+sd.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+sdimi2017.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+seam.ustb.edu.cn. 4638 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.60
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.67
+
+seam.ustb.edu.cn. 4637 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.60
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.67
+
+seam.ustb.edu.cn. 4637 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.60
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.67
+
+seam.ustb.edu.cn. 4637 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.60
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.67
+
+seam.ustb.edu.cn. 4637 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.60
+hosts52-60-67.ustb.edu.cn. 4637 IN A 202.204.52.67
+
+seao.ustb.edu.cn. 7200 IN A 202.204.52.2
+
+seao.ustb.edu.cn. 7199 IN A 202.204.52.2
+
+seao.ustb.edu.cn. 7199 IN A 202.204.52.2
+
+seao.ustb.edu.cn. 7199 IN A 202.204.52.2
+
+seao.ustb.edu.cn. 7199 IN A 202.204.52.2
+
+seee.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+seee.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+seee.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+seee.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+seee.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+seee.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+en.seee.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sem.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sem.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sem.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sem.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sem.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sem.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+dt.sem.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+xy.sem.ustb.edu.cn. 7194 IN A 202.204.52.118
+
+xy.sem.ustb.edu.cn. 7194 IN A 202.204.52.118
+
+xy.sem.ustb.edu.cn. 7194 IN A 202.204.52.118
+
+xy.sem.ustb.edu.cn. 7194 IN A 202.204.52.118
+
+xy.sem.ustb.edu.cn. 7194 IN A 202.204.52.118
+
+sfs.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+sfs.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+sfs.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+sfs.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+sfs.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+sfs.ustb.edu.cn. 7199 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+shijian.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+shijian.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+shijian.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+shijian.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+shijian.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+shiyun.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shiyun.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shiyun.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shiyun.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shiyun.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shuli.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shuli.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shuli.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shuli.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shuli.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+shuli.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sis.ustb.edu.cn. 4690 IN A 202.204.49.223
+
+sis.ustb.edu.cn. 4689 IN A 202.204.49.223
+
+sjdxx.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+sjdxx.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+sjdxx.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+sjdxx.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+skl.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+skl.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+skl.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+skl.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+skl.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+skl.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+slam.ustb.edu.cn. 7200 IN A 202.204.52.14
+
+slam.ustb.edu.cn. 7199 IN A 202.204.52.14
+
+smtp.ustb.edu.cn. 4823 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+smtp.ustb.edu.cn. 4822 IN A 202.204.60.20
+
+sports.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sports.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+sq.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sq.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sq.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sq.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sq.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sq.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+student.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+student.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+sxjyyj.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+sxjyyj.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+teach.ustb.edu.cn. 4634 IN A 123.124.147.249
+
+teach.ustb.edu.cn. 4633 IN A 123.124.147.249
+
+teach.ustb.edu.cn. 4633 IN A 123.124.147.249
+
+teach.ustb.edu.cn. 4633 IN A 123.124.147.249
+
+teach.ustb.edu.cn. 4633 IN A 123.124.147.249
+
+teach.ustb.edu.cn. 4633 IN A 123.124.147.249
+
+test.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+falv.test.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+ipv6.test.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+jycg1.test.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+jycg2.test.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+dangyuan.test2.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+dangyuan.test2.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+dangyuan.test2.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+dangyuan.test2.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+dangyuan.test2.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+test3.ustb.edu.cn. 7193 IN A 123.124.147.249
+
+tianjin.ustb.edu.cn. 7200 IN CNAME tj.ustb.edu.cn.
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tianjin.ustb.edu.cn. 7199 IN CNAME tj.ustb.edu.cn.
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tianjin.ustb.edu.cn. 7199 IN CNAME tj.ustb.edu.cn.
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tianjin.ustb.edu.cn. 7199 IN CNAME tj.ustb.edu.cn.
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tianjin.ustb.edu.cn. 7199 IN CNAME tj.ustb.edu.cn.
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tj.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+tycms2017.ustb.edu.cn. 6944 IN A 123.124.147.249
+
+tycms2019.ustb.edu.cn. 7196 IN A 123.124.147.249
+
+tytc.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+v.ustb.edu.cn. 7200 IN CNAME www1.ustb.edu.cn.
+www1.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+vpn1.ustb.edu.cn. 7200 IN A 123.124.147.253
+
+vpn3.ustb.edu.cn. 7200 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn3.ustb.edu.cn. 7199 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn3.ustb.edu.cn. 7199 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn3.ustb.edu.cn. 7199 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn3.ustb.edu.cn. 7199 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn4.ustb.edu.cn. 7200 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn4.ustb.edu.cn. 7199 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+vpn4.ustb.edu.cn. 7199 IN CNAME vpn5.ustb.edu.cn.
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+seam.vpn4.ustb.edu.cn. 0 IN A 220.250.64.225
+
+vpn5.ustb.edu.cn. 7196 IN A 202.204.52.98
+
+wenfa.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wenfa.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wenfa.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wenfa.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wenfa.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wenfa.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wenhua.ustb.edu.cn. 7200 IN CNAME jsllxx.ustb.edu.cn.
+jsllxx.ustb.edu.cn. 7192 IN A 202.204.49.220
+
+wf.ustb.edu.cn. 7200 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+wf.ustb.edu.cn. 7199 IN A 222.28.65.248
+
+www.ustb.edu.cn. 6944 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www.ustb.edu.cn. 6943 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 6943 IN A 123.124.147.249
+
+www1.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+www1.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+www1.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+www1.ustb.edu.cn. 7192 IN A 123.124.147.249
+
+www2009.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+wx.ustb.edu.cn. 7200 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+wximg.ustb.edu.cn. 7200 IN CNAME wx.ustb.edu.cn.
+wx.ustb.edu.cn. 7199 IN A 202.204.49.216
+
+xiaoban.ustb.edu.cn. 7200 IN A 123.124.147.249
+
+xiaoban.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+xiaoban.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+xiaoban.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+xiaoban.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+xiaoban.ustb.edu.cn. 7199 IN A 123.124.147.249
+
+xinli.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+xinli.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+xxgk.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+xxgk.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+xxgk.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+xxgk.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+xxgk.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+xxgk.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+xyzx.ustb.edu.cn. 7200 IN A 202.204.49.177
+
+xyzx.ustb.edu.cn. 7199 IN A 202.204.49.177
+
+xyzx.ustb.edu.cn. 7199 IN A 202.204.49.177
+
+xyzx.ustb.edu.cn. 7199 IN A 202.204.49.177
+
+xyzx.ustb.edu.cn. 7199 IN A 202.204.49.177
+
+xzxx.ustb.edu.cn. 7200 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.67
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.60
+
+xzxx.ustb.edu.cn. 7199 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.67
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.60
+
+xzxx.ustb.edu.cn. 7199 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.67
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.60
+
+xzxx.ustb.edu.cn. 7199 IN CNAME hosts52-60-67.ustb.edu.cn.
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.67
+hosts52-60-67.ustb.edu.cn. 7193 IN A 202.204.52.60
+
+yjsy1.ustb.edu.cn. 7200 IN A 222.28.66.253
+
+yjsy1.ustb.edu.cn. 7199 IN A 222.28.66.253
+
+yjsy1.ustb.edu.cn. 7199 IN A 222.28.66.253
+
+yjsy1.ustb.edu.cn. 7199 IN A 222.28.66.253
+
+yjsy1.ustb.edu.cn. 7199 IN A 222.28.66.253
+
+yjsy1.ustb.edu.cn. 7199 IN A 222.28.66.253
+
+yjzx.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+yjzx.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+yjzx.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+yjzx.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+yjzx.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+yjzx.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7191 IN A 123.124.147.249
+
+yx.ustb.edu.cn. 1954 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+yx.ustb.edu.cn. 1953 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+yx.ustb.edu.cn. 1953 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+yx.ustb.edu.cn. 1953 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+yx.ustb.edu.cn. 1953 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+yx.ustb.edu.cn. 1953 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+yzxc.ustb.edu.cn. 2489 IN A 222.28.66.250
+
+yzxc.ustb.edu.cn. 2488 IN A 222.28.66.250
+
+yzxc.ustb.edu.cn. 2488 IN A 222.28.66.250
+
+yzxc.ustb.edu.cn. 2488 IN A 222.28.66.250
+
+yzxc.ustb.edu.cn. 2488 IN A 222.28.66.250
+
+yzxc.ustb.edu.cn. 2488 IN A 222.28.66.250
+
+zc.ustb.edu.cn. 7200 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zc.ustb.edu.cn. 7199 IN CNAME tycms2017.ustb.edu.cn.
+tycms2017.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zcgl.ustb.edu.cn. 7200 IN A 202.204.52.68
+
+zhaopin.ustb.edu.cn. 7200 IN A 202.204.52.119
+
+zhaopin.ustb.edu.cn. 7199 IN A 202.204.52.119
+
+zhaopin.ustb.edu.cn. 7199 IN A 202.204.52.119
+
+zhaopin.ustb.edu.cn. 7199 IN A 202.204.52.119
+
+zhaosheng.ustb.edu.cn. 7200 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+zhaosheng.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+zhaosheng.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+zhaosheng.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+zhaosheng.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+zhaosheng.ustb.edu.cn. 7199 IN CNAME tycms2019.ustb.edu.cn.
+tycms2019.ustb.edu.cn. 7194 IN A 123.124.147.249
+
+zhiyuan.ustb.edu.cn. 7200 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zhiyuan.ustb.edu.cn. 7199 IN CNAME test2.ustb.edu.cn.
+test2.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zrzx.ustb.edu.cn. 7200 IN A 202.204.52.117
+
+zrzx.ustb.edu.cn. 7199 IN A 202.204.52.117
+
+zrzx.ustb.edu.cn. 7199 IN A 202.204.52.117
+
+zrzx.ustb.edu.cn. 7199 IN A 202.204.52.117
+
+zrzx.ustb.edu.cn. 7199 IN A 202.204.52.117
+
+zzb.ustb.edu.cn. 7200 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zzb.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zzb.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zzb.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+
+zzb.ustb.edu.cn. 7199 IN CNAME test.ustb.edu.cn.
+test.ustb.edu.cn. 7190 IN A 123.124.147.249
+

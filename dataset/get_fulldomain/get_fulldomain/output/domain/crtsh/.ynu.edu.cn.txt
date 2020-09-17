@@ -1,0 +1,13 @@
+*.ynu.edu.cn
+*.zsb.ynu.edu.cn
+65031141.ynu.edu.cn
+bbs.ynu.edu.cn
+csexamapi.hos.ynu.edu.cn
+cshealthapi.ynu.edu.cn
+db.ynu.edu.cn
+opensource.ynu.edu.cn
+portal.sees.ynu.edu.cn
+schvm.sees.ynu.edu.cn
+webmail.ynu.edu.cn
+www.YJCCTs.ynu.edu.cn
+www.et.ynu.edu.cn

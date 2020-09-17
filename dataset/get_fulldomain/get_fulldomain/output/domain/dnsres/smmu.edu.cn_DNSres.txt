@@ -1,0 +1,592 @@
+ao.smmu.edu.cn. 3600 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+ao.smmu.edu.cn. 3599 IN A 202.121.224.8
+
+bsbm.smmu.edu.cn. 60 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 59 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 60 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 59 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 59 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 59 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 59 IN A 202.121.224.109
+
+bsbm.smmu.edu.cn. 59 IN A 202.121.224.109
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+NXDOMAIN for cbs.smmu.edu.cn
+
+chll.smmu.edu.cn. 60 IN A 180.168.42.35
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chnews.smmu.edu.cn
+
+NXDOMAIN for chysg.smmu.edu.cn
+
+NXDOMAIN for chysg.smmu.edu.cn
+
+NXDOMAIN for chysg.smmu.edu.cn
+
+NXDOMAIN for chyzwk.smmu.edu.cn
+
+NXDOMAIN for chyzwk.smmu.edu.cn
+
+NXDOMAIN for chyzwk.smmu.edu.cn
+
+NXDOMAIN for cpnj.smmu.edu.cnchnews.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cndjyyxt.smmu.edu.cn
+
+NXDOMAIN for libvpn.smmu.edu.cnidp.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cnjsyxsyzx.smmu.edu.cn
+
+yjszs.smmu.edu.cnstat.smmu.edu.cn. 0 IN A 220.250.64.225
+
+sbgxpt.smmu.edu.cnwlxp.smmu.edu.cn. 0 IN A 220.250.64.225
+
+mail_gateway.smmu.edu.cnwzcg.smmu.edu.cn. 0 IN A 220.250.64.225
+
+stat.smmu.edu.cnxbswx.smmu.edu.cn. 0 IN A 220.250.64.225
+
+statadr.smmu.edu.cnxbswx.smmu.edu.cn. 0 IN A 220.250.64.225
+
+mail.smmu.edu.cnyjszs.smmu.edu.cn. 0 IN A 220.250.64.225
+
+cooc.smmu.edu.cn. 3600 IN A 192.168.41.36
+
+cooc.smmu.edu.cn. 3599 IN A 192.168.41.36
+
+cooc.smmu.edu.cn. 3599 IN A 192.168.41.36
+
+cooc.smmu.edu.cn. 3599 IN A 192.168.41.36
+
+cooc.smmu.edu.cn. 3599 IN A 192.168.41.36
+
+cooc.smmu.edu.cn. 3599 IN A 192.168.41.36
+
+cooc.smmu.edu.cn. 3599 IN A 192.168.41.36
+
+cpnj.smmu.edu.cn. 60 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+cpnj.smmu.edu.cn. 59 IN A 180.168.42.142
+
+NXDOMAIN for crhlx.smmu.edu.cn
+
+NXDOMAIN for crhlx.smmu.edu.cn
+
+NXDOMAIN for crhlx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for czwkx.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for djyyxt.smmu.edu.cn
+
+NXDOMAIN for dmpk.smmu.edu.cn
+
+NXDOMAIN for dmpk.smmu.edu.cn
+
+NXDOMAIN for dmpk.smmu.edu.cn
+
+NXDOMAIN for dmpk.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for dns.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for doctorforum2009.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx1.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx1.smmu.edu.cn
+
+NXDOMAIN for hhyxsyzx1.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for hxkc.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for idp.smmu.edu.cn
+
+NXDOMAIN for jsyxsyzx.smmu.edu.cn
+
+NXDOMAIN for jsyxsyzx.smmu.edu.cn
+
+NXDOMAIN for jsyxsyzx.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for lib.smmu.edu.cn
+
+NXDOMAIN for meet.lib.smmu.edu.cn
+
+NXDOMAIN for mooc.lib.smmu.edu.cn
+
+NXDOMAIN for mooc.lib.smmu.edu.cn
+
+NXDOMAIN for mooc.lib.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cn
+
+NXDOMAIN for owa01.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for pool.lib.smmu.edu.cn
+
+NXDOMAIN for libvpn.smmu.edu.cn
+
+mail.smmu.edu.cn. 2804 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+mail.smmu.edu.cn. 2803 IN A 180.168.42.135
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mail_gateway.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cn
+
+NXDOMAIN for mooc.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for sbgxpt.smmu.edu.cn
+
+NXDOMAIN for shlkc.smmu.edu.cn
+
+NXDOMAIN for stat.smmu.edu.cn
+
+NXDOMAIN for stat.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for statadr.smmu.edu.cn
+
+NXDOMAIN for swhx.smmu.edu.cn
+
+NXDOMAIN for swhx.smmu.edu.cn
+
+NXDOMAIN for swhx.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+NXDOMAIN for tdxl.smmu.edu.cn
+
+tdxl.smmu.edu.cn. 60 IN A 202.121.224.133
+
+tdxl.smmu.edu.cn. 59 IN A 202.121.224.133
+
+tdxl.smmu.edu.cn. 59 IN A 202.121.224.133
+
+NXDOMAIN for tdxl-bk.smmu.edu.cn
+
+NXDOMAIN for tdxl-bk.smmu.edu.cn
+
+NXDOMAIN for tdxl-bk.smmu.edu.cn
+
+NXDOMAIN for tdxl-xx.smmu.edu.cn
+
+NXDOMAIN for tdxl-xx.smmu.edu.cn
+
+NXDOMAIN for tdxl-xx.smmu.edu.cn
+
+NXDOMAIN for tdxl-xx.smmu.edu.cn
+
+NXDOMAIN for wlxp.smmu.edu.cn
+
+NXDOMAIN for wlxp.smmu.edu.cn
+
+NXDOMAIN for wlxp.smmu.edu.cn
+
+www.smmu.edu.cn. 60 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+www.smmu.edu.cn. 59 IN A 202.121.224.8
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wwwtest.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for wzcg.smmu.edu.cn
+
+NXDOMAIN for xbswx.smmu.edu.cn
+
+NXDOMAIN for xbswx.smmu.edu.cn
+
+NXDOMAIN for xuebao.smmu.edu.cn
+
+NXDOMAIN for xuebao.smmu.edu.cn
+
+NXDOMAIN for xuebao.smmu.edu.cn
+
+NXDOMAIN for xuebao.smmu.edu.cn
+
+NXDOMAIN for xuebao.smmu.edu.cn
+
+NXDOMAIN for xuebao.smmu.edu.cn
+
+yjszs.smmu.edu.cn. 60 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 59 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 59 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 59 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 59 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 59 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 60 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 59 IN A 202.121.224.109
+
+yjszs.smmu.edu.cn. 60 IN A 202.121.224.109
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for yqsbgx.smmu.edu.cn
+
+NXDOMAIN for ywfx.smmu.edu.cn
+
+NXDOMAIN for yxsj.smmu.edu.cn
+
+NXDOMAIN for yxsj.smmu.edu.cn
+
+NXDOMAIN for yxsj.smmu.edu.cn
+
+NXDOMAIN for yxsj.smmu.edu.cn
+
+NXDOMAIN for yyglzz.smmu.edu.cn
+
+NXDOMAIN for yyglzz.smmu.edu.cn
+
+NXDOMAIN for yyglzz.smmu.edu.cn
+
+NXDOMAIN for yyglzz.smmu.edu.cn
+
+zhyxy.smmu.edu.cn. 60 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 60 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+
+zhyxy.smmu.edu.cn. 59 IN A 202.121.224.8
+

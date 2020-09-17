@@ -1,0 +1,2914 @@
+NXDOMAIN for vpn.nwpu.edu.cnnwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+NXDOMAIN for nwpu.edu.cn
+
+aaa.nwpu.edu.cn. 3600 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+aaa.nwpu.edu.cn. 3599 IN A 202.117.82.36
+
+acm.nwpu.edu.cn. 3600 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+acm.nwpu.edu.cn. 3599 IN A 222.24.212.145
+
+admission.nwpu.edu.cn. 3600 IN CNAME 7a68f22be8b0c32d.cname.365cyd.cn.
+7a68f22be8b0c32d.cname.365cyd.cn. 199 IN A 1.31.128.212
+7a68f22be8b0c32d.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+aisheng.nwpu.edu.cn. 3600 IN CNAME 03987d4c083e92ed.cname.365cyd.cn.
+03987d4c083e92ed.cname.365cyd.cn. 199 IN A 118.212.233.160
+03987d4c083e92ed.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+NXDOMAIN for netserver.amec.nwpu.edu.cn
+
+archives.nwpu.edu.cn. 3600 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+archives.nwpu.edu.cn. 3599 IN A 222.24.192.70
+
+asn.nwpu.edu.cn. 3600 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+asn.nwpu.edu.cn. 3599 IN A 202.117.80.1
+
+atc.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+atcrs.nwpu.edu.cn. 3600 IN CNAME 2862222c261252e1.cname.365cyd.cn.
+2862222c261252e1.cname.365cyd.cn. 599 IN A 222.24.192.46
+
+axxt.nwpu.edu.cn. 3600 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+axxt.nwpu.edu.cn. 3599 IN A 222.24.192.88
+
+baomi.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+bbs.nwpu.edu.cn. 30 IN A 220.250.64.225
+
+belief2017.nwpu.edu.cn. 3600 IN A 159.226.11.51
+
+bi.nwpu.edu.cn. 3600 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi.nwpu.edu.cn. 3599 IN A 222.24.192.232
+
+bi2.nwpu.edu.cn. 3600 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bi2.nwpu.edu.cn. 3599 IN A 222.24.192.218
+
+bmxy.nwpu.edu.cn. 3600 IN CNAME ac1623a9ce379a6e.cname.365cyd.cn.
+ac1623a9ce379a6e.cname.365cyd.cn. 199 IN A 118.212.233.160
+ac1623a9ce379a6e.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+braia.nwpu.edu.cn. 305 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 304 IN A 222.24.192.45
+
+cad.nwpu.edu.cn. 3600 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cad.nwpu.edu.cn. 3599 IN A 202.117.241.50
+
+cailiao.nwpu.edu.cn. 3600 IN CNAME 6bec10ab54633e75.cname.365cyd.cn.
+6bec10ab54633e75.cname.365cyd.cn. 299 IN A 1.31.128.212
+6bec10ab54633e75.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+caiwu.nwpu.edu.cn. 3600 IN CNAME 0fa6ab80d6e6127f.cname.365cyd.cn.
+0fa6ab80d6e6127f.cname.365cyd.cn. 199 IN A 111.202.98.99
+0fa6ab80d6e6127f.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+caxqglb.nwpu.edu.cn. 3600 IN CNAME b8cfdf43e2bd2eb7.cname.365cyd.cn.
+b8cfdf43e2bd2eb7.cname.365cyd.cn. 199 IN A 118.212.233.160
+b8cfdf43e2bd2eb7.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+ns.ce.nwpu.edu.cn. 3600 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+ns.ce.nwpu.edu.cn. 3599 IN A 202.117.88.181
+
+chanye.nwpu.edu.cn. 3600 IN CNAME 46645342857091b9.cname.365cyd.cn.
+46645342857091b9.cname.365cyd.cn. 199 IN A 111.202.98.99
+46645342857091b9.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+cicav.nwpu.edu.cn. 3600 IN CNAME bf80a3e0573e1a1b.cname.365cyd.cn.
+bf80a3e0573e1a1b.cname.365cyd.cn. 199 IN A 1.31.128.212
+bf80a3e0573e1a1b.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+cifc2011.nwpu.edu.cn. 3600 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+cifc2011.nwpu.edu.cn. 3599 IN A 222.24.212.130
+
+clgl.nwpu.edu.cn. 3600 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+clgl.nwpu.edu.cn. 3599 IN A 222.24.192.152
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+NXDOMAIN for www.cme.nwpu.edu.cn
+
+netserver.amec.nwpu.edu.cncw.nwpu.edu.cn. 0 IN A 220.250.64.225
+
+rei.nwpu.edu.cnmessage.nwpu.edu.cn. 0 IN A 220.250.64.225
+
+dns2.nwpu.edu.cnportal1.nwpu.edu.cn. 30 IN A 220.250.64.225
+
+hq.nwpu.edu.cnportalfiles.nwpu.edu.cn. 0 IN A 220.250.64.225
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cnsrsb.nwpu.edu.cn. 0 IN A 220.250.64.225
+
+mail.nwpu.edu.cnyjsjywx.nwpu.edu.cn. 0 IN A 220.250.64.225
+
+csctc.nwpu.edu.cn. 3600 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+csctc.nwpu.edu.cn. 3599 IN A 222.24.192.39
+
+cw.nwpu.edu.cn. 3600 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cw.nwpu.edu.cn. 3599 IN A 202.117.87.162
+
+cwpt.nwpu.edu.cn. 3600 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwpt.nwpu.edu.cn. 3599 IN A 222.24.230.10
+
+cwrb.nwpu.edu.cn. 3600 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwrb.nwpu.edu.cn. 3599 IN A 222.24.230.13
+
+cwwx.nwpu.edu.cn. 3600 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+cwwx.nwpu.edu.cn. 3599 IN A 222.24.230.11
+
+dafw.nwpu.edu.cn. 3600 IN CNAME e0a1175341d34c87.cname.365cyd.cn.
+e0a1175341d34c87.cname.365cyd.cn. 599 IN A 222.24.192.150
+
+dag.nwpu.edu.cn. 3600 IN CNAME 951a49dbba6ef874.cname.365cyd.cn.
+951a49dbba6ef874.cname.365cyd.cn. 199 IN A 118.212.233.160
+951a49dbba6ef874.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+dangwei.nwpu.edu.cn. 3600 IN CNAME 1855a88f87090074.cname.365cyd.cn.
+1855a88f87090074.cname.365cyd.cn. 199 IN A 118.212.233.160
+1855a88f87090074.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+dangzheng.nwpu.edu.cn. 3600 IN CNAME a1471626253b1dcb.cname.365cyd.cn.
+a1471626253b1dcb.cname.365cyd.cn. 299 IN A 111.202.98.99
+a1471626253b1dcb.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+db.nwpu.edu.cn. 3600 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+db.nwpu.edu.cn. 3599 IN A 202.117.80.231
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+NXDOMAIN for www.dcel.nwpu.edu.cn
+
+denglun.nwpu.edu.cn. 3600 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+denglun.nwpu.edu.cn. 3599 IN A 202.117.80.24
+
+device.nwpu.edu.cn. 3600 IN A 222.24.192.12
+
+dianzi.nwpu.edu.cn. 3600 IN CNAME b1d477a5b8da06b9.cname.365cyd.cn.
+b1d477a5b8da06b9.cname.365cyd.cn. 199 IN A 1.31.128.212
+b1d477a5b8da06b9.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+dns.nwpu.edu.cn. 3600 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns.nwpu.edu.cn. 3599 IN A 202.117.80.2
+
+dns1.nwpu.edu.cn. 3600 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns1.nwpu.edu.cn. 3599 IN A 202.117.80.3
+
+dns2.nwpu.edu.cn. 3600 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dns2.nwpu.edu.cn. 3599 IN A 61.150.43.14
+
+dongneng.nwpu.edu.cn. 3600 IN CNAME c195844f2e155dce.cname.365cyd.cn.
+c195844f2e155dce.cname.365cyd.cn. 199 IN A 118.212.233.160
+c195844f2e155dce.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+dongnengwx.nwpu.edu.cn. 3600 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dongnengwx.nwpu.edu.cn. 3599 IN A 222.24.192.35
+
+dzzf.nwpu.edu.cn. 3600 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+dzzf.nwpu.edu.cn. 3599 IN A 222.24.201.133
+
+eased.nwpu.edu.cn. 3600 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+eased.nwpu.edu.cn. 3599 IN A 202.117.248.41
+
+ecampus.nwpu.edu.cn. 3600 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.199
+
+emi.nwpu.edu.cn. 3600 IN CNAME b14b8c4b5a6a24aa.cname.365cyd.cn.
+b14b8c4b5a6a24aa.cname.365cyd.cn. 299 IN A 1.31.128.212
+b14b8c4b5a6a24aa.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+en.nwpu.edu.cn. 3600 IN CNAME 460aa1e646c395c6.cname.365cyd.cn.
+460aa1e646c395c6.cname.365cyd.cn. 199 IN A 111.202.98.99
+460aa1e646c395c6.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+epaper.nwpu.edu.cn. 3600 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+epaper.nwpu.edu.cn. 3599 IN A 222.24.192.38
+
+eservice.nwpu.edu.cn. 3600 IN CNAME c7db7a6e0b97b135.cname.365cyd.cn.
+c7db7a6e0b97b135.cname.365cyd.cn. 599 IN A 222.24.192.168
+
+etv.nwpu.edu.cn. 3600 IN CNAME ebef7a8e6c7cb055.cname.365cyd.cn.
+ebef7a8e6c7cb055.cname.365cyd.cn. 199 IN A 1.31.128.212
+ebef7a8e6c7cb055.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+fazhan.nwpu.edu.cn. 2816 IN CNAME e32f7bdf7c8e5825.cname.365cyd.cn.
+e32f7bdf7c8e5825.cname.365cyd.cn. 59 IN A 118.212.233.160
+e32f7bdf7c8e5825.cname.365cyd.cn. 59 IN A 111.202.98.99
+
+fuwu.nwpu.edu.cn. 3600 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+fuwu.nwpu.edu.cn. 3599 IN A 222.24.192.100
+
+NXDOMAIN for gjjyxy.nwpu.edu.cn
+
+glxy.nwpu.edu.cn. 3600 IN CNAME 8396e53ded76e41d.cname.365cyd.cn.
+8396e53ded76e41d.cname.365cyd.cn. 299 IN A 1.31.128.212
+8396e53ded76e41d.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+gms.nwpu.edu.cn. 3600 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gms.nwpu.edu.cn. 3599 IN A 222.24.192.151
+
+gongan.nwpu.edu.cn. 3600 IN CNAME 3eae3c70d004f18f.cname.365cyd.cn.
+3eae3c70d004f18f.cname.365cyd.cn. 199 IN A 111.202.98.99
+3eae3c70d004f18f.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+gongcheng.nwpu.edu.cn. 3600 IN CNAME a86818fa8b4fc5c0.cname.365cyd.cn.
+a86818fa8b4fc5c0.cname.365cyd.cn. 299 IN A 1.31.128.212
+a86818fa8b4fc5c0.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+gonghui.nwpu.edu.cn. 3600 IN CNAME 97800fda231241a2.cname.365cyd.cn.
+97800fda231241a2.cname.365cyd.cn. 299 IN A 111.202.98.99
+97800fda231241a2.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+gs.nwpu.edu.cn. 3600 IN CNAME c678cc90448b2bd3.cname.365cyd.cn.
+c678cc90448b2bd3.cname.365cyd.cn. 299 IN A 111.202.98.99
+c678cc90448b2bd3.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+gsdy.nwpu.edu.cn. 3600 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+gsdy.nwpu.edu.cn. 3599 IN A 222.24.192.234
+
+guoji.nwpu.edu.cn. 3600 IN CNAME ba865f29c33eb887.cname.365cyd.cn.
+ba865f29c33eb887.cname.365cyd.cn. 299 IN A 111.202.98.99
+ba865f29c33eb887.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+guozi.nwpu.edu.cn. 3600 IN CNAME cd2c5f868a5a04ed.cname.365cyd.cn.
+cd2c5f868a5a04ed.cname.365cyd.cn. 199 IN A 1.31.128.212
+cd2c5f868a5a04ed.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+gxn.nwpu.edu.cn. 3600 IN CNAME e05b32ed13a9dce8.cname.365cyd.cn.
+e05b32ed13a9dce8.cname.365cyd.cn. 199 IN A 1.31.128.212
+e05b32ed13a9dce8.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+gyfgl.nwpu.edu.cn. 3600 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+gyfgl.nwpu.edu.cn. 3599 IN A 222.24.211.33
+
+hanghai.nwpu.edu.cn. 3600 IN CNAME 8598033c4b7b3dfb.cname.365cyd.cn.
+8598033c4b7b3dfb.cname.365cyd.cn. 299 IN A 1.31.128.212
+8598033c4b7b3dfb.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+hangkong.nwpu.edu.cn. 3600 IN CNAME 183f2348052b52eb.cname.365cyd.cn.
+183f2348052b52eb.cname.365cyd.cn. 199 IN A 111.202.98.99
+183f2348052b52eb.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+hangtian.nwpu.edu.cn. 3600 IN CNAME a5d5cdd11d4948c0.cname.365cyd.cn.
+a5d5cdd11d4948c0.cname.365cyd.cn. 199 IN A 111.202.98.99
+a5d5cdd11d4948c0.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+hc.nwpu.edu.cn. 3600 IN A 222.24.192.170
+
+hongtd.nwpu.edu.cn. 3600 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+hongtd.nwpu.edu.cn. 3599 IN A 222.24.192.52
+
+honors.nwpu.edu.cn. 3600 IN CNAME cd126593d4b9daa1.cname.365cyd.cn.
+cd126593d4b9daa1.cname.365cyd.cn. 299 IN A 111.202.98.99
+cd126593d4b9daa1.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+houqin.nwpu.edu.cn. 2794 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 2793 IN A 222.24.192.45
+
+houqinban.nwpu.edu.cn. 3600 IN CNAME 37f09db3243bac6e.cname.365cyd.cn.
+37f09db3243bac6e.cname.365cyd.cn. 299 IN A 1.31.128.212
+37f09db3243bac6e.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+hpc.nwpu.edu.cn. 3600 IN A 202.117.251.10
+hpc.nwpu.edu.cn. 3600 IN A 202.117.249.5
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hpc.nwpu.edu.cn. 3599 IN A 202.117.249.5
+hpc.nwpu.edu.cn. 3599 IN A 202.117.251.10
+
+hq.nwpu.edu.cn. 3600 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+hq.nwpu.edu.cn. 3599 IN A 202.117.255.106
+
+huiyi.nwpu.edu.cn. 3600 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+huiyi.nwpu.edu.cn. 3599 IN A 202.117.80.142
+
+i631.nwpu.edu.cn. 3600 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+i631.nwpu.edu.cn. 3599 IN A 202.117.255.200
+
+icncq.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+icpc.nwpu.edu.cn. 3600 IN A 222.24.212.146
+
+id.nwpu.edu.cn. 3600 IN CNAME c5439cf28e74048b.cname.365cyd.cn.
+c5439cf28e74048b.cname.365cyd.cn. 599 IN A 222.24.192.145
+
+ife.nwpu.edu.cn. 3600 IN CNAME d0b67e4e8e485224.cname.365cyd.cn.
+d0b67e4e8e485224.cname.365cyd.cn. 299 IN A 111.202.98.99
+d0b67e4e8e485224.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+imr.nwpu.edu.cn. 3600 IN CNAME c5bc2f45df5157ad.cname.365cyd.cn.
+c5bc2f45df5157ad.cname.365cyd.cn. 299 IN A 111.202.98.99
+c5bc2f45df5157ad.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+ir.nwpu.edu.cn. 2233 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+ir.nwpu.edu.cn. 2232 IN A 202.117.255.188
+
+istudy.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 2792 IN A 222.24.192.45
+
+it.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+its.nwpu.edu.cn. 3600 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+its.nwpu.edu.cn. 3599 IN A 222.24.192.5
+
+jcjy.nwpu.edu.cn. 3600 IN CNAME 7bf518db459eee88.cname.365cyd.cn.
+7bf518db459eee88.cname.365cyd.cn. 199 IN A 118.212.233.160
+7bf518db459eee88.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+jfzx.nwpu.edu.cn. 3600 IN CNAME a9e0ceaaea6b6875.cname.365cyd.cn.
+a9e0ceaaea6b6875.cname.365cyd.cn. 299 IN A 111.202.98.99
+a9e0ceaaea6b6875.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+jgdwss.nwpu.edu.cn. 3600 IN CNAME 83117f5189e3d52e.cname.365cyd.cn.
+83117f5189e3d52e.cname.365cyd.cn. 599 IN A 222.24.192.47
+
+jiaowu.nwpu.edu.cn. 3600 IN CNAME 9b3ac7ed6065b78f.cname.365cyd.cn.
+9b3ac7ed6065b78f.cname.365cyd.cn. 299 IN A 111.202.98.99
+9b3ac7ed6065b78f.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+jidian.nwpu.edu.cn. 3600 IN CNAME bfdcbab47b979dc5.cname.365cyd.cn.
+bfdcbab47b979dc5.cname.365cyd.cn. 299 IN A 1.31.128.212
+bfdcbab47b979dc5.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+jijian.nwpu.edu.cn. 3600 IN CNAME a49b938ca4eb1e9d.cname.365cyd.cn.
+a49b938ca4eb1e9d.cname.365cyd.cn. 199 IN A 118.212.233.160
+a49b938ca4eb1e9d.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+jiwei.nwpu.edu.cn. 3600 IN CNAME 9cd95e3bb52f3f92.cname.365cyd.cn.
+9cd95e3bb52f3f92.cname.365cyd.cn. 199 IN A 118.212.233.160
+9cd95e3bb52f3f92.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+jjh.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 2791 IN A 222.24.192.45
+
+job.nwpu.edu.cn. 3600 IN CNAME c352aa144df35a61.cname.365cyd.cn.
+c352aa144df35a61.cname.365cyd.cn. 199 IN A 111.202.98.99
+c352aa144df35a61.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+jobszqy.nwpu.edu.cn. 3600 IN CNAME a1da715f5d81b89c.cname.365cyd.cn.
+a1da715f5d81b89c.cname.365cyd.cn. 599 IN A 222.24.211.73
+
+journals.nwpu.edu.cn. 3600 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+journals.nwpu.edu.cn. 3599 IN A 222.24.192.148
+
+jpkc.nwpu.edu.cn. 3600 IN CNAME 3c32636bb05e4297.cname.365cyd.cn.
+3c32636bb05e4297.cname.365cyd.cn. 599 IN A 202.117.80.9
+
+jsj.nwpu.edu.cn. 3600 IN CNAME 702cd2aa1e65aee7.cname.365cyd.cn.
+702cd2aa1e65aee7.cname.365cyd.cn. 199 IN A 118.212.233.160
+702cd2aa1e65aee7.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+jszy.nwpu.edu.cn. 3600 IN CNAME c20c1c3355a30453.cname.365cyd.cn.
+c20c1c3355a30453.cname.365cyd.cn. 199 IN A 118.212.233.160
+c20c1c3355a30453.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+kypt.nwpu.edu.cn. 3600 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kypt.nwpu.edu.cn. 3599 IN A 222.24.192.41
+
+kyy.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+learn.nwpu.edu.cn. 3600 IN CNAME b388ebfc5284b0ac.cname.365cyd.cn.
+b388ebfc5284b0ac.cname.365cyd.cn. 599 IN A 222.24.192.230
+
+ftpserver.lib.nwpu.edu.cn. 3600 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+ftpserver.lib.nwpu.edu.cn. 3599 IN A 202.117.255.179
+
+www.lib.nwpu.edu.cn. 3600 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+www.lib.nwpu.edu.cn. 3599 IN A 202.117.255.177
+
+lituixiu.nwpu.edu.cn. 3600 IN CNAME 7561c948b9cc9865.cname.365cyd.cn.
+7561c948b9cc9865.cname.365cyd.cn. 199 IN A 111.202.98.99
+7561c948b9cc9865.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+lxy.nwpu.edu.cn. 3600 IN CNAME e4b8b7bad6540886.cname.365cyd.cn.
+e4b8b7bad6540886.cname.365cyd.cn. 199 IN A 118.212.233.160
+e4b8b7bad6540886.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+m-ecampus.nwpu.edu.cn. 3600 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+m-ecampus.nwpu.edu.cn. 3599 IN A 222.24.192.7
+
+mail.nwpu.edu.cn. 764 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail.nwpu.edu.cn. 763 IN A 202.117.80.4
+
+mail04.nwpu.edu.cn. 3600 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+mail04.nwpu.edu.cn. 3599 IN A 202.117.80.123
+
+marx.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 2790 IN A 222.24.192.45
+
+mems.nwpu.edu.cn. 3600 IN CNAME b8b260a056e5d703.cname.365cyd.cn.
+b8b260a056e5d703.cname.365cyd.cn. 599 IN A 202.117.85.138
+
+message.nwpu.edu.cn. 3600 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+message.nwpu.edu.cn. 3599 IN A 222.24.192.8
+
+minhang.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+mpacc.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 2790 IN A 222.24.192.45
+
+mun.nwpu.edu.cn. 3600 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+mun.nwpu.edu.cn. 3599 IN A 202.117.88.135
+
+netc-yx.nwpu.edu.cn. 3600 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+netc-yx.nwpu.edu.cn. 3599 IN A 202.117.80.210
+
+news.nwpu.edu.cn. 1704 IN CNAME 3ff9b29ce45353ae.cname.365cyd.cn.
+3ff9b29ce45353ae.cname.365cyd.cn. 29 IN A 1.31.128.212
+3ff9b29ce45353ae.cname.365cyd.cn. 29 IN A 118.212.233.160
+
+nich.nwpu.edu.cn. 3600 IN CNAME e3c54f28c8a5d7e3.cname.365cyd.cn.
+e3c54f28c8a5d7e3.cname.365cyd.cn. 199 IN A 111.202.98.99
+e3c54f28c8a5d7e3.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+noj.nwpu.edu.cn. 3600 IN A 202.117.85.163
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+NXDOMAIN for webcomp.npunecas.nwpu.edu.cn
+
+npuw3600gs.nwpu.edu.cn. 3600 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+npuw3600gs.nwpu.edu.cn. 3599 IN A 222.24.192.175
+
+nwpu03.nwpu.edu.cn. 1906 IN A 202.117.80.4
+
+nwpudb2.nwpu.edu.cn. 3600 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpudb2.nwpu.edu.cn. 3599 IN A 222.24.210.149
+
+nwpulh.nwpu.edu.cn. 3600 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+nwpulh.nwpu.edu.cn. 3599 IN A 222.24.192.28
+
+oa.nwpu.edu.cn. 3600 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+oa.nwpu.edu.cn. 3599 IN A 222.24.192.187
+
+admin-center.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+admin-platform.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+agent-service.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+cas.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-docs.paas.nwpu.edu.cn<BR>poa.paas.nwpu.edu.cn<BR>poa-sba.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+eased.nwpu.edu.cnform-design-portal.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+kypt.nwpu.edu.cnsuperapp.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+admin-center.paas.nwpu.edu.cnuser-api.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+communicate-center-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ds.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+form-design-portal.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+formflow.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+personal-security-center.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+poa-sa.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portalapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+superapp.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ecampus.test.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+ttt.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3600 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+user-authz-api.paas.nwpu.edu.cn. 3599 IN A 117.33.225.41
+
+portal.nwpu.edu.cn. 3600 IN A 222.24.192.199
+
+portal1.nwpu.edu.cn. 3600 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal1.nwpu.edu.cn. 3599 IN A 222.24.192.31
+
+portal2.nwpu.edu.cn. 3600 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portal2.nwpu.edu.cn. 3599 IN A 222.24.192.32
+
+portalapp.nwpu.edu.cn. 3600 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalapp.nwpu.edu.cn. 3599 IN A 222.24.192.183
+
+portalfiles.nwpu.edu.cn. 3600 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+portalfiles.nwpu.edu.cn. 3599 IN A 222.24.192.185
+
+psy.nwpu.edu.cn. 3600 IN CNAME adf59c280d8cb22b.cname.365cyd.cn.
+adf59c280d8cb22b.cname.365cyd.cn. 599 IN A 222.24.192.212
+
+pwt.nwpu.edu.cn. 3600 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+pwt.nwpu.edu.cn. 3599 IN A 222.24.192.217
+
+qingdao.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qingdao.nwpu.edu.cn. 3599 IN A 222.24.192.45
+
+qm.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 3557 IN A 222.24.192.45
+
+qnlt.nwpu.edu.cn. 3600 IN CNAME a8bd4e2050fbc689.cname.365cyd.cn.
+a8bd4e2050fbc689.cname.365cyd.cn. 299 IN A 111.202.98.99
+a8bd4e2050fbc689.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+rcussd.nwpu.edu.cn. 3600 IN CNAME 3997702d0b2c51e6.cname.365cyd.cn.
+3997702d0b2c51e6.cname.365cyd.cn. 199 IN A 118.212.233.160
+3997702d0b2c51e6.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+rehp.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+rei.nwpu.edu.cn. 3600 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+rei.nwpu.edu.cn. 3599 IN A 202.117.85.10
+
+renshi.nwpu.edu.cn. 3600 IN CNAME b5a8ed4c6f42793f.cname.365cyd.cn.
+b5a8ed4c6f42793f.cname.365cyd.cn. 299 IN A 111.202.98.99
+b5a8ed4c6f42793f.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+res.nwpu.edu.cn. 3600 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+res.nwpu.edu.cn. 3599 IN A 222.24.192.17
+
+rjwdz.nwpu.edu.cn. 3600 IN CNAME 4f7d5e92a5938dc6.cname.365cyd.cn.
+4f7d5e92a5938dc6.cname.365cyd.cn. 199 IN A 111.202.98.99
+4f7d5e92a5938dc6.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+rwjj.nwpu.edu.cn. 3600 IN CNAME 9a51719deb383229.cname.365cyd.cn.
+9a51719deb383229.cname.365cyd.cn. 199 IN A 111.202.98.99
+9a51719deb383229.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+NXDOMAIN for saipserver.saip.nwpu.edu.cn
+
+selfpromotion.nwpu.edu.cn. 3600 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+selfpromotion.nwpu.edu.cn. 3599 IN A 222.24.192.176
+
+sema.nwpu.edu.cn. 3600 IN CNAME a2a72dffddafca75.cname.365cyd.cn.
+a2a72dffddafca75.cname.365cyd.cn. 199 IN A 1.31.128.212
+a2a72dffddafca75.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+shengming.nwpu.edu.cn. 3600 IN CNAME 1e2ef105a1833a7e.cname.365cyd.cn.
+1e2ef105a1833a7e.cname.365cyd.cn. 299 IN A 111.202.98.99
+1e2ef105a1833a7e.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+shenji.nwpu.edu.cn. 3600 IN CNAME afea2b9c59c3d7e3.cname.365cyd.cn.
+afea2b9c59c3d7e3.cname.365cyd.cn. 199 IN A 111.202.98.99
+afea2b9c59c3d7e3.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+shenzhen.nwpu.edu.cn. 3600 IN CNAME f4c9b724f3a3ecb1.cname.365cyd.cn.
+f4c9b724f3a3ecb1.cname.365cyd.cn. 599 IN A 222.24.192.48
+
+sklsp.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+smarc.nwpu.edu.cn. 3600 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+smarc.nwpu.edu.cn. 3599 IN A 222.24.192.130
+
+snii.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 251 IN A 222.24.192.45
+
+som.nwpu.edu.cn. 3600 IN CNAME d5455597029adbf2.cname.365cyd.cn.
+d5455597029adbf2.cname.365cyd.cn. 299 IN A 1.31.128.212
+d5455597029adbf2.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+spacebiotech.nwpu.edu.cn. 3600 IN CNAME 9facf756fc9ab37b.cname.365cyd.cn.
+9facf756fc9ab37b.cname.365cyd.cn. 299 IN A 111.202.98.99
+9facf756fc9ab37b.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+srsb.nwpu.edu.cn. 3600 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+srsb.nwpu.edu.cn. 3599 IN A 222.24.230.3
+
+staff.nwpu.edu.cn. 3600 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+staff.nwpu.edu.cn. 3599 IN A 202.117.80.119
+
+sysc.nwpu.edu.cn. 3600 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+sysc.nwpu.edu.cn. 3599 IN A 202.117.85.136
+
+taicang.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+taicang-csj.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+tczxt.nwpu.edu.cn. 3600 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+tczxt.nwpu.edu.cn. 3599 IN A 222.24.192.49
+
+teacher.nwpu.edu.cn. 3600 IN CNAME b10ac06d199925cd.cname.365cyd.cn.
+b10ac06d199925cd.cname.365cyd.cn. 599 IN A 222.24.192.97
+
+tijianzhan.nwpu.edu.cn. 3600 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tijianzhan.nwpu.edu.cn. 3599 IN A 202.117.85.140
+
+tingke.nwpu.edu.cn. 3600 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tingke.nwpu.edu.cn. 3599 IN A 222.24.192.226
+
+tiyu.nwpu.edu.cn. 3600 IN CNAME 2310ca45aad7ff32.cname.365cyd.cn.
+2310ca45aad7ff32.cname.365cyd.cn. 199 IN A 111.202.98.99
+2310ca45aad7ff32.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+tougaoxitong.nwpu.edu.cn. 3600 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+tougaoxitong.nwpu.edu.cn. 3599 IN A 222.24.192.53
+
+trans.nwpu.edu.cn. 3600 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trans.nwpu.edu.cn. 3599 IN A 222.24.230.7
+
+trenddsm.nwpu.edu.cn. 3600 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+trenddsm.nwpu.edu.cn. 3599 IN A 222.24.192.124
+
+tscm.nwpu.edu.cn. 3600 IN CNAME b091021da0164d54.cname.365cyd.cn.
+b091021da0164d54.cname.365cyd.cn. 299 IN A 1.31.128.212
+b091021da0164d54.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+tuanwei.nwpu.edu.cn. 3600 IN A 202.117.242.194
+tuanwei.nwpu.edu.cn. 3600 IN A 202.117.88.186
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.88.186
+tuanwei.nwpu.edu.cn. 3599 IN A 202.117.242.194
+
+tujian.nwpu.edu.cn. 3600 IN CNAME 2c19beb6446b6ff4.cname.365cyd.cn.
+2c19beb6446b6ff4.cname.365cyd.cn. 299 IN A 111.202.98.99
+2c19beb6446b6ff4.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+tushuguan.nwpu.edu.cn. 1405 IN CNAME a7279f74a186b670.cname.365cyd.cn.
+a7279f74a186b670.cname.365cyd.cn. 59 IN A 118.212.233.160
+a7279f74a186b670.cname.365cyd.cn. 59 IN A 111.202.98.99
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+NXDOMAIN for tutor.nwpu.edu.cn
+
+tzb.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+uis.nwpu.edu.cn. 3600 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+uis.nwpu.edu.cn. 3599 IN A 222.24.192.182
+
+ump.nwpu.edu.cn. 3600 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+ump.nwpu.edu.cn. 3599 IN A 222.24.192.169
+
+us.nwpu.edu.cn. 3600 IN CNAME 747dfd6ac1e7f390.cname.365cyd.cn.
+747dfd6ac1e7f390.cname.365cyd.cn. 599 IN A 222.24.192.103
+
+vpn.nwpu.edu.cn. 2129 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+vpn.nwpu.edu.cn. 2128 IN A 202.117.80.11
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+wgyxy.nwpu.edu.cn. 3600 IN CNAME 68a6619c6065e48c.cname.365cyd.cn.
+68a6619c6065e48c.cname.365cyd.cn. 299 IN A 111.202.98.99
+68a6619c6065e48c.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+wlkjaqxy.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+wsbz.nwpu.edu.cn. 3600 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wsbz.nwpu.edu.cn. 3599 IN A 222.24.230.4
+
+wscx.nwpu.edu.cn. 3600 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wscx.nwpu.edu.cn. 3599 IN A 222.24.230.5
+
+wszf.nwpu.edu.cn. 3600 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wszf.nwpu.edu.cn. 3599 IN A 222.24.230.9
+
+wurenji.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 3597 IN A 222.24.192.45
+
+wurenxitong.nwpu.edu.cn. 3600 IN CNAME 178b0e087fb0a24b.cname.365cyd.cn.
+178b0e087fb0a24b.cname.365cyd.cn. 199 IN A 1.31.128.212
+178b0e087fb0a24b.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+www.nwpu.edu.cn. 2793 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+www.nwpu.edu.cn. 2792 IN CNAME 7b93d9ba7386b419.cname.365cyd.cn.
+7b93d9ba7386b419.cname.365cyd.cn. 59 IN A 1.31.128.212
+
+wxucapp.nwpu.edu.cn. 3600 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxucapp.nwpu.edu.cn. 3599 IN A 222.24.192.26
+
+wxxcx.nwpu.edu.cn. 3600 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+wxxcx.nwpu.edu.cn. 3599 IN A 222.24.192.128
+
+xcms.nwpu.edu.cn. 1269 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xcms.nwpu.edu.cn. 1268 IN A 222.24.192.10
+
+xgb.nwpu.edu.cn. 3600 IN CNAME cbe62365dcf0a842.cname.365cyd.cn.
+cbe62365dcf0a842.cname.365cyd.cn. 199 IN A 118.212.233.160
+cbe62365dcf0a842.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+xgdjjc.nwpu.edu.cn. 3600 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xgdjjc.nwpu.edu.cn. 3599 IN A 222.24.192.25
+
+xkb.nwpu.edu.cn. 3600 IN CNAME b57ab0d826d0fd77.cname.365cyd.cn.
+b57ab0d826d0fd77.cname.365cyd.cn. 199 IN A 118.212.233.160
+b57ab0d826d0fd77.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+xswyh.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 3596 IN A 222.24.192.45
+
+xszy.nwpu.edu.cn. 3600 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xszy.nwpu.edu.cn. 3599 IN A 222.24.192.60
+
+xxgk.nwpu.edu.cn. 3600 IN CNAME da890f286f00e549.cname.365cyd.cn.
+da890f286f00e549.cname.365cyd.cn. 199 IN A 118.212.233.160
+da890f286f00e549.cname.365cyd.cn. 199 IN A 1.31.128.212
+
+xxzx.nwpu.edu.cn. 3600 IN CNAME 5acc774e078a5cfc.cname.365cyd.cn.
+5acc774e078a5cfc.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+xygg.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 3596 IN A 222.24.192.45
+
+xyh.nwpu.edu.cn. 3600 IN CNAME 5429c0dcc42991a5.cname.365cyd.cn.
+5429c0dcc42991a5.cname.365cyd.cn. 199 IN A 118.212.233.160
+5429c0dcc42991a5.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+xyhgzpt.nwpu.edu.cn. 3600 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xyhgzpt.nwpu.edu.cn. 3599 IN CNAME 7e3c81c97f5771d7.cname.365cyd.cn.
+7e3c81c97f5771d7.cname.365cyd.cn. 599 IN A 222.24.192.20
+
+xypt.nwpu.edu.cn. 3600 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+xypt.nwpu.edu.cn. 3599 IN CNAME 5dfc1cb9ea60241c.cname.365cyd.cn.
+5dfc1cb9ea60241c.cname.365cyd.cn. 599 IN A 222.24.192.43
+
+ybt.nwpu.edu.cn. 3600 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ybt.nwpu.edu.cn. 3599 IN A 222.24.192.211
+
+ydyx.nwpu.edu.cn. 3600 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+ydyx.nwpu.edu.cn. 3599 IN A 222.24.211.39
+
+yijian.nwpu.edu.cn. 3600 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yijian.nwpu.edu.cn. 3599 IN A 222.24.192.112
+
+yingxin.nwpu.edu.cn. 3600 IN CNAME 95a94b20adf1e18f.cname.365cyd.cn.
+95a94b20adf1e18f.cname.365cyd.cn. 599 IN A 222.24.192.45
+
+yiyuan.nwpu.edu.cn. 3600 IN CNAME e5679f5acc188698.cname.365cyd.cn.
+e5679f5acc188698.cname.365cyd.cn. 199 IN A 1.31.128.212
+e5679f5acc188698.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+yjsjy.nwpu.edu.cn. 3600 IN CNAME b26924dd70346d2f.cname.365cyd.cn.
+b26924dd70346d2f.cname.365cyd.cn. 599 IN A 222.24.192.142
+
+yjsjywx.nwpu.edu.cn. 3600 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+yjsjywx.nwpu.edu.cn. 3599 IN A 222.24.192.141
+
+ykt.nwpu.edu.cn. 3600 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+ykt.nwpu.edu.cn. 3599 IN A 222.24.201.132
+
+youer.nwpu.edu.cn. 3600 IN CNAME fac4d90fb00a3e7b.cname.365cyd.cn.
+fac4d90fb00a3e7b.cname.365cyd.cn. 299 IN A 1.31.128.212
+fac4d90fb00a3e7b.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+youth.nwpu.edu.cn. 3600 IN CNAME 391ec0d522f4607c.cname.365cyd.cn.
+391ec0d522f4607c.cname.365cyd.cn. 299 IN A 111.202.98.99
+391ec0d522f4607c.cname.365cyd.cn. 299 IN A 1.31.128.212
+
+ysjyzx.nwpu.edu.cn. 3600 IN CNAME 35894094a0a30d55.cname.365cyd.cn.
+35894094a0a30d55.cname.365cyd.cn. 199 IN A 118.212.233.160
+35894094a0a30d55.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+NXDOMAIN for yssb.nwpu.edu.cn
+
+yuyue.nwpu.edu.cn. 3600 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yuyue.nwpu.edu.cn. 3599 IN A 222.24.211.120
+
+yxtest.nwpu.edu.cn. 3600 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yxtest.nwpu.edu.cn. 3599 IN A 222.24.211.31
+
+yzb.nwpu.edu.cn. 483 IN CNAME 503768e35560cb47.cname.365cyd.cn.
+503768e35560cb47.cname.365cyd.cn. 199 IN A 118.212.233.160
+503768e35560cb47.cname.365cyd.cn. 199 IN A 111.202.98.99
+
+z.nwpu.edu.cn. 3600 IN CNAME web.nwpu.edu.cn.
+web.nwpu.edu.cn. 247 IN A 222.24.192.45
+
+zbwx.nwpu.edu.cn. 3600 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zbwx.nwpu.edu.cn. 3599 IN CNAME 44c103c8763c6861.cname.365cyd.cn.
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 1.31.128.212
+44c103c8763c6861.cname.365cyd.cn. 199 IN A 118.212.233.160
+
+zcgs.nwpu.edu.cn. 3600 IN A 222.24.192.45
+
+zcxtapp.nwpu.edu.cn. 3600 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtapp.nwpu.edu.cn. 3599 IN A 222.24.192.16
+
+zcxtgys.nwpu.edu.cn. 3600 IN CNAME a9026c0774006b8e.cname.365cyd.cn.
+a9026c0774006b8e.cname.365cyd.cn. 599 IN A 222.24.192.16
+
+zczx.nwpu.edu.cn. 3600 IN CNAME 507d7277a90b3ea1.cname.365cyd.cn.
+507d7277a90b3ea1.cname.365cyd.cn. 299 IN A 1.31.128.212
+507d7277a90b3ea1.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+zczxwd.nwpu.edu.cn. 3600 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zczxwd.nwpu.edu.cn. 3599 IN A 222.24.192.206
+
+zdhxy.nwpu.edu.cn. 3600 IN CNAME c005f18cd0b63a06.cname.365cyd.cn.
+c005f18cd0b63a06.cname.365cyd.cn. 299 IN A 1.31.128.212
+c005f18cd0b63a06.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+zhaopin.nwpu.edu.cn. 3600 IN CNAME 0cfa5450e0652536.cname.365cyd.cn.
+0cfa5450e0652536.cname.365cyd.cn. 599 IN A 222.24.192.147
+
+zhufang.nwpu.edu.cn. 3600 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+zhufang.nwpu.edu.cn. 3599 IN A 222.24.192.108
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+NXDOMAIN for zichan.nwpu.edu.cn
+
+zizhu.nwpu.edu.cn. 3600 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zizhu.nwpu.edu.cn. 3599 IN A 202.117.80.133
+
+zsb.nwpu.edu.cn. 3600 IN CNAME b2e04587802ed6af.cname.365cyd.cn.
+b2e04587802ed6af.cname.365cyd.cn. 299 IN A 1.31.128.212
+b2e04587802ed6af.cname.365cyd.cn. 299 IN A 111.202.98.99
+
+zuzhibu.nwpu.edu.cn. 3600 IN CNAME d1d3769634d91257.cname.365cyd.cn.
+d1d3769634d91257.cname.365cyd.cn. 199 IN A 1.31.128.212
+d1d3769634d91257.cname.365cyd.cn. 199 IN A 118.212.233.160
+

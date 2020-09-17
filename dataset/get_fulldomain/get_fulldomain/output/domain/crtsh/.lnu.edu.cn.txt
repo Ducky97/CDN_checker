@@ -1,0 +1,3 @@
+*.lnu.edu.cn
+app.lnu.edu.cn
+jjhwjz.lnu.edu.cn
