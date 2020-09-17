@@ -1,0 +1,82 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:04:11 GMT",
+            "Server": "Apache",
+            "Cache-Control": "private",
+            "Expires": "Thu, 01 Jan 1970 08:00:00 CST",
+            "Set-Cookie": "JSESSIONID=50BE5A524DA4DED6FDA5988ACC7EAAB2.jaccount105; Path=/jaccount/; Secure; HttpOnly, JACCOUNT=jaccount.jaccount105; path=/",
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en-US",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "mail.sjtu.edu.cn": [
+                "202.112.26.54"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "ping": {
+            "mail.sjtu.edu.cn": [
+                "202.112.26.54"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "CNAME": {
+            "mail.sjtu.edu.cn": [
+                "mail.ecslb.sjtu.edu.cn."
+            ]
+        },
+        "A": {
+            "mail.sjtu.edu.cn": [
+                "202.112.26.54"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:04:12 GMT",
+            "Server": "Apache",
+            "Cache-Control": "private",
+            "Expires": "Thu, 01 Jan 1970 08:00:00 CST",
+            "Set-Cookie": "JSESSIONID=E8B55C7C9E4A1A4030E2C50A8036206C.jaccount105; Path=/jaccount/; Secure; HttpOnly, JACCOUNT=jaccount.jaccount105; path=/",
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en-US",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "mail.sjtu.edu.cn": [
+                "202.112.26.54"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "ping": {
+            "mail.sjtu.edu.cn": [
+                "202.112.26.54"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "CNAME": {
+            "mail.sjtu.edu.cn": [
+                "mail.ecslb.sjtu.edu.cn."
+            ]
+        },
+        "A": {
+            "mail.sjtu.edu.cn": [
+                "202.112.26.54"
+            ]
+        }
+    }
+}

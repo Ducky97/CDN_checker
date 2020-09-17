@@ -1,0 +1,33 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:37:42 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "X-AspNet-Version": "2.0.50727",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "mmm.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "mmm.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "mmm.sjtu.edu.cn": null
+        },
+        "A": {
+            "mmm.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

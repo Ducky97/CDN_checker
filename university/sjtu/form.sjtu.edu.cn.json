@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en",
+            "ntCoent-Length": "713",
+            "Date": "Thu, 17 Sep 2020 05:31:25 GMT",
+            "Keep-Alive": "timeout=20",
+            "Connection": "keep-alive",
+            "X-Forwarded-Proto": "HTTPS",
+            "Set-Cookie": "form2018.sjtu=ffffffff097f625445525d5f4f58455e445a4a4229a0;path=/;secure",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Content-Length": "435"
+        },
+        "nslookup": {
+            "form.sjtu.edu.cn": [
+                "202.120.35.163"
+            ]
+        },
+        "ping": {
+            "form.sjtu.edu.cn": [
+                "202.120.35.163"
+            ]
+        },
+        "CNAME": {
+            "form.sjtu.edu.cn": null
+        },
+        "A": {
+            "form.sjtu.edu.cn": [
+                "202.120.35.163"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en",
+            "ntCoent-Length": "713",
+            "Date": "Thu, 17 Sep 2020 05:31:27 GMT",
+            "Keep-Alive": "timeout=20",
+            "Connection": "keep-alive",
+            "X-Forwarded-Proto": "HTTPS",
+            "Set-Cookie": "form2018.sjtu=ffffffff097f625445525d5f4f58455e445a4a4229a0;path=/;secure",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Content-Length": "435"
+        },
+        "nslookup": {
+            "form.sjtu.edu.cn": [
+                "202.120.35.163"
+            ]
+        },
+        "ping": {
+            "form.sjtu.edu.cn": [
+                "202.120.35.163"
+            ]
+        },
+        "CNAME": {
+            "form.sjtu.edu.cn": null
+        },
+        "A": {
+            "form.sjtu.edu.cn": [
+                "202.120.35.163"
+            ]
+        }
+    }
+}

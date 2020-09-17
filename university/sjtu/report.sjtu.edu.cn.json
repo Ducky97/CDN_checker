@@ -1,0 +1,34 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:46:31 GMT",
+            "Server": "Apache/2.4.29 (Ubuntu)",
+            "Last-Modified": "Sun, 31 Mar 2019 11:23:59 GMT",
+            "ETag": "\"0-5856223f07ad3\"",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "0",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "report.sjtu.edu.cn": [
+                "111.186.56.17"
+            ]
+        },
+        "ping": {
+            "report.sjtu.edu.cn": [
+                "111.186.56.17"
+            ]
+        },
+        "CNAME": {
+            "report.sjtu.edu.cn": null
+        },
+        "A": {
+            "report.sjtu.edu.cn": [
+                "111.186.56.17"
+            ]
+        }
+    },
+    "https": null
+}

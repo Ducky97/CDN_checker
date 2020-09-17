@@ -1,0 +1,61 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Sat, 16 Dec 2017 08:09:34 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"75557b354576d31:0\"",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/7.5",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:04:49 GMT",
+            "Content-Length": "594"
+        },
+        "nslookup": {
+            "kfvpn.sjtu.edu.cn": [
+                "202.120.35.252"
+            ]
+        },
+        "ping": {
+            "kfvpn.sjtu.edu.cn": [
+                "202.120.35.252"
+            ]
+        },
+        "CNAME": {
+            "kfvpn.sjtu.edu.cn": null
+        },
+        "A": {
+            "kfvpn.sjtu.edu.cn": [
+                "202.120.35.252"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=us-ascii",
+            "Server": "Microsoft-HTTPAPI/2.0",
+            "Date": "Thu, 17 Sep 2020 05:04:52 GMT",
+            "Connection": "close",
+            "Content-Length": "315"
+        },
+        "nslookup": {
+            "kfvpn.sjtu.edu.cn": [
+                "202.120.35.252"
+            ]
+        },
+        "ping": {
+            "kfvpn.sjtu.edu.cn": [
+                "202.120.35.252"
+            ]
+        },
+        "CNAME": {
+            "kfvpn.sjtu.edu.cn": null
+        },
+        "A": {
+            "kfvpn.sjtu.edu.cn": [
+                "202.120.35.252"
+            ]
+        }
+    }
+}

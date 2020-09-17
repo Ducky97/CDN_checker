@@ -1,0 +1,33 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:10:41 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Wed, 22 Jul 2020 00:09:25 GMT",
+            "ETag": "W/\"f37045cbc5fd61:0\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "itla.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "itla.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "itla.sjtu.edu.cn": null
+        },
+        "A": {
+            "itla.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

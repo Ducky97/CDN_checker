@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:45:17 GMT",
+            "Server": "Server                ",
+            "Last-Modified": "Sat, 12 Sep 2020 02:10:03 GMT",
+            "ETag": "\"3e7-5af144c9b34c0-gzip\"",
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "663",
+            "Keep-Alive": "timeout=5, max=99",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "nimo.sjtu.edu.cn": [
+                "202.120.35.193"
+            ]
+        },
+        "ping": {
+            "nimo.sjtu.edu.cn": [
+                "202.120.35.193"
+            ]
+        },
+        "CNAME": {
+            "nimo.sjtu.edu.cn": null
+        },
+        "A": {
+            "nimo.sjtu.edu.cn": [
+                "202.120.35.193"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:45:18 GMT",
+            "Server": "Server                ",
+            "Last-Modified": "Sat, 12 Sep 2020 02:10:03 GMT",
+            "ETag": "\"3e7-5af144c9b34c0-gzip\"",
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "663",
+            "Keep-Alive": "timeout=5, max=99",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "nimo.sjtu.edu.cn": [
+                "202.120.35.193"
+            ]
+        },
+        "ping": {
+            "nimo.sjtu.edu.cn": [
+                "202.120.35.193"
+            ]
+        },
+        "CNAME": {
+            "nimo.sjtu.edu.cn": null
+        },
+        "A": {
+            "nimo.sjtu.edu.cn": [
+                "202.120.35.193"
+            ]
+        }
+    }
+}

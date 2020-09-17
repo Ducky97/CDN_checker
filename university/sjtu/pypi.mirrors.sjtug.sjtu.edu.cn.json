@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "516",
+            "Content-Type": "text/html; charset=utf-8",
+            "Etag": "\"p5gy9xec\"",
+            "Last-Modified": "Mon, 12 Mar 2018 08:29:57 GMT",
+            "Server": "Caddy",
+            "Date": "Thu, 17 Sep 2020 05:04:55 GMT"
+        },
+        "nslookup": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "ping": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "CNAME": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": null
+        },
+        "A": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Content-Length": "516",
+            "Content-Type": "text/html; charset=utf-8",
+            "Etag": "\"p5gy9xec\"",
+            "Last-Modified": "Mon, 12 Mar 2018 08:29:57 GMT",
+            "Server": "Caddy",
+            "Date": "Thu, 17 Sep 2020 05:04:57 GMT"
+        },
+        "nslookup": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "ping": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "CNAME": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": null
+        },
+        "A": {
+            "pypi.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        }
+    }
+}

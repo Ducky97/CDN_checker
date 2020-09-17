@@ -1,0 +1,58 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Last-Modified": "Mon, 10 Nov 2014 00:25:32 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"9fabefd67cfccf1:0\"",
+            "Server": "Microsoft-IIS/8.5",
+            "Date": "Thu, 17 Sep 2020 05:46:40 GMT",
+            "Content-Length": "701"
+        },
+        "nslookup": {
+            "vpn.dev.sjtu.edu.cn": [
+                "202.120.63.227"
+            ]
+        },
+        "ping": {
+            "vpn.dev.sjtu.edu.cn": [
+                "202.120.63.227"
+            ]
+        },
+        "CNAME": {
+            "vpn.dev.sjtu.edu.cn": null
+        },
+        "A": {
+            "vpn.dev.sjtu.edu.cn": [
+                "202.120.63.227"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=us-ascii",
+            "Server": "Microsoft-HTTPAPI/2.0",
+            "Date": "Thu, 17 Sep 2020 05:46:43 GMT",
+            "Connection": "close",
+            "Content-Length": "315"
+        },
+        "nslookup": {
+            "vpn.dev.sjtu.edu.cn": [
+                "202.120.63.227"
+            ]
+        },
+        "ping": {
+            "vpn.dev.sjtu.edu.cn": [
+                "202.120.63.227"
+            ]
+        },
+        "CNAME": {
+            "vpn.dev.sjtu.edu.cn": null
+        },
+        "A": {
+            "vpn.dev.sjtu.edu.cn": [
+                "202.120.63.227"
+            ]
+        }
+    }
+}

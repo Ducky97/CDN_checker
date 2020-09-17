@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Server": "YxlinkWAF        ",
+            "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Language": "zh-CN",
+            "Transfer-Encoding": "chunked",
+            "Date": "Thu, 17 Sep 2020 04:50:44 GMT"
+        },
+        "nslookup": {
+            "radius1.saif.sjtu.edu.cn": [
+                "202.120.17.25"
+            ]
+        },
+        "ping": {
+            "radius1.saif.sjtu.edu.cn": [
+                "202.120.17.25"
+            ]
+        },
+        "CNAME": {
+            "radius1.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "radius1.saif.sjtu.edu.cn": [
+                "202.120.17.25"
+            ]
+        }
+    },
+    "https": null
+}

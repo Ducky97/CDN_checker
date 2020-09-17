@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Server": "Server            ",
+            "X-AspNet-Version": "2.0.50727",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:49:46 GMT",
+            "Content-Length": "3874",
+            "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "nslookup": {
+            "sklcm.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        },
+        "ping": {
+            "sklcm.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        },
+        "CNAME": {
+            "sklcm.sjtu.edu.cn": null
+        },
+        "A": {
+            "sklcm.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Server": "Server            ",
+            "X-AspNet-Version": "2.0.50727",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:49:47 GMT",
+            "Content-Length": "3874",
+            "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "nslookup": {
+            "sklcm.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        },
+        "ping": {
+            "sklcm.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        },
+        "CNAME": {
+            "sklcm.sjtu.edu.cn": null
+        },
+        "A": {
+            "sklcm.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        }
+    }
+}

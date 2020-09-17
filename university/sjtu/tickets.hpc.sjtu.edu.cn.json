@@ -1,0 +1,88 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.16.1",
+            "Date": "Thu, 17 Sep 2020 05:17:46 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Download-Options": "noopen",
+            "X-Permitted-Cross-Domain-Policies": "none",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "CSRF-TOKEN": "GJJEl/aMeim46nGc5r7SGaPoWEIA0R0tVgda4nGcDr68mfGRexMF4hYRVQrcoLgepGoGTJIJTzF2/QzEudtCjg==",
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "ETag": "W/\"6d2337f614d74f5cf03d1e8957b1e155\"",
+            "Content-Security-Policy": "base-uri 'self' http://tickets.hpc.sjtu.edu.cn; default-src 'self' ws: wss: https://log.zammad.com https://images.zammad.com; font-src 'self' data:; img-src * data:; object-src 'none'; script-src 'self' 'unsafe-eval' 'unsafe-inline' 'strict-dynamic' 'nonce-kC9O2qBKizXsXZW1fXGUVQ=='; style-src 'self' 'unsafe-inline'; frame-src www.youtube.com player.vimeo.com",
+            "Set-Cookie": "_zammad_session_a138cfd0f37=15557bd2b8b3d374b6e26ee1aa0a91af; path=/; HttpOnly",
+            "X-Request-Id": "448a2957-ee8d-4ec2-9bd3-cc7002029205",
+            "X-Runtime": "0.014310",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "tickets.hpc.sjtu.edu.cn": [
+                "111.186.57.45"
+            ]
+        },
+        "ping": {
+            "tickets.hpc.sjtu.edu.cn": [
+                "111.186.57.45"
+            ]
+        },
+        "CNAME": {
+            "tickets.hpc.sjtu.edu.cn": null
+        },
+        "A": {
+            "tickets.hpc.sjtu.edu.cn": [
+                "111.186.57.45"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.16.1",
+            "Date": "Thu, 17 Sep 2020 05:17:47 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Download-Options": "noopen",
+            "X-Permitted-Cross-Domain-Policies": "none",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "CSRF-TOKEN": "VVUHbLyxOLRIHSq9bLYE2YdDWRv8iQBn0Cua8xiPXwWKvs+c4J1IVWGsv0VwpZr/tLNZ+QkpI5JxIuE2unk4bw==",
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "ETag": "W/\"adec8242921b0cd810c82b104d738c4a\"",
+            "Content-Security-Policy": "base-uri 'self' http://tickets.hpc.sjtu.edu.cn; default-src 'self' ws: wss: https://log.zammad.com https://images.zammad.com; font-src 'self' data:; img-src * data:; object-src 'none'; script-src 'self' 'unsafe-eval' 'unsafe-inline' 'strict-dynamic' 'nonce-C26qbmIGcxFqGNP5Eb5Fjw=='; style-src 'self' 'unsafe-inline'; frame-src www.youtube.com player.vimeo.com",
+            "Set-Cookie": "_zammad_session_a138cfd0f37=05591fcf6d9b51be4c714d373eb8a63f; path=/; HttpOnly",
+            "X-Request-Id": "a59163b8-9ebb-4643-98e7-5c1c936f125b",
+            "X-Runtime": "0.019214",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "tickets.hpc.sjtu.edu.cn": [
+                "111.186.57.45"
+            ]
+        },
+        "ping": {
+            "tickets.hpc.sjtu.edu.cn": [
+                "111.186.57.45"
+            ]
+        },
+        "CNAME": {
+            "tickets.hpc.sjtu.edu.cn": null
+        },
+        "A": {
+            "tickets.hpc.sjtu.edu.cn": [
+                "111.186.57.45"
+            ]
+        }
+    }
+}

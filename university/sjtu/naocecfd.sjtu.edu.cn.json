@@ -1,0 +1,30 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=us-ascii",
+            "Server": "Microsoft-HTTPAPI/2.0",
+            "Date": "Thu, 17 Sep 2020 05:16:49 GMT",
+            "Connection": "close",
+            "Content-Length": "315"
+        },
+        "nslookup": {
+            "naocecfd.sjtu.edu.cn": [
+                "202.120.44.206"
+            ]
+        },
+        "ping": {
+            "naocecfd.sjtu.edu.cn": [
+                "202.120.44.206"
+            ]
+        },
+        "CNAME": {
+            "naocecfd.sjtu.edu.cn": null
+        },
+        "A": {
+            "naocecfd.sjtu.edu.cn": [
+                "202.120.44.206"
+            ]
+        }
+    },
+    "https": null
+}

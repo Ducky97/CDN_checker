@@ -1,0 +1,62 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:08:17 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "whatismyip.sjtu.edu.cn": [
+                "202.120.2.48"
+            ]
+        },
+        "ping": {
+            "whatismyip.sjtu.edu.cn": [
+                "202.120.2.48"
+            ]
+        },
+        "CNAME": {
+            "whatismyip.sjtu.edu.cn": null
+        },
+        "A": {
+            "whatismyip.sjtu.edu.cn": [
+                "202.120.2.48"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:08:18 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "whatismyip.sjtu.edu.cn": [
+                "202.120.2.48"
+            ]
+        },
+        "ping": {
+            "whatismyip.sjtu.edu.cn": [
+                "202.120.2.48"
+            ]
+        },
+        "CNAME": {
+            "whatismyip.sjtu.edu.cn": null
+        },
+        "A": {
+            "whatismyip.sjtu.edu.cn": [
+                "202.120.2.48"
+            ]
+        }
+    }
+}

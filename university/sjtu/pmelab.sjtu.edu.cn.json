@@ -1,0 +1,33 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:04:04 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "Set-Cookie": "ASPSESSIONIDCSABBSCD=LDFPCHBBAOEONEEHGBIOKHLH; path=/",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "pmelab.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "pmelab.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "pmelab.sjtu.edu.cn": null
+        },
+        "A": {
+            "pmelab.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:37:44 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "DENY",
+            "Vary": "Cookie",
+            "x-content-type-options": "nosniff",
+            "x-xss-protection": "1; mode=block",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "src.sjtu.edu.cn": [
+                "202.112.26.2"
+            ]
+        },
+        "ping": {
+            "src.sjtu.edu.cn": [
+                "202.112.26.2"
+            ]
+        },
+        "CNAME": {
+            "src.sjtu.edu.cn": null
+        },
+        "A": {
+            "src.sjtu.edu.cn": [
+                "202.112.26.2"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:37:45 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "DENY",
+            "Vary": "Cookie",
+            "x-content-type-options": "nosniff",
+            "x-xss-protection": "1; mode=block",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "src.sjtu.edu.cn": [
+                "202.112.26.2"
+            ]
+        },
+        "ping": {
+            "src.sjtu.edu.cn": [
+                "202.112.26.2"
+            ]
+        },
+        "CNAME": {
+            "src.sjtu.edu.cn": null
+        },
+        "A": {
+            "src.sjtu.edu.cn": [
+                "202.112.26.2"
+            ]
+        }
+    }
+}

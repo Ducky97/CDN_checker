@@ -1,0 +1,33 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=gb2312",
+            "Server": "Microsoft-IIS/10.0",
+            "Set-Cookie": "ASP.NET_SessionId=kqvvjaqmr0x12azcqkbv54qs; path=/; HttpOnly",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:10:50 GMT",
+            "Content-Length": "31069"
+        },
+        "nslookup": {
+            "seerc.sjtu.edu.cn": [
+                "202.120.56.180"
+            ]
+        },
+        "ping": {
+            "seerc.sjtu.edu.cn": [
+                "202.120.56.180"
+            ]
+        },
+        "CNAME": {
+            "seerc.sjtu.edu.cn": null
+        },
+        "A": {
+            "seerc.sjtu.edu.cn": [
+                "202.120.56.180"
+            ]
+        }
+    },
+    "https": null
+}

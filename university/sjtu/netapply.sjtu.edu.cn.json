@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:04:02 GMT",
+            "Server": "Server                                                              ",
+            "Strict-Transport-Security": "max-age=63072000; ",
+            "X-Powered-By": "PHP/5.6.40",
+            "Cache-Control": "no-cache",
+            "Set-Cookie": "laravel_session=eyJpdiI6IkZrdFwvQVFhbWkzZ1JxNXg2ZW1hMWF3PT0iLCJ2YWx1ZSI6IkluZUZyeTVyamRINHFpeEpkd0dxWEhSaFlySWdvSHZxSjhseCtKdlJ1MXA2OWF0XC8xODFFa1wvY0tpSGh4Mlwvd2NMaUQycE41dk1QUzA0aFk2ME0xYm5nPT0iLCJtYWMiOiIwMGY4YzdiNjExYmNkMjJhOGYwZmM0Y2VmZTZmMWNiYTUzMDNmYjIyM2M2N2UxN2NlZTYyNzE5NjRkOWY0MjM4In0%3D; expires=Thu, 17-Sep-2020 07:04:02 GMT; Max-Age=7200; path=/; httponly",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "netapply.sjtu.edu.cn": [
+                "202.120.35.191"
+            ]
+        },
+        "ping": {
+            "netapply.sjtu.edu.cn": [
+                "202.120.35.191"
+            ]
+        },
+        "CNAME": {
+            "netapply.sjtu.edu.cn": null
+        },
+        "A": {
+            "netapply.sjtu.edu.cn": [
+                "202.120.35.191"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:04:03 GMT",
+            "Server": "Server                                                              ",
+            "Strict-Transport-Security": "max-age=63072000; ",
+            "X-Powered-By": "PHP/5.6.40",
+            "Cache-Control": "no-cache",
+            "Set-Cookie": "laravel_session=eyJpdiI6InkxVUp0ZGhTRXYraU5XY1prcXZ4c0E9PSIsInZhbHVlIjoiYkFVWjNxcU9xVjVPMXRtQXhnZXJuQUN0enhySkN1OTMzUktadFZOSUN4N3hobUIxaEhHcUxKK1wvY1FuamVhRXdSYzFUdjVCOU5PNnRBdzZhWnJWSllRPT0iLCJtYWMiOiI3ZTQ3NjAzMDQ4YmQwMThhMzA2MDRjMzZmODFjMWNmN2VjODFmM2QxY2RiYmJkZDJmN2QxNDIyMzgwNGIwZTY0In0%3D; expires=Thu, 17-Sep-2020 07:04:03 GMT; Max-Age=7200; path=/; httponly",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "netapply.sjtu.edu.cn": [
+                "202.120.35.191"
+            ]
+        },
+        "ping": {
+            "netapply.sjtu.edu.cn": [
+                "202.120.35.191"
+            ]
+        },
+        "CNAME": {
+            "netapply.sjtu.edu.cn": null
+        },
+        "A": {
+            "netapply.sjtu.edu.cn": [
+                "202.120.35.191"
+            ]
+        }
+    }
+}

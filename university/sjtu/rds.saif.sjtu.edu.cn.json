@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=us-ascii",
+            "Server": "YxlinkWAF            ",
+            "Date": "Thu, 17 Sep 2020 05:09:34 GMT",
+            "Connection": "close",
+            "Content-Length": "315"
+        },
+        "nslookup": {
+            "rds.saif.sjtu.edu.cn": [
+                "116.246.13.46"
+            ]
+        },
+        "ping": {
+            "rds.saif.sjtu.edu.cn": [
+                "116.246.13.46"
+            ]
+        },
+        "CNAME": {
+            "rds.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "rds.saif.sjtu.edu.cn": [
+                "116.246.13.46"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Content-Type": "text/xml; charset=utf-8",
+            "Expires": "-1",
+            "Server": "Microsoft-IIS/8.5",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:09:36 GMT",
+            "Content-Length": "13161"
+        },
+        "nslookup": {
+            "rds.saif.sjtu.edu.cn": [
+                "116.246.13.46"
+            ]
+        },
+        "ping": {
+            "rds.saif.sjtu.edu.cn": [
+                "116.246.13.46"
+            ]
+        },
+        "CNAME": {
+            "rds.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "rds.saif.sjtu.edu.cn": [
+                "116.246.13.46"
+            ]
+        }
+    }
+}

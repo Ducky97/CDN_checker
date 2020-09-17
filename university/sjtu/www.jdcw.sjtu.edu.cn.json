@@ -1,0 +1,76 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:38:21 GMT",
+            "Server": "VWebServer",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Last-Modified": "Wed, 02 Sep 2020 01:32:28 GMT",
+            "Accept-Ranges": "bytes",
+            "Cache-Control": "max-age=600",
+            "Expires": "Thu, 17 Sep 2020 04:48:21 GMT",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "ETag": "\"a793-5ae4a9bcfc711-gzip\"",
+            "Content-Length": "8387",
+            "Keep-Alive": "timeout=5, max=93",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html",
+            "Content-Language": "zh-CN"
+        },
+        "nslookup": {
+            "www.jdcw.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "ping": {
+            "www.jdcw.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "CNAME": {
+            "www.jdcw.sjtu.edu.cn": null
+        },
+        "A": {
+            "www.jdcw.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:38:22 GMT",
+            "Server": "VWebServer",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Last-Modified": "Wed, 02 Sep 2020 01:32:46 GMT",
+            "Accept-Ranges": "bytes",
+            "Cache-Control": "max-age=600",
+            "Expires": "Thu, 17 Sep 2020 04:48:22 GMT",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "ETag": "\"a793-5ae4a9cdce5f2-gzip\"",
+            "Content-Length": "8387",
+            "Keep-Alive": "timeout=5, max=90",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html",
+            "Content-Language": "zh-CN"
+        },
+        "nslookup": {
+            "www.jdcw.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "ping": {
+            "www.jdcw.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "CNAME": {
+            "www.jdcw.sjtu.edu.cn": null
+        },
+        "A": {
+            "www.jdcw.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        }
+    }
+}

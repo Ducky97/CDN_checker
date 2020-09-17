@@ -1,0 +1,61 @@
+{
+    "http": {
+        "header": {
+            "Server": "none",
+            "Date": "Thu, 17 Sep 2020 04:37:30 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "1758",
+            "Connection": "keep-alive",
+            "Last-Modified": "Fri, 23 Nov 2018 06:55:46 GMT",
+            "ETag": "\"6de-57b4f78ff013c\"",
+            "Accept-Ranges": "bytes"
+        },
+        "nslookup": {
+            "ligosvn.riit.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "ping": {
+            "ligosvn.riit.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "CNAME": {
+            "ligosvn.riit.tsinghua.edu.cn": null
+        },
+        "A": {
+            "ligosvn.riit.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "none",
+            "Date": "Thu, 17 Sep 2020 04:37:31 GMT",
+            "Content-Type": "text/html; charset=iso-8859-1",
+            "Content-Length": "381",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "SAMEORIGIN",
+            "WWW-Authenticate": "Basic realm=\"VisualSVN Server\""
+        },
+        "nslookup": {
+            "ligosvn.riit.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "ping": {
+            "ligosvn.riit.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "CNAME": {
+            "ligosvn.riit.tsinghua.edu.cn": null
+        },
+        "A": {
+            "ligosvn.riit.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        }
+    }
+}

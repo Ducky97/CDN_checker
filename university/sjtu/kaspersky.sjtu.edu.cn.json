@@ -1,0 +1,62 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Last-Modified": "Fri, 20 Mar 2020 08:17:48 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"53498a90fed51:0\"",
+            "Server": "Microsoft-IIS/10.0",
+            "Date": "Thu, 17 Sep 2020 05:03:21 GMT",
+            "Content-Length": "2896"
+        },
+        "nslookup": {
+            "kaspersky.sjtu.edu.cn": [
+                "111.186.58.25"
+            ]
+        },
+        "ping": {
+            "kaspersky.sjtu.edu.cn": [
+                "111.186.58.25"
+            ]
+        },
+        "CNAME": {
+            "kaspersky.sjtu.edu.cn": null
+        },
+        "A": {
+            "kaspersky.sjtu.edu.cn": [
+                "111.186.58.25"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Fri, 20 Mar 2020 08:17:48 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"05e5ea90fed51:0\"",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/10.0",
+            "Date": "Thu, 17 Sep 2020 05:03:22 GMT",
+            "Content-Length": "1360"
+        },
+        "nslookup": {
+            "kaspersky.sjtu.edu.cn": [
+                "111.186.58.25"
+            ]
+        },
+        "ping": {
+            "kaspersky.sjtu.edu.cn": [
+                "111.186.58.25"
+            ]
+        },
+        "CNAME": {
+            "kaspersky.sjtu.edu.cn": null
+        },
+        "A": {
+            "kaspersky.sjtu.edu.cn": [
+                "111.186.58.25"
+            ]
+        }
+    }
+}

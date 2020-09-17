@@ -1,0 +1,32 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Last-Modified": "Fri, 12 Apr 2019 03:56:32 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"76427db7e3f0d41:0\"",
+            "Server": "Microsoft-IIS/8.5",
+            "Date": "Thu, 17 Sep 2020 05:28:06 GMT",
+            "Content-Length": "24360"
+        },
+        "nslookup": {
+            "jdgs.sjtu.edu.cn": [
+                "202.120.6.208"
+            ]
+        },
+        "ping": {
+            "jdgs.sjtu.edu.cn": [
+                "202.120.6.208"
+            ]
+        },
+        "CNAME": {
+            "jdgs.sjtu.edu.cn": null
+        },
+        "A": {
+            "jdgs.sjtu.edu.cn": [
+                "202.120.6.208"
+            ]
+        }
+    },
+    "https": null
+}

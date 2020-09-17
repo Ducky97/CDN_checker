@@ -1,0 +1,65 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:33:16 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Tue, 23 Jun 2020 12:11:55 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5ef1f18b-b43\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "head01.physics.sjtu.edu.cn": [
+                "202.120.13.17"
+            ]
+        },
+        "ping": {
+            "head01.physics.sjtu.edu.cn": [
+                "202.120.13.17"
+            ]
+        },
+        "CNAME": {
+            "head01.physics.sjtu.edu.cn": null
+        },
+        "A": {
+            "head01.physics.sjtu.edu.cn": [
+                "202.120.13.17"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:33:18 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Tue, 23 Jun 2020 12:11:55 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5ef1f18b-b43\"",
+            "Strict-Transport-Security": "max-age=300",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "head01.physics.sjtu.edu.cn": [
+                "202.120.13.17"
+            ]
+        },
+        "ping": {
+            "head01.physics.sjtu.edu.cn": [
+                "202.120.13.17"
+            ]
+        },
+        "CNAME": {
+            "head01.physics.sjtu.edu.cn": null
+        },
+        "A": {
+            "head01.physics.sjtu.edu.cn": [
+                "202.120.13.17"
+            ]
+        }
+    }
+}

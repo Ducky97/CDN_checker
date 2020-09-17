@@ -1,0 +1,58 @@
+{
+    "http": {
+        "header": {
+            "Server": "none",
+            "Date": "Thu, 17 Sep 2020 04:35:56 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "662",
+            "Connection": "keep-alive",
+            "ETag": "\"5d4264e3-296\""
+        },
+        "nslookup": {
+            "cnmm.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "ping": {
+            "cnmm.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "CNAME": {
+            "cnmm.tsinghua.edu.cn": null
+        },
+        "A": {
+            "cnmm.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "none",
+            "Date": "Thu, 17 Sep 2020 04:35:57 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "662",
+            "Connection": "keep-alive",
+            "ETag": "\"5d4264e3-296\""
+        },
+        "nslookup": {
+            "cnmm.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "ping": {
+            "cnmm.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        },
+        "CNAME": {
+            "cnmm.tsinghua.edu.cn": null
+        },
+        "A": {
+            "cnmm.tsinghua.edu.cn": [
+                "101.6.6.219"
+            ]
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "http": {
+        "header": {
+            "Access-Control-Allow-Methods": "GET",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Max-Age": "3000",
+            "Content-Type": "application/xml",
+            "Date": "Thu, 17 Sep 2020 04:56:45 GMT",
+            "Server": "Caddy, AmazonS3",
+            "Vary": "Origin",
+            "Via": "1.1 f1f23e31a920ab1b12fcfa84d5ce673e.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Id": "JeOpuUmSWGNU7LPtWBRi2hGYNW9mZM4HrjCZnTifXNbyfZsegbZoew==",
+            "X-Amz-Cf-Pop": "LAX3-C3",
+            "X-Cache": "Error from cloudfront",
+            "Content-Length": "243"
+        },
+        "nslookup": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "ping": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "CNAME": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": null
+        },
+        "A": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Access-Control-Allow-Methods": "GET",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Max-Age": "3000",
+            "Content-Type": "application/xml",
+            "Date": "Thu, 17 Sep 2020 04:56:47 GMT",
+            "Server": "Caddy, AmazonS3",
+            "Vary": "Origin",
+            "Via": "1.1 f1f23e31a920ab1b12fcfa84d5ce673e.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Id": "sYWLDga1IoJyZt3kWVZtQk4a-QMWiJvrTdCOg4uTBXk7mx_LAskYsA==",
+            "X-Amz-Cf-Pop": "LAX3-C3",
+            "X-Cache": "Error from cloudfront",
+            "Content-Length": "243"
+        },
+        "nslookup": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "ping": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "CNAME": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": null
+        },
+        "A": {
+            "static-crates.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        }
+    }
+}

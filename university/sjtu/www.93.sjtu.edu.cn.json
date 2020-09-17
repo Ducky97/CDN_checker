@@ -1,0 +1,33 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:09:33 GMT",
+            "Content-Type": "text/html; Charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "Set-Cookie": "ASPSESSIONIDSSDATCRD=BLAEHHMAAKNFMPJECEEDGNLL; path=/",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "www.93.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "www.93.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "www.93.sjtu.edu.cn": null
+        },
+        "A": {
+            "www.93.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,124 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Thu, 17 Sep 2020 05:03:23 GMT",
+            "Set-Cookie": "acw_tc=a3b5249d16003190034354967e4df991ee492af5be172b89563ad281aa;path=/;HttpOnly;Max-Age=1800, PHPSESSID=79e51jndis84f8iga6pcl12i07; path=/",
+            "X-Powered-By": "PHP/5.4.16",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Via": "cache2.l2cn1850[128,0], cache9.sg6[222,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b5249d16003190034354967e"
+        },
+        "nslookup": {
+            "phd.saif.sjtu.edu.cn": [
+                "163.181.37.229",
+                "163.181.36.230",
+                "163.181.36.225",
+                "163.181.36.227",
+                "163.181.36.224",
+                "163.181.36.229",
+                "163.181.36.231",
+                "163.181.36.226",
+                "163.181.36.228",
+                "163.181.37.226",
+                "163.181.37.230",
+                "163.181.37.225",
+                "163.181.37.224",
+                "163.181.37.228",
+                "163.181.37.227",
+                "163.181.37.223"
+            ]
+        },
+        "ping": {
+            "phd.saif.sjtu.edu.cn": [
+                "163.181.36.226",
+                "163.181.36.227",
+                "163.181.36.229"
+            ]
+        },
+        "CNAME": {
+            "phd.saif.sjtu.edu.cn": [
+                "phd.saif.sjtu.edu.cn.w.cdngslb.com."
+            ]
+        },
+        "A": {
+            "phd.saif.sjtu.edu.cn": [
+                "163.181.36.229",
+                "163.181.36.224",
+                "163.181.36.225",
+                "163.181.36.227",
+                "163.181.36.231",
+                "163.181.36.228",
+                "163.181.36.226",
+                "163.181.36.230"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Thu, 17 Sep 2020 05:03:23 GMT",
+            "Set-Cookie": "acw_tc=a3b524a416003190037977111e604c8bba7490ff29869980f28a39b2d5;path=/;HttpOnly;Max-Age=1800, PHPSESSID=r49cibfbr2eipjundqd32kmo81; path=/",
+            "X-Powered-By": "PHP/5.4.16",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Via": "cache15.l2et2[86,0], cache16.sg6[155,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b524a416003190037977111e"
+        },
+        "nslookup": {
+            "phd.saif.sjtu.edu.cn": [
+                "163.181.36.230",
+                "163.181.37.229",
+                "163.181.37.225",
+                "163.181.37.223",
+                "163.181.37.230",
+                "163.181.37.228",
+                "163.181.37.224",
+                "163.181.37.226",
+                "163.181.37.227",
+                "163.181.36.225",
+                "163.181.36.226",
+                "163.181.36.228",
+                "163.181.36.231",
+                "163.181.36.227",
+                "163.181.36.229",
+                "163.181.36.224"
+            ]
+        },
+        "ping": {
+            "phd.saif.sjtu.edu.cn": [
+                "163.181.36.226",
+                "163.181.36.227",
+                "163.181.36.229"
+            ]
+        },
+        "CNAME": {
+            "phd.saif.sjtu.edu.cn": [
+                "phd.saif.sjtu.edu.cn.w.cdngslb.com."
+            ]
+        },
+        "A": {
+            "phd.saif.sjtu.edu.cn": [
+                "163.181.36.229",
+                "163.181.36.224",
+                "163.181.36.225",
+                "163.181.36.227",
+                "163.181.36.231",
+                "163.181.36.228",
+                "163.181.36.226",
+                "163.181.36.230"
+            ]
+        }
+    }
+}

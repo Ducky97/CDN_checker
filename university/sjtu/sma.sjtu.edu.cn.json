@@ -1,0 +1,33 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:17:44 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Thu, 28 May 2020 00:51:19 GMT",
+            "ETag": "W/\"d198cd198a34d61:0\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "sma.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "sma.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "sma.sjtu.edu.cn": null
+        },
+        "A": {
+            "sma.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,36 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:57:19 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private, must-revalidate, max-age=0",
+            "Content-Language": "en",
+            "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+            "Last-Modified": "Tue, 21 Jul 2020 03:00:19 GMT",
+            "Vary": "Accept-Encoding, Cookie",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "rii.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "rii.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "rii.sjtu.edu.cn": null
+        },
+        "A": {
+            "rii.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

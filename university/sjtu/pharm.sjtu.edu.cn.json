@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:19:37 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Set-Cookie": "PHPSESSID=98sbnirl9tkujkrag2cp1ccvt1; path=/",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "pharm.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "pharm.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "pharm.sjtu.edu.cn": null
+        },
+        "A": {
+            "pharm.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

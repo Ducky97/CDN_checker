@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.16.1",
+            "Date": "Thu, 17 Sep 2020 05:11:53 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "PHPSESSID=cf0rqqa6m9r8flsfhq9jlqt0f7; path=/",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Pragma": "no-cache",
+            "Cache-control": "private",
+            "X-Powered-By": "ThinkPHP"
+        },
+        "nslookup": {
+            "ourhome.sjtu.edu.cn": [
+                "111.186.57.103"
+            ]
+        },
+        "ping": {
+            "ourhome.sjtu.edu.cn": [
+                "111.186.57.103"
+            ]
+        },
+        "CNAME": {
+            "ourhome.sjtu.edu.cn": null
+        },
+        "A": {
+            "ourhome.sjtu.edu.cn": [
+                "111.186.57.103"
+            ]
+        }
+    },
+    "https": null
+}

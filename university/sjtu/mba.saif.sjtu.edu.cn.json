@@ -1,0 +1,62 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.10.2",
+            "Date": "Thu, 17 Sep 2020 04:26:24 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Content-Language": "zh-CN",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding"
+        },
+        "nslookup": {
+            "mba.saif.sjtu.edu.cn": [
+                "106.14.157.211"
+            ]
+        },
+        "ping": {
+            "mba.saif.sjtu.edu.cn": [
+                "106.14.157.211"
+            ]
+        },
+        "CNAME": {
+            "mba.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "mba.saif.sjtu.edu.cn": [
+                "106.14.157.211"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.10.2",
+            "Date": "Thu, 17 Sep 2020 04:26:28 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Content-Language": "zh-CN",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding"
+        },
+        "nslookup": {
+            "mba.saif.sjtu.edu.cn": [
+                "106.14.157.211"
+            ]
+        },
+        "ping": {
+            "mba.saif.sjtu.edu.cn": [
+                "106.14.157.211"
+            ]
+        },
+        "CNAME": {
+            "mba.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "mba.saif.sjtu.edu.cn": [
+                "106.14.157.211"
+            ]
+        }
+    }
+}

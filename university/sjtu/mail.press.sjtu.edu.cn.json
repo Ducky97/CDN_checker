@@ -1,0 +1,74 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:29:43 GMT",
+            "Content-Type": "text/html;charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Expires": "-1",
+            "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+            "Pragma": "no-cache",
+            "Content-Language": "en-US",
+            "Set-Cookie": "ZM_TEST=true;Secure, ZM_LOGIN_CSRF=79bee99f-ff4e-4c22-b2fd-d67ddfc4ac3b;Secure;HttpOnly",
+            "Vary": "User-Agent, Accept-Encoding",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "mail.press.sjtu.edu.cn": [
+                "202.120.2.16"
+            ]
+        },
+        "ping": {
+            "mail.press.sjtu.edu.cn": [
+                "202.120.2.16"
+            ]
+        },
+        "CNAME": {
+            "mail.press.sjtu.edu.cn": null
+        },
+        "A": {
+            "mail.press.sjtu.edu.cn": [
+                "202.120.2.16"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:29:45 GMT",
+            "Content-Type": "text/html;charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Expires": "-1",
+            "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+            "Pragma": "no-cache",
+            "Content-Language": "en-US",
+            "Set-Cookie": "ZM_TEST=true;Secure, ZM_LOGIN_CSRF=292ea082-e889-4373-ab15-3f7450d4ed3c;Secure;HttpOnly",
+            "Vary": "User-Agent, Accept-Encoding",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "mail.press.sjtu.edu.cn": [
+                "202.120.2.16"
+            ]
+        },
+        "ping": {
+            "mail.press.sjtu.edu.cn": [
+                "202.120.2.16"
+            ]
+        },
+        "CNAME": {
+            "mail.press.sjtu.edu.cn": null
+        },
+        "A": {
+            "mail.press.sjtu.edu.cn": [
+                "202.120.2.16"
+            ]
+        }
+    }
+}

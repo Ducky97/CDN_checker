@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:30:21 GMT",
+            "Server": "Apache/2.2.15 (CentOS)",
+            "X-Powered-By": "PHP/5.6.40",
+            "Set-Cookie": "ci_session=e142779ac5bf8b8b3158a0af5640b1c223d51c9f; expires=Thu, 17-Sep-2020 06:30:21 GMT; Max-Age=7200; path=/; HttpOnly",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Connection": "close",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+        },
+        "nslookup": {
+            "ma.sjtu.edu.cn": [
+                "111.186.56.128"
+            ]
+        },
+        "ping": {
+            "ma.sjtu.edu.cn": [
+                "111.186.56.128"
+            ]
+        },
+        "CNAME": {
+            "ma.sjtu.edu.cn": null
+        },
+        "A": {
+            "ma.sjtu.edu.cn": [
+                "111.186.56.128"
+            ]
+        }
+    },
+    "https": null
+}

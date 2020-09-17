@@ -1,0 +1,62 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.14.0 (Ubuntu)",
+            "Date": "Thu, 17 Sep 2020 05:31:23 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Wed, 12 Dec 2018 09:44:45 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "ETag": "W/\"5c10d88d-20f\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "rank.ipv6.sjtu.edu.cn": [
+                "202.120.7.205"
+            ]
+        },
+        "ping": {
+            "rank.ipv6.sjtu.edu.cn": [
+                "202.120.7.205"
+            ]
+        },
+        "CNAME": {
+            "rank.ipv6.sjtu.edu.cn": null
+        },
+        "A": {
+            "rank.ipv6.sjtu.edu.cn": [
+                "202.120.7.205"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.14.0 (Ubuntu)",
+            "Date": "Thu, 17 Sep 2020 05:31:24 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Wed, 12 Dec 2018 09:44:45 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "ETag": "W/\"5c10d88d-20f\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "rank.ipv6.sjtu.edu.cn": [
+                "202.120.7.205"
+            ]
+        },
+        "ping": {
+            "rank.ipv6.sjtu.edu.cn": [
+                "202.120.7.205"
+            ]
+        },
+        "CNAME": {
+            "rank.ipv6.sjtu.edu.cn": null
+        },
+        "A": {
+            "rank.ipv6.sjtu.edu.cn": [
+                "202.120.7.205"
+            ]
+        }
+    }
+}

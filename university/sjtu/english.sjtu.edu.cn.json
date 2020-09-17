@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/7.5",
+            "Set-Cookie": "ASP.NET_SessionId=wsl10iym245z1c4502zryabl; path=/; HttpOnly",
+            "X-AspNet-Version": "2.0.50727",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:03:32 GMT",
+            "Content-Length": "4873"
+        },
+        "nslookup": {
+            "english.sjtu.edu.cn": [
+                "202.120.61.78"
+            ]
+        },
+        "ping": {
+            "english.sjtu.edu.cn": [
+                "202.120.61.78"
+            ]
+        },
+        "CNAME": {
+            "english.sjtu.edu.cn": null
+        },
+        "A": {
+            "english.sjtu.edu.cn": [
+                "202.120.61.78"
+            ]
+        }
+    },
+    "https": null
+}
