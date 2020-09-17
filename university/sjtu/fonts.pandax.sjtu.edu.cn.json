@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:39:24 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "570",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "202.120.13.20"
+            ]
+        },
+        "ping": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "202.120.13.20"
+            ]
+        },
+        "CNAME": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "pandax.sjtu.edu.cn."
+            ]
+        },
+        "A": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "202.120.13.20"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:39:25 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "570",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "202.120.13.20"
+            ]
+        },
+        "ping": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "202.120.13.20"
+            ]
+        },
+        "CNAME": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "pandax.sjtu.edu.cn."
+            ]
+        },
+        "A": {
+            "fonts.pandax.sjtu.edu.cn": [
+                "202.120.13.20"
+            ]
+        }
+    }
+}

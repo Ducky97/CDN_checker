@@ -1,0 +1,47 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:46:53 GMT",
+            "Server": "VWebServer",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Last-Modified": "Tue, 15 Sep 2020 03:08:22 GMT",
+            "Accept-Ranges": "bytes",
+            "Cache-Control": "max-age=600",
+            "Expires": "Thu, 17 Sep 2020 05:56:53 GMT",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "ETag": "\"365e-5af5176be819e-gzip\"",
+            "Content-Length": "4166",
+            "Keep-Alive": "timeout=5, max=70",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html",
+            "Content-Language": "zh-CN",
+            "Content-Security-Policy": "upgrade-insecure-requests"
+        },
+        "nslookup": {
+            "ipv6.sjtu.edu.cn": [
+                "202.120.2.47"
+            ],
+            "net.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "ping": {
+            "ipv6.sjtu.edu.cn": [
+                "202.120.2.47"
+            ],
+            "net.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "CNAME": {
+            "ipv6.sjtu.edu.cn": null
+        },
+        "A": {
+            "ipv6.sjtu.edu.cn": [
+                "202.120.2.47"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:33:11 GMT",
+            "Server": "Apache",
+            "Content-Language": "zh-cn",
+            "Expires": "Thu, 17 Sep 2020 05:33:11 GMT",
+            "Vary": "Cookie,Accept-Language",
+            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "csrftoken=WFj1dTHwtSJ3GhxHc7dV8sLcHONpY5Y5RC3meP9EXgR8wvNQNJ1HqJJvptGQAqno; expires=Fri, 18-Sep-2020 05:33:12 GMT; Max-Age=86400; Path=/; secure",
+            "Content-Length": "18790",
+            "Content-Type": "text/html; charset=utf-8"
+        },
+        "nslookup": {
+            "devops.jcloud.sjtu.edu.cn": [
+                "202.120.58.18"
+            ]
+        },
+        "ping": {
+            "devops.jcloud.sjtu.edu.cn": [
+                "202.120.58.18"
+            ]
+        },
+        "CNAME": {
+            "devops.jcloud.sjtu.edu.cn": null
+        },
+        "A": {
+            "devops.jcloud.sjtu.edu.cn": [
+                "202.120.58.18"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:33:13 GMT",
+            "Server": "Apache",
+            "Content-Language": "zh-cn",
+            "Expires": "Thu, 17 Sep 2020 05:33:13 GMT",
+            "Vary": "Cookie,Accept-Language",
+            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "csrftoken=eRknYtEOQL1ixeiiSHGWH1pdDvz8xsJOj2tzo1oShAtKiPVPE0fzew0RWxswDYI1; expires=Fri, 18-Sep-2020 05:33:13 GMT; Max-Age=86400; Path=/; secure",
+            "Content-Length": "18790",
+            "Content-Type": "text/html; charset=utf-8"
+        },
+        "nslookup": {
+            "devops.jcloud.sjtu.edu.cn": [
+                "202.120.58.18"
+            ]
+        },
+        "ping": {
+            "devops.jcloud.sjtu.edu.cn": [
+                "202.120.58.18"
+            ]
+        },
+        "CNAME": {
+            "devops.jcloud.sjtu.edu.cn": null
+        },
+        "A": {
+            "devops.jcloud.sjtu.edu.cn": [
+                "202.120.58.18"
+            ]
+        }
+    }
+}

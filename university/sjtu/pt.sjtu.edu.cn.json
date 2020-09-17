@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:39:27 GMT",
+            "Content-Type": "text/html; charset=utf-8; Cache-control:private",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Strict-Transport-Security": "max-age=15638400",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "pt.sjtu.edu.cn": [
+                "202.120.2.198"
+            ]
+        },
+        "ping": {
+            "pt.sjtu.edu.cn": [
+                "202.120.2.198"
+            ]
+        },
+        "CNAME": {
+            "pt.sjtu.edu.cn": null
+        },
+        "A": {
+            "pt.sjtu.edu.cn": [
+                "202.120.2.198"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:39:29 GMT",
+            "Content-Type": "text/html; charset=utf-8; Cache-control:private",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Strict-Transport-Security": "max-age=15638400",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "pt.sjtu.edu.cn": [
+                "202.120.2.198"
+            ]
+        },
+        "ping": {
+            "pt.sjtu.edu.cn": [
+                "202.120.2.198"
+            ]
+        },
+        "CNAME": {
+            "pt.sjtu.edu.cn": null
+        },
+        "A": {
+            "pt.sjtu.edu.cn": [
+                "202.120.2.198"
+            ]
+        }
+    }
+}

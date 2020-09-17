@@ -1,0 +1,62 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.19.2",
+            "Date": "Thu, 17 Sep 2020 05:55:14 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ftp.sjtu.edu.cn": [
+                "202.38.97.230"
+            ]
+        },
+        "ping": {
+            "ftp.sjtu.edu.cn": [
+                "202.38.97.230"
+            ]
+        },
+        "CNAME": {
+            "ftp.sjtu.edu.cn": [
+                "ftp.ecslb.sjtu.edu.cn."
+            ]
+        },
+        "A": {
+            "ftp.sjtu.edu.cn": [
+                "202.38.97.230"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:55:15 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ftp.sjtu.edu.cn": [
+                "202.38.97.230"
+            ]
+        },
+        "ping": {
+            "ftp.sjtu.edu.cn": [
+                "202.38.97.230"
+            ]
+        },
+        "CNAME": {
+            "ftp.sjtu.edu.cn": [
+                "ftp.ecslb.sjtu.edu.cn."
+            ]
+        },
+        "A": {
+            "ftp.sjtu.edu.cn": [
+                "202.38.97.230"
+            ]
+        }
+    }
+}

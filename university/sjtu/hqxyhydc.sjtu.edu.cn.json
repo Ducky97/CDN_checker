@@ -1,0 +1,30 @@
+{
+    "http": null,
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:45:32 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "548",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "hqxyhydc.sjtu.edu.cn": [
+                "111.186.57.110"
+            ]
+        },
+        "ping": {
+            "hqxyhydc.sjtu.edu.cn": [
+                "111.186.57.110"
+            ]
+        },
+        "CNAME": {
+            "hqxyhydc.sjtu.edu.cn": null
+        },
+        "A": {
+            "hqxyhydc.sjtu.edu.cn": [
+                "111.186.57.110"
+            ]
+        }
+    }
+}

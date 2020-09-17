@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Tue, 13 Dec 2011 06:16:25 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"80c2d7bd5eb9cc1:0\"",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/7.0",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:10:59 GMT",
+            "Content-Length": "511"
+        },
+        "nslookup": {
+            "ocw.sjtu.edu.cn": [
+                "202.120.1.4"
+            ]
+        },
+        "ping": {
+            "ocw.sjtu.edu.cn": [
+                "202.120.1.4"
+            ]
+        },
+        "CNAME": {
+            "ocw.sjtu.edu.cn": null
+        },
+        "A": {
+            "ocw.sjtu.edu.cn": [
+                "202.120.1.4"
+            ]
+        }
+    },
+    "https": null
+}

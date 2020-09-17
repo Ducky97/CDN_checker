@@ -1,0 +1,32 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:45:18 GMT",
+            "Server": "Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.26",
+            "X-Powered-By": "PHP/5.6.26",
+            "Content-Length": "1558",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html; charset=UTF-8"
+        },
+        "nslookup": {
+            "jin.sjtu.edu.cn": [
+                "202.120.48.243"
+            ]
+        },
+        "ping": {
+            "jin.sjtu.edu.cn": [
+                "202.120.48.243"
+            ]
+        },
+        "CNAME": {
+            "jin.sjtu.edu.cn": null
+        },
+        "A": {
+            "jin.sjtu.edu.cn": [
+                "202.120.48.243"
+            ]
+        }
+    },
+    "https": null
+}

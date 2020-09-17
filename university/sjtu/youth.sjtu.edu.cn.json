@@ -1,0 +1,31 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:23:11 GMT",
+            "Content-Type": "text/html; charset=gb2312",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "youth.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "youth.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "youth.sjtu.edu.cn": null
+        },
+        "A": {
+            "youth.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

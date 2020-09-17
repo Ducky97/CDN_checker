@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "X-Powered-By": "Servlet/3.0 JSP/2.2 (Apache Tomcat/7.0.94 Java/Oracle Corporation/1.8.0_201-b09)",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Set-Cookie": "JSESSIONID=B5EA66A7E6D55806876E3D00C5D26B2E; Path=/; HttpOnly",
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "zh-CN",
+            "Content-Length": "204",
+            "Date": "Thu, 17 Sep 2020 05:18:45 GMT",
+            "Server": "ZFSOFT.Inc"
+        },
+        "nslookup": {
+            "kbcx.sjtu.edu.cn": [
+                "111.186.58.74"
+            ]
+        },
+        "ping": {
+            "kbcx.sjtu.edu.cn": [
+                "111.186.58.74"
+            ]
+        },
+        "CNAME": {
+            "kbcx.sjtu.edu.cn": null
+        },
+        "A": {
+            "kbcx.sjtu.edu.cn": [
+                "111.186.58.74"
+            ]
+        }
+    },
+    "https": null
+}

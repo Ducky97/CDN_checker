@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Thu, 21 Mar 2013 08:37:11 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"3e67cc47f26ce1:0\"",
+            "Vary": "Accept-Encoding",
+            "Server": "YxlinkWAF        ",
+            "X-Powered-By": "ASP.NET",
+            "P3P": "CP=CAO PSA OUR",
+            "Date": "Thu, 17 Sep 2020 05:44:08 GMT",
+            "Content-Length": "547"
+        },
+        "nslookup": {
+            "portal.saif.sjtu.edu.cn": [
+                "116.246.13.36"
+            ]
+        },
+        "ping": {
+            "portal.saif.sjtu.edu.cn": [
+                "116.246.13.36"
+            ]
+        },
+        "CNAME": {
+            "portal.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "portal.saif.sjtu.edu.cn": [
+                "116.246.13.36"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Thu, 21 Mar 2013 08:37:11 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"3e67cc47f26ce1:0\"",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/7.5",
+            "X-Powered-By": "ASP.NET",
+            "P3P": "CP=CAO PSA OUR",
+            "Date": "Thu, 17 Sep 2020 05:44:11 GMT",
+            "Content-Length": "547"
+        },
+        "nslookup": {
+            "portal.saif.sjtu.edu.cn": [
+                "116.246.13.36"
+            ]
+        },
+        "ping": {
+            "portal.saif.sjtu.edu.cn": [
+                "116.246.13.36"
+            ]
+        },
+        "CNAME": {
+            "portal.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "portal.saif.sjtu.edu.cn": [
+                "116.246.13.36"
+            ]
+        }
+    }
+}

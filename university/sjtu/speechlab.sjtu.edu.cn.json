@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:46:21 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "X-Powered-By": "PHP/7.2.8",
+            "Set-Cookie": "grav-site-40d1b2d=f0fdd2c9786bb8640ed37f66eb40bec8; expires=Thu, 17-Sep-2020 06:16:21 GMT; Max-Age=1800; path=/; domain=speechlab.sjtu.edu.cn; HttpOnly, grav-site-40d1b2d=f0fdd2c9786bb8640ed37f66eb40bec8; expires=Thu, 17-Sep-2020 06:16:21 GMT; Max-Age=1800; path=/; domain=speechlab.sjtu.edu.cn; HttpOnly",
+            "Expires": "Thu, 24 Sep 2020 05:46:21 GMT",
+            "Cache-Control": "max-age=604800",
+            "Pragma": "no-cache",
+            "Content-Encoding": "none",
+            "Content-Length": "12096",
+            "Connection": "close",
+            "Content-Type": "text/html;charset=UTF-8"
+        },
+        "nslookup": {
+            "speechlab.sjtu.edu.cn": [
+                "202.120.38.10"
+            ]
+        },
+        "ping": {
+            "speechlab.sjtu.edu.cn": [
+                "202.120.38.10"
+            ]
+        },
+        "CNAME": {
+            "speechlab.sjtu.edu.cn": null
+        },
+        "A": {
+            "speechlab.sjtu.edu.cn": [
+                "202.120.38.10"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:46:23 GMT",
+            "Server": "Apache/2.4.25 (Debian)",
+            "X-Powered-By": "PHP/7.2.8",
+            "Set-Cookie": "grav-site-40d1b2d=56d0d330c400937f3e0792ff0a721558; expires=Thu, 17-Sep-2020 06:16:23 GMT; Max-Age=1800; path=/; domain=speechlab.sjtu.edu.cn; HttpOnly, grav-site-40d1b2d=56d0d330c400937f3e0792ff0a721558; expires=Thu, 17-Sep-2020 06:16:23 GMT; Max-Age=1800; path=/; domain=speechlab.sjtu.edu.cn; HttpOnly",
+            "Expires": "Thu, 24 Sep 2020 05:46:23 GMT",
+            "Cache-Control": "max-age=604800",
+            "Pragma": "no-cache",
+            "Content-Encoding": "none",
+            "Content-Length": "12096",
+            "Connection": "close",
+            "Content-Type": "text/html;charset=UTF-8"
+        },
+        "nslookup": {
+            "speechlab.sjtu.edu.cn": [
+                "202.120.38.10"
+            ]
+        },
+        "ping": {
+            "speechlab.sjtu.edu.cn": [
+                "202.120.38.10"
+            ]
+        },
+        "CNAME": {
+            "speechlab.sjtu.edu.cn": null
+        },
+        "A": {
+            "speechlab.sjtu.edu.cn": [
+                "202.120.38.10"
+            ]
+        }
+    }
+}

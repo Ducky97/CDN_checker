@@ -1,0 +1,32 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Length": "12724",
+            "Content-Type": "text/html",
+            "Server": "Microsoft-IIS/7.0",
+            "Set-Cookie": "ASPSESSIONIDCCDCCDCA=DHPBMCGBIPGKHFHMPBJOOIPO; path=/",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:41:56 GMT"
+        },
+        "nslookup": {
+            "phycai.sjtu.edu.cn": [
+                "111.186.40.251"
+            ]
+        },
+        "ping": {
+            "phycai.sjtu.edu.cn": [
+                "111.186.40.251"
+            ]
+        },
+        "CNAME": {
+            "phycai.sjtu.edu.cn": null
+        },
+        "A": {
+            "phycai.sjtu.edu.cn": [
+                "111.186.40.251"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,64 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.14.2",
+            "Date": "Thu, 17 Sep 2020 04:57:08 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "8567",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload"
+        },
+        "nslookup": {
+            "xqb.sce.sjtu.edu.cn": [
+                "202.120.29.61"
+            ]
+        },
+        "ping": {
+            "xqb.sce.sjtu.edu.cn": [
+                "202.120.29.61"
+            ]
+        },
+        "CNAME": {
+            "xqb.sce.sjtu.edu.cn": null
+        },
+        "A": {
+            "xqb.sce.sjtu.edu.cn": [
+                "202.120.29.61"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.14.2",
+            "Date": "Thu, 17 Sep 2020 04:57:10 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "8567",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload"
+        },
+        "nslookup": {
+            "xqb.sce.sjtu.edu.cn": [
+                "202.120.29.61"
+            ]
+        },
+        "ping": {
+            "xqb.sce.sjtu.edu.cn": [
+                "202.120.29.61"
+            ]
+        },
+        "CNAME": {
+            "xqb.sce.sjtu.edu.cn": null
+        },
+        "A": {
+            "xqb.sce.sjtu.edu.cn": [
+                "202.120.29.61"
+            ]
+        }
+    }
+}

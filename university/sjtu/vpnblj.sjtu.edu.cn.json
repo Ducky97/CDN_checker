@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Wed, 13 Dec 2017 01:55:11 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"5b445269b573d31:0\"",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/10.0",
+            "Date": "Thu, 17 Sep 2020 04:58:56 GMT",
+            "Content-Length": "609"
+        },
+        "nslookup": {
+            "vpnblj.sjtu.edu.cn": [
+                "202.120.63.236"
+            ]
+        },
+        "ping": {
+            "vpnblj.sjtu.edu.cn": [
+                "202.120.63.236"
+            ]
+        },
+        "CNAME": {
+            "vpnblj.sjtu.edu.cn": null
+        },
+        "A": {
+            "vpnblj.sjtu.edu.cn": [
+                "202.120.63.236"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=us-ascii",
+            "Server": "Microsoft-HTTPAPI/2.0",
+            "Date": "Thu, 17 Sep 2020 04:58:57 GMT",
+            "Connection": "close",
+            "Content-Length": "315"
+        },
+        "nslookup": {
+            "vpnblj.sjtu.edu.cn": [
+                "202.120.63.236"
+            ]
+        },
+        "ping": {
+            "vpnblj.sjtu.edu.cn": [
+                "202.120.63.236"
+            ]
+        },
+        "CNAME": {
+            "vpnblj.sjtu.edu.cn": null
+        },
+        "A": {
+            "vpnblj.sjtu.edu.cn": [
+                "202.120.63.236"
+            ]
+        }
+    }
+}

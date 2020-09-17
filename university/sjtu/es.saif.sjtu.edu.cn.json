@@ -1,0 +1,29 @@
+{
+    "http": {
+        "header": {
+            "Server": "YxlinkWAF        ",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "694",
+            "Date": "Thu, 17 Sep 2020 05:17:06 GMT"
+        },
+        "nslookup": {
+            "es.saif.sjtu.edu.cn": [
+                "202.120.17.13"
+            ]
+        },
+        "ping": {
+            "es.saif.sjtu.edu.cn": [
+                "202.120.17.13"
+            ]
+        },
+        "CNAME": {
+            "es.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "es.saif.sjtu.edu.cn": [
+                "202.120.17.13"
+            ]
+        }
+    },
+    "https": null
+}

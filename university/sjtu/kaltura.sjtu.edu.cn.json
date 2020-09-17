@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en",
+            "ntCoent-Length": "796",
+            "Date": "Thu, 17 Sep 2020 04:46:21 GMT",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Content-Length": "303"
+        },
+        "nslookup": {
+            "kaltura.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "ping": {
+            "kaltura.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "CNAME": {
+            "kaltura.sjtu.edu.cn": null
+        },
+        "A": {
+            "kaltura.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en",
+            "ntCoent-Length": "796",
+            "Date": "Thu, 17 Sep 2020 04:46:21 GMT",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Content-Length": "303"
+        },
+        "nslookup": {
+            "kaltura.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "ping": {
+            "kaltura.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "CNAME": {
+            "kaltura.sjtu.edu.cn": null
+        },
+        "A": {
+            "kaltura.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        }
+    }
+}

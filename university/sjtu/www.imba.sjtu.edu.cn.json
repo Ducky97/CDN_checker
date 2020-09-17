@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:47:37 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "6592",
+            "Connection": "keep-alive",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Thu, 17 Sep 2020 03:20:32 GMT",
+            "ETag": "\"080d80a18cd61:0\"",
+            "Vary": "Accept-Encoding",
+            "Accept-Ranges": "bytes"
+        },
+        "nslookup": {
+            "www.imba.sjtu.edu.cn": [
+                "202.120.63.151"
+            ]
+        },
+        "ping": {
+            "www.imba.sjtu.edu.cn": [
+                "202.120.63.151"
+            ]
+        },
+        "CNAME": {
+            "www.imba.sjtu.edu.cn": null
+        },
+        "A": {
+            "www.imba.sjtu.edu.cn": [
+                "202.120.63.151"
+            ]
+        }
+    },
+    "https": null
+}

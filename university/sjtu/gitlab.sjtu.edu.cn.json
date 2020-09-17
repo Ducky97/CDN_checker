@@ -1,0 +1,78 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:53:05 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Status": "200 OK",
+            "X-Frame-Options": "DENY",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-UA-Compatible": "IE=edge",
+            "Strict-Transport-Security": "max-age=31536000",
+            "ETag": "\"ef9c402f32756d62f2f80e97d45893ed\"",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Set-Cookie": "_gitlab_session=e3f178bd2a012f47ede1dbca6cee70dc; path=/; expires=Thu, 24 Sep 2020 04:53:05 -0000; secure; HttpOnly",
+            "X-Request-Id": "586f0b48-aa8f-4cb9-a62a-512c5f121608",
+            "X-Runtime": "0.094807"
+        },
+        "nslookup": {
+            "gitlab.sjtu.edu.cn": [
+                "202.120.1.142"
+            ]
+        },
+        "ping": {
+            "gitlab.sjtu.edu.cn": [
+                "202.120.1.142"
+            ]
+        },
+        "CNAME": {
+            "gitlab.sjtu.edu.cn": null
+        },
+        "A": {
+            "gitlab.sjtu.edu.cn": [
+                "202.120.1.142"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 04:53:06 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Status": "200 OK",
+            "X-Frame-Options": "DENY",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-UA-Compatible": "IE=edge",
+            "Strict-Transport-Security": "max-age=31536000",
+            "ETag": "\"365708a92f8b7b3c8f1eaacf3cf2949d\"",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Set-Cookie": "_gitlab_session=24e690ba09e319c6de8d79520ff3e939; path=/; expires=Thu, 24 Sep 2020 04:53:06 -0000; secure; HttpOnly",
+            "X-Request-Id": "69a0e555-7161-4970-81b3-710bd45ee97b",
+            "X-Runtime": "0.084663"
+        },
+        "nslookup": {
+            "gitlab.sjtu.edu.cn": [
+                "202.120.1.142"
+            ]
+        },
+        "ping": {
+            "gitlab.sjtu.edu.cn": [
+                "202.120.1.142"
+            ]
+        },
+        "CNAME": {
+            "gitlab.sjtu.edu.cn": null
+        },
+        "A": {
+            "gitlab.sjtu.edu.cn": [
+                "202.120.1.142"
+            ]
+        }
+    }
+}

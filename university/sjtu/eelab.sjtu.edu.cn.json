@@ -1,0 +1,70 @@
+{
+    "http": {
+        "header": {
+            "Connection": "Keep-Alive",
+            "Date": "Thu, 17 Sep 2020 04:37:55 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Server": "Server                ",
+            "Link": "<http://eelab.sjtu.edu.cn/index.php?rest_route=/>; rel=\"https://api.w.org/\", <http://eelab.sjtu.edu.cn/index.php?rest_route=/wp/v2/pages/184>; rel=\"alternate\"; type=\"application/json\", <http://eelab.sjtu.edu.cn/>; rel=shortlink",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Keep-Alive": "timeout=5, max=100",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "eelab.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "ping": {
+            "eelab.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "CNAME": {
+            "eelab.sjtu.edu.cn": null
+        },
+        "A": {
+            "eelab.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "Keep-Alive",
+            "Date": "Thu, 17 Sep 2020 04:37:56 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Server": "Server                ",
+            "Link": "<http://eelab.sjtu.edu.cn/index.php?rest_route=/>; rel=\"https://api.w.org/\", <http://eelab.sjtu.edu.cn/index.php?rest_route=/wp/v2/pages/184>; rel=\"alternate\"; type=\"application/json\", <http://eelab.sjtu.edu.cn/>; rel=shortlink",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Keep-Alive": "timeout=5, max=99",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "eelab.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "ping": {
+            "eelab.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "CNAME": {
+            "eelab.sjtu.edu.cn": null
+        },
+        "A": {
+            "eelab.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        }
+    }
+}

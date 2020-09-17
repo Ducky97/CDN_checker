@@ -1,0 +1,38 @@
+{
+    "http": null,
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Last-Modified": "Fri, 24 May 2019 07:37:46 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"5d426294312d51:0\"",
+            "Server": "Microsoft-IIS/10.0",
+            "Date": "Thu, 17 Sep 2020 05:38:58 GMT",
+            "Content-Length": "703"
+        },
+        "nslookup": {
+            "cu.vpn.sjtu.edu.cn": [
+                "58.247.200.249",
+                "58.247.200.250",
+                "58.247.200.248"
+            ]
+        },
+        "ping": {
+            "cu.vpn.sjtu.edu.cn": [
+                "58.247.200.249",
+                "58.247.200.248",
+                "58.247.200.250"
+            ]
+        },
+        "CNAME": {
+            "cu.vpn.sjtu.edu.cn": null
+        },
+        "A": {
+            "cu.vpn.sjtu.edu.cn": [
+                "58.247.200.249",
+                "58.247.200.248",
+                "58.247.200.250"
+            ]
+        }
+    }
+}

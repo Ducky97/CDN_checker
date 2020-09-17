@@ -1,0 +1,82 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.14.2",
+            "Date": "Thu, 17 Sep 2020 05:49:42 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Etag": "W/\"c9252a08ed55bd88c0815ac22793f9d0\"",
+            "Set-Cookie": "_gitlab_session=e1af9999d226d3632ea7b78bd57aeb1e; path=/; expires=Thu, 17 Sep 2020 07:49:42 -0000; secure; HttpOnly",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "DENY",
+            "X-Request-Id": "LWiwGFsqgd6",
+            "X-Runtime": "0.184702",
+            "X-Ua-Compatible": "IE=edge",
+            "X-Xss-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "gitlab.pandax.sjtu.edu.cn": [
+                "202.120.13.30"
+            ]
+        },
+        "ping": {
+            "gitlab.pandax.sjtu.edu.cn": [
+                "202.120.13.30"
+            ]
+        },
+        "CNAME": {
+            "gitlab.pandax.sjtu.edu.cn": null
+        },
+        "A": {
+            "gitlab.pandax.sjtu.edu.cn": [
+                "202.120.13.30"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.14.2",
+            "Date": "Thu, 17 Sep 2020 05:49:44 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Etag": "W/\"6fd9b2140c55a505a959fc83312fb5d7\"",
+            "Set-Cookie": "_gitlab_session=d96db6f9e7c74320630425464b0fb96f; path=/; expires=Thu, 17 Sep 2020 07:49:44 -0000; secure; HttpOnly",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "DENY",
+            "X-Request-Id": "sAP8RQ2sql7",
+            "X-Runtime": "0.045510",
+            "X-Ua-Compatible": "IE=edge",
+            "X-Xss-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "gitlab.pandax.sjtu.edu.cn": [
+                "202.120.13.30"
+            ]
+        },
+        "ping": {
+            "gitlab.pandax.sjtu.edu.cn": [
+                "202.120.13.30"
+            ]
+        },
+        "CNAME": {
+            "gitlab.pandax.sjtu.edu.cn": null
+        },
+        "A": {
+            "gitlab.pandax.sjtu.edu.cn": [
+                "202.120.13.30"
+            ]
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:39:36 GMT",
+            "Server": "Apache",
+            "Set-Cookie": "JSESSIONID=C15D52D2FB8BE5CC205E25C7308CEE19.jaccount105; Path=/; HttpOnly, JACCOUNT=jaccount.jaccount105; path=/",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "108",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive"
+        },
+        "nslookup": {
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "ping": {
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "CNAME": {
+            "jaccount.sjtu.edu.cn": null
+        },
+        "A": {
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 04:39:37 GMT",
+            "Server": "Apache",
+            "Set-Cookie": "JSESSIONID=103C59D89CD5AD1AF436C347E8DDDEE4.jaccount106; Path=/; Secure; HttpOnly, JACCOUNT=jaccount.jaccount106; path=/",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "108",
+            "Keep-Alive": "timeout=5, max=100",
+            "Connection": "Keep-Alive"
+        },
+        "nslookup": {
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "ping": {
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "CNAME": {
+            "jaccount.sjtu.edu.cn": null
+        },
+        "A": {
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        }
+    }
+}

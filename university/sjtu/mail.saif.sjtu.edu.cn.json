@@ -1,0 +1,65 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Last-Modified": "Mon, 03 Aug 2015 01:18:51 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"b2297e5b8acdd01:0\"",
+            "Server": "Microsoft-IIS/8.5",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:03:14 GMT",
+            "Content-Length": "701"
+        },
+        "nslookup": {
+            "mail.saif.sjtu.edu.cn": [
+                "116.246.13.35"
+            ]
+        },
+        "ping": {
+            "mail.saif.sjtu.edu.cn": [
+                "116.246.13.35"
+            ]
+        },
+        "CNAME": {
+            "mail.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "mail.saif.sjtu.edu.cn": [
+                "116.246.13.35"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "-1",
+            "Server": "Microsoft-IIS/8.5",
+            "request-id": "9dfc3883-b93e-4e39-a99f-922a40e4abc9",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:03:18 GMT",
+            "Content-Length": "27997"
+        },
+        "nslookup": {
+            "mail.saif.sjtu.edu.cn": [
+                "116.246.13.35"
+            ]
+        },
+        "ping": {
+            "mail.saif.sjtu.edu.cn": [
+                "116.246.13.35"
+            ]
+        },
+        "CNAME": {
+            "mail.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "mail.saif.sjtu.edu.cn": [
+                "116.246.13.35"
+            ]
+        }
+    }
+}

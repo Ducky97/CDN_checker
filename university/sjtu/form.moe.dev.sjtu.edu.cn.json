@@ -1,0 +1,32 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.14.1",
+            "Date": "Thu, 17 Sep 2020 05:46:50 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "vary": "accept-encoding",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "form.moe.dev.sjtu.edu.cn": [
+                "111.186.57.99"
+            ]
+        },
+        "ping": {
+            "form.moe.dev.sjtu.edu.cn": [
+                "111.186.57.99"
+            ]
+        },
+        "CNAME": {
+            "form.moe.dev.sjtu.edu.cn": null
+        },
+        "A": {
+            "form.moe.dev.sjtu.edu.cn": [
+                "111.186.57.99"
+            ]
+        }
+    },
+    "https": null
+}

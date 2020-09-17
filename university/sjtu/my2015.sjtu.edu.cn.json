@@ -1,0 +1,78 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:31:14 GMT",
+            "Server": "Apache",
+            "Cache-Control": "private",
+            "Expires": "Thu, 01 Jan 1970 08:00:00 CST",
+            "Set-Cookie": "JSESSIONID=FDE1DEA634EFBAF8262AAF50BD063F44.jaccount105; Path=/jaccount/; Secure; HttpOnly, JACCOUNT=jaccount.jaccount105; path=/",
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en-US",
+            "Keep-Alive": "timeout=5, max=99",
+            "Connection": "Keep-Alive",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "my2015.sjtu.edu.cn": [
+                "202.120.35.157"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "ping": {
+            "my2015.sjtu.edu.cn": [
+                "202.120.35.157"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "CNAME": {
+            "my2015.sjtu.edu.cn": null
+        },
+        "A": {
+            "my2015.sjtu.edu.cn": [
+                "202.120.35.157"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:31:18 GMT",
+            "Server": "Apache",
+            "Cache-Control": "private",
+            "Expires": "Thu, 01 Jan 1970 08:00:00 CST",
+            "Set-Cookie": "JSESSIONID=EB23B2D51E9FA5C095D36C37EA83FAD8.jaccount104; Path=/jaccount/; Secure; HttpOnly, JACCOUNT=jaccount.jaccount104; path=/",
+            "Content-Type": "text/html;charset=utf-8",
+            "Content-Language": "en-US",
+            "Keep-Alive": "timeout=5, max=99",
+            "Connection": "Keep-Alive",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "my2015.sjtu.edu.cn": [
+                "202.120.35.157"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "ping": {
+            "my2015.sjtu.edu.cn": [
+                "202.120.35.157"
+            ],
+            "jaccount.sjtu.edu.cn": [
+                "202.120.2.107"
+            ]
+        },
+        "CNAME": {
+            "my2015.sjtu.edu.cn": null
+        },
+        "A": {
+            "my2015.sjtu.edu.cn": [
+                "202.120.35.157"
+            ]
+        }
+    }
+}

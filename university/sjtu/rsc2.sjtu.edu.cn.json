@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Server           ",
+            "Set-Cookie": "ASP.NET_SessionId=n5tsv045vk0fag55ocf2fmyx; path=/; HttpOnly",
+            "X-AspNet-Version": "2.0.50727",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:25:23 GMT",
+            "Cteonnt-Length": "1952",
+            "Content-Encoding": "gzip",
+            "Content-Length": "690"
+        },
+        "nslookup": {
+            "rsc2.sjtu.edu.cn": [
+                "202.120.35.201"
+            ]
+        },
+        "ping": {
+            "rsc2.sjtu.edu.cn": [
+                "202.120.35.201"
+            ]
+        },
+        "CNAME": {
+            "rsc2.sjtu.edu.cn": null
+        },
+        "A": {
+            "rsc2.sjtu.edu.cn": [
+                "202.120.35.201"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Server           ",
+            "Set-Cookie": "ASP.NET_SessionId=vggnzvvz5gohrp55kudjo445; path=/; HttpOnly",
+            "X-AspNet-Version": "2.0.50727",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 05:25:24 GMT",
+            "Cteonnt-Length": "1952",
+            "Content-Encoding": "gzip",
+            "Content-Length": "690"
+        },
+        "nslookup": {
+            "rsc2.sjtu.edu.cn": [
+                "202.120.35.201"
+            ]
+        },
+        "ping": {
+            "rsc2.sjtu.edu.cn": [
+                "202.120.35.201"
+            ]
+        },
+        "CNAME": {
+            "rsc2.sjtu.edu.cn": null
+        },
+        "A": {
+            "rsc2.sjtu.edu.cn": [
+                "202.120.35.201"
+            ]
+        }
+    }
+}

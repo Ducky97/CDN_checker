@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 05:28:04 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "X-AspNetMvc-Version": "4.0",
+            "X-AspNet-Version": "4.0.30319",
+            "Set-Cookie": "__RequestVerificationToken=MN9s3txBrEh0aCV1UBf2UuEa629woonGNvVwQwETd4OVmPdiSfM35SfUuI2JyD8gADyRxZ5grAdQ9YmCI7DaynjV839ilf9LU_7iHHU9djDS1TR23n9iunHFV7lO4YHNcvtObMCg8i_F1dxDLNZJUg2; path=/; HttpOnly",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "towingtank.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "ping": {
+            "towingtank.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        },
+        "CNAME": {
+            "towingtank.sjtu.edu.cn": null
+        },
+        "A": {
+            "towingtank.sjtu.edu.cn": [
+                "202.120.63.153"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,32 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 05:39:05 GMT",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "54270",
+            "Content-Type": "text/html",
+            "Last-Modified": "Thu, 17 Sep 2020 01:27:26 GMT",
+            "X-Powered-By": "Servlet/2.5 JSP/2.1",
+            "Set-Cookie": "a10_vhost_port-20480-AT_Portal_webserv_8060=CAIEHIAKHMBP; Expires=Sun, 15-Sep-2030 05:39:04 GMT; Path=/"
+        },
+        "nslookup": {
+            "emba.sjtu.edu.cn": [
+                "202.120.35.140"
+            ]
+        },
+        "ping": {
+            "emba.sjtu.edu.cn": [
+                "202.120.35.140"
+            ]
+        },
+        "CNAME": {
+            "emba.sjtu.edu.cn": null
+        },
+        "A": {
+            "emba.sjtu.edu.cn": [
+                "202.120.35.140"
+            ]
+        }
+    },
+    "https": null
+}

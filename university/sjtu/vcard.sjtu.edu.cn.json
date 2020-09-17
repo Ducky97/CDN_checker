@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Server": "Server      ",
+            "Date": "Thu, 17 Sep 2020 05:03:28 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Sun, 23 Aug 2020 09:11:59 GMT",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5f4232df-928\"",
+            "Content-Encoding": "gzip",
+            "Set-Cookie": "vcard@sjtu=ffffffff097f1f6e45525d5f4f58455e445a4a423660;expires=Thu, 17-Sep-2020 05:05:28 GMT;path=/;secure"
+        },
+        "nslookup": {
+            "vcard.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "ping": {
+            "vcard.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "CNAME": {
+            "vcard.sjtu.edu.cn": null
+        },
+        "A": {
+            "vcard.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Server      ",
+            "Date": "Thu, 17 Sep 2020 05:03:29 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Sun, 23 Aug 2020 09:11:59 GMT",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5f4232df-928\"",
+            "Content-Encoding": "gzip",
+            "Set-Cookie": "vcard@sjtu=ffffffff097f1f5145525d5f4f58455e445a4a423660;expires=Thu, 17-Sep-2020 05:05:29 GMT;path=/;secure"
+        },
+        "nslookup": {
+            "vcard.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "ping": {
+            "vcard.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "CNAME": {
+            "vcard.sjtu.edu.cn": null
+        },
+        "A": {
+            "vcard.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        }
+    }
+}
