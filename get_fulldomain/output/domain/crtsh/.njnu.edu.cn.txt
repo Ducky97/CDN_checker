@@ -1,2 +1,0 @@
-*.njnu.edu.cn
-bb.njnu.edu.cn

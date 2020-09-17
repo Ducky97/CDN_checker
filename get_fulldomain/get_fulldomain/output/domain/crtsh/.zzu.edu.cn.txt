@@ -1,9 +1,0 @@
-*.V.ZZU.EDU.CN
-*.v.zzu.edu.cn
-file.lib.zzu.edu.cn
-mirrors.zzu.edu.cn
-paobu.zzu.edu.cn
-weixin.zzu.edu.cn
-www.file.lib.zzu.edu.cn
-www.zxh.zzu.edu.cn
-zxh.zzu.edu.cn

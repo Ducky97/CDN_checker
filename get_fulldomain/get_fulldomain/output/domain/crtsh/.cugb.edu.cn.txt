@@ -1,4 +1,0 @@
-*.cugb.edu.cn
-cwjfpt.cugb.edu.cn
-git.inc.cugb.edu.cn
-live.cugb.edu.cn

@@ -1,8 +1,0 @@
-*.hzau.edu.cn
-ddd.hzau.edu.cn
-moodle.hzau.edu.cn
-sso.hzau.edu.cn
-survey.hzau.edu.cn
-xg.hzau.edu.cn
-xyzj.hzau.edu.cn
-yinlab.hzau.edu.cn

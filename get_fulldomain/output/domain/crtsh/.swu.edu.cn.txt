@@ -1,8 +1,0 @@
-*.swu.edu.cn
-biodb.swu.edu.cn
-mail.swu.edu.cn
-mlda.swu.edu.cn
-morus.swu.edu.cn
-silkpathdb.swu.edu.cn
-sysbc.swu.edu.cn
-www.mail.swu.edu.cn

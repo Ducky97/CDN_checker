@@ -1,5 +1,0 @@
-*.fzu.edu.cn
-jjh.fzu.edu.cn
-m.fzu.edu.cn
-salon.fzu.edu.cn
-xyt.fzu.edu.cn

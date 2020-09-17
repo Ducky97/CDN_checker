@@ -1,7 +1,0 @@
-*.mta.nwsuaf.edu.cn
-*.nwsuaf.edu.cn
-mirrors.nwsuaf.edu.cn
-mta.nwsuaf.edu.cn
-vs.nwsuaf.edu.cn
-wxpromotion.nwsuaf.edu.cn
-xuegongzaixian.nwsuaf.edu.cn

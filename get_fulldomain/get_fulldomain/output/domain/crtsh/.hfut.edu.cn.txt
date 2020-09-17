@@ -1,8 +1,0 @@
-*.dekt.hfut.edu.cn
-*.webvpn.hfut.edu.cn
-c1.hfut.edu.cn
-c1sec.hfut.edu.cn
-dekt.hfut.edu.cn
-webvpn.hfut.edu.cn
-www.hfut.edu.cn
-xcsoft.hfut.edu.cn

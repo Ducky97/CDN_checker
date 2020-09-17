@@ -1,3 +1,0 @@
-*.cumtb.edu.cn
-*.vpn.cumtb.edu.cn
-vpn.cumtb.edu.cn

@@ -1,7 +1,0 @@
-*.hnu.edu.cn
-grjl.hnu.edu.cn
-hdzs.hnu.edu.cn
-pt.hnu.edu.cn
-run.hnu.edu.cn
-www.hnu.edu.cn
-www.run.hnu.edu.cn

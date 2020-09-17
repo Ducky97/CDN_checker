@@ -1,3 +1,0 @@
-*.hainu.edu.cn
-ca.hainu.edu.cn
-check.hainu.edu.cn

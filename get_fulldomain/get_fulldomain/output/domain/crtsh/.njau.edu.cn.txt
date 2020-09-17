@@ -1,8 +1,0 @@
-*.njau.edu.cn
-*.vpn2.njau.edu.cn
-authserver.njau.edu.cn
-infoweb.njau.edu.cn
-mba.njau.edu.cn
-news.njau.edu.cn
-vpn2.njau.edu.cn
-www.njau.edu.cn

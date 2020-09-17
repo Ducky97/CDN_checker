@@ -1,9 +1,0 @@
-*.hust.edu.cn
-biophy.hust.edu.cn
-byhh.hust.edu.cn
-dssl.hust.edu.cn
-ftp.lib.hust.edu.cn
-hudbt.hust.edu.cn
-mail.hust.edu.cn
-sau.hust.edu.cn
-www.hudbt.hust.edu.cn

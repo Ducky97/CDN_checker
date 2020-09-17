@@ -1,7 +1,0 @@
-*.nefu.edu.cn
-app.nefu.edu.cn
-autodiscover.nefu.edu.cn
-cwmsweb.nefu.edu.cn
-mail.nefu.edu.cn
-owa.nefu.edu.cn
-www.nefu.edu.cn

@@ -1,6 +1,0 @@
-*.cufe.edu.cn
-*.webvpn.cufe.edu.cn
-app.cufe.edu.cn
-bb.cufe.edu.cn
-webvpn.cufe.edu.cn
-weixin.cufe.edu.cn

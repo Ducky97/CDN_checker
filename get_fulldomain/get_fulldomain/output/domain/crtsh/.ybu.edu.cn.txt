@@ -1,5 +1,0 @@
-*.ybu.edu.cn
-jjh.ybu.edu.cn
-kpdb.ybu.edu.cn
-wechat.ybu.edu.cn
-www.wechat.ybu.edu.cn

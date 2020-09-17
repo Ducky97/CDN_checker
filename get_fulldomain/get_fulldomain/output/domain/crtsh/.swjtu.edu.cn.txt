@@ -1,7 +1,0 @@
-*.swjtu.edu.cn
-bslc.lib.swjtu.edu.cn
-mp.lib.swjtu.edu.cn
-room.swjtu.edu.cn
-vdi.citrix.lib.swjtu.edu.cn
-video.swjtu.edu.cn
-xinli.swjtu.edu.cn

@@ -1,6 +1,0 @@
-*.nwu.edu.cn
-app.nwu.edu.cn
-gis.nwu.edu.cn
-imgapp.nwu.edu.cn
-mail.nwu.edu.cn
-wx.nwu.edu.cn

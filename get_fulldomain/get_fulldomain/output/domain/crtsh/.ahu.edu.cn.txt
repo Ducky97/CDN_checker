@@ -1,7 +1,0 @@
-*.ahu.edu.cn
-aruba.ahu.edu.cn
-bigdata.ahu.edu.cn
-iots.ahu.edu.cn
-mail.stu.ahu.edu.cn
-vr.ahu.edu.cn
-wxy.ahu.edu.cn

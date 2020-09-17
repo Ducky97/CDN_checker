@@ -1,9 +1,0 @@
-*.jiangnan.edu.cn
-admission.jiangnan.edu.cn
-jnapp.jiangnan.edu.cn
-mail.jiangnan.edu.cn
-mail.stu.jiangnan.edu.cn
-mail.vip.jiangnan.edu.cn
-news.jiangnan.edu.cn
-www.jiangnan.edu.cn
-xqtx.jiangnan.edu.cn
