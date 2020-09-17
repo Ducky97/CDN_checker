@@ -1,0 +1,108 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, x-air-pt",
+            "X-AIR-PT": "null, null",
+            "Date": "Tue, 15 Sep 2020 16:40:21 GMT",
+            "ETag": "W/\"5f5e48b8-257f9\"",
+            "Cache-Control": "max-age=0, s-maxage=86400",
+            "Age": "59910",
+            "Ali-Swift-Global-Savetime": "1600188021",
+            "X-Cache": "HIT TCP_MEM_HIT dirn:13:242170379",
+            "X-Swift-SaveTime": "Tue, 15 Sep 2020 16:40:21 GMT",
+            "X-Swift-CacheTime": "86400",
+            "Via": "cache6.sg7[0,200-0,H], cache18.sg7[1,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b525a616002479310554618e",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "1688.com": [
+                "140.205.174.2",
+                "42.156.140.12"
+            ],
+            "www.1688.com": [
+                "47.246.1.234",
+                "47.246.1.233"
+            ]
+        },
+        "ping": {
+            "1688.com": [
+                "140.205.174.2",
+                "42.156.140.12"
+            ],
+            "www.1688.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        },
+        "CNAME": {
+            "www.1688.com": [
+                "www.1688.com.danuoyi.tbcache.com."
+            ]
+        },
+        "A": {
+            "www.1688.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, x-air-pt",
+            "X-AIR-PT": "null, null",
+            "Date": "Tue, 15 Sep 2020 16:40:21 GMT",
+            "ETag": "W/\"5f5e48b8-257f9\"",
+            "Cache-Control": "max-age=0, s-maxage=86400",
+            "Age": "59910",
+            "Ali-Swift-Global-Savetime": "1600188021",
+            "X-Cache": "HIT TCP_MEM_HIT dirn:13:242170379",
+            "X-Swift-SaveTime": "Tue, 15 Sep 2020 16:40:21 GMT",
+            "X-Swift-CacheTime": "86400",
+            "Via": "cache6.sg7[0,200-0,H], cache17.sg7[1,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b525a516002479316697725e",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "1688.com": [
+                "140.205.174.2",
+                "42.156.140.12"
+            ],
+            "www.1688.com": [
+                "47.246.1.233",
+                "47.246.1.234"
+            ]
+        },
+        "ping": {
+            "1688.com": [
+                "140.205.174.2",
+                "42.156.140.12"
+            ],
+            "www.1688.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        },
+        "CNAME": {
+            "www.1688.com": [
+                "www.1688.com.danuoyi.tbcache.com."
+            ]
+        },
+        "A": {
+            "www.1688.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        }
+    }
+}

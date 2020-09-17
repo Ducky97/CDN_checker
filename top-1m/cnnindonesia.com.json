@@ -1,0 +1,72 @@
+{
+    "http": {
+        "header": {
+            "Access-Control-Allow-Origin": "*",
+            "Cache": "HIT",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Date": "Wed, 16 Sep 2020 11:35:22 GMT",
+            "S": "cnn1",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "cnnindonesia.com": [
+                "170.33.12.157"
+            ],
+            "www.cnnindonesia.com": [
+                "170.33.12.157"
+            ]
+        },
+        "ping": {
+            "cnnindonesia.com": [
+                "170.33.12.157"
+            ],
+            "www.cnnindonesia.com": [
+                "170.33.12.157"
+            ]
+        },
+        "CNAME": {
+            "www.cnnindonesia.com": null
+        },
+        "A": {
+            "www.cnnindonesia.com": [
+                "170.33.12.157"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Access-Control-Allow-Origin": "*",
+            "Cache": "HIT",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Date": "Wed, 16 Sep 2020 11:35:23 GMT",
+            "S": "cnn3",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "cnnindonesia.com": [
+                "170.33.12.157"
+            ],
+            "www.cnnindonesia.com": [
+                "170.33.12.157"
+            ]
+        },
+        "ping": {
+            "cnnindonesia.com": [
+                "170.33.12.157"
+            ],
+            "www.cnnindonesia.com": [
+                "170.33.12.157"
+            ]
+        },
+        "CNAME": {
+            "www.cnnindonesia.com": null
+        },
+        "A": {
+            "www.cnnindonesia.com": [
+                "170.33.12.157"
+            ]
+        }
+    }
+}

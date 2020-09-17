@@ -1,0 +1,82 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:48:36 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "Vary": "Accept-Encoding",
+            "cache-control": "no-store",
+            "expires": "-1",
+            "pragma": "no-cache",
+            "Set-Cookie": "JSESSIONID=8F2DC5D7E99ACD1A9574C1E264CBA0FB;path=/;HttpOnly",
+            "Content-Language": "ko",
+            "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "kakao.com": [
+                "211.249.221.27"
+            ],
+            "www.kakaocorp.com": [
+                "211.249.221.27"
+            ]
+        },
+        "ping": {
+            "kakao.com": [
+                "211.249.221.27"
+            ],
+            "www.kakaocorp.com": [
+                "211.249.221.27"
+            ]
+        },
+        "CNAME": {
+            "www.kakaocorp.com": null
+        },
+        "A": {
+            "www.kakaocorp.com": [
+                "211.249.221.27"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:48:37 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "Vary": "Accept-Encoding",
+            "cache-control": "no-store",
+            "expires": "-1",
+            "pragma": "no-cache",
+            "Set-Cookie": "JSESSIONID=E7B289E671EF64F76D1D4574ADCF8212;path=/;HttpOnly",
+            "Content-Language": "ko",
+            "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "kakao.com": [
+                "211.249.221.27"
+            ],
+            "www.kakaocorp.com": [
+                "211.249.221.27"
+            ]
+        },
+        "ping": {
+            "kakao.com": [
+                "211.249.221.27"
+            ],
+            "www.kakaocorp.com": [
+                "211.249.221.27"
+            ]
+        },
+        "CNAME": {
+            "www.kakaocorp.com": null
+        },
+        "A": {
+            "www.kakaocorp.com": [
+                "211.249.221.27"
+            ]
+        }
+    }
+}

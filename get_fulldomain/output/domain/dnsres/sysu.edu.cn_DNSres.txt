@@ -1,0 +1,6937 @@
+sysu.edu.cn. 60361 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+sysu.edu.cn. 7199 IN A 202.116.64.8
+
+985b.sysu.edu.cn. 86400 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+985b.sysu.edu.cn. 7199 IN A 202.116.65.39
+
+adb.sysu.edu.cn. 86400 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adb.sysu.edu.cn. 7199 IN A 202.116.65.96
+
+adc.sysu.edu.cn. 0 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 30 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc.sysu.edu.cn. 29 IN A 202.116.64.14
+
+adc-i.sysu.edu.cn. 600 IN A 202.116.64.69
+
+adc-i.sysu.edu.cn. 599 IN A 202.116.64.69
+
+adc-i.sysu.edu.cn. 599 IN A 202.116.64.69
+
+adc-i.sysu.edu.cn. 599 IN A 202.116.64.69
+
+adc-i.sysu.edu.cn. 599 IN A 202.116.64.69
+
+adc-i.sysu.edu.cn. 599 IN A 202.116.64.69
+
+adc-i.sysu.edu.cn. 599 IN A 202.116.64.69
+
+ns1.adc.sysu.edu.cn. 0 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 60 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+ns1.adc.sysu.edu.cn. 59 IN A 202.116.64.14
+
+portal.adc.sysu.edu.cn. 0 IN A 202.116.81.230
+
+adc76.sysu.edu.cn. 600 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+admission.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+admission.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+admission.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ae.sysu.edu.cn. 86400 IN A 202.116.65.230
+
+ae.sysu.edu.cn. 7199 IN A 202.116.65.230
+
+ae.sysu.edu.cn. 7199 IN A 202.116.65.230
+
+ae.sysu.edu.cn. 7199 IN A 202.116.65.230
+
+ae.sysu.edu.cn. 7199 IN A 202.116.65.230
+
+ae.sysu.edu.cn. 7199 IN A 202.116.65.230
+
+ae.sysu.edu.cn. 7199 IN A 202.116.65.230
+
+www.ai.sysu.edu.cn. 86400 IN A 222.200.191.58
+
+www.ai.sysu.edu.cn. 7199 IN A 222.200.191.58
+
+www.ai.sysu.edu.cn. 7199 IN A 222.200.191.58
+
+www.ai.sysu.edu.cn. 7199 IN A 222.200.191.58
+
+www.ai.sysu.edu.cn. 7199 IN A 222.200.191.58
+
+www.ai.sysu.edu.cn. 7199 IN A 222.200.191.58
+
+www.ai.sysu.edu.cn. 7199 IN A 222.200.191.58
+
+alumni.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+anthropology.sysu.edu.cn. 12281 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+anthropology.sysu.edu.cn. 7199 IN A 202.116.65.171
+
+application.sysu.edu.cn. 600 IN CNAME redirector.sysu.edu.cn.
+redirector.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+archives.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+archives.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+archives.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+art.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+atmos.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+atslab.sysu.edu.cn. 86400 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+atslab.sysu.edu.cn. 7199 IN A 125.217.167.108
+
+audit.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+bbs.sysu.edu.cn. 0 IN A 220.250.64.225
+
+bbs.sysu.edu.cn. 30 IN A 220.250.64.225
+
+bidding.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+bidding.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+bidding.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+biocenter.sysu.edu.cn. 86400 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biocenter.sysu.edu.cn. 7199 IN A 202.116.74.52
+
+biodiversity.sysu.edu.cn. 86400 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+biodiversity.sysu.edu.cn. 7199 IN A 202.116.65.99
+
+bioem.sysu.edu.cn. 86400 IN A 202.116.74.206
+
+bioem.sysu.edu.cn. 7199 IN A 202.116.74.206
+
+bioem.sysu.edu.cn. 7199 IN A 202.116.74.206
+
+bioem.sysu.edu.cn. 7199 IN A 202.116.74.206
+
+bioem.sysu.edu.cn. 7199 IN A 202.116.74.206
+
+bioem.sysu.edu.cn. 7199 IN A 202.116.74.206
+
+bioem.sysu.edu.cn. 7199 IN A 202.116.74.206
+
+bioinfo.sysu.edu.cn. 86400 IN A 202.116.74.185
+
+bioinfo.sysu.edu.cn. 7199 IN A 202.116.74.185
+
+bioinfo.sysu.edu.cn. 7199 IN A 202.116.74.185
+
+bioinfo.sysu.edu.cn. 7199 IN A 202.116.74.185
+
+bioinfo.sysu.edu.cn. 7199 IN A 202.116.74.185
+
+bioinfo.sysu.edu.cn. 7199 IN A 202.116.74.185
+
+bioinfo.sysu.edu.cn. 7199 IN A 202.116.74.185
+
+biomaterials.sysu.edu.cn. 86400 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomaterials.sysu.edu.cn. 7199 IN A 202.116.65.153
+
+biomuseum.sysu.edu.cn. 86400 IN A 202.116.65.136
+
+biomuseum.sysu.edu.cn. 7199 IN A 202.116.65.136
+
+biomuseum.sysu.edu.cn. 7199 IN A 202.116.65.136
+
+biomuseum.sysu.edu.cn. 7199 IN A 202.116.65.136
+
+biomuseum.sysu.edu.cn. 7199 IN A 202.116.65.136
+
+biomuseum.sysu.edu.cn. 7199 IN A 202.116.65.136
+
+biomuseum.sysu.edu.cn. 7199 IN A 202.116.65.136
+
+biosafety.sysu.edu.cn. 86400 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+biosafety.sysu.edu.cn. 7199 IN A 202.116.65.251
+
+bioteach.sysu.edu.cn. 86400 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+bioteach.sysu.edu.cn. 7199 IN A 202.116.90.27
+
+biotechprac.sysu.edu.cn. 86400 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+biotechprac.sysu.edu.cn. 7199 IN A 202.116.65.40
+
+bme.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+bme.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+bme.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+wulab.bme.sysu.edu.cn. 86400 IN A 202.116.65.241
+
+wulab.bme.sysu.edu.cn. 7199 IN A 202.116.65.241
+
+wulab.bme.sysu.edu.cn. 7199 IN A 202.116.65.241
+
+wulab.bme.sysu.edu.cn. 7199 IN A 202.116.65.241
+
+wulab.bme.sysu.edu.cn. 7199 IN A 202.116.65.241
+
+wulab.bme.sysu.edu.cn. 7199 IN A 202.116.65.241
+
+wulab.bme.sysu.edu.cn. 7199 IN A 202.116.65.241
+
+bmenano.sysu.edu.cn. 86400 IN A 202.116.65.94
+
+bmenano.sysu.edu.cn. 7199 IN A 202.116.65.94
+
+bmenano.sysu.edu.cn. 7199 IN A 202.116.65.94
+
+bmenano.sysu.edu.cn. 7199 IN A 202.116.65.94
+
+bmenano.sysu.edu.cn. 7199 IN A 202.116.65.94
+
+bmenano.sysu.edu.cn. 7199 IN A 202.116.65.94
+
+bmenano.sysu.edu.cn. 7199 IN A 202.116.65.94
+
+mail.bsks2020.sysu.edu.cn. 60 IN CNAME sslmailhz.qiye.163.com.
+sslmailhz.qiye.163.com. 1438 IN A 123.58.177.120
+
+bswb.sysu.edu.cn. 86400 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+bus.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+bus.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+bus.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+adb.bus.sysu.edu.cn. 86400 IN A 202.116.65.202
+
+adb.bus.sysu.edu.cn. 7199 IN A 202.116.65.202
+
+adb.bus.sysu.edu.cn. 7199 IN A 202.116.65.202
+
+adb.bus.sysu.edu.cn. 7199 IN A 202.116.65.202
+
+adb.bus.sysu.edu.cn. 7199 IN A 202.116.65.202
+
+adb.bus.sysu.edu.cn. 7199 IN A 202.116.65.202
+
+adb.bus.sysu.edu.cn. 7199 IN A 202.116.65.202
+
+mba.bus.sysu.edu.cn. 43051 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mf.bus.sysu.edu.cn. 86400 IN CNAME mba.bus.sysu.edu.cn.
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mis.bus.sysu.edu.cn. 86400 IN A 202.116.88.223
+
+mis.bus.sysu.edu.cn. 7199 IN A 202.116.88.223
+
+mis.bus.sysu.edu.cn. 7199 IN A 202.116.88.223
+
+mis.bus.sysu.edu.cn. 7199 IN A 202.116.88.223
+
+mis.bus.sysu.edu.cn. 7199 IN A 202.116.88.223
+
+mis.bus.sysu.edu.cn. 7199 IN A 202.116.88.223
+
+mis.bus.sysu.edu.cn. 7199 IN A 202.116.88.223
+
+mispm.bus.sysu.edu.cn. 600 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 9 IN A 202.116.65.4
+
+mpacc.bus.sysu.edu.cn. 43051 IN CNAME mba.bus.sysu.edu.cn.
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mpacc.bus.sysu.edu.cn. 7199 IN CNAME mba.bus.sysu.edu.cn.
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+mpacc.bus.sysu.edu.cn. 7199 IN CNAME mba.bus.sysu.edu.cn.
+mba.bus.sysu.edu.cn. 7199 IN A 202.116.65.38
+
+research.bus.sysu.edu.cn. 86400 IN A 202.116.88.128
+
+research.bus.sysu.edu.cn. 7199 IN A 202.116.88.128
+
+research.bus.sysu.edu.cn. 7199 IN A 202.116.88.128
+
+research.bus.sysu.edu.cn. 7199 IN A 202.116.88.128
+
+research.bus.sysu.edu.cn. 7199 IN A 202.116.88.128
+
+research.bus.sysu.edu.cn. 7199 IN A 202.116.88.128
+
+research.bus.sysu.edu.cn. 7199 IN A 202.116.88.128
+
+bwc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 597 IN A 202.116.64.201
+
+bwcxljsm.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+cacs.sysu.edu.cn. 86400 IN A 202.116.65.209
+
+cacs.sysu.edu.cn. 7199 IN A 202.116.65.209
+
+cacs.sysu.edu.cn. 7199 IN A 202.116.65.209
+
+cacs.sysu.edu.cn. 7199 IN A 202.116.65.209
+
+cacs.sysu.edu.cn. 7199 IN A 202.116.65.209
+
+cacs.sysu.edu.cn. 7199 IN A 202.116.65.209
+
+cacs.sysu.edu.cn. 7199 IN A 202.116.65.209
+
+careerold.sysu.edu.cn. 600 IN A 202.116.65.106
+
+careerold.sysu.edu.cn. 599 IN A 202.116.65.106
+
+careerold.sysu.edu.cn. 599 IN A 202.116.65.106
+
+careerold.sysu.edu.cn. 599 IN A 202.116.65.106
+
+careerold.sysu.edu.cn. 599 IN A 202.116.65.106
+
+careerold.sysu.edu.cn. 599 IN A 202.116.65.106
+
+careerold.sysu.edu.cn. 599 IN A 202.116.65.106
+
+cas.sysu.edu.cn. 600 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+cas.sysu.edu.cn. 599 IN A 202.116.64.9
+
+casdevel.sysu.edu.cn. 86400 IN A 202.116.64.39
+
+casdevel.sysu.edu.cn. 7199 IN A 202.116.64.39
+
+casdevel.sysu.edu.cn. 7199 IN A 202.116.64.39
+
+casdevel.sysu.edu.cn. 7199 IN A 202.116.64.39
+
+casdevel.sysu.edu.cn. 7199 IN A 202.116.64.39
+
+casdevel.sysu.edu.cn. 7199 IN A 202.116.64.39
+
+casdevel.sysu.edu.cn. 7199 IN A 202.116.64.39
+
+ccparlibrary.sysu.edu.cn. 86400 IN A 202.116.65.97
+
+ccparlibrary.sysu.edu.cn. 7199 IN A 202.116.65.97
+
+ccparlibrary.sysu.edu.cn. 7199 IN A 202.116.65.97
+
+ccparlibrary.sysu.edu.cn. 7199 IN A 202.116.65.97
+
+ccparlibrary.sysu.edu.cn. 7199 IN A 202.116.65.97
+
+ccparlibrary.sysu.edu.cn. 7199 IN A 202.116.65.97
+
+ccparlibrary.sysu.edu.cn. 7199 IN A 202.116.65.97
+
+ccs.sysu.edu.cn. 86400 IN A 202.116.65.225
+
+ccs.sysu.edu.cn. 7199 IN A 202.116.65.225
+
+ccs.sysu.edu.cn. 7199 IN A 202.116.65.225
+
+ccs.sysu.edu.cn. 7199 IN A 202.116.65.225
+
+ccs.sysu.edu.cn. 7199 IN A 202.116.65.225
+
+ccs.sysu.edu.cn. 7199 IN A 202.116.65.225
+
+ccs.sysu.edu.cn. 7199 IN A 202.116.65.225
+
+cds.sysu.edu.cn. 86400 IN A 202.116.83.38
+
+cds.sysu.edu.cn. 7199 IN A 202.116.83.38
+
+cds.sysu.edu.cn. 7199 IN A 202.116.83.38
+
+cds.sysu.edu.cn. 7199 IN A 202.116.83.38
+
+cds.sysu.edu.cn. 7199 IN A 202.116.83.38
+
+cds.sysu.edu.cn. 7199 IN A 202.116.83.38
+
+cds.sysu.edu.cn. 7199 IN A 202.116.83.38
+
+ce.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+ce.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+ce.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+ceat.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+cegz.sysu.edu.cn. 86400 IN A 202.116.65.95
+
+cegz.sysu.edu.cn. 7199 IN A 202.116.65.95
+
+cegz.sysu.edu.cn. 7199 IN A 202.116.65.95
+
+cegz.sysu.edu.cn. 7199 IN A 202.116.65.95
+
+cegz.sysu.edu.cn. 7199 IN A 202.116.65.95
+
+cegz.sysu.edu.cn. 7199 IN A 202.116.65.95
+
+cegz.sysu.edu.cn. 7199 IN A 202.116.65.95
+
+celims.sysu.edu.cn. 86400 IN A 202.116.83.81
+
+celims.sysu.edu.cn. 7199 IN A 202.116.83.81
+
+celims.sysu.edu.cn. 7199 IN A 202.116.83.81
+
+celims.sysu.edu.cn. 7199 IN A 202.116.83.81
+
+celims.sysu.edu.cn. 7199 IN A 202.116.83.81
+
+celims.sysu.edu.cn. 7199 IN A 202.116.83.81
+
+celims.sysu.edu.cn. 7199 IN A 202.116.83.81
+
+ceoa.sysu.edu.cn. 86400 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+ceoa.sysu.edu.cn. 7199 IN A 202.116.83.118
+
+cet.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+cet.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+cet.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+cetd.sysu.edu.cn. 86400 IN A 202.116.65.108
+
+cetd.sysu.edu.cn. 7199 IN A 202.116.65.108
+
+cetd.sysu.edu.cn. 7199 IN A 202.116.65.108
+
+cetd.sysu.edu.cn. 7199 IN A 202.116.65.108
+
+cetd.sysu.edu.cn. 7199 IN A 202.116.65.108
+
+cetd.sysu.edu.cn. 7199 IN A 202.116.65.108
+
+cetd.sysu.edu.cn. 7199 IN A 202.116.65.108
+
+cfro.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 9 IN A 202.116.65.3
+
+cgsp2.sysu.edu.cn. 86400 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+cgsp2.sysu.edu.cn. 7199 IN A 202.116.64.75
+
+ch.sysu.edu.cn. 86400 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+check.sysu.edu.cn. 86400 IN A 202.116.65.110
+
+check.sysu.edu.cn. 7199 IN A 202.116.65.110
+
+check.sysu.edu.cn. 7199 IN A 202.116.65.110
+
+check.sysu.edu.cn. 7199 IN A 202.116.65.110
+
+check.sysu.edu.cn. 7199 IN A 202.116.65.110
+
+check.sysu.edu.cn. 7199 IN A 202.116.65.110
+
+check.sysu.edu.cn. 7199 IN A 202.116.65.110
+
+china-lng.sysu.edu.cn. 86400 IN A 202.116.65.111
+
+china-lng.sysu.edu.cn. 7199 IN A 202.116.65.111
+
+china-lng.sysu.edu.cn. 7199 IN A 202.116.65.111
+
+china-lng.sysu.edu.cn. 7199 IN A 202.116.65.111
+
+china-lng.sysu.edu.cn. 7199 IN A 202.116.65.111
+
+china-lng.sysu.edu.cn. 7199 IN A 202.116.65.111
+
+china-lng.sysu.edu.cn. 7199 IN A 202.116.65.111
+
+chinese.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+chinese.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+chinese.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+chinesezh.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+cich.sysu.edu.cn. 86400 IN A 125.217.167.68
+
+cigna.sysu.edu.cn. 86400 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+cigna.sysu.edu.cn. 7199 IN A 125.217.165.34
+
+civil.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+cl.sysu.edu.cn. 86400 IN A 202.116.65.214
+
+cl.sysu.edu.cn. 7199 IN A 202.116.65.214
+
+cl.sysu.edu.cn. 7199 IN A 202.116.65.214
+
+cl.sysu.edu.cn. 7199 IN A 202.116.65.214
+
+cl.sysu.edu.cn. 7199 IN A 202.116.65.214
+
+cl.sysu.edu.cn. 7199 IN A 202.116.65.214
+
+cl.sysu.edu.cn. 7199 IN A 202.116.65.214
+
+cmc.sysu.edu.cn. 86400 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cmc.sysu.edu.cn. 7199 IN A 222.200.173.172
+
+cloud.cmer.sysu.edu.cn. 86400 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+cloud.cmer.sysu.edu.cn. 7199 IN A 202.116.92.123
+
+www.cmer.sysu.edu.cn. 86400 IN A 202.116.92.121
+
+www.cmer.sysu.edu.cn. 7199 IN A 202.116.92.121
+
+www.cmer.sysu.edu.cn. 7199 IN A 202.116.92.121
+
+www.cmer.sysu.edu.cn. 7199 IN A 202.116.92.121
+
+www.cmer.sysu.edu.cn. 7199 IN A 202.116.92.121
+
+www.cmer.sysu.edu.cn. 7199 IN A 202.116.92.121
+
+www.cmer.sysu.edu.cn. 7199 IN A 202.116.92.121
+
+cmes.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+cmilab.sysu.edu.cn. 86400 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmilab.sysu.edu.cn. 7199 IN A 202.116.86.116
+
+cmsproxy.sysu.edu.cn. 86400 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+cam.cmsproxy.sysu.edu.cn. 86400 IN CNAME cmsproxy.sysu.edu.cn.
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+sch.cmsproxy.sysu.edu.cn. 86400 IN CNAME cmsproxy.sysu.edu.cn.
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+xy.cmsproxy.sysu.edu.cn. 86400 IN CNAME cmsproxy.sysu.edu.cn.
+cmsproxy.sysu.edu.cn. 7199 IN A 202.116.64.128
+
+mail2.sysu.edu.cnadc76.sysu.edu.cn. 0 IN A 220.250.64.225
+
+helab.sysu.edu.cncds.sysu.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for cas.sysu.edu.cnecc.sysu.edu.cn
+
+sdcs.sysu.edu.cnfls8.sysu.edu.cn. 0 IN A 220.250.64.225
+
+cmc.sysu.edu.cnhpc1mng.sysu.edu.cn. 0 IN A 220.250.64.225
+
+cloud.cmer.sysu.edu.cnjpkc2.sysu.edu.cn. 0 IN A 220.250.64.225
+
+mldap0.sysu.edu.cnmechlab.sysu.edu.cn. 0 IN A 220.250.64.225
+
+www.sysu.edu.cnmed.sysu.edu.cn. 0 IN A 220.250.64.225
+
+biomuseum.sysu.edu.cnniccs.sysu.edu.cn. 0 IN A 220.250.64.225
+
+mphilosophy.sysu.edu.cnrcdd.sysu.edu.cn. 0 IN A 220.250.64.225
+
+midc.sysu.edu.cnyssoa.sysu.edu.cn. 0 IN A 220.250.64.225
+
+www.google.com.sysu.edu.cn. 0 IN A 220.250.64.225
+
+www.google.com.sysu.edu.cn. 30 IN A 220.250.64.225
+
+cos.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+cpac.sysu.edu.cn. 86400 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cpac.sysu.edu.cn. 7199 IN A 202.116.65.200
+
+cptzb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+www.cs.sysu.edu.cn. 0 IN A 220.250.64.225
+
+www.cs.sysu.edu.cn. 30 IN A 220.250.64.225
+
+www.cs.sysu.edu.cn. 29 IN A 220.250.64.225
+
+www.cs.sysu.edu.cn. 29 IN A 220.250.64.225
+
+www.cs.sysu.edu.cn. 29 IN A 220.250.64.225
+
+www.cs.sysu.edu.cn. 29 IN A 220.250.64.225
+
+www.cs.sysu.edu.cn. 29 IN A 220.250.64.225
+
+csha.sysu.edu.cn. 86400 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+csha.sysu.edu.cn. 7199 IN A 202.116.73.22
+
+css.sysu.edu.cn. 82459 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+css.sysu.edu.cn. 7199 IN A 202.116.65.66
+
+ctm.sysu.edu.cn. 86400 IN A 202.116.65.233
+
+ctm.sysu.edu.cn. 7199 IN A 202.116.65.233
+
+ctm.sysu.edu.cn. 7199 IN A 202.116.65.233
+
+ctm.sysu.edu.cn. 7199 IN A 202.116.65.233
+
+ctm.sysu.edu.cn. 7199 IN A 202.116.65.233
+
+ctm.sysu.edu.cn. 7199 IN A 202.116.65.233
+
+ctm.sysu.edu.cn. 7199 IN A 202.116.65.233
+
+ctpr.sysu.edu.cn. 86400 IN A 211.66.140.4
+
+ctpr.sysu.edu.cn. 7199 IN A 211.66.140.4
+
+ctpr.sysu.edu.cn. 7199 IN A 211.66.140.4
+
+ctpr.sysu.edu.cn. 7199 IN A 211.66.140.4
+
+ctpr.sysu.edu.cn. 7199 IN A 211.66.140.4
+
+ctpr.sysu.edu.cn. 7199 IN A 211.66.140.4
+
+ctpr.sysu.edu.cn. 7199 IN A 211.66.140.4
+
+cwc.sysu.edu.cn. 86400 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cwc.sysu.edu.cn. 7199 IN A 202.116.65.28
+
+cy.sysu.edu.cn. 86400 IN A 202.116.65.49
+
+cy.sysu.edu.cn. 7199 IN A 202.116.65.49
+
+cy.sysu.edu.cn. 7199 IN A 202.116.65.49
+
+cy.sysu.edu.cn. 7199 IN A 202.116.65.49
+
+cy.sysu.edu.cn. 7199 IN A 202.116.65.49
+
+cy.sysu.edu.cn. 7199 IN A 202.116.65.49
+
+cy.sysu.edu.cn. 7199 IN A 202.116.65.49
+
+cyjt.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+dag.sysu.edu.cn. 86400 IN A 202.116.65.224
+
+dag.sysu.edu.cn. 7199 IN A 202.116.65.224
+
+dag.sysu.edu.cn. 7199 IN A 202.116.65.224
+
+dag.sysu.edu.cn. 7199 IN A 202.116.65.224
+
+dag.sysu.edu.cn. 7199 IN A 202.116.65.224
+
+dag.sysu.edu.cn. 7199 IN A 202.116.65.224
+
+dag.sysu.edu.cn. 7199 IN A 202.116.65.224
+
+dailab.sysu.edu.cn. 86400 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+dailab.sysu.edu.cn. 7199 IN A 222.200.182.71
+
+ddpj.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+deepbase.sysu.edu.cn. 86400 IN A 202.116.90.19
+
+deepbase.sysu.edu.cn. 7199 IN A 202.116.90.19
+
+deepbase.sysu.edu.cn. 7199 IN A 202.116.90.19
+
+dgyjy.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dl2.sysu.edu.cn. 600 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dl2.sysu.edu.cn. 599 IN A 211.66.128.7
+
+dntj.sysu.edu.cn. 86400 IN A 202.116.65.169
+
+dntj.sysu.edu.cn. 7199 IN A 202.116.65.169
+
+dntj.sysu.edu.cn. 7199 IN A 202.116.65.169
+
+dntj.sysu.edu.cn. 7199 IN A 202.116.65.169
+
+dntj.sysu.edu.cn. 7199 IN A 202.116.65.169
+
+dntj.sysu.edu.cn. 7199 IN A 202.116.65.169
+
+dntj.sysu.edu.cn. 7199 IN A 202.116.65.169
+
+donglab.sysu.edu.cn. 86400 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+donglab.sysu.edu.cn. 7199 IN A 202.116.84.148
+
+dourp.sysu.edu.cn. 86400 IN A 202.116.65.155
+
+dourp.sysu.edu.cn. 7199 IN A 202.116.65.155
+
+dourp.sysu.edu.cn. 7199 IN A 202.116.65.155
+
+dourp.sysu.edu.cn. 7199 IN A 202.116.65.155
+
+dourp.sysu.edu.cn. 7199 IN A 202.116.65.155
+
+dourp.sysu.edu.cn. 7199 IN A 202.116.65.155
+
+dourp.sysu.edu.cn. 7199 IN A 202.116.65.155
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+dpcms-b.sysu.edu.cn. 600 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+drupal170.sysu.edu.cn. 86400 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal170.sysu.edu.cn. 7199 IN A 202.116.65.170
+
+drupal65.sysu.edu.cn. 86400 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal65.sysu.edu.cn. 7199 IN A 202.116.65.65
+
+drupal68.sysu.edu.cn. 86400 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+drupal68.sysu.edu.cn. 7199 IN A 202.116.65.68
+
+dwbgs.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+dxfy.sysu.edu.cn. 86400 IN A 202.116.87.36
+
+dxfy.sysu.edu.cn. 7199 IN A 202.116.87.36
+
+dxfy.sysu.edu.cn. 7199 IN A 202.116.87.36
+
+dxfy.sysu.edu.cn. 7199 IN A 202.116.87.36
+
+dxfy.sysu.edu.cn. 7199 IN A 202.116.87.36
+
+dxfy.sysu.edu.cn. 7199 IN A 202.116.87.36
+
+dxfy.sysu.edu.cn. 7199 IN A 202.116.87.36
+
+eao.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+eao.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+eao.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+eapd.sysu.edu.cn. 62735 IN A 202.116.65.70
+
+eapd.sysu.edu.cn. 7199 IN A 202.116.65.70
+
+eapd.sysu.edu.cn. 7199 IN A 202.116.65.70
+
+eapd.sysu.edu.cn. 7199 IN A 202.116.65.70
+
+eapd.sysu.edu.cn. 7199 IN A 202.116.65.70
+
+eapd.sysu.edu.cn. 7199 IN A 202.116.65.70
+
+eapd.sysu.edu.cn. 7199 IN A 202.116.65.70
+
+earth.sysu.edu.cn. 86400 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+earth.sysu.edu.cn. 7199 IN A 202.116.65.13
+
+eblab.sysu.edu.cn. 600 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+eblab.sysu.edu.cn. 599 IN A 202.116.92.148
+
+cloud.eblab.sysu.edu.cn. 86400 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+cloud.eblab.sysu.edu.cn. 7199 IN A 202.116.93.137
+
+file.eblab.sysu.edu.cn. 30 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+file.eblab.sysu.edu.cn. 29 IN A 202.116.93.100
+
+ecampus.sysu.edu.cn. 63461 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecampus.sysu.edu.cn. 7199 IN A 202.116.64.33
+
+ecc.sysu.edu.cn. 86400 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+ecc.sysu.edu.cn. 7199 IN A 202.116.88.232
+
+eclc.sysu.edu.cn. 86400 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+eclc.sysu.edu.cn. 7199 IN A 222.200.181.240
+
+ecnc.sysu.edu.cn. 86400 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+ecnc.sysu.edu.cn. 7199 IN A 222.200.161.131
+
+eco.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+ecology.sysu.edu.cn. 0 IN A 220.250.64.225
+
+ecology.sysu.edu.cn. 30 IN A 220.250.64.225
+
+ecology.sysu.edu.cn. 29 IN A 220.250.64.225
+
+ecology.sysu.edu.cn. 29 IN A 220.250.64.225
+
+ecology.sysu.edu.cn. 29 IN A 220.250.64.225
+
+ecology.sysu.edu.cn. 29 IN A 220.250.64.225
+
+ecology.sysu.edu.cn. 29 IN A 220.250.64.225
+
+econ-insect.sysu.edu.cn. 86400 IN A 202.116.65.102
+
+econ-insect.sysu.edu.cn. 7199 IN A 202.116.65.102
+
+econ-insect.sysu.edu.cn. 7199 IN A 202.116.65.102
+
+econ-insect.sysu.edu.cn. 7199 IN A 202.116.65.102
+
+econ-insect.sysu.edu.cn. 7199 IN A 202.116.65.102
+
+econ-insect.sysu.edu.cn. 7199 IN A 202.116.65.102
+
+econ-insect.sysu.edu.cn. 7199 IN A 202.116.65.102
+
+econet.sysu.edu.cn. 86400 IN A 202.116.74.122
+
+econet.sysu.edu.cn. 7199 IN A 202.116.74.122
+
+econet.sysu.edu.cn. 7199 IN A 202.116.74.122
+
+econet.sysu.edu.cn. 7199 IN A 202.116.74.122
+
+econet.sysu.edu.cn. 7199 IN A 202.116.74.122
+
+econet.sysu.edu.cn. 7199 IN A 202.116.74.122
+
+econet.sysu.edu.cn. 7199 IN A 202.116.74.122
+
+edf.edaao.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+sns.edaao.sysu.edu.cn. 86400 IN A 202.116.65.247
+
+sns.edaao.sysu.edu.cn. 7199 IN A 202.116.65.247
+
+sns.edaao.sysu.edu.cn. 7199 IN A 202.116.65.247
+
+sns.edaao.sysu.edu.cn. 7199 IN A 202.116.65.247
+
+sns.edaao.sysu.edu.cn. 7199 IN A 202.116.65.247
+
+sns.edaao.sysu.edu.cn. 7199 IN A 202.116.65.247
+
+sns.edaao.sysu.edu.cn. 7199 IN A 202.116.65.247
+
+eden.sysu.edu.cn. 86400 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+eden.sysu.edu.cn. 7199 IN A 222.200.185.47
+
+elab.sysu.edu.cn. 86400 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elab.sysu.edu.cn. 7199 IN A 222.200.187.24
+
+elearning.sysu.edu.cn. 86400 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elearning.sysu.edu.cn. 7199 IN A 202.116.64.60
+
+elmo.sysu.edu.cn. 86400 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+emi.sysu.edu.cn. 86400 IN CNAME ch.sysu.edu.cn.
+ch.sysu.edu.cn. 7199 IN A 202.116.83.77
+
+etcmse.sysu.edu.cn. 86400 IN A 202.116.65.213
+
+etcmse.sysu.edu.cn. 7199 IN A 202.116.65.213
+
+etcmse.sysu.edu.cn. 7199 IN A 202.116.65.213
+
+etcmse.sysu.edu.cn. 7199 IN A 202.116.65.213
+
+etcmse.sysu.edu.cn. 7199 IN A 202.116.65.213
+
+etcmse.sysu.edu.cn. 7199 IN A 202.116.65.213
+
+etcmse.sysu.edu.cn. 7199 IN A 202.116.65.213
+
+evolution.sysu.edu.cn. 600 IN CNAME home.sysu.edu.cn.
+home.sysu.edu.cn. 6117 IN A 202.116.64.20
+
+ewpay.sysu.edu.cn. 86400 IN A 202.116.65.161
+
+ewpay.sysu.edu.cn. 7199 IN A 202.116.65.161
+
+ewpay.sysu.edu.cn. 7199 IN A 202.116.65.161
+
+ewpay.sysu.edu.cn. 7199 IN A 202.116.65.161
+
+ewpay.sysu.edu.cn. 7199 IN A 202.116.65.161
+
+ewpay.sysu.edu.cn. 7199 IN A 202.116.65.161
+
+ewpay.sysu.edu.cn. 7199 IN A 202.116.65.161
+
+experiment.sysu.edu.cn. 86400 IN A 202.116.90.200
+
+experiment.sysu.edu.cn. 7199 IN A 202.116.90.200
+
+experiment.sysu.edu.cn. 7199 IN A 202.116.90.200
+
+experiment.sysu.edu.cn. 7199 IN A 202.116.90.200
+
+experiment.sysu.edu.cn. 7199 IN A 202.116.90.200
+
+experiment.sysu.edu.cn. 7199 IN A 202.116.90.200
+
+experiment.sysu.edu.cn. 7199 IN A 202.116.90.200
+
+eyfckx.sysu.edu.cn. 86400 IN A 202.116.65.197
+
+eyfckx.sysu.edu.cn. 7199 IN A 202.116.65.197
+
+eyfckx.sysu.edu.cn. 7199 IN A 202.116.65.197
+
+eyfckx.sysu.edu.cn. 7199 IN A 202.116.65.197
+
+eyfckx.sysu.edu.cn. 7199 IN A 202.116.65.197
+
+eyfckx.sysu.edu.cn. 7199 IN A 202.116.65.197
+
+eyfckx.sysu.edu.cn. 7199 IN A 202.116.65.197
+
+fdc.sysu.edu.cn. 86400 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fdc.sysu.edu.cn. 7199 IN A 202.116.79.133
+
+fee.sysu.edu.cn. 86400 IN A 125.217.164.55
+
+fgw.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+finechem.sysu.edu.cn. 86400 IN A 202.116.65.131
+
+finechem.sysu.edu.cn. 7199 IN A 202.116.65.131
+
+finechem.sysu.edu.cn. 7199 IN A 202.116.65.131
+
+finechem.sysu.edu.cn. 7199 IN A 202.116.65.131
+
+finechem.sysu.edu.cn. 7199 IN A 202.116.65.131
+
+finechem.sysu.edu.cn. 7199 IN A 202.116.65.131
+
+finechem.sysu.edu.cn. 7199 IN A 202.116.65.131
+
+fls.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+fls.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+fls.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+fls8.sysu.edu.cn. 77218 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+fls8.sysu.edu.cn. 7199 IN A 202.116.87.37
+
+flsen.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+fluke.sysu.edu.cn. 86400 IN A 202.116.65.72
+
+fluke.sysu.edu.cn. 7199 IN A 202.116.65.72
+
+fluke.sysu.edu.cn. 7199 IN A 202.116.65.72
+
+fluke.sysu.edu.cn. 7199 IN A 202.116.65.72
+
+fluke.sysu.edu.cn. 7199 IN A 202.116.65.72
+
+fluke.sysu.edu.cn. 7199 IN A 202.116.65.72
+
+fluke.sysu.edu.cn. 7199 IN A 202.116.65.72
+
+forensics.sysu.edu.cn. 86400 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+forensics.sysu.edu.cn. 7199 IN A 202.116.65.168
+
+freshman.sysu.edu.cn. 51924 IN CNAME uems.sysu.edu.cn.
+uems.sysu.edu.cn. 7199 IN A 202.116.64.121
+
+fx.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+fx.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+fx.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+www.fx.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+fyblxxt.sysu.edu.cn. 86400 IN A 202.116.65.23
+
+fyblxxt.sysu.edu.cn. 7199 IN A 202.116.65.23
+
+fyblxxt.sysu.edu.cn. 7199 IN A 202.116.65.23
+
+fyblxxt.sysu.edu.cn. 7199 IN A 202.116.65.23
+
+fyblxxt.sysu.edu.cn. 7199 IN A 202.116.65.23
+
+fyblxxt.sysu.edu.cn. 7199 IN A 202.116.65.23
+
+fyblxxt.sysu.edu.cn. 7199 IN A 202.116.65.23
+
+fyztw.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+fyztw.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+fzghb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gagp.sysu.edu.cn. 600 IN A 202.116.65.207
+
+gagp.sysu.edu.cn. 599 IN A 202.116.65.207
+
+gagp.sysu.edu.cn. 599 IN A 202.116.65.207
+
+gagp.sysu.edu.cn. 599 IN A 202.116.65.207
+
+gagp.sysu.edu.cn. 599 IN A 202.116.65.207
+
+gagp.sysu.edu.cn. 599 IN A 202.116.65.207
+
+gagp.sysu.edu.cn. 599 IN A 202.116.65.207
+
+gdbigdata.sysu.edu.cn. 86400 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdbigdata.sysu.edu.cn. 7199 IN A 202.116.65.31
+
+gdtgw.sysu.edu.cn. 86400 IN A 202.116.65.184
+
+gdtgw.sysu.edu.cn. 7199 IN A 202.116.65.184
+
+gdtgw.sysu.edu.cn. 7199 IN A 202.116.65.184
+
+gdtgw.sysu.edu.cn. 7199 IN A 202.116.65.184
+
+gdtgw.sysu.edu.cn. 7199 IN A 202.116.65.184
+
+gdtgw.sysu.edu.cn. 7199 IN A 202.116.65.184
+
+gdtgw.sysu.edu.cn. 7199 IN A 202.116.65.184
+
+geit.sysu.edu.cn. 86400 IN A 202.116.67.72
+
+geit.sysu.edu.cn. 7199 IN A 202.116.67.72
+
+geit.sysu.edu.cn. 7199 IN A 202.116.67.72
+
+geit.sysu.edu.cn. 7199 IN A 202.116.67.72
+
+geit.sysu.edu.cn. 7199 IN A 202.116.67.72
+
+geit.sysu.edu.cn. 7199 IN A 202.116.67.72
+
+geit.sysu.edu.cn. 7199 IN A 202.116.67.72
+
+genders.sysu.edu.cn. 86400 IN A 202.116.73.169
+
+genders.sysu.edu.cn. 7199 IN A 202.116.73.169
+
+genders.sysu.edu.cn. 7199 IN A 202.116.73.169
+
+genders.sysu.edu.cn. 7199 IN A 202.116.73.169
+
+genders.sysu.edu.cn. 7199 IN A 202.116.73.169
+
+genders.sysu.edu.cn. 7199 IN A 202.116.73.169
+
+genders.sysu.edu.cn. 7199 IN A 202.116.73.169
+
+NXDOMAIN for genelab.sysu.edu.cn
+
+geo.sysu.edu.cn. 86400 IN A 211.66.138.139
+
+geo.sysu.edu.cn. 7199 IN A 211.66.138.139
+
+geo.sysu.edu.cn. 7199 IN A 211.66.138.139
+
+geo.sysu.edu.cn. 7199 IN A 211.66.138.139
+
+geo.sysu.edu.cn. 7199 IN A 211.66.138.139
+
+geo.sysu.edu.cn. 7199 IN A 211.66.138.139
+
+geo.sysu.edu.cn. 7199 IN A 211.66.138.139
+
+ggw.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gh.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gheec.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+ghonline.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 9 IN A 202.116.65.3
+
+gjxf.sysu.edu.cn. 86400 IN A 202.116.65.78
+
+gjxf.sysu.edu.cn. 7199 IN A 202.116.65.78
+
+gjxf.sysu.edu.cn. 7199 IN A 202.116.65.78
+
+gjxf.sysu.edu.cn. 7199 IN A 202.116.65.78
+
+gjxf.sysu.edu.cn. 7199 IN A 202.116.65.78
+
+gjxf.sysu.edu.cn. 7199 IN A 202.116.65.78
+
+gjxf.sysu.edu.cn. 7199 IN A 202.116.65.78
+
+govpam.sysu.edu.cn. 86400 IN A 202.116.73.186
+
+govpam.sysu.edu.cn. 7199 IN A 202.116.73.186
+
+govpam.sysu.edu.cn. 7199 IN A 202.116.73.186
+
+govpam.sysu.edu.cn. 7199 IN A 202.116.73.186
+
+govpam.sysu.edu.cn. 7199 IN A 202.116.73.186
+
+govpam.sysu.edu.cn. 7199 IN A 202.116.73.186
+
+govpam.sysu.edu.cn. 7199 IN A 202.116.73.186
+
+gp.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gp.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gp.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gp.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gp.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+gprddata.sysu.edu.cn. 86400 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gprddata.sysu.edu.cn. 7199 IN A 202.116.65.232
+
+gradeng.sysu.edu.cn. 86400 IN A 202.116.65.107
+
+gradeng.sysu.edu.cn. 7199 IN A 202.116.65.107
+
+gradeng.sysu.edu.cn. 7199 IN A 202.116.65.107
+
+gradeng.sysu.edu.cn. 7199 IN A 202.116.65.107
+
+gradeng.sysu.edu.cn. 7199 IN A 202.116.65.107
+
+gradeng.sysu.edu.cn. 7199 IN A 202.116.65.107
+
+gradeng.sysu.edu.cn. 7199 IN A 202.116.65.107
+
+graduate.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+graduate.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+graduate.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+graduate.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+graduate.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+gserp.sysu.edu.cn. 86400 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+gserp.sysu.edu.cn. 7199 IN A 202.116.65.12
+
+guangzhou.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+gwz.sysu.edu.cn. 86400 IN A 202.116.65.144
+
+gwz.sysu.edu.cn. 7199 IN A 202.116.65.144
+
+gwz.sysu.edu.cn. 7199 IN A 202.116.65.144
+
+gwz.sysu.edu.cn. 7199 IN A 202.116.65.144
+
+gwz.sysu.edu.cn. 7199 IN A 202.116.65.144
+
+gwz.sysu.edu.cn. 7199 IN A 202.116.65.144
+
+gwz.sysu.edu.cn. 7199 IN A 202.116.65.144
+
+gym.sysu.edu.cn. 86400 IN A 202.116.65.108
+
+ha.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+ha.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+www.hci.sysu.edu.cn. 86400 IN A 222.200.181.23
+
+www.hci.sysu.edu.cn. 7199 IN A 222.200.181.23
+
+hcp.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+helab.sysu.edu.cn. 86400 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helab.sysu.edu.cn. 7199 IN A 202.116.65.157
+
+helpdesk.sysu.edu.cn. 86400 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+helpdesk.sysu.edu.cn. 7199 IN A 202.116.64.29
+
+hep.sysu.edu.cn. 86400 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+historyzh.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 597 IN A 202.116.64.201
+
+hkmac.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+hkmac.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+hkmac.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 596 IN A 202.116.64.201
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+home.sysu.edu.cn. 6112 IN A 202.116.64.20
+
+NXDOMAIN for home2.sysu.edu.cn
+
+NXDOMAIN for home2.sysu.edu.cn
+
+NXDOMAIN for home2.sysu.edu.cn
+
+NXDOMAIN for home2.sysu.edu.cn
+
+NXDOMAIN for home2.sysu.edu.cn
+
+NXDOMAIN for home2.sysu.edu.cn
+
+NXDOMAIN for home2.sysu.edu.cn
+
+home3.sysu.edu.cn. 30 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+hpc1mng.sysu.edu.cn. 86400 IN A 202.116.64.73
+
+hpc1mng.sysu.edu.cn. 7199 IN A 202.116.64.73
+
+hpc1mng.sysu.edu.cn. 7199 IN A 202.116.64.73
+
+hpc1mng.sysu.edu.cn. 7199 IN A 202.116.64.73
+
+hpc1mng.sysu.edu.cn. 7199 IN A 202.116.64.73
+
+hpc1mng.sysu.edu.cn. 7199 IN A 202.116.64.73
+
+hpcapp.sysu.edu.cn. 86400 IN A 202.116.65.176
+
+hpcapp.sysu.edu.cn. 7199 IN A 202.116.65.176
+
+hpcapp.sysu.edu.cn. 7199 IN A 202.116.65.176
+
+hpcapp.sysu.edu.cn. 7199 IN A 202.116.65.176
+
+hpcapp.sysu.edu.cn. 7199 IN A 202.116.65.176
+
+hpcapp.sysu.edu.cn. 7199 IN A 202.116.65.176
+
+hpcapp.sysu.edu.cn. 7199 IN A 202.116.65.176
+
+hsdh.sysu.edu.cn. 86400 IN A 202.116.73.113
+
+hsdh.sysu.edu.cn. 7199 IN A 202.116.73.113
+
+hsdh.sysu.edu.cn. 7199 IN A 202.116.73.113
+
+hsdh.sysu.edu.cn. 7199 IN A 202.116.73.113
+
+hsdh.sysu.edu.cn. 7199 IN A 202.116.73.113
+
+hsdh.sysu.edu.cn. 7199 IN A 202.116.73.113
+
+hsdh.sysu.edu.cn. 7199 IN A 202.116.73.113
+
+human-robot.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+NXDOMAIN for hydroinfo.sysu.edu.cn
+
+NXDOMAIN for hydroinfo.sysu.edu.cn
+
+iarc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+ic.sysu.edu.cn. 86400 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+ic.sysu.edu.cn. 7199 IN A 202.116.84.221
+
+idp.sysu.edu.cn. 600 IN A 202.116.64.11
+
+ies.sysu.edu.cn. 86400 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ies.sysu.edu.cn. 7199 IN A 202.116.65.10
+
+ifcen.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+ifcen-ec.sysu.edu.cn. 86400 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ifcen-ec.sysu.edu.cn. 7199 IN A 211.66.136.21
+
+ife.sysu.edu.cn. 86400 IN CNAME mbasys.lingnan.sysu.edu.cn.
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+iftzr.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+igem.sysu.edu.cn. 86400 IN A 202.116.74.103
+
+igem.sysu.edu.cn. 7199 IN A 202.116.74.103
+
+igem.sysu.edu.cn. 7199 IN A 202.116.74.103
+
+igem.sysu.edu.cn. 7199 IN A 202.116.74.103
+
+igem.sysu.edu.cn. 7199 IN A 202.116.74.103
+
+igem.sysu.edu.cn. 7199 IN A 202.116.74.103
+
+igem.sysu.edu.cn. 7199 IN A 202.116.74.103
+
+NXDOMAIN for im.sysu.edu.cn
+
+NXDOMAIN for im.sysu.edu.cn
+
+NXDOMAIN for im.sysu.edu.cn
+
+NXDOMAIN for im.sysu.edu.cn
+
+NXDOMAIN for im.sysu.edu.cn
+
+NXDOMAIN for im.sysu.edu.cn
+
+NXDOMAIN for im.sysu.edu.cn
+
+imsel.sysu.edu.cn. 86400 IN A 202.116.65.246
+
+imsel.sysu.edu.cn. 7199 IN A 202.116.65.246
+
+imsel.sysu.edu.cn. 7199 IN A 202.116.65.246
+
+imsel.sysu.edu.cn. 7199 IN A 202.116.65.246
+
+imsel.sysu.edu.cn. 7199 IN A 202.116.65.246
+
+imsel.sysu.edu.cn. 7199 IN A 202.116.65.246
+
+imsel.sysu.edu.cn. 7199 IN A 202.116.65.246
+
+inc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+inc.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+inc.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+inc.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+inc.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+info.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+inpluslab.sysu.edu.cn. 86400 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+inpluslab.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+insect.sysu.edu.cn. 86400 IN A 202.116.65.27
+
+insect.sysu.edu.cn. 7199 IN A 202.116.65.27
+
+insect.sysu.edu.cn. 7199 IN A 202.116.65.27
+
+insect.sysu.edu.cn. 7199 IN A 202.116.65.27
+
+insect.sysu.edu.cn. 7199 IN A 202.116.65.27
+
+insect.sysu.edu.cn. 7199 IN A 202.116.65.27
+
+insect.sysu.edu.cn. 7199 IN A 202.116.65.27
+
+iotlab.sysu.edu.cn. 86400 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+iotlab.sysu.edu.cn. 7199 IN A 222.200.182.15
+
+ipms.sysu.edu.cn. 600 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ipms.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ipms.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ipms.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ipms.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ipms.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ipms.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+www.iprd.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+isbf.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+ischool.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+ischool.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+ischool.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+ise.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 595 IN A 202.116.64.201
+
+isee.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+isee.sysu.edu.cn. 599 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+isee.sysu.edu.cn. 599 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+isg.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+iso.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+iso.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+iso.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+isysu.sysu.edu.cn. 86400 IN A 202.116.65.44
+
+isysu.sysu.edu.cn. 7199 IN A 202.116.65.44
+
+isysu.sysu.edu.cn. 7199 IN A 202.116.65.44
+
+isysu.sysu.edu.cn. 7199 IN A 202.116.65.44
+
+isysu.sysu.edu.cn. 7199 IN A 202.116.65.44
+
+isysu.sysu.edu.cn. 7199 IN A 202.116.65.44
+
+isysu.sysu.edu.cn. 7199 IN A 202.116.65.44
+
+itsbm.sysu.edu.cn. 86400 IN A 202.116.64.80
+
+itsbm.sysu.edu.cn. 7199 IN A 202.116.64.80
+
+itsbm.sysu.edu.cn. 7199 IN A 202.116.64.80
+
+itsbm.sysu.edu.cn. 7199 IN A 202.116.64.80
+
+itsbm.sysu.edu.cn. 7199 IN A 202.116.64.80
+
+itsbm.sysu.edu.cn. 7199 IN A 202.116.64.80
+
+itsbm.sysu.edu.cn. 7199 IN A 202.116.64.80
+
+ivnc2015.sysu.edu.cn. 86400 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+ivnc2015.sysu.edu.cn. 7199 IN A 202.116.85.3
+
+jgdw.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 594 IN A 202.116.64.201
+
+jie.sysu.edu.cn. 86400 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jie.sysu.edu.cn. 7199 IN A 202.116.65.210
+
+jjc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 593 IN A 202.116.64.201
+
+jksb.sysu.edu.cn. 600 IN CNAME uems-b.sysu.edu.cn.
+uems-b.sysu.edu.cn. 599 IN A 202.116.64.122
+
+jksb.sysu.edu.cn. 599 IN CNAME uems-b.sysu.edu.cn.
+uems-b.sysu.edu.cn. 599 IN A 202.116.64.122
+
+jpa.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+jpkc.sysu.edu.cn. 83285 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc.sysu.edu.cn. 7199 IN A 202.116.64.66
+
+jpkc2.sysu.edu.cn. 86400 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpkc2.sysu.edu.cn. 7199 IN A 202.116.64.209
+
+jpzygx.sysu.edu.cn. 86400 IN A 202.116.65.164
+
+jpzygx.sysu.edu.cn. 7199 IN A 202.116.65.164
+
+jpzygx.sysu.edu.cn. 7199 IN A 202.116.65.164
+
+jpzygx.sysu.edu.cn. 7199 IN A 202.116.65.164
+
+jpzygx.sysu.edu.cn. 7199 IN A 202.116.65.164
+
+jpzygx.sysu.edu.cn. 7199 IN A 202.116.65.164
+
+jpzygx.sysu.edu.cn. 7199 IN A 202.116.65.164
+
+jsfz.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 592 IN A 202.116.64.201
+
+jw.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+jwb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+jwb.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+jwb.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+jwbf.sysu.edu.cn. 86400 IN A 202.116.65.145
+
+jwbf.sysu.edu.cn. 7199 IN A 202.116.65.145
+
+jwbf.sysu.edu.cn. 7199 IN A 202.116.65.145
+
+jwbf.sysu.edu.cn. 7199 IN A 202.116.65.145
+
+jwbf.sysu.edu.cn. 7199 IN A 202.116.65.145
+
+jwbf.sysu.edu.cn. 7199 IN A 202.116.65.145
+
+jwbf.sysu.edu.cn. 7199 IN A 202.116.65.145
+
+NXDOMAIN for jwc.sysu.edu.cn
+
+NXDOMAIN for jwc.sysu.edu.cn
+
+jwxt.sysu.edu.cn. 600 IN CNAME uems-e.sysu.edu.cn.
+uems-e.sysu.edu.cn. 599 IN A 202.116.64.125
+
+kelinmef.sysu.edu.cn. 86400 IN A 202.116.65.238
+
+kelinmef.sysu.edu.cn. 7199 IN A 202.116.65.238
+
+kelinmef.sysu.edu.cn. 7199 IN A 202.116.65.238
+
+kelinmef.sysu.edu.cn. 7199 IN A 202.116.65.238
+
+kelinmef.sysu.edu.cn. 7199 IN A 202.116.65.238
+
+kelinmef.sysu.edu.cn. 7199 IN A 202.116.65.238
+
+kelinmef.sysu.edu.cn. 7199 IN A 202.116.65.238
+
+kms.sysu.edu.cn. 600 IN A 10.8.8.2
+
+kms.sysu.edu.cn. 599 IN A 10.8.8.2
+
+kyxmzc.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+labsafety.sysu.edu.cn. 600 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+labsafety.sysu.edu.cn. 599 IN A 202.116.65.193
+
+lac.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+lac.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+lac.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+land.sysu.edu.cn. 86400 IN A 202.116.71.100
+
+land.sysu.edu.cn. 7199 IN A 202.116.71.100
+
+land.sysu.edu.cn. 7199 IN A 202.116.71.100
+
+land.sysu.edu.cn. 7199 IN A 202.116.71.100
+
+land.sysu.edu.cn. 7199 IN A 202.116.71.100
+
+land.sysu.edu.cn. 7199 IN A 202.116.71.100
+
+land.sysu.edu.cn. 7199 IN A 202.116.71.100
+
+law.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+law.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+law.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+lc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 591 IN A 202.116.64.201
+
+learning.sysu.edu.cn. 86400 IN A 202.116.65.34
+
+learning.sysu.edu.cn. 7199 IN A 202.116.65.34
+
+learning.sysu.edu.cn. 7199 IN A 202.116.65.34
+
+learning.sysu.edu.cn. 7199 IN A 202.116.65.34
+
+learning.sysu.edu.cn. 7199 IN A 202.116.65.34
+
+learning.sysu.edu.cn. 7199 IN A 202.116.65.34
+
+learning.sysu.edu.cn. 7199 IN A 202.116.65.34
+
+lecture.sysu.edu.cn. 86400 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+lecture.sysu.edu.cn. 7199 IN A 202.116.64.212
+
+led.sysu.edu.cn. 86400 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+led.sysu.edu.cn. 7199 IN A 202.116.65.103
+
+library.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+library.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+library.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 590 IN A 202.116.64.201
+
+library2.sysu.edu.cn. 86400 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+library2.sysu.edu.cn. 7199 IN A 202.116.65.75
+
+life.sysu.edu.cn. 86400 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+life.sysu.edu.cn. 7199 IN A 202.116.74.184
+
+lifecourse.sysu.edu.cn. 86400 IN A 202.116.65.35
+
+lifecourse.sysu.edu.cn. 7199 IN A 202.116.65.35
+
+lifecourse.sysu.edu.cn. 7199 IN A 202.116.65.35
+
+lifecourse.sysu.edu.cn. 7199 IN A 202.116.65.35
+
+lifecourse.sysu.edu.cn. 7199 IN A 202.116.65.35
+
+lifecourse.sysu.edu.cn. 7199 IN A 202.116.65.35
+
+lifecourse.sysu.edu.cn. 7199 IN A 202.116.65.35
+
+lifesciences.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+lifesciences.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+lifesciences.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+lilab2.sysu.edu.cn. 600 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 9 IN A 202.116.65.4
+
+lims.sysu.edu.cn. 86400 IN A 202.116.65.119
+
+lims.sysu.edu.cn. 7199 IN A 202.116.65.119
+
+lims.sysu.edu.cn. 7199 IN A 202.116.65.119
+
+lims.sysu.edu.cn. 7199 IN A 202.116.65.119
+
+lims.sysu.edu.cn. 7199 IN A 202.116.65.119
+
+lims.sysu.edu.cn. 7199 IN A 202.116.65.119
+
+lims.sysu.edu.cn. 7199 IN A 202.116.65.119
+
+lingnan.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+lingnan.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+lingnan.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+alumni.lingnan.sysu.edu.cn. 86400 IN A 202.116.92.184
+
+alumni.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.184
+
+alumni.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.184
+
+alumni.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.184
+
+alumni.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.184
+
+alumni.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.184
+
+alumni.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.184
+
+cw.lingnan.sysu.edu.cn. 86400 IN A 202.116.92.211
+
+cw.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.211
+
+cw.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.211
+
+cw.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.211
+
+cw.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.211
+
+cw.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.211
+
+cw.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.211
+
+ftp.lingnan.sysu.edu.cn. 86400 IN A 202.116.93.49
+
+ftp.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.49
+
+ftp.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.49
+
+ftp.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.49
+
+ftp.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.49
+
+ftp.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.49
+
+ftp.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.49
+
+m.lingnan.sysu.edu.cn. 86400 IN CNAME mbasys.lingnan.sysu.edu.cn.
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+mbasys.lingnan.sysu.edu.cn. 7199 IN A 202.116.92.189
+
+oa.lingnan.sysu.edu.cn. 86400 IN A 202.116.93.110
+
+oa.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.110
+
+oa.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.110
+
+oa.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.110
+
+oa.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.110
+
+oa.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.110
+
+oa.lingnan.sysu.edu.cn. 7199 IN A 202.116.93.110
+
+NXDOMAIN for www.lingnan.sysu.edu.cn
+
+NXDOMAIN for www.lingnan.sysu.edu.cn
+
+lingnanculture.sysu.edu.cn. 86400 IN A 202.116.65.139
+
+lingnanculture.sysu.edu.cn. 7199 IN A 202.116.65.139
+
+lingnanculture.sysu.edu.cn. 7199 IN A 202.116.65.139
+
+lingnanculture.sysu.edu.cn. 7199 IN A 202.116.65.139
+
+lingnanculture.sysu.edu.cn. 7199 IN A 202.116.65.139
+
+lingnanculture.sysu.edu.cn. 7199 IN A 202.116.65.139
+
+lingnanculture.sysu.edu.cn. 7199 IN A 202.116.65.139
+
+liuxihe.sysu.edu.cn. 86400 IN A 202.116.70.202
+
+liuxihe.sysu.edu.cn. 7199 IN A 202.116.70.202
+
+liuxihe.sysu.edu.cn. 7199 IN A 202.116.70.202
+
+liuxihe.sysu.edu.cn. 7199 IN A 202.116.70.202
+
+liuxihe.sysu.edu.cn. 7199 IN A 202.116.70.202
+
+liuxihe.sysu.edu.cn. 7199 IN A 202.116.70.202
+
+liuxihe.sysu.edu.cn. 7199 IN A 202.116.70.202
+
+lnsys.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 0 IN A 202.116.65.3
+
+logic.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+logic.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+logic.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+lovephysics.sysu.edu.cn. 86400 IN A 125.217.165.51
+
+lp2017.sysu.edu.cn. 86400 IN CNAME hep.sysu.edu.cn.
+hep.sysu.edu.cn. 7199 IN A 202.116.65.192
+
+lportal.sysu.edu.cn. 86400 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+ls.sysu.edu.cn. 86400 IN A 202.116.74.5
+
+ls.sysu.edu.cn. 7199 IN A 202.116.74.5
+
+ls.sysu.edu.cn. 7199 IN A 202.116.74.5
+
+ls.sysu.edu.cn. 7199 IN A 202.116.74.5
+
+ls.sysu.edu.cn. 7199 IN A 202.116.74.5
+
+ls.sysu.edu.cn. 7199 IN A 202.116.74.5
+
+ls.sysu.edu.cn. 7199 IN A 202.116.74.5
+
+lsalumni.sysu.edu.cn. 86400 IN A 202.116.65.242
+
+lsalumni.sysu.edu.cn. 7199 IN A 202.116.65.242
+
+lsalumni.sysu.edu.cn. 7199 IN A 202.116.65.242
+
+lsalumni.sysu.edu.cn. 7199 IN A 202.116.65.242
+
+lsalumni.sysu.edu.cn. 7199 IN A 202.116.65.242
+
+lsalumni.sysu.edu.cn. 7199 IN A 202.116.65.242
+
+lsalumni.sysu.edu.cn. 7199 IN A 202.116.65.242
+
+lsstudent.sysu.edu.cn. 86400 IN A 202.116.74.114
+
+lsstudent.sysu.edu.cn. 7199 IN A 202.116.74.114
+
+lsstudent.sysu.edu.cn. 7199 IN A 202.116.74.114
+
+lsstudent.sysu.edu.cn. 7199 IN A 202.116.74.114
+
+lsstudent.sysu.edu.cn. 7199 IN A 202.116.74.114
+
+lsstudent.sysu.edu.cn. 7199 IN A 202.116.74.114
+
+lsstudent.sysu.edu.cn. 7199 IN A 202.116.74.114
+
+ltx.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 589 IN A 202.116.64.201
+
+ltxgl.sysu.edu.cn. 86400 IN A 202.116.65.177
+
+ltxgl.sysu.edu.cn. 7199 IN A 202.116.65.177
+
+ltxgl.sysu.edu.cn. 7199 IN A 202.116.65.177
+
+ltxgl.sysu.edu.cn. 7199 IN A 202.116.65.177
+
+ltxgl.sysu.edu.cn. 7199 IN A 202.116.65.177
+
+ltxgl.sysu.edu.cn. 7199 IN A 202.116.65.177
+
+ltxgl.sysu.edu.cn. 7199 IN A 202.116.65.177
+
+luoxiaoshan.sysu.edu.cn. 86400 IN A 202.116.65.137
+
+luoxiaoshan.sysu.edu.cn. 7199 IN A 202.116.65.137
+
+luoxiaoshan.sysu.edu.cn. 7199 IN A 202.116.65.137
+
+luoxiaoshan.sysu.edu.cn. 7199 IN A 202.116.65.137
+
+luoxiaoshan.sysu.edu.cn. 7199 IN A 202.116.65.137
+
+luoxiaoshan.sysu.edu.cn. 7199 IN A 202.116.65.137
+
+luoxiaoshan.sysu.edu.cn. 7199 IN A 202.116.65.137
+
+m.sysu.edu.cn. 86400 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+m.sysu.edu.cn. 7199 IN A 202.116.64.10
+
+mahara.sysu.edu.cn. 86400 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mahara.sysu.edu.cn. 7199 IN A 202.116.64.213
+
+mail.sysu.edu.cn. 600 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail.sysu.edu.cn. 599 IN A 202.116.64.41
+
+mail2.sysu.edu.cn. 80839 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail2.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mail3.sysu.edu.cn. 86400 IN A 202.116.64.127
+
+mail3.sysu.edu.cn. 7199 IN A 202.116.64.127
+
+mailx.sysu.edu.cn. 60 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+mailx.sysu.edu.cn. 59 IN A 202.116.64.57
+
+marc.sysu.edu.cn. 86400 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marc.sysu.edu.cn. 7199 IN A 202.116.65.217
+
+marine.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+marinet.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+materials.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+materials.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+materials.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+math.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+math.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+math.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+math.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+math.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 588 IN A 202.116.64.201
+
+mathzh.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+mathzh.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+mathzh.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 587 IN A 202.116.64.201
+
+mc.sysu.edu.cn. 86400 IN CNAME mcampus.sysu.edu.cn.
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mc.sysu.edu.cn. 7199 IN CNAME mcampus.sysu.edu.cn.
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mcampus.sysu.edu.cn. 7199 IN A 202.116.64.134
+
+mclab.sysu.edu.cn. 86400 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mclab.sysu.edu.cn. 7199 IN A 125.217.167.186
+
+mcs.sysu.edu.cn. 86400 IN A 202.116.64.67
+
+mcs.sysu.edu.cn. 7199 IN A 202.116.64.67
+
+mcs.sysu.edu.cn. 7199 IN A 202.116.64.67
+
+mcs.sysu.edu.cn. 7199 IN A 202.116.64.67
+
+mcs.sysu.edu.cn. 7199 IN A 202.116.64.67
+
+mcs.sysu.edu.cn. 7199 IN A 202.116.64.67
+
+mcs.sysu.edu.cn. 7199 IN A 202.116.64.67
+
+mechlab.sysu.edu.cn. 86400 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+mechlab.sysu.edu.cn. 7199 IN A 211.66.140.232
+
+NXDOMAIN for med.sysu.edu.cn
+
+medmuseum.sysu.edu.cn. 86400 IN A 202.116.65.165
+
+medmuseum.sysu.edu.cn. 7199 IN A 202.116.65.165
+
+medmuseum.sysu.edu.cn. 7199 IN A 202.116.65.165
+
+medmuseum.sysu.edu.cn. 7199 IN A 202.116.65.165
+
+medmuseum.sysu.edu.cn. 7199 IN A 202.116.65.165
+
+medmuseum.sysu.edu.cn. 7199 IN A 202.116.65.165
+
+medmuseum.sysu.edu.cn. 7199 IN A 202.116.65.165
+
+medtrain.sysu.edu.cn. 86400 IN A 202.116.65.175
+
+medtrain.sysu.edu.cn. 7199 IN A 202.116.65.175
+
+medtrain.sysu.edu.cn. 7199 IN A 202.116.65.175
+
+medtrain.sysu.edu.cn. 7199 IN A 202.116.65.175
+
+medtrain.sysu.edu.cn. 7199 IN A 202.116.65.175
+
+medtrain.sysu.edu.cn. 7199 IN A 202.116.65.175
+
+medtrain.sysu.edu.cn. 7199 IN A 202.116.65.175
+
+meng-lab.sysu.edu.cn. 86400 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+meng-lab.sysu.edu.cn. 7199 IN A 202.116.65.132
+
+mic.sysu.edu.cn. 86400 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+mic.sysu.edu.cn. 7199 IN A 211.66.141.69
+
+midc.sysu.edu.cn. 86400 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+midc.sysu.edu.cn. 7199 IN A 202.116.65.179
+
+mind.sysu.edu.cn. 86400 IN A 202.116.65.240
+
+mind.sysu.edu.cn. 7199 IN A 202.116.65.240
+
+mind.sysu.edu.cn. 7199 IN A 202.116.65.240
+
+mind.sysu.edu.cn. 7199 IN A 202.116.65.240
+
+mind.sysu.edu.cn. 7199 IN A 202.116.65.240
+
+mind.sysu.edu.cn. 7199 IN A 202.116.65.240
+
+mind.sysu.edu.cn. 7199 IN A 202.116.65.240
+
+mirlab.sysu.edu.cn. 86400 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mirlab.sysu.edu.cn. 7199 IN A 202.116.74.192
+
+mkszyxy.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 586 IN A 202.116.64.201
+
+mldap0.sysu.edu.cn. 60 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+mldap0.sysu.edu.cn. 59 IN A 202.116.64.52
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+NXDOMAIN for mldap1.sysu.edu.cn
+
+momdc.sysu.edu.cn. 86400 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+momdc.sysu.edu.cn. 7199 IN A 202.116.102.12
+
+moodle.sysu.edu.cn. 600 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+moodle.sysu.edu.cn. 599 IN A 202.116.64.61
+
+mosas.sysu.edu.cn. 86400 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mosas.sysu.edu.cn. 7199 IN A 202.116.65.218
+
+mpa.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 585 IN A 202.116.64.201
+
+mphilosophy.sysu.edu.cn. 86400 IN A 202.116.65.245
+
+mphilosophy.sysu.edu.cn. 7199 IN A 202.116.65.245
+
+mphilosophy.sysu.edu.cn. 7199 IN A 202.116.65.245
+
+mphilosophy.sysu.edu.cn. 7199 IN A 202.116.65.245
+
+mphilosophy.sysu.edu.cn. 7199 IN A 202.116.65.245
+
+mphilosophy.sysu.edu.cn. 7199 IN A 202.116.65.245
+
+ms.sysu.edu.cn. 3600 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+ms.sysu.edu.cn. 3599 IN A 202.116.64.70
+
+msclub.sysu.edu.cn. 86400 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+msclub.sysu.edu.cn. 7199 IN A 222.200.180.10
+
+mse.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+mse.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+mse.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+mse.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+mse.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+mst.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 584 IN A 202.116.64.201
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+NXDOMAIN for mtax.sysu.edu.cn
+
+mx1.sysu.edu.cn. 86400 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx1.sysu.edu.cn. 7199 IN A 202.116.64.31
+
+mx2.sysu.edu.cn. 86400 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx2.sysu.edu.cn. 7199 IN A 202.116.64.32
+
+mx3.sysu.edu.cn. 60 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx3.sysu.edu.cn. 59 IN A 202.116.64.55
+
+mx4.sysu.edu.cn. 600 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx4.sysu.edu.cn. 599 IN A 202.116.64.35
+
+mx5.sysu.edu.cn. 600 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx5.sysu.edu.cn. 599 IN A 202.116.64.36
+
+mx6.sysu.edu.cn. 60 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+mx6.sysu.edu.cn. 59 IN A 202.116.64.56
+
+my.sysu.edu.cn. 86400 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+my.sysu.edu.cn. 7199 IN CNAME lportal.sysu.edu.cn.
+lportal.sysu.edu.cn. 7199 IN A 202.116.64.7
+
+mypwm.sysu.edu.cn. 86400 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+mypwm.sysu.edu.cn. 7199 IN A 10.16.0.25
+
+nandn.sysu.edu.cn. 86400 IN A 202.116.65.41
+
+nandn.sysu.edu.cn. 7199 IN A 202.116.65.41
+
+nandn.sysu.edu.cn. 7199 IN A 202.116.65.41
+
+nandn.sysu.edu.cn. 7199 IN A 202.116.65.41
+
+nandn.sysu.edu.cn. 7199 IN A 202.116.65.41
+
+nandn.sysu.edu.cn. 7199 IN A 202.116.65.41
+
+nandn.sysu.edu.cn. 7199 IN A 202.116.65.41
+
+nanfang.sysu.edu.cn. 86400 IN A 202.116.79.26
+
+nanfang.sysu.edu.cn. 7199 IN A 202.116.79.26
+
+nanfang.sysu.edu.cn. 7199 IN A 202.116.79.26
+
+nano.sysu.edu.cn. 86400 IN A 202.116.85.8
+
+nano.sysu.edu.cn. 7199 IN A 202.116.85.8
+
+nano.sysu.edu.cn. 7199 IN A 202.116.85.8
+
+nano.sysu.edu.cn. 7199 IN A 202.116.85.8
+
+nano.sysu.edu.cn. 7199 IN A 202.116.85.8
+
+nano.sysu.edu.cn. 7199 IN A 202.116.85.8
+
+nano.sysu.edu.cn. 7199 IN A 202.116.85.8
+
+ndc.sysu.edu.cn. 86400 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+ndc.sysu.edu.cn. 7199 IN A 222.200.182.99
+
+elearning.ne.sysu.edu.cn. 600 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+elearning.ne.sysu.edu.cn. 599 IN A 202.116.64.59
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+NXDOMAIN for ftp2.ne.sysu.edu.cn
+
+nercdl.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 583 IN A 202.116.64.201
+
+netlab.sysu.edu.cn. 86400 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netlab.sysu.edu.cn. 7199 IN A 222.200.182.65
+
+netpay.sysu.edu.cn. 86400 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+netpay.sysu.edu.cn. 7199 IN A 202.116.64.131
+
+news.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+news2.sysu.edu.cn. 600 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+news2.sysu.edu.cn. 599 IN A 202.116.64.81
+
+nheqmdc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+niccs.sysu.edu.cn. 86400 IN A 202.116.64.232
+
+niccs.sysu.edu.cn. 7199 IN A 202.116.64.232
+
+niccs.sysu.edu.cn. 7199 IN A 202.116.64.232
+
+niccs.sysu.edu.cn. 7199 IN A 202.116.64.232
+
+niccs.sysu.edu.cn. 7199 IN A 202.116.64.232
+
+niccs.sysu.edu.cn. 7199 IN A 202.116.64.232
+
+noiselab.sysu.edu.cn. 86400 IN A 222.200.176.92
+
+noiselab.sysu.edu.cn. 7199 IN A 222.200.176.92
+
+noiselab.sysu.edu.cn. 7199 IN A 222.200.176.92
+
+ns1.sysu.edu.cn. 86400 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns1.sysu.edu.cn. 7199 IN A 202.116.64.1
+
+ns2.sysu.edu.cn. 65476 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns2.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+ns3.sysu.edu.cn. 65475 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+ns3.sysu.edu.cn. 7199 IN A 211.66.128.1
+
+nsce.sysu.edu.cn. 86400 IN CNAME bswb.sysu.edu.cn.
+bswb.sysu.edu.cn. 7199 IN A 202.116.65.216
+
+ntp.sysu.edu.cn. 86400 IN A 202.116.64.2
+
+ntp.sysu.edu.cn. 7199 IN A 202.116.64.2
+
+nursing.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+oa.sysu.edu.cn. 30 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+oa.sysu.edu.cn. 29 IN A 202.116.64.120
+
+ocvpn.sysu.edu.cn. 60 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+ocvpn.sysu.edu.cn. 59 IN A 58.249.112.229
+
+oemt.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 582 IN A 202.116.64.201
+
+oemt.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 582 IN A 202.116.64.201
+
+oemt.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 582 IN A 202.116.64.201
+
+oldmail.sysu.edu.cn. 60 IN A 202.116.64.49
+
+oldmail.sysu.edu.cn. 59 IN A 202.116.64.49
+
+oldmail.sysu.edu.cn. 59 IN A 202.116.64.49
+
+oldmail.sysu.edu.cn. 59 IN A 202.116.64.49
+
+oldmail.sysu.edu.cn. 59 IN A 202.116.64.49
+
+oldmail.sysu.edu.cn. 59 IN A 202.116.64.49
+
+oldmail.sysu.edu.cn. 59 IN A 202.116.64.49
+
+omri.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+otrs.sysu.edu.cn. 86400 IN A 202.116.64.88
+
+otrs.sysu.edu.cn. 7199 IN A 202.116.64.88
+
+otrs.sysu.edu.cn. 7199 IN A 202.116.64.88
+
+otrs.sysu.edu.cn. 7199 IN A 202.116.64.88
+
+otrs.sysu.edu.cn. 7199 IN A 202.116.64.88
+
+otrs.sysu.edu.cn. 7199 IN A 202.116.64.88
+
+otrs.sysu.edu.cn. 7199 IN A 202.116.64.88
+
+paper.sysu.edu.cn. 86400 IN A 202.116.65.227
+
+paper.sysu.edu.cn. 7199 IN A 202.116.65.227
+
+paper.sysu.edu.cn. 7199 IN A 202.116.65.227
+
+paper.sysu.edu.cn. 7199 IN A 202.116.65.227
+
+paper.sysu.edu.cn. 7199 IN A 202.116.65.227
+
+paper.sysu.edu.cn. 7199 IN A 202.116.65.227
+
+paper.sysu.edu.cn. 7199 IN A 202.116.65.227
+
+pay.sysu.edu.cn. 47428 IN A 125.217.164.54
+
+pbxt.sysu.edu.cn. 86400 IN A 202.116.65.205
+
+pbxt.sysu.edu.cn. 7199 IN A 202.116.65.205
+
+pbxt.sysu.edu.cn. 7199 IN A 202.116.65.205
+
+pbxt.sysu.edu.cn. 7199 IN A 202.116.65.205
+
+pbxt.sysu.edu.cn. 7199 IN A 202.116.65.205
+
+pbxt.sysu.edu.cn. 7199 IN A 202.116.65.205
+
+pbxt.sysu.edu.cn. 7199 IN A 202.116.65.205
+
+peios.sysu.edu.cn. 86400 IN A 202.116.70.126
+
+peios.sysu.edu.cn. 7199 IN A 202.116.70.126
+
+peios.sysu.edu.cn. 7199 IN A 202.116.70.126
+
+peios.sysu.edu.cn. 7199 IN A 202.116.70.126
+
+peios.sysu.edu.cn. 7199 IN A 202.116.70.126
+
+peios.sysu.edu.cn. 7199 IN A 202.116.70.126
+
+peios.sysu.edu.cn. 7199 IN A 202.116.70.126
+
+phil-zh.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+philosophy.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+philosophy.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+philosophy.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+phs.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 581 IN A 202.116.64.201
+
+physlab.sysu.edu.cn. 86400 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+physlab.sysu.edu.cn. 7199 IN A 202.116.65.141
+
+pisces-1.sysu.edu.cn. 38311 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+piwik.sysu.edu.cn. 51075 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+piwik.sysu.edu.cn. 7199 IN A 202.116.64.132
+
+planetlab-1.sysu.edu.cn. 86400 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-1.sysu.edu.cn. 7199 IN A 202.116.81.194
+
+planetlab-2.sysu.edu.cn. 86400 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+planetlab-2.sysu.edu.cn. 7199 IN A 202.116.81.195
+
+plateforme.sysu.edu.cn. 86400 IN A 211.66.132.169
+
+plateforme.sysu.edu.cn. 7199 IN A 211.66.132.169
+
+plateforme.sysu.edu.cn. 7199 IN A 211.66.132.169
+
+plateforme.sysu.edu.cn. 7199 IN A 211.66.132.169
+
+plateforme.sysu.edu.cn. 7199 IN A 211.66.132.169
+
+plateforme.sysu.edu.cn. 7199 IN A 211.66.132.169
+
+plateforme.sysu.edu.cn. 7199 IN A 211.66.132.169
+
+pm.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 580 IN A 202.116.64.201
+
+podcast.sysu.edu.cn. 86400 IN A 202.116.64.19
+
+podcast.sysu.edu.cn. 7199 IN A 202.116.64.19
+
+podcast.sysu.edu.cn. 7199 IN A 202.116.64.19
+
+podcast.sysu.edu.cn. 7199 IN A 202.116.64.19
+
+podcast.sysu.edu.cn. 7199 IN A 202.116.64.19
+
+podcast.sysu.edu.cn. 7199 IN A 202.116.64.19
+
+podcast.sysu.edu.cn. 7199 IN A 202.116.64.19
+
+poffice.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+portal.sysu.edu.cn. 600 IN CNAME portal.adc.sysu.edu.cn.
+portal.adc.sysu.edu.cn. 30 IN A 202.116.81.230
+
+portal.sysu.edu.cn. 599 IN CNAME portal.adc.sysu.edu.cn.
+portal.adc.sysu.edu.cn. 29 IN A 202.116.81.230
+
+portal.sysu.edu.cn. 599 IN CNAME portal.adc.sysu.edu.cn.
+portal.adc.sysu.edu.cn. 29 IN A 202.116.81.230
+
+preview.sysu.edu.cn. 600 IN A 202.116.64.68
+
+preview.sysu.edu.cn. 599 IN A 202.116.64.68
+
+preview.sysu.edu.cn. 599 IN A 202.116.64.68
+
+preview.sysu.edu.cn. 599 IN A 202.116.64.68
+
+preview.sysu.edu.cn. 599 IN A 202.116.64.68
+
+preview.sysu.edu.cn. 599 IN A 202.116.64.68
+
+preview.sysu.edu.cn. 599 IN A 202.116.64.68
+
+primates.sysu.edu.cn. 86400 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+primates.sysu.edu.cn. 7199 IN A 202.116.65.194
+
+psy.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+psy.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+psy.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+psycorner.sysu.edu.cn. 56143 IN A 202.116.65.121
+
+psycorner.sysu.edu.cn. 7199 IN A 202.116.65.121
+
+psycorner.sysu.edu.cn. 7199 IN A 202.116.65.121
+
+psycorner.sysu.edu.cn. 7199 IN A 202.116.65.121
+
+psycorner.sysu.edu.cn. 7199 IN A 202.116.65.121
+
+psycorner.sysu.edu.cn. 7199 IN A 202.116.65.121
+
+psycorner.sysu.edu.cn. 7199 IN A 202.116.65.121
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-114-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+NXDOMAIN for public-dns-115-a.sysu.edu.cn
+
+qiaopisjk.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 9 IN A 202.116.65.3
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+NXDOMAIN for radius.sysu.edu.cn
+
+rcb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 580 IN A 202.116.64.201
+
+rcdd.sysu.edu.cn. 86400 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rcdd.sysu.edu.cn. 7199 IN A 222.200.178.109
+
+rec.sysu.edu.cn. 86400 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+rec.sysu.edu.cn. 7199 IN A 202.116.64.63
+
+record.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 580 IN A 202.116.64.201
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+redirector.sysu.edu.cn. 7166 IN A 202.116.64.127
+
+research.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+research.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+research.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+rna.sysu.edu.cn. 600 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 9 IN A 202.116.65.4
+
+rna.sysu.edu.cn. 599 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 9 IN A 202.116.65.4
+
+rna.sysu.edu.cn. 599 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 9 IN A 202.116.65.4
+
+rnaqueen.sysu.edu.cn. 86400 IN A 202.116.90.22
+
+rnaqueen.sysu.edu.cn. 7199 IN A 202.116.90.22
+
+rsc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+rsc.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+rtx.sysu.edu.cn. 86400 IN A 202.116.64.27
+
+rtx.sysu.edu.cn. 7199 IN A 202.116.64.27
+
+rtx.sysu.edu.cn. 7199 IN A 202.116.64.27
+
+rtx.sysu.edu.cn. 7199 IN A 202.116.64.27
+
+rtx.sysu.edu.cn. 7199 IN A 202.116.64.27
+
+rtx.sysu.edu.cn. 7199 IN A 202.116.64.27
+
+rtx.sysu.edu.cn. 7199 IN A 202.116.64.27
+
+sa.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+saa.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 578 IN A 202.116.64.201
+
+sac.sysu.edu.cn. 86400 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sac.sysu.edu.cn. 7199 IN A 222.200.190.31
+
+sakai.sysu.edu.cn. 86400 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sakai.sysu.edu.cn. 7199 IN A 202.116.64.211
+
+sam.sysu.edu.cn. 600 IN A 202.116.64.82
+
+sam.sysu.edu.cn. 599 IN A 202.116.64.82
+
+sam.sysu.edu.cn. 599 IN A 202.116.64.82
+
+sam.sysu.edu.cn. 599 IN A 202.116.64.82
+
+sam.sysu.edu.cn. 599 IN A 202.116.64.82
+
+sam.sysu.edu.cn. 599 IN A 202.116.64.82
+
+sam.sysu.edu.cn. 599 IN A 202.116.64.82
+
+samplesize.sysu.edu.cn. 86400 IN A 202.116.86.32
+
+samplesize.sysu.edu.cn. 7199 IN A 202.116.86.32
+
+samplesize.sysu.edu.cn. 7199 IN A 202.116.86.32
+
+samplesize.sysu.edu.cn. 7199 IN A 202.116.86.32
+
+samplesize.sysu.edu.cn. 7199 IN A 202.116.86.32
+
+samplesize.sysu.edu.cn. 7199 IN A 202.116.86.32
+
+samplesize.sysu.edu.cn. 7199 IN A 202.116.86.32
+
+sbc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 578 IN A 202.116.64.201
+
+scd.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+scd.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+scd.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+sce.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 579 IN A 202.116.64.201
+
+scholar-proxy.sysu.edu.cn. 30 IN A 220.250.64.225
+
+scholar-proxy.sysu.edu.cn. 29 IN A 220.250.64.225
+
+scholar-proxy.sysu.edu.cn. 29 IN A 220.250.64.225
+
+scholar-proxy.sysu.edu.cn. 29 IN A 220.250.64.225
+
+scholar-proxy.sysu.edu.cn. 29 IN A 220.250.64.225
+
+scholar-proxy.sysu.edu.cn. 29 IN A 220.250.64.225
+
+scholar-proxy.sysu.edu.cn. 29 IN A 220.250.64.225
+
+scrcss.sysu.edu.cn. 86400 IN A 202.116.86.61
+
+scrcss.sysu.edu.cn. 7199 IN A 202.116.86.61
+
+scrcss.sysu.edu.cn. 7199 IN A 202.116.86.61
+
+scrcss.sysu.edu.cn. 7199 IN A 202.116.86.61
+
+scrcss.sysu.edu.cn. 7199 IN A 202.116.86.61
+
+scrcss.sysu.edu.cn. 7199 IN A 202.116.86.61
+
+scrcss.sysu.edu.cn. 7199 IN A 202.116.86.61
+
+scsl.sysu.edu.cn. 58584 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scsl.sysu.edu.cn. 7199 IN A 202.116.65.19
+
+scstore.sysu.edu.cn. 86400 IN A 202.116.65.133
+
+scstore.sysu.edu.cn. 7199 IN A 202.116.65.133
+
+scstore.sysu.edu.cn. 7199 IN A 202.116.65.133
+
+scstore.sysu.edu.cn. 7199 IN A 202.116.65.133
+
+scstore.sysu.edu.cn. 7199 IN A 202.116.65.133
+
+scstore.sysu.edu.cn. 7199 IN A 202.116.65.133
+
+scstore.sysu.edu.cn. 7199 IN A 202.116.65.133
+
+sdcs.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 578 IN A 202.116.64.201
+
+sdcs.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 578 IN A 202.116.64.201
+
+sdcs2.sysu.edu.cn. 86400 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcs2.sysu.edu.cn. 7199 IN A 222.200.185.9
+
+sdcsgraduate.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 6 IN A 202.116.65.3
+
+sdwpay.sysu.edu.cn. 600 IN A 202.116.64.141
+
+sdwpay.sysu.edu.cn. 599 IN A 202.116.64.141
+
+sdwpay.sysu.edu.cn. 599 IN A 202.116.64.141
+
+sdwpay.sysu.edu.cn. 599 IN A 202.116.64.141
+
+sdwpay.sysu.edu.cn. 599 IN A 202.116.64.141
+
+sdwpay.sysu.edu.cn. 599 IN A 202.116.64.141
+
+sdwpay.sysu.edu.cn. 599 IN A 202.116.64.141
+
+sece.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+seit.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+seit.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+seit.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+sese.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+sese.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+sese.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 577 IN A 202.116.64.201
+
+seseconf.sysu.edu.cn. 86400 IN A 202.116.65.228
+
+seseconf.sysu.edu.cn. 7199 IN A 202.116.65.228
+
+seseconf.sysu.edu.cn. 7199 IN A 202.116.65.228
+
+seseconf.sysu.edu.cn. 7199 IN A 202.116.65.228
+
+seseconf.sysu.edu.cn. 7199 IN A 202.116.65.228
+
+seseconf.sysu.edu.cn. 7199 IN A 202.116.65.228
+
+seseconf.sysu.edu.cn. 7199 IN A 202.116.65.228
+
+sges.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 575 IN A 202.116.64.201
+
+shafei.sysu.edu.cn. 86400 IN A 202.116.65.206
+
+shafei.sysu.edu.cn. 7199 IN A 202.116.65.206
+
+shafei.sysu.edu.cn. 7199 IN A 202.116.65.206
+
+shafei.sysu.edu.cn. 7199 IN A 202.116.65.206
+
+shafei.sysu.edu.cn. 7199 IN A 202.116.65.206
+
+shafei.sysu.edu.cn. 7199 IN A 202.116.65.206
+
+shafei.sysu.edu.cn. 7199 IN A 202.116.65.206
+
+share.sysu.edu.cn. 86400 IN A 202.116.118.158
+
+shenzhen.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 576 IN A 202.116.64.201
+
+shenzhen.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 576 IN A 202.116.64.201
+
+shenzhen.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 576 IN A 202.116.64.201
+
+shimeigroup.sysu.edu.cn. 600 IN CNAME home.sysu.edu.cn.
+home.sysu.edu.cn. 7199 IN A 202.116.64.20
+
+sir.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 576 IN A 202.116.64.201
+
+sist.sysu.edu.cn. 81367 IN A 222.200.182.92
+
+teaching.sist.sysu.edu.cn. 86400 IN A 202.116.65.67
+
+teaching.sist.sysu.edu.cn. 7199 IN A 202.116.65.67
+
+teaching.sist.sysu.edu.cn. 7199 IN A 202.116.65.67
+
+teaching.sist.sysu.edu.cn. 7199 IN A 202.116.65.67
+
+teaching.sist.sysu.edu.cn. 7199 IN A 202.116.65.67
+
+teaching.sist.sysu.edu.cn. 7199 IN A 202.116.65.67
+
+teaching.sist.sysu.edu.cn. 7199 IN A 202.116.65.67
+
+sklbc.sysu.edu.cn. 86400 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+sm1.sysu.edu.cn. 86400 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sm1.sysu.edu.cn. 7199 IN A 202.116.64.105
+
+sme.sysu.edu.cn. 86400 IN A 202.116.65.150
+
+sme.sysu.edu.cn. 7199 IN A 202.116.65.150
+
+sme.sysu.edu.cn. 7199 IN A 202.116.65.150
+
+sme.sysu.edu.cn. 7199 IN A 202.116.65.150
+
+sme.sysu.edu.cn. 7199 IN A 202.116.65.150
+
+sme.sysu.edu.cn. 7199 IN A 202.116.65.150
+
+sme.sysu.edu.cn. 7199 IN A 202.116.65.150
+
+soeasy.sysu.edu.cn. 86400 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+soeasy.sysu.edu.cn. 7199 IN A 202.116.65.101
+
+sog.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+spa.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+spa.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+spa.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+spe.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+spe.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+spe.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sph.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sph.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sph.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sps.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sps.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sps.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sps.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sps.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+ss.sysu.edu.cn. 86400 IN A 222.200.182.51
+
+ss.sysu.edu.cn. 7199 IN A 222.200.182.51
+
+ss.sysu.edu.cn. 7199 IN A 222.200.182.51
+
+my.ss.sysu.edu.cn. 86400 IN A 222.200.182.50
+
+ssa.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+ssa.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sso.sysu.edu.cn. 86400 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+sso.sysu.edu.cn. 7199 IN A 202.116.64.5
+
+ssse.sysu.edu.cn. 60 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 59 IN A 202.116.64.201
+
+starbase.sysu.edu.cn. 600 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 5 IN A 202.116.65.4
+
+starbase.sysu.edu.cn. 599 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 5 IN A 202.116.65.4
+
+starbase.sysu.edu.cn. 599 IN CNAME d.webadc.sysu.edu.cn.
+d.webadc.sysu.edu.cn. 5 IN A 202.116.65.4
+
+sti.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sti.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+sti.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+stm.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 575 IN A 202.116.64.201
+
+stm.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 575 IN A 202.116.64.201
+
+stm.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 575 IN A 202.116.64.201
+
+student.sysu.edu.cn. 60 IN A 202.116.64.89
+
+student.sysu.edu.cn. 59 IN A 202.116.64.89
+
+studiesinlogic.sysu.edu.cn. 600 IN CNAME c.webadc.sysu.edu.cn.
+c.webadc.sysu.edu.cn. 4 IN A 202.116.65.3
+
+summerprogram.sysu.edu.cn. 600 IN CNAME home.sysu.edu.cn.
+home.sysu.edu.cn. 7199 IN A 202.116.64.20
+
+survey.sysu.edu.cn. 600 IN A 202.116.65.65
+
+sycl.sysu.edu.cn. 600 IN CNAME elmo.sysu.edu.cn.
+elmo.sysu.edu.cn. 7199 IN A 202.116.65.204
+
+sysbio.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+sysbio.sysu.edu.cn. 599 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+szmed.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+szmed.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+szmed.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+tcna.sysu.edu.cn. 86400 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+tcna.sysu.edu.cn. 7199 IN A 202.116.90.20
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for es.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for gw.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+NXDOMAIN for ok.test.sysu.edu.cn
+
+tianqin.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 573 IN A 202.116.64.201
+
+tiyu.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 574 IN A 202.116.64.201
+
+tiyu2009.sysu.edu.cn. 86400 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+tiyu2009.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+toxicology.sysu.edu.cn. 86400 IN A 202.116.65.122
+
+toxicology.sysu.edu.cn. 7199 IN A 202.116.65.122
+
+toxicology.sysu.edu.cn. 7199 IN A 202.116.65.122
+
+toxicology.sysu.edu.cn. 7199 IN A 202.116.65.122
+
+toxicology.sysu.edu.cn. 7199 IN A 202.116.65.122
+
+toxicology.sysu.edu.cn. 7199 IN A 202.116.65.122
+
+toxicology.sysu.edu.cn. 7199 IN A 202.116.65.122
+
+tpg.sysu.edu.cn. 86400 IN A 125.217.162.8
+
+tpg.sysu.edu.cn. 7199 IN A 125.217.162.8
+
+tpg.sysu.edu.cn. 7199 IN A 125.217.162.8
+
+tpg.sysu.edu.cn. 7199 IN A 125.217.162.8
+
+tpg.sysu.edu.cn. 7199 IN A 125.217.162.8
+
+tpg.sysu.edu.cn. 7199 IN A 125.217.162.8
+
+tpg.sysu.edu.cn. 7199 IN A 125.217.162.8
+
+tv.sysu.edu.cn. 86400 IN CNAME news.sysu.edu.cn.
+news.sysu.edu.cn. 591 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems.sysu.edu.cn. 7173 IN A 202.116.64.121
+
+uems-c.sysu.edu.cn. 600 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uems-e.sysu.edu.cn. 582 IN A 202.116.64.125
+
+uemsin.sysu.edu.cn. 600 IN A 202.116.64.120
+
+uemsin.sysu.edu.cn. 599 IN A 202.116.64.120
+
+uemsin.sysu.edu.cn. 599 IN A 202.116.64.120
+
+uemsin.sysu.edu.cn. 599 IN A 202.116.64.120
+
+uemsin.sysu.edu.cn. 599 IN A 202.116.64.120
+
+uemsin.sysu.edu.cn. 599 IN A 202.116.64.120
+
+uemsin.sysu.edu.cn. 599 IN A 202.116.64.120
+
+uitfaq.sysu.edu.cn. 600 IN CNAME adc76.sysu.edu.cn.
+adc76.sysu.edu.cn. 599 IN A 202.116.64.76
+
+urban.sysu.edu.cn. 86400 IN A 202.116.65.117
+
+urban.sysu.edu.cn. 7199 IN A 202.116.65.117
+
+urban.sysu.edu.cn. 7199 IN A 202.116.65.117
+
+urban.sysu.edu.cn. 7199 IN A 202.116.65.117
+
+urban.sysu.edu.cn. 7199 IN A 202.116.65.117
+
+urban.sysu.edu.cn. 7199 IN A 202.116.65.117
+
+urban.sysu.edu.cn. 7199 IN A 202.116.65.117
+
+usc.sysu.edu.cn. 86400 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usc.sysu.edu.cn. 7199 IN A 202.116.64.119
+
+usm.sysu.edu.cn. 86400 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+usm.sysu.edu.cn. 7199 IN A 202.116.91.7
+
+vision.sysu.edu.cn. 86400 IN A 222.200.181.227
+
+vpn.sysu.edu.cn. 86400 IN A 202.116.91.2
+
+vpn.sysu.edu.cn. 7199 IN A 202.116.91.2
+
+vpn.sysu.edu.cn. 7199 IN A 202.116.91.2
+
+vpn.sysu.edu.cn. 7199 IN A 202.116.91.2
+
+vpn.sysu.edu.cn. 7199 IN A 202.116.91.2
+
+vpn.sysu.edu.cn. 7199 IN A 202.116.91.2
+
+vpn.sysu.edu.cn. 7199 IN A 202.116.91.2
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+warm.sysu.edu.cn. 86400 IN A 202.116.76.63
+
+warm.sysu.edu.cn. 7199 IN A 202.116.76.63
+
+warm.sysu.edu.cn. 7199 IN A 202.116.76.63
+
+warm.sysu.edu.cn. 7199 IN A 202.116.76.63
+
+warm.sysu.edu.cn. 7199 IN A 202.116.76.63
+
+warm.sysu.edu.cn. 7199 IN A 202.116.76.63
+
+warm.sysu.edu.cn. 7199 IN A 202.116.76.63
+
+weather.sysu.edu.cn. 86400 IN A 202.116.65.231
+
+weather.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+weather.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+weather.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+weather.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+weather.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+weather.sysu.edu.cn. 7199 IN A 202.116.65.231
+
+a.webadc.sysu.edu.cn. 10 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+a.webadc.sysu.edu.cn. 9 IN A 202.116.65.1
+
+b.webadc.sysu.edu.cn. 10 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+b.webadc.sysu.edu.cn. 9 IN A 202.116.65.2
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+c.webadc.sysu.edu.cn. 3 IN A 202.116.65.3
+
+NXDOMAIN for radius.sysu.edu.cnc.webadc.sysu.edu.cn
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+d.webadc.sysu.edu.cn. 3 IN A 202.116.65.4
+
+e.webadc.sysu.edu.cn. 10 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+e.webadc.sysu.edu.cn. 9 IN A 202.116.65.5
+
+ns1.webadc.sysu.edu.cn. 10 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+ns1.webadc.sysu.edu.cn. 9 IN A 202.116.64.3
+
+webiah.sysu.edu.cn. 600 IN CNAME dpcms-b.sysu.edu.cn.
+dpcms-b.sysu.edu.cn. 599 IN A 202.116.64.202
+
+webvideo.sysu.edu.cn. 86400 IN A 202.116.65.237
+
+webvideo.sysu.edu.cn. 7199 IN A 202.116.65.237
+
+webvideo.sysu.edu.cn. 7199 IN A 202.116.65.237
+
+webvideo.sysu.edu.cn. 7199 IN A 202.116.65.237
+
+webvideo.sysu.edu.cn. 7199 IN A 202.116.65.237
+
+webvideo.sysu.edu.cn. 7199 IN A 202.116.65.237
+
+webvideo.sysu.edu.cn. 7199 IN A 202.116.65.237
+
+webvpn.sysu.edu.cn. 68816 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+cas-443.webvpn.sysu.edu.cn. 41776 IN A 202.116.81.230
+
+cas-443.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+my.webvpn.sysu.edu.cn. 86400 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 86400 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+www.webvpn.sysu.edu.cn. 7199 IN A 202.116.81.230
+
+wechat.sysu.edu.cn. 86400 IN A 202.116.64.250
+
+wechat.sysu.edu.cn. 7199 IN A 202.116.64.250
+
+wechat.sysu.edu.cn. 7199 IN A 202.116.64.250
+
+wechat.sysu.edu.cn. 7199 IN A 202.116.64.250
+
+wechat.sysu.edu.cn. 7199 IN A 202.116.64.250
+
+wechat.sysu.edu.cn. 7199 IN A 202.116.64.250
+
+wechat.sysu.edu.cn. 7199 IN A 202.116.64.250
+
+wework.sysu.edu.cn. 600 IN A 202.116.64.71
+
+wework.sysu.edu.cn. 599 IN A 202.116.64.71
+
+wework.sysu.edu.cn. 599 IN A 202.116.64.71
+
+wework.sysu.edu.cn. 599 IN A 202.116.64.71
+
+wework.sysu.edu.cn. 599 IN A 202.116.64.71
+
+wework.sysu.edu.cn. 599 IN A 202.116.64.71
+
+wework.sysu.edu.cn. 599 IN A 202.116.64.71
+
+wjw.sysu.edu.cn. 86400 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wjw.sysu.edu.cn. 7199 IN A 202.116.65.183
+
+wrfchem.sysu.edu.cn. 86400 IN A 202.116.70.30
+
+wrfchem.sysu.edu.cn. 7199 IN A 202.116.70.30
+
+wrfchem.sysu.edu.cn. 7199 IN A 202.116.70.30
+
+wrfchem.sysu.edu.cn. 7199 IN A 202.116.70.30
+
+wrfchem.sysu.edu.cn. 7199 IN A 202.116.70.30
+
+wrfchem.sysu.edu.cn. 7199 IN A 202.116.70.30
+
+wrfchem.sysu.edu.cn. 7199 IN A 202.116.70.30
+
+wsjj.sysu.edu.cn. 600 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsjj.sysu.edu.cn. 599 IN CNAME e.webadc.sysu.edu.cn.
+e.webadc.sysu.edu.cn. 8 IN A 202.116.65.5
+
+wsus.sysu.edu.cn. 86400 IN A 202.116.64.24
+
+wsus.sysu.edu.cn. 7199 IN A 202.116.64.24
+
+wsus.sysu.edu.cn. 7199 IN A 202.116.64.24
+
+wsus.sysu.edu.cn. 7199 IN A 202.116.64.24
+
+wsus.sysu.edu.cn. 7199 IN A 202.116.64.24
+
+wsus.sysu.edu.cn. 7199 IN A 202.116.64.24
+
+wsus.sysu.edu.cn. 7199 IN A 202.116.64.24
+
+wulab.sysu.edu.cn. 86400 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+wulab.sysu.edu.cn. 7199 IN A 202.116.65.63
+
+www.sysu.edu.cn. 60 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+www.sysu.edu.cn. 59 IN CNAME pisces-1.sysu.edu.cn.
+pisces-1.sysu.edu.cn. 7199 IN A 202.116.64.8
+
+wxpay.sysu.edu.cn. 86400 IN A 202.116.65.2
+
+wxpay.sysu.edu.cn. 7199 IN A 202.116.65.2
+
+wxpay.sysu.edu.cn. 7199 IN A 202.116.65.2
+
+wxpay.sysu.edu.cn. 7199 IN A 202.116.65.2
+
+wxpay.sysu.edu.cn. 7199 IN A 202.116.65.2
+
+wxpay.sysu.edu.cn. 7199 IN A 202.116.65.2
+
+wxpay.sysu.edu.cn. 7199 IN A 202.116.65.2
+
+wxs.sysu.edu.cn. 600 IN CNAME waf2.sysu.edu.cn.
+waf2.sysu.edu.cn. 7199 IN A 202.116.65.212
+
+wzb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 572 IN A 202.116.64.201
+
+xcb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 571 IN A 202.116.64.201
+
+xgxt.sysu.edu.cn. 86400 IN CNAME uems.sysu.edu.cn.
+uems.sysu.edu.cn. 7199 IN A 202.116.64.121
+
+xgxt.sysu.edu.cn. 7199 IN CNAME uems.sysu.edu.cn.
+uems.sysu.edu.cn. 7199 IN A 202.116.64.121
+
+xiaobao.sysu.edu.cn. 86400 IN A 202.116.64.86
+
+xiaobao.sysu.edu.cn. 7199 IN A 202.116.64.86
+
+xiaobao.sysu.edu.cn. 7199 IN A 202.116.64.86
+
+xiaobao.sysu.edu.cn. 7199 IN A 202.116.64.86
+
+xiaobao.sysu.edu.cn. 7199 IN A 202.116.64.86
+
+xiaobao.sysu.edu.cn. 7199 IN A 202.116.64.86
+
+xiaobao.sysu.edu.cn. 7199 IN A 202.116.64.86
+
+xpb.sysu.edu.cn. 86400 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xpb.sysu.edu.cn. 7199 IN A 202.116.65.151
+
+xsc.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+xsc.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+xsc.sysu.edu.cn. 29 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+xshx.sysu.edu.cn. 86400 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xshx.sysu.edu.cn. 7199 IN A 202.116.65.26
+
+xsybw.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 557 IN A 202.116.64.201
+
+xuebao.sysu.edu.cn. 600 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuebao.sysu.edu.cn. 599 IN A 202.116.65.61
+
+xuefeng.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+xxgk.sysu.edu.cn. 30 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 29 IN A 202.116.64.201
+
+yaolab.sysu.edu.cn. 86400 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+yaolab.sysu.edu.cn. 7199 IN A 202.116.90.80
+
+ygafz.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 599 IN A 202.116.64.201
+
+yqgx.sysu.edu.cn. 600 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yqgx.sysu.edu.cn. 599 IN CNAME uems-c.sysu.edu.cn.
+uems-c.sysu.edu.cn. 599 IN A 202.116.64.123
+
+yss.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 557 IN A 202.116.64.201
+
+yssoa.sysu.edu.cn. 86400 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yssoa.sysu.edu.cn. 7199 IN A 125.217.167.139
+
+yxjwc.sysu.edu.cn. 83263 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxjwc.sysu.edu.cn. 7199 IN A 202.116.65.135
+
+yxysz.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 556 IN A 202.116.64.201
+
+yyglc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 556 IN A 202.116.64.201
+
+yzs.sysu.edu.cn. 86400 IN A 202.116.65.112
+
+yzs.sysu.edu.cn. 7199 IN A 202.116.65.112
+
+yzs.sysu.edu.cn. 7199 IN A 202.116.65.112
+
+yzs.sysu.edu.cn. 7199 IN A 202.116.65.112
+
+yzs.sysu.edu.cn. 7199 IN A 202.116.65.112
+
+yzs.sysu.edu.cn. 7199 IN A 202.116.65.112
+
+yzs.sysu.edu.cn. 7199 IN A 202.116.65.112
+
+zbzx.sysu.edu.cn. 86400 IN A 202.116.65.105
+
+zbzx.sysu.edu.cn. 7199 IN A 202.116.65.105
+
+zbzx.sysu.edu.cn. 7199 IN A 202.116.65.105
+
+zbzx.sysu.edu.cn. 7199 IN A 202.116.65.105
+
+zbzx.sysu.edu.cn. 7199 IN A 202.116.65.105
+
+zbzx.sysu.edu.cn. 7199 IN A 202.116.65.105
+
+zbzx.sysu.edu.cn. 7199 IN A 202.116.65.105
+
+zc.sysu.edu.cn. 86400 IN CNAME uems.sysu.edu.cn.
+uems.sysu.edu.cn. 7199 IN A 202.116.64.121
+
+zcs2.sysu.edu.cn. 60 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+zcs2.sysu.edu.cn. 59 IN A 202.116.64.89
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+NXDOMAIN for zddkdnpx.sysu.edu.cn
+
+zdgh.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 556 IN A 202.116.64.201
+
+zdgh.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 556 IN A 202.116.64.201
+
+zdgh.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 556 IN A 202.116.64.201
+
+zdtw.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+zdtw.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+zdtw.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 598 IN A 202.116.64.201
+
+zhtj.zdtw.sysu.edu.cn. 86400 IN A 211.66.141.22
+
+zhtj.zdtw.sysu.edu.cn. 7199 IN A 211.66.141.22
+
+zhtj.zdtw.sysu.edu.cn. 7199 IN A 211.66.141.22
+
+zhtj.zdtw.sysu.edu.cn. 7199 IN A 211.66.141.22
+
+zhtj.zdtw.sysu.edu.cn. 7199 IN A 211.66.141.22
+
+zhtj.zdtw.sysu.edu.cn. 7199 IN A 211.66.141.22
+
+zhtj.zdtw.sysu.edu.cn. 7199 IN A 211.66.141.22
+
+zhiyuan.sysu.edu.cn. 86400 IN A 202.116.65.62
+
+zhiyuan.sysu.edu.cn. 7199 IN A 202.116.65.62
+
+zhiyuan.sysu.edu.cn. 7199 IN A 202.116.65.62
+
+zhiyuan.sysu.edu.cn. 7199 IN A 202.116.65.62
+
+zhiyuan.sysu.edu.cn. 7199 IN A 202.116.65.62
+
+zhiyuan.sysu.edu.cn. 7199 IN A 202.116.65.62
+
+zhiyuan.sysu.edu.cn. 7199 IN A 202.116.65.62
+
+NXDOMAIN for zhuhai.sysu.edu.cn
+
+NXDOMAIN for zhuhai.sysu.edu.cn
+
+NXDOMAIN for zhuhai.sysu.edu.cn
+
+zldap.sysu.edu.cn. 86400 IN A 202.116.64.45
+
+zldap.sysu.edu.cn. 7199 IN A 202.116.64.45
+
+zldap.sysu.edu.cn. 7199 IN A 202.116.64.45
+
+zldap.sysu.edu.cn. 7199 IN A 202.116.64.45
+
+zldap.sysu.edu.cn. 7199 IN A 202.116.64.45
+
+zldap.sysu.edu.cn. 7199 IN A 202.116.64.45
+
+zldap.sysu.edu.cn. 7199 IN A 202.116.64.45
+
+zldap2.sysu.edu.cn. 86400 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zldap2.sysu.edu.cn. 7199 IN A 202.116.64.46
+
+zmbx0.sysu.edu.cn. 86400 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx0.sysu.edu.cn. 7199 IN A 202.116.64.47
+
+zmbx1.sysu.edu.cn. 86400 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zmbx1.sysu.edu.cn. 7199 IN A 202.116.64.48
+
+zsb.sysu.edu.cn. 86400 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zsb.sysu.edu.cn. 7199 IN A 202.116.65.52
+
+zssom.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 597 IN A 202.116.64.201
+
+zssom.sysu.edu.cn. 599 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 597 IN A 202.116.64.201
+
+www.zsusoft.sysu.edu.cn. 86400 IN A 202.116.87.176
+
+www.zsusoft.sysu.edu.cn. 7199 IN A 202.116.87.176
+
+www.zsusoft.sysu.edu.cn. 7199 IN A 202.116.87.176
+
+www.zsusoft.sysu.edu.cn. 7199 IN A 202.116.87.176
+
+www.zsusoft.sysu.edu.cn. 7199 IN A 202.116.87.176
+
+www.zsusoft.sysu.edu.cn. 7199 IN A 202.116.87.176
+
+www.zsusoft.sysu.edu.cn. 7199 IN A 202.116.87.176
+
+zwc.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 597 IN A 202.116.64.201
+
+zx.sysu.edu.cn. 86400 IN A 202.116.65.187
+
+zx.sysu.edu.cn. 7199 IN A 202.116.65.187
+
+zx.sysu.edu.cn. 7199 IN A 202.116.65.187
+
+zx.sysu.edu.cn. 7199 IN A 202.116.65.187
+
+zx.sysu.edu.cn. 7199 IN A 202.116.65.187
+
+zx.sysu.edu.cn. 7199 IN A 202.116.65.187
+
+zx.sysu.edu.cn. 7199 IN A 202.116.65.187
+
+zzb.sysu.edu.cn. 600 IN CNAME dpcms-a.sysu.edu.cn.
+dpcms-a.sysu.edu.cn. 597 IN A 202.116.64.201
+

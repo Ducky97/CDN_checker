@@ -1,0 +1,44 @@
+{
+    "http": {
+        "header": {
+            "Server": "gzsc/1.0.0",
+            "Date": "Wed, 16 Sep 2020 09:19:28 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Expires": "Sat, 26 Sep 2020 09:19:28 GMT",
+            "Cache-Control": "max-age=864000",
+            "Access-Control-Allow-Methods": "GET",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "*",
+            "sc": "http://about.mama.cn/join-social.html"
+        },
+        "nslookup": {
+            "mama.cn": [
+                "134.175.173.148"
+            ],
+            "www.mama.cn": [
+                "101.251.205.205"
+            ]
+        },
+        "ping": {
+            "mama.cn": [
+                "134.175.173.148"
+            ],
+            "www.mama.cn": [
+                "101.251.205.205"
+            ]
+        },
+        "CNAME": {
+            "www.mama.cn": [
+                "cname.mama.cn."
+            ]
+        },
+        "A": {
+            "www.mama.cn": [
+                "101.251.205.205"
+            ]
+        }
+    },
+    "https": null
+}

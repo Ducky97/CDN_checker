@@ -1,0 +1,29 @@
+{
+    "http": null,
+    "https": {
+        "header": {
+            "Content-Length": "62",
+            "Connection": "close",
+            "Cache-Control": "no-cache,no-store",
+            "Pragma": "no-cache"
+        },
+        "nslookup": {
+            "afrc.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        },
+        "ping": {
+            "afrc.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        },
+        "CNAME": {
+            "afrc.sjtu.edu.cn": null
+        },
+        "A": {
+            "afrc.sjtu.edu.cn": [
+                "202.120.35.199"
+            ]
+        }
+    }
+}

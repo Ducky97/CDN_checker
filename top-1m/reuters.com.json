@@ -1,0 +1,112 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "19841",
+            "Connection": "keep-alive",
+            "browser-expires": "Wed, 16 Sep 2020 11:35:26 GMT",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 11:35:27 GMT",
+            "Expires": "Wed, 16 Sep 2020 11:36:26 GMT",
+            "Last-UpdatedL": "Wed, 16 Sep 2020 08:29:29 GMT",
+            "Server": "nginx",
+            "Set-Cookie": "JSESSIONID=12FDAD3B73AB660EADAB1D95449C8C40; Path=/rcom-betacn/; HttpOnly",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 e458de70cfe2237c659d4e5f2ae84565.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "K4_F2dQ4VvsOT707qVgf5RQQYS57gEgqftf5FLjttobn8-wr6nCuSA==",
+            "Age": "6"
+        },
+        "nslookup": {
+            "reuters.com": [
+                "52.2.61.110"
+            ],
+            "cn.reuters.com": [
+                "13.227.228.78",
+                "13.227.228.11",
+                "13.227.228.85",
+                "13.227.228.58"
+            ]
+        },
+        "ping": {
+            "reuters.com": [
+                "52.2.61.110"
+            ],
+            "cn.reuters.com": [
+                "13.227.228.11",
+                "13.227.228.58",
+                "13.227.228.78",
+                "13.227.228.85"
+            ]
+        },
+        "CNAME": {
+            "cn.reuters.com": [
+                "cn.reutersmedia.net."
+            ]
+        },
+        "A": {
+            "cn.reuters.com": [
+                "13.227.228.11",
+                "13.227.228.58",
+                "13.227.228.78",
+                "13.227.228.85"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "19841",
+            "Connection": "keep-alive",
+            "browser-expires": "Wed, 16 Sep 2020 11:35:26 GMT",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 11:35:27 GMT",
+            "Expires": "Wed, 16 Sep 2020 11:36:26 GMT",
+            "Last-UpdatedL": "Wed, 16 Sep 2020 08:29:29 GMT",
+            "Server": "nginx",
+            "Set-Cookie": "JSESSIONID=12FDAD3B73AB660EADAB1D95449C8C40; Path=/rcom-betacn/; HttpOnly",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 66d851b48249ff71df5688c84f41fec9.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "BkLwILCX9olr3jYn_bDkLfakqrQhDkb020Mj2J6-RCTuuMJtG9c55w==",
+            "Age": "8"
+        },
+        "nslookup": {
+            "reuters.com": [
+                "52.2.61.110"
+            ],
+            "cn.reuters.com": [
+                "13.227.228.58",
+                "13.227.228.85",
+                "13.227.228.78",
+                "13.227.228.11"
+            ]
+        },
+        "ping": {
+            "reuters.com": [
+                "52.2.61.110"
+            ],
+            "cn.reuters.com": [
+                "13.227.228.11",
+                "13.227.228.58",
+                "13.227.228.78",
+                "13.227.228.85"
+            ]
+        },
+        "CNAME": {
+            "cn.reuters.com": [
+                "cn.reutersmedia.net."
+            ]
+        },
+        "A": {
+            "cn.reuters.com": [
+                "13.227.228.11",
+                "13.227.228.58",
+                "13.227.228.78",
+                "13.227.228.85"
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Cache-control": "private, s-maxage=0, max-age=0, must-revalidate, no-store",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=utf-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:39:00 GMT",
+            "Via": "1.1 varnish",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "loid=00000000008428njs4.2.1600252738676.Z0FBQUFBQmZZZXRDZ2ZMcl81Q2I1djE0ZHl0WXFmZDR2SnNMb3IyTnEzMGFKRHdhUFpnS2dWOVJEWC1pSFJxaGlGU2NlUk5KOElOZGMtZ3RTVVQtNHpDT1pnaExjWUd5MVpDOVNCMWVFSTZtSXhoZUV5T2RueEJlSFByUFhDR1FaWVZrRUNzc3ZwQ18; path=/; expires=Fri, 16 Sep 2022 10:38:58 GMT; domain=.reddit.com; secure; SameSite=None; Secure, session_tracker=YlF9ABO6IyHNlIDMXU.0.1600252739163.Z0FBQUFBQmZZZXREbGdrb3FvallLcS1Db2RtWkxhWllGWnpOLVR1OXdMUFdTOWlaYVktbjhRME5JRFh3a0swM09qQzJOR2VZSUNydG94SjZBX0NyVDdfNWhUQlZQd1JWNjZueU8yZlBkTG1SVkZ4MFF4cDd0RDMtMUhpbHlYNGYxV2Q1bXEzVFJERFY; path=/; domain=.reddit.com; secure; SameSite=None; Secure, d2_token=3.700fbeecbfa5252a501d71e126d2d7b1b5b7dc80e3a2edc59dce8ad4cd56fdf4.eyJhY2Nlc3NUb2tlbiI6Ii1kMDd1dUV0bnFnOHEySmpNbms5VXp1RkMxWUUiLCJleHBpcmVzIjoiMjAyMC0wOS0xNlQxMTozODo1OC4wMDBaIiwibG9nZ2VkT3V0Ijp0cnVlLCJzY29wZXMiOlsiKiIsImVtYWlsIl19; path=/; expires=Fri, 16 Sep 2022 10:38:58 GMT; domain=.reddit.com; secure, csv=1; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None, edgebucket=zHOlEY1Qkw50MV15gI; Domain=reddit.com; Max-Age=63071999; Path=/;  secure",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+            "Server": "snooserv",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "redd.it": [
+                "151.101.193.140",
+                "151.101.65.140",
+                "151.101.1.140",
+                "151.101.129.140"
+            ],
+            "www.reddit.com": [
+                "151.101.1.140",
+                "151.101.65.140",
+                "151.101.129.140",
+                "151.101.193.140"
+            ]
+        },
+        "ping": {
+            "redd.it": [
+                "151.101.1.140",
+                "151.101.129.140",
+                "151.101.65.140"
+            ],
+            "www.reddit.com": [
+                "151.101.9.140"
+            ]
+        },
+        "CNAME": {
+            "www.reddit.com": [
+                "reddit.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.reddit.com": [
+                "151.101.9.140"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Cache-control": "private, s-maxage=0, max-age=0, must-revalidate, no-store",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=utf-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:39:03 GMT",
+            "Via": "1.1 varnish",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "loid=00000000008428o6y7.2.1600252741801.Z0FBQUFBQmZZZXRGREhwZWRUMGU5bXVQNXNSTlExcGJVNWVTeVlSY2l1eG5tMzlDOURpTFJYaDFLU2tWVkxla3gtbVFWdnBNemdISHVDM0owRjlkdTJURDZBVWl5Zm40SHlicFdYNEY3ZGxSMUhjV0MwR19JczFCQWh4YWY0TkxERU1QTFE1cTBjNTU; path=/; expires=Fri, 16 Sep 2022 10:39:01 GMT; domain=.reddit.com; secure; SameSite=None; Secure, session_tracker=fGbAoeJUE51lGET3yt.0.1600252742175.Z0FBQUFBQmZZZXRHbU9yM3dlblhHQWtXbUE5UVR4NFB4dHpBM1ZuODR5WDl5UGxCQTZZQWUzNnZSd0lWOUhURmZuU3VrdXp0eHJWdWJuOGZ3WlFSU0ZDSkJpaEdqTGFwYmZHVlhWTS0zMThWMWtOTDZZaFhlN2JjQm5RQ0lldzNQTUhtc0N4Tmg5Y3A; path=/; domain=.reddit.com; secure; SameSite=None; Secure, d2_token=3.003761124c8f4b6b1d4dd75763bbaa8780401fcb75f7c3802f2c7251a716b2b5.eyJhY2Nlc3NUb2tlbiI6Ii0td2hPOEcweXRtX2R1VVZRTEVGb0pNY0dyRlEiLCJleHBpcmVzIjoiMjAyMC0wOS0xNlQxMTozOTowMS4wMDBaIiwibG9nZ2VkT3V0Ijp0cnVlLCJzY29wZXMiOlsiKiIsImVtYWlsIl19; path=/; expires=Fri, 16 Sep 2022 10:39:01 GMT; domain=.reddit.com; secure, csv=1; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None, edgebucket=o9n8cQh68HX1SQS1nZ; Domain=reddit.com; Max-Age=63071999; Path=/;  secure",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+            "Server": "snooserv",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "redd.it": [
+                "151.101.65.140",
+                "151.101.193.140",
+                "151.101.1.140",
+                "151.101.129.140"
+            ],
+            "www.reddit.com": [
+                "151.101.1.140",
+                "151.101.65.140",
+                "151.101.129.140",
+                "151.101.193.140"
+            ]
+        },
+        "ping": {
+            "redd.it": [
+                "151.101.1.140",
+                "151.101.129.140",
+                "151.101.193.140",
+                "151.101.65.140"
+            ],
+            "www.reddit.com": [
+                "151.101.9.140"
+            ]
+        },
+        "CNAME": {
+            "www.reddit.com": [
+                "reddit.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.reddit.com": [
+                "151.101.9.140"
+            ]
+        }
+    }
+}

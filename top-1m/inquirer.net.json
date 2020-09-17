@@ -1,0 +1,112 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:35:31 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+            "Link": "<https://www.inquirer.net/wp-json/>; rel=\"https://api.w.org/\"",
+            "Set-Cookie": "set_userlocation_inq=US; expires=Thu, 17-Sep-2020 11:35:23 GMT; Max-Age=86400",
+            "X-Powered-By": "WP Engine",
+            "X-Cacheable": "SHORT",
+            "Cache-Control": "max-age=600, must-revalidate",
+            "X-Cache": "MISS",
+            "X-Cache-Group": "normal",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "05384bba130000dcdea30db200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a48a35b12dcde-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "inquirer.net": [
+                "104.20.232.107",
+                "104.20.231.107",
+                "172.67.18.121"
+            ],
+            "www.inquirer.net": [
+                "104.20.232.107",
+                "104.20.231.107",
+                "172.67.18.121"
+            ]
+        },
+        "ping": {
+            "inquirer.net": [
+                "104.20.231.107",
+                "172.67.18.121",
+                "104.20.232.107"
+            ],
+            "www.inquirer.net": [
+                "104.20.231.107",
+                "172.67.18.121"
+            ]
+        },
+        "CNAME": {
+            "www.inquirer.net": null
+        },
+        "A": {
+            "www.inquirer.net": [
+                "104.20.231.107",
+                "172.67.18.121",
+                "104.20.232.107"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:35:32 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+            "Link": "<https://www.inquirer.net/wp-json/>; rel=\"https://api.w.org/\"",
+            "Set-Cookie": "set_userlocation_inq=US; expires=Thu, 17-Sep-2020 11:35:23 GMT; Max-Age=86400",
+            "X-Powered-By": "WP Engine",
+            "X-Cacheable": "SHORT",
+            "Cache-Control": "max-age=600, must-revalidate",
+            "X-Cache": "HIT: 1",
+            "X-Cache-Group": "normal",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "05384bdbad0000c359be2a0200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a48d91e70c359-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "inquirer.net": [
+                "172.67.18.121",
+                "104.20.232.107",
+                "104.20.231.107"
+            ],
+            "www.inquirer.net": [
+                "104.20.231.107",
+                "104.20.232.107",
+                "172.67.18.121"
+            ]
+        },
+        "ping": {
+            "inquirer.net": [
+                "104.20.231.107",
+                "172.67.18.121"
+            ],
+            "www.inquirer.net": [
+                "104.20.231.107",
+                "172.67.18.121",
+                "104.20.232.107"
+            ]
+        },
+        "CNAME": {
+            "www.inquirer.net": null
+        },
+        "A": {
+            "www.inquirer.net": [
+                "104.20.231.107",
+                "172.67.18.121",
+                "104.20.232.107"
+            ]
+        }
+    }
+}

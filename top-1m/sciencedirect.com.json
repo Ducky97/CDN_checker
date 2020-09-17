@@ -1,0 +1,112 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:49:15 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=daa03ca3de889a1166550b4d9ce5550b01600253354; expires=Fri, 16-Oct-20 10:49:14 GMT; path=/; domain=.sciencedirect.com; HttpOnly; SameSite=Lax; Secure, EUID=ab0c5d39-3b56-4a9a-ad73-98a0613d474a;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;Expires=Sun, 16 Sep 2040 10:49:15 GMT, sd_session_id=3da531e44d5985419a799bc964cb2c126b49gxrqa;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;HttpOnly, acw=3da531e44d5985419a799bc964cb2c126b49gxrqa%7C%24%7C4B6B8D8A184EB86F5A2B612F5F943044FE40101C5DC8EDC6996F5ECD6E392BE40308778E7023446F7A03C8152EB8A4DEADFEC67252C059C83FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure, has_multiple_organizations=false;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure, MIAMISESSION=7c6f7ac1-3b11-45c6-94d9-34bea4632482:3777706154;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;HttpOnly, id_ab=B:100:8:12ba49fe-d5eb-4bca-9e4f-9d55f34d7e1f;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;Expires=Sun, 16 Sep 2040 10:49:15 GMT",
+            "Cache-Control": "no-store, no-cache, max-age=0",
+            "Pragma": "no-cache",
+            "vary": "accept-encoding",
+            "X-Content-Type-Options": "nosniff",
+            "x-correlation-id": "hpx-e329780d-32b4-40ed-b603-b38a088e263e",
+            "X-ELS-Platform": "sdfe",
+            "X-Region": "us-east-1",
+            "X-Router": "true",
+            "x-sdfe-corr-id": "hpx-e329780d-32b4-40ed-b603-b38a088e263e",
+            "X-XSS-Protection": "1; mode=block",
+            "CF-Cache-Status": "BYPASS",
+            "cf-request-id": "053821796b0000f90b58819200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Strict-Transport-Security": "max-age=2678400; preload",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a0508aedaf90b-NRT",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ],
+            "www.sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ]
+        },
+        "ping": {
+            "sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ],
+            "www.sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ]
+        },
+        "CNAME": {
+            "www.sciencedirect.com": null
+        },
+        "A": {
+            "www.sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:49:16 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=ddffdb3d6127adcac06d6d254e7a9587c1600253355; expires=Fri, 16-Oct-20 10:49:15 GMT; path=/; domain=.sciencedirect.com; HttpOnly; SameSite=Lax; Secure, EUID=63d05527-676b-4ee6-9100-990bd4b27c02;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;Expires=Sun, 16 Sep 2040 10:49:16 GMT, sd_session_id=21fba24b48848648ea5bc9a4656350fa4a24gxrqa;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;HttpOnly, acw=21fba24b48848648ea5bc9a4656350fa4a24gxrqa%7C%24%7CA953E5FAEB64E68DD9BAF74F7D418B7E8073171FC8E883628A71EFF1A1AA0597668320D68670F09EC74736CA757570881C44AE4C368FA9593FBA44D1BD4E4F2EB0469A67597464825D387A21AFA2E514;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure, has_multiple_organizations=false;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure, MIAMISESSION=aa1e22a2-7cda-4bf3-a2d8-dee5ec8b6fcb:3777706156;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;HttpOnly, id_ab=B:100:8:7c714dbc-7c3f-42d9-8bbf-535efbfe6109;Version=1;Comment=;SameSite=None;Domain=.sciencedirect.com;Path=/;Secure;Expires=Sun, 16 Sep 2040 10:49:16 GMT",
+            "Cache-Control": "no-store, no-cache, max-age=0",
+            "Pragma": "no-cache",
+            "vary": "accept-encoding",
+            "X-Content-Type-Options": "nosniff",
+            "x-correlation-id": "hpx-14f14f0c-61aa-4a46-9b02-128798a9e044",
+            "X-ELS-Platform": "sdfe",
+            "X-Region": "us-east-1",
+            "X-Router": "true",
+            "x-sdfe-corr-id": "hpx-14f14f0c-61aa-4a46-9b02-128798a9e044",
+            "X-XSS-Protection": "1; mode=block",
+            "CF-Cache-Status": "BYPASS",
+            "cf-request-id": "0538217fa100006eaf2124b200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Strict-Transport-Security": "max-age=2678400; preload",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a05129d6b6eaf-NRT",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ],
+            "www.sciencedirect.com": [
+                "162.159.129.81",
+                "162.159.130.81"
+            ]
+        },
+        "ping": {
+            "sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ],
+            "www.sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ]
+        },
+        "CNAME": {
+            "www.sciencedirect.com": null
+        },
+        "A": {
+            "www.sciencedirect.com": [
+                "162.159.130.81",
+                "162.159.129.81"
+            ]
+        }
+    }
+}

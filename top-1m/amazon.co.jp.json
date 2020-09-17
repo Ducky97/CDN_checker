@@ -1,0 +1,115 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 09:18:02 GMT",
+            "x-amz-rid": "P58V0F0YGC0JX279GKD4",
+            "Set-Cookie": "session-id=356-6146066-8067904; Domain=.amazon.co.jp; Expires=Thu, 16-Sep-2021 09:18:02 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.co.jp; Expires=Thu, 16-Sep-2021 09:18:02 GMT; Path=/, i18n-prefs=JPY; Domain=.amazon.co.jp; Expires=Thu, 16-Sep-2021 09:18:02 GMT; Path=/, skin=noskin; path=/; domain=.amazon.co.jp",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Language": "ja-JP",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 b4eebfe47952c39ed1b8a9637b729eb4.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "ojnd4yxafn8OUz150jSPx2j-V1QUJHrn8bsy4vR5vcB_V_OteWsppg=="
+        },
+        "nslookup": {
+            "amazon.co.jp": [
+                "52.119.161.5",
+                "52.119.168.48",
+                "52.119.164.121"
+            ],
+            "www.amazon.co.jp": [
+                "23.50.89.11"
+            ]
+        },
+        "ping": {
+            "amazon.co.jp": [
+                "52.119.161.5",
+                "52.119.164.121"
+            ],
+            "www.amazon.co.jp": [
+                "13.35.15.164",
+                "23.50.89.11"
+            ]
+        },
+        "CNAME": {
+            "amazon.co.jp": null
+        },
+        "A": {
+            "amazon.co.jp": [
+                "52.119.168.48",
+                "52.119.161.5",
+                "52.119.164.121"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Server",
+            "Content-Type": "text/html;charset=UTF-8",
+            "x-amz-rid": "BPTN1JX19D8400MC9MKQ",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "Content-Language": "ja-JP",
+            "X-UA-Compatible": "IE=edge",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Date": "Wed, 16 Sep 2020 09:18:04 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "session-id=357-2851702-9488825; Domain=.amazon.co.jp; Expires=Thu, 16-Sep-2021 09:18:04 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.co.jp; Expires=Thu, 16-Sep-2021 09:18:04 GMT; Path=/, i18n-prefs=JPY; Domain=.amazon.co.jp; Expires=Thu, 16-Sep-2021 09:18:04 GMT; Path=/, skin=noskin; path=/; domain=.amazon.co.jp"
+        },
+        "nslookup": {
+            "amazon.co.jp": [
+                "52.119.168.48",
+                "52.119.164.121",
+                "52.119.161.5"
+            ],
+            "www.amazon.co.jp": [
+                "13.35.15.164"
+            ]
+        },
+        "ping": {
+            "amazon.co.jp": [
+                "52.119.168.48",
+                "52.119.161.5",
+                "52.119.164.121"
+            ],
+            "www.amazon.co.jp": [
+                "13.35.15.164",
+                "23.50.89.11"
+            ]
+        },
+        "CNAME": {
+            "amazon.co.jp": null
+        },
+        "A": {
+            "amazon.co.jp": [
+                "52.119.168.48",
+                "52.119.161.5",
+                "52.119.164.121"
+            ]
+        }
+    }
+}

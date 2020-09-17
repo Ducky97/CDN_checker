@@ -1,0 +1,89 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "52409",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "Server": "Microsoft-IIS/8.5",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Date": "Wed, 16 Sep 2020 11:23:04 GMT",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 f2f73edfafc086543441bca742024226.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "lt580K3pkJE84wOr49T5JDRqhZe4RPVIJNMF-j5f0YnPc0l8K7kbvA=="
+        },
+        "nslookup": {
+            "ebc.net.tw": [
+                "13.35.20.94",
+                "13.35.20.89",
+                "13.35.20.48",
+                "13.35.20.6"
+            ]
+        },
+        "ping": {
+            "ebc.net.tw": [
+                "13.35.20.94",
+                "13.35.20.6",
+                "13.35.20.89"
+            ]
+        },
+        "CNAME": {
+            "ebc.net.tw": null
+        },
+        "A": {
+            "ebc.net.tw": [
+                "13.35.20.94",
+                "13.35.20.6",
+                "13.35.20.89",
+                "13.35.20.48"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "52409",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "Server": "Microsoft-IIS/8.5",
+            "X-AspNet-Version": "4.0.30319",
+            "X-Powered-By": "ASP.NET",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Date": "Wed, 16 Sep 2020 11:23:04 GMT",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 b69cdfc59bad6747d764482ac620f776.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "ksMvwDqs6Jd8uzK27Rm2BVZLK5mx-vafObCLP_d-UrZHIxPYp_Dfmg==",
+            "Age": "2"
+        },
+        "nslookup": {
+            "ebc.net.tw": [
+                "13.35.20.94",
+                "13.35.20.89",
+                "13.35.20.48",
+                "13.35.20.6"
+            ]
+        },
+        "ping": {
+            "ebc.net.tw": [
+                "13.35.20.94",
+                "13.35.20.6",
+                "13.35.20.89"
+            ]
+        },
+        "CNAME": {
+            "ebc.net.tw": null
+        },
+        "A": {
+            "ebc.net.tw": [
+                "13.35.20.94",
+                "13.35.20.6",
+                "13.35.20.89",
+                "13.35.20.48"
+            ]
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Content-Length": "9403",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "JSESSIONID=ajax:6212639477931905370; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure, lang=v=2&lang=en-us; SameSite=None; Path=/; Domain=linkedin.com; Secure, bcookie=\"v=2&edc0cca0-e5c1-4db0-83a8-208840d5b381\"; domain=.linkedin.com; Path=/; Secure; Expires=Fri, 16-Sep-2022 20:56:12 GMT, bscookie=\"v=1&202009160918395749c357-13e6-49b2-8b71-c6ea2ed20f2eAQHTXuxI0KWyBzKI4T5LXFhtJ4Pa-6ga\"; domain=.www.linkedin.com; Path=/; Secure; Expires=Fri, 16-Sep-2022 20:56:12 GMT; HttpOnly, lidc=\"b=VGST07:g=1867:u=1:i=1600247920:t=1600334320:s=AQFWnbWhDqm3Vw82DXr2da0NNEMsBZt_\"; Expires=Thu, 17 Sep 2020 09:18:40 GMT; domain=.linkedin.com; Path=/",
+            "X-FS-TXN-ID": "2ba71e094250",
+            "X-FS-UUID": "c079fd350139351610bd753ea02b0000",
+            "Expect-CT": "max-age=86400, report-uri=\"https://www.linkedin.com/platform-telemetry/ct\"",
+            "X-XSS-Protection": "1; mode=block",
+            "Content-Security-Policy-Report-Only": "default-src 'none'; connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; script-src 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; img-src data: blob: *; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src dms.licdn.com; child-src blob: *; frame-src 'self' lnkd.demdex.net linkedin.cdn.qualaroo.com; manifest-src 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=g",
+            "Content-Security-Policy": "default-src *; connect-src 'self' https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com m.c.exp1.licdn.com m.c.exp2.licdn.com wss://*.linkedin.com dms.licdn.com https://dpm.demdex.net/id https://lnkd.demdex.net/event blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ www.google-analytics.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com media.licdn.com media-exp1.licdn.com media-exp2.licdn.com media-exp3.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com slideshare.www.linkedin.com https://snap.licdn.com/li.lms-analytics/insight.min.js platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'",
+            "X-Frame-Options": "sameorigin",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=2592000",
+            "X-Li-Fabric": "prod-lva1",
+            "X-Li-Pop": "afd-prod-edc2",
+            "X-Li-Proto": "http/1.1",
+            "X-LI-UUID": "wHn9NQE5NRYQvXU+oCsAAA==",
+            "X-MSEdge-Ref": "Ref A: 19951A95647D4D60B87D7F2D26762707 Ref B: SGEEDGE0612 Ref C: 2020-09-16T09:18:39Z",
+            "Date": "Wed, 16 Sep 2020 09:18:39 GMT"
+        },
+        "nslookup": {
+            "linkedin.com": [
+                "108.174.10.10"
+            ],
+            "www.linkedin.com": [
+                "13.107.42.14"
+            ]
+        },
+        "ping": {
+            "linkedin.com": [
+                "108.174.10.10"
+            ],
+            "www.linkedin.com": [
+                "13.107.42.14"
+            ]
+        },
+        "CNAME": {
+            "www.linkedin.com": [
+                "www-linkedin-com.l-0005.l-msedge.net."
+            ]
+        },
+        "A": {
+            "www.linkedin.com": [
+                "13.107.42.14"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Content-Length": "9404",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "JSESSIONID=ajax:1876941575835681903; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure, lang=v=2&lang=en-us; SameSite=None; Path=/; Domain=linkedin.com; Secure, bcookie=\"v=2&5fa4e21b-6527-4b13-8a1a-ae5be1003501\"; domain=.linkedin.com; Path=/; Secure; Expires=Fri, 16-Sep-2022 20:56:13 GMT, bscookie=\"v=1&20200916091841652f616b-2b85-445f-8994-2c6051c5add2AQHLXZf71IPANYczJIe7MwRAUI7UEggR\"; domain=.www.linkedin.com; Path=/; Secure; Expires=Fri, 16-Sep-2022 20:56:13 GMT; HttpOnly, lidc=\"b=TGST07:g=1862:u=1:i=1600247921:t=1600334321:s=AQFlY2l8_SqWPQDI1F1YvSOA3R6hfVYO\"; Expires=Thu, 17 Sep 2020 09:18:41 GMT; domain=.linkedin.com; Path=/",
+            "X-FS-UUID": "a0d8568201393516a019d9e2042b0000",
+            "Expect-CT": "max-age=86400, report-uri=\"https://www.linkedin.com/platform-telemetry/ct\"",
+            "X-XSS-Protection": "1; mode=block",
+            "Content-Security-Policy-Report-Only": "default-src 'none'; connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; script-src 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' snap.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src dms.licdn.com *.lynda.com; child-src blob: lnkd-communities: voyager: *; frame-src 'self' https://www.youtube.com/embed/ https://www.youtube-nocookie.com/embed/ lnkd.demdex.net https://smartlock.google.com/ https://accounts.google.com/ linkedin.cdn.qualaroo.com player.vimeo.com; manifest-src 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=gm",
+            "Content-Security-Policy": "default-src 'none'; connect-src 'self' www.linkedin.com www.google-analytics.com https://dpm.demdex.net/id lnkd.demdex.net blob: https://accounts.google.com/gsi/status https://linkedin.sc.omtrdc.net/b/ss/ static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; script-src 'self' 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' snap.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src dms.licdn.com *.lynda.com; child-src blob: lnkd-communities: voyager: *; frame-src 'self' https://www.youtube.com/embed/ https://www.youtube-nocookie.com/embed/ lnkd.demdex.net https://smartlock.google.com/ https://accounts.google.com/ linkedin.cdn.qualaroo.com player.vimeo.com; manifest-src 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=gg",
+            "X-Frame-Options": "sameorigin",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=2592000",
+            "X-Li-Fabric": "prod-ltx1",
+            "X-Li-Pop": "afd-prod-esv5",
+            "X-Li-Proto": "http/1.1",
+            "X-LI-UUID": "oNhWggE5NRagGdniBCsAAA==",
+            "X-MSEdge-Ref": "Ref A: 14B20191627E4E87A1E1308A0C4F427D Ref B: SGEEDGE0419 Ref C: 2020-09-16T09:18:41Z",
+            "Date": "Wed, 16 Sep 2020 09:18:41 GMT"
+        },
+        "nslookup": {
+            "linkedin.com": [
+                "108.174.10.10"
+            ],
+            "www.linkedin.com": [
+                "13.107.42.14"
+            ]
+        },
+        "ping": {
+            "linkedin.com": [
+                "108.174.10.10"
+            ],
+            "www.linkedin.com": [
+                "13.107.42.14"
+            ]
+        },
+        "CNAME": {
+            "www.linkedin.com": [
+                "www-linkedin-com.l-0005.l-msedge.net."
+            ]
+        },
+        "A": {
+            "www.linkedin.com": [
+                "13.107.42.14"
+            ]
+        }
+    }
+}

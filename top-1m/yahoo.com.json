@@ -1,0 +1,125 @@
+{
+    "http": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 08:59:11 GMT",
+            "p3p": "policyref=\"https://policies.yahoo.com/w3c/p3p.xml\", CP=\"CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV\"",
+            "cache-control": "no-store, no-cache, max-age=0, private",
+            "strict-transport-security": "max-age=31536000",
+            "accept-ch": "device-memory, dpr, width, viewport-width, rtt, downlink, ect",
+            "accept-ch-lifetime": "604800",
+            "x-frame-options": "SAMEORIGIN",
+            "set-cookie": "autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=sg.yahoo.com, B=5rkdn6hfm3kuv&b=3&s=d7; Max-Age=31557600; Domain=.yahoo.com; Path=/",
+            "x-xss-protection": "1; mode=block",
+            "content-encoding": "gzip",
+            "x-content-type-options": "nosniff",
+            "content-type": "text/html; charset=UTF-8",
+            "x-envoy-upstream-service-time": "17",
+            "server": "ATS",
+            "Age": "1",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Expires": "-1",
+            "Content-Security-Policy": "frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=SG&lang=en-SG&device=desktop&yrid=ddj4dv5fm3kv0&partner=;",
+            "Expect-CT": "max-age=31536000, report-uri=\"http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only\"",
+            "Referrer-Policy": "no-referrer-when-downgrade"
+        },
+        "nslookup": {
+            "yahoo.com": [
+                "74.6.231.20",
+                "98.137.11.164",
+                "74.6.143.26",
+                "74.6.231.21",
+                "74.6.143.25",
+                "98.137.11.163"
+            ],
+            "sg.yahoo.com": [
+                "202.165.107.50",
+                "202.165.107.49"
+            ]
+        },
+        "ping": {
+            "yahoo.com": [
+                "74.6.231.21",
+                "74.6.143.26",
+                "98.137.11.163"
+            ],
+            "sg.yahoo.com": [
+                "202.165.107.50",
+                "202.165.107.49"
+            ]
+        },
+        "CNAME": {
+            "sg.yahoo.com": [
+                "atsv2-fp-shed.wg1.b.yahoo.com."
+            ]
+        },
+        "A": {
+            "sg.yahoo.com": [
+                "202.165.107.50",
+                "202.165.107.49"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 08:59:13 GMT",
+            "p3p": "policyref=\"https://policies.yahoo.com/w3c/p3p.xml\", CP=\"CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV\"",
+            "cache-control": "no-store, no-cache, max-age=0, private",
+            "strict-transport-security": "max-age=31536000",
+            "accept-ch": "device-memory, dpr, width, viewport-width, rtt, downlink, ect",
+            "accept-ch-lifetime": "604800",
+            "x-frame-options": "SAMEORIGIN",
+            "set-cookie": "autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=sg.yahoo.com, B=bbp15alfm3kv1&b=3&s=b0; Max-Age=31557600; Domain=.yahoo.com; Path=/",
+            "x-xss-protection": "1; mode=block",
+            "content-encoding": "gzip",
+            "x-content-type-options": "nosniff",
+            "content-type": "text/html; charset=UTF-8",
+            "x-envoy-upstream-service-time": "11",
+            "server": "ATS",
+            "Age": "0",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Expires": "-1",
+            "Content-Security-Policy": "frame-ancestors 'self' https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=SG&lang=en-SG&device=desktop&yrid=3ej33d5fm3kv1&partner=;",
+            "Expect-CT": "max-age=31536000, report-uri=\"http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only\"",
+            "Referrer-Policy": "no-referrer-when-downgrade"
+        },
+        "nslookup": {
+            "yahoo.com": [
+                "74.6.143.26",
+                "74.6.143.25",
+                "98.137.11.163",
+                "74.6.231.20",
+                "98.137.11.164",
+                "74.6.231.21"
+            ],
+            "sg.yahoo.com": [
+                "202.165.107.50",
+                "202.165.107.49"
+            ]
+        },
+        "ping": {
+            "yahoo.com": [
+                "74.6.231.21",
+                "98.137.11.164",
+                "98.137.11.163",
+                "74.6.143.25"
+            ],
+            "sg.yahoo.com": [
+                "202.165.107.50",
+                "202.165.107.49"
+            ]
+        },
+        "CNAME": {
+            "sg.yahoo.com": [
+                "atsv2-fp-shed.wg1.b.yahoo.com."
+            ]
+        },
+        "A": {
+            "sg.yahoo.com": [
+                "202.165.107.50",
+                "202.165.107.49"
+            ]
+        }
+    }
+}

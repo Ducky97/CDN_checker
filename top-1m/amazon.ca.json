@@ -1,0 +1,112 @@
+{
+    "http": {
+        "header": {
+            "Server": "Server",
+            "Content-Type": "text/html;charset=UTF-8",
+            "x-amz-rid": "W32YPX44JHHH1GJGF9WW",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "Content-Language": "en-CA",
+            "X-UA-Compatible": "IE=edge",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Date": "Wed, 16 Sep 2020 10:00:55 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "session-id=141-8652956-6068440; Domain=.amazon.ca; Expires=Thu, 16-Sep-2021 10:00:55 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.ca; Expires=Thu, 16-Sep-2021 10:00:55 GMT; Path=/, i18n-prefs=CAD; Domain=.amazon.ca; Expires=Thu, 16-Sep-2021 10:00:55 GMT; Path=/"
+        },
+        "nslookup": {
+            "amazon.ca": [
+                "54.239.19.238",
+                "54.239.18.172",
+                "52.94.225.242"
+            ],
+            "www.amazon.ca": [
+                "13.227.242.107"
+            ]
+        },
+        "ping": {
+            "amazon.ca": [
+                "52.94.225.242",
+                "54.239.18.172",
+                "54.239.19.238"
+            ],
+            "www.amazon.ca": [
+                "125.252.229.115",
+                "13.227.242.107"
+            ]
+        },
+        "CNAME": {
+            "www.amazon.ca": [
+                "tp.3a3674792-frontier.amazon.ca."
+            ]
+        },
+        "A": {
+            "www.amazon.ca": [
+                "125.252.229.115"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Server",
+            "Content-Type": "text/html;charset=UTF-8",
+            "x-amz-rid": "KVQTV84TCGD3DXK0MECA",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Language": "en-CA",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Date": "Wed, 16 Sep 2020 10:00:57 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "session-id=131-4072662-9215256; Domain=.amazon.ca; Expires=Thu, 16-Sep-2021 10:00:57 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.ca; Expires=Thu, 16-Sep-2021 10:00:57 GMT; Path=/, i18n-prefs=CAD; Domain=.amazon.ca; Expires=Thu, 16-Sep-2021 10:00:57 GMT; Path=/"
+        },
+        "nslookup": {
+            "amazon.ca": [
+                "52.94.225.242",
+                "54.239.19.238",
+                "54.239.18.172"
+            ],
+            "www.amazon.ca": [
+                "13.227.242.107"
+            ]
+        },
+        "ping": {
+            "amazon.ca": [
+                "52.94.225.242",
+                "54.239.18.172",
+                "54.239.19.238"
+            ],
+            "www.amazon.ca": [
+                "125.252.229.115",
+                "13.227.242.107"
+            ]
+        },
+        "CNAME": {
+            "www.amazon.ca": [
+                "tp.3a3674792-frontier.amazon.ca."
+            ]
+        },
+        "A": {
+            "www.amazon.ca": [
+                "125.252.229.115"
+            ]
+        }
+    }
+}

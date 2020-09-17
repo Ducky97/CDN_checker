@@ -1,0 +1,58 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.16.1 (Ubuntu)",
+            "Date": "Wed, 16 Sep 2020 10:01:14 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "PHPSESSID=1un5qellgno9ciqv6oo7lej6q0; path=/; domain=.archive.org",
+            "Strict-Transport-Security": "max-age=15724800",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "archive.org": [
+                "207.241.224.2"
+            ]
+        },
+        "ping": {
+            "archive.org": [
+                "207.241.224.2"
+            ]
+        },
+        "CNAME": {
+            "archive.org": "still a low_level domain_name"
+        },
+        "A": {
+            "archive.org": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.16.1 (Ubuntu)",
+            "Date": "Wed, 16 Sep 2020 10:01:16 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "PHPSESSID=johfrig4jg5h0dnqk4m9mgjmr3; path=/; domain=.archive.org",
+            "Strict-Transport-Security": "max-age=15724800",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "archive.org": [
+                "207.241.224.2"
+            ]
+        },
+        "ping": {
+            "archive.org": [
+                "207.241.224.2"
+            ]
+        },
+        "CNAME": {
+            "archive.org": "still a low_level domain_name"
+        },
+        "A": {
+            "archive.org": "still a low_level domain_name"
+        }
+    }
+}

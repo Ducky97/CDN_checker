@@ -1,0 +1,111 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=ISO-8859-1",
+            "X-Ion-Hop": "Prod",
+            "Expires": "0",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "P3P": "policyref=\"/w3c/p3p.xml\", CP=\"CAO DSP CUR ADM DEV OUR NOR STP UNIo NAV STA PREi TAI\"",
+            "Pragma": "no-cache",
+            "X-Akamai-CITISITE": "SWDC",
+            "Strict-Transport-Security": "max-age=300",
+            "Content-Language": "en-US",
+            "X-DEBUG-TIER2-PARENT": "41534c8-23.223.202.141-1600254173-AUTH1-SHPIP23.223.150.15-TCIP47.241.77.232",
+            "jid": "200916070253642756217418, 200916070253642756217418",
+            "X-UA-Compatible": "IE=edge, IE=edge",
+            "X-DEBUG-TIER2": "205d256-23.223.150.15-1600254173-AUTH1-SHPIP4.79.61.108-TCIP47.241.77.232",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "9 - 0 pmb=mTOE,1",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 11:02:53 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Set-Cookie": "JSESSIONID=0000-gApxXVNGfSO-MUe8KsEHBx:sw13p-srv3; Path=/; Secure, CUUID=a548485d-c0e1-4064-81dc-fec49db5141d; Expires=Thu, 16-Sep-21 11:02:52 GMT; Path=/; Domain=.citi.com; Secure, AKMTLTSID=FB466D746BBF210C8BE134DF9A8EC558; path=/; domain=citi.com; secure, CITI_SITE=swdc; path=/; domain=.citi.com; secure; HttpOnly, AKMTLTSID=6EE7D72C97E9F3824D2892711ADD0267; path=/; domain=citi.com; secure, CITI_SITE=swdc; path=/; domain=.citi.com; secure; HttpOnly",
+            "X-WebKit-CSP": "frame-ancestors https://*.citi.com https://*.citigroup.net https://*.nsroot.net",
+            "X-Content-Security-Policy": "frame-ancestors https://*.citi.com https://*.citigroup.net https://*.nsroot.net",
+            "Content-Security-Policy": "frame-ancestors https://*.citi.com https://*.citigroup.net https://*.nsroot.net"
+        },
+        "nslookup": {
+            "citi.com": [
+                "192.193.102.176",
+                "192.193.218.80"
+            ],
+            "online.citi.com": [
+                "104.79.113.66"
+            ]
+        },
+        "ping": {
+            "citi.com": [
+                "192.193.218.80"
+            ],
+            "online.citi.com": [
+                "23.50.34.240"
+            ]
+        },
+        "CNAME": {
+            "online.citi.com": [
+                "online.citibank.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "online.citi.com": [
+                "23.50.34.240"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=ISO-8859-1",
+            "X-Ion-Hop": "Prod",
+            "Expires": "0",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "P3P": "policyref=\"/w3c/p3p.xml\", CP=\"CAO DSP CUR ADM DEV OUR NOR STP UNIo NAV STA PREi TAI\"",
+            "Pragma": "no-cache",
+            "X-Akamai-CITISITE": "SWDC",
+            "Strict-Transport-Security": "max-age=300",
+            "Content-Language": "en-US",
+            "X-DEBUG-TIER2-PARENT": "32ed0d52-23.223.202.165-1600254175-AUTH1-SHPIP184.51.101.42-TCIP47.241.77.232",
+            "jid": "200916070255642764219121, 200916070255642764219121",
+            "X-UA-Compatible": "IE=edge, IE=edge",
+            "X-DEBUG-TIER2": "86ba94c-184.51.101.42-1600254175-AUTH1-SHPIP64.124.125.236-TCIP47.241.77.232",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "9 - 0 pmb=mTOE,1",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 11:02:56 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Set-Cookie": "JSESSIONID=0000KWqm30BYAssCec9fM6Whb2p:sw22p-srv2; Path=/; Secure, CUUID=2eb64e3f-d673-4af5-afa7-ce28e77ef4aa; Expires=Thu, 16-Sep-21 11:02:55 GMT; Path=/; Domain=.citi.com; Secure, AKMTLTSID=1562DE7F1F6E3904698B768DDA108579; path=/; domain=citi.com; secure, CITI_SITE=swdc; path=/; domain=.citi.com; secure; HttpOnly, AKMTLTSID=E343E56A3A33AA9E5A6D0F1984D7E429; path=/; domain=citi.com; secure, CITI_SITE=swdc; path=/; domain=.citi.com; secure; HttpOnly",
+            "X-WebKit-CSP": "frame-ancestors https://*.citi.com https://*.citigroup.net https://*.nsroot.net",
+            "X-Content-Security-Policy": "frame-ancestors https://*.citi.com https://*.citigroup.net https://*.nsroot.net",
+            "Content-Security-Policy": "frame-ancestors https://*.citi.com https://*.citigroup.net https://*.nsroot.net"
+        },
+        "nslookup": {
+            "citi.com": [
+                "192.193.218.80",
+                "192.193.102.176"
+            ],
+            "online.citi.com": [
+                "104.79.113.66"
+            ]
+        },
+        "ping": {
+            "citi.com": [
+                "192.193.102.176",
+                "192.193.218.80"
+            ],
+            "online.citi.com": [
+                "23.50.34.240"
+            ]
+        },
+        "CNAME": {
+            "online.citi.com": [
+                "online.citibank.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "online.citi.com": [
+                "23.50.34.240"
+            ]
+        }
+    }
+}

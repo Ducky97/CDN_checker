@@ -1,0 +1,93 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 08:58:43 GMT",
+            "Cache-Control": "max-age=60",
+            "X-From-Sohu": "X-SRC-Cached",
+            "Content-Encoding": "gzip",
+            "FSS-Cache": "HIT from 4396083.6951997.5576282",
+            "FSS-Proxy": "Powered by 4527157.7214143.5707358"
+        },
+        "nslookup": {
+            "sohu.com": [
+                "211.159.191.18"
+            ],
+            "www.sohu.com": [
+                "211.159.191.48",
+                "211.159.191.46",
+                "211.159.191.47"
+            ]
+        },
+        "ping": {
+            "sohu.com": [
+                "211.159.191.18"
+            ],
+            "www.sohu.com": [
+                "211.159.191.47",
+                "211.159.191.46",
+                "211.159.191.48"
+            ]
+        },
+        "CNAME": {
+            "www.sohu.com": [
+                "gs.a.sohu.com."
+            ]
+        },
+        "A": {
+            "www.sohu.com": [
+                "211.159.191.47",
+                "211.159.191.46",
+                "211.159.191.48"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 08:59:07 GMT",
+            "Cache-Control": "max-age=60",
+            "X-From-Sohu": "X-SRC-Cached",
+            "Content-Encoding": "gzip",
+            "FSS-Cache": "MISS from 4330546.6820924.5510744",
+            "FSS-Proxy": "Powered by 4592694.7345216.5772896"
+        },
+        "nslookup": {
+            "sohu.com": [
+                "211.159.191.18"
+            ],
+            "www.sohu.com": [
+                "211.159.191.48",
+                "211.159.191.47",
+                "211.159.191.46"
+            ]
+        },
+        "ping": {
+            "sohu.com": [
+                "211.159.191.18"
+            ],
+            "www.sohu.com": [
+                "211.159.191.46",
+                "211.159.191.48"
+            ]
+        },
+        "CNAME": {
+            "www.sohu.com": [
+                "gs.a.sohu.com."
+            ]
+        },
+        "A": {
+            "www.sohu.com": [
+                "211.159.191.48",
+                "211.159.191.46",
+                "211.159.191.47"
+            ]
+        }
+    }
+}

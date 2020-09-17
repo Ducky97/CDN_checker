@@ -1,0 +1,2322 @@
+njnu.edu.cn. 300 IN A 202.119.104.28
+
+njnu.edu.cn. 299 IN A 202.119.104.28
+
+njnu.edu.cn. 299 IN A 202.119.104.28
+
+njnu.edu.cn. 299 IN A 202.119.104.28
+
+njnu.edu.cn. 300 IN A 202.119.104.28
+
+njnu.edu.cn. 299 IN A 202.119.104.28
+
+njnu.edu.cn. 299 IN A 202.119.104.28
+
+njnu.edu.cn. 299 IN A 202.119.104.28
+
+0101.njnu.edu.cn. 300 IN CNAME 0101-njnu-edu-cn.cname.dbappwaf.cn.
+0101-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+1010.njnu.edu.cn. 300 IN CNAME 1010-njnu-edu-cn.cname.dbappwaf.cn.
+1010-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+1010.njnu.edu.cn. 299 IN CNAME 1010-njnu-edu-cn.cname.dbappwaf.cn.
+1010-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+1010.njnu.edu.cn. 299 IN CNAME 1010-njnu-edu-cn.cname.dbappwaf.cn.
+1010-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+120.njnu.edu.cn. 300 IN CNAME 120-njnu-edu-cn.cname.dbappwaf.cn.
+120-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+120.njnu.edu.cn. 299 IN CNAME 120-njnu-edu-cn.cname.dbappwaf.cn.
+120-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+120.njnu.edu.cn. 300 IN CNAME 120-njnu-edu-cn.cname.dbappwaf.cn.
+120-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+120.njnu.edu.cn. 299 IN CNAME 120-njnu-edu-cn.cname.dbappwaf.cn.
+120-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+120.njnu.edu.cn. 299 IN CNAME 120-njnu-edu-cn.cname.dbappwaf.cn.
+120-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+211new.njnu.edu.cn. 300 IN A 211.65.216.200
+
+211new.njnu.edu.cn. 299 IN A 211.65.216.200
+
+3d.njnu.edu.cn. 300 IN CNAME 3d-njnu-edu-cn.cname.dbappwaf.cn.
+3d-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+
+3d.njnu.edu.cn. 299 IN CNAME 3d-njnu-edu-cn.cname.dbappwaf.cn.
+3d-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+
+3d.njnu.edu.cn. 299 IN CNAME 3d-njnu-edu-cn.cname.dbappwaf.cn.
+3d-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+
+3d.njnu.edu.cn. 299 IN CNAME 3d-njnu-edu-cn.cname.dbappwaf.cn.
+3d-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+
+addtest.njnu.edu.cn. 0 IN A 220.250.64.225
+
+addtest.njnu.edu.cn. 60 IN A 220.250.64.225
+
+addtest.njnu.edu.cn. 59 IN A 220.250.64.225
+
+afnanjing.njnu.edu.cn. 300 IN CNAME afnanjing-njnu-edu-cn.cname.dbappwaf.cn.
+afnanjing-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+
+afnanjing.njnu.edu.cn. 299 IN CNAME afnanjing-njnu-edu-cn.cname.dbappwaf.cn.
+afnanjing-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+
+afnanjing.njnu.edu.cn. 299 IN CNAME afnanjing-njnu-edu-cn.cname.dbappwaf.cn.
+afnanjing-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+
+afnanjing.njnu.edu.cn. 299 IN CNAME afnanjing-njnu-edu-cn.cname.dbappwaf.cn.
+afnanjing-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+
+app.njnu.edu.cn. 300 IN CNAME app-njnu-edu-cn.cname.dbappwaf.cn.
+app-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+
+bamboo.njnu.edu.cn. 60 IN A 202.119.104.12
+
+bamboo.njnu.edu.cn. 59 IN A 202.119.104.12
+
+bamboo.njnu.edu.cn. 59 IN A 202.119.104.12
+
+bamboo.njnu.edu.cn. 59 IN A 202.119.104.12
+
+bamboo.njnu.edu.cn. 59 IN A 202.119.104.12
+
+bb.njnu.edu.cn. 300 IN A 211.65.216.41
+
+bb.njnu.edu.cn. 299 IN A 211.65.216.41
+
+bb.njnu.edu.cn. 299 IN A 211.65.216.41
+
+bb.njnu.edu.cn. 299 IN A 211.65.216.41
+
+bb.njnu.edu.cn. 299 IN A 211.65.216.41
+
+bbs.njnu.edu.cn. 300 IN CNAME bbs-njnu-edu-cn.cname.dbappwaf.cn.
+bbs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 58 IN A 124.160.116.197
+
+bbs.njnu.edu.cn. 299 IN CNAME bbs-njnu-edu-cn.cname.dbappwaf.cn.
+bbs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 58 IN A 124.160.116.197
+
+bbs.njnu.edu.cn. 299 IN CNAME bbs-njnu-edu-cn.cname.dbappwaf.cn.
+bbs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 58 IN A 124.160.116.197
+
+bbs.njnu.edu.cn. 299 IN CNAME bbs-njnu-edu-cn.cname.dbappwaf.cn.
+bbs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 58 IN A 124.160.116.197
+
+bbs.njnu.edu.cn. 299 IN CNAME bbs-njnu-edu-cn.cname.dbappwaf.cn.
+bbs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 58 IN A 124.160.116.197
+
+bio.njnu.edu.cn. 0 IN A 220.250.64.225
+
+bio.njnu.edu.cn. 60 IN A 220.250.64.225
+
+bio.njnu.edu.cn. 59 IN A 220.250.64.225
+
+bioinf.njnu.edu.cn. 300 IN CNAME bioinf-njnu-edu-cn.cname.dbappwaf.cn.
+bioinf-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 57 IN A 124.160.116.197
+
+biomat.njnu.edu.cn. 300 IN CNAME biomat-njnu-edu-cn.cname.dbappwaf.cn.
+biomat-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+biomat.njnu.edu.cn. 299 IN CNAME biomat-njnu-edu-cn.cname.dbappwaf.cn.
+biomat-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+biomat.njnu.edu.cn. 299 IN CNAME biomat-njnu-edu-cn.cname.dbappwaf.cn.
+biomat-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+bkzs.njnu.edu.cn. 300 IN CNAME bkzs-njnu-edu-cn.cname.dbappwaf.cn.
+bkzs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+bkzs.njnu.edu.cn. 299 IN CNAME bkzs-njnu-edu-cn.cname.dbappwaf.cn.
+bkzs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+bkzs.njnu.edu.cn. 299 IN CNAME bkzs-njnu-edu-cn.cname.dbappwaf.cn.
+bkzs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+bkzs.njnu.edu.cn. 299 IN CNAME bkzs-njnu-edu-cn.cname.dbappwaf.cn.
+bkzs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+bsh.njnu.edu.cn. 300 IN A 211.65.216.200
+
+bsh.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bsh.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bsh.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bwc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+bwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+bzzx.njnu.edu.cn. 300 IN CNAME bzzx-njnu-edu-cn.cname.dbappwaf.cn.
+bzzx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 57 IN A 124.160.116.197
+
+cc.njnu.edu.cn. 300 IN CNAME cc-njnu-edu-cn.cname.dbappwaf.cn.
+cc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+cc.njnu.edu.cn. 299 IN CNAME cc-njnu-edu-cn.cname.dbappwaf.cn.
+cc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+cc.njnu.edu.cn. 299 IN CNAME cc-njnu-edu-cn.cname.dbappwaf.cn.
+cc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+ccer.njnu.edu.cn. 300 IN A 211.65.216.200
+
+ccer.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ccer.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ccer.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ccer.njnu.edu.cn. 299 IN A 211.65.216.200
+
+cer.njnu.edu.cn. 300 IN A 211.65.216.181
+
+cer.njnu.edu.cn. 299 IN A 211.65.216.181
+
+cer.njnu.edu.cn. 299 IN A 211.65.216.181
+
+cer.njnu.edu.cn. 299 IN A 211.65.216.181
+
+cer.njnu.edu.cn. 299 IN A 211.65.216.181
+
+chemlab.njnu.edu.cn. 0 IN A 220.250.64.225
+
+chemlab.njnu.edu.cn. 60 IN A 220.250.64.225
+
+chemlab.njnu.edu.cn. 59 IN A 220.250.64.225
+
+cjxt.njnu.edu.cn. 300 IN CNAME cjxt-njnu-edu-cn.cname.dbappwaf.cn.
+cjxt-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 58 IN A 124.160.116.196
+
+cluster.njnu.edu.cn. 300 IN A 202.119.101.11
+
+cluster.njnu.edu.cn. 299 IN A 202.119.101.11
+
+cluster.njnu.edu.cn. 300 IN A 202.119.101.11
+
+cluster.njnu.edu.cn. 299 IN A 202.119.101.11
+
+cluster.njnu.edu.cn. 299 IN A 202.119.101.11
+
+lib.njnu.edu.cnen.njnu.edu.cn. 0 IN A 220.250.64.225
+
+njnu.edu.cnidp-lib.njnu.edu.cn. 0 IN A 220.250.64.225
+
+tzb.njnu.edu.cnjob.njnu.edu.cn. 0 IN A 220.250.64.225
+
+sjc.njnu.edu.cnlib.njnu.edu.cn. 0 IN A 220.250.64.225
+
+pop3.njnu.edu.cnrsc.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridmn.njnu.edu.cnurp.njnu.edu.cn. 0 IN A 220.250.64.225
+
+njnu.edu.cnwww.njnu.edu.cn. 0 IN A 220.250.64.225
+
+dwb.njnu.edu.cnwww.njnu.edu.cn. 0 IN A 220.250.64.225
+
+computer.njnu.edu.cn. 300 IN CNAME computer-hznu-edu-cn.cname.dbappwaf.cn.
+computer-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.200
+
+computer.njnu.edu.cn. 299 IN CNAME computer-hznu-edu-cn.cname.dbappwaf.cn.
+computer-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+
+computer.njnu.edu.cn. 299 IN CNAME computer-hznu-edu-cn.cname.dbappwaf.cn.
+computer-hznu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+cw.njnu.edu.cn. 0 IN A 220.250.64.225
+
+cw.njnu.edu.cn. 60 IN A 220.250.64.225
+
+cw.njnu.edu.cn. 59 IN A 220.250.64.225
+
+cwc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+cwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+cwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+cwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+cwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+cwcx.njnu.edu.cn. 300 IN CNAME cwcx-njnu-edu-cn.cname.dbappwaf.cn.
+cwcx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+cwcx.njnu.edu.cn. 299 IN CNAME cwcx-njnu-edu-cn.cname.dbappwaf.cn.
+cwcx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+cx.njnu.edu.cn. 300 IN CNAME cx-njnu-edu-cn.cname.dbappwaf.cn.
+cx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+cx.njnu.edu.cn. 299 IN CNAME cx-njnu-edu-cn.cname.dbappwaf.cn.
+cx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+d.njnu.edu.cn. 300 IN CNAME d-hznu-edu-cn.cname.dbappwaf.cn.
+d-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+d.njnu.edu.cn. 299 IN CNAME d-hznu-edu-cn.cname.dbappwaf.cn.
+d-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+d.njnu.edu.cn. 299 IN CNAME d-hznu-edu-cn.cname.dbappwaf.cn.
+d-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+d.njnu.edu.cn. 299 IN CNAME d-hznu-edu-cn.cname.dbappwaf.cn.
+d-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.197
+
+d2.njnu.edu.cn. 0 IN A 220.250.64.225
+
+d2.njnu.edu.cn. 60 IN A 220.250.64.225
+
+d2.njnu.edu.cn. 59 IN A 220.250.64.225
+
+dag.njnu.edu.cn. 300 IN CNAME dag-njnu-edu-cn.cname.dbappwaf.cn.
+dag-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.204
+
+dag.njnu.edu.cn. 299 IN CNAME dag-njnu-edu-cn.cname.dbappwaf.cn.
+dag-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+
+dag.njnu.edu.cn. 299 IN CNAME dag-njnu-edu-cn.cname.dbappwaf.cn.
+dag-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.200
+
+det.njnu.edu.cn. 0 IN A 220.250.64.225
+
+det.njnu.edu.cn. 60 IN A 220.250.64.225
+
+det.njnu.edu.cn. 59 IN A 220.250.64.225
+
+dj.njnu.edu.cn. 300 IN A 211.65.216.199
+
+dj.njnu.edu.cn. 299 IN A 211.65.216.199
+
+dj.njnu.edu.cn. 299 IN A 211.65.216.199
+
+dky.njnu.edu.cn. 300 IN CNAME dky-njnu-edu-cn.cname.dbappwaf.cn.
+dky-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.204
+
+dky.njnu.edu.cn. 299 IN CNAME dky-njnu-edu-cn.cname.dbappwaf.cn.
+dky-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.204
+
+dky.njnu.edu.cn. 299 IN CNAME dky-njnu-edu-cn.cname.dbappwaf.cn.
+dky-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.204
+
+dky.njnu.edu.cn. 299 IN CNAME dky-njnu-edu-cn.cname.dbappwaf.cn.
+dky-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.204
+
+dns1.njnu.edu.cn. 0 IN A 220.250.64.225
+
+dns1.njnu.edu.cn. 60 IN A 220.250.64.225
+
+dns1.njnu.edu.cn. 59 IN A 220.250.64.225
+
+dns2.njnu.edu.cn. 0 IN A 220.250.64.225
+
+dns2.njnu.edu.cn. 60 IN A 220.250.64.225
+
+dns2.njnu.edu.cn. 59 IN A 220.250.64.225
+
+dwb.njnu.edu.cn. 300 IN A 211.65.216.200
+
+dwb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dwb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dwb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dy.njnu.edu.cn. 0 IN A 220.250.64.225
+
+dy.njnu.edu.cn. 60 IN A 220.250.64.225
+
+dy.njnu.edu.cn. 59 IN A 220.250.64.225
+
+dys.njnu.edu.cn. 300 IN A 211.65.216.200
+
+dys.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dys.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dys.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dys.njnu.edu.cn. 299 IN A 211.65.216.200
+
+dys.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ecard.njnu.edu.cn. 300 IN A 223.2.10.57
+
+ecard.njnu.edu.cn. 299 IN A 223.2.10.57
+
+ecard.njnu.edu.cn. 299 IN A 223.2.10.57
+
+ece.njnu.edu.cn. 0 IN A 220.250.64.225
+
+ece.njnu.edu.cn. 60 IN A 220.250.64.225
+
+edfwx.njnu.edu.cn. 300 IN CNAME edfwx-njnu-edu-cn.cname.saaswaf.com.
+edfwx-njnu-edu-cn.cname.saaswaf.com. 599 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 59 IN A 27.221.108.42
+a001.cache.saaswaf.com. 59 IN A 124.160.116.200
+
+ei.njnu.edu.cn. 0 IN A 220.250.64.225
+
+ei.njnu.edu.cn. 60 IN A 220.250.64.225
+
+ei.njnu.edu.cn. 59 IN A 220.250.64.225
+
+elearning.njnu.edu.cn. 0 IN A 220.250.64.225
+
+elearning.njnu.edu.cn. 60 IN A 220.250.64.225
+
+elearning.njnu.edu.cn. 59 IN A 220.250.64.225
+
+elec.njnu.edu.cn. 300 IN CNAME elec-njnu-edu-cn.cname.saaswaf.com.
+elec-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 597 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 53 IN A 124.160.116.197
+
+en.njnu.edu.cn. 300 IN CNAME en-njnu-edu-cn.cname.dbappwaf.cn.
+en-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.196
+
+en.njnu.edu.cn. 299 IN CNAME en-njnu-edu-cn.cname.dbappwaf.cn.
+en-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.196
+
+en.njnu.edu.cn. 299 IN CNAME en-njnu-edu-cn.cname.dbappwaf.cn.
+en-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.196
+
+en.njnu.edu.cn. 299 IN CNAME en-njnu-edu-cn.cname.dbappwaf.cn.
+en-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.196
+
+en.njnu.edu.cn. 299 IN CNAME en-njnu-edu-cn.cname.dbappwaf.cn.
+en-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 55 IN A 124.160.116.196
+
+energy.njnu.edu.cn. 300 IN CNAME energy-hznu-edu-cn.cname.dbappwaf.cn.
+energy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+energy.njnu.edu.cn. 299 IN CNAME energy-hznu-edu-cn.cname.dbappwaf.cn.
+energy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+energy.njnu.edu.cn. 299 IN CNAME energy-hznu-edu-cn.cname.dbappwaf.cn.
+energy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+energy.njnu.edu.cn. 299 IN CNAME energy-hznu-edu-cn.cname.dbappwaf.cn.
+energy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.202
+
+env.njnu.edu.cn. 300 IN CNAME env-hznu-edu-cn.cname.dbappwaf.cn.
+env-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+env.njnu.edu.cn. 299 IN CNAME env-hznu-edu-cn.cname.dbappwaf.cn.
+env-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+env.njnu.edu.cn. 299 IN CNAME env-hznu-edu-cn.cname.dbappwaf.cn.
+env-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+excience.njnu.edu.cn. 0 IN A 220.250.64.225
+
+excience.njnu.edu.cn. 60 IN A 220.250.64.225
+
+excience.njnu.edu.cn. 59 IN A 220.250.64.225
+
+fdyjd.njnu.edu.cn. 300 IN CNAME fdyjd-njnu-edu-cn.cname.dbappwaf.cn.
+fdyjd-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+fdyjd.njnu.edu.cn. 299 IN CNAME fdyjd-njnu-edu-cn.cname.dbappwaf.cn.
+fdyjd-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 58 IN A 124.160.116.200
+
+fdyjd.njnu.edu.cn. 299 IN CNAME fdyjd-njnu-edu-cn.cname.dbappwaf.cn.
+fdyjd-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 57 IN A 124.160.116.203
+
+fgc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+fgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+fgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+fgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+fgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ftp.njnu.edu.cn. 0 IN A 220.250.64.225
+
+ftp.njnu.edu.cn. 60 IN A 220.250.64.225
+
+ftp.njnu.edu.cn. 59 IN A 220.250.64.225
+
+fx.njnu.edu.cn. 300 IN A 211.65.216.200
+
+fx.njnu.edu.cn. 299 IN A 211.65.216.200
+
+fx1.njnu.edu.cn. 300 IN CNAME fx1-njnu-edu-cn.cname.dbappwaf.cn.
+fx1-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 52 IN A 124.160.116.197
+
+fx1.njnu.edu.cn. 299 IN CNAME fx1-njnu-edu-cn.cname.dbappwaf.cn.
+fx1-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 52 IN A 124.160.116.197
+
+fz.njnu.edu.cn. 300 IN A 211.65.216.200
+
+fz.njnu.edu.cn. 299 IN A 211.65.216.200
+
+fz.njnu.edu.cn. 299 IN A 211.65.216.200
+
+fz.njnu.edu.cn. 299 IN A 211.65.216.200
+
+gbcp.njnu.edu.cn. 300 IN CNAME gbcp-njnu-edu-cn.cname.dbappwaf.cn.
+gbcp-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 54 IN A 124.160.116.196
+
+geo.njnu.edu.cn. 0 IN A 220.250.64.225
+
+geo.njnu.edu.cn. 60 IN A 220.250.64.225
+
+geo.njnu.edu.cn. 59 IN A 220.250.64.225
+
+geomodeling.njnu.edu.cn. 300 IN CNAME geomodeling-njnu-edu-cn.cname.dbappwaf.cn.
+geomodeling-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 54 IN A 124.160.116.196
+
+gjc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+gjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+gjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+gjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+gjc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+gjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+gjy.njnu.edu.cn. 300 IN A 211.65.216.200
+
+gjy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+grad.njnu.edu.cn. 300 IN CNAME grad-njnu-edu-cn.cname.dbappwaf.cn.
+grad-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+
+grad.njnu.edu.cn. 299 IN CNAME grad-njnu-edu-cn.cname.dbappwaf.cn.
+grad-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+
+grad.njnu.edu.cn. 299 IN CNAME grad-njnu-edu-cn.cname.dbappwaf.cn.
+grad-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+
+grad.njnu.edu.cn. 299 IN CNAME grad-njnu-edu-cn.cname.dbappwaf.cn.
+grad-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+
+gridce.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridce.njnu.edu.cn. 60 IN A 220.250.64.225
+
+gridce.njnu.edu.cn. 59 IN A 220.250.64.225
+
+gridmn.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridmn.njnu.edu.cn. 60 IN A 220.250.64.225
+
+gridpx.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridpx.njnu.edu.cn. 60 IN A 220.250.64.225
+
+gridpx.njnu.edu.cn. 59 IN A 220.250.64.225
+
+gridrb.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridrb.njnu.edu.cn. 60 IN A 220.250.64.225
+
+gridrb.njnu.edu.cn. 59 IN A 220.250.64.225
+
+gridse.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridse.njnu.edu.cn. 60 IN A 220.250.64.225
+
+gridse.njnu.edu.cn. 59 IN A 220.250.64.225
+
+gridui.njnu.edu.cn. 0 IN A 220.250.64.225
+
+gridui.njnu.edu.cn. 60 IN A 220.250.64.225
+
+gridui.njnu.edu.cn. 59 IN A 220.250.64.225
+
+hky.njnu.edu.cn. 300 IN CNAME hky-hznu-edu-cn.cname.dbappwaf.cn.
+hky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.203
+
+hky.njnu.edu.cn. 299 IN CNAME hky-hznu-edu-cn.cname.dbappwaf.cn.
+hky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+
+hky.njnu.edu.cn. 299 IN CNAME hky-hznu-edu-cn.cname.dbappwaf.cn.
+hky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 56 IN A 124.160.116.203
+
+hky.njnu.edu.cn. 299 IN CNAME hky-hznu-edu-cn.cname.dbappwaf.cn.
+hky-hznu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 55 IN A 124.160.116.203
+
+hmbooks.njnu.edu.cn. 0 IN A 220.250.64.225
+
+hmbooks.njnu.edu.cn. 60 IN A 220.250.64.225
+
+hmbooks.njnu.edu.cn. 59 IN A 220.250.64.225
+
+honors.njnu.edu.cn. 300 IN CNAME honors-hznu-edu-cn.cname.dbappwaf.cn.
+honors-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.204
+
+honors.njnu.edu.cn. 299 IN CNAME honors-hznu-edu-cn.cname.dbappwaf.cn.
+honors-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+
+honors.njnu.edu.cn. 299 IN CNAME honors-hznu-edu-cn.cname.dbappwaf.cn.
+honors-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+
+hqglc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+hqglc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+hqglc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+hqglc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+hqglc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+hxjiapu.njnu.edu.cn. 0 IN A 220.250.64.225
+
+hxjiapu.njnu.edu.cn. 60 IN A 220.250.64.225
+
+hxjiapu.njnu.edu.cn. 59 IN A 220.250.64.225
+
+hxlib.njnu.edu.cn. 60 IN CNAME hxlib-njnu-edu-cn.cname.dbappwaf.cn.
+hxlib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 59 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.198
+
+hxlib.njnu.edu.cn. 59 IN CNAME hxlib-njnu-edu-cn.cname.dbappwaf.cn.
+hxlib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 59 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.198
+
+hxlib.njnu.edu.cn. 59 IN CNAME hxlib-njnu-edu-cn.cname.dbappwaf.cn.
+hxlib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 59 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.198
+
+hxlib.njnu.edu.cn. 60 IN CNAME hxlib-njnu-edu-cn.cname.dbappwaf.cn.
+hxlib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 59 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+
+hxlib.njnu.edu.cn. 60 IN CNAME hxlib-njnu-edu-cn.cname.dbappwaf.cn.
+hxlib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 59 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+
+hxy.njnu.edu.cn. 0 IN A 220.250.64.225
+
+hxy.njnu.edu.cn. 60 IN A 220.250.64.225
+
+hxy.njnu.edu.cn. 59 IN A 220.250.64.225
+
+hy.njnu.edu.cn. 300 IN CNAME hy-njnu-edu-cn.cname.saaswaf.com.
+hy-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 59 IN A 124.160.116.200
+a001.cache.saaswaf.com. 59 IN A 27.221.108.42
+
+hy.njnu.edu.cn. 299 IN CNAME hy-njnu-edu-cn.cname.saaswaf.com.
+hy-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 59 IN A 124.160.116.200
+a001.cache.saaswaf.com. 59 IN A 27.221.108.42
+
+ibmnf_5000.njnu.edu.cn. 0 IN A 220.250.64.225
+
+ibmnf_5000.njnu.edu.cn. 60 IN A 220.250.64.225
+
+ibmnf_5000.njnu.edu.cn. 59 IN A 220.250.64.225
+
+iclms.njnu.edu.cn. 300 IN CNAME iclms-njnu-edu-cn.cname.dbappwaf.cn.
+iclms-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 52 IN A 124.160.116.196
+
+iclms.njnu.edu.cn. 299 IN CNAME iclms-njnu-edu-cn.cname.dbappwaf.cn.
+iclms-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 52 IN A 124.160.116.196
+
+iclms.njnu.edu.cn. 299 IN CNAME iclms-njnu-edu-cn.cname.dbappwaf.cn.
+iclms-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 52 IN A 124.160.116.196
+
+idp-lib.njnu.edu.cn. 300 IN A 202.119.108.16
+
+idp-lib.njnu.edu.cn. 299 IN A 202.119.108.16
+
+idp-lib.njnu.edu.cn. 299 IN A 202.119.108.16
+
+idp-lib.njnu.edu.cn. 299 IN A 202.119.108.16
+
+ids1.njnu.edu.cn. 0 IN A 220.250.64.225
+
+ids1.njnu.edu.cn. 60 IN A 220.250.64.225
+
+ids1.njnu.edu.cn. 59 IN A 220.250.64.225
+
+imap.njnu.edu.cn. 300 IN A 223.2.10.51
+
+imap.njnu.edu.cn. 299 IN A 223.2.10.51
+
+imap.njnu.edu.cn. 299 IN A 223.2.10.51
+
+ime.njnu.edu.cn. 300 IN A 211.65.216.200
+
+ime.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ime.njnu.edu.cn. 299 IN A 211.65.216.200
+
+innu.njnu.edu.cn. 0 IN A 220.250.64.225
+
+innu.njnu.edu.cn. 60 IN A 220.250.64.225
+
+innu.njnu.edu.cn. 59 IN A 220.250.64.225
+
+inruled.njnu.edu.cn. 0 IN A 220.250.64.225
+
+inruled.njnu.edu.cn. 60 IN A 220.250.64.225
+
+inruled.njnu.edu.cn. 59 IN A 220.250.64.225
+
+inruled.njnu.edu.cn. 59 IN A 220.250.64.225
+
+jcfw.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jcfw.njnu.edu.cn. 60 IN A 220.250.64.225
+
+jcfw.njnu.edu.cn. 59 IN A 220.250.64.225
+
+jgdw.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jgdw.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jgdw.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jgdw.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jjc.njnu.edu.cn. 60 IN A 211.65.216.200
+
+jjc.njnu.edu.cn. 59 IN A 211.65.216.200
+
+jjc.njnu.edu.cn. 59 IN A 211.65.216.200
+
+jjc.njnu.edu.cn. 59 IN A 211.65.216.200
+
+jjgl.njnu.edu.cn. 300 IN CNAME jjgl-njnu-edu-cn.cname.dbappwaf.cn.
+jjgl-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 51 IN A 124.160.116.196
+
+jjgl.njnu.edu.cn. 299 IN CNAME jjgl-njnu-edu-cn.cname.dbappwaf.cn.
+jjgl-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 51 IN A 124.160.116.196
+
+jjgl.njnu.edu.cn. 299 IN CNAME jjgl-njnu-edu-cn.cname.dbappwaf.cn.
+jjgl-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 51 IN A 124.160.116.196
+
+jjgl.njnu.edu.cn. 299 IN CNAME jjgl-njnu-edu-cn.cname.dbappwaf.cn.
+jjgl-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 51 IN A 124.160.116.196
+
+jjy.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jjy.njnu.edu.cn. 60 IN A 220.250.64.225
+
+jjy.njnu.edu.cn. 59 IN A 220.250.64.225
+
+jky.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jky.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jky.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jny.njnu.edu.cn. 300 IN CNAME jny-hznu-edu-cn.cname.dbappwaf.cn.
+jny-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.202
+
+jny.njnu.edu.cn. 299 IN CNAME jny-hznu-edu-cn.cname.dbappwaf.cn.
+jny-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.202
+
+jny.njnu.edu.cn. 299 IN CNAME jny-hznu-edu-cn.cname.dbappwaf.cn.
+jny-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 53 IN A 124.160.116.202
+
+job.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jscx.njnu.edu.cn. 300 IN CNAME jscx-njnu-edu-cn.cname.dbappwaf.cn.
+jscx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 51 IN A 124.160.116.196
+
+jsegciac.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jsgxfw.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jsgxfw.njnu.edu.cn. 60 IN A 220.250.64.225
+
+jsgxfw.njnu.edu.cn. 59 IN A 220.250.64.225
+
+jsgzb.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jsjyxy.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jsjyxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jsjyxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jsjyxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jsjzw.njnu.edu.cn. 300 IN CNAME jsjzw-njnu-edu-cn.cname.dbappwaf.cn.
+jsjzw-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 49 IN A 124.160.116.197
+
+jsjzw.njnu.edu.cn. 299 IN CNAME jsjzw-njnu-edu-cn.cname.dbappwaf.cn.
+jsjzw-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 49 IN A 124.160.116.197
+
+jssy.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jssy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+jwc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+jwfwq.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jwfwq.njnu.edu.cn. 60 IN A 220.250.64.225
+
+jwfwq.njnu.edu.cn. 59 IN A 220.250.64.225
+
+jwgl.njnu.edu.cn. 300 IN A 223.2.10.23
+
+jwgl.njnu.edu.cn. 299 IN A 223.2.10.23
+
+jwgl.njnu.edu.cn. 299 IN A 223.2.10.23
+
+jwgl.njnu.edu.cn. 299 IN A 223.2.10.23
+
+jwgl.njnu.edu.cn. 299 IN A 223.2.10.23
+
+jxcg.njnu.edu.cn. 300 IN CNAME jxcg-njnu-edu-cn.cname.dbappwaf.cn.
+jxcg-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 50 IN A 124.160.116.196
+
+jxjy.njnu.edu.cn. 300 IN CNAME jxjy-njnu-edu-cn.cname.dbappwaf.cn.
+jxjy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+
+jxjy.njnu.edu.cn. 299 IN CNAME jxjy-njnu-edu-cn.cname.dbappwaf.cn.
+jxjy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+
+jxjy.njnu.edu.cn. 299 IN CNAME jxjy-njnu-edu-cn.cname.dbappwaf.cn.
+jxjy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+
+jyjs.njnu.edu.cn. 0 IN A 220.250.64.225
+
+jyjs.njnu.edu.cn. 60 IN A 220.250.64.225
+
+jyjs.njnu.edu.cn. 59 IN A 220.250.64.225
+
+jysx.njnu.edu.cn. 300 IN CNAME jysx-njnu-edu-cn.cname.dbappwaf.cn.
+jysx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 50 IN A 124.160.116.196
+
+jysx.njnu.edu.cn. 299 IN CNAME jysx-njnu-edu-cn.cname.dbappwaf.cn.
+jysx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 50 IN A 124.160.116.196
+
+jysx.njnu.edu.cn. 299 IN CNAME jysx-njnu-edu-cn.cname.dbappwaf.cn.
+jysx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 50 IN A 124.160.116.196
+
+jysx.njnu.edu.cn. 299 IN CNAME jysx-njnu-edu-cn.cname.dbappwaf.cn.
+jysx-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 51 IN A 124.160.116.196
+
+kc.njnu.edu.cn. 300 IN A 223.2.10.129
+
+kc.njnu.edu.cn. 299 IN A 223.2.10.129
+
+kc.njnu.edu.cn. 299 IN A 223.2.10.129
+
+kc.njnu.edu.cn. 299 IN A 223.2.10.129
+
+kc.njnu.edu.cn. 299 IN A 223.2.10.129
+
+kjc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+kjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+kjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+kjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+kjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+kms.njnu.edu.cn. 65 IN A 211.65.216.110
+
+kms.njnu.edu.cn. 64 IN A 211.65.216.110
+
+kms.njnu.edu.cn. 64 IN A 211.65.216.110
+
+kms.njnu.edu.cn. 64 IN A 211.65.216.110
+
+kms.njnu.edu.cn. 65 IN A 211.65.216.110
+
+lab.njnu.edu.cn. 300 IN CNAME lab-njnu-edu-cn.cname.dbappwaf.cn.
+lab-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+
+lab.njnu.edu.cn. 299 IN CNAME lab-njnu-edu-cn.cname.dbappwaf.cn.
+lab-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+
+lab.njnu.edu.cn. 299 IN CNAME lab-njnu-edu-cn.cname.dbappwaf.cn.
+lab-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 52 IN A 124.160.116.203
+
+law.njnu.edu.cn. 60 IN A 211.65.216.200
+
+law.njnu.edu.cn. 59 IN A 211.65.216.200
+
+law.njnu.edu.cn. 59 IN A 211.65.216.200
+
+law.njnu.edu.cn. 59 IN A 211.65.216.200
+
+law.njnu.edu.cn. 59 IN A 211.65.216.200
+
+lb.njnu.edu.cn. 300 IN CNAME lb-njnu-edu-cn.cname.dbappwaf.cn.
+lb-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 47 IN A 124.160.116.197
+
+lb.njnu.edu.cn. 299 IN CNAME lb-njnu-edu-cn.cname.dbappwaf.cn.
+lb-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 47 IN A 124.160.116.197
+
+lb.njnu.edu.cn. 299 IN CNAME lb-njnu-edu-cn.cname.dbappwaf.cn.
+lb-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 47 IN A 124.160.116.197
+
+lb.njnu.edu.cn. 299 IN CNAME lb-njnu-edu-cn.cname.dbappwaf.cn.
+lb-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 47 IN A 124.160.116.197
+
+lib.njnu.edu.cn. 300 IN CNAME lib-njnu-edu-cn.cname.dbappwaf.cn.
+lib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.202
+
+lib.njnu.edu.cn. 299 IN CNAME lib-njnu-edu-cn.cname.dbappwaf.cn.
+lib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.200
+
+lib.njnu.edu.cn. 299 IN CNAME lib-njnu-edu-cn.cname.dbappwaf.cn.
+lib-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.203
+
+lib.njnu.edu.cn. 299 IN CNAME lib-njnu-edu-cn.cname.dbappwaf.cn.
+lib-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.203
+
+idp.lib.njnu.edu.cn. 0 IN A 220.250.64.225
+
+idp.lib.njnu.edu.cn. 60 IN A 220.250.64.225
+
+idp.lib.njnu.edu.cn. 59 IN A 220.250.64.225
+
+liboa.njnu.edu.cn. 300 IN A 202.119.108.53
+
+liboa.njnu.edu.cn. 299 IN A 202.119.108.53
+
+liboa.njnu.edu.cn. 299 IN A 202.119.108.53
+
+ltx.njnu.edu.cn. 300 IN A 211.65.216.200
+
+ltx.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ltx.njnu.edu.cn. 299 IN A 211.65.216.200
+
+ltx.njnu.edu.cn. 299 IN A 211.65.216.200
+
+mail.njnu.edu.cn. 300 IN A 223.2.10.51
+
+mail.njnu.edu.cn. 299 IN A 223.2.10.51
+
+mail.njnu.edu.cn. 299 IN A 223.2.10.51
+
+mail.njnu.edu.cn. 299 IN A 223.2.10.51
+
+mail.njnu.edu.cn. 299 IN A 223.2.10.51
+
+mail.njnu.edu.cn. 299 IN A 223.2.10.51
+
+mail.njnu.edu.cn. 299 IN A 223.2.10.51
+
+mail1.njnu.edu.cn. 300 IN A 223.2.10.52
+
+mail1.njnu.edu.cn. 299 IN A 223.2.10.52
+
+mail1.njnu.edu.cn. 299 IN A 223.2.10.52
+
+mailgw.njnu.edu.cn. 0 IN A 220.250.64.225
+
+mailgw.njnu.edu.cn. 60 IN A 220.250.64.225
+
+mailgw.njnu.edu.cn. 59 IN A 220.250.64.225
+
+marx.njnu.edu.cn. 300 IN CNAME marx-hznu-edu-cn.cname.dbappwaf.cn.
+marx-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.202
+
+marx.njnu.edu.cn. 299 IN CNAME marx-hznu-edu-cn.cname.dbappwaf.cn.
+marx-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.202
+
+marx.njnu.edu.cn. 299 IN CNAME marx-hznu-edu-cn.cname.dbappwaf.cn.
+marx-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 51 IN A 124.160.116.202
+
+math.njnu.edu.cn. 60 IN CNAME math-hznu-edu-cn.cname.dbappwaf.cn.
+math-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+math.njnu.edu.cn. 60 IN CNAME math-hznu-edu-cn.cname.dbappwaf.cn.
+math-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+math.njnu.edu.cn. 59 IN CNAME math-hznu-edu-cn.cname.dbappwaf.cn.
+math-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+math.njnu.edu.cn. 59 IN CNAME math-hznu-edu-cn.cname.dbappwaf.cn.
+math-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+mba.njnu.edu.cn. 300 IN A 211.65.216.200
+
+mba.njnu.edu.cn. 299 IN A 211.65.216.200
+
+mba.njnu.edu.cn. 299 IN A 211.65.216.200
+
+mba.njnu.edu.cn. 299 IN A 211.65.216.200
+
+mba.njnu.edu.cn. 299 IN A 211.65.216.200
+
+mba.njnu.edu.cn. 299 IN A 211.65.216.200
+
+mcs.njnu.edu.cn. 0 IN A 220.250.64.225
+
+mcs.njnu.edu.cn. 60 IN A 220.250.64.225
+
+mcs.njnu.edu.cn. 59 IN A 220.250.64.225
+
+metc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+metc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+metc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+metc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+morning.njnu.edu.cn. 300 IN A 211.65.216.200
+
+morning.njnu.edu.cn. 299 IN A 211.65.216.200
+
+morning.njnu.edu.cn. 299 IN A 211.65.216.200
+
+morning.njnu.edu.cn. 299 IN A 211.65.216.200
+
+morning.njnu.edu.cn. 299 IN A 211.65.216.200
+
+morning.njnu.edu.cn. 299 IN A 211.65.216.200
+
+msxy.njnu.edu.cn. 300 IN A 211.65.216.200
+
+msxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+msxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+music.njnu.edu.cn. 300 IN CNAME music-hznu-edu-cn.cname.dbappwaf.cn.
+music-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.202
+
+music.njnu.edu.cn. 299 IN CNAME music-hznu-edu-cn.cname.dbappwaf.cn.
+music-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 46 IN A 124.160.116.202
+
+music.njnu.edu.cn. 299 IN CNAME music-hznu-edu-cn.cname.dbappwaf.cn.
+music-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.204
+
+music.njnu.edu.cn. 299 IN CNAME music-hznu-edu-cn.cname.dbappwaf.cn.
+music-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.202
+
+my.njnu.edu.cn. 300 IN A 211.65.216.182
+
+my.njnu.edu.cn. 299 IN A 211.65.216.182
+
+my.njnu.edu.cn. 299 IN A 211.65.216.182
+
+net.njnu.edu.cn. 300 IN A 211.65.216.200
+
+net.njnu.edu.cn. 299 IN A 211.65.216.200
+
+net.njnu.edu.cn. 299 IN A 211.65.216.200
+
+net.njnu.edu.cn. 299 IN A 211.65.216.200
+
+net.njnu.edu.cn. 299 IN A 211.65.216.200
+
+net.njnu.edu.cn. 299 IN A 211.65.216.200
+
+net.njnu.edu.cn. 299 IN A 211.65.216.200
+
+newoa.njnu.edu.cn. 0 IN A 220.250.64.225
+
+newoa.njnu.edu.cn. 60 IN A 220.250.64.225
+
+newoa.njnu.edu.cn. 59 IN A 220.250.64.225
+
+news.njnu.edu.cn. 300 IN CNAME news-njnu-edu-cn.cname.saaswaf.com.
+news-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 50 IN A 124.160.116.200
+a001.cache.saaswaf.com. 50 IN A 27.221.108.42
+
+news.njnu.edu.cn. 299 IN CNAME news-njnu-edu-cn.cname.saaswaf.com.
+news-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 50 IN A 124.160.116.200
+a001.cache.saaswaf.com. 50 IN A 27.221.108.42
+
+news.njnu.edu.cn. 299 IN CNAME news-njnu-edu-cn.cname.saaswaf.com.
+news-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 50 IN A 124.160.116.200
+a001.cache.saaswaf.com. 50 IN A 27.221.108.42
+
+news.njnu.edu.cn. 299 IN CNAME news-njnu-edu-cn.cname.saaswaf.com.
+news-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 50 IN A 124.160.116.200
+a001.cache.saaswaf.com. 50 IN A 27.221.108.42
+
+newyjs.njnu.edu.cn. 300 IN A 211.65.216.208
+
+newyjs.njnu.edu.cn. 299 IN A 211.65.216.208
+
+newyjs.njnu.edu.cn. 299 IN A 211.65.216.208
+
+newyjs.njnu.edu.cn. 299 IN A 211.65.216.208
+
+njnudb.njnu.edu.cn. 0 IN A 220.250.64.225
+
+njnudb.njnu.edu.cn. 60 IN A 220.250.64.225
+
+njnudb.njnu.edu.cn. 59 IN A 220.250.64.225
+
+nnuaa.njnu.edu.cn. 300 IN A 211.65.216.200
+
+nnuaa.njnu.edu.cn. 299 IN A 211.65.216.200
+
+nnuaa.njnu.edu.cn. 299 IN A 211.65.216.200
+
+nnuaa.njnu.edu.cn. 299 IN A 211.65.216.200
+
+nnuaa.njnu.edu.cn. 299 IN A 211.65.216.200
+
+nnuedc.njnu.edu.cn. 300 IN CNAME nnuedc-njnu-edu-cn.cname.dbappwaf.cn.
+nnuedc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 47 IN A 124.160.116.196
+
+nnuedc.njnu.edu.cn. 300 IN CNAME nnuedc-njnu-edu-cn.cname.dbappwaf.cn.
+nnuedc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.196
+
+nsdgh.njnu.edu.cn. 300 IN A 211.65.216.200
+
+nsdgh.njnu.edu.cn. 299 IN A 211.65.216.200
+
+nsdgh.njnu.edu.cn. 299 IN A 211.65.216.200
+
+nsdgh.njnu.edu.cn. 300 IN A 211.65.216.200
+
+nsdgh.njnu.edu.cn. 299 IN A 211.65.216.200
+
+oa.njnu.edu.cn. 300 IN A 211.65.216.198
+
+oa.njnu.edu.cn. 299 IN A 211.65.216.198
+
+oa.njnu.edu.cn. 299 IN A 211.65.216.198
+
+oa.njnu.edu.cn. 299 IN A 211.65.216.198
+
+paxy.njnu.edu.cn. 0 IN A 220.250.64.225
+
+paxy.njnu.edu.cn. 60 IN A 220.250.64.225
+
+paxy.njnu.edu.cn. 59 IN A 220.250.64.225
+
+pay.njnu.edu.cn. 300 IN A 211.65.216.180
+
+pay.njnu.edu.cn. 299 IN A 211.65.216.180
+
+pay.njnu.edu.cn. 299 IN A 211.65.216.180
+
+pay.njnu.edu.cn. 299 IN A 211.65.216.180
+
+pg.njnu.edu.cn. 0 IN A 220.250.64.225
+
+pg.njnu.edu.cn. 60 IN A 220.250.64.225
+
+pg.njnu.edu.cn. 59 IN A 220.250.64.225
+
+physics.njnu.edu.cn. 300 IN CNAME physics-hznu-edu-cn.cname.dbappwaf.cn.
+physics-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 48 IN A 124.160.116.200
+
+physics.njnu.edu.cn. 299 IN CNAME physics-hznu-edu-cn.cname.dbappwaf.cn.
+physics-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 49 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 49 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 49 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 49 IN A 124.160.116.202
+
+physics.njnu.edu.cn. 299 IN CNAME physics-hznu-edu-cn.cname.dbappwaf.cn.
+physics-hznu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 44 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 44 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 44 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 44 IN A 124.160.116.202
+
+physics.njnu.edu.cn. 300 IN CNAME physics-hznu-edu-cn.cname.dbappwaf.cn.
+physics-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+
+pine.njnu.edu.cn. 60 IN A 202.119.104.10
+
+pine.njnu.edu.cn. 59 IN A 202.119.104.10
+
+pine.njnu.edu.cn. 59 IN A 202.119.104.10
+
+pine.njnu.edu.cn. 59 IN A 202.119.104.10
+
+pine.njnu.edu.cn. 59 IN A 202.119.104.10
+
+pine.njnu.edu.cn. 59 IN A 202.119.104.10
+
+pine.njnu.edu.cn. 59 IN A 202.119.104.10
+
+pop3.njnu.edu.cn. 300 IN A 223.2.10.51
+
+pop3.njnu.edu.cn. 299 IN A 223.2.10.51
+
+powerhole.njnu.edu.cn. 0 IN A 220.250.64.225
+
+powerhole.njnu.edu.cn. 60 IN A 220.250.64.225
+
+powerhole.njnu.edu.cn. 59 IN A 220.250.64.225
+
+press.njnu.edu.cn. 300 IN A 211.65.216.200
+
+press.njnu.edu.cn. 299 IN A 211.65.216.200
+
+press.njnu.edu.cn. 299 IN A 211.65.216.200
+
+press.njnu.edu.cn. 299 IN A 211.65.216.200
+
+qfz.njnu.edu.cn. 300 IN A 211.65.216.200
+
+qfz.njnu.edu.cn. 299 IN A 211.65.216.200
+
+qyfz.njnu.edu.cn. 300 IN CNAME qyfz-njnu-edu-cn.cname.dbappwaf.cn.
+qyfz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.197
+
+rlzyc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+rsc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+rsc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+rsc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+rsc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+rsc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+schools.njnu.edu.cn. 300 IN CNAME schools-njnu-edu-cn.cname.dbappwaf.cn.
+schools-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.197
+
+schools.njnu.edu.cn. 299 IN CNAME schools-njnu-edu-cn.cname.dbappwaf.cn.
+schools-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.197
+
+schools.njnu.edu.cn. 299 IN CNAME schools-njnu-edu-cn.cname.dbappwaf.cn.
+schools-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.197
+
+schools.njnu.edu.cn. 299 IN CNAME schools-njnu-edu-cn.cname.dbappwaf.cn.
+schools-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.197
+
+schools.njnu.edu.cn. 299 IN CNAME schools-njnu-edu-cn.cname.dbappwaf.cn.
+schools-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.197
+
+sfy.njnu.edu.cn. 300 IN CNAME sfy-hznu-edu-cn.cname.dbappwaf.cn.
+sfy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.200
+
+sfy.njnu.edu.cn. 299 IN CNAME sfy-hznu-edu-cn.cname.dbappwaf.cn.
+sfy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.200
+
+sfy.njnu.edu.cn. 299 IN CNAME sfy-hznu-edu-cn.cname.dbappwaf.cn.
+sfy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.200
+
+sfy.njnu.edu.cn. 299 IN CNAME sfy-hznu-edu-cn.cname.dbappwaf.cn.
+sfy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 43 IN A 124.160.116.200
+
+sh.njnu.edu.cn. 300 IN CNAME sh-njnu-edu-cn.cname.dbappwaf.cn.
+sh-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+sh.njnu.edu.cn. 299 IN CNAME sh-njnu-edu-cn.cname.dbappwaf.cn.
+sh-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+shgs.njnu.edu.cn. 300 IN CNAME shgs-njnu-edu-cn.cname.dbappwaf.cn.
+shgs-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 47 IN A 124.160.116.204
+
+sjc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+sjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+sjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+sjc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+sk.njnu.edu.cn. 300 IN A 211.65.216.200
+
+sk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+sk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+sk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+sk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+skc.njnu.edu.cn. 300 IN CNAME skc-njnu-edu-cn.cname.dbappwaf.cn.
+skc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+skc.njnu.edu.cn. 299 IN CNAME skc-njnu-edu-cn.cname.dbappwaf.cn.
+skc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+skc.njnu.edu.cn. 299 IN CNAME skc-njnu-edu-cn.cname.dbappwaf.cn.
+skc-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+sky.njnu.edu.cn. 300 IN CNAME sky-hznu-edu-cn.cname.dbappwaf.cn.
+sky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+sky.njnu.edu.cn. 299 IN CNAME sky-hznu-edu-cn.cname.dbappwaf.cn.
+sky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+sky.njnu.edu.cn. 299 IN CNAME sky-hznu-edu-cn.cname.dbappwaf.cn.
+sky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 45 IN A 124.160.116.196
+
+sky.njnu.edu.cn. 299 IN CNAME sky-hznu-edu-cn.cname.dbappwaf.cn.
+sky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 46 IN A 124.160.116.196
+
+smtp.njnu.edu.cn. 300 IN A 223.2.10.51
+
+smtp.njnu.edu.cn. 299 IN A 223.2.10.51
+
+smtp.njnu.edu.cn. 300 IN A 223.2.10.51
+
+smtp.njnu.edu.cn. 299 IN A 223.2.10.51
+
+smtp.njnu.edu.cn. 299 IN A 223.2.10.51
+
+software.njnu.edu.cn. 300 IN CNAME software-njnu-edu-cn.cname.dbappwaf.cn.
+software-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 44 IN A 124.160.116.196
+
+software.njnu.edu.cn. 299 IN CNAME software-njnu-edu-cn.cname.dbappwaf.cn.
+software-njnu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 59 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 59 IN A 124.160.116.197
+
+spa.njnu.edu.cn. 300 IN CNAME spa-hznu-edu-cn.cname.dbappwaf.cn.
+spa-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 41 IN A 124.160.116.197
+
+spa.njnu.edu.cn. 299 IN CNAME spa-hznu-edu-cn.cname.dbappwaf.cn.
+spa-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 41 IN A 124.160.116.197
+
+spa.njnu.edu.cn. 299 IN CNAME spa-hznu-edu-cn.cname.dbappwaf.cn.
+spa-hznu-edu-cn.cname.dbappwaf.cn. 60 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 41 IN A 124.160.116.197
+
+spa.njnu.edu.cn. 299 IN CNAME spa-hznu-edu-cn.cname.dbappwaf.cn.
+spa-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 42 IN A 124.160.116.197
+
+spxy.njnu.edu.cn. 300 IN CNAME spxy-njnu-edu-cn.cname.saaswaf.com.
+spxy-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 46 IN A 27.221.108.42
+a001.cache.saaswaf.com. 46 IN A 124.160.116.200
+
+spxy.njnu.edu.cn. 299 IN CNAME spxy-njnu-edu-cn.cname.saaswaf.com.
+spxy-njnu-edu-cn.cname.saaswaf.com. 59 IN CNAME a001.cache.saaswaf.com.
+a001.cache.saaswaf.com. 46 IN A 27.221.108.42
+a001.cache.saaswaf.com. 46 IN A 124.160.116.200
+
+spzx.njnu.edu.cn. 300 IN A 211.65.216.200
+
+stu.njnu.edu.cn. 60 IN A 223.2.10.51
+
+stu.njnu.edu.cn. 59 IN A 223.2.10.51
+
+stu.njnu.edu.cn. 59 IN A 223.2.10.51
+
+sun.njnu.edu.cn. 300 IN CNAME sun-njnu-edu-cn.cname.dbappwaf.cn.
+sun-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.204
+
+sun.njnu.edu.cn. 299 IN CNAME sun-njnu-edu-cn.cname.dbappwaf.cn.
+sun-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.204
+
+sun.njnu.edu.cn. 299 IN CNAME sun-njnu-edu-cn.cname.dbappwaf.cn.
+sun-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.204
+
+sun.njnu.edu.cn. 299 IN CNAME sun-njnu-edu-cn.cname.dbappwaf.cn.
+sun-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.204
+
+sun.njnu.edu.cn. 299 IN CNAME sun-njnu-edu-cn.cname.dbappwaf.cn.
+sun-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 45 IN A 124.160.116.204
+
+sxy.njnu.edu.cn. 60 IN CNAME sxy-njnu-edu-cn.cname.dbappwaf.cn.
+sxy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+
+sxy.njnu.edu.cn. 60 IN CNAME sxy-njnu-edu-cn.cname.dbappwaf.cn.
+sxy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+sxy.njnu.edu.cn. 59 IN CNAME sxy-njnu-edu-cn.cname.dbappwaf.cn.
+sxy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+sxy.njnu.edu.cn. 59 IN CNAME sxy-njnu-edu-cn.cname.dbappwaf.cn.
+sxy-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+testlib.njnu.edu.cn. 0 IN A 220.250.64.225
+
+testlib.njnu.edu.cn. 60 IN A 220.250.64.225
+
+testlib.njnu.edu.cn. 59 IN A 220.250.64.225
+
+tky.njnu.edu.cn. 300 IN CNAME tky-hznu-edu-cn.cname.dbappwaf.cn.
+tky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.203
+
+tky.njnu.edu.cn. 299 IN CNAME tky-hznu-edu-cn.cname.dbappwaf.cn.
+tky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.203
+
+tky.njnu.edu.cn. 299 IN CNAME tky-hznu-edu-cn.cname.dbappwaf.cn.
+tky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.203
+
+tky.njnu.edu.cn. 299 IN CNAME tky-hznu-edu-cn.cname.dbappwaf.cn.
+tky-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 40 IN A 124.160.116.203
+
+tt.njnu.edu.cn. 0 IN A 220.250.64.225
+
+tt.njnu.edu.cn. 60 IN A 220.250.64.225
+
+tt.njnu.edu.cn. 59 IN A 220.250.64.225
+
+txb.njnu.edu.cn. 0 IN A 220.250.64.225
+
+txb.njnu.edu.cn. 60 IN A 220.250.64.225
+
+txb.njnu.edu.cn. 59 IN A 220.250.64.225
+
+tzb.njnu.edu.cn. 300 IN A 211.65.216.200
+
+tzb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+tzb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+urp.njnu.edu.cn. 300 IN A 211.65.216.186
+
+urp.njnu.edu.cn. 299 IN A 211.65.216.186
+
+urp.njnu.edu.cn. 299 IN A 211.65.216.186
+
+urp.njnu.edu.cn. 299 IN A 211.65.216.186
+
+vgekl.njnu.edu.cn. 300 IN A 211.65.216.200
+
+vgekl.njnu.edu.cn. 299 IN A 211.65.216.200
+
+vgekl.njnu.edu.cn. 300 IN A 211.65.216.200
+
+vgekl.njnu.edu.cn. 299 IN A 211.65.216.200
+
+vgekl.njnu.edu.cn. 299 IN A 211.65.216.200
+
+vgekl.njnu.edu.cn. 299 IN A 211.65.216.200
+
+vpn.njnu.edu.cn. 60 IN A 202.119.106.163
+
+vpn.njnu.edu.cn. 59 IN A 202.119.106.163
+
+vpn.njnu.edu.cn. 59 IN A 202.119.106.163
+
+vpn.njnu.edu.cn. 59 IN A 202.119.106.163
+
+vpn.njnu.edu.cn. 59 IN A 202.119.106.163
+
+vr.njnu.edu.cn. 0 IN A 220.250.64.225
+
+vr.njnu.edu.cn. 60 IN A 220.250.64.225
+
+vr.njnu.edu.cn. 59 IN A 220.250.64.225
+
+win-g6ol2d2he34.njnu.edu.cn. 0 IN A 220.250.64.225
+
+win-g6ol2d2he34.njnu.edu.cn. 60 IN A 220.250.64.225
+
+win-g6ol2d2he34.njnu.edu.cn. 59 IN A 220.250.64.225
+
+wws.njnu.edu.cn. 300 IN CNAME wws-njnu-edu-cn.cname.dbappwaf.cn.
+wws-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME gslb.cache.dbappwaf.cn.
+gslb.cache.dbappwaf.cn. 599 IN CNAME cun.cache.dbappwaf.cn.
+cun.cache.dbappwaf.cn. 40 IN A 124.160.116.196
+
+www.njnu.edu.cn. 60 IN A 211.65.216.200
+
+www.njnu.edu.cn. 60 IN A 211.65.216.200
+
+www.njnu.edu.cn. 60 IN A 211.65.216.200
+
+www.njnu.edu.cn. 59 IN A 211.65.216.200
+
+www.njnu.edu.cn. 59 IN A 211.65.216.200
+
+www.njnu.edu.cn. 59 IN A 211.65.216.200
+
+www.njnu.edu.cn. 59 IN A 211.65.216.200
+
+www.njnu.edu.cn. 59 IN A 211.65.216.200
+
+wxy.njnu.edu.cn. 300 IN A 211.65.216.200
+
+wxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+wxy.njnu.edu.cn. 299 IN A 211.65.216.200
+
+wy.njnu.edu.cn. 300 IN CNAME wy-hznu-edu-cn.cname.dbappwaf.cn.
+wy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.200
+
+wy.njnu.edu.cn. 299 IN CNAME wy-hznu-edu-cn.cname.dbappwaf.cn.
+wy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.200
+
+wy.njnu.edu.cn. 299 IN CNAME wy-hznu-edu-cn.cname.dbappwaf.cn.
+wy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 41 IN A 124.160.116.200
+
+wy.njnu.edu.cn. 299 IN CNAME wy-hznu-edu-cn.cname.dbappwaf.cn.
+wy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 42 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 42 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 42 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 42 IN A 124.160.116.203
+
+wyadmin.njnu.edu.cn. 0 IN A 220.250.64.225
+
+wyadmin.njnu.edu.cn. 60 IN A 220.250.64.225
+
+wyadmin.njnu.edu.cn. 59 IN A 220.250.64.225
+
+xb.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xb.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xb.njnu.edu.cn. 59 IN A 220.250.64.225
+
+xddwx.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xddwx.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xddwx.njnu.edu.cn. 59 IN A 220.250.64.225
+
+xg.njnu.edu.cn. 300 IN A 211.65.216.183
+
+xg.njnu.edu.cn. 300 IN A 211.65.216.183
+
+xg.njnu.edu.cn. 299 IN A 211.65.216.183
+
+xg.njnu.edu.cn. 299 IN A 211.65.216.183
+
+xgc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+xgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xgc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xgzs1.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xgzs1.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xgzs1.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xinchuan.njnu.edu.cn. 60 IN CNAME xinchuan-hznu-edu-cn.cname.dbappwaf.cn.
+xinchuan-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+xinchuan.njnu.edu.cn. 59 IN CNAME xinchuan-hznu-edu-cn.cname.dbappwaf.cn.
+xinchuan-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+xinchuan.njnu.edu.cn. 59 IN CNAME xinchuan-hznu-edu-cn.cname.dbappwaf.cn.
+xinchuan-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+xinchuan.njnu.edu.cn. 59 IN CNAME xinchuan-hznu-edu-cn.cname.dbappwaf.cn.
+xinchuan-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+xinchuan.njnu.edu.cn. 59 IN CNAME xinchuan-hznu-edu-cn.cname.dbappwaf.cn.
+xinchuan-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+xinchuan.njnu.edu.cn. 59 IN CNAME xinchuan-hznu-edu-cn.cname.dbappwaf.cn.
+xinchuan-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 59 IN A 124.160.116.203
+
+xinli.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xinli.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xinli.njnu.edu.cn. 59 IN A 220.250.64.225
+
+xleu.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xleu.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xleu.njnu.edu.cn. 59 IN A 220.250.64.225
+
+xljk.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xljk.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xlxy.njnu.edu.cn. 300 IN CNAME xlxy-hznu-edu-cn.cname.dbappwaf.cn.
+xlxy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.204
+
+xlxy.njnu.edu.cn. 299 IN CNAME xlxy-hznu-edu-cn.cname.dbappwaf.cn.
+xlxy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.204
+
+xlxy.njnu.edu.cn. 299 IN CNAME xlxy-hznu-edu-cn.cname.dbappwaf.cn.
+xlxy-hznu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 39 IN A 124.160.116.204
+
+xsmail.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xsmail.njnu.edu.cn. 60 IN A 220.250.64.225
+
+xsmail.njnu.edu.cn. 59 IN A 220.250.64.225
+
+xuebao.njnu.edu.cn. 300 IN A 211.65.216.200
+
+xuebao.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xuebao.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xuebao.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xuebao.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xuebao.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xxgk.njnu.edu.cn. 300 IN A 211.65.216.200
+
+xxgk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xxgk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xxgk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xxgk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xxgk.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xxgkold.njnu.edu.cn. 0 IN A 220.250.64.225
+
+xzb.njnu.edu.cn. 300 IN A 211.65.216.200
+
+xzb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xzb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xzb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+xzb.njnu.edu.cn. 300 IN A 211.65.216.200
+
+xzb.njnu.edu.cn. 299 IN A 211.65.216.200
+
+yqfk.njnu.edu.cn. 300 IN A 211.65.216.200
+
+ysjyzx.njnu.edu.cn. 300 IN A 211.65.216.200
+
+yx.njnu.edu.cn. 300 IN A 211.65.216.190
+
+yz.njnu.edu.cn. 300 IN CNAME yz-njnu-edu-cn.cname.dbappwaf.cn.
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 180.96.16.230
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 27.221.108.42
+
+yz.njnu.edu.cn. 299 IN CNAME yz-njnu-edu-cn.cname.dbappwaf.cn.
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 180.96.16.230
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 27.221.108.42
+
+yz.njnu.edu.cn. 299 IN CNAME yz-njnu-edu-cn.cname.dbappwaf.cn.
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 180.96.16.230
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 27.221.108.42
+
+yz.njnu.edu.cn. 299 IN CNAME yz-njnu-edu-cn.cname.dbappwaf.cn.
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 180.96.16.230
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 27.221.108.42
+
+yz.njnu.edu.cn. 299 IN CNAME yz-njnu-edu-cn.cname.dbappwaf.cn.
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 180.96.16.230
+yz-njnu-edu-cn.cname.dbappwaf.cn. 59 IN A 27.221.108.42
+
+zb.njnu.edu.cn. 0 IN A 220.250.64.225
+
+zb.njnu.edu.cn. 60 IN A 220.250.64.225
+
+zbzs.njnu.edu.cn. 0 IN A 220.250.64.225
+
+zcc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zcc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zcc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+zcc.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zcc.njnu.edu.cn. 299 IN A 211.65.216.200
+
+zcccg.njnu.edu.cn. 0 IN A 220.250.64.225
+
+zcccg.njnu.edu.cn. 60 IN A 220.250.64.225
+
+zcjygs.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zcjygs.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zcjygs.njnu.edu.cn. 299 IN A 211.65.216.200
+
+zcjygs.njnu.edu.cn. 299 IN A 211.65.216.200
+
+zcjygs.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zgzj.njnu.edu.cn. 300 IN A 202.119.104.209
+
+zgzj.njnu.edu.cn. 299 IN A 202.119.104.209
+
+zgzj.njnu.edu.cn. 299 IN A 202.119.104.209
+
+zgzj.njnu.edu.cn. 299 IN A 202.119.104.209
+
+zgzj.njnu.edu.cn. 299 IN A 202.119.104.209
+
+zsdwdw.njnu.edu.cn. 300 IN A 211.65.216.200
+
+zzb.njnu.edu.cn. 300 IN CNAME zzb-njnu-edu-cn.cname.dbappwaf.cn.
+zzb-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 31 IN A 124.160.116.203
+lb-e.cache.dbappwaf.cn. 31 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 31 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 31 IN A 124.160.116.200
+
+zzb.njnu.edu.cn. 299 IN CNAME zzb-njnu-edu-cn.cname.dbappwaf.cn.
+zzb-njnu-edu-cn.cname.dbappwaf.cn. 59 IN CNAME lb.cache.dbappwaf.cn.
+lb.cache.dbappwaf.cn. 59 IN CNAME lb-e.cache.dbappwaf.cn.
+lb-e.cache.dbappwaf.cn. 32 IN A 124.160.116.200
+lb-e.cache.dbappwaf.cn. 32 IN A 124.160.116.204
+lb-e.cache.dbappwaf.cn. 32 IN A 124.160.116.202
+lb-e.cache.dbappwaf.cn. 32 IN A 124.160.116.203
+

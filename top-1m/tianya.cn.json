@@ -1,0 +1,82 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:18:06 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "Thu, 01 Nov 2012 10:00:00 GMT",
+            "ETag": "W/\"+GyKUHR5UKg\"",
+            "Last-Modified": "Tue, 23 Jun 2020 03:07:07 GMT",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "tianya.cn": [
+                "124.225.65.154"
+            ],
+            "www.tianya.cn": [
+                "124.225.65.154"
+            ]
+        },
+        "ping": {
+            "tianya.cn": [
+                "124.225.65.154"
+            ],
+            "www.tianya.cn": [
+                "124.225.65.154"
+            ]
+        },
+        "CNAME": {
+            "www.tianya.cn": null
+        },
+        "A": {
+            "www.tianya.cn": [
+                "124.225.65.154"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:18:12 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "Thu, 01 Nov 2012 10:00:00 GMT",
+            "ETag": "W/\"+GyKUHR5UKg\"",
+            "Last-Modified": "Tue, 23 Jun 2020 03:07:07 GMT",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "tianya.cn": [
+                "124.225.65.154"
+            ],
+            "www.tianya.cn": [
+                "124.225.65.154"
+            ]
+        },
+        "ping": {
+            "tianya.cn": [
+                "124.225.65.154"
+            ],
+            "www.tianya.cn": [
+                "124.225.65.154"
+            ]
+        },
+        "CNAME": {
+            "www.tianya.cn": null
+        },
+        "A": {
+            "www.tianya.cn": [
+                "124.225.65.154"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+*.qhu.edu.cn

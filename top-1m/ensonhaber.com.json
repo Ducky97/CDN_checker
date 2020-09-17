@@ -1,0 +1,102 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:22:44 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Content-Encoding": "gzip",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "053840238400001908b3944200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a3618d99e1908-SIN"
+        },
+        "nslookup": {
+            "ensonhaber.com": [
+                "104.22.72.231",
+                "104.22.73.231",
+                "172.67.4.66"
+            ],
+            "www.ensonhaber.com": [
+                "104.22.73.231",
+                "172.67.4.66",
+                "104.22.72.231"
+            ]
+        },
+        "ping": {
+            "ensonhaber.com": [
+                "172.67.4.66",
+                "104.22.73.231"
+            ],
+            "www.ensonhaber.com": [
+                "104.22.72.231",
+                "172.67.4.66",
+                "104.22.73.231"
+            ]
+        },
+        "CNAME": {
+            "www.ensonhaber.com": null
+        },
+        "A": {
+            "www.ensonhaber.com": [
+                "104.22.72.231",
+                "172.67.4.66",
+                "104.22.73.231"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:22:46 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "X-Powered-By": "PHP/7.2.14",
+            "Access-Control-Allow-Origin": "*",
+            "Content-Encoding": "gzip",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "05384029e400001a6e0f125200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a36230cc01a6e-SIN"
+        },
+        "nslookup": {
+            "ensonhaber.com": [
+                "104.22.72.231",
+                "104.22.73.231",
+                "172.67.4.66"
+            ],
+            "www.ensonhaber.com": [
+                "104.22.72.231",
+                "104.22.73.231",
+                "172.67.4.66"
+            ]
+        },
+        "ping": {
+            "ensonhaber.com": [
+                "104.22.72.231",
+                "172.67.4.66",
+                "104.22.73.231"
+            ],
+            "www.ensonhaber.com": [
+                "104.22.72.231",
+                "172.67.4.66",
+                "104.22.73.231"
+            ]
+        },
+        "CNAME": {
+            "www.ensonhaber.com": null
+        },
+        "A": {
+            "www.ensonhaber.com": [
+                "104.22.72.231",
+                "172.67.4.66",
+                "104.22.73.231"
+            ]
+        }
+    }
+}

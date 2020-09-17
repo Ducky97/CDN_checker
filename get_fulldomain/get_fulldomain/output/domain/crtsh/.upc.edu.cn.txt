@@ -1,0 +1,11 @@
+*.upc.edu.cn
+bigdata.computer.upc.edu.cn
+eduroam.upc.edu.cn
+eduroamdataradius.upc.edu.cn
+eduroammasterradius.upc.edu.cn
+eduroamradius.upc.edu.cn
+info.upce.upc.edu.cn
+webvpn.upc.edu.cn
+www.upc.edu.cn
+wxsportscard.upc.edu.cn
+yb.upc.edu.cn

@@ -1,0 +1,17 @@
+*.bsu.edu.cn
+*.v.bsu.edu.cn
+*.webvpn.bsu.edu.cn
+Cihc.bsu.edu.cn
+bb.bsu.edu.cn
+cbc.bsu.edu.cn
+cfc.bsu.edu.cn
+mail.bsu.edu.cn
+new.bsu.edu.cn
+smartcard.bsu.edu.cn
+v.bsu.edu.cn
+webvpn.bsu.edu.cn
+weixin.bsu.edu.cn
+www.smartcard.bsu.edu.cn
+wximg.bsu.edu.cn
+ysx.bsu.edu.cn
+yts.bsu.edu.cn

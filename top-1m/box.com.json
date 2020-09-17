@@ -1,0 +1,108 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:09:55 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "68343",
+            "Connection": "keep-alive",
+            "Accept-Ranges": "bytes",
+            "Age": "39952",
+            "Cache-Control": "max-age=86400, public",
+            "Content-Encoding": "gzip",
+            "Content-language": "en",
+            "ETag": "\"1600211043\"",
+            "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+            "Last-Modified": "Tue, 15 Sep 2020 23:04:03 GMT",
+            "Link": "<https://www.box.com/>; rel=\"shortlink\", <https://www.box.com/home>; rel=\"canonical\", <https://www.box.com/home>; rel=\"alternate\"; hreflang=\"en\", <https://www.box.com/en-gb/home>; rel=\"alternate\"; hreflang=\"en-gb\", <https://www.box.com/en-ca/home>; rel=\"alternate\"; hreflang=\"en-ca\", <https://www.box.com/en-au/home>; rel=\"alternate\"; hreflang=\"en-au\", <https://www.box.com/en-in/home>; rel=\"alternate\"; hreflang=\"en-in\", <https://www.box.com/en-nl/home>; rel=\"alternate\"; hreflang=\"en-nl\", <https://www.box.com/en-se/home>; rel=\"alternate\"; hreflang=\"en-se\", <https://www.box.com/fr-fr/home>; rel=\"alternate\"; hreflang=\"fr\", <https://www.box.com/de-de/home>; rel=\"alternate\"; hreflang=\"de\", <https://www.box.com/it-it/home>; rel=\"alternate\"; hreflang=\"it\", <https://www.box.com/ja-jp/home>; rel=\"alternate\"; hreflang=\"ja-jp\", <https://www.box.com/ko-kr/home>; rel=\"alternate\"; hreflang=\"ko-kr\", <https://www.box.com/es-419/home>; rel=\"alternate\"; hreflang=\"es\", <//cdn03.boxcdn.net>; rel=preconnect; crossorigin, <//cdn03.boxcdn.net>; rel=dns-prefetch",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Vary": "Cookie,Accept-Encoding,X-Geo-Country",
+            "X-AH-Environment": "prod",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "2605",
+            "X-Content-Type-Options": "nosniff",
+            "x-dns-prefetch-control": "on",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Geo-Country": "CN",
+            "X-Request-ID": "v-bf7edd1c-f7a7-11ea-8539-5fe2564e4b99",
+            "X-UA-Compatible": "IE=edge",
+            "X-XSS-Protection": "1; mode=block"
+        },
+        "nslookup": {
+            "box.com": [
+                "103.116.4.201"
+            ],
+            "www.box.com": [
+                "103.116.4.197"
+            ]
+        },
+        "ping": {
+            "box.com": [
+                "103.116.4.201"
+            ],
+            "www.box.com": [
+                "103.116.4.197"
+            ]
+        },
+        "CNAME": {
+            "www.box.com": null
+        },
+        "A": {
+            "www.box.com": [
+                "103.116.4.197"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:09:57 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "68343",
+            "Connection": "keep-alive",
+            "Accept-Ranges": "bytes",
+            "Age": "39953",
+            "Cache-Control": "max-age=86400, public",
+            "Content-Encoding": "gzip",
+            "Content-language": "en",
+            "ETag": "\"1600211043\"",
+            "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+            "Last-Modified": "Tue, 15 Sep 2020 23:04:03 GMT",
+            "Link": "<https://www.box.com/>; rel=\"shortlink\", <https://www.box.com/home>; rel=\"canonical\", <https://www.box.com/home>; rel=\"alternate\"; hreflang=\"en\", <https://www.box.com/en-gb/home>; rel=\"alternate\"; hreflang=\"en-gb\", <https://www.box.com/en-ca/home>; rel=\"alternate\"; hreflang=\"en-ca\", <https://www.box.com/en-au/home>; rel=\"alternate\"; hreflang=\"en-au\", <https://www.box.com/en-in/home>; rel=\"alternate\"; hreflang=\"en-in\", <https://www.box.com/en-nl/home>; rel=\"alternate\"; hreflang=\"en-nl\", <https://www.box.com/en-se/home>; rel=\"alternate\"; hreflang=\"en-se\", <https://www.box.com/fr-fr/home>; rel=\"alternate\"; hreflang=\"fr\", <https://www.box.com/de-de/home>; rel=\"alternate\"; hreflang=\"de\", <https://www.box.com/it-it/home>; rel=\"alternate\"; hreflang=\"it\", <https://www.box.com/ja-jp/home>; rel=\"alternate\"; hreflang=\"ja-jp\", <https://www.box.com/ko-kr/home>; rel=\"alternate\"; hreflang=\"ko-kr\", <https://www.box.com/es-419/home>; rel=\"alternate\"; hreflang=\"es\", <//cdn03.boxcdn.net>; rel=preconnect; crossorigin, <//cdn03.boxcdn.net>; rel=dns-prefetch",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Vary": "Cookie,Accept-Encoding,X-Geo-Country",
+            "X-AH-Environment": "prod",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "2606",
+            "X-Content-Type-Options": "nosniff",
+            "x-dns-prefetch-control": "on",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Geo-Country": "CN",
+            "X-Request-ID": "v-bf7edd1c-f7a7-11ea-8539-5fe2564e4b99",
+            "X-UA-Compatible": "IE=edge",
+            "X-XSS-Protection": "1; mode=block"
+        },
+        "nslookup": {
+            "box.com": [
+                "103.116.4.201"
+            ],
+            "www.box.com": [
+                "103.116.4.197"
+            ]
+        },
+        "ping": {
+            "box.com": [
+                "103.116.4.201"
+            ],
+            "www.box.com": [
+                "103.116.4.197"
+            ]
+        },
+        "CNAME": {
+            "www.box.com": null
+        },
+        "A": {
+            "www.box.com": [
+                "103.116.4.197"
+            ]
+        }
+    }
+}

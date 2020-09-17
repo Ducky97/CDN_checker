@@ -1,0 +1,103 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:49:20 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "no-cache, private, no-transform",
+            "Set-Cookie": "XSRF-TOKEN=eyJpdiI6InNHcmJ2YnNYbk1sYXM0cmdHQXRpcWc9PSIsInZhbHVlIjoidE9nSkZhQzN0RlBJZTM4bTZkT3p2R3VcL0hGUnRZNGQ1aTVHbWlnd3RRR1pKa005WmdnZ3E1enBqdlVqd3Yyc3MiLCJtYWMiOiJhZWMyOGE4Yzk4Yzc0ZTJlZDkyYjI0OWViODZkM2M1YjdkOTQyOTY3YmUyOTU4M2Y5NDMxMzYwNGIwNDdhZWQxIn0%3D; expires=Thu, 17-Sep-2020 10:49:20 GMT; Max-Age=86400; path=/; domain=.idntimes.com, idntimes_session=i01IWhQupSAZCZUErpiEQ27WkbgZFd1buOe88ant; expires=Thu, 17-Sep-2020 10:49:20 GMT; Max-Age=86400; path=/; domain=.idntimes.com; httponly",
+            "X-XSS-Protection": "1; mode=block, 1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Security-Policy": "frame-ancestors https://ads.idntimes.com https://fyi.idntimes.com",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "idntimes.com": [
+                "103.5.51.124",
+                "103.5.51.123",
+                "163.53.193.44"
+            ],
+            "www.idntimes.com": [
+                "163.53.193.44",
+                "103.5.51.123",
+                "103.5.51.124"
+            ]
+        },
+        "ping": {
+            "idntimes.com": [
+                "103.5.51.124",
+                "103.5.51.123",
+                "163.53.193.44"
+            ],
+            "www.idntimes.com": [
+                "163.53.193.44",
+                "103.5.51.124",
+                "103.5.51.123"
+            ]
+        },
+        "CNAME": {
+            "www.idntimes.com": null
+        },
+        "A": {
+            "www.idntimes.com": [
+                "103.5.51.124",
+                "103.5.51.123",
+                "163.53.193.44"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:49:21 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "no-cache, private, no-transform",
+            "Set-Cookie": "XSRF-TOKEN=eyJpdiI6ImpQTzI5TzVmOTdQVzQxd2R0VHBNM0E9PSIsInZhbHVlIjoiVmVDXC9VMmd1aUJ3cFV6aERZY3o0WXdKYk5sOFFvbXFDbWNPVTZFS29qWUdaXC9LamtUVUg3bnZLVThvSVpaUWc4IiwibWFjIjoiZDJlMTBkMjUyNWExMjI1NmYwN2ViYTNiZDdiMWEyN2FmNDEwOTQxODBiM2JmYWQ4OGRmOTMyZTY2MDRjYjI0MCJ9; expires=Thu, 17-Sep-2020 10:49:31 GMT; Max-Age=86400; path=/; domain=.idntimes.com, idntimes_session=wDDFB3gjBzkmyM8PThDaNpSmRcQNhEJZTgrmPRy9; expires=Thu, 17-Sep-2020 10:49:31 GMT; Max-Age=86400; path=/; domain=.idntimes.com; httponly",
+            "X-XSS-Protection": "1; mode=block, 1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Security-Policy": "frame-ancestors https://ads.idntimes.com https://fyi.idntimes.com",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "idntimes.com": [
+                "103.5.51.123",
+                "103.5.51.124",
+                "163.53.193.44"
+            ],
+            "www.idntimes.com": [
+                "103.5.51.124",
+                "103.5.51.123",
+                "163.53.193.44"
+            ]
+        },
+        "ping": {
+            "idntimes.com": [
+                "103.5.51.124",
+                "103.5.51.123",
+                "163.53.193.44"
+            ],
+            "www.idntimes.com": [
+                "103.5.51.124",
+                "103.5.51.123"
+            ]
+        },
+        "CNAME": {
+            "www.idntimes.com": null
+        },
+        "A": {
+            "www.idntimes.com": [
+                "163.53.193.44",
+                "103.5.51.124",
+                "103.5.51.123"
+            ]
+        }
+    }
+}

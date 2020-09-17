@@ -1,0 +1,70 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.1.19",
+            "Date": "Thu, 17 Sep 2020 02:41:33 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/5.5.22-1+deb.sury.org~precise+1",
+            "Set-Cookie": "ci_session=5622nbvdgibo8lmd1uodveb423kuhv51; expires=Thu, 17-Sep-2020 04:41:33 GMT; Max-Age=7200; path=/; HttpOnly",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Strict-Transport-Security": "max-age=31557600; includeSubDomains",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "aixinwu.sjtu.edu.cn": [
+                "202.120.47.213"
+            ]
+        },
+        "ping": {
+            "aixinwu.sjtu.edu.cn": [
+                "202.120.47.213"
+            ]
+        },
+        "CNAME": {
+            "aixinwu.sjtu.edu.cn": null
+        },
+        "A": {
+            "aixinwu.sjtu.edu.cn": [
+                "202.120.47.213"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.1.19",
+            "Date": "Thu, 17 Sep 2020 02:41:35 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/5.5.22-1+deb.sury.org~precise+1",
+            "Set-Cookie": "ci_session=iirgfgj4i03af6ftji2sa8van5fcibpu; expires=Thu, 17-Sep-2020 04:41:35 GMT; Max-Age=7200; path=/; HttpOnly",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Strict-Transport-Security": "max-age=31557600; includeSubDomains",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "aixinwu.sjtu.edu.cn": [
+                "202.120.47.213"
+            ]
+        },
+        "ping": {
+            "aixinwu.sjtu.edu.cn": [
+                "202.120.47.213"
+            ]
+        },
+        "CNAME": {
+            "aixinwu.sjtu.edu.cn": null
+        },
+        "A": {
+            "aixinwu.sjtu.edu.cn": [
+                "202.120.47.213"
+            ]
+        }
+    }
+}

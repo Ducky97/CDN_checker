@@ -1,0 +1,96 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:36:23 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "CF-Ray": "5d3a4a182bad1710-SIN",
+            "Age": "28",
+            "Cache-Control": "max-age=0, public, s-maxage=60",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Vary": "Accept-Encoding",
+            "Via": "1.1 8cbc26e2bd6bdffe912d067e513f8b2d.cloudfront.net (CloudFront)",
+            "CF-Cache-Status": "HIT",
+            "cf-request-id": "05384ca31a000017101cbee200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "X-Amz-Cf-Id": "BicvbU2rOy00DtCqoADq8mNBmS3d9W-snrNs4rbqgj7FRkYrTWArHQ==",
+            "X-Amz-Cf-Pop": "LHR62-C5",
+            "X-Cache": "Miss from cloudfront",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Server": "cloudflare"
+        },
+        "nslookup": {
+            "9gag.com": [
+                "104.16.104.144",
+                "104.16.103.144",
+                "104.16.106.144",
+                "104.16.105.144",
+                "104.16.107.144"
+            ]
+        },
+        "ping": {
+            "9gag.com": [
+                "104.16.103.144",
+                "104.16.105.144",
+                "104.16.107.144",
+                "104.16.104.144",
+                "104.16.106.144"
+            ]
+        },
+        "CNAME": {
+            "9gag.com": "still a low_level domain_name"
+        },
+        "A": {
+            "9gag.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:36:23 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d61adaaf572638b265e4f1fe41cd7aa741600256183; expires=Fri, 16-Oct-20 11:36:23 GMT; path=/; domain=.9gag.com; HttpOnly; SameSite=Lax, ____ri=6024; Max-Age=3153600; Secure; Path=/; Domain=.9gag.com, ____lo=CN; Max-Age=3153600; Secure; Path=/; Domain=.9gag.com",
+            "CF-Ray": "5d3a4a18797818ec-SIN",
+            "Age": "28",
+            "Cache-Control": "max-age=0, public, s-maxage=60",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Vary": "Accept-Encoding",
+            "Via": "1.1 8cbc26e2bd6bdffe912d067e513f8b2d.cloudfront.net (CloudFront)",
+            "CF-Cache-Status": "HIT",
+            "cf-request-id": "05384ca34a000018ec2daa8200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "X-Amz-Cf-Id": "BicvbU2rOy00DtCqoADq8mNBmS3d9W-snrNs4rbqgj7FRkYrTWArHQ==",
+            "X-Amz-Cf-Pop": "LHR62-C5",
+            "X-Cache": "Miss from cloudfront",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Server": "cloudflare"
+        },
+        "nslookup": {
+            "9gag.com": [
+                "104.16.103.144",
+                "104.16.104.144",
+                "104.16.105.144",
+                "104.16.106.144",
+                "104.16.107.144"
+            ]
+        },
+        "ping": {
+            "9gag.com": [
+                "104.16.103.144",
+                "104.16.105.144",
+                "104.16.104.144",
+                "104.16.107.144"
+            ]
+        },
+        "CNAME": {
+            "9gag.com": "still a low_level domain_name"
+        },
+        "A": {
+            "9gag.com": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,3558 @@
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+NXDOMAIN for ccnu.edu.cn
+
+135.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 659 IN A 183.168.162.3
+waf.ccnu.edu.cn. 659 IN A 183.168.162.4
+
+3dccnu.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+3dccnu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+3dccnu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+account.ccnu.edu.cn. 3600 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn. 3599 IN A 202.114.33.163
+
+account.ccnu.edu.cn<BR>www.account.ccnu.edu.cn. 0 IN A 220.250.64.225
+
+account.ccnu.edu.cn<BR>www.account.ccnu.edu.cn. 60 IN A 220.250.64.225
+
+account.ccnu.edu.cn<BR>www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+account.ccnu.edu.cn<BR>www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+account.ccnu.edu.cn<BR>www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+account.ccnu.edu.cn<BR>www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+hznucms.ccnu.edu.cnwww.account.ccnu.edu.cn. 0 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 0 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 60 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+www.account.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+aco.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+aco.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+aco.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+www.actl.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+antivirus.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+antivirus.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+antivirus.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+antivirus.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+archives.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+archives.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+archives.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+
+art.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+art.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+art.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1221 IN A 183.168.162.4
+
+auth.ccnu.edu.cn. 3600 IN A 202.114.32.151
+
+auth.ccnu.edu.cn. 3599 IN A 202.114.32.151
+
+auth.ccnu.edu.cn. 3599 IN A 202.114.32.151
+
+bb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bbs.ccnu.edu.cn. 3600 IN A 218.199.196.92
+
+bbs.ccnu.edu.cn. 3599 IN A 218.199.196.92
+
+bibframe.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bibframe.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bigdata.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bio.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bio.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bio.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+biogrid.ccnu.edu.cn. 3600 IN A 202.114.32.71
+
+bs.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+
+bsgxda.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 658 IN A 183.168.162.3
+waf.ccnu.edu.cn. 658 IN A 183.168.162.4
+
+bwc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+bwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+bwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+bwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+bwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+calligraphy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+career.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+ccnu-1.ccnu.edu.cn. 129 IN A 202.114.32.1
+
+ccnu-1.ccnu.edu.cn. 128 IN A 202.114.32.1
+
+ccnu-1.ccnu.edu.cn. 128 IN A 202.114.32.1
+
+ccnu-2.ccnu.edu.cn. 129 IN A 202.114.32.2
+
+ccnu-2.ccnu.edu.cn. 128 IN A 202.114.32.2
+
+ccnu-2.ccnu.edu.cn. 128 IN A 202.114.32.2
+
+ccnucity.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+ccnucity.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+ccnucity.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+ccnucity.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+ccnucity.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+ccrs.ccnu.edu.cn. 129 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+ccrs.ccnu.edu.cn. 128 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+ccrs.ccnu.edu.cn. 128 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+check.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+check.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+chem.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem-usp.ccnu.edu.cn. 3600 IN A 202.114.34.167
+
+chem-xiao.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem-xiao.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chem-xiao.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chemcenter.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 657 IN A 183.168.162.3
+waf.ccnu.edu.cn. 657 IN A 183.168.162.4
+
+chemyang.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chemyang.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chemyang.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chemyang.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chemyang.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1219 IN A 183.168.162.4
+
+chinagrid.ccnu.edu.cn. 60 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+chinagrid.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+chinagrid.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+chinagrid.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+chinese.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+chinese.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+chinese.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+chinese.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+chinese.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+cice.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+
+cice.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+
+cice.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+
+cicet.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+
+cicet.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+
+cicet.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+
+www.wxapp.ccnu.edu.cn<BR>wxapp.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+www.wxapp.ccnu.edu.cn<BR>wxapp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+www.wxapp.ccnu.edu.cn<BR>wxapp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+www.wxapp.ccnu.edu.cn<BR>wxapp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+www.wxapp.ccnu.edu.cn<BR>wxapp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+www.wxapp.ccnu.edu.cn<BR>wxapp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+wxnercel.ccnu.edu.cnfast.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 656 IN A 183.168.162.3
+waf.ccnu.edu.cn. 656 IN A 183.168.162.4
+
+skcxmsb.ccnu.edu.cnkyb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+ns1.ccnu.edu.cnpan.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+cnpc2019.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+pan.ccnu.edu.cnwebray.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+
+account.ccnu.edu.cnxssw.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1218 IN A 183.168.162.4
+
+vobox.grid.ccnu.edu.cnxxb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+
+sun-site.ccnu.edu.cnzxjz.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+
+conf.ccnu.edu.cn. 3600 IN A 122.204.129.20
+
+console.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1217 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1217 IN A 183.168.162.3
+
+console.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1217 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1217 IN A 183.168.162.3
+
+cpa.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+
+cpa.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+
+cpa.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+
+cpa.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+
+cpa.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+
+cpsy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+
+cpsy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+
+cpsy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 655 IN A 183.168.162.3
+waf.ccnu.edu.cn. 655 IN A 183.168.162.4
+
+crsd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+crsd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+crsd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+crsd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+cs.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cta-wh.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+cta-wh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+cta-wh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+ctld.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+cwc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cxsj.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cxsj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cxsj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+cyxy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+cyxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+cyxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+
+dag.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dag.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dag.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dgid.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+dj.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+dj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+dj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+dj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+dlib.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dlib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dlib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dlib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dns3.ccnu.edu.cn. 3600 IN A 202.114.32.3
+
+dns3.ccnu.edu.cn. 3599 IN A 202.114.32.3
+
+dns3.ccnu.edu.cn. 3599 IN A 202.114.32.3
+
+dns3.ccnu.edu.cn. 3599 IN A 202.114.32.3
+
+down.ccnu.edu.cn. 3600 IN A 202.114.32.34
+
+down.ccnu.edu.cn. 3599 IN A 202.114.32.34
+
+down.ccnu.edu.cn. 3599 IN A 202.114.32.34
+
+down.ccnu.edu.cn. 3599 IN A 202.114.32.34
+
+dpd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dss.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+dynercel.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+dynercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+e.ccnu.edu.cn. 3600 IN A 202.114.32.43
+
+e.ccnu.edu.cn. 3599 IN A 202.114.32.43
+
+e.ccnu.edu.cn. 3599 IN A 202.114.32.43
+
+e.ccnu.edu.cn. 3599 IN A 202.114.32.43
+
+eastwest.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+eastwest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+eastwest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+ebsc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+
+ecard.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+ecard.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+ecard.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1216 IN A 183.168.162.4
+
+ecardwx.ccnu.edu.cn. 3600 IN A 202.114.33.67
+
+ecardwx.ccnu.edu.cn. 3599 IN A 202.114.33.67
+
+econ.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+econ.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+econ.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+edu.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+edu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+edu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 654 IN A 183.168.162.4
+waf.ccnu.edu.cn. 654 IN A 183.168.162.3
+
+ehall.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.3
+
+eipec.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+eisr.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.4
+
+eisr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.4
+
+eisr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.4
+
+eisr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.4
+
+eisr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1215 IN A 183.168.162.4
+
+elearning.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+elearning.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+email.ccnu.edu.cn. 3600 IN A 202.114.32.22
+
+email.ccnu.edu.cn. 3599 IN A 202.114.32.22
+
+email.ccnu.edu.cn. 3599 IN A 202.114.32.22
+
+email.ccnu.edu.cn. 3599 IN A 202.114.32.22
+
+english.ccnu.edu.cn. 3600 IN A 183.168.162.3
+english.ccnu.edu.cn. 3600 IN A 183.168.162.4
+
+english.ccnu.edu.cn. 3599 IN A 183.168.162.4
+english.ccnu.edu.cn. 3599 IN A 183.168.162.3
+
+english.ccnu.edu.cn. 3599 IN A 183.168.162.4
+english.ccnu.edu.cn. 3599 IN A 183.168.162.3
+
+english.ccnu.edu.cn. 3599 IN A 183.168.162.4
+english.ccnu.edu.cn. 3599 IN A 183.168.162.3
+
+english.ccnu.edu.cn. 3599 IN A 183.168.162.4
+english.ccnu.edu.cn. 3599 IN A 183.168.162.3
+
+english.ccnu.edu.cn. 3599 IN A 183.168.162.4
+english.ccnu.edu.cn. 3599 IN A 183.168.162.3
+
+esrc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+etca.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+eye.ccnu.edu.cn. 3600 IN A 202.114.32.164
+
+eye.ccnu.edu.cn. 3599 IN A 202.114.32.164
+
+eye.ccnu.edu.cn. 3599 IN A 202.114.32.164
+
+eye.ccnu.edu.cn. 3599 IN A 202.114.32.164
+
+fast.ccnu.edu.cn. 3600 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fast.ccnu.edu.cn. 3599 IN A 202.114.33.34
+
+fls.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+fls.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+fls.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+fls.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+freshman.ccnu.edu.cn. 3600 IN A 122.204.187.2
+
+freshman.ccnu.edu.cn. 3599 IN A 122.204.187.2
+
+freshman.ccnu.edu.cn. 3599 IN A 122.204.187.2
+
+freshman.ccnu.edu.cn. 3599 IN A 122.204.187.2
+
+freshman.ccnu.edu.cn. 3599 IN A 122.204.187.2
+
+ftp2.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+ftp2.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+ftp2.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+ftp2.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fuxiao.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fuxiao.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fuxiao.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fuxiao.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fuxiao.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fw.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+fw.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+gd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+gd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+gd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+gd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+
+gh.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+gh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+gh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+gh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+gh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 653 IN A 183.168.162.4
+waf.ccnu.edu.cn. 653 IN A 183.168.162.3
+
+gov.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+graduate.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+graduate.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+ce.grid.ccnu.edu.cn. 3600 IN A 122.204.129.27
+
+ce.grid.ccnu.edu.cn. 3599 IN A 122.204.129.27
+
+ce.grid.ccnu.edu.cn. 3599 IN A 122.204.129.27
+
+ce.grid.ccnu.edu.cn. 3599 IN A 122.204.129.27
+
+chem.grid.ccnu.edu.cn. 0 IN A 220.250.64.225
+
+chem.grid.ccnu.edu.cn. 60 IN A 220.250.64.225
+
+chem.grid.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+eitec.grid.ccnu.edu.cn. 0 IN A 220.250.64.225
+
+eitec.grid.ccnu.edu.cn. 60 IN A 220.250.64.225
+
+eitec.grid.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+eitec.grid.ccnu.edu.cn. 59 IN A 220.250.64.225
+
+net.grid.ccnu.edu.cn. 3600 IN A 202.114.32.72
+
+net.grid.ccnu.edu.cn. 3599 IN A 202.114.32.72
+
+net.grid.ccnu.edu.cn. 3599 IN A 202.114.32.72
+
+net.grid.ccnu.edu.cn. 3599 IN A 202.114.32.72
+
+se.grid.ccnu.edu.cn. 3600 IN A 122.204.129.26
+
+se.grid.ccnu.edu.cn. 3599 IN A 122.204.129.26
+
+se.grid.ccnu.edu.cn. 3599 IN A 122.204.129.26
+
+se.grid.ccnu.edu.cn. 3599 IN A 122.204.129.26
+
+ui.grid.ccnu.edu.cn. 3600 IN A 122.204.129.29
+
+ui.grid.ccnu.edu.cn. 3599 IN A 122.204.129.29
+
+ui.grid.ccnu.edu.cn. 3599 IN A 122.204.129.29
+
+ui.grid.ccnu.edu.cn. 3599 IN A 122.204.129.29
+
+vobox.grid.ccnu.edu.cn. 3600 IN A 122.204.129.28
+
+vobox.grid.ccnu.edu.cn. 3599 IN A 122.204.129.28
+
+vobox.grid.ccnu.edu.cn. 3599 IN A 122.204.129.28
+
+wms.grid.ccnu.edu.cn. 3600 IN A 122.204.129.25
+
+wms.grid.ccnu.edu.cn. 3599 IN A 122.204.129.25
+
+wms.grid.ccnu.edu.cn. 3599 IN A 122.204.129.25
+
+wms.grid.ccnu.edu.cn. 3599 IN A 122.204.129.25
+
+gs.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gsculture.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+gsculture.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+gsnews.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gsnews.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gsnews.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gsphoto.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gsu.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+gsu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+gsu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+gtb.ccnu.edu.cn. 3600 IN A 218.199.196.81
+
+guisheng.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+guoxue.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+guoxue.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+guoxue.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gyws.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gyws.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gyws.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gyws.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gyws.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+
+gzb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1214 IN A 183.168.162.3
+
+hbesi.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 652 IN A 183.168.162.4
+waf.ccnu.edu.cn. 652 IN A 183.168.162.3
+
+hbesi.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 652 IN A 183.168.162.4
+waf.ccnu.edu.cn. 652 IN A 183.168.162.3
+
+hbesi.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 652 IN A 183.168.162.4
+waf.ccnu.edu.cn. 652 IN A 183.168.162.3
+
+hbeta.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 652 IN A 183.168.162.4
+waf.ccnu.edu.cn. 652 IN A 183.168.162.3
+
+hbsys.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+hbsys.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+hbsys.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+hc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+
+history.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+history.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+history.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+hmt.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+hmt.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+hmt.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+hosp.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+
+hosp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+
+hosp.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+
+houqin.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+houqin.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+houqin.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+houqin.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+
+hqfwpt.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1213 IN A 183.168.162.4
+
+hr.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+hr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+hr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+hr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+hr.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+hsyj.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+hsyj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 651 IN A 183.168.162.3
+waf.ccnu.edu.cn. 651 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+httpstest.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+hums.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+hyzhongchem.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+hzb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+
+hzb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+
+hznucas.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+hznucas.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+hznucas.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+hznucas.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1212 IN A 183.168.162.4
+
+hznucms.ccnu.edu.cn. 3600 IN A 202.114.32.195
+
+hznucms.ccnu.edu.cn. 3599 IN A 202.114.32.195
+
+hznucms.ccnu.edu.cn. 3599 IN A 202.114.32.195
+
+hznucms.ccnu.edu.cn. 3599 IN A 202.114.32.195
+
+hznulms.ccnu.edu.cn. 3600 IN A 202.114.32.200
+
+hznulms.ccnu.edu.cn. 3599 IN A 202.114.32.200
+
+hznulms.ccnu.edu.cn. 3599 IN A 202.114.32.200
+
+hznulms.ccnu.edu.cn. 3599 IN A 202.114.32.200
+
+hznulms.ccnu.edu.cn. 3599 IN A 202.114.32.200
+
+hznuman.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+
+hznuman.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+
+hznuman.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+
+hznuman.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+
+i.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+i.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+i.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+iec.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+iec.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+iec.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+iec.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+ihss.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+ihss.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+ihss.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 650 IN A 183.168.162.4
+waf.ccnu.edu.cn. 650 IN A 183.168.162.3
+
+il.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+
+imd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+
+imd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+
+imd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+
+ime.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+
+ime.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+
+ime.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+
+inc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1211 IN A 183.168.162.3
+
+io.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+
+iopp.ccnu.edu.cn. 3600 IN A 202.114.35.30
+
+iopp.ccnu.edu.cn. 3599 IN A 202.114.35.30
+
+ioppweb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+
+ioppweb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+
+ip.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+
+ip.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+
+ip.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 649 IN A 183.168.162.3
+waf.ccnu.edu.cn. 649 IN A 183.168.162.4
+
+iptv.ccnu.edu.cn. 3600 IN A 202.114.32.102
+
+iptv.ccnu.edu.cn. 3599 IN A 202.114.32.102
+
+iptv.ccnu.edu.cn. 3599 IN A 202.114.32.102
+
+iptv.ccnu.edu.cn. 3599 IN A 202.114.32.102
+
+is.ccnu.edu.cn. 60 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+is.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+is.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+isao.ccnu.edu.cn. 3600 IN CNAME dns.lface.org.
+dns.lface.org. 6651 IN A 123.127.134.6
+
+isp.ccnu.edu.cn. 3600 IN A 202.114.32.240
+
+isp.ccnu.edu.cn. 3599 IN A 202.114.32.240
+
+isp.ccnu.edu.cn. 3599 IN A 202.114.32.240
+
+isp.ccnu.edu.cn. 3599 IN A 202.114.32.240
+
+it.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.3
+
+it.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.3
+
+it.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.3
+
+it.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.3
+
+it.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.3
+
+italy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+italy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+italy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+italy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+italy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+iteach.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1210 IN A 183.168.162.4
+
+jc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jiuye.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jiuye.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jiuye.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jjh.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jjh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+jjh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 648 IN A 183.168.162.4
+waf.ccnu.edu.cn. 648 IN A 183.168.162.3
+
+journal.ccnu.edu.cn. 60 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+journal.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+journal.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+journal.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+journal.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+jpkc.ccnu.edu.cn. 3600 IN A 202.114.32.16
+
+jpkc.ccnu.edu.cn. 3599 IN A 202.114.32.16
+
+jpkc.ccnu.edu.cn. 3599 IN A 202.114.32.16
+
+jpkc.ccnu.edu.cn. 3599 IN A 202.114.32.16
+
+jpkc.ccnu.edu.cn. 3599 IN A 202.114.32.16
+
+jpkc.ccnu.edu.cn. 3599 IN A 202.114.32.16
+
+jsjyxy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1209 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1209 IN A 183.168.162.3
+
+jsjyxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1209 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1209 IN A 183.168.162.3
+
+jsjyxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1209 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1209 IN A 183.168.162.3
+
+NXDOMAIN for jspx.ccnu.edu.cn
+
+NXDOMAIN for jspx.ccnu.edu.cn
+
+NXDOMAIN for jspx.ccnu.edu.cn
+
+NXDOMAIN for jspx.ccnu.edu.cn
+
+jspxw.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+
+jspxw.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+
+jspxw.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+
+jspxw.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+
+jszhb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+
+jszhb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+
+jwc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+
+jwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+
+jwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+
+jwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+
+jwc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1993 IN A 183.168.162.3
+
+jwjcc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+jwjcc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+jxj.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+jxj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+jxsxszzy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+
+jyc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+jyfzb.ccnu.edu.cn. 1955 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+jyfzb.ccnu.edu.cn. 1954 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+jyfzb.ccnu.edu.cn. 1954 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+jyyjysy.ccnu.edu.cn. 3600 IN A 218.199.196.97
+
+jyyjysy.ccnu.edu.cn. 3599 IN A 218.199.196.97
+
+jyyjysy.ccnu.edu.cn. 3599 IN A 218.199.196.97
+
+kcyjzx.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+
+kcyjzx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+
+kcyjzx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+
+kfy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+
+kjc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+klpcb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+klpcb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+klpcb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1992 IN A 183.168.162.3
+
+kyb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.3
+
+kyb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.3
+
+lab.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.3
+
+lab.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.3
+
+lab.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3406 IN A 183.168.162.3
+
+law.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+law.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+law.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lcd.ccnu.edu.cn. 3600 IN A 183.168.162.3
+
+lgc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lgc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lgc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lib.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+lilab.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+
+lilab.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+
+lilab.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+
+lilun.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+ling.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+ling.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+ling.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+linguist.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+liuxue.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+liuxue.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+liuxue.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+liuxue.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+
+ljsm.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+login.ccnu.edu.cn. 3600 IN A 202.114.33.12
+
+login.ccnu.edu.cn. 3599 IN A 202.114.33.12
+
+login.ccnu.edu.cn. 3599 IN A 202.114.33.12
+
+love.ccnu.edu.cn. 3600 IN A 202.114.33.82
+
+ltx.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+ltx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+lx.ccnu.edu.cn. 3600 IN A 202.114.32.207
+
+lx.ccnu.edu.cn. 3599 IN A 202.114.32.207
+
+lx.ccnu.edu.cn. 3599 IN A 202.114.32.207
+
+lx.ccnu.edu.cn. 3599 IN A 202.114.32.207
+
+mail.ccnu.edu.cn. 3600 IN A 202.114.32.213
+
+mail.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mail.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mail.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mail.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mail.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mail.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mails.ccnu.edu.cn. 3600 IN A 202.114.32.213
+
+mails.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+mails.ccnu.edu.cn. 3599 IN A 202.114.32.213
+
+marx.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+marx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+marx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+maths.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+maths.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+maths.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+media-ethic.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+media-ethic.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+media-ethic.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+media-ethic.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+media-ethic.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3405 IN A 183.168.162.4
+
+media-service.ccnu.edu.cn. 3600 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+media-service.ccnu.edu.cn. 3599 IN A 122.204.151.33
+
+mlib.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+mlib.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+mpa.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+mpa.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+mpa.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1991 IN A 183.168.162.3
+
+ms.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+ms.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+ms.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+ms.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+ms.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mus.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+music.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+music.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+music.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+mxg.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+mxg.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+nelebd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+nelebd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+nelebd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+nelebd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+nelebd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+
+nercel.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nercel.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+mail.net.ccnu.edu.cn. 3600 IN A 202.114.33.7
+
+mail.net.ccnu.edu.cn. 3599 IN A 202.114.33.7
+
+mail.net.ccnu.edu.cn. 3599 IN A 202.114.33.7
+
+mail.net.ccnu.edu.cn. 3599 IN A 202.114.33.7
+
+news.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+news.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+news.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+news.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+news.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nisc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nisc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nisc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nisc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nisc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+nisc1.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1990 IN A 183.168.162.4
+
+notice.ccnu.edu.cn. 3600 IN A 202.114.32.215
+
+notice.ccnu.edu.cn. 3599 IN A 202.114.32.215
+
+notice.ccnu.edu.cn. 3599 IN A 202.114.32.215
+
+notice.ccnu.edu.cn. 3599 IN A 202.114.32.215
+
+nrcci.ccnu.edu.cn. 60 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+nrcci.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+nrcci.ccnu.edu.cn. 59 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+
+ns1.ccnu.edu.cn. 3600 IN A 202.114.32.1
+
+ns1.ccnu.edu.cn. 3599 IN A 202.114.32.1
+
+ns1.ccnu.edu.cn. 3599 IN A 202.114.32.1
+
+ns1.ccnu.edu.cn. 3599 IN A 202.114.32.1
+
+ns1.ccnu.edu.cn. 3599 IN A 202.114.32.1
+
+ns2.ccnu.edu.cn. 3600 IN A 202.114.32.2
+
+ns2.ccnu.edu.cn. 3599 IN A 202.114.32.2
+
+ns2.ccnu.edu.cn. 3599 IN A 202.114.32.2
+
+ns2.ccnu.edu.cn. 3599 IN A 202.114.32.2
+
+oauth2.ccnu.edu.cn. 3600 IN A 202.114.33.86
+
+oauth2.ccnu.edu.cn. 3599 IN A 202.114.33.86
+
+one.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+one.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+one.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+one.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+one.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+open.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+
+pan.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pgzx.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+pgzx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+photo.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1989 IN A 183.168.162.4
+
+phy.ccnu.edu.cn. 3600 IN A 202.114.36.28
+
+phy.ccnu.edu.cn. 3599 IN A 202.114.36.28
+
+phy.ccnu.edu.cn. 3599 IN A 202.114.36.28
+
+dop.phy.ccnu.edu.cn. 3600 IN A 202.114.36.28
+
+physics.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.4
+
+physics.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.4
+
+physics.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.4
+
+politics.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.4
+
+politics.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.4
+
+politics.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1988 IN A 183.168.162.4
+
+portal.ccnu.edu.cn. 3600 IN A 122.204.187.1
+
+portal.ccnu.edu.cn. 3599 IN A 122.204.187.1
+
+power.ccnu.edu.cn. 3600 IN A 202.114.32.163
+
+power.ccnu.edu.cn. 3599 IN A 202.114.32.163
+
+power.ccnu.edu.cn. 3599 IN A 202.114.32.163
+
+power.ccnu.edu.cn. 3599 IN A 202.114.32.163
+
+press.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+press.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+press.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+psycelab.ccnu.edu.cn. 3600 IN A 202.114.32.219
+
+psycelab.ccnu.edu.cn. 3599 IN A 202.114.32.219
+
+psycelab.ccnu.edu.cn. 3599 IN A 202.114.32.219
+
+psycelab.ccnu.edu.cn. 3599 IN A 202.114.32.219
+
+psych.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+psych.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+psych.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+pxzx.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+pxzx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+
+qianyue.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+
+qianyue.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3402 IN A 183.168.162.3
+
+qlpl.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qlpl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qlpl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qlpl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qlpl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qm2019.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qm2019.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+qwerasdf2018.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+
+rac1.ccnu.edu.cn. 3600 IN A 202.114.32.141
+
+rac1.ccnu.edu.cn. 3599 IN A 202.114.32.141
+
+rac1.ccnu.edu.cn. 3599 IN A 202.114.32.141
+
+rac1.ccnu.edu.cn. 3599 IN A 202.114.32.141
+
+rac1-vip.ccnu.edu.cn. 3600 IN A 202.114.32.131
+
+rac1-vip.ccnu.edu.cn. 3599 IN A 202.114.32.131
+
+rac1-vip.ccnu.edu.cn. 3599 IN A 202.114.32.131
+
+rac1-vip.ccnu.edu.cn. 3599 IN A 202.114.32.131
+
+rac2.ccnu.edu.cn. 3600 IN A 202.114.32.142
+
+rac2.ccnu.edu.cn. 3599 IN A 202.114.32.142
+
+rac2.ccnu.edu.cn. 3599 IN A 202.114.32.142
+
+rac2.ccnu.edu.cn. 3599 IN A 202.114.32.142
+
+rac2-vip.ccnu.edu.cn. 3600 IN A 202.114.32.132
+
+rac2-vip.ccnu.edu.cn. 3599 IN A 202.114.32.132
+
+rac2-vip.ccnu.edu.cn. 3599 IN A 202.114.32.132
+
+rac2-vip.ccnu.edu.cn. 3599 IN A 202.114.32.132
+
+radius.ccnu.edu.cn. 3600 IN A 202.114.32.5
+
+radius.ccnu.edu.cn. 3599 IN A 202.114.32.5
+
+radius.ccnu.edu.cn. 3599 IN A 202.114.32.5
+
+radius.ccnu.edu.cn. 3599 IN A 202.114.32.5
+
+rcccd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+rcccd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+rcccd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+rcdb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+rcdb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+rcdb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1987 IN A 183.168.162.4
+
+risd.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+
+risd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+
+risd.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+
+rural.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+
+selfservice.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+
+sfl.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+
+sfl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+
+sfl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3401 IN A 183.168.162.3
+
+shop.ccnu.edu.cn. 3600 IN A 202.114.32.165
+
+shop.ccnu.edu.cn. 3599 IN A 202.114.32.165
+
+shop.ccnu.edu.cn. 3599 IN A 202.114.32.165
+
+shop.ccnu.edu.cn. 3599 IN A 202.114.32.165
+
+shxy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+shxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+shxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+sj.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+sj.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+sjc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+sjc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+sjc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skchd.ccnu.edu.cn. 3600 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skchd.ccnu.edu.cn. 3599 IN A 122.204.151.52
+
+skcxmsb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+skcxmsb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+sky.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+sky.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+sky.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+
+snmp.ccnu.edu.cn. 3600 IN A 202.114.33.69
+
+snmp.ccnu.edu.cn. 3599 IN A 202.114.33.69
+
+snmp.ccnu.edu.cn. 3599 IN A 202.114.33.69
+
+snmp.ccnu.edu.cn. 3599 IN A 202.114.33.69
+
+socialismstudies.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+sociology.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+spain.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3400 IN A 183.168.162.3
+
+spoc.ccnu.edu.cn. 3600 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+exam.spoc.ccnu.edu.cn. 3600 IN A 202.114.33.146
+
+exam.spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+exam.spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+www.spoc.ccnu.edu.cn. 3600 IN A 202.114.33.146
+
+www.spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+www.spoc.ccnu.edu.cn. 3599 IN A 202.114.33.146
+
+spzx.ccnu.edu.cn. 3493 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3492 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3492 IN A 183.168.162.3
+
+srms.ccnu.edu.cn. 3600 IN A 202.114.33.215
+
+srms.ccnu.edu.cn. 3599 IN A 202.114.33.215
+
+ssgl.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1986 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1986 IN A 183.168.162.4
+
+ssgl.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1986 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1986 IN A 183.168.162.4
+
+sso.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+stats.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+story.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+story.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+story.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+students.ccnu.edu.cn. 3600 IN A 202.114.32.33
+
+students.ccnu.edu.cn. 3599 IN A 202.114.32.33
+
+students.ccnu.edu.cn. 3599 IN A 202.114.32.33
+
+students.ccnu.edu.cn. 3599 IN A 202.114.32.33
+
+su.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+su.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+su.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+sua.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+sua.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+sun-site.ccnu.edu.cn. 3600 IN A 202.114.32.17
+
+sun-site.ccnu.edu.cn. 3599 IN A 202.114.32.17
+
+sun-site.ccnu.edu.cn. 3599 IN A 202.114.32.17
+
+sz.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+sz.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+sz.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+
+szkc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+szkc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+tail-t.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+tail-t.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+tcea.ccnu.edu.cn. 3493 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+tcea.ccnu.edu.cn. 3492 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+tcea.ccnu.edu.cn. 3492 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1985 IN A 183.168.162.3
+
+tcpa.ccnu.edu.cn. 3493 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 629 IN A 183.168.162.4
+waf.ccnu.edu.cn. 629 IN A 183.168.162.3
+
+tcpa.ccnu.edu.cn. 3492 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 629 IN A 183.168.162.4
+waf.ccnu.edu.cn. 629 IN A 183.168.162.3
+
+tcpa.ccnu.edu.cn. 3492 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 629 IN A 183.168.162.4
+waf.ccnu.edu.cn. 629 IN A 183.168.162.3
+
+testing.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.3
+
+testing.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.3
+
+testing.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.3
+
+time.ccnu.edu.cn. 3600 IN A 202.114.32.10
+
+time.ccnu.edu.cn. 3599 IN A 202.114.32.10
+
+time.ccnu.edu.cn. 3599 IN A 202.114.32.10
+
+time.ccnu.edu.cn. 3599 IN A 202.114.32.10
+
+ty.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+ty.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+ty.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+tysq1.ccnu.edu.cn. 3600 IN A 122.204.151.44
+
+tysq1.ccnu.edu.cn. 3599 IN A 122.204.151.44
+
+tysq2.ccnu.edu.cn. 3600 IN A 122.204.151.44
+
+tysq2.ccnu.edu.cn. 3599 IN A 122.204.151.44
+
+tysq3.ccnu.edu.cn. 3600 IN A 122.204.151.44
+
+tysq3.ccnu.edu.cn. 3599 IN A 122.204.151.44
+
+tzb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.3
+
+tzb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.3
+
+tzb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1984 IN A 183.168.162.3
+
+uowji.ccnu.edu.cn. 539 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+uowji.ccnu.edu.cn. 538 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+uowji.ccnu.edu.cn. 538 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+uowji.ccnu.edu.cn. 538 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+ut7.ccnu.edu.cn. 3600 IN A 218.199.196.54
+
+vecb.ccnu.edu.cn. 3600 IN A 218.199.196.160
+
+video.ccnu.edu.cn. 3600 IN A 202.114.32.29
+
+video.ccnu.edu.cn. 3599 IN A 202.114.32.29
+
+video.ccnu.edu.cn. 3599 IN A 202.114.32.29
+
+video.ccnu.edu.cn. 3599 IN A 202.114.32.29
+
+view.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3398 IN A 183.168.162.4
+
+www.view.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+www.view.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+vlab.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+vod.ccnu.edu.cn. 3600 IN A 202.114.32.20
+
+vod.ccnu.edu.cn. 3599 IN A 202.114.32.20
+
+vod.ccnu.edu.cn. 3599 IN A 202.114.32.20
+
+vod.ccnu.edu.cn. 3599 IN A 202.114.32.20
+
+vpn.ccnu.edu.cn. 3600 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+vpn.ccnu.edu.cn. 3599 IN A 202.114.33.156
+
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+webray.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+weixin.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+
+whieee.ccnu.edu.cn. 3600 IN A 202.114.32.15
+
+whieee.ccnu.edu.cn. 3599 IN A 202.114.32.15
+
+whieee.ccnu.edu.cn. 3599 IN A 202.114.32.15
+
+whieee.ccnu.edu.cn. 3599 IN A 202.114.32.15
+
+wk.ccnu.edu.cn. 3600 IN A 218.199.196.246
+
+wlkt.ccnu.edu.cn. 3600 IN A 202.114.32.13
+
+wlkt.ccnu.edu.cn. 3599 IN A 202.114.32.13
+
+wlkt.ccnu.edu.cn. 3599 IN A 202.114.32.13
+
+www.ccnu.edu.cn. 60 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+www.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+NXDOMAIN for www6.ccnu.edu.cn
+
+wxapp.ccnu.edu.cn. 3600 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+wxapp.ccnu.edu.cn. 3599 IN A 202.114.33.167
+
+www.wxapp.ccnu.edu.cn. 3600 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+www.wxapp.ccnu.edu.cn. 3599 IN A 220.250.64.225
+
+wxnercel.ccnu.edu.cn. 3600 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxnercel.ccnu.edu.cn. 3599 IN A 122.204.161.247
+
+wxs.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+
+wy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+
+wy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+
+xb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+
+xb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+
+xb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+
+xcb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+
+xcb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+
+xcb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+
+xgb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+
+xgb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+
+xgb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.3
+waf.ccnu.edu.cn. 3397 IN A 183.168.162.4
+
+xgben.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1983 IN A 183.168.162.3
+
+xk.ccnu.edu.cn. 3600 IN A 202.114.33.241
+
+xk.ccnu.edu.cn. 3599 IN A 202.114.33.241
+
+xk.ccnu.edu.cn. 3599 IN A 202.114.33.241
+
+xljk.ccnu.edu.cn. 3600 IN A 202.114.32.61
+
+xljk.ccnu.edu.cn. 3599 IN A 202.114.32.61
+
+xljk.ccnu.edu.cn. 3599 IN A 202.114.32.61
+
+xljk.ccnu.edu.cn. 3599 IN A 202.114.32.61
+
+xlzx.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xlzx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xlzx.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xssw.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xssw.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xuebao.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xxb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xxb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xxb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xxb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xyh.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xyh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+xyh.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+yearbook.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+yj.ccnu.edu.cn. 3600 IN A 122.204.161.121
+
+yjs.ccnu.edu.cn. 3600 IN A 218.199.196.248
+
+yjs.ccnu.edu.cn. 3599 IN A 218.199.196.248
+
+yjs.ccnu.edu.cn. 3599 IN A 218.199.196.248
+
+yjs.ccnu.edu.cn. 3599 IN A 218.199.196.248
+
+yjs.ccnu.edu.cn. 3599 IN A 218.199.196.248
+
+youth.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+youth.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+youth.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1982 IN A 183.168.162.3
+
+yuke.ccnu.edu.cn. 60 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 59 IN A 183.168.162.3
+waf.ccnu.edu.cn. 59 IN A 183.168.162.4
+
+yzbfw.ccnu.edu.cn. 3600 IN A 202.114.33.73
+
+yzbfw.ccnu.edu.cn. 3599 IN A 202.114.33.73
+
+yzbfw.ccnu.edu.cn. 3599 IN A 202.114.33.73
+
+zb.ccnu.edu.cn. 2273 IN A 183.168.162.4
+
+zb.ccnu.edu.cn. 2272 IN A 183.168.162.4
+
+zb.ccnu.edu.cn. 2272 IN A 183.168.162.4
+
+zb.ccnu.edu.cn. 2272 IN A 183.168.162.4
+
+zb.ccnu.edu.cn. 2272 IN A 183.168.162.4
+
+zcgs.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zcgs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zcgs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zgjds.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3395 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3395 IN A 183.168.162.3
+
+zgjds.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3395 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3395 IN A 183.168.162.3
+
+zgjds.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3395 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3395 IN A 183.168.162.3
+
+zhangkaiyuan.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zhangkaiyuan.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zizhu.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zizhu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zizhu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zizhu.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zj.ccnu.edu.cn. 3600 IN A 202.114.32.73
+
+zjc.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zjc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zjc.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+
+zjy.ccnu.edu.cn. 3485 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zjy.ccnu.edu.cn. 3484 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zjy.ccnu.edu.cn. 3484 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zjy.ccnu.edu.cn. 3484 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zjy.ccnu.edu.cn. 3484 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zs.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zsxt.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zsxt.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zsxt.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zsxt.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zsxt.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1981 IN A 183.168.162.3
+
+zxjz.ccnu.edu.cn. 3600 IN A 202.114.32.224
+
+zxjz.ccnu.edu.cn. 3599 IN A 202.114.32.224
+
+zxjz.ccnu.edu.cn. 3599 IN A 202.114.32.224
+
+zy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.3
+
+zy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.3
+
+zy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.4
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.3
+
+zyz.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.3
+
+zyz.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.3
+
+zzb.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.3
+
+zzb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.3
+
+zzb.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.4
+waf.ccnu.edu.cn. 3394 IN A 183.168.162.3
+
+zzcbxy.ccnu.edu.cn. 3600 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.4
+
+zzcbxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.4
+
+zzcbxy.ccnu.edu.cn. 3599 IN CNAME waf.ccnu.edu.cn.
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.3
+waf.ccnu.edu.cn. 1980 IN A 183.168.162.4
+

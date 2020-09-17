@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Server            ",
+            "X-AspNetMvc-Version": "4.0",
+            "X-AspNet-Version": "4.0.30319",
+            "Set-Cookie": "__RequestVerificationToken=WYIaVqjxR6UpkKM3BshYV-83M9s7WJaKG9pS-VvommrXov63eIsIe790HBeFm47jZ-51UcQqQZBC5IxeUg3YHeBla2aUauFD1OProxyRB1Nnqfun6TIvGN4VC0IZaqBndApRxCIOAP7PaFs-KudUnQ2; path=/; HttpOnly",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 02:40:09 GMT",
+            "ntCoent-Length": "19543",
+            "Content-Encoding": "gzip",
+            "Content-Length": "4483"
+        },
+        "nslookup": {
+            "aipt.sjtu.edu.cn": [
+                "202.120.35.173"
+            ]
+        },
+        "ping": {
+            "aipt.sjtu.edu.cn": [
+                "202.120.35.173"
+            ]
+        },
+        "CNAME": {
+            "aipt.sjtu.edu.cn": null
+        },
+        "A": {
+            "aipt.sjtu.edu.cn": [
+                "202.120.35.173"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Server            ",
+            "X-AspNetMvc-Version": "4.0",
+            "X-AspNet-Version": "4.0.30319",
+            "Set-Cookie": "__RequestVerificationToken=4M2BIR3O3lyLIQHJwM1h6PKd_200t2agrV3A9Ue4FDR23aajUKB3t3p_dTkdrslulAHlZT4LIV4cqA6yh7INbJ2VRwvPPYjCGo-d0zyeyWketIGfvYlbycwBzuONMeaUkAXfJVKCKkibsgIH8WiM8Q2; path=/; HttpOnly",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 02:40:10 GMT",
+            "ntCoent-Length": "19543",
+            "Content-Encoding": "gzip",
+            "Content-Length": "4479"
+        },
+        "nslookup": {
+            "aipt.sjtu.edu.cn": [
+                "202.120.35.173"
+            ]
+        },
+        "ping": {
+            "aipt.sjtu.edu.cn": [
+                "202.120.35.173"
+            ]
+        },
+        "CNAME": {
+            "aipt.sjtu.edu.cn": null
+        },
+        "A": {
+            "aipt.sjtu.edu.cn": [
+                "202.120.35.173"
+            ]
+        }
+    }
+}

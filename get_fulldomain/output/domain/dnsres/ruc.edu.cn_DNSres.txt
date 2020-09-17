@@ -1,0 +1,2781 @@
+ruc.edu.cn. 3600 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+ruc.edu.cn. 3599 IN A 222.29.216.11
+
+666.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+666.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+666.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+666.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+80.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for @.ruc.edu.cn
+
+NXDOMAIN for @.ruc.edu.cn
+
+NXDOMAIN for @.ruc.edu.cn
+
+NXDOMAIN for @.ruc.edu.cn
+
+NXDOMAIN for @.ruc.edu.cn
+
+NXDOMAIN for @.ruc.edu.cn
+
+NXDOMAIN for @.ruc.edu.cn
+
+ae.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ae.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ae.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ae.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ae.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ae.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ai.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ai.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ai.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ai.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ai.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ai.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+aibox.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+airs2016.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+alumni.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+apil.ruc.edu.cn. 3600 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+apil.ruc.edu.cn. 3599 IN A 124.156.132.134
+
+app.ruc.edu.cn. 2781 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+app.ruc.edu.cn. 2780 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+app.ruc.edu.cn. 2780 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+app.ruc.edu.cn. 2780 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for app2.ruc.edu.cn
+
+NXDOMAIN for app2.ruc.edu.cn
+
+NXDOMAIN for app2.ruc.edu.cn
+
+art.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+asc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+assets.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+NXDOMAIN for autodiscover.ruc.edu.cn
+
+balis.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bdai.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bi.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bi.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bi.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bjgxtgw.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bjtyh.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+bkbm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+blj.ruc.edu.cn. 3600 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+blj.ruc.edu.cn. 3599 IN A 10.21.1.62
+
+buddhism.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+bwb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cafi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.career.ruc.edu.cn. 60 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.career.ruc.edu.cn. 59 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.career.ruc.edu.cn. 59 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.career.ruc.edu.cn. 59 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cas.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+case.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cdblp.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cdblp.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cdblp.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cdblp.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cdi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ceps.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ceps.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ceps.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ceps.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ceps.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ceps.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ces.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cfas.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cfos.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgss.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgss.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgss.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgss.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgss.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgss.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cgzx.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chem.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chem.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chem.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chem.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chemcg.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chinadb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chl.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cig.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cipsi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cjjc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cjjc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cjjc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cjjc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+class.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for mail.ruc.edu.cn@.ruc.edu.cn
+
+NXDOMAIN for ic.ruc.edu.cncas.ruc.edu.cn
+
+cncci.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for chl.ruc.edu.cnlti.ruc.edu.cn
+
+NXDOMAIN for law.ruc.edu.cnmath.ruc.edu.cn
+
+NXDOMAIN for lists.phys.ruc.edu.cnpan.ruc.edu.cn
+
+cnsda.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cnsda.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cnsda.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cnsda.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for phys.ruc.edu.cnsmtp.ruc.edu.cn
+
+NXDOMAIN for ns1.ruc.edu.cnsysb.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cnvpn.ruc.edu.cn
+
+NXDOMAIN for 666.ruc.edu.cnvpn2.ruc.edu.cn
+
+NXDOMAIN for lawyer.ruc.edu.cnyjdw1.ruc.edu.cn
+
+confucian.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+crecs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+crecs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+crecs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+crecs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+crpe.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+crs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ctd.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cuta.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cuta.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cuta.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cuta.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dag.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dangxiao.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dasai.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dbm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dbm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dbm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dbm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+deke.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dorm-reserve.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dorm-reserve.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dorm-reserve.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dpls.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dpls.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dpls.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dpls.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+dxonline.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econ.ruc.edu.cn. 2060 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econ.ruc.edu.cn. 2059 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econ.ruc.edu.cn. 2059 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econ.ruc.edu.cn. 2059 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econforum.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econforum.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econforum.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econforum.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econforum.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econlab.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+econold.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+edp.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+edp.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+edp.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+edulaw.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+eit.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+emlab.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+envi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+envi.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+envi.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+envi.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for eps.ruc.edu.cn
+
+erm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+erm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+erm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+erm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fangxue.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fee.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fee.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fee.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fee.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+feefo.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+feefo.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+feefo.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+feefo.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fic.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fl.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+frc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ggglyzc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ggpx.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+gh.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+gh.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+gh.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+gh.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+go.ruc.edu.cn. 3600 IN A 10.12.16.126
+go.ruc.edu.cn. 3600 IN A 10.12.16.122
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+go.ruc.edu.cn. 3599 IN A 10.12.16.122
+go.ruc.edu.cn. 3599 IN A 10.12.16.126
+
+grs.ruc.edu.cn. 2775 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+grs.ruc.edu.cn. 2774 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+grs.ruc.edu.cn. 2774 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+grs.ruc.edu.cn. 2774 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+guoji.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+guoxue.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+gzb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.hanqing.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hantui.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hantui.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hantui.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hantui.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+history.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hqbxfw.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hqjt.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hr.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hr.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hr.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+hr.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+humanrights.ruc.edu.cn. 3600 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+humanrights.ruc.edu.cn. 3599 IN A 220.194.44.176
+
+ic.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ic.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ic.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+frmp.ic.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+icit.ruc.edu.cn. 3600 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icit.ruc.edu.cn. 3599 IN A 123.56.236.102
+
+icsat.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+idke.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+idke.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+idke.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+idke.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iei.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ier.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ifc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ifc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ifc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ifc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ifs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ihm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iir.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iir.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iir.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iir.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for images.ruc.edu.cn
+
+imap.ruc.edu.cn. 2432 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+imap.ruc.edu.cn. 2431 IN A 123.58.177.105
+
+www.imi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ims.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ims.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ims.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ims.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ims.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+in.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+in.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+in.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+industry.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+info.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+info.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+info.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+info.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+international.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+international.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+international.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+international.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+international.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+international.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+io.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ipr.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irm.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irmlab.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+irmsma.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+isbd.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+isbd.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+isbd.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+isbd.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+isbrt.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iser.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iser.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iser.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iser.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iso.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iso.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iso.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iso.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+iss.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+it.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for itil.ruc.edu.cn
+
+NXDOMAIN for itil.ruc.edu.cn
+
+NXDOMAIN for itil.ruc.edu.cn
+
+jcr.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jcr.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jcr.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jcr.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jiaowu.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jjc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jjll.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jjll.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jjll.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jjll.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jscc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jsgzb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jsjds.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jwjcc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jxyyj.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jxyyj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jxyyj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jxyyj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jxyyj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+jxyyj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+keyan.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lab.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+labsafe.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+labsafe.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+labsafe.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+labsafe.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+law.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+law.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+law.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+alumni.law.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+gl.law.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tuimian.law.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.law.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.law.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.law.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.law.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lawyer.ruc.edu.cn. 3600 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+lawyer.ruc.edu.cn. 3599 IN A 101.201.105.23
+
+learning.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ir.lib.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+kjyy.lib.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.lib.ruc.edu.cn. 2430 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zw.lib.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lsxy.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lsxy.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lsxy.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lsxy.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+kg.lsxy.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mg.lsxy.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ts.lsxy.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lti.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lti.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lti.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ltx.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ltx.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ltx.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ltx.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mail.ruc.edu.cn. 2043 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mail.ruc.edu.cn. 2042 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 29 IN A 123.58.177.239
+
+mailapply.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+marx.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+marx.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+marx.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+marx.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mas.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+math.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+math.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+math.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+math.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+math.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mib.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mowkcbj.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mpa.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+museum.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.mylib.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+nads.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+net.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+newera.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+news.ruc.edu.cn. 3600 IN CNAME news-ruc-edu-cn.cname.saaswaf.com.
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 116.211.138.205
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 119.188.95.116
+
+news.ruc.edu.cn. 3599 IN CNAME news-ruc-edu-cn.cname.saaswaf.com.
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 116.211.138.205
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 119.188.95.116
+
+news.ruc.edu.cn. 3599 IN CNAME news-ruc-edu-cn.cname.saaswaf.com.
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 116.211.138.205
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 119.188.95.116
+
+news.ruc.edu.cn. 3599 IN CNAME news-ruc-edu-cn.cname.saaswaf.com.
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 116.211.138.205
+news-ruc-edu-cn.cname.saaswaf.com. 59 IN A 119.188.95.116
+
+ns1.ruc.edu.cn. 3600 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns1.ruc.edu.cn. 3599 IN A 202.112.112.101
+
+ns2.ruc.edu.cn. 3600 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns2.ruc.edu.cn. 3599 IN A 202.112.112.100
+
+ns3.ruc.edu.cn. 3600 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+ns3.ruc.edu.cn. 3599 IN A 106.120.213.246
+
+nsrc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+nsrc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+nsrc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+nsrc.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+nwfd.ruc.edu.cn. 3600 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+nwfd.ruc.edu.cn. 3599 IN A 10.21.1.140
+
+oa.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+obe.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+NXDOMAIN for owa.ruc.edu.cn
+
+pan.ruc.edu.cn. 3600 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pan.ruc.edu.cn. 3599 IN A 218.106.182.32
+
+pdsc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+peixun.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pgs.ruc.edu.cn. 2772 IN CNAME pgs-ruc-edu-cn.cname.saaswaf.com.
+pgs-ruc-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 183.136.237.219
+
+pgs.ruc.edu.cn. 2771 IN CNAME pgs-ruc-edu-cn.cname.saaswaf.com.
+pgs-ruc-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 183.136.237.219
+
+pgs.ruc.edu.cn. 2771 IN CNAME pgs-ruc-edu-cn.cname.saaswaf.com.
+pgs-ruc-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 183.136.237.219
+
+pgs.ruc.edu.cn. 2771 IN CNAME pgs-ruc-edu-cn.cname.saaswaf.com.
+pgs-ruc-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 183.136.237.219
+
+pgs.ruc.edu.cn. 2771 IN CNAME pgs-ruc-edu-cn.cname.saaswaf.com.
+pgs-ruc-edu-cn.cname.saaswaf.com. 59 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 59 IN A 183.136.237.219
+
+phi.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+philo.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3600 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+phys.ruc.edu.cn. 3599 IN A 218.106.181.141
+
+lists.phys.ruc.edu.cn. 3600 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+lists.phys.ruc.edu.cn. 3599 IN A 202.112.116.3
+
+qmcm.phys.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sim.phys.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.phys.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pj.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+plan.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+plan.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+plan.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+plan.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+plan.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+plan.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+playbigdata.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+pop3.ruc.edu.cn. 3600 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+pop3.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+portal.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+portal.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+postdoctor.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ppe.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psy.ruc.edu.cn. 3029 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psy.ruc.edu.cn. 3028 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psy.ruc.edu.cn. 3028 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psy.ruc.edu.cn. 3028 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psyinfo.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psyinfo.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psyinfo.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+psyinfo.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+qbzl.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+qbzl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+qbzl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+qbzl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+qkw.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rbs.ruc.edu.cn. 3600 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+mail.rbs.ruc.edu.cn. 3600 IN CNAME qiye.163.com.
+qiye.163.com. 52 IN A 220.194.24.216
+
+rcb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rccic.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rcpec.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdcy-sf.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdcy-sf.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdcy-sf.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdcy-sf.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdggw.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdjjlt.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdjjlt.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdjjlt.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rdjy.ruc.edu.cn. 3600 IN CNAME rdjy-ruc-edu-cn.cname.saaswaf.com.
+rdjy-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 57 IN A 116.211.138.207
+a004.cache.saaswaf.com. 57 IN A 183.136.237.219
+a004.cache.saaswaf.com. 57 IN A 182.140.213.106
+a004.cache.saaswaf.com. 57 IN A 183.129.179.85
+a004.cache.saaswaf.com. 57 IN A 116.211.138.208
+a004.cache.saaswaf.com. 57 IN A 182.140.213.108
+a004.cache.saaswaf.com. 57 IN A 119.188.95.114
+
+rdjy.ruc.edu.cn. 3599 IN CNAME rdjy-ruc-edu-cn.cname.saaswaf.com.
+rdjy-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 57 IN A 116.211.138.207
+a004.cache.saaswaf.com. 57 IN A 183.136.237.219
+a004.cache.saaswaf.com. 57 IN A 182.140.213.106
+a004.cache.saaswaf.com. 57 IN A 183.129.179.85
+a004.cache.saaswaf.com. 57 IN A 116.211.138.208
+a004.cache.saaswaf.com. 57 IN A 182.140.213.108
+a004.cache.saaswaf.com. 57 IN A 119.188.95.114
+
+rdjy.ruc.edu.cn. 3599 IN CNAME rdjy-ruc-edu-cn.cname.saaswaf.com.
+rdjy-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 57 IN A 116.211.138.207
+a004.cache.saaswaf.com. 57 IN A 183.136.237.219
+a004.cache.saaswaf.com. 57 IN A 182.140.213.106
+a004.cache.saaswaf.com. 57 IN A 183.129.179.85
+a004.cache.saaswaf.com. 57 IN A 116.211.138.208
+a004.cache.saaswaf.com. 57 IN A 182.140.213.108
+a004.cache.saaswaf.com. 57 IN A 119.188.95.114
+
+rdjy.ruc.edu.cn. 3599 IN CNAME rdjy-ruc-edu-cn.cname.saaswaf.com.
+rdjy-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 57 IN A 116.211.138.207
+a004.cache.saaswaf.com. 57 IN A 183.136.237.219
+a004.cache.saaswaf.com. 57 IN A 182.140.213.106
+a004.cache.saaswaf.com. 57 IN A 183.129.179.85
+a004.cache.saaswaf.com. 57 IN A 116.211.138.208
+a004.cache.saaswaf.com. 57 IN A 182.140.213.108
+a004.cache.saaswaf.com. 57 IN A 119.188.95.114
+
+rdzs.ruc.edu.cn. 3600 IN CNAME rdzs-ruc-edu-cn.cname.saaswaf.com.
+rdzs-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 51 IN A 183.136.237.219
+
+rdzs.ruc.edu.cn. 3599 IN CNAME rdzs-ruc-edu-cn.cname.saaswaf.com.
+rdzs-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 51 IN A 183.136.237.219
+
+rdzs.ruc.edu.cn. 3599 IN CNAME rdzs-ruc-edu-cn.cname.saaswaf.com.
+rdzs-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 51 IN A 183.136.237.219
+
+rdzs.ruc.edu.cn. 3599 IN CNAME rdzs-ruc-edu-cn.cname.saaswaf.com.
+rdzs-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 51 IN A 183.136.237.219
+
+sy.rdzs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+reg.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+reg.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+reg.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+reg.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for research.ruc.edu.cn
+
+rkyj.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rmbs.ruc.edu.cn. 3600 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+rmbs.ruc.edu.cn. 3599 IN A 182.92.233.70
+
+alumni.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+career.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+casecenter.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+casestudy.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+chra.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cnais.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for rdjjlt.ruc.edu.cnmbabm.rmbs.ruc.edu.cn
+
+ee.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+eepaper.rmbs.ruc.edu.cn. 3600 IN A 39.107.58.194
+
+emba.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+emba.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+emba.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+emba.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+embabm.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+embalc.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+en.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+fbr.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+globalbba.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mail.rmbs.ruc.edu.cn. 3600 IN CNAME qiye.163.com.
+qiye.163.com. 31 IN A 220.194.24.216
+
+mba.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mba.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mba.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mba.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mbabm.rmbs.ruc.edu.cn. 3600 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbabm.rmbs.ruc.edu.cn. 3599 IN A 123.57.151.122
+
+mbaen.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mbaen.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mbaen.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mbaen.rmbs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+mpacc.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+oa.rmbs.ruc.edu.cn. 3600 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+oa.rmbs.ruc.edu.cn. 3599 IN A 39.105.114.246
+
+pegdc.rmbs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+student.rmbs.ruc.edu.cn. 3600 IN A 39.107.58.194
+
+summercamp.rmbs.ruc.edu.cn. 3600 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+summercamp.rmbs.ruc.edu.cn. 3599 IN A 123.56.45.70
+
+www.rmbs.ruc.edu.cn. 729 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+www.rmbs.ruc.edu.cn. 728 IN A 39.96.171.9
+
+zaizhiyan.rmbs.ruc.edu.cn. 3600 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+zaizhiyan.rmbs.ruc.edu.cn. 3599 IN A 112.126.64.78
+
+rsc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rss.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucdx.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucef.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rucfd1.ruc.edu.cn. 3600 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+rucfd1.ruc.edu.cn. 3599 IN A 202.112.112.223
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+NXDOMAIN for rucns.ruc.edu.cn
+
+rucres.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rus.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rway.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+rwbj.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+baae.sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+cafem.sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lms.sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lms.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lms.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lms.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lms.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+lms.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tgcaem.sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tgcaem.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tgcaem.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tgcaem.sard.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zengyc.sard.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+scc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sce.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sce.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sce.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sce.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+se-office.ruc.edu.cn. 30 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for service.ruc.edu.cn
+
+NXDOMAIN for service.ruc.edu.cn
+
+NXDOMAIN for service.ruc.edu.cn
+
+NXDOMAIN for set.ruc.edu.cn
+
+sf.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sf.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sf.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sf.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sf-sc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+shenji.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sie.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sirm.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sis.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+slhr.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for smc.ruc.edu.cn
+
+smtp.ruc.edu.cn. 3600 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+smtp.ruc.edu.cn. 3599 IN A 123.58.177.105
+
+soe.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sope.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sope.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sope.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sope.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sp.ruc.edu.cn. 3600 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+sp.ruc.edu.cn. 3599 IN A 123.56.81.97
+
+spap.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sql.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+src.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+srs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+srs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+srs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+srs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+srs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+srs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+ssps.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+stat.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+stat.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+stat.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+stat.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+stat.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for static-sf.ruc.edu.cn
+
+swpe.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+sysb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tdxl.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tdxl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tdxl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tdxl.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tiyu.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for training.ruc.edu.cn
+
+tzcs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+tzcsmis.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+v.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+v.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+v.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+v.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+v.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+v.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+vlab.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+vpn.ruc.edu.cn. 3600 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn.ruc.edu.cn. 3599 IN A 106.120.213.205
+
+vpn2.ruc.edu.cn. 3600 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+vpn2.ruc.edu.cn. 3599 IN A 202.112.119.75
+
+webvpn.ruc.edu.cn. 382 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+webvpn.ruc.edu.cn. 381 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+webvpn.ruc.edu.cn. 381 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+weforum.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+weforum.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+weforum.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+wenxueyuan.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.ruc.edu.cn. 2197 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+www.ruc.edu.cn. 2196 IN CNAME ruc-edu-cn.cname.saaswaf.com.
+ruc-edu-cn.cname.saaswaf.com. 498 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 29 IN A 183.136.237.219
+
+xcb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xinli.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xinping.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xsc.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xsqks.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xuebao.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xwcq.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xwjd.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xxfbxt.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xxgk.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xxq.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xxq.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xxq.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xxq.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+xyy.ruc.edu.cn. 562 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+yjdw1.ruc.edu.cn. 3600 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjdw1.ruc.edu.cn. 3599 IN A 106.39.224.236
+
+yjswb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+yjswb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+yjswb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+yjswb.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+www.yjy.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+youth.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+youth.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+youth.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+youth.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zcgs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zcgs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zcgs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zcgs.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zhaopin.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zs.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zsjyc.ruc.edu.cn. 3600 IN CNAME zsjyc-ruc-edu-cn.cname.saaswaf.com.
+zsjyc-ruc-edu-cn.cname.saaswaf.com. 599 IN CNAME a004.cache.saaswaf.com.
+a004.cache.saaswaf.com. 48 IN A 183.136.237.219
+
+zz.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zzb.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zzy.ruc.edu.cn. 3600 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zzy.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zzy.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+zzy.ruc.edu.cn. 3599 IN CNAME rucfd.ruc.edu.cn.
+rucfd.ruc.edu.cn. 7199 IN A 218.106.181.141
+
+NXDOMAIN for zzy-sf.ruc.edu.cn
+

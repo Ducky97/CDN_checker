@@ -1,0 +1,81 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:22:42 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "choosed_domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=babytree.com, H=h%021; expires=Sat, 16-Sep-2023 09:22:42 GMT; Max-Age=94608000; path=/; domain=babytree.com, siteRef=l%02https%253A%252F%252Fmaoyan.com%252Fboard%252F4%01ld%02%252F%252Fbabytree.com%252F%01a_ts%021600248162%01rid%027c3f126a0460e1912f194b54e4d194d6; expires=Mon, 15-Mar-2021 09:22:42 GMT; Max-Age=15552000; path=/; domain=babytree.com, bb_imfa_show_2020_09_16=1; expires=Thu, 17-Sep-2020 09:22:42 GMT; Max-Age=86400; path=/; domain=.babytree.com",
+            "Content-Encoding": "gzip",
+            "Vary": "Origin",
+            "Origin-EdPnt": "1",
+            "Origin-Lb": "1",
+            "test": "https://babytree.com",
+            "Access-Control-Allow-Origin": "https://babytree.com",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST,OPTIONS",
+            "Access-Control-Allow-Headers": "accept, cache-control, content-type, X-Requested-With, X_Requested_With, param,birthday,platform,protocol,signature,timestamp,uid,clientinfo,usertoken,token,usersession,loginstring",
+            "Access-Control-Expose-Headers": "accept, cache-control, content-type, X-Requested-With, X_Requested_With, param,birthday,platform,protocol,signature,timestamp,uid,clientinfo,usertoken,token,usersession,loginstring",
+            "Cache-Key": "6bc82a21232259a303ce225f01d19fe2",
+            "Cache-Control": "private",
+            "Origin-SSLlb": "1"
+        },
+        "nslookup": {
+            "babytree.com": [
+                "59.110.149.245"
+            ]
+        },
+        "ping": {
+            "babytree.com": [
+                "59.110.149.245"
+            ]
+        },
+        "CNAME": {
+            "babytree.com": "still a low_level domain_name"
+        },
+        "A": {
+            "babytree.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:22:42 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "choosed_domain=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=babytree.com, H=h%021; expires=Sat, 16-Sep-2023 09:22:42 GMT; Max-Age=94608000; path=/; domain=babytree.com, siteRef=l%02https%253A%252F%252Fmaoyan.com%252Fboard%252F4%01ld%02%252F%252Fbabytree.com%252F%01a_ts%021600248162%01rid%02dc10ff37ad9cdfd61d1da7c95aab20ff; expires=Mon, 15-Mar-2021 09:22:42 GMT; Max-Age=15552000; path=/; domain=babytree.com, bb_imfa_show_2020_09_16=1; expires=Thu, 17-Sep-2020 09:22:42 GMT; Max-Age=86400; path=/; domain=.babytree.com",
+            "Content-Encoding": "gzip",
+            "Vary": "Origin",
+            "Origin-EdPnt": "1",
+            "Origin-Lb": "1",
+            "test": "https://babytree.com",
+            "Access-Control-Allow-Origin": "https://babytree.com",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST,OPTIONS",
+            "Access-Control-Allow-Headers": "accept, cache-control, content-type, X-Requested-With, X_Requested_With, param,birthday,platform,protocol,signature,timestamp,uid,clientinfo,usertoken,token,usersession,loginstring",
+            "Access-Control-Expose-Headers": "accept, cache-control, content-type, X-Requested-With, X_Requested_With, param,birthday,platform,protocol,signature,timestamp,uid,clientinfo,usertoken,token,usersession,loginstring",
+            "Cache-Key": "6bc82a21232259a303ce225f01d19fe2",
+            "Cache-Control": "private",
+            "Origin-SSLlb": "1",
+            "BABYTREE-SSL": "1"
+        },
+        "nslookup": {
+            "babytree.com": [
+                "59.110.149.245"
+            ]
+        },
+        "ping": {
+            "babytree.com": [
+                "59.110.149.245"
+            ]
+        },
+        "CNAME": {
+            "babytree.com": "still a low_level domain_name"
+        },
+        "A": {
+            "babytree.com": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": "W/\"2527d-JYHCTtsBTyOxlZuynu32ztMnqI8\"",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
+            "X-Content-Type-Options": "nosniff",
+            "X-DNS-Prefetch-Control": "off",
+            "X-Download-Options": "noopen",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "30714",
+            "Expires": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "Cache-Control": "max-age=0, no-cache, no-store",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "Connection": "keep-alive",
+            "Set-Cookie": "AK_SERVER_TIME=1600251308; expires=Wed, 16-Sep-2020 10:15:48 GMT; path=/; secure, geo=SG,,SINGAPORE,1.29,103.86,45102; expires=Wed, 16-Sep-2020 10:16:08 GMT; secure",
+            "X-cachestatus": "1",
+            "X-cacheTTL": "2482606",
+            "x-origin-date": "1600251308"
+        },
+        "nslookup": {
+            "hotstar.com": [
+                "13.227.228.36",
+                "13.227.228.39",
+                "13.227.228.18",
+                "13.227.228.19"
+            ],
+            "www.hotstar.com": [
+                "23.44.5.113",
+                "23.44.5.128",
+                "23.44.5.18",
+                "23.44.5.115",
+                "23.44.5.16",
+                "23.44.5.121",
+                "23.44.5.129",
+                "23.44.5.114",
+                "23.44.5.10"
+            ]
+        },
+        "ping": {
+            "hotstar.com": [
+                "13.227.228.19",
+                "13.227.228.36"
+            ],
+            "www.hotstar.com": [
+                "118.214.167.81",
+                "184.50.85.203",
+                "118.214.167.90",
+                "118.214.167.98",
+                "118.214.167.119"
+            ]
+        },
+        "CNAME": {
+            "www.hotstar.com": [
+                "www.hotstar.com-sni.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.hotstar.com": [
+                "184.50.85.195",
+                "184.50.85.209",
+                "184.50.85.212",
+                "184.50.85.203",
+                "184.50.85.201",
+                "184.50.85.210",
+                "118.214.167.98",
+                "118.214.167.103",
+                "118.214.167.119"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": "W/\"2527d-0Mrq5eUNexy9xSiq7Dmw3RRNPFk\"",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
+            "X-Content-Type-Options": "nosniff",
+            "X-DNS-Prefetch-Control": "off",
+            "X-Download-Options": "noopen",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "30713",
+            "Expires": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "Cache-Control": "max-age=0, no-cache, no-store",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "Connection": "keep-alive",
+            "Set-Cookie": "AK_SERVER_TIME=1600251308; expires=Wed, 16-Sep-2020 10:15:48 GMT; path=/; secure, geo=SG,,SINGAPORE,1.29,103.86,45102; expires=Wed, 16-Sep-2020 10:16:08 GMT; secure",
+            "X-cachestatus": "1",
+            "X-cacheTTL": "2482698",
+            "x-origin-date": "1600251308"
+        },
+        "nslookup": {
+            "hotstar.com": [
+                "13.227.228.36",
+                "13.227.228.18",
+                "13.227.228.19",
+                "13.227.228.39"
+            ],
+            "www.hotstar.com": [
+                "23.44.5.34",
+                "23.44.5.10",
+                "23.44.5.16",
+                "23.44.5.43",
+                "23.44.5.35",
+                "23.44.5.41",
+                "23.44.5.32",
+                "23.44.5.24",
+                "23.44.5.18"
+            ]
+        },
+        "ping": {
+            "hotstar.com": [
+                "13.227.228.19",
+                "13.227.228.36",
+                "13.227.228.39"
+            ],
+            "www.hotstar.com": [
+                "184.50.85.195",
+                "184.50.85.203",
+                "118.214.167.90",
+                "118.214.167.98",
+                "118.214.167.103",
+                "118.214.167.80"
+            ]
+        },
+        "CNAME": {
+            "www.hotstar.com": [
+                "www.hotstar.com-sni.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.hotstar.com": [
+                "118.214.167.81",
+                "118.214.167.82",
+                "118.214.167.90",
+                "118.214.167.79",
+                "118.214.167.89",
+                "118.214.167.98",
+                "118.214.167.63",
+                "118.214.167.80",
+                "118.214.167.72"
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private, no-cache, no-store, must-revalidate, max-age=0",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:38:49 GMT",
+            "etag": "W/\"add7c-V+AM+d5a61yLIn7IUhDThiu0qPo\"",
+            "Server": "envoy",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-Coursera-Render-Mode": "html",
+            "X-Coursera-Render-Version": "v2",
+            "X-Coursera-Request-Id": "zox2ovgIEeqo_BJEFYSXtQ",
+            "X-Coursera-Trace-Id-Hex": "56b54c29c7bd498c",
+            "x-courserainternal-renderinherentlatencyduration": "38.302405",
+            "x-envoy-upstream-service-time": "73",
+            "X-Frame-Options": "SAMEORIGIN",
+            "x-powered-by": "Express",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 423016d18a128e118b016383665b6de8.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "LVE4-WF4BY0TBHNbf1OozDewoBqoGdgEjoKOujM-Mtb2RANiHttONA=="
+        },
+        "nslookup": {
+            "coursera.org": [
+                "13.227.228.125",
+                "13.227.228.106",
+                "13.227.228.26",
+                "13.227.228.53"
+            ],
+            "www.coursera.org": [
+                "52.4.1.216",
+                "107.23.99.193",
+                "52.7.10.126",
+                "52.6.53.236",
+                "107.21.27.58",
+                "52.0.97.60",
+                "107.23.27.46",
+                "107.23.9.24"
+            ]
+        },
+        "ping": {
+            "coursera.org": [
+                "13.227.228.106",
+                "13.227.228.125",
+                "13.227.228.53",
+                "13.227.228.26"
+            ],
+            "www.coursera.org": [
+                "13.227.228.125",
+                "13.227.228.26"
+            ]
+        },
+        "CNAME": {
+            "www.coursera.org": [
+                "www-cloudfront-alias.coursera.org."
+            ]
+        },
+        "A": {
+            "www.coursera.org": [
+                "13.227.228.106",
+                "13.227.228.125",
+                "13.227.228.53",
+                "13.227.228.26"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "private, no-cache, no-store, must-revalidate, max-age=0",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:38:50 GMT",
+            "etag": "W/\"afc4e-5riR0paCBWSoMy47gEcwgDSuZn8\"",
+            "Server": "envoy",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-Coursera-Render-Mode": "html",
+            "X-Coursera-Render-Version": "v2",
+            "X-Coursera-Request-Id": "zz0B7vgIEeq3CArmqi1yzw",
+            "X-Coursera-Trace-Id-Hex": "e005a0a11e717308",
+            "x-courserainternal-renderinherentlatencyduration": "41.089661",
+            "x-envoy-upstream-service-time": "76",
+            "X-Frame-Options": "SAMEORIGIN",
+            "x-powered-by": "Express",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 9c281f6d3073335c1b2f806823d50e2a.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "ly3X35a-hd7Sn3l8GLJw47pdvoNedSyqVT8ykOJxFEpxrbTlwpam2A=="
+        },
+        "nslookup": {
+            "coursera.org": [
+                "13.227.228.53",
+                "13.227.228.26",
+                "13.227.228.125",
+                "13.227.228.106"
+            ],
+            "www.coursera.org": [
+                "52.4.1.216",
+                "52.7.10.126",
+                "107.23.9.24",
+                "52.6.53.236",
+                "107.21.27.58",
+                "52.6.210.116",
+                "107.23.27.46",
+                "107.23.99.193"
+            ]
+        },
+        "ping": {
+            "coursera.org": [
+                "13.227.228.106",
+                "13.227.228.125",
+                "13.227.228.53",
+                "13.227.228.26"
+            ],
+            "www.coursera.org": [
+                "13.227.228.53",
+                "13.227.228.26"
+            ]
+        },
+        "CNAME": {
+            "www.coursera.org": [
+                "www-cloudfront-alias.coursera.org."
+            ]
+        },
+        "A": {
+            "www.coursera.org": [
+                "13.227.228.106",
+                "13.227.228.125",
+                "13.227.228.53",
+                "13.227.228.26"
+            ]
+        }
+    }
+}

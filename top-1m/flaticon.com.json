@@ -1,0 +1,88 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:48:56 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/7.3.20",
+            "Cache-Control": "max-age=180",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Feature-Policy": "geolocation none;midi none;notifications none;push none;sync-xhr none;microphone none;camera none;magnetometer none;gyroscope none;speaker self;vibrate none;fullscreen self;payment none;",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Permitted-Cross-Domain-Policies": "master-only",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "nslookup": {
+            "flaticon.com": [
+                "51.254.235.119"
+            ],
+            "www.flaticon.com": [
+                "51.254.235.119"
+            ]
+        },
+        "ping": {
+            "flaticon.com": [
+                "51.254.235.119"
+            ],
+            "www.flaticon.com": [
+                "51.254.235.119"
+            ]
+        },
+        "CNAME": {
+            "www.flaticon.com": null
+        },
+        "A": {
+            "www.flaticon.com": [
+                "51.254.235.119"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:48:59 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/7.3.20",
+            "Cache-Control": "max-age=180",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Feature-Policy": "geolocation none;midi none;notifications none;push none;sync-xhr none;microphone none;camera none;magnetometer none;gyroscope none;speaker self;vibrate none;fullscreen self;payment none;",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Permitted-Cross-Domain-Policies": "master-only",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "nslookup": {
+            "flaticon.com": [
+                "51.254.235.119"
+            ],
+            "www.flaticon.com": [
+                "51.254.235.119"
+            ]
+        },
+        "ping": {
+            "flaticon.com": [
+                "51.254.235.119"
+            ],
+            "www.flaticon.com": [
+                "51.254.235.119"
+            ]
+        },
+        "CNAME": {
+            "www.flaticon.com": null
+        },
+        "A": {
+            "www.flaticon.com": [
+                "51.254.235.119"
+            ]
+        }
+    }
+}

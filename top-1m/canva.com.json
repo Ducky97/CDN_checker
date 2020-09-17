@@ -1,0 +1,104 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:52 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "CF-Chl-Bypass": "1",
+            "Set-Cookie": "__cfduid=de0a7fccb87d8d8fd032bc5ee96b8faf31600248172; expires=Fri, 16-Oct-20 09:22:52 GMT; path=/; domain=.canva.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "cf-request-id": "0537d26659000018ce43a31200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "cloudflare",
+            "CF-RAY": "5d398683cbd418ce-SIN",
+            "Content-Encoding": "gzip",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ],
+            "www.canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ]
+        },
+        "ping": {
+            "canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ],
+            "www.canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ]
+        },
+        "CNAME": {
+            "www.canva.com": null
+        },
+        "A": {
+            "www.canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:52 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "CF-Chl-Bypass": "1",
+            "Set-Cookie": "__cfduid=d5b9dee3e807b08c926d941d2bd9f44081600248172; expires=Fri, 16-Oct-20 09:22:52 GMT; path=/; domain=.canva.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "cf-request-id": "0537d266bb0000ddf5280ca200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39868459e0ddf5-SIN",
+            "Content-Encoding": "gzip",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ],
+            "www.canva.com": [
+                "104.18.216.67",
+                "104.18.215.67"
+            ]
+        },
+        "ping": {
+            "canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ],
+            "www.canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ]
+        },
+        "CNAME": {
+            "www.canva.com": null
+        },
+        "A": {
+            "www.canva.com": [
+                "104.18.215.67",
+                "104.18.216.67"
+            ]
+        }
+    }
+}

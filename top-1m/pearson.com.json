@@ -1,0 +1,54 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Server": "Apache",
+            "x-frame-options": "DENY",
+            "X-Content-Type-Options": "nosniff",
+            "Last-Modified": "Tue, 15 Sep 2020 15:50:45 GMT",
+            "ETag": "\"16ed2-5af5c1d3380bf-gzip\"",
+            "Accept-Ranges": "bytes",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Edgescape": "georegion=166,country_code=OM,city=MASQAT,lat=23.61,long=58.59,timezone=GMT+4,continent=AS,throughput=vhigh,bw=5000,asnum=50010,location_id=0",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,1",
+            "Cache-Control": "public, max-age=733",
+            "Expires": "Wed, 16 Sep 2020 12:11:43 GMT",
+            "Date": "Wed, 16 Sep 2020 11:59:30 GMT",
+            "Content-Length": "13841",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1"
+        },
+        "nslookup": {
+            "pearson.com": [
+                "52.51.131.59",
+                "63.35.23.131",
+                "34.246.144.185"
+            ],
+            "www.pearson.com": [
+                "173.222.147.90"
+            ]
+        },
+        "ping": {
+            "pearson.com": [
+                "63.35.23.131",
+                "52.51.131.59",
+                "34.246.144.185"
+            ],
+            "www.pearson.com": [
+                "184.27.23.247"
+            ]
+        },
+        "CNAME": {
+            "www.pearson.com": [
+                "wildcard.pearson.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.pearson.com": [
+                "184.27.23.247"
+            ]
+        }
+    },
+    "https": null
+}

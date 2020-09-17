@@ -1,0 +1,119 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 09:19:10 GMT",
+            "Access-Control-Allow-Origin": "*",
+            "Content-Security-Policy": "frame-ancestors  'self' *.espn.com:* *.espnqa.com:* *.espnsb.com *.espn.co.uk *.espndeportes.espn.com *.espn.com.br *.espn.com.mx *.espn.com.ve *.espn.com.ar *.espn.com.co *.espnfc.com.au *.espn.com.au *.espn.in *.espn.com.sg *.espn.cl *.espn.com.pe *.espn.com.gt *.espn.com.do *.espn.com.ec *.espn.com.uy *.espn.com.pa *.espn.co.cr http://*.espnqa.com:* http://*.espn.com:*",
+            "ETag": "W/\"5a4c802579084123d6638cd880cd8f7a3b5f682f\"",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish-v4, 1.1 db8d6eb1919ade2943f4a573a505ba67.cloudfront.net (CloudFront)",
+            "Vary": "Accept-Encoding",
+            "Accept-Ranges": "bytes",
+            "Set-Cookie": "connectionspeed=full; path=/; Expires=Wed, 23 Sep 2020 09:19:10 GMT;, edition=espn-en-us; path=/; Expires=Wed, 23 Sep 2020 09:19:10 GMT;, edition-view=espn-en-us; path=/; Expires=Wed, 23 Sep 2020 09:19:10 GMT;, country=sg; path=/;, region=unknown; path=/; Expires=Wed, 23 Sep 2020 09:19:10 GMT;, _dcf=1; path=/; Expires=Wed, 23 Sep 2020 09:19:10 GMT;, SWID=F27C4E25-359D-433D-C3E9-C264FC5D4341; path=/; Expires=Sun, 16 Sep 2040 09:19:10 GMT; domain=espn.com;",
+            "Cache-Control": "max-age=0, must-revalidate",
+            "X-Cache": "Miss from cloudfront",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "OXmIcXbci8vKaiNd9eFGFIUNWGCPvNds2QVymSk6EaZCNi1HtSnURA=="
+        },
+        "nslookup": {
+            "espn.com": [
+                "13.35.20.113",
+                "13.35.20.76",
+                "13.35.20.74",
+                "13.35.20.66"
+            ],
+            "www.espn.com": [
+                "13.224.250.83",
+                "13.224.250.25",
+                "13.224.250.6",
+                "13.224.250.116"
+            ]
+        },
+        "ping": {
+            "espn.com": [
+                "13.35.20.66",
+                "13.35.20.76",
+                "13.35.20.74",
+                "13.35.20.113"
+            ],
+            "www.espn.com": [
+                "13.224.250.116",
+                "13.224.250.6",
+                "13.224.250.83",
+                "13.224.250.25"
+            ]
+        },
+        "CNAME": {
+            "www.espn.com": null
+        },
+        "A": {
+            "www.espn.com": [
+                "13.224.250.116",
+                "13.224.250.6",
+                "13.224.250.83",
+                "13.224.250.25"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 09:19:11 GMT",
+            "Access-Control-Allow-Origin": "*",
+            "Content-Security-Policy": "frame-ancestors  'self' *.espn.com:* *.espnqa.com:* *.espnsb.com *.espn.co.uk *.espndeportes.espn.com *.espn.com.br *.espn.com.mx *.espn.com.ve *.espn.com.ar *.espn.com.co *.espnfc.com.au *.espn.com.au *.espn.in *.espn.com.sg *.espn.cl *.espn.com.pe *.espn.com.gt *.espn.com.do *.espn.com.ec *.espn.com.uy *.espn.com.pa *.espn.co.cr http://*.espnqa.com:* http://*.espn.com:*",
+            "ETag": "W/\"4b8dd6998c60cbe74017f2c53af85c5846c0dbc8\"",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish-v4, 1.1 5ba1fc6b25fbcd91520a550358bd4bad.cloudfront.net (CloudFront)",
+            "Vary": "Accept-Encoding",
+            "Accept-Ranges": "bytes",
+            "Set-Cookie": "country=sg; path=/;, edition-view=espn-en-us; path=/; Expires=Wed, 23 Sep 2020 09:19:11 GMT;, edition=espn-en-us; path=/; Expires=Wed, 23 Sep 2020 09:19:11 GMT;, connectionspeed=full; path=/; Expires=Wed, 23 Sep 2020 09:19:11 GMT;, region=unknown; path=/; Expires=Wed, 23 Sep 2020 09:19:11 GMT;, _dcf=1; path=/; Expires=Wed, 23 Sep 2020 09:19:11 GMT;, SWID=B2CEF2A6-6D2E-491C-C9F3-3CBE138373AB; path=/; Expires=Sun, 16 Sep 2040 09:19:11 GMT; domain=espn.com;",
+            "Cache-Control": "max-age=0, must-revalidate",
+            "X-Cache": "Miss from cloudfront",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "H0uHfso_ySEC8Bqrl81t7c9jpCCkIsu4e16maiI1gUN2rbA74kpMjQ=="
+        },
+        "nslookup": {
+            "espn.com": [
+                "13.35.20.76",
+                "13.35.20.74",
+                "13.35.20.113",
+                "13.35.20.66"
+            ],
+            "www.espn.com": [
+                "13.224.250.6",
+                "13.224.250.116",
+                "13.224.250.83",
+                "13.224.250.25"
+            ]
+        },
+        "ping": {
+            "espn.com": [
+                "13.35.20.74",
+                "13.35.20.76",
+                "13.35.20.113"
+            ],
+            "www.espn.com": [
+                "13.224.250.116",
+                "13.224.250.83",
+                "13.224.250.6",
+                "13.224.250.25"
+            ]
+        },
+        "CNAME": {
+            "www.espn.com": null
+        },
+        "A": {
+            "www.espn.com": [
+                "13.224.250.116",
+                "13.224.250.6",
+                "13.224.250.83",
+                "13.224.250.25"
+            ]
+        }
+    }
+}

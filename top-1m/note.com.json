@@ -1,0 +1,89 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 11:32:28 GMT",
+            "Server": "nginx",
+            "Vary": "Accept-Encoding, User-Agent",
+            "no-cache": "Set-Cookie",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "DENY",
+            "x-content-type-options": "nosniff",
+            "Set-Cookie": "_note_session_v5=f29953532b26c2b51557a2eda9ba94e3; Domain=.note.com; Path=/; Expires=Thu, 17 Sep 2020 11:32:27 GMT; HttpOnly; Secure",
+            "ETag": "W/\"656bc-ePHJcn1elfSrZaspuLdTASgOhVA\"",
+            "Content-Security-Policy-Report-Only": "script-src 'sha256-Z4O5f3n0MTpUPQlwBqokCIVEUHeu6IQDPB+8PnV0nG4=' 'nonce-7Z6gpEnJKpxoiusLWcuUwg==' 'self' 'unsafe-inline' https://note.com https://d291vdycu0ht11.cloudfront.net https://d2l930y2yx77uc.cloudfront.net https://polyfill.io https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com/firebasejs https://*.facebook.net https://platform.twitter.com https://*.twimg.com https://cdn.iframe.ly https://cdn.embedly.com https://*.tiktok.com https://*.tiktokcdn.com https://*.ibytedtos.com https://speakerdeck.com https://*.mul-pay.jp; object-src 'none'; base-uri 'self'",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 708b4a14c657950f2e7357eb30093182.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "AjWxhCyeNfsqqaMrIJOFL3NF-Z3peV3Ypf24Q4ThaZGVi_M-YZYFOg=="
+        },
+        "nslookup": {
+            "note.com": [
+                "13.224.250.4",
+                "13.224.250.49",
+                "13.224.250.98",
+                "13.224.250.116"
+            ]
+        },
+        "ping": {
+            "note.com": [
+                "13.224.250.116",
+                "13.224.250.49",
+                "13.224.250.98",
+                "13.224.250.4"
+            ]
+        },
+        "CNAME": {
+            "note.com": "still a low_level domain_name"
+        },
+        "A": {
+            "note.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 11:32:29 GMT",
+            "Server": "nginx",
+            "Vary": "Accept-Encoding, User-Agent",
+            "no-cache": "Set-Cookie",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "DENY",
+            "x-content-type-options": "nosniff",
+            "Set-Cookie": "_note_session_v5=4d0858106a511edfacc1cb75b25cb203; Domain=.note.com; Path=/; Expires=Thu, 17 Sep 2020 11:32:28 GMT; HttpOnly; Secure",
+            "ETag": "W/\"656f2-AB6i+KvsS3GG+A/pWXLk8gZXS8g\"",
+            "Content-Security-Policy-Report-Only": "script-src 'sha256-907aktyY1T5ugI0GWBg5v3r38lXzdYbh1mtxtepmowg=' 'nonce-NbnhcAu/P0u1Y19u6G6tlA==' 'self' 'unsafe-inline' https://note.com https://d291vdycu0ht11.cloudfront.net https://d2l930y2yx77uc.cloudfront.net https://polyfill.io https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com/firebasejs https://*.facebook.net https://platform.twitter.com https://*.twimg.com https://cdn.iframe.ly https://cdn.embedly.com https://*.tiktok.com https://*.tiktokcdn.com https://*.ibytedtos.com https://speakerdeck.com https://*.mul-pay.jp; object-src 'none'; base-uri 'self'",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 5ba1fc6b25fbcd91520a550358bd4bad.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "_FBjr15DM1xuJDimFnIkHTRfTYg6JCqM50liJNabYsY6zP3Ux9VJrQ=="
+        },
+        "nslookup": {
+            "note.com": [
+                "13.224.250.116",
+                "13.224.250.98",
+                "13.224.250.49",
+                "13.224.250.4"
+            ]
+        },
+        "ping": {
+            "note.com": [
+                "13.224.250.116",
+                "13.224.250.4",
+                "13.224.250.49"
+            ]
+        },
+        "CNAME": {
+            "note.com": "still a low_level domain_name"
+        },
+        "A": {
+            "note.com": "still a low_level domain_name"
+        }
+    }
+}

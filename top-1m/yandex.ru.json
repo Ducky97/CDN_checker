@@ -1,0 +1,113 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:18:18 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Keep-Alive": "timeout=120",
+            "Vary": "Accept-Encoding",
+            "Content-Security-Policy": "default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net; script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru chat.s3.yandex.net api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-fccef2d6-1588-4c4e-829a-5278e86bdb91' https://yandex.ru/global-notifications/butterfly/stable/butterfly.js; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net blob:  mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru api.passport.yandex.ru; frame-ancestors 'self'; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru magic.passport.yandex.ru https://yandex.ru/forms https://forms.yandex.ru/; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&project=passport&yandex_login=&yandexuid=",
+            "X-Frame-Options": "DENY",
+            "X-Download-Options": "noopen",
+            "X-Content-Type-Options": "nosniff",
+            "Surrogate-Control": "no-store",
+            "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-DNS-Prefetch-Control": "off",
+            "X-XSS-Protection": "1; mode=block",
+            "P3P": "policyref=\"/w3c/p3p.xml\", CP=\"NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI\"",
+            "Set-Cookie": "yandexuid=861438981600247898; Max-Age=315360000; Domain=.yandex.ru; Path=/; Expires=Sat, 14 Sep 2030 09:18:18 GMT; Secure, uniqueuid=156770201600247898; Max-Age=315360000; Path=/; Expires=Sat, 14 Sep 2030 09:18:18 GMT; HttpOnly; Secure; SameSite=Lax, lah=; Domain=.passport.yandex.ru; Expires=Thu, 01 Jan 1970 00:00:01 GMT; Secure; HttpOnly; Path=/",
+            "X-Yandex-Passport-Authorize": "1",
+            "Strict-Transport-Security": "max-age=315360000; includeSubDomains; preload",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "yandex.ru": [
+                "5.255.255.77",
+                "5.255.255.80",
+                "77.88.55.77",
+                "77.88.55.80"
+            ],
+            "passport.yandex.ru": [
+                "213.180.204.24"
+            ]
+        },
+        "ping": {
+            "yandex.ru": [
+                "5.255.255.77",
+                "77.88.55.80",
+                "5.255.255.80",
+                "77.88.55.77"
+            ],
+            "passport.yandex.ru": [
+                "213.180.204.24"
+            ]
+        },
+        "CNAME": {
+            "passport.yandex.ru": null
+        },
+        "A": {
+            "passport.yandex.ru": [
+                "213.180.204.24"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:18:28 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Keep-Alive": "timeout=120",
+            "Vary": "Accept-Encoding",
+            "Content-Security-Policy": "default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net; script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru chat.s3.yandex.net api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-c2561495-51c1-4721-a428-6c21746e9526' https://yandex.ru/global-notifications/butterfly/stable/butterfly.js; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net blob:  mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru api.passport.yandex.ru; frame-ancestors 'self'; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru magic.passport.yandex.ru https://yandex.ru/forms https://forms.yandex.ru/; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&project=passport&yandex_login=&yandexuid=",
+            "X-Frame-Options": "DENY",
+            "X-Download-Options": "noopen",
+            "X-Content-Type-Options": "nosniff",
+            "Surrogate-Control": "no-store",
+            "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-DNS-Prefetch-Control": "off",
+            "X-XSS-Protection": "1; mode=block",
+            "P3P": "policyref=\"/w3c/p3p.xml\", CP=\"NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI\"",
+            "Set-Cookie": "yandexuid=670310391600247908; Max-Age=315360000; Domain=.yandex.ru; Path=/; Expires=Sat, 14 Sep 2030 09:18:28 GMT; Secure, uniqueuid=913933271600247908; Max-Age=315360000; Path=/; Expires=Sat, 14 Sep 2030 09:18:28 GMT; HttpOnly; Secure; SameSite=Lax, lah=; Domain=.passport.yandex.ru; Expires=Thu, 01 Jan 1970 00:00:01 GMT; Secure; HttpOnly; Path=/",
+            "X-Yandex-Passport-Authorize": "1",
+            "Strict-Transport-Security": "max-age=315360000; includeSubDomains; preload",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "yandex.ru": [
+                "5.255.255.77",
+                "77.88.55.80",
+                "77.88.55.77",
+                "5.255.255.80"
+            ],
+            "passport.yandex.ru": [
+                "213.180.204.24"
+            ]
+        },
+        "ping": {
+            "yandex.ru": [
+                "77.88.55.80",
+                "5.255.255.80",
+                "77.88.55.77"
+            ],
+            "passport.yandex.ru": [
+                "213.180.204.24"
+            ]
+        },
+        "CNAME": {
+            "passport.yandex.ru": null
+        },
+        "A": {
+            "passport.yandex.ru": [
+                "213.180.204.24"
+            ]
+        }
+    }
+}

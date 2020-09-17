@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=31536000, max-age=31536000",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src 'self' blob: wss: data: https:; img-src 'self' data: https:; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: data: https:; style-src 'self' 'unsafe-inline' data: https:; ",
+            "Content-Type": "text/html;charset=utf-8",
+            "rlogid": "t6klaook%60b0%3D%3C%3Dqkiojbnkmcc4%3B(d3dqp*w%60ut3550-174967e8c63-0x302",
+            "Content-Encoding": "gzip",
+            "X-EdgeConnect-MidMile-RTT": "207",
+            "X-EdgeConnect-Origin-MEX-Latency": "84",
+            "X-EdgeConnect-Cache-Status": "0",
+            "Date": "Wed, 16 Sep 2020 10:38:30 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "dp1=bbl/SG63245226^; Domain=.ebay.co.uk; Path=/; Expires=Fri, 16 Sep 2022 10:38:30 GMT, nonsession=BAQAAAXQoEGjGAAaAADMABmFDHqYyMjgyMTEAygAgYyRSJjk2N2U4YzdlMTc0MGE0YjRkMzVkZmM2ZmZmZmU0OWM5AMsAAV9h8i4xZMlEsX/2CV9DcicdvvwIaBMuJug*; Domain=.ebay.co.uk; Path=/; Expires=Fri, 16 Sep 2022 10:38:30 GMT, s=CgAD4ACBfYzymOTY3ZThjN2UxNzQwYTRiNGQzNWRmYzZmZmZmZTQ5YzlavEu9; Domain=.ebay.co.uk; Path=/; HttpOnly, ebay=%5Esbf%3D%23000000%5E; Domain=.ebay.co.uk; Path=/"
+        },
+        "nslookup": {
+            "ebay.co.uk": [
+                "66.135.196.249",
+                "66.135.195.175"
+            ],
+            "www.ebay.co.uk": [
+                "104.116.21.16"
+            ]
+        },
+        "ping": {
+            "ebay.co.uk": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ],
+            "www.ebay.co.uk": [
+                "23.50.80.209"
+            ]
+        },
+        "CNAME": {
+            "ebay.co.uk": null
+        },
+        "A": {
+            "ebay.co.uk": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "x-content-type-options": "nosniff",
+            "strict-transport-security": "max-age=31536000, max-age=31536000",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src 'self' blob: wss: data: https:; img-src 'self' data: https:; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: data: https:; style-src 'self' 'unsafe-inline' data: https:; ",
+            "Content-Type": "text/html;charset=utf-8",
+            "rlogid": "t6klaook%60b0%3D%3C%3Dqkiojbnkmcc4%3B(~j4%7D%3E*w%60ut3550-174967e9296-0x2303",
+            "Content-Encoding": "gzip",
+            "x-envoy-upstream-service-time": "56",
+            "Server": "ebay-proxy-server",
+            "X-EdgeConnect-MidMile-RTT": "162",
+            "X-EdgeConnect-Origin-MEX-Latency": "95",
+            "X-EdgeConnect-Cache-Status": "0",
+            "Date": "Wed, 16 Sep 2020 10:38:31 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "dp1=bbl/SG63245227^; Domain=.ebay.co.uk; Path=/; Expires=Fri, 16 Sep 2022 10:38:31 GMT, nonsession=BAQAAAXQoEGjGAAaAADMABmFDHqcyMjgyMTEAygAgYyRSJzk2N2U5MmFlMTc0MGE5YmQ5MzQxYmJiZmZmZmQ2YzFlAMsAAV9h8i8xdLNwX2Mgn65zZTzEW8xexFZAmf8*; Domain=.ebay.co.uk; Path=/; Expires=Fri, 16 Sep 2022 10:38:31 GMT, s=CgAD4ACBfYzynOTY3ZTkyYWUxNzQwYTliZDkzNDFiYmJmZmZmZDZjMWX1FvX+; Domain=.ebay.co.uk; Path=/; HttpOnly, ebay=%5Esbf%3D%23000000%5E; Domain=.ebay.co.uk; Path=/"
+        },
+        "nslookup": {
+            "ebay.co.uk": [
+                "66.135.196.249",
+                "66.135.195.175"
+            ],
+            "www.ebay.co.uk": [
+                "104.116.21.16"
+            ]
+        },
+        "ping": {
+            "ebay.co.uk": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ],
+            "www.ebay.co.uk": [
+                "23.50.80.209"
+            ]
+        },
+        "CNAME": {
+            "ebay.co.uk": null
+        },
+        "A": {
+            "ebay.co.uk": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ]
+        }
+    }
+}

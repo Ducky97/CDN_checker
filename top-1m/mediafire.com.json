@@ -1,0 +1,106 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:44 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d0c773c9ddc8e901fab816ba5b737a59a1600250444; expires=Fri, 16-Oct-20 10:00:44 GMT; path=/; domain=.mediafire.com; HttpOnly; SameSite=Lax, ukey=6zo7m31mfknm7tn6oyg8es20rbxjgt98; expires=Wed, 03-Feb-2021 10:00:44 GMT; Max-Age=12096000; path=/; domain=.mediafire.com; HttpOnly, funding-choices=1; expires=Fri, 16-Sep-2022 10:00:44 GMT; Max-Age=63072000; path=/; domain=.mediafire.com",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=0",
+            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "frame-ancestors *.mediafire.com",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "*",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537f5138b000019b9dab6b200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39bdff496419b9-SIN"
+        },
+        "nslookup": {
+            "mediafire.com": [
+                "104.16.202.237",
+                "104.16.203.237"
+            ],
+            "www.mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ]
+        },
+        "ping": {
+            "mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ],
+            "www.mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ]
+        },
+        "CNAME": {
+            "www.mediafire.com": null
+        },
+        "A": {
+            "www.mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:45 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d8b08744400f57e8ca5910e570cbb5a9f1600250445; expires=Fri, 16-Oct-20 10:00:45 GMT; path=/; domain=.mediafire.com; HttpOnly; SameSite=Lax, ukey=znwb7hg8wn3ds35fcq45htyf79abdaeq; expires=Wed, 03-Feb-2021 10:00:45 GMT; Max-Age=12096000; path=/; domain=.mediafire.com; HttpOnly, funding-choices=1; expires=Fri, 16-Sep-2022 10:00:45 GMT; Max-Age=63072000; path=/; domain=.mediafire.com",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=0",
+            "Cache-Control": "no-cache, no-store, must-revalidate, max-age=0, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "frame-ancestors *.mediafire.com",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "*",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537f51503000019d92594b200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39be019fb619d9-SIN"
+        },
+        "nslookup": {
+            "mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ],
+            "www.mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ]
+        },
+        "ping": {
+            "mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ],
+            "www.mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ]
+        },
+        "CNAME": {
+            "www.mediafire.com": null
+        },
+        "A": {
+            "www.mediafire.com": [
+                "104.16.203.237",
+                "104.16.202.237"
+            ]
+        }
+    }
+}

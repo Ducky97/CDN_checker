@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html",
+            "Content-Security-Policy": "default-src 'self' https://*.google-analytics.com https://*.googleusercontent.com https://*.gstatic.com; script-src 'self' 'unsafe-inline' https://*.google-analytics.com https://*.googleapis.com; style-src 'self' 'unsafe-inline' https://*.googleapis.com",
+            "Date": "Wed, 16 Sep 2020 10:49:18 GMT",
+            "Expires": "Wed, 16 Sep 2020 10:49:18 GMT",
+            "Cache-Control": "private, max-age=0",
+            "Last-Modified": "Tue, 03 Mar 2020 20:15:00 GMT",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "sffe",
+            "X-XSS-Protection": "0",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "blogger.com": [
+                "172.217.24.9"
+            ],
+            "www.blogger.com": [
+                "172.217.160.73"
+            ]
+        },
+        "ping": {
+            "blogger.com": [
+                "74.125.24.191",
+                "74.125.130.191",
+                "172.217.26.73"
+            ],
+            "www.blogger.com": [
+                "74.125.200.191",
+                "74.125.24.191",
+                "172.217.26.73"
+            ]
+        },
+        "CNAME": {
+            "www.blogger.com": [
+                "blogger.l.google.com."
+            ]
+        },
+        "A": {
+            "www.blogger.com": [
+                "172.217.26.73"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html",
+            "Content-Security-Policy": "default-src 'self' https://*.google-analytics.com https://*.googleusercontent.com https://*.gstatic.com; script-src 'self' 'unsafe-inline' https://*.google-analytics.com https://*.googleapis.com; style-src 'self' 'unsafe-inline' https://*.googleapis.com",
+            "Date": "Wed, 16 Sep 2020 10:49:20 GMT",
+            "Expires": "Wed, 16 Sep 2020 10:49:20 GMT",
+            "Cache-Control": "private, max-age=0",
+            "Last-Modified": "Tue, 03 Mar 2020 20:15:00 GMT",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "sffe",
+            "X-XSS-Protection": "0",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "blogger.com": [
+                "172.217.24.9"
+            ],
+            "www.blogger.com": [
+                "172.217.160.73"
+            ]
+        },
+        "ping": {
+            "blogger.com": [
+                "74.125.24.191",
+                "74.125.130.191",
+                "172.217.26.73"
+            ],
+            "www.blogger.com": [
+                "74.125.200.191",
+                "74.125.24.191",
+                "172.217.26.73"
+            ]
+        },
+        "CNAME": {
+            "www.blogger.com": [
+                "blogger.l.google.com."
+            ]
+        },
+        "A": {
+            "www.blogger.com": [
+                "172.217.26.73"
+            ]
+        }
+    }
+}

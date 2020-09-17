@@ -1,0 +1,109 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "8176",
+            "Server": "nginx",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Expires": "Tue, 15 Sep 2020 21:51:38 GMT",
+            "P3P": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+            "Set-Cookie": "vuid=66020996.1165867313; expires=Sat, 14-Sep-2030 09:51:38 GMT; Max-Age=315360000; path=/; domain=.vimeo.com; secure; SameSite=None",
+            "X-UA-Compatible": "IE=edge",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "sameorigin",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Security-Policy-Report-Only": "default-src https: data: blob: wss: 'unsafe-inline' 'unsafe-eval'; report-uri /_csp",
+            "Content-Encoding": "gzip",
+            "X-BApp-Server": "pweb-v3142-lhmk4",
+            "Via": "1.1 varnish, 1.1 varnish, 1.1 varnish",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "X-Varnish-Cache": "0",
+            "X-VServer": "infra-webproxy-a-16",
+            "X-Vimeo-DC": "ge",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:51:38 GMT",
+            "Age": "0",
+            "X-Served-By": "cache-bwi5142-BWI, cache-sin18046-SIN",
+            "X-Cache": "MISS, MISS",
+            "X-Cache-Hits": "0, 0",
+            "X-Timer": "S1600249899.585279,VS0,VE357",
+            "Vary": "User-Agent,Accept-Encoding"
+        },
+        "nslookup": {
+            "vimeo.com": [
+                "151.101.0.217",
+                "151.101.128.217",
+                "151.101.192.217",
+                "151.101.64.217"
+            ]
+        },
+        "ping": {
+            "vimeo.com": [
+                "151.101.192.217",
+                "151.101.0.217",
+                "151.101.64.217",
+                "151.101.128.217"
+            ]
+        },
+        "CNAME": {
+            "vimeo.com": "still a low_level domain_name"
+        },
+        "A": {
+            "vimeo.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "8171",
+            "Server": "nginx",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Expires": "Tue, 15 Sep 2020 21:51:39 GMT",
+            "P3P": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+            "Set-Cookie": "vuid=1239000010.327316270; expires=Sat, 14-Sep-2030 09:51:39 GMT; Max-Age=315360000; path=/; domain=.vimeo.com; secure; SameSite=None",
+            "X-UA-Compatible": "IE=edge",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "sameorigin",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Security-Policy-Report-Only": "default-src https: data: blob: wss: 'unsafe-inline' 'unsafe-eval'; report-uri /_csp",
+            "Content-Encoding": "gzip",
+            "X-BApp-Server": "pweb-v3143-krqv2",
+            "Via": "1.1 varnish, 1.1 varnish, 1.1 varnish",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "X-Varnish-Cache": "0",
+            "X-VServer": "infra-webproxy-a-3",
+            "X-Vimeo-DC": "ge",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:51:39 GMT",
+            "Age": "0",
+            "X-Served-By": "cache-bwi5126-BWI, cache-sin18044-SIN",
+            "X-Cache": "MISS, MISS",
+            "X-Cache-Hits": "0, 0",
+            "X-Timer": "S1600249899.967553,VS0,VE342",
+            "Vary": "User-Agent,Accept-Encoding"
+        },
+        "nslookup": {
+            "vimeo.com": [
+                "151.101.192.217",
+                "151.101.64.217",
+                "151.101.128.217",
+                "151.101.0.217"
+            ]
+        },
+        "ping": {
+            "vimeo.com": [
+                "151.101.192.217",
+                "151.101.0.217",
+                "151.101.128.217"
+            ]
+        },
+        "CNAME": {
+            "vimeo.com": "still a low_level domain_name"
+        },
+        "A": {
+            "vimeo.com": "still a low_level domain_name"
+        }
+    }
+}

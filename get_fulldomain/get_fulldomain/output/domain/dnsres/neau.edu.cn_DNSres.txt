@@ -1,0 +1,949 @@
+NXDOMAIN for neau.edu.cn
+
+NXDOMAIN for neau.edu.cn
+
+NXDOMAIN for neau.edu.cn
+
+NXDOMAIN for neau.edu.cn
+
+NXDOMAIN for neau.edu.cn
+
+NXDOMAIN for neau.edu.cn
+
+NXDOMAIN for neau.edu.cn
+
+aeolwww.neau.edu.cn. 3600 IN A 61.167.57.89
+
+aeolwww.neau.edu.cn. 3599 IN A 61.167.57.89
+
+aeolwww.neau.edu.cn. 3599 IN A 61.167.57.89
+
+base.neau.edu.cn. 3600 IN A 60.219.188.56
+
+base.neau.edu.cn. 3599 IN A 60.219.188.56
+
+bdweb1.neau.edu.cn. 3600 IN A 202.118.165.83
+
+bdweb2.neau.edu.cn. 3600 IN A 202.118.165.84
+
+bdwt.neau.edu.cn. 3600 IN A 221.212.172.2
+
+bgs.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3599 IN A 202.118.165.83
+
+bwc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3599 IN A 202.118.165.83
+
+card.neau.edu.cn. 3600 IN A 202.118.163.89
+
+cc.neau.edu.cn. 3600 IN A 202.118.166.98
+
+cc.neau.edu.cn. 3599 IN A 202.118.166.98
+
+cc.neau.edu.cn. 3599 IN A 202.118.166.98
+
+chled.neau.edu.cn. 3600 IN A 220.250.64.225
+
+chled.neau.edu.cn. 3599 IN A 220.250.64.225
+
+www.webvpn.neau.edu.cnlxy.neau.edu.cn. 3600 IN A 220.250.64.225
+
+zsbwx.neau.edu.cnneauswjs.neau.edu.cn. 0 IN A 220.250.64.225
+
+zhxy.neau.edu.cnvc51.neau.edu.cn. 0 IN A 220.250.64.225
+
+oa.neau.edu.cnvpn.neau.edu.cn. 0 IN A 220.250.64.225
+
+spgcyl.neau.edu.cnwebvpn.neau.edu.cn. 0 IN A 220.250.64.225
+
+d.neau.edu.cn. 3600 IN A 202.118.166.99
+
+d.neau.edu.cn. 3599 IN A 202.118.166.99
+
+dag.neau.edu.cn. 0 IN A 220.250.64.225
+
+dag.neau.edu.cn. 60 IN A 220.250.64.225
+
+dagmh.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+dduzt.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+ddyjs.neau.edu.cn. 0 IN A 220.250.64.225
+
+ddyjs.neau.edu.cn. 60 IN A 220.250.64.225
+
+dnjjh.neau.edu.cn. 3600 IN A 202.118.166.59
+
+dnjjh.neau.edu.cn. 3599 IN A 202.118.166.59
+
+dnjjh.neau.edu.cn. 3599 IN A 202.118.166.59
+
+dnxg.neau.edu.cn. 3600 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxg.neau.edu.cn. 3599 IN A 202.118.166.199
+
+dnxyh.neau.edu.cn. 3600 IN A 202.118.166.59
+
+dnxyh.neau.edu.cn. 3599 IN A 202.118.166.59
+
+dnxyh.neau.edu.cn. 3599 IN A 202.118.166.59
+
+doc.neau.edu.cn. 3600 IN A 202.118.165.92
+
+doc.neau.edu.cn. 3599 IN A 202.118.165.92
+
+doc.neau.edu.cn. 3599 IN A 202.118.165.92
+
+dqxx.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dqxx.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dqxx.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dwkxxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dwkxxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dwkxxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dwyxxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dwyxxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dwyxxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+dxhx.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+dxhx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+dxhx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+english.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+english.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+english.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+english.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+es.neau.edu.cn. 0 IN A 220.250.64.225
+
+es.neau.edu.cn. 60 IN A 220.250.64.225
+
+es.neau.edu.cn. 59 IN A 220.250.64.225
+
+gcsj.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+gcsj.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+gcsj.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+gcxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+gcxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+gcxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+gh.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gh.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gh.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gh.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gjdxkjy.neau.edu.cn. 3600 IN CNAME bdweb2.neau.edu.cn.
+bdweb2.neau.edu.cn. 3595 IN A 202.118.165.84
+
+gjdxkjy.neau.edu.cn. 3599 IN CNAME bdweb2.neau.edu.cn.
+bdweb2.neau.edu.cn. 3595 IN A 202.118.165.84
+
+gjdxkjy.neau.edu.cn. 3599 IN CNAME bdweb2.neau.edu.cn.
+bdweb2.neau.edu.cn. 3595 IN A 202.118.165.84
+
+gjjl.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gjjl.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gjjl.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gjxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gjxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gjxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3595 IN A 202.118.165.83
+
+gkzp.neau.edu.cn. 3600 IN A 202.118.166.73
+
+gkzp.neau.edu.cn. 3599 IN A 202.118.166.73
+
+gkzp.neau.edu.cn. 3599 IN A 202.118.166.73
+
+gkzp.neau.edu.cn. 3599 IN A 202.118.166.73
+
+graduate.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+graduate.neau.edu.cn. 59 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+graduate.neau.edu.cn. 59 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+graduateold.neau.edu.cn. 0 IN A 220.250.64.225
+
+graduateold.neau.edu.cn. 60 IN A 220.250.64.225
+
+gzc.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3597 IN A 202.118.166.161
+
+gzc.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3597 IN A 202.118.166.161
+
+gzc.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3597 IN A 202.118.166.161
+
+gzc.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3597 IN A 202.118.166.161
+
+hdzu.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3597 IN A 202.118.166.161
+
+hdzu.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3597 IN A 202.118.166.161
+
+hortlab.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3594 IN A 202.118.165.83
+
+hortlab.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3594 IN A 202.118.165.83
+
+hortlab.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3594 IN A 202.118.165.83
+
+i.neau.edu.cn. 60 IN A 202.118.166.72
+
+jcc.neau.edu.cn. 3600 IN A 202.118.163.102
+
+jcc.neau.edu.cn. 3599 IN A 202.118.163.102
+
+jcc.neau.edu.cn. 3599 IN A 202.118.163.102
+
+jgxymba.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3593 IN A 202.118.165.83
+
+jidi.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3596 IN A 202.118.166.161
+
+jidi.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3596 IN A 202.118.166.161
+
+jiuye.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3593 IN A 202.118.165.83
+
+jjglxy.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+jjw.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3592 IN A 202.118.165.83
+
+jnpx.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3595 IN A 202.118.166.161
+
+jnpx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3595 IN A 202.118.166.161
+
+job.neau.edu.cn. 3600 IN A 202.118.166.102
+
+job.neau.edu.cn. 3599 IN A 202.118.166.102
+
+job.neau.edu.cn. 3599 IN A 202.118.166.102
+
+job.neau.edu.cn. 3599 IN A 202.118.166.102
+
+jsfzzx.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3592 IN A 202.118.165.83
+
+jsfzzx.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3592 IN A 202.118.165.83
+
+jsfzzx.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3592 IN A 202.118.165.83
+
+jwc.neau.edu.cn. 3163 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3162 IN A 202.118.165.83
+
+jwc.neau.edu.cn. 3163 IN A 202.118.165.83
+
+jwc.neau.edu.cn. 3162 IN A 202.118.165.83
+
+jxpg.neau.edu.cn. 3600 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+jxpg.neau.edu.cn. 3599 IN A 202.118.166.75
+
+kjc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3591 IN A 202.118.165.83
+
+kjc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3591 IN A 202.118.165.83
+
+kjc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3591 IN A 202.118.165.83
+
+klds.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3594 IN A 202.118.166.161
+
+klds.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3594 IN A 202.118.166.161
+
+klds.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3594 IN A 202.118.166.161
+
+klds.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3594 IN A 202.118.166.161
+
+wxopen.neau.edu.cnyd.lib.neau.edu.cn. 0 IN A 220.250.64.225
+
+media.lib.neau.edu.cn. 0 IN A 220.250.64.225
+
+media.lib.neau.edu.cn. 3600 IN A 220.250.64.225
+
+www.lib.neau.edu.cn. 3600 IN A 202.118.166.243
+
+www.lib.neau.edu.cn. 3599 IN A 202.118.166.243
+
+www.lib.neau.edu.cn. 3599 IN A 202.118.166.243
+
+xwlw.lib.neau.edu.cn. 3600 IN A 202.118.166.226
+
+xwlw.lib.neau.edu.cn. 3599 IN A 202.118.166.226
+
+yd.lib.neau.edu.cn. 3600 IN A 202.118.166.229
+
+yd.lib.neau.edu.cn. 3599 IN A 202.118.166.229
+
+yd.lib.neau.edu.cn. 3599 IN A 202.118.166.229
+
+yd.lib.neau.edu.cn. 3599 IN A 202.118.166.229
+
+yd.lib.neau.edu.cn. 3599 IN A 202.118.166.229
+
+yd.lib.neau.edu.cn. 3599 IN A 202.118.166.229
+
+yd.lib.neau.edu.cn. 3599 IN A 202.118.166.229
+
+lscnts.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3592 IN A 202.118.166.161
+
+lscnts.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3592 IN A 202.118.166.161
+
+ltxc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3589 IN A 202.118.165.83
+
+lxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3589 IN A 202.118.165.83
+
+lxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3589 IN A 202.118.165.83
+
+lxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3589 IN A 202.118.165.83
+
+mail.neau.edu.cn. 60 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.neau.edu.cn. 60 IN A 113.96.233.155
+mail.neau.edu.cn. 60 IN A 59.37.96.29
+
+mba.neau.edu.cn. 0 IN A 220.250.64.225
+
+mba.neau.edu.cn. 60 IN A 220.250.64.225
+
+mks.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3588 IN A 202.118.165.83
+
+mks.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3588 IN A 202.118.165.83
+
+mks.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3588 IN A 202.118.165.83
+
+mpacc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3588 IN A 202.118.165.83
+
+ncc.neau.edu.cn. 3600 IN A 202.118.166.128
+
+ncc.neau.edu.cn. 3599 IN A 202.118.166.128
+
+ncc.neau.edu.cn. 3599 IN A 202.118.166.128
+
+ndldsc.neau.edu.cn. 0 IN A 220.250.64.225
+
+ndldsc.neau.edu.cn. 60 IN A 220.250.64.225
+
+neauswjs.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3590 IN A 202.118.166.161
+
+neauswkx.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3590 IN A 202.118.166.161
+
+neauswkx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3590 IN A 202.118.166.161
+
+nic.neau.edu.cn. 1654 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3587 IN A 202.118.165.83
+
+nic.neau.edu.cn. 1653 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3587 IN A 202.118.165.83
+
+nic.neau.edu.cn. 1653 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3587 IN A 202.118.165.83
+
+nic.neau.edu.cn. 1653 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3587 IN A 202.118.165.83
+
+m.nic.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3587 IN A 202.118.165.83
+
+m.nic.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3587 IN A 202.118.165.83
+
+nxx.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3589 IN A 202.118.166.161
+
+nxx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3589 IN A 202.118.166.161
+
+nxy.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3589 IN A 202.118.166.161
+
+nxy.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3589 IN A 202.118.166.161
+
+nxy.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3589 IN A 202.118.166.161
+
+nylm.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3586 IN A 202.118.165.83
+
+nylm.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3586 IN A 202.118.165.83
+
+nylm.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3586 IN A 202.118.165.83
+
+oa.neau.edu.cn. 60 IN A 202.118.165.110
+
+oa.neau.edu.cn. 60 IN A 202.118.165.110
+
+oa.neau.edu.cn. 59 IN A 202.118.165.110
+
+oa.neau.edu.cn. 59 IN A 202.118.165.110
+
+oa.neau.edu.cn. 59 IN A 202.118.165.110
+
+office.neau.edu.cn. 0 IN A 220.250.64.225
+
+office.neau.edu.cn. 3600 IN A 220.250.64.225
+
+pgzx.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3585 IN A 202.118.165.83
+
+pgzx.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3585 IN A 202.118.165.83
+
+pgzx.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3585 IN A 202.118.165.83
+
+publish.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3585 IN A 202.118.165.83
+
+publish.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3585 IN A 202.118.165.83
+
+publish.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3585 IN A 202.118.165.83
+
+pdxkjy.px.neau.edu.cn. 3600 IN A 202.118.165.83
+
+pdxkjy.px.neau.edu.cn. 3599 IN A 202.118.165.83
+
+pjjc1.px.neau.edu.cn. 3600 IN A 202.118.165.83
+
+pnic2.px.neau.edu.cn. 3600 IN CNAME bdtemp.neau.edu.cn.
+bdtemp.neau.edu.cn. 3599 IN A 172.16.74.15
+
+pnic2.px.neau.edu.cn. 3599 IN CNAME bdtemp.neau.edu.cn.
+bdtemp.neau.edu.cn. 3599 IN A 172.16.74.15
+
+rpkxjpkc.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3586 IN A 202.118.166.161
+
+rpxnfz.neau.edu.cn. 3600 IN A 202.118.163.61
+
+rsc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3583 IN A 202.118.165.83
+
+shpg.neau.edu.cn. 3600 IN CNAME bdtemp.neau.edu.cn.
+bdtemp.neau.edu.cn. 3598 IN A 172.16.74.15
+
+shpg.neau.edu.cn. 3599 IN CNAME bdtemp.neau.edu.cn.
+bdtemp.neau.edu.cn. 3598 IN A 172.16.74.15
+
+shpg.neau.edu.cn. 3599 IN CNAME bdtemp.neau.edu.cn.
+bdtemp.neau.edu.cn. 3598 IN A 172.16.74.15
+
+sjc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+sjc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+sjc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+sjd.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+sljzxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+sljzxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+sljzxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3582 IN A 202.118.165.83
+
+smkxsyzx.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3585 IN A 202.118.166.161
+
+smkxsyzx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3585 IN A 202.118.166.161
+
+smkxsyzx.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3585 IN A 202.118.166.161
+
+smkxxy.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+smkxxy.neau.edu.cn. 59 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+smkxxy.neau.edu.cn. 59 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+spgcyl.neau.edu.cn. 0 IN A 220.250.64.225
+
+spxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3581 IN A 202.118.165.83
+
+spxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3581 IN A 202.118.165.83
+
+spxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3581 IN A 202.118.165.83
+
+spxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3581 IN A 202.118.165.83
+
+spxysyzx.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3584 IN A 202.118.166.161
+
+sss.neau.edu.cn. 3600 IN A 202.118.163.20
+
+sss.neau.edu.cn. 3599 IN A 202.118.163.20
+
+sss.neau.edu.cn. 3599 IN A 202.118.163.20
+
+sss.neau.edu.cn. 3599 IN A 202.118.163.20
+
+ssyy.neau.edu.cn. 0 IN A 220.250.64.225
+
+ssyy.neau.edu.cn. 3600 IN A 220.250.64.225
+
+statgen.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3580 IN A 202.118.165.83
+
+studyatneau.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3580 IN A 202.118.165.83
+
+swebvpn.neau.edu.cn. 3600 IN A 202.118.166.56
+
+swebvpn.neau.edu.cn. 3599 IN A 202.118.166.56
+
+swebvpn.neau.edu.cn. 3599 IN A 202.118.166.56
+
+syjx.neau.edu.cn. 0 IN A 220.250.64.225
+
+syjx.neau.edu.cn. 60 IN A 220.250.64.225
+
+syjx.neau.edu.cn. 59 IN A 220.250.64.225
+
+sysfzx.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+sysglc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+sysglc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+sysglc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+syy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+syy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+syy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3579 IN A 202.118.165.83
+
+time.neau.edu.cn. 3600 IN A 202.118.166.140
+
+time.neau.edu.cn. 3599 IN A 202.118.166.140
+
+time.neau.edu.cn. 3599 IN A 202.118.166.140
+
+tyb.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3578 IN A 202.118.165.83
+
+tyb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3578 IN A 202.118.165.83
+
+tyb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3578 IN A 202.118.165.83
+
+tyb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3578 IN A 202.118.165.83
+
+vc51.neau.edu.cn. 0 IN A 220.250.64.225
+
+vc51.neau.edu.cn. 60 IN A 220.250.64.225
+
+vpn.neau.edu.cn. 3600 IN A 202.118.166.117
+
+vpn.neau.edu.cn. 3599 IN A 202.118.166.117
+
+vpn.neau.edu.cn. 3599 IN A 202.118.166.117
+
+vpn.neau.edu.cn. 3599 IN A 202.118.166.117
+
+wap.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+wap.neau.edu.cn. 60 IN A 202.118.165.83
+
+wap.neau.edu.cn. 59 IN A 202.118.165.83
+
+wap.neau.edu.cn. 59 IN A 202.118.165.83
+
+web.neau.edu.cn. 3600 IN A 202.118.165.81
+
+web.neau.edu.cn. 3599 IN A 202.118.165.81
+
+webhelp.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3577 IN A 202.118.165.83
+
+website.neau.edu.cn. 3581 IN A 202.118.166.161
+
+webvpn.neau.edu.cn. 3600 IN A 202.118.166.57
+
+webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3600 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.webvpn.neau.edu.cn. 3599 IN A 202.118.166.57
+
+www.neau.edu.cn. 3600 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+www.neau.edu.cn. 3599 IN CNAME bdwt.neau.edu.cn.
+bdwt.neau.edu.cn. 3576 IN A 221.212.172.2
+
+wxopen.neau.edu.cn. 3600 IN A 202.118.166.248
+
+wxopen.neau.edu.cn. 3599 IN A 202.118.166.248
+
+wxopen.neau.edu.cn. 3599 IN A 202.118.166.248
+
+wxopen.neau.edu.cn. 3599 IN A 202.118.166.248
+
+wxopen.neau.edu.cn. 3599 IN A 202.118.166.248
+
+wxopen.neau.edu.cn. 3599 IN A 202.118.166.248
+
+wxopen.neau.edu.cn. 3599 IN A 202.118.166.248
+
+xinxigongkai.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3576 IN A 202.118.165.83
+
+xinxigongkai.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3576 IN A 202.118.165.83
+
+xinxigongkai.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3576 IN A 202.118.165.83
+
+xljk.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3578 IN A 202.118.166.161
+
+xljk.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3578 IN A 202.118.166.161
+
+xljk.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3578 IN A 202.118.166.161
+
+xnc.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3575 IN A 202.118.165.83
+
+xnc.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3575 IN A 202.118.165.83
+
+xsbwgcjw.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3575 IN A 202.118.165.83
+
+xsbwgcjw.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3575 IN A 202.118.165.83
+
+xsbwgcjw.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3575 IN A 202.118.165.83
+
+yiliao.neau.edu.cn. 0 IN A 220.250.64.225
+
+yiliao.neau.edu.cn. 3600 IN A 220.250.64.225
+
+yingxin.neau.edu.cn. 3600 IN A 220.250.64.225
+
+yingxin.neau.edu.cn. 3599 IN A 220.250.64.225
+
+youth.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3574 IN A 202.118.165.83
+
+youth.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3574 IN A 202.118.165.83
+
+youth.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3574 IN A 202.118.165.83
+
+yqcyb.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+yqcyb.neau.edu.cn. 60 IN A 202.118.165.83
+
+yqcyb.neau.edu.cn. 59 IN A 202.118.165.83
+
+yqgx.neau.edu.cn. 3600 IN A 202.118.163.240
+
+yqycy.neau.edu.cn. 0 IN A 220.250.64.225
+
+yqycy.neau.edu.cn. 60 IN A 220.250.64.225
+
+ysxy.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+ysxy.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+ysxy.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3599 IN A 202.118.166.161
+
+yx.neau.edu.cn. 3600 IN A 202.118.166.74
+
+yx.neau.edu.cn. 3599 IN A 202.118.166.74
+
+yx.neau.edu.cn. 3599 IN A 202.118.166.74
+
+yx.neau.edu.cn. 3599 IN A 202.118.166.74
+
+yx.neau.edu.cn. 3599 IN A 202.118.166.74
+
+yx.neau.edu.cn. 3599 IN A 202.118.166.74
+
+yyxy.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3598 IN A 202.118.165.83
+
+yyxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3598 IN A 202.118.165.83
+
+yyxy.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3598 IN A 202.118.165.83
+
+zbcgglzx.neau.edu.cn. 0 IN A 220.250.64.225
+
+zbcgglzx.neau.edu.cn. 60 IN A 220.250.64.225
+
+zcgl.neau.edu.cn. 3600 IN A 172.16.74.216
+
+zcgl.neau.edu.cn. 3599 IN A 172.16.74.216
+
+zcgl.neau.edu.cn. 3599 IN A 172.16.74.216
+
+zhaopin.neau.edu.cn. 3600 IN A 202.118.166.70
+
+zhaopin.neau.edu.cn. 3599 IN A 202.118.166.70
+
+zhaopin.neau.edu.cn. 3599 IN A 202.118.166.70
+
+zhenjiu.neau.edu.cn. 3600 IN A 202.118.166.103
+
+zhxy.neau.edu.cn. 60 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 59 IN A 202.118.165.83
+
+zhxy.neau.edu.cn. 60 IN A 202.118.165.83
+
+zhxy.neau.edu.cn. 59 IN A 202.118.165.83
+
+zsb.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zsb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zsb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zsbwap.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zsbwap.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zsbwap.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zsbwx.neau.edu.cn. 3600 IN A 202.118.166.64
+
+zsbwx.neau.edu.cn. 3599 IN A 202.118.166.64
+
+zwb.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zwb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zwb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zwb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3597 IN A 202.118.165.83
+
+zwkxsys.neau.edu.cn. 3600 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3595 IN A 202.118.166.161
+
+zwkxsys.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3595 IN A 202.118.166.161
+
+zwkxsys.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3595 IN A 202.118.166.161
+
+zwkxsys.neau.edu.cn. 3599 IN CNAME website.neau.edu.cn.
+website.neau.edu.cn. 3595 IN A 202.118.166.161
+
+zzb.neau.edu.cn. 3600 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+zzb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+
+zzb.neau.edu.cn. 3599 IN CNAME bdweb1.neau.edu.cn.
+bdweb1.neau.edu.cn. 3596 IN A 202.118.165.83
+

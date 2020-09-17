@@ -1,0 +1,86 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:02:27 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Tue, 15 Sep 2020 09:08:37 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "ETag": "W/\"5f608495-1f1bd\"",
+            "Expires": "Wed, 16 Sep 2020 10:02:26 GMT",
+            "Cache-Control": "no-cache",
+            "Strict-Transport-Security": "max-age=2592000; includeSubDomains; preload",
+            "Content-Security-Policy": "frame-ancestors 'self'",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "deepl.com": [
+                "185.22.135.156"
+            ],
+            "www.deepl.com": [
+                "172.65.253.13"
+            ]
+        },
+        "ping": {
+            "deepl.com": [
+                "185.22.135.156"
+            ],
+            "www.deepl.com": [
+                "172.65.253.13"
+            ]
+        },
+        "CNAME": {
+            "www.deepl.com": [
+                "www.deepl.com.cdn.cloudflare.net."
+            ]
+        },
+        "A": {
+            "www.deepl.com": [
+                "172.65.253.13"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:02:29 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Tue, 15 Sep 2020 09:08:37 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "ETag": "W/\"5f608495-1f1bd\"",
+            "Expires": "Wed, 16 Sep 2020 10:02:28 GMT",
+            "Cache-Control": "no-cache",
+            "Strict-Transport-Security": "max-age=2592000; includeSubDomains; preload",
+            "Content-Security-Policy": "frame-ancestors 'self'",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "deepl.com": [
+                "185.22.135.156"
+            ],
+            "www.deepl.com": [
+                "172.65.253.13"
+            ]
+        },
+        "ping": {
+            "deepl.com": [
+                "185.22.135.156"
+            ],
+            "www.deepl.com": [
+                "172.65.253.13"
+            ]
+        },
+        "CNAME": {
+            "www.deepl.com": [
+                "www.deepl.com.cdn.cloudflare.net."
+            ]
+        },
+        "A": {
+            "www.deepl.com": [
+                "172.65.253.13"
+            ]
+        }
+    }
+}

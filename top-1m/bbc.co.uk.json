@@ -1,0 +1,135 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:51:21 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "35818",
+            "Connection": "keep-alive",
+            "Keep-Alive": "timeout=120",
+            "nel": "{\"report_to\":\"default\",\"max_age\":2592000,\"include_subdomains\":true,\"failure_fraction\":0.01}",
+            "Vary": "accept-encoding",
+            "belfrage-cache-status": "HIT",
+            "cache-control": "public, max-age=30",
+            "bsig": "b612ff8f027795ef59ed82704504309f",
+            "content-encoding": "gzip",
+            "content-security-policy": "default-src 'none'; script-src 'strict-dynamic' 'nonce-BdMSEUCqffldRSM6WJ2hG0C5lTMSEQwAtHp9kZUDV9PDcLWUY8' 'self' 'report-sample' 'unsafe-inline' assets.wearehearken.com cdn.syndication.twimg.com emp.bbci.co.uk modules.wearehearken.com mybbc-analytics.files.bbci.co.uk nav.files.bbci.co.uk news.files.bbci.co.uk platform.twitter.com public.flourish.studio static.bbc.co.uk static.bbci.co.uk static.chartbeat.com static2.chartbeat.com www.bbc.co.uk www.instagram.com www.ons.gov.uk gn-web-assets.api.bbc.com static.files.bbci.co.uk; img-src 'self' c.files.bbci.co.uk data: https://a1.api.bbc.co.uk i.ytimg.com ichef.bbci.co.uk logws1363.ati-host.net news.bbcimg.co.uk news.files.bbci.co.uk newsimg.bbc.co.uk pbs.twimg.com ping.chartbeat.net platform.twitter.com r.bbci.co.uk syndication.twitter.com ton.twimg.com static.files.bbci.co.uk; font-src gel.files.bbci.co.uk static.bbci.co.uk ws-downloads.files.bbci.co.uk; style-src cdn.riddle.com flo.uri.sh news.files.bbci.co.uk platform.twitter.com static.bbc.co.uk ton.twimg.com www.riddle.com 'unsafe-inline'; frame-src bbc001.carto.com bbc-maps.carto.com cdn.riddle.com chartbeat.com emp.bbc.co.uk emp.bbc.com flo.uri.sh https://www.bbc.co.uk news.files.bbci.co.uk personaltaxcalculator2.deloittecloud.co.uk platform.twitter.com public.flourish.studio static2.chartbeat.com syndication.twitter.com www.bbc.co.uk www.instagram.com www.ons.gov.uk www.riddle.com www.youtube.com; object-src 'none'; worker-src 'self' blob:; manifest-src static.files.bbci.co.uk; connect-src 'self' cookie-oven.api.bbc.co.uk cookie-oven.api.bbc.com https://a1.api.bbc.co.uk locator-service.api.bbci.co.uk logws1363.ati-host.net modules.wearehearken.com mybbc-analytics.files.bbci.co.uk news.files.bbci.co.uk platform.twitter.com search.api.bbci.co.uk search.api.bbci.com www.bbc.co.uk www.bbc.com idcta.api.bbc.co.uk; child-src blob:; base-uri 'none'; form-action 'self' platform.twitter.com syndication.twitter.com; frame-ancestors 'none'; upgrade-insecure-requests; report-to default; report-uri https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint;",
+            "report-to": "{\"group\":\"default\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint\",\"priority\":1}],\"include_subdomains\":true}",
+            "brequestid": "862458bb94f24810ab5df390491079f9",
+            "x-xss-protection": "1; mode=block",
+            "feature-policy": "accelerometer 'none'; autoplay 'none'; camera 'none'; document-domain 'self' https://emp.bbc.com https://emp.bbc.co.uk http://emp.bbc.com http://emp.bbc.co.uk; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'self' https://emp.bbc.com https://emp.bbc.co.uk http://emp.bbc.com http://emp.bbc.co.uk; screen-wake-lock 'none'; sync-xhr 'none'; usb 'none'; xr-spatial-tracking 'none'",
+            "x-content-type-options": "nosniff",
+            "via": "1.1 BBC-GTM, 1.1 Belfrage",
+            "bid": "www",
+            "req-svc-chain": "GTM,VTM,BELFRAGE",
+            "x-frame-options": "DENY",
+            "referrer-policy": "same-origin",
+            "x-lb-nocache": "true",
+            "X-BBC-Edge-Cache-Status": "EXPIRED",
+            "X-BBC-Origin-Response-Status": "200",
+            "Server": "BBC-GTM"
+        },
+        "nslookup": {
+            "bbc.co.uk": [
+                "151.101.0.81",
+                "151.101.64.81",
+                "151.101.128.81",
+                "151.101.192.81"
+            ],
+            "www.bbc.co.uk": [
+                "212.58.233.251",
+                "212.58.237.251"
+            ]
+        },
+        "ping": {
+            "bbc.co.uk": [
+                "151.101.128.81",
+                "151.101.0.81",
+                "151.101.192.81"
+            ],
+            "www.bbc.co.uk": [
+                "212.58.233.252",
+                "212.58.237.254",
+                "212.58.233.254",
+                "212.58.237.251"
+            ]
+        },
+        "CNAME": {
+            "bbc.co.uk": null
+        },
+        "A": {
+            "bbc.co.uk": [
+                "151.101.128.81",
+                "151.101.64.81",
+                "151.101.0.81",
+                "151.101.192.81"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:51:23 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "35824",
+            "Connection": "keep-alive",
+            "Keep-Alive": "timeout=120",
+            "nel": "{\"report_to\":\"default\",\"max_age\":2592000,\"include_subdomains\":true,\"failure_fraction\":0.01}",
+            "Vary": "accept-encoding",
+            "belfrage-cache-status": "MISS",
+            "cache-control": "public, max-age=30",
+            "bsig": "b612ff8f027795ef59ed82704504309f",
+            "content-encoding": "gzip",
+            "content-security-policy": "default-src 'none'; script-src 'strict-dynamic' 'nonce-WwkFD0T4kLW9mLPf1DtBG2Ec5NBC+yaqwZQSVHBtl5LkRQ7LGM' 'self' 'report-sample' 'unsafe-inline' assets.wearehearken.com cdn.syndication.twimg.com emp.bbci.co.uk modules.wearehearken.com mybbc-analytics.files.bbci.co.uk nav.files.bbci.co.uk news.files.bbci.co.uk platform.twitter.com public.flourish.studio static.bbc.co.uk static.bbci.co.uk static.chartbeat.com static2.chartbeat.com www.bbc.co.uk www.instagram.com www.ons.gov.uk gn-web-assets.api.bbc.com static.files.bbci.co.uk; img-src 'self' c.files.bbci.co.uk data: https://a1.api.bbc.co.uk i.ytimg.com ichef.bbci.co.uk logws1363.ati-host.net news.bbcimg.co.uk news.files.bbci.co.uk newsimg.bbc.co.uk pbs.twimg.com ping.chartbeat.net platform.twitter.com r.bbci.co.uk syndication.twitter.com ton.twimg.com static.files.bbci.co.uk; font-src gel.files.bbci.co.uk static.bbci.co.uk ws-downloads.files.bbci.co.uk; style-src cdn.riddle.com flo.uri.sh news.files.bbci.co.uk platform.twitter.com static.bbc.co.uk ton.twimg.com www.riddle.com 'unsafe-inline'; frame-src bbc001.carto.com bbc-maps.carto.com cdn.riddle.com chartbeat.com emp.bbc.co.uk emp.bbc.com flo.uri.sh https://www.bbc.co.uk news.files.bbci.co.uk personaltaxcalculator2.deloittecloud.co.uk platform.twitter.com public.flourish.studio static2.chartbeat.com syndication.twitter.com www.bbc.co.uk www.instagram.com www.ons.gov.uk www.riddle.com www.youtube.com; object-src 'none'; worker-src 'self' blob:; manifest-src static.files.bbci.co.uk; connect-src 'self' cookie-oven.api.bbc.co.uk cookie-oven.api.bbc.com https://a1.api.bbc.co.uk locator-service.api.bbci.co.uk logws1363.ati-host.net modules.wearehearken.com mybbc-analytics.files.bbci.co.uk news.files.bbci.co.uk platform.twitter.com search.api.bbci.co.uk search.api.bbci.com www.bbc.co.uk www.bbc.com idcta.api.bbc.co.uk; child-src blob:; base-uri 'none'; form-action 'self' platform.twitter.com syndication.twitter.com; frame-ancestors 'none'; upgrade-insecure-requests; report-to default; report-uri https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint;",
+            "report-to": "{\"group\":\"default\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint\",\"priority\":1}],\"include_subdomains\":true}",
+            "brequestid": "f28b9750f9f64de8be1e9d158bfa03f2",
+            "x-xss-protection": "1; mode=block",
+            "feature-policy": "accelerometer 'none'; autoplay 'none'; camera 'none'; document-domain 'self' https://emp.bbc.com https://emp.bbc.co.uk http://emp.bbc.com http://emp.bbc.co.uk; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'self' https://emp.bbc.com https://emp.bbc.co.uk http://emp.bbc.com http://emp.bbc.co.uk; screen-wake-lock 'none'; sync-xhr 'none'; usb 'none'; xr-spatial-tracking 'none'",
+            "x-content-type-options": "nosniff",
+            "via": "1.1 BBC-GTM, 1.1 Belfrage",
+            "bid": "www",
+            "req-svc-chain": "GTM,VTM,BELFRAGE",
+            "x-frame-options": "DENY",
+            "referrer-policy": "same-origin",
+            "x-lb-nocache": "true",
+            "X-BBC-Edge-Cache-Status": "EXPIRED",
+            "X-BBC-Origin-Response-Status": "200",
+            "Server": "BBC-GTM"
+        },
+        "nslookup": {
+            "bbc.co.uk": [
+                "151.101.0.81",
+                "151.101.64.81",
+                "151.101.128.81",
+                "151.101.192.81"
+            ],
+            "www.bbc.co.uk": [
+                "212.58.233.251",
+                "212.58.237.251"
+            ]
+        },
+        "ping": {
+            "bbc.co.uk": [
+                "151.101.128.81",
+                "151.101.64.81",
+                "151.101.0.81",
+                "151.101.192.81"
+            ],
+            "www.bbc.co.uk": [
+                "212.58.233.252",
+                "212.58.237.254",
+                "212.58.233.251",
+                "212.58.233.254"
+            ]
+        },
+        "CNAME": {
+            "bbc.co.uk": null
+        },
+        "A": {
+            "bbc.co.uk": [
+                "151.101.128.81",
+                "151.101.64.81",
+                "151.101.0.81",
+                "151.101.192.81"
+            ]
+        }
+    }
+}

@@ -1,0 +1,2358 @@
+3d.bjfu.edu.cn. 86400 IN A 202.204.112.92
+
+3d.bjfu.edu.cn. 7199 IN A 202.204.112.92
+
+3d.bjfu.edu.cn. 7199 IN A 202.204.112.92
+
+a.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+a.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+a.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+a.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ad.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+article.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+beilin.bjfu.edu.cn. 86400 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+beilin.bjfu.edu.cn. 7199 IN A 202.204.112.66
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+NXDOMAIN for beta.bjfu.edu.cn
+
+biolab.bjfu.edu.cn. 85525 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+biology.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+bjfc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for bjfucj.bjfu.edu.cn
+
+NXDOMAIN for bjfucj.bjfu.edu.cn
+
+NXDOMAIN for bjfucj.bjfu.edu.cn
+
+NXDOMAIN for blonline.bjfu.edu.cn
+
+blzc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+breeding.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+breeding.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+breeding.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+breeding.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+bwc.bjfu.edu.cn. 85518 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+bwc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+bwc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+bwc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cas.bjfu.edu.cn. 86400 IN A 202.204.112.195
+
+cas.bjfu.edu.cn. 7199 IN A 202.204.112.195
+
+cas.bjfu.edu.cn. 7199 IN A 202.204.112.195
+
+cas.bjfu.edu.cn. 7199 IN A 202.204.112.195
+
+ccb.bjfu.edu.cn. 86400 IN A 202.204.124.240
+
+ccb.bjfu.edu.cn. 7199 IN A 202.204.124.240
+
+ccb.bjfu.edu.cn. 7199 IN A 202.204.124.240
+
+ccb.bjfu.edu.cn. 7199 IN A 202.204.124.240
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+NXDOMAIN for cert.bjfu.edu.cn
+
+chinafloweralliance.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cltzz.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 85521 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+clxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4016 IN A 202.204.112.10
+
+cms.bjfu.edu.cn. 86400 IN A 202.204.112.99
+
+cms.bjfu.edu.cn. 7199 IN A 202.204.112.99
+
+cms.bjfu.edu.cn. 7199 IN A 202.204.112.99
+
+cms.bjfu.edu.cn. 7199 IN A 202.204.112.99
+
+NXDOMAIN for info.bjfu.edu.cncltzz.bjfu.edu.cn
+
+NXDOMAIN for jwc.bjfu.edu.cnftp.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cnftp.bjfu.edu.cn
+
+NXDOMAIN for s1.bjfu.edu.cnj.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cnlogin.bjfu.edu.cn
+
+NXDOMAIN for jwc.bjfu.edu.cnmail.bjfu.edu.cn
+
+NXDOMAIN for mla.bjfu.edu.cnmail.bjfu.edu.cn
+
+NXDOMAIN for s.bjfu.edu.cnncee.bjfu.edu.cn
+
+NXDOMAIN for jyxxh.bjfu.edu.cnoa.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cnoa.bjfu.edu.cn
+
+NXDOMAIN for s.bjfu.edu.cns.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cnsafe.bjfu.edu.cn
+
+NXDOMAIN for clxy.bjfu.edu.cnwww2.bjfu.edu.cn
+
+cos.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cos.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cos.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cos.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ctld.bjfu.edu.cn. 4018 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cxsm.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+cxy.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dag.bjfu.edu.cn. 86400 IN A 202.204.121.109
+
+dag.bjfu.edu.cn. 7199 IN A 202.204.121.109
+
+dag.bjfu.edu.cn. 7199 IN A 202.204.121.109
+
+dag.bjfu.edu.cn. 7199 IN A 202.204.121.109
+
+dc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dxxzz.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dzb.bjfu.edu.cn. 29992 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+dzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ei.bjfu.edu.cn. 86400 IN A 202.204.121.107
+
+ei.bjfu.edu.cn. 7199 IN A 202.204.121.107
+
+ei.bjfu.edu.cn. 7199 IN A 202.204.121.107
+
+em.bjfu.edu.cn. 85520 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+em.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+eng.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+eng.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+eng.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+eng.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+english.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+ens.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+es.bjfu.edu.cn. 85517 IN A 202.204.122.160
+
+es.bjfu.edu.cn. 7199 IN A 202.204.122.160
+
+es.bjfu.edu.cn. 7199 IN A 202.204.122.160
+
+es.bjfu.edu.cn. 7199 IN A 202.204.122.160
+
+faustmann.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+flowercenter.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+flowercenter.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+flowercenter.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+flowercenter.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for fq.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+NXDOMAIN for ftp.bjfu.edu.cn
+
+fzghc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+fzghc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+fzghc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+fzghc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gfs.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+gfs.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+gfs.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+gfs.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+gh.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjfh.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjfh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjfh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjfh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjjy.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjjy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjjy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+gjjy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+graduate.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+gsmis.bjfu.edu.cn. 86400 IN A 202.204.121.3
+
+gsmis.bjfu.edu.cn. 7199 IN A 202.204.121.3
+
+gsmis.bjfu.edu.cn. 7199 IN A 202.204.121.3
+
+gsmis.bjfu.edu.cn. 7199 IN A 202.204.121.3
+
+gxy.bjfu.edu.cn. 85520 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+gxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4015 IN A 202.204.112.10
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+NXDOMAIN for gyb.bjfu.edu.cn
+
+gzc.bjfu.edu.cn. 86400 IN A 202.204.121.107
+
+gzc.bjfu.edu.cn. 7199 IN A 202.204.121.107
+
+gzc.bjfu.edu.cn. 7199 IN A 202.204.121.107
+
+gzc.bjfu.edu.cn. 7199 IN A 202.204.121.107
+
+herbarium.bjfu.edu.cn. 86400 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+herbarium.bjfu.edu.cn. 7199 IN A 202.204.121.104
+
+hjxy.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+hjxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+hjxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+hjxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+hzbx.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+i.bjfu.edu.cn. 85517 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+i.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+i.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+i.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+ia.bjfu.edu.cn. 86400 IN CNAME es.bjfu.edu.cn.
+es.bjfu.edu.cn. 7199 IN A 202.204.122.160
+
+ia.bjfu.edu.cn. 7199 IN CNAME es.bjfu.edu.cn.
+es.bjfu.edu.cn. 7199 IN A 202.204.122.160
+
+ia.bjfu.edu.cn. 7199 IN CNAME es.bjfu.edu.cn.
+es.bjfu.edu.cn. 7199 IN A 202.204.122.160
+
+icmb.bjfu.edu.cn. 84426 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+idp.bjfu.edu.cn. 86400 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+idp.bjfu.edu.cn. 7199 IN A 202.204.112.127
+
+info.bjfu.edu.cn. 85516 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+info.bjfu.edu.cn. 7199 IN CNAME pingtai.bjfu.edu.cn.
+pingtai.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+international.bjfu.edu.cn. 85516 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4013 IN A 202.204.112.10
+
+international.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4013 IN A 202.204.112.10
+
+international.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4013 IN A 202.204.112.10
+
+international.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4013 IN A 202.204.112.10
+
+ipv6.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ipv6.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ipv6.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ipv6.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+it.bjfu.edu.cn. 82385 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+j.bjfu.edu.cn. 86400 IN A 39.97.163.197
+
+j.bjfu.edu.cn. 7199 IN A 39.97.163.197
+
+j.bjfu.edu.cn. 7199 IN A 39.97.163.197
+
+jcc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jcc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jcc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jcc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jedit.bjfu.edu.cn. 86400 IN A 39.96.32.181
+
+jgdw.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jgdw.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jgdw.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jgdw.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jiufeng.bjfu.edu.cn. 85516 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jiwei.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jiwei.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jiwei.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jiwei.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jjc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jjh.bjfu.edu.cn. 85516 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jkcjzx.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jkcjzx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jkcjzx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jkcjzx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+job.bjfu.edu.cn. 85516 IN A 202.204.121.125
+
+job.bjfu.edu.cn. 7199 IN A 202.204.121.125
+
+job.bjfu.edu.cn. 7199 IN A 202.204.121.125
+
+job.bjfu.edu.cn. 7199 IN A 202.204.121.125
+
+journal.bjfu.edu.cn. 86400 IN A 39.97.165.131
+
+journal.bjfu.edu.cn. 7199 IN A 39.97.165.131
+
+journal.bjfu.edu.cn. 7199 IN A 39.97.165.131
+
+journal.bjfu.edu.cn. 7199 IN A 39.97.165.131
+
+jsb.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jsgzb.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4015 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwc.bjfu.edu.cn. 4014 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+NXDOMAIN for jwc1.bjfu.edu.cn
+
+jwh.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwh.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jwxt.bjfu.edu.cn. 85523 IN A 202.204.121.135
+
+jwxt.bjfu.edu.cn. 7199 IN A 202.204.121.135
+
+jwxt.bjfu.edu.cn. 7199 IN A 202.204.121.135
+
+jxjy.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+NXDOMAIN for jxpj.bjfu.edu.cn
+
+jxpt.bjfu.edu.cn. 86400 IN A 202.204.115.59
+
+jybstbc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jyxxh.bjfu.edu.cn. 86400 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jyxxh.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+jyxxh.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+kyc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+kyc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+kyc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+kyc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lap.bjfu.edu.cn. 86400 IN A 202.204.121.190
+
+ldfx.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ldfx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ldfx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ldfx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ldhq.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lib.bjfu.edu.cn. 85517 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lib.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lib.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lib.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+linguistics.bjfu.edu.cn. 86400 IN CNAME waiyu.bjfu.edu.cn.
+waiyu.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+login.bjfu.edu.cn. 85517 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+login.bjfu.edu.cn. 7199 IN CNAME web1.bjfu.edu.cn.
+web1.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+ltx.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ltx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ltx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ltx.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lvqiao.bjfu.edu.cn. 86400 IN CNAME xinqiao.bjfu.edu.cn.
+xinqiao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lvqiao.bjfu.edu.cn. 7199 IN CNAME xinqiao.bjfu.edu.cn.
+xinqiao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lvqiao.bjfu.edu.cn. 7199 IN CNAME xinqiao.bjfu.edu.cn.
+xinqiao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lvqiao.bjfu.edu.cn. 7199 IN CNAME xinqiao.bjfu.edu.cn.
+xinqiao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+lxy.bjfu.edu.cn. 85519 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lxy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4014 IN A 202.204.112.10
+
+lysp.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+m.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+mail.bjfu.edu.cn. 4016 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+mail.bjfu.edu.cn. 4015 IN CNAME exmail.qq.com.
+exmail.qq.com. 59 IN A 59.37.96.29
+exmail.qq.com. 59 IN A 113.96.233.155
+
+marxism.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+marxism.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+marxism.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+marxism.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+mba.bjfu.edu.cn. 86400 IN A 202.204.121.54
+
+mba.bjfu.edu.cn. 7199 IN A 202.204.121.54
+
+mba.bjfu.edu.cn. 7199 IN A 202.204.121.54
+
+mba.bjfu.edu.cn. 7199 IN A 202.204.121.54
+
+mla.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+mla.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+mla.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+mon.bjfu.edu.cn. 86400 IN A 202.204.122.1
+
+mon.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+mon.bjfu.edu.cn. 7199 IN A 202.204.122.1
+
+ncee.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ncee.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ncee.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+newjwxt.bjfu.edu.cn. 86400 IN A 202.204.121.79
+
+newjwxt.bjfu.edu.cn. 7199 IN A 202.204.121.79
+
+newjwxt.bjfu.edu.cn. 7199 IN A 202.204.121.79
+
+newjwxt.bjfu.edu.cn. 7199 IN A 202.204.121.79
+
+news.bjfu.edu.cn. 85516 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+news.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+news.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+news.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+nic.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+nic.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+nic.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+nic.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+nms.bjfu.edu.cn. 86400 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+nms.bjfu.edu.cn. 7199 IN A 202.204.112.90
+
+oa.bjfu.edu.cn. 85516 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+oa.bjfu.edu.cn. 7199 IN A 202.204.112.107
+
+pay.bjfu.edu.cn. 86400 IN A 202.204.124.28
+
+pic.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+pingtai.bjfu.edu.cn. 7198 IN A 202.204.112.196
+
+portal.bjfu.edu.cn. 86400 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+portal.bjfu.edu.cn. 7199 IN A 202.204.112.24
+
+postdoctor.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+postdoctor.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+postdoctor.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+postdoctor.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+prunusmumegenome.bjfu.edu.cn. 86400 IN A 202.204.124.180
+
+psylinda.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+qq.bjfu.edu.cn. 85516 IN A 202.204.121.24
+
+qq.bjfu.edu.cn. 7199 IN A 202.204.121.24
+
+qq.bjfu.edu.cn. 7199 IN A 202.204.121.24
+
+qq.bjfu.edu.cn. 7199 IN A 202.204.121.24
+
+renwen.bjfu.edu.cn. 81556 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+renwen.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+rsc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+rsc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+rsc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+rsc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+s.bjfu.edu.cn. 6215 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s.bjfu.edu.cn. 6214 IN A 202.204.112.128
+
+s1.bjfu.edu.cn. 86400 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+s1.bjfu.edu.cn. 7199 IN A 202.204.112.124
+
+safe.bjfu.edu.cn. 86400 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+safe.bjfu.edu.cn. 7199 IN A 202.204.122.45
+
+sbc.bjfu.edu.cn. 85522 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sbc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sbc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sbc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+NXDOMAIN for search.bjfu.edu.cn
+
+shby.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+shby.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+shby.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+shuibao.bjfu.edu.cn. 85518 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+shuibao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+shuibao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+shuibao.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sjc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sjc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sjc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sjc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sjjx.bjfu.edu.cn. 86400 IN A 202.204.121.136
+
+sjjx.bjfu.edu.cn. 7199 IN A 202.204.121.136
+
+sjjx.bjfu.edu.cn. 7199 IN A 202.204.121.136
+
+sjjx.bjfu.edu.cn. 7199 IN A 202.204.121.136
+
+sola.bjfu.edu.cn. 85518 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sports.bjfu.edu.cn. 85518 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sports.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sports.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+sports.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+ss2.bjfu.edu.cn. 86400 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+ss2.bjfu.edu.cn. 7199 IN A 202.204.112.67
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+NXDOMAIN for stu.bjfu.edu.cn
+
+styzrbh.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+summerschool.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+summerschool.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+summerschool.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+summerschool.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sus.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for sztz.bjfu.edu.cn
+
+NXDOMAIN for mail.teacher.bjfu.edu.cn
+
+NXDOMAIN for mail.teacher.bjfu.edu.cn
+
+NXDOMAIN for mail.teacher.bjfu.edu.cn
+
+NXDOMAIN for mail.teacher.bjfu.edu.cn
+
+test.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+tzb.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+tzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+tzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+tzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+v.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+v6.bjfu.edu.cn. 86400 IN A 202.204.112.196
+
+v6.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+v6.bjfu.edu.cn. 7199 IN A 202.204.112.196
+
+vpn.bjfu.edu.cn. 86400 IN A 202.204.122.39
+
+vpn.bjfu.edu.cn. 7199 IN A 202.204.122.39
+
+vpn.bjfu.edu.cn. 7199 IN A 202.204.122.39
+
+vpnhelp.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+vrm.bjfu.edu.cn. 86400 IN A 202.204.121.118
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+waiyu.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+NXDOMAIN for wap.bjfu.edu.cn
+
+wlab.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wlab.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www2.bjfu.edu.cn. 85513 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www2.bjfu.edu.cn. 7199 IN A 202.204.112.71
+
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+wxcas.bjfu.edu.cn. 5100 IN A 202.204.112.152
+
+xcb.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xgxt.bjfu.edu.cn. 85520 IN A 202.204.121.19
+
+xgxt.bjfu.edu.cn. 7199 IN A 202.204.121.19
+
+xgxt.bjfu.edu.cn. 7199 IN A 202.204.121.19
+
+xgxt.bjfu.edu.cn. 7199 IN A 202.204.121.19
+
+xinqiao.bjfu.edu.cn. 7197 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xsc.bjfu.edu.cn. 85514 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4011 IN A 202.204.112.10
+
+xsc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4011 IN A 202.204.112.10
+
+xsc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4011 IN A 202.204.112.10
+
+xsc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 4011 IN A 202.204.112.10
+
+xxdt.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxdt.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxdt.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxdt.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxgk.bjfu.edu.cn. 85514 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxgk.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxgk.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xxgk.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xyy.bjfu.edu.cn. 86400 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xyy.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xyy.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+xyy.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yjsjy.bjfu.edu.cn. 85514 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yjsjy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yjsjy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yjsjy.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yuanlin.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yuanlin.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yuanlin.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yuanlin.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yuanqing.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+yzb.bjfu.edu.cn. 85514 IN A 202.204.124.253
+
+yzb.bjfu.edu.cn. 7199 IN A 202.204.124.253
+
+yzb.bjfu.edu.cn. 7199 IN A 202.204.124.253
+
+bz.yzb.bjfu.edu.cn. 86400 IN A 202.204.124.149
+
+ds.yzb.bjfu.edu.cn. 86400 IN A 202.204.124.253
+
+tm.yzb.bjfu.edu.cn. 86400 IN A 202.204.124.253
+
+zhaopin.bjfu.edu.cn. 85514 IN A 202.204.121.27
+
+zhaopin.bjfu.edu.cn. 7199 IN A 202.204.121.27
+
+zhaopin.bjfu.edu.cn. 7199 IN A 202.204.121.27
+
+zhaopin.bjfu.edu.cn. 7199 IN A 202.204.121.27
+
+zjc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zjc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zjc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zjc.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zrbhq.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zrbhq.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zrbhq.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zrbhq.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zsb.bjfu.edu.cn. 85514 IN A 202.204.121.169
+
+zsb.bjfu.edu.cn. 7199 IN A 202.204.121.169
+
+zsb.bjfu.edu.cn. 7199 IN A 202.204.121.169
+
+zsb.bjfu.edu.cn. 7199 IN A 202.204.121.169
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+NXDOMAIN for zsjy.bjfu.edu.cn
+
+zwc.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+api.zwc.bjfu.edu.cn. 86400 IN A 202.204.121.164
+
+api.zwc.bjfu.edu.cn. 7199 IN A 202.204.121.164
+
+api.zwc.bjfu.edu.cn. 7199 IN A 202.204.121.164
+
+api.zwc.bjfu.edu.cn. 7199 IN A 202.204.121.164
+
+gxyf.zwc.bjfu.edu.cn. 86400 IN A 202.204.121.165
+
+stu.zwc.bjfu.edu.cn. 86400 IN A 202.204.121.164
+
+zzb.bjfu.edu.cn. 86400 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+
+zzb.bjfu.edu.cn. 7199 IN CNAME www3.bjfu.edu.cn.
+www3.bjfu.edu.cn. 7199 IN CNAME www.bjfu.edu.cn.
+www.bjfu.edu.cn. 7199 IN A 202.204.112.10
+

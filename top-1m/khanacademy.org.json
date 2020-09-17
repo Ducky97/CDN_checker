@@ -1,0 +1,119 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "51675",
+            "Content-Type": "text/html; charset=utf-8",
+            "X-Powered-By": "Express",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "no-store, must-revalidate",
+            "ETag": "W/\"35b7f-vndkFwrzN9Ov4AbWcVArj3R47wc\"",
+            "Content-Encoding": "gzip",
+            "Server": "Google Frontend",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 11:02:51 GMT",
+            "Age": "12747",
+            "X-Served-By": "cache-mdw17340-MDW, cache-sin18027-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "2, 20",
+            "X-Timer": "S1600254171.144653,VS0,VE1",
+            "Vary": "Accept-Encoding, x-ka-is-e2e, x-ka-is-phone, x-ka-is-tablet, x-ka-is-unsupported-browser, x-ka-is-ios, x-fastly-country, x-ka-lang, x-ka-locale, x-ka-locale-status, x-ka-curriculum, x-ka-has-any-permissions, x-ka-may-be-under13, x-ka-is-phantom, x-ka-static-version, x-ka-published-content-version",
+            "X-Cloud-Trace-Context": "d1ef47a1-ea4e-462e-a9e3-9a4e26b78e12",
+            "Strict-Transport-Security": "max-age=300; includeSubDomains; preload"
+        },
+        "nslookup": {
+            "khanacademy.org": [
+                "54.192.66.114",
+                "54.192.66.4",
+                "54.192.66.125",
+                "54.192.66.86"
+            ],
+            "www.khanacademy.org": [
+                "151.101.1.42",
+                "151.101.65.42",
+                "151.101.129.42",
+                "151.101.193.42"
+            ]
+        },
+        "ping": {
+            "khanacademy.org": [
+                "13.35.43.81",
+                "13.35.43.80",
+                "13.35.43.4"
+            ],
+            "www.khanacademy.org": [
+                "151.101.9.42"
+            ]
+        },
+        "CNAME": {
+            "www.khanacademy.org": [
+                "prod.khan.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.khanacademy.org": [
+                "151.101.9.42"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "51675",
+            "Content-Type": "text/html; charset=utf-8",
+            "X-Powered-By": "Express",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "no-store, must-revalidate",
+            "ETag": "W/\"35b7f-vndkFwrzN9Ov4AbWcVArj3R47wc\"",
+            "Content-Encoding": "gzip",
+            "Server": "Google Frontend",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 11:02:51 GMT",
+            "Age": "12748",
+            "X-Served-By": "cache-mdw17340-MDW, cache-sin18050-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "2, 3",
+            "X-Timer": "S1600254172.850726,VS0,VE1",
+            "Vary": "Accept-Encoding, x-ka-is-e2e, x-ka-is-phone, x-ka-is-tablet, x-ka-is-unsupported-browser, x-ka-is-ios, x-fastly-country, x-ka-lang, x-ka-locale, x-ka-locale-status, x-ka-curriculum, x-ka-has-any-permissions, x-ka-may-be-under13, x-ka-is-phantom, x-ka-static-version, x-ka-published-content-version",
+            "X-Cloud-Trace-Context": "5ef2e092-d88f-4a25-a0e3-9de2aef0f99a",
+            "Strict-Transport-Security": "max-age=300; includeSubDomains; preload"
+        },
+        "nslookup": {
+            "khanacademy.org": [
+                "54.192.66.114",
+                "54.192.66.4",
+                "54.192.66.125",
+                "54.192.66.86"
+            ],
+            "www.khanacademy.org": [
+                "151.101.1.42",
+                "151.101.65.42",
+                "151.101.129.42",
+                "151.101.193.42"
+            ]
+        },
+        "ping": {
+            "khanacademy.org": [
+                "13.35.43.81",
+                "13.35.43.80"
+            ],
+            "www.khanacademy.org": [
+                "151.101.9.42"
+            ]
+        },
+        "CNAME": {
+            "www.khanacademy.org": [
+                "prod.khan.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.khanacademy.org": [
+                "151.101.9.42"
+            ]
+        }
+    }
+}

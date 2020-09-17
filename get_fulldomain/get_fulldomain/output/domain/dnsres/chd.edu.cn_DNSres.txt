@@ -1,0 +1,2049 @@
+chd.edu.cn. 600 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+chd.edu.cn. 599 IN A 202.117.64.152
+
+111-highway.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 599 IN A 202.117.64.154
+
+111-highway.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 599 IN A 202.117.64.154
+
+111its.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 599 IN A 202.117.64.10
+
+111its.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 599 IN A 202.117.64.10
+
+123.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 599 IN A 202.117.64.155
+
+airpollu.chd.edu.cn. 600 IN CNAME jpkc.chd.edu.cn.
+jpkc.chd.edu.cn. 599 IN A 202.117.64.12
+
+app.chd.edu.cn. 600 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+app.chd.edu.cn. 599 IN A 218.195.56.184
+
+aqjy.chd.edu.cn. 600 IN A 202.117.64.163
+
+aqjy.chd.edu.cn. 599 IN A 202.117.64.163
+
+aqjy.chd.edu.cn. 599 IN A 202.117.64.163
+
+aqjy.chd.edu.cn. 599 IN A 202.117.64.163
+
+aqjy.chd.edu.cn. 599 IN A 202.117.64.163
+
+ase.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 599 IN A 202.117.64.42
+
+ase.chd.edu.cn. 599 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 599 IN A 202.117.64.42
+
+bbselfservice.chd.edu.cn. 600 IN A 218.195.56.36
+
+bbselfservice.chd.edu.cn. 599 IN A 218.195.56.36
+
+bbselfservice.chd.edu.cn. 599 IN A 218.195.56.36
+
+bbselfservice.chd.edu.cn. 599 IN A 218.195.56.36
+
+bbselfservice.chd.edu.cn. 599 IN A 218.195.56.36
+
+bbselfservice.chd.edu.cn. 599 IN A 218.195.56.36
+
+bigdata.chd.edu.cn. 600 IN A 202.117.64.189
+
+bigdata.chd.edu.cn. 599 IN A 202.117.64.189
+
+bigdata.chd.edu.cn. 599 IN A 202.117.64.189
+
+bigdata.chd.edu.cn. 599 IN A 202.117.64.189
+
+bkjw.chd.edu.cn. 600 IN A 218.195.56.239
+
+bkjw.chd.edu.cn. 599 IN A 218.195.56.239
+
+bkjw.chd.edu.cn. 599 IN A 218.195.56.239
+
+bkjw.chd.edu.cn. 599 IN A 218.195.56.239
+
+bkjw.chd.edu.cn. 599 IN A 218.195.56.239
+
+bkjw.chd.edu.cn. 599 IN A 218.195.56.239
+
+bkjw.chd.edu.cn. 599 IN A 218.195.56.239
+
+bksjw.chd.edu.cn. 600 IN A 202.117.64.26
+
+bksjw.chd.edu.cn. 599 IN A 202.117.64.26
+
+bksjw.chd.edu.cn. 599 IN A 202.117.64.26
+
+bksjw.chd.edu.cn. 599 IN A 202.117.64.26
+
+blxqgz.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 598 IN A 202.117.64.42
+
+bridge.chd.edu.cn. 600 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+cacirc.chd.edu.cn. 60 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 59 IN A 202.117.64.155
+
+card.chd.edu.cn. 600 IN A 192.168.255.101
+
+card.chd.edu.cn. 599 IN A 192.168.255.101
+
+card.chd.edu.cn. 599 IN A 192.168.255.101
+
+card.chd.edu.cn. 599 IN A 192.168.255.101
+
+cavtest.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 595 IN A 202.117.64.154
+
+cctem.chd.edu.cn. 600 IN CNAME jgxy.chd.edu.cn.
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+cddb.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 599 IN A 202.117.64.35
+
+cdfz.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+cdjx.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 599 IN A 202.117.64.15
+
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+celiang.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 599 IN A 202.117.64.15
+
+chdjgdw.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 599 IN A 202.117.64.14
+
+chdportal.chd.edu.cn. 600 IN A 218.195.56.159
+
+chdportal.chd.edu.cn. 599 IN A 218.195.56.159
+
+chdportal.chd.edu.cn. 599 IN A 218.195.56.159
+
+chdportal.chd.edu.cn. 599 IN A 218.195.56.159
+
+chdportal.chd.edu.cn. 599 IN A 218.195.56.159
+
+chdportal.chd.edu.cn. 599 IN A 218.195.56.159
+
+chdwt.chd.edu.cn. 600 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 597 IN A 202.117.64.41
+
+chdwt.chd.edu.cn. 599 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 597 IN A 202.117.64.41
+
+cictp2020.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 595 IN A 202.117.64.42
+
+cldl.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 594 IN A 202.117.64.154
+
+cllab.chd.edu.cn. 600 IN CNAME gzcbm.chd.edu.cn.
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+clxy.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+clxy.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+cmcsyw.chd.edu.cn. 600 IN CNAME gzcbm.chd.edu.cn.
+gzcbm.chd.edu.cn. 598 IN A 202.117.64.13
+
+cmis.chd.edu.cn. 600 IN A 202.117.65.13
+
+cmis.chd.edu.cn. 599 IN A 202.117.65.13
+
+cmis.chd.edu.cn. 599 IN A 202.117.65.13
+
+cmis.chd.edu.cn. 599 IN A 202.117.65.13
+
+cmis.chd.edu.cn. 599 IN A 202.117.65.13
+
+cmis.chd.edu.cn. 599 IN A 202.117.65.13
+
+cmis.chd.edu.cn. 599 IN A 202.117.65.13
+
+chd.edu.cn<BR>www.chd.edu.cn. 0 IN A 220.250.64.225
+
+chd.edu.cn<BR>www.chd.edu.cn. 60 IN A 220.250.64.225
+
+chd.edu.cn<BR>www.chd.edu.cn. 59 IN A 220.250.64.225
+
+itplab.chd.edu.cnapp.chd.edu.cn. 0 IN A 220.250.64.225
+
+vpntest.chd.edu.cnhr.chd.edu.cn. 0 IN A 220.250.64.225
+
+register.chd.edu.cnictimsys.chd.edu.cn. 0 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cnpan.chd.edu.cn. 0 IN A 220.250.64.225
+
+jpkc.chd.edu.cnyjs.chd.edu.cn. 0 IN A 220.250.64.225
+
+crjxjy.chd.edu.cn. 600 IN A 202.117.64.76
+
+crjxjy.chd.edu.cn. 599 IN A 202.117.64.76
+
+crjxjy.chd.edu.cn. 599 IN A 202.117.64.76
+
+crjxjy.chd.edu.cn. 599 IN A 202.117.64.76
+
+crjxjy.chd.edu.cn. 599 IN A 202.117.64.76
+
+crjxjy.chd.edu.cn. 599 IN A 202.117.64.76
+
+csjg.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 592 IN A 202.117.64.42
+
+csjs.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 591 IN A 202.117.64.10
+
+csjs.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 591 IN A 202.117.64.10
+
+cxsjjx.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 591 IN A 202.117.64.10
+
+cyc.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 594 IN A 202.117.64.14
+
+dag.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+dag.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+dag.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+dag.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+dag.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+dag.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+www.dangxiao.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+dcvses.chd.edu.cn. 600 IN A 202.117.64.166
+
+dcvses.chd.edu.cn. 599 IN A 202.117.64.166
+
+dcvses.chd.edu.cn. 599 IN A 202.117.64.166
+
+dcvses.chd.edu.cn. 599 IN A 202.117.64.166
+
+dcxy.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 590 IN A 202.117.64.10
+
+dcxy.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 590 IN A 202.117.64.10
+
+dcyw.chd.edu.cn. 600 IN CNAME gzcbm.chd.edu.cn.
+gzcbm.chd.edu.cn. 595 IN A 202.117.64.13
+
+dektapi.chd.edu.cn. 600 IN A 202.117.64.198
+
+dektapi.chd.edu.cn. 599 IN A 202.117.64.198
+
+dektapi.chd.edu.cn. 599 IN A 202.117.64.198
+
+dektapi.chd.edu.cn. 599 IN A 202.117.64.198
+
+didy.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 599 IN A 202.117.64.155
+
+didy.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 599 IN A 202.117.64.155
+
+distar.chd.edu.cn. 600 IN A 218.195.56.179
+
+distar.chd.edu.cn. 599 IN A 218.195.56.179
+
+distar.chd.edu.cn. 599 IN A 218.195.56.179
+
+distar.chd.edu.cn. 599 IN A 218.195.56.179
+
+distar.chd.edu.cn. 599 IN A 218.195.56.179
+
+distar.chd.edu.cn. 599 IN A 218.195.56.179
+
+djtdjc.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 599 IN A 202.117.64.15
+
+dlysygc.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 599 IN A 202.117.64.33
+
+dns1.chd.edu.cn. 600 IN A 202.117.64.1
+
+dns1.chd.edu.cn. 599 IN A 202.117.64.1
+
+dns1.chd.edu.cn. 599 IN A 202.117.64.1
+
+dns1.chd.edu.cn. 599 IN A 202.117.64.1
+
+dns1.chd.edu.cn. 599 IN A 202.117.64.1
+
+dns2.chd.edu.cn. 600 IN A 218.195.56.1
+
+dns2.chd.edu.cn. 599 IN A 218.195.56.1
+
+dns2.chd.edu.cn. 599 IN A 218.195.56.1
+
+dns2.chd.edu.cn. 599 IN A 218.195.56.1
+
+dns2.chd.edu.cn. 599 IN A 218.195.56.1
+
+dns2.chd.edu.cn. 599 IN A 218.195.56.1
+
+dns2.chd.edu.cn. 599 IN A 218.195.56.1
+
+doicu.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 599 IN A 202.117.64.155
+
+doicu.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 599 IN A 202.117.64.155
+
+dosfiac.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 599 IN A 202.117.64.35
+
+dosfiac.chd.edu.cn. 599 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 599 IN A 202.117.64.35
+
+dpstar.chd.edu.cn. 600 IN A 218.195.56.171
+
+dpstar.chd.edu.cn. 599 IN A 218.195.56.171
+
+dpstar.chd.edu.cn. 599 IN A 218.195.56.171
+
+dpstar.chd.edu.cn. 599 IN A 218.195.56.171
+
+dpstar.chd.edu.cn. 599 IN A 218.195.56.171
+
+dpstar.chd.edu.cn. 599 IN A 218.195.56.171
+
+dqgc.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 599 IN A 202.117.64.33
+
+dxsw.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 599 IN A 202.117.64.10
+
+dxsyst.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 598 IN A 202.117.64.35
+
+ec.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 598 IN A 202.117.64.15
+
+ec.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 598 IN A 202.117.64.15
+
+ecm.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 599 IN A 202.117.64.14
+
+eelab.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 598 IN A 202.117.64.155
+
+eem.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 599 IN A 202.117.64.42
+
+egjhz.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 598 IN A 202.117.64.33
+
+ehall.chd.edu.cn. 600 IN A 202.117.64.134
+
+ehall.chd.edu.cn. 599 IN A 202.117.64.134
+
+ehall.chd.edu.cn. 599 IN A 202.117.64.134
+
+ehall.chd.edu.cn. 599 IN A 202.117.64.134
+
+ehall.chd.edu.cn. 599 IN A 202.117.64.134
+
+em.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 599 IN A 202.117.64.42
+
+en.chd.edu.cn. 60 IN A 202.117.64.39
+
+en.chd.edu.cn. 59 IN A 202.117.64.39
+
+en.chd.edu.cn. 59 IN A 202.117.64.39
+
+en.chd.edu.cn. 59 IN A 202.117.64.39
+
+en.chd.edu.cn. 59 IN A 202.117.64.39
+
+en.chd.edu.cn. 59 IN A 202.117.64.39
+
+engine.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 598 IN A 202.117.64.42
+
+enxgb.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 599 IN A 202.117.64.154
+
+esec.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+esec.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 597 IN A 202.117.64.15
+
+evaluation.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 597 IN A 202.117.64.33
+
+evaluation.chd.edu.cn. 599 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 597 IN A 202.117.64.33
+
+fdjyl.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 598 IN A 202.117.64.10
+
+fdjyl.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 598 IN A 202.117.64.10
+
+fuxiao.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 599 IN A 202.117.64.34
+
+fuxiao.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 599 IN A 202.117.64.34
+
+fzgh.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 598 IN A 202.117.64.14
+
+fzgh.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 598 IN A 202.117.64.14
+
+gac.chd.edu.cn. 600 IN CNAME kjjs.chd.edu.cn.
+kjjs.chd.edu.cn. 599 IN A 202.117.64.51
+
+gac.chd.edu.cn. 599 IN CNAME kjjs.chd.edu.cn.
+kjjs.chd.edu.cn. 599 IN A 202.117.64.51
+
+gcjxgz.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 596 IN A 202.117.64.33
+
+gcjxxn.chd.edu.cn. 600 IN A 202.117.64.219
+
+gcsjy.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 596 IN A 202.117.64.15
+
+gcxlzx.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 596 IN A 202.117.64.155
+
+geoe.chd.edu.cn. 600 IN A 202.117.64.101
+
+geoe.chd.edu.cn. 599 IN A 202.117.64.101
+
+geoe.chd.edu.cn. 599 IN A 202.117.64.101
+
+geoe.chd.edu.cn. 599 IN A 202.117.64.101
+
+geoe.chd.edu.cn. 599 IN A 202.117.64.101
+
+geoe.chd.edu.cn. 599 IN A 202.117.64.101
+
+gfs.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 597 IN A 202.117.64.14
+
+gjgyl.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 597 IN A 202.117.64.10
+
+gjhz.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 596 IN A 202.117.64.35
+
+gjhz.chd.edu.cn. 599 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 596 IN A 202.117.64.35
+
+gjwl.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 596 IN A 202.117.64.14
+
+gjwl.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 596 IN A 202.117.64.14
+
+glxb.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 595 IN A 202.117.64.15
+
+glyw.chd.edu.cn. 600 IN CNAME gzcbm.chd.edu.cn.
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+www.graduate.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 596 IN A 202.117.64.10
+
+gzc.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 595 IN A 202.117.64.155
+
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+gzcbm.chd.edu.cn. 599 IN A 202.117.64.13
+
+gzczb.chd.edu.cn. 600 IN A 202.117.64.124
+
+gzczb.chd.edu.cn. 599 IN A 202.117.64.124
+
+gzczb.chd.edu.cn. 599 IN A 202.117.64.124
+
+gzczb.chd.edu.cn. 599 IN A 202.117.64.124
+
+gzczb.chd.edu.cn. 599 IN A 202.117.64.124
+
+gzzdjs.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 594 IN A 202.117.64.15
+
+hello.chd.edu.cn. 600 IN A 218.195.56.233
+
+hello.chd.edu.cn. 599 IN A 218.195.56.233
+
+hello.chd.edu.cn. 599 IN A 218.195.56.233
+
+hello.chd.edu.cn. 599 IN A 218.195.56.233
+
+hello.chd.edu.cn. 599 IN A 218.195.56.233
+
+hello.chd.edu.cn. 599 IN A 218.195.56.233
+
+hello.chd.edu.cn. 599 IN A 218.195.56.233
+
+hgyw.chd.edu.cn. 600 IN CNAME gzcbm.chd.edu.cn.
+gzcbm.chd.edu.cn. 598 IN A 202.117.64.13
+
+hhx.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 594 IN A 202.117.64.15
+
+highway.chd.edu.cn. 60 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 59 IN A 202.117.64.15
+
+highway.chd.edu.cn. 59 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 59 IN A 202.117.64.15
+
+hntjg.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 595 IN A 202.117.64.14
+
+hq.chd.edu.cn. 594 IN A 202.117.64.33
+
+hq.chd.edu.cn. 594 IN A 202.117.64.33
+
+hq.chd.edu.cn. 594 IN A 202.117.64.33
+
+hq.chd.edu.cn. 594 IN A 202.117.64.33
+
+hq.chd.edu.cn. 594 IN A 202.117.64.33
+
+hqc.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 594 IN A 202.117.64.15
+
+hqc.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 594 IN A 202.117.64.15
+
+hqjt.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 595 IN A 202.117.64.10
+
+hr.chd.edu.cn. 600 IN A 218.195.56.232
+
+hr.chd.edu.cn. 599 IN A 218.195.56.232
+
+hr.chd.edu.cn. 599 IN A 218.195.56.232
+
+hr.chd.edu.cn. 599 IN A 218.195.56.232
+
+hr.chd.edu.cn. 599 IN A 218.195.56.232
+
+hr.chd.edu.cn. 599 IN A 218.195.56.232
+
+hydrology.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 594 IN A 202.117.64.155
+
+ictimsys.chd.edu.cn. 600 IN A 202.117.64.90
+
+ictimsys.chd.edu.cn. 599 IN A 202.117.64.90
+
+ictimsys.chd.edu.cn. 599 IN A 202.117.64.90
+
+ids.chd.edu.cn. 600 IN A 218.195.56.250
+
+ids.chd.edu.cn. 599 IN A 218.195.56.250
+
+ids.chd.edu.cn. 599 IN A 218.195.56.250
+
+ids.chd.edu.cn. 599 IN A 218.195.56.250
+
+ids.chd.edu.cn. 599 IN A 218.195.56.250
+
+ids.chd.edu.cn. 599 IN A 218.195.56.250
+
+ids.chd.edu.cn. 599 IN A 218.195.56.250
+
+ids1.chd.edu.cn. 600 IN A 218.195.56.148
+
+ids1.chd.edu.cn. 599 IN A 218.195.56.148
+
+ids1.chd.edu.cn. 599 IN A 218.195.56.148
+
+ids1.chd.edu.cn. 599 IN A 218.195.56.148
+
+ids1.chd.edu.cn. 599 IN A 218.195.56.148
+
+ids1.chd.edu.cn. 599 IN A 218.195.56.148
+
+ids2.chd.edu.cn. 600 IN A 218.195.56.147
+
+ids2.chd.edu.cn. 599 IN A 218.195.56.147
+
+ids2.chd.edu.cn. 599 IN A 218.195.56.147
+
+ids2.chd.edu.cn. 599 IN A 218.195.56.147
+
+ids2.chd.edu.cn. 599 IN A 218.195.56.147
+
+ids2.chd.edu.cn. 599 IN A 218.195.56.147
+
+iec.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 594 IN A 202.117.64.14
+
+www.ies.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 593 IN A 202.117.64.155
+
+ilsc.chd.edu.cn. 60 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 59 IN A 202.117.64.41
+
+ilsc.chd.edu.cn. 59 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 59 IN A 202.117.64.41
+
+ims.chd.edu.cn. 600 IN A 202.117.64.136
+
+ims.chd.edu.cn. 599 IN A 202.117.64.136
+
+ims.chd.edu.cn. 599 IN A 202.117.64.136
+
+ims.chd.edu.cn. 599 IN A 202.117.64.136
+
+ims.chd.edu.cn. 599 IN A 202.117.64.136
+
+it.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 594 IN A 202.117.64.34
+
+it.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 594 IN A 202.117.64.34
+
+itits.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 593 IN A 202.117.64.33
+
+itits.chd.edu.cn. 599 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 593 IN A 202.117.64.33
+
+itplab.chd.edu.cn. 600 IN A 202.117.67.41
+
+itplab.chd.edu.cn. 599 IN A 202.117.67.41
+
+itplab.chd.edu.cn. 599 IN A 202.117.67.41
+
+itplab.chd.edu.cn. 599 IN A 202.117.67.41
+
+itplab.chd.edu.cn. 599 IN A 202.117.67.41
+
+itsm.chd.edu.cn. 600 IN A 218.195.56.76
+
+itsm.chd.edu.cn. 599 IN A 218.195.56.76
+
+itsm.chd.edu.cn. 599 IN A 218.195.56.76
+
+itsm.chd.edu.cn. 599 IN A 218.195.56.76
+
+itsm.chd.edu.cn. 599 IN A 218.195.56.76
+
+itsm.chd.edu.cn. 599 IN A 218.195.56.76
+
+jace.chd.edu.cn. 600 IN CNAME jese.chd.edu.cn.
+jese.chd.edu.cn. 599 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 599 IN A 202.117.64.105
+
+jcc.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 593 IN A 202.117.64.154
+
+jccids.chd.edu.cn. 600 IN A 202.117.64.5
+
+jccids.chd.edu.cn. 599 IN A 202.117.64.5
+
+jccids.chd.edu.cn. 599 IN A 202.117.64.5
+
+jccids.chd.edu.cn. 599 IN A 202.117.64.5
+
+jccids.chd.edu.cn. 599 IN A 202.117.64.5
+
+jccids.chd.edu.cn. 599 IN A 202.117.64.5
+
+jese.chd.edu.cn. 599 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 599 IN A 202.117.64.105
+
+jese.chd.edu.cn. 599 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 599 IN A 202.117.64.105
+
+jgclass.chd.edu.cn. 600 IN CNAME jgxy.chd.edu.cn.
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jgkz.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 592 IN A 202.117.64.14
+
+jglab.chd.edu.cn. 600 IN CNAME jgxy.chd.edu.cn.
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jglx.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 593 IN A 202.117.64.34
+
+jgsjjs.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 591 IN A 202.117.64.33
+
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jgxy.chd.edu.cn. 599 IN A 202.117.64.196
+
+jiaotong.chd.edu.cn. 600 IN A 202.117.64.68
+
+jiaotong.chd.edu.cn. 599 IN A 202.117.64.68
+
+jiaotong.chd.edu.cn. 599 IN A 202.117.64.68
+
+jiaotong.chd.edu.cn. 599 IN A 202.117.64.68
+
+jiaotong.chd.edu.cn. 599 IN A 202.117.64.68
+
+jiaotongguihua.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 591 IN A 202.117.64.15
+
+jjc.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 593 IN A 202.117.64.154
+
+jjc.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 593 IN A 202.117.64.154
+
+jpkc.chd.edu.cn. 581 IN A 202.117.64.12
+
+jpkc.chd.edu.cn. 581 IN A 202.117.64.12
+
+jpkc.chd.edu.cn. 581 IN A 202.117.64.12
+
+jpkc.chd.edu.cn. 581 IN A 202.117.64.12
+
+jpkc.chd.edu.cn. 581 IN A 202.117.64.12
+
+js.chd.edu.cn. 600 IN A 202.117.64.168
+
+js.chd.edu.cn. 599 IN A 202.117.64.168
+
+jsgzb.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 590 IN A 202.117.64.155
+
+jsjwl.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 591 IN A 202.117.64.14
+
+jsjyl.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 591 IN A 202.117.64.14
+
+jsjyl.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 591 IN A 202.117.64.14
+
+jsjyy.chd.edu.cn. 600 IN A 202.117.64.93
+
+jsjyy.chd.edu.cn. 599 IN A 202.117.64.93
+
+jsjyy.chd.edu.cn. 599 IN A 202.117.64.93
+
+jsjyy.chd.edu.cn. 599 IN A 202.117.64.93
+
+jspsgdxt1.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 590 IN A 202.117.64.33
+
+jtgcx.chd.edu.cn. 593 IN A 202.117.64.34
+
+jtgcx.chd.edu.cn. 593 IN A 202.117.64.34
+
+jtgcx.chd.edu.cn. 593 IN A 202.117.64.34
+
+jtgcx.chd.edu.cn. 593 IN A 202.117.64.34
+
+jtgcx.chd.edu.cn. 593 IN A 202.117.64.34
+
+jtgh.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 591 IN A 202.117.64.14
+
+jtsfzx.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 591 IN A 202.117.64.154
+
+jtte.chd.edu.cn. 597 IN A 202.117.64.105
+
+jtte.chd.edu.cn. 597 IN A 202.117.64.105
+
+jtte.chd.edu.cn. 597 IN A 202.117.64.105
+
+jtte.chd.edu.cn. 597 IN A 202.117.64.105
+
+jtte.chd.edu.cn. 597 IN A 202.117.64.105
+
+jtxny.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 591 IN A 202.117.64.154
+
+jtxxlcg.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 590 IN A 202.117.64.10
+
+jtyszyk.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 590 IN A 202.117.64.10
+
+jtyszyk.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 590 IN A 202.117.64.10
+
+www.jwc.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 591 IN A 202.117.64.34
+
+jws.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 590 IN A 202.117.64.10
+
+www.jwzx.chd.edu.cn. 60 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 59 IN A 202.117.64.10
+
+jxcg.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 588 IN A 202.117.64.155
+
+jxdzgc.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 589 IN A 202.117.64.35
+
+jxjy.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 588 IN A 202.117.64.15
+
+jxpg.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 590 IN A 202.117.64.34
+
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jxyl.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 588 IN A 202.117.64.15
+
+jy.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jy.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jyxzz.chd.edu.cn. 600 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 599 IN A 202.117.64.41
+
+jyy.chd.edu.cn. 600 IN A 202.117.64.115
+
+jyzx.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jyzx.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jyzx.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 590 IN A 202.117.64.154
+
+jzgc.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 589 IN A 202.117.64.14
+
+jzgc.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 589 IN A 202.117.64.14
+
+jzjl.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 588 IN A 202.117.64.14
+
+jzjl.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 588 IN A 202.117.64.14
+
+jzx.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 587 IN A 202.117.64.155
+
+jzx.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 587 IN A 202.117.64.155
+
+kc.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 588 IN A 202.117.64.10
+
+kj.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 587 IN A 202.117.64.15
+
+kjgl.chd.edu.cn. 600 IN A 202.117.64.80
+
+kjgl.chd.edu.cn. 599 IN A 202.117.64.80
+
+kjgl.chd.edu.cn. 599 IN A 202.117.64.80
+
+kjgl.chd.edu.cn. 599 IN A 202.117.64.80
+
+kjgl.chd.edu.cn. 599 IN A 202.117.64.80
+
+kjjs.chd.edu.cn. 590 IN A 202.117.64.51
+
+kjjs.chd.edu.cn. 590 IN A 202.117.64.51
+
+kjjs.chd.edu.cn. 590 IN A 202.117.64.51
+
+kjjs.chd.edu.cn. 590 IN A 202.117.64.51
+
+kjjs.chd.edu.cn. 590 IN A 202.117.64.51
+
+klsh.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 589 IN A 202.117.64.154
+
+lib.chd.edu.cn. 600 IN A 202.117.71.169
+
+lib.chd.edu.cn. 599 IN A 202.117.71.169
+
+lib.chd.edu.cn. 599 IN A 202.117.71.169
+
+lib.chd.edu.cn. 599 IN A 202.117.71.169
+
+lib.chd.edu.cn. 599 IN A 202.117.71.169
+
+lib.chd.edu.cn. 599 IN A 202.117.71.169
+
+lib.chd.edu.cn. 599 IN A 202.117.71.169
+
+lims.chd.edu.cn. 600 IN A 202.117.64.160
+
+lims.chd.edu.cn. 599 IN A 202.117.64.160
+
+lims.chd.edu.cn. 599 IN A 202.117.64.160
+
+lims.chd.edu.cn. 599 IN A 202.117.64.160
+
+lituichu.chd.edu.cn. 600 IN CNAME kjjs.chd.edu.cn.
+kjjs.chd.edu.cn. 589 IN A 202.117.64.51
+
+lixiao.chd.edu.cn. 600 IN A 202.117.64.45
+
+lixiao.chd.edu.cn. 599 IN A 202.117.64.45
+
+lixiao.chd.edu.cn. 599 IN A 202.117.64.45
+
+lixiao.chd.edu.cn. 599 IN A 202.117.64.45
+
+lllx.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 586 IN A 202.117.64.15
+
+lmd.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 587 IN A 202.117.64.35
+
+lwtj.chd.edu.cn. 600 IN A 202.117.71.163
+
+lwtj.chd.edu.cn. 599 IN A 202.117.71.163
+
+lwtj.chd.edu.cn. 599 IN A 202.117.71.163
+
+lwtj.chd.edu.cn. 599 IN A 202.117.71.163
+
+lwtj.chd.edu.cn. 599 IN A 202.117.71.163
+
+lwtj.chd.edu.cn. 599 IN A 202.117.71.163
+
+lxsy.chd.edu.cn. 585 IN A 202.117.64.155
+
+lxsy.chd.edu.cn. 585 IN A 202.117.64.155
+
+lxsy.chd.edu.cn. 585 IN A 202.117.64.155
+
+lxsy.chd.edu.cn. 585 IN A 202.117.64.155
+
+lxsy.chd.edu.cn. 585 IN A 202.117.64.155
+
+lxy.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 586 IN A 202.117.64.14
+
+lxy.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 586 IN A 202.117.64.14
+
+mail.chd.edu.cn. 600 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 413 IN A 123.58.177.239
+
+mail.chd.edu.cn. 599 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 413 IN A 123.58.177.239
+
+mailhelp.chd.edu.cn. 600 IN A 218.195.56.130
+
+mailhelp.chd.edu.cn. 599 IN A 218.195.56.130
+
+mailhelp.chd.edu.cn. 599 IN A 218.195.56.130
+
+mailhelp.chd.edu.cn. 599 IN A 218.195.56.130
+
+mailhelp.chd.edu.cn. 599 IN A 218.195.56.130
+
+mailhelp.chd.edu.cn. 599 IN A 218.195.56.130
+
+mailhelp.chd.edu.cn. 599 IN A 218.195.56.130
+
+mba.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 587 IN A 202.117.64.34
+
+mba.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 587 IN A 202.117.64.34
+
+mks.chd.edu.cn. 60 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 59 IN A 202.117.64.155
+
+moa.chd.edu.cn. 600 IN A 202.117.64.146
+
+moa.chd.edu.cn. 599 IN A 202.117.64.146
+
+moa.chd.edu.cn. 599 IN A 202.117.64.146
+
+moa.chd.edu.cn. 599 IN A 202.117.64.146
+
+mpajyzx.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 584 IN A 202.117.64.15
+
+networkresource.chd.edu.cn. 600 IN A 202.117.64.7
+
+networkresource.chd.edu.cn. 599 IN A 202.117.64.7
+
+networkresource.chd.edu.cn. 599 IN A 202.117.64.7
+
+networkresource.chd.edu.cn. 599 IN A 202.117.64.7
+
+newoa.chd.edu.cn. 600 IN A 202.117.64.145
+
+newoa.chd.edu.cn. 599 IN A 202.117.64.145
+
+newoa.chd.edu.cn. 599 IN A 202.117.64.145
+
+newoa.chd.edu.cn. 599 IN A 202.117.64.145
+
+news.chd.edu.cn. 600 IN A 202.117.64.153
+
+news.chd.edu.cn. 599 IN A 202.117.64.153
+
+news.chd.edu.cn. 599 IN A 202.117.64.153
+
+news.chd.edu.cn. 599 IN A 202.117.64.153
+
+news.chd.edu.cn. 599 IN A 202.117.64.153
+
+nic.chd.edu.cn. 600 IN CNAME www.jwzx.chd.edu.cn.
+www.jwzx.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 585 IN A 202.117.64.10
+
+nic.chd.edu.cn. 599 IN CNAME www.jwzx.chd.edu.cn.
+www.jwzx.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 585 IN A 202.117.64.10
+
+nic.chd.edu.cn. 599 IN CNAME www.jwzx.chd.edu.cn.
+www.jwzx.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 585 IN A 202.117.64.10
+
+nic.chd.edu.cn. 599 IN CNAME www.jwzx.chd.edu.cn.
+www.jwzx.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 585 IN A 202.117.64.10
+
+nic.chd.edu.cn. 599 IN CNAME www.jwzx.chd.edu.cn.
+www.jwzx.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 585 IN A 202.117.64.10
+
+nic.chd.edu.cn. 599 IN CNAME www.jwzx.chd.edu.cn.
+www.jwzx.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 585 IN A 202.117.64.10
+
+nss.chd.edu.cn. 600 IN A 202.117.64.38
+
+nss.chd.edu.cn. 599 IN A 202.117.64.38
+
+nss.chd.edu.cn. 599 IN A 202.117.64.38
+
+nss.chd.edu.cn. 599 IN A 202.117.64.38
+
+nss.chd.edu.cn. 599 IN A 202.117.64.38
+
+nss.chd.edu.cn. 599 IN A 202.117.64.38
+
+oa.chd.edu.cn. 600 IN A 202.117.64.4
+
+oa.chd.edu.cn. 599 IN A 202.117.64.4
+
+oa.chd.edu.cn. 599 IN A 202.117.64.4
+
+oa.chd.edu.cn. 599 IN A 202.117.64.4
+
+oa.chd.edu.cn. 599 IN A 202.117.64.4
+
+office.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 585 IN A 202.117.64.14
+
+oldnews.chd.edu.cn. 600 IN A 202.117.64.9
+
+oldnews.chd.edu.cn. 599 IN A 202.117.64.9
+
+oldnews.chd.edu.cn. 599 IN A 202.117.64.9
+
+oldnews.chd.edu.cn. 599 IN A 202.117.64.9
+
+oldvpn.chd.edu.cn. 600 IN A 202.117.64.220
+
+oldwifi.chd.edu.cn. 585 IN A 202.117.64.42
+
+oldwifi.chd.edu.cn. 585 IN A 202.117.64.42
+
+oldwifi.chd.edu.cn. 585 IN A 202.117.64.42
+
+oldwifi.chd.edu.cn. 585 IN A 202.117.64.42
+
+oldwifi.chd.edu.cn. 585 IN A 202.117.64.42
+
+oldwww.chd.edu.cn. 600 IN A 202.117.64.2
+
+oldwww.chd.edu.cn. 599 IN A 202.117.64.2
+
+oldwww.chd.edu.cn. 599 IN A 202.117.64.2
+
+oldwww.chd.edu.cn. 599 IN A 202.117.64.2
+
+page.chd.edu.cn. 600 IN A 202.117.64.167
+
+page.chd.edu.cn. 599 IN A 202.117.64.167
+
+page.chd.edu.cn. 599 IN A 202.117.64.167
+
+page.chd.edu.cn. 599 IN A 202.117.64.167
+
+page.chd.edu.cn. 599 IN A 202.117.64.167
+
+pan.chd.edu.cn. 600 IN A 218.195.56.227
+
+pan.chd.edu.cn. 599 IN A 218.195.56.227
+
+pan.chd.edu.cn. 599 IN A 218.195.56.227
+
+pan.chd.edu.cn. 599 IN A 218.195.56.227
+
+pan.chd.edu.cn. 599 IN A 218.195.56.227
+
+pan.chd.edu.cn. 599 IN A 218.195.56.227
+
+paper.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 585 IN A 202.117.64.154
+
+pavement-center.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 583 IN A 202.117.64.15
+
+pgb.chd.edu.cn. 600 IN CNAME kjjs.chd.edu.cn.
+kjjs.chd.edu.cn. 596 IN A 202.117.64.51
+
+photo.chd.edu.cn. 600 IN CNAME news.chd.edu.cn.
+news.chd.edu.cn. 598 IN A 202.117.64.153
+
+pigai.chd.edu.cn. 60 IN A 202.117.64.92
+
+pigai.chd.edu.cn. 59 IN A 202.117.64.92
+
+pigai.chd.edu.cn. 59 IN A 202.117.64.92
+
+pigai.chd.edu.cn. 59 IN A 202.117.64.92
+
+pigai.chd.edu.cn. 59 IN A 202.117.64.92
+
+pigai.chd.edu.cn. 59 IN A 202.117.64.92
+
+portal.chd.edu.cn. 600 IN A 218.195.56.155
+
+portal.chd.edu.cn. 599 IN A 218.195.56.155
+
+portal.chd.edu.cn. 599 IN A 218.195.56.155
+
+portal.chd.edu.cn. 599 IN A 218.195.56.155
+
+portal.chd.edu.cn. 599 IN A 218.195.56.155
+
+portal.chd.edu.cn. 599 IN A 218.195.56.155
+
+portal.chd.edu.cn. 599 IN A 218.195.56.155
+
+postdoctor.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 584 IN A 202.117.64.154
+
+qcll.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 583 IN A 202.117.64.10
+
+qcyygc.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 582 IN A 202.117.64.14
+
+www.qiche.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 581 IN A 202.117.64.15
+
+www.qiche.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 581 IN A 202.117.64.15
+
+qlysd.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 583 IN A 202.117.64.154
+
+qnsk.chd.edu.cn. 600 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 588 IN A 202.117.64.41
+
+qnzyzfwzd.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 582 IN A 202.117.64.35
+
+rcgz.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 583 IN A 202.117.64.154
+
+rcte.chd.edu.cn. 600 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 591 IN A 202.117.64.41
+
+rcte.chd.edu.cn. 599 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 591 IN A 202.117.64.41
+
+register.chd.edu.cn. 600 IN A 202.117.64.18
+
+register.chd.edu.cn. 599 IN A 202.117.64.18
+
+register.chd.edu.cn. 599 IN A 202.117.64.18
+
+register.chd.edu.cn. 599 IN A 202.117.64.18
+
+register.chd.edu.cn. 599 IN A 202.117.64.18
+
+rms.chd.edu.cn. 600 IN A 202.117.64.119
+
+rms.chd.edu.cn. 599 IN A 202.117.64.119
+
+rms.chd.edu.cn. 599 IN A 202.117.64.119
+
+rms.chd.edu.cn. 599 IN A 202.117.64.119
+
+rms.chd.edu.cn. 599 IN A 202.117.64.119
+
+rmwzb.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 581 IN A 202.117.64.14
+
+rmwzb.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 581 IN A 202.117.64.14
+
+roadlab.chd.edu.cn. 600 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 591 IN A 202.117.64.41
+
+roadlab.chd.edu.cn. 599 IN CNAME bxjy.chd.edu.cn.
+bxjy.chd.edu.cn. 591 IN A 202.117.64.41
+
+rsc.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 582 IN A 202.117.64.34
+
+rsc.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 582 IN A 202.117.64.34
+
+rsc.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 582 IN A 202.117.64.34
+
+rsc.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 582 IN A 202.117.64.34
+
+rsc.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 582 IN A 202.117.64.34
+
+rsc.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 582 IN A 202.117.64.34
+
+rsm.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 582 IN A 202.117.64.154
+
+sclswx.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 581 IN A 202.117.64.10
+
+selfcollect.chd.edu.cn. 600 IN A 218.195.56.240
+
+selfcollect.chd.edu.cn. 599 IN A 218.195.56.240
+
+selfcollect.chd.edu.cn. 599 IN A 218.195.56.240
+
+selfcollect.chd.edu.cn. 599 IN A 218.195.56.240
+
+selfcollect.chd.edu.cn. 599 IN A 218.195.56.240
+
+selfcollect.chd.edu.cn. 599 IN A 218.195.56.240
+
+service.chd.edu.cn. 600 IN A 218.195.56.136
+
+service.chd.edu.cn. 599 IN A 218.195.56.136
+
+service.chd.edu.cn. 599 IN A 218.195.56.136
+
+service.chd.edu.cn. 599 IN A 218.195.56.136
+
+service.chd.edu.cn. 599 IN A 218.195.56.136
+
+service.chd.edu.cn. 599 IN A 218.195.56.136
+
+service.chd.edu.cn. 599 IN A 218.195.56.136
+
+sfs.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 580 IN A 202.117.64.15
+
+sfzx.chd.edu.cn. 600 IN CNAME kjjs.chd.edu.cn.
+kjjs.chd.edu.cn. 592 IN A 202.117.64.51
+
+sfzx.chd.edu.cn. 599 IN CNAME kjjs.chd.edu.cn.
+kjjs.chd.edu.cn. 592 IN A 202.117.64.51
+
+shelian.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 580 IN A 202.117.64.35
+
+shelian.chd.edu.cn. 599 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 580 IN A 202.117.64.35
+
+shg.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 580 IN A 202.117.64.14
+
+shg.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 580 IN A 202.117.64.14
+
+shhz.chd.edu.cn. 600 IN A 202.117.64.114
+
+shhz.chd.edu.cn. 599 IN A 202.117.64.114
+
+shhz.chd.edu.cn. 599 IN A 202.117.64.114
+
+shhz.chd.edu.cn. 599 IN A 202.117.64.114
+
+shhz.chd.edu.cn. 599 IN A 202.117.64.114
+
+sjc.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sjc.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sjc.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sjc.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sjc.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sk.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sk.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+skgl.chd.edu.cn. 600 IN A 202.117.64.81
+
+skgl.chd.edu.cn. 599 IN A 202.117.64.81
+
+skgl.chd.edu.cn. 599 IN A 202.117.64.81
+
+skgl.chd.edu.cn. 599 IN A 202.117.64.81
+
+skgl.chd.edu.cn. 599 IN A 202.117.64.81
+
+skgl.chd.edu.cn. 599 IN A 202.117.64.81
+
+sklgie-cdco.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+sklgie-cdco.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 580 IN A 202.117.64.154
+
+skxb.chd.edu.cn. 600 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 585 IN A 202.117.64.105
+
+skxb.chd.edu.cn. 599 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 585 IN A 202.117.64.105
+
+sports.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 579 IN A 202.117.64.154
+
+sqjwh.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 578 IN A 202.117.64.35
+
+std.chd.edu.cn. 600 IN A 202.117.64.109
+
+std.chd.edu.cn. 599 IN A 202.117.64.109
+
+std.chd.edu.cn. 599 IN A 202.117.64.109
+
+std.chd.edu.cn. 599 IN A 202.117.64.109
+
+swjswdzx.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 577 IN A 202.117.64.33
+
+szctyl.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 577 IN A 202.117.64.15
+
+tdh.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 577 IN A 202.117.64.155
+
+te.chd.edu.cn. 600 IN CNAME jiaotong.chd.edu.cn.
+jiaotong.chd.edu.cn. 585 IN A 202.117.64.68
+
+teacher.chd.edu.cn. 600 IN CNAME gzcbm.chd.edu.cn.
+gzcbm.chd.edu.cn. 580 IN A 202.117.64.13
+
+ticvlab.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 577 IN A 202.117.64.33
+
+tmgcts.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 577 IN A 202.117.64.10
+
+tmgcts.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 577 IN A 202.117.64.10
+
+traffictest.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 578 IN A 202.117.64.154
+
+transimilation.chd.edu.cn. 600 IN A 202.117.64.181
+
+transimilation.chd.edu.cn. 599 IN A 202.117.64.181
+
+transimilation.chd.edu.cn. 599 IN A 202.117.64.181
+
+transimilation.chd.edu.cn. 599 IN A 202.117.64.181
+
+transplan.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 576 IN A 202.117.64.15
+
+transport.chd.edu.cn. 600 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 583 IN A 202.117.64.105
+
+transport.chd.edu.cn. 599 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 583 IN A 202.117.64.105
+
+tsafety.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 578 IN A 202.117.64.154
+
+tv.chd.edu.cn. 600 IN A 202.117.64.16
+
+tv.chd.edu.cn. 599 IN A 202.117.64.16
+
+tv.chd.edu.cn. 599 IN A 202.117.64.16
+
+tv.chd.edu.cn. 599 IN A 202.117.64.16
+
+tv.chd.edu.cn. 599 IN A 202.117.64.16
+
+tvm.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 576 IN A 202.117.64.15
+
+tvm.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 576 IN A 202.117.64.15
+
+txyl.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 576 IN A 202.117.64.33
+
+tysfpt.chd.edu.cn. 600 IN A 202.117.64.142
+
+tysfpt.chd.edu.cn. 599 IN A 202.117.64.142
+
+tysfpt.chd.edu.cn. 599 IN A 202.117.64.142
+
+tysfpt.chd.edu.cn. 599 IN A 202.117.64.142
+
+tysfpt.chd.edu.cn. 599 IN A 202.117.64.142
+
+tysfpt.chd.edu.cn. 599 IN A 202.117.64.142
+
+tzb.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 576 IN A 202.117.64.14
+
+vod.chd.edu.cn. 600 IN A 202.117.64.110
+
+vod.chd.edu.cn. 599 IN A 202.117.64.110
+
+vod.chd.edu.cn. 599 IN A 202.117.64.110
+
+vod.chd.edu.cn. 599 IN A 202.117.64.110
+
+vodweb.chd.edu.cn. 600 IN A 202.117.64.111
+
+vodweb.chd.edu.cn. 599 IN A 202.117.64.111
+
+vodweb.chd.edu.cn. 599 IN A 202.117.64.111
+
+vodweb.chd.edu.cn. 599 IN A 202.117.64.111
+
+vpn.chd.edu.cn. 600 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+ids-chd-edu-cn.vpn.chd.edu.cn. 600 IN CNAME vpn.chd.edu.cn.
+vpn.chd.edu.cn. 599 IN A 202.117.64.28
+
+vpntest.chd.edu.cn. 0 IN A 220.250.64.225
+
+vpntest.chd.edu.cn. 60 IN A 220.250.64.225
+
+vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 0 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 60 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+www.vpntest.chd.edu.cn. 59 IN A 220.250.64.225
+
+wap.chd.edu.cn. 600 IN CNAME www.chd.edu.cn.
+www.chd.edu.cn. 599 IN A 202.117.64.152
+
+water.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 576 IN A 202.117.64.154
+
+webplus.chd.edu.cn. 600 IN A 202.117.64.151
+
+webplus.chd.edu.cn. 599 IN A 202.117.64.151
+
+webplus.chd.edu.cn. 599 IN A 202.117.64.151
+
+webplus.chd.edu.cn. 599 IN A 202.117.64.151
+
+webvpn.chd.edu.cn. 0 IN A 220.250.64.225
+
+webvpn.chd.edu.cn. 60 IN A 220.250.64.225
+
+webvpn.chd.edu.cn. 59 IN A 220.250.64.225
+
+webvpn.chd.edu.cn. 59 IN A 220.250.64.225
+
+welabcenter.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 575 IN A 202.117.64.35
+
+wifi.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 575 IN A 202.117.64.35
+
+wifi.chd.edu.cn. 599 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 575 IN A 202.117.64.35
+
+wiscom.chd.edu.cn. 600 IN A 202.117.71.151
+
+wiscom.chd.edu.cn. 599 IN A 202.117.71.151
+
+wiscom.chd.edu.cn. 599 IN A 202.117.71.151
+
+wiscom.chd.edu.cn. 599 IN A 202.117.71.151
+
+wiscom.chd.edu.cn. 599 IN A 202.117.71.151
+
+wiscom.chd.edu.cn. 599 IN A 202.117.71.151
+
+wljx.chd.edu.cn. 600 IN A 202.117.64.140
+
+wljx.chd.edu.cn. 599 IN A 202.117.64.140
+
+wljx.chd.edu.cn. 599 IN A 202.117.64.140
+
+wljx.chd.edu.cn. 599 IN A 202.117.64.140
+
+wljx.chd.edu.cn. 599 IN A 202.117.64.140
+
+wlsy.chd.edu.cn. 600 IN A 202.117.64.61
+
+wlsy.chd.edu.cn. 599 IN A 202.117.64.61
+
+wlsy.chd.edu.cn. 599 IN A 202.117.64.61
+
+wlsy.chd.edu.cn. 599 IN A 202.117.64.61
+
+wlsy.chd.edu.cn. 599 IN A 202.117.64.61
+
+wlsy.chd.edu.cn. 599 IN A 202.117.64.61
+
+wlsyzx.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 576 IN A 202.117.64.154
+
+wmrge.chd.edu.cn. 600 IN CNAME oldwifi.chd.edu.cn.
+oldwifi.chd.edu.cn. 575 IN A 202.117.64.42
+
+wsxq.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+wsxq.chd.edu.cn. 599 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+www.chd.edu.cn. 598 IN A 202.117.64.152
+
+wyc.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 575 IN A 202.117.64.14
+
+xdkzll.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 574 IN A 202.117.64.15
+
+xdkzll.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 574 IN A 202.117.64.15
+
+xfbg.chd.edu.cn. 600 IN A 202.117.64.187
+
+xfbg.chd.edu.cn. 599 IN A 202.117.64.187
+
+xfbg.chd.edu.cn. 599 IN A 202.117.64.187
+
+xfbg.chd.edu.cn. 599 IN A 202.117.64.187
+
+xfjy.chd.edu.cn. 575 IN A 202.117.64.14
+
+xfjy.chd.edu.cn. 575 IN A 202.117.64.14
+
+xfjy.chd.edu.cn. 575 IN A 202.117.64.14
+
+xfjy.chd.edu.cn. 575 IN A 202.117.64.14
+
+xfjy.chd.edu.cn. 575 IN A 202.117.64.14
+
+xg.chd.edu.cn. 600 IN A 202.117.64.86
+
+xg.chd.edu.cn. 599 IN A 202.117.64.86
+
+xgb.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 575 IN A 202.117.64.154
+
+xgb.chd.edu.cn. 599 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 575 IN A 202.117.64.154
+
+xgh.chd.edu.cn. 600 IN CNAME jxshpg.chd.edu.cn.
+jxshpg.chd.edu.cn. 575 IN A 202.117.64.154
+
+xhxy.chd.edu.cn. 600 IN CNAME www.chdxhxy.com.
+www.chdxhxy.com. 7199 IN A 42.247.35.225
+
+xhyxt.chd.edu.cn. 600 IN CNAME hq.chd.edu.cn.
+hq.chd.edu.cn. 573 IN A 202.117.64.33
+
+xiaokx.chd.edu.cn. 600 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xiaokx.chd.edu.cn. 599 IN CNAME xsh.chd.edu.cn.
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xlzx.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 574 IN A 202.117.64.14
+
+xlzxold.chd.edu.cn. 600 IN A 202.117.64.108
+
+xlzxold.chd.edu.cn. 599 IN A 202.117.64.108
+
+xlzxold.chd.edu.cn. 599 IN A 202.117.64.108
+
+xlzxold.chd.edu.cn. 599 IN A 202.117.64.108
+
+xlzxold.chd.edu.cn. 599 IN A 202.117.64.108
+
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xsh.chd.edu.cn. 574 IN A 202.117.64.35
+
+xsjyc.chd.edu.cn. 600 IN A 202.117.64.203
+
+xsjyc.chd.edu.cn. 599 IN A 202.117.64.203
+
+xsjyc.chd.edu.cn. 599 IN A 202.117.64.203
+
+xsjyc.chd.edu.cn. 599 IN A 202.117.64.203
+
+xsjyc.chd.edu.cn. 599 IN A 202.117.64.203
+
+xsjyc.chd.edu.cn. 599 IN A 202.117.64.203
+
+xszx.chd.edu.cn. 600 IN A 202.117.64.86
+
+xszx.chd.edu.cn. 599 IN A 202.117.64.86
+
+xszx.chd.edu.cn. 599 IN A 202.117.64.86
+
+xunlan.chd.edu.cn. 600 IN A 202.117.64.100
+
+xunlan.chd.edu.cn. 599 IN A 202.117.64.100
+
+xunlan.chd.edu.cn. 599 IN A 202.117.64.100
+
+xunlan.chd.edu.cn. 599 IN A 202.117.64.100
+
+xunlan.chd.edu.cn. 599 IN A 202.117.64.100
+
+xxb1.chd.edu.cn. 600 IN A 218.195.56.163
+
+xxb1.chd.edu.cn. 599 IN A 218.195.56.163
+
+xxb1.chd.edu.cn. 599 IN A 218.195.56.163
+
+xxb1.chd.edu.cn. 599 IN A 218.195.56.163
+
+xxb1.chd.edu.cn. 599 IN A 218.195.56.163
+
+xxb1.chd.edu.cn. 599 IN A 218.195.56.163
+
+xxb2.chd.edu.cn. 600 IN A 218.195.56.164
+
+xxb2.chd.edu.cn. 599 IN A 218.195.56.164
+
+xxb2.chd.edu.cn. 599 IN A 218.195.56.164
+
+xxb2.chd.edu.cn. 599 IN A 218.195.56.164
+
+xxb2.chd.edu.cn. 599 IN A 218.195.56.164
+
+xxb2.chd.edu.cn. 599 IN A 218.195.56.164
+
+xxgk.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 574 IN A 202.117.64.14
+
+xxgk.chd.edu.cn. 599 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 574 IN A 202.117.64.14
+
+xyh.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 575 IN A 202.117.64.34
+
+xyxt.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 575 IN A 202.117.64.34
+
+xyzd.chd.edu.cn. 3600 IN A 220.250.64.225
+
+xyzd.chd.edu.cn. 3599 IN A 220.250.64.225
+
+xyzd.chd.edu.cn. 3599 IN A 220.250.64.225
+
+xyzd.chd.edu.cn. 3599 IN A 220.250.64.225
+
+ygjs.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 572 IN A 202.117.64.15
+
+yiban.chd.edu.cn. 600 IN A 202.117.64.235
+
+yiban.chd.edu.cn. 599 IN A 202.117.64.235
+
+yiban.chd.edu.cn. 599 IN A 202.117.64.235
+
+yiban.chd.edu.cn. 599 IN A 202.117.64.235
+
+yiban.chd.edu.cn. 599 IN A 202.117.64.235
+
+yiban.chd.edu.cn. 599 IN A 202.117.64.235
+
+yiban.chd.edu.cn. 599 IN A 202.117.64.235
+
+xfjy.chd.edu.cnservice.yiban.chd.edu.cn. 0 IN A 220.250.64.225
+
+service.yiban.chd.edu.cn. 600 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+service.yiban.chd.edu.cn. 599 IN A 202.117.64.236
+
+yjs.chd.edu.cn. 600 IN A 202.117.64.193
+
+yjs.chd.edu.cn. 599 IN A 202.117.64.193
+
+yjs.chd.edu.cn. 599 IN A 202.117.64.193
+
+yjs.chd.edu.cn. 599 IN A 202.117.64.193
+
+yjsh.chd.edu.cn. 600 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 572 IN A 202.117.64.155
+
+yjsh.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 572 IN A 202.117.64.155
+
+yjsh.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 572 IN A 202.117.64.155
+
+yjsh.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 572 IN A 202.117.64.155
+
+yjsh.chd.edu.cn. 599 IN CNAME lxsy.chd.edu.cn.
+lxsy.chd.edu.cn. 572 IN A 202.117.64.155
+
+yjsjw.chd.edu.cn. 600 IN A 202.117.64.66
+
+yjsjw.chd.edu.cn. 599 IN A 202.117.64.66
+
+yjsjw.chd.edu.cn. 599 IN A 202.117.64.66
+
+yjsjw.chd.edu.cn. 599 IN A 202.117.64.66
+
+yjsjw.chd.edu.cn. 599 IN A 202.117.64.66
+
+www.yjyl.chd.edu.cn. 600 IN A 218.195.56.249
+
+www.yjyl.chd.edu.cn. 599 IN A 218.195.56.249
+
+www.yjyl.chd.edu.cn. 599 IN A 218.195.56.249
+
+www.yjyl.chd.edu.cn. 599 IN A 218.195.56.249
+
+www.yjyl.chd.edu.cn. 599 IN A 218.195.56.249
+
+www.yjyl.chd.edu.cn. 599 IN A 218.195.56.249
+
+yqgx.chd.edu.cn. 600 IN A 202.117.64.162
+
+yqgx.chd.edu.cn. 599 IN A 202.117.64.162
+
+yqgx.chd.edu.cn. 599 IN A 202.117.64.162
+
+yqgx.chd.edu.cn. 599 IN A 202.117.64.162
+
+yqgx.chd.edu.cn. 599 IN A 202.117.64.162
+
+ytlx.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 572 IN A 202.117.64.15
+
+yxgl.chd.edu.cn. 600 IN A 218.195.56.234
+
+yxgl.chd.edu.cn. 599 IN A 218.195.56.234
+
+yxgl.chd.edu.cn. 599 IN A 218.195.56.234
+
+yxgl.chd.edu.cn. 599 IN A 218.195.56.234
+
+yxgl.chd.edu.cn. 599 IN A 218.195.56.234
+
+yxgl.chd.edu.cn. 599 IN A 218.195.56.234
+
+yycd.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 572 IN A 202.117.64.10
+
+yzb.chd.edu.cn. 600 IN CNAME www.chd.edu.cn.
+www.chd.edu.cn. 595 IN A 202.117.64.152
+
+yzb.chd.edu.cn. 599 IN CNAME www.chd.edu.cn.
+www.chd.edu.cn. 595 IN A 202.117.64.152
+
+yzbm.chd.edu.cn. 600 IN A 202.117.64.103
+
+yzbm.chd.edu.cn. 599 IN A 202.117.64.103
+
+yzbm.chd.edu.cn. 599 IN A 202.117.64.103
+
+yzbm.chd.edu.cn. 599 IN A 202.117.64.103
+
+zbb.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 572 IN A 202.117.64.10
+
+zbb.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 572 IN A 202.117.64.10
+
+zc.chd.edu.cn. 600 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 573 IN A 202.117.64.34
+
+zc.chd.edu.cn. 599 IN CNAME jtgcx.chd.edu.cn.
+jtgcx.chd.edu.cn. 573 IN A 202.117.64.34
+
+zdhsjcb.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 571 IN A 202.117.64.15
+
+zdhx.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 572 IN A 202.117.64.10
+
+zdkzyl.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 572 IN A 202.117.64.10
+
+zgglxb.chd.edu.cn. 600 IN A 202.117.64.104
+
+zgglxb.chd.edu.cn. 599 IN A 202.117.64.104
+
+zgglxb.chd.edu.cn. 599 IN A 202.117.64.104
+
+zgglxb.chd.edu.cn. 599 IN A 202.117.64.104
+
+zgglxb.chd.edu.cn. 599 IN A 202.117.64.104
+
+zgglxb.chd.edu.cn. 599 IN A 202.117.64.104
+
+zljx.chd.edu.cn. 600 IN A 202.117.64.213
+
+zljx.chd.edu.cn. 599 IN A 202.117.64.213
+
+zljx.chd.edu.cn. 599 IN A 202.117.64.213
+
+zljx.chd.edu.cn. 599 IN A 202.117.64.213
+
+zljx.chd.edu.cn. 599 IN A 202.117.64.213
+
+zp.chd.edu.cn. 600 IN A 218.195.56.230
+
+zp.chd.edu.cn. 599 IN A 218.195.56.230
+
+zp.chd.edu.cn. 599 IN A 218.195.56.230
+
+zp.chd.edu.cn. 599 IN A 218.195.56.230
+
+zp.chd.edu.cn. 599 IN A 218.195.56.230
+
+zp.chd.edu.cn. 599 IN A 218.195.56.230
+
+zp.chd.edu.cn. 599 IN A 218.195.56.230
+
+zsb.chd.edu.cn. 600 IN A 202.117.64.78
+
+ztb.chd.edu.cn. 60 IN A 202.117.64.216
+
+zyonline.chd.edu.cn. 600 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 571 IN A 202.117.64.10
+
+zyonline.chd.edu.cn. 599 IN CNAME cdkjy.chd.edu.cn.
+cdkjy.chd.edu.cn. 571 IN A 202.117.64.10
+
+zyz.chd.edu.cn. 600 IN A 202.117.64.67
+
+zyz.chd.edu.cn. 599 IN A 202.117.64.67
+
+zyz.chd.edu.cn. 599 IN A 202.117.64.67
+
+zyz.chd.edu.cn. 599 IN A 202.117.64.67
+
+zzjy.chd.edu.cn. 600 IN CNAME xfjy.chd.edu.cn.
+xfjy.chd.edu.cn. 571 IN A 202.117.64.14
+
+zzq.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 570 IN A 202.117.64.15
+
+zzs.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 570 IN A 202.117.64.15
+
+zzs.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 570 IN A 202.117.64.15
+
+zzsen.chd.edu.cn. 600 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 577 IN A 202.117.64.105
+
+zzszrb.chd.edu.cn. 600 IN CNAME jtte.chd.edu.cn.
+jtte.chd.edu.cn. 577 IN A 202.117.64.105
+
+zzxzxy.chd.edu.cn. 600 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 570 IN A 202.117.64.15
+
+zzxzxy.chd.edu.cn. 599 IN CNAME cmcs.chd.edu.cn.
+cmcs.chd.edu.cn. 570 IN A 202.117.64.15
+
+www.chd.edu.cnchd.edu.cn. 0 IN A 220.250.64.225
+

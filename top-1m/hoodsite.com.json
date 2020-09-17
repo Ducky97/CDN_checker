@@ -1,0 +1,74 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:39:58 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d6c681fa3da9c48c820dd868b7d888cba1600252796; expires=Fri, 16-Oct-20 10:39:56 GMT; path=/; domain=.hoodsite.com; HttpOnly; SameSite=Lax; Secure",
+            "Link": "<https://hoodsite.com/wp-json/>; rel=\"https://api.w.org/\"",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "053818f8060000dcc26c043200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39f76cd845dcc2-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "hoodsite.com": [
+                "172.67.69.201",
+                "104.26.12.40",
+                "104.26.13.40"
+            ]
+        },
+        "ping": {
+            "hoodsite.com": [
+                "172.67.69.201",
+                "104.26.12.40",
+                "104.26.13.40"
+            ]
+        },
+        "CNAME": {
+            "hoodsite.com": "still a low_level domain_name"
+        },
+        "A": {
+            "hoodsite.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:39:59 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d104c385d9860c8e2bdd4ebf2f60689f51600252798; expires=Fri, 16-Oct-20 10:39:58 GMT; path=/; domain=.hoodsite.com; HttpOnly; SameSite=Lax; Secure",
+            "Link": "<https://hoodsite.com/wp-json/>; rel=\"https://api.w.org/\"",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "053818fdf2000001a74e285200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39f7765e9001a7-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "hoodsite.com": [
+                "104.26.13.40",
+                "104.26.12.40",
+                "172.67.69.201"
+            ]
+        },
+        "ping": {
+            "hoodsite.com": [
+                "172.67.69.201",
+                "104.26.12.40",
+                "104.26.13.40"
+            ]
+        },
+        "CNAME": {
+            "hoodsite.com": "still a low_level domain_name"
+        },
+        "A": {
+            "hoodsite.com": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, Origin, Ali-Detector-Type, Ip-Country-Id, Ali-Hng, X-Host, Accept-Encoding",
+            "Date": "Wed, 16 Sep 2020 08:59:09 GMT",
+            "x-server-id": "28c3d6b2523ca52cb704b8b5dcd976777c0362e4dc94de2b8fe0c2251b82e80a3eab0f4fc94632e9",
+            "Cache-Control": "max-age=0, s-maxage=112",
+            "ETag": "W/\"5f750-LIkeEM7DbhTy5HPnHY6fpitSFRA\"",
+            "x-readtime": "33",
+            "x-via": "sg7.l1, cache10.sg7, l2sg52.l2, cache22.l2sg52, wormholesource011089237180.center.na61",
+            "EagleEye-TraceId": "a3b5259616002467496252276e",
+            "Strict-Transport-Security": "max-age=0",
+            "Timing-Allow-Origin": "*, *",
+            "Via": "cache22.l2sg52[234,304-0,M], cache9.l2sg52[235,0], cache10.sg7[236,200-0,H], cache2.sg7[237,0]",
+            "Ali-Swift-Global-Savetime": "1600246197",
+            "Age": "0",
+            "X-Cache": "HIT TCP_REFRESH_HIT dirn:-2:-2",
+            "X-Swift-SaveTime": "Wed, 16 Sep 2020 08:59:09 GMT",
+            "X-Swift-CacheTime": "112",
+            "Set-Cookie": "thw=sg; Path=/; Domain=.taobao.com; Expires=Thu, 16-Sep-21 08:59:09 GMT;",
+            "EagleId": "a3b5259616002467496252276e",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "taobao.com": [
+                "140.205.220.96",
+                "140.205.94.189"
+            ],
+            "world.taobao.com": [
+                "47.246.12.236",
+                "47.246.12.235"
+            ]
+        },
+        "ping": {
+            "taobao.com": [
+                "140.205.220.96",
+                "140.205.94.189"
+            ],
+            "world.taobao.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        },
+        "CNAME": {
+            "world.taobao.com": [
+                "world.taobao.com.danuoyi.tbcache.com."
+            ]
+        },
+        "A": {
+            "world.taobao.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, Origin, Ali-Detector-Type, Ip-Country-Id, Ali-Hng, X-Host, Accept-Encoding",
+            "Date": "Wed, 16 Sep 2020 08:59:09 GMT",
+            "x-server-id": "28c3d6b2523ca52cb704b8b5dcd976777c0362e4dc94de2b8fe0c2251b82e80a3eab0f4fc94632e9",
+            "Cache-Control": "max-age=0, s-maxage=112",
+            "ETag": "W/\"5f750-LIkeEM7DbhTy5HPnHY6fpitSFRA\"",
+            "x-readtime": "33",
+            "x-via": "sg7.l1, cache10.sg7, l2sg52.l2, cache22.l2sg52, wormholesource011089237180.center.na61",
+            "EagleEye-TraceId": "a3b5259616002467496252276e",
+            "Strict-Transport-Security": "max-age=0",
+            "Timing-Allow-Origin": "*, *",
+            "Via": "cache22.l2sg52[234,304-0,M], cache9.l2sg52[235,0], cache10.sg7[0,200-0,H], cache3.sg7[1,0]",
+            "Ali-Swift-Global-Savetime": "1600246197",
+            "Age": "1",
+            "X-Cache": "HIT TCP_MEM_HIT dirn:-2:-2",
+            "X-Swift-SaveTime": "Wed, 16 Sep 2020 08:59:09 GMT",
+            "X-Swift-CacheTime": "112",
+            "Set-Cookie": "thw=sg; Path=/; Domain=.taobao.com; Expires=Thu, 16-Sep-21 08:59:10 GMT;",
+            "EagleId": "a3b5259716002467508722355e",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "taobao.com": [
+                "140.205.220.96",
+                "140.205.94.189"
+            ],
+            "world.taobao.com": [
+                "47.246.12.236",
+                "47.246.12.235"
+            ]
+        },
+        "ping": {
+            "taobao.com": [
+                "140.205.220.96",
+                "140.205.94.189"
+            ],
+            "world.taobao.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        },
+        "CNAME": {
+            "world.taobao.com": [
+                "world.taobao.com.danuoyi.tbcache.com."
+            ]
+        },
+        "A": {
+            "world.taobao.com": [
+                "163.181.37.231",
+                "163.181.37.232"
+            ]
+        }
+    }
+}

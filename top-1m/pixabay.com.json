@@ -1,0 +1,77 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 12:00:17 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "CF-Chl-Bypass": "1",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "cf-request-id": "05386284b70000a9466d8de200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a6d1abdc8a946-SIN",
+            "Content-Encoding": "gzip",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "pixabay.com": [
+                "104.18.20.183",
+                "104.18.21.183"
+            ]
+        },
+        "ping": {
+            "pixabay.com": [
+                "104.18.21.183",
+                "104.18.20.183"
+            ]
+        },
+        "CNAME": {
+            "pixabay.com": "still a low_level domain_name"
+        },
+        "A": {
+            "pixabay.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 12:00:17 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "CF-Chl-Bypass": "1",
+            "Set-Cookie": "__cfduid=dab81115d6f1b9fccd6ba50de04bec4671600257617; expires=Fri, 16-Oct-20 12:00:17 GMT; path=/; domain=.pixabay.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "cf-request-id": "05386284fc0000c39a1fa2e200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a6d1b2dd2c39a-SIN",
+            "Content-Encoding": "gzip",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "pixabay.com": [
+                "104.18.20.183",
+                "104.18.21.183"
+            ]
+        },
+        "ping": {
+            "pixabay.com": [
+                "104.18.21.183",
+                "104.18.20.183"
+            ]
+        },
+        "CNAME": {
+            "pixabay.com": "still a low_level domain_name"
+        },
+        "A": {
+            "pixabay.com": "still a low_level domain_name"
+        }
+    }
+}

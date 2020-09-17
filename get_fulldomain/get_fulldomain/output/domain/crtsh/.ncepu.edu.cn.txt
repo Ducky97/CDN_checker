@@ -1,0 +1,7 @@
+*.ncepu.edu.cn
+*.webvpn.ncepu.edu.cn
+app.ncepu.edu.cn
+eaiapp.ncepu.edu.cn
+img.ncepu.edu.cn
+paper.ncepu.edu.cn
+webvpn.ncepu.edu.cn

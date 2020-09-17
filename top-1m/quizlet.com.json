@@ -1,0 +1,85 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:08 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "CF-Chl-Bypass": "1",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "cf-request-id": "0537f485d90000a9042f847200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39bd1c8b0fa904-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "quizlet.com": [
+                "104.16.18.221",
+                "104.16.14.221",
+                "104.16.15.221",
+                "104.16.16.221",
+                "104.16.17.221"
+            ]
+        },
+        "ping": {
+            "quizlet.com": [
+                "104.16.15.221",
+                "104.16.16.221",
+                "104.16.14.221",
+                "104.16.17.221",
+                "104.16.18.221"
+            ]
+        },
+        "CNAME": {
+            "quizlet.com": "still a low_level domain_name"
+        },
+        "A": {
+            "quizlet.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:08 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "CF-Chl-Bypass": "1",
+            "Set-Cookie": "__cfduid=d4b39cc1404fd5abfe0f1cae71f8531fe1600250408; expires=Fri, 16-Oct-20 10:00:08 GMT; path=/; domain=.quizlet.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "cf-request-id": "0537f486200000d99c80372200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39bd1d0c79d99c-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "quizlet.com": [
+                "104.16.17.221",
+                "104.16.14.221",
+                "104.16.15.221",
+                "104.16.18.221",
+                "104.16.16.221"
+            ]
+        },
+        "ping": {
+            "quizlet.com": [
+                "104.16.14.221",
+                "104.16.17.221",
+                "104.16.15.221"
+            ]
+        },
+        "CNAME": {
+            "quizlet.com": "still a low_level domain_name"
+        },
+        "A": {
+            "quizlet.com": "still a low_level domain_name"
+        }
+    }
+}

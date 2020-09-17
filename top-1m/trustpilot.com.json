@@ -1,0 +1,113 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:51:11 GMT",
+            "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "deny",
+            "Cache-Control": "public, max-age=1200",
+            "ETag": "\"2f1c7-AfrAzcZdrRs+dc1+Qc+06jZbLf4\"",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 9c281f6d3073335c1b2f806823d50e2a.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "gIvFR9tl882zT2kxWH65XnT7zowVZ0HQAKnVzbSsqw0bFtne3erOmg==",
+            "Age": "682"
+        },
+        "nslookup": {
+            "trustpilot.com": [
+                "54.220.80.66",
+                "54.154.110.241"
+            ],
+            "www.trustpilot.com": [
+                "13.227.228.23",
+                "13.227.228.118",
+                "13.227.228.44",
+                "13.227.228.106"
+            ]
+        },
+        "ping": {
+            "trustpilot.com": [
+                "54.154.110.241",
+                "54.220.80.66"
+            ],
+            "www.trustpilot.com": [
+                "13.227.228.106",
+                "13.227.228.23",
+                "13.227.228.44",
+                "13.227.228.118"
+            ]
+        },
+        "CNAME": {
+            "www.trustpilot.com": null
+        },
+        "A": {
+            "www.trustpilot.com": [
+                "13.227.228.106",
+                "13.227.228.23",
+                "13.227.228.44",
+                "13.227.228.118"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:51:11 GMT",
+            "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "deny",
+            "Cache-Control": "public, max-age=1200",
+            "ETag": "\"2f1c7-AfrAzcZdrRs+dc1+Qc+06jZbLf4\"",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 4e3c79d06b4e17a0f3b574740ddc8206.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "YcCCxYEFwMEdVP4avHaa2KSaTo6-RC7ZByPTtPXp4KqmWztw2YgU1g==",
+            "Age": "683"
+        },
+        "nslookup": {
+            "trustpilot.com": [
+                "54.220.80.66",
+                "54.154.110.241"
+            ],
+            "www.trustpilot.com": [
+                "13.227.228.106",
+                "13.227.228.44",
+                "13.227.228.23",
+                "13.227.228.118"
+            ]
+        },
+        "ping": {
+            "trustpilot.com": [
+                "54.154.110.241",
+                "54.220.80.66"
+            ],
+            "www.trustpilot.com": [
+                "13.227.228.106",
+                "13.227.228.23",
+                "13.227.228.44"
+            ]
+        },
+        "CNAME": {
+            "www.trustpilot.com": null
+        },
+        "A": {
+            "www.trustpilot.com": [
+                "13.227.228.106",
+                "13.227.228.23",
+                "13.227.228.44",
+                "13.227.228.118"
+            ]
+        }
+    }
+}

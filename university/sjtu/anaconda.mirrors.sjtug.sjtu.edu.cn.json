@@ -1,0 +1,54 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Caddy",
+            "Date": "Thu, 17 Sep 2020 02:45:38 GMT",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "ping": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "CNAME": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": null
+        },
+        "A": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Caddy",
+            "Date": "Thu, 17 Sep 2020 02:45:39 GMT",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "ping": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        },
+        "CNAME": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": null
+        },
+        "A": {
+            "anaconda.mirrors.sjtug.sjtu.edu.cn": [
+                "202.120.58.155"
+            ]
+        }
+    }
+}

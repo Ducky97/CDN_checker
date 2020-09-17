@@ -1,0 +1,12 @@
+*.e.ecust.edu.cn
+*.ecust.edu.cn
+autodiscover.ecust.edu.cn
+e.ecust.edu.cn
+idp.ecust.edu.cn
+mail.ecust.edu.cn
+owa.ecust.edu.cn
+pan.ecust.edu.cn
+www.e.ecust.edu.cn
+www.pan.ecust.edu.cn
+www.yunpan.ecust.edu.cn
+yunpan.ecust.edu.cn

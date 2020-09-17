@@ -1,0 +1,121 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:10 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "X-Device": "desktop",
+            "Cache-Control": "no-cache, max-age=0",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Cache": "HIT",
+            "X-Served-By": "SIN.do",
+            "Last-Modified": "Wed, 16 Sep 2020 10:00:40 GMT",
+            "Strict-Transport-Security": "max-age=15768000; preload",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "sindonews.com": [
+                "103.144.190.121",
+                "103.144.190.2",
+                "103.144.190.3",
+                "103.144.190.123"
+            ],
+            "www.sindonews.com": [
+                "103.144.190.121",
+                "103.144.190.2",
+                "103.144.190.3",
+                "103.144.190.123"
+            ]
+        },
+        "ping": {
+            "sindonews.com": [
+                "103.144.190.123",
+                "103.144.190.121",
+                "103.144.190.2"
+            ],
+            "www.sindonews.com": [
+                "103.144.190.3",
+                "103.144.190.2",
+                "103.144.190.123",
+                "103.144.190.121"
+            ]
+        },
+        "CNAME": {
+            "www.sindonews.com": [
+                "sindonews.com."
+            ]
+        },
+        "A": {
+            "www.sindonews.com": [
+                "103.144.190.3",
+                "103.144.190.121",
+                "103.144.190.123",
+                "103.144.190.2"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:57 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "X-Device": "desktop",
+            "Cache-Control": "no-cache, max-age=0",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Cache": "HIT",
+            "X-Served-By": "SIN.do",
+            "Last-Modified": "Wed, 16 Sep 2020 10:00:13 GMT",
+            "Strict-Transport-Security": "max-age=15768000; preload",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "sindonews.com": [
+                "103.144.190.121",
+                "103.144.190.2",
+                "103.144.190.123",
+                "103.144.190.3"
+            ],
+            "www.sindonews.com": [
+                "103.144.190.123",
+                "103.144.190.2",
+                "103.144.190.3",
+                "103.144.190.121"
+            ]
+        },
+        "ping": {
+            "sindonews.com": [
+                "103.144.190.3",
+                "103.144.190.123",
+                "103.144.190.2",
+                "103.144.190.121"
+            ],
+            "www.sindonews.com": [
+                "103.144.190.3",
+                "103.144.190.121",
+                "103.144.190.123",
+                "103.144.190.2"
+            ]
+        },
+        "CNAME": {
+            "www.sindonews.com": [
+                "sindonews.com."
+            ]
+        },
+        "A": {
+            "www.sindonews.com": [
+                "103.144.190.3",
+                "103.144.190.2",
+                "103.144.190.123",
+                "103.144.190.121"
+            ]
+        }
+    }
+}

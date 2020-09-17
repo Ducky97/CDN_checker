@@ -1,0 +1,88 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:32:43 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "CF-Ray": "5d3a44b83d7ed9c0-SIN",
+            "Cache-Control": "private",
+            "Set-Cookie": "patreon_device_id=ad069003-e1f3-41bf-98f6-d39d237c0676; Domain=patreon.com; Expires=Tue, 11-Sep-2040 11:32:43 GMT; Max-Age=630720000; Path=/",
+            "Strict-Transport-Security": "max-age=2592000",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "05384947260000d9c03b17c200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Referrer-Policy": "origin,strict-origin-when-cross-origin",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "sameorigin",
+            "X-Patreon-UUID": "d74ef384-8574-441b-8d1f-800de3945c96",
+            "X-XSS-Protection": "1; mode=block",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "patreon.com": [
+                "104.16.6.49",
+                "104.16.7.49"
+            ],
+            "www.patreon.com:443": []
+        },
+        "ping": {
+            "patreon.com": [
+                "104.16.6.49",
+                "104.16.7.49"
+            ],
+            "www.patreon.com:443": null
+        },
+        "CNAME": {
+            "www.patreon.com:443": null
+        },
+        "A": {
+            "www.patreon.com:443": null
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:32:44 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "CF-Ray": "5d3a44c208ecdcca-SIN",
+            "Cache-Control": "private",
+            "Set-Cookie": "patreon_device_id=31b4fee5-f474-4244-8e77-b6e6ca3abed0; Domain=patreon.com; Expires=Tue, 11-Sep-2040 11:32:44 GMT; Max-Age=630720000; Path=/",
+            "Strict-Transport-Security": "max-age=2592000",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0538494d450000dcca6b322200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Referrer-Policy": "origin,strict-origin-when-cross-origin",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "sameorigin",
+            "X-Patreon-UUID": "db049a10-bc00-458f-b6ab-2c856486a43f",
+            "X-XSS-Protection": "1; mode=block",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "patreon.com": [
+                "104.16.6.49",
+                "104.16.7.49"
+            ],
+            "www.patreon.com:443": []
+        },
+        "ping": {
+            "patreon.com": [
+                "104.16.6.49",
+                "104.16.7.49"
+            ],
+            "www.patreon.com:443": null
+        },
+        "CNAME": {
+            "www.patreon.com:443": null
+        },
+        "A": {
+            "www.patreon.com:443": null
+        }
+    }
+}

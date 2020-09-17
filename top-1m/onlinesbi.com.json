@@ -1,0 +1,89 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:55 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Last-Modified": "Fri, 11 Sep 2020 09:57:53 GMT",
+            "Accept-Ranges": "bytes",
+            "X-OneAgent-JS-Injection": "true",
+            "X-ruxit-JS-Agent": "true",
+            "X-XSS-Protection": "1; mode=block",
+            "Set-Cookie": "dtCookie=v_4_srv_11_sn_67706A7F597293B8417BE08BEC1E733F_perc_100000_ol_0_mul_1; Path=/; Domain=.onlinesbi.com; secure, imc7=0abd8b0ffb9d461d0051; Path=/; Domain=www.onlinesbi.com; Secure; HttpOnly, imc6=2ff14de8286e56680052; Path=/; Domain=www.onlinesbi.com; Secure; HttpOnly",
+            "Keep-Alive": "timeout=10, max=500",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "onlinesbi.com": [
+                "103.68.221.190"
+            ],
+            "www.onlinesbi.com": [
+                "103.68.221.190"
+            ]
+        },
+        "ping": {
+            "onlinesbi.com": [
+                "103.68.221.190"
+            ],
+            "www.onlinesbi.com": [
+                "103.68.221.190"
+            ]
+        },
+        "CNAME": {
+            "www.onlinesbi.com": null
+        },
+        "A": {
+            "www.onlinesbi.com": [
+                "103.68.221.190"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:23:01 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Last-Modified": "Fri, 11 Sep 2020 09:57:53 GMT",
+            "Accept-Ranges": "bytes",
+            "X-OneAgent-JS-Injection": "true",
+            "X-ruxit-JS-Agent": "true",
+            "X-XSS-Protection": "1; mode=block",
+            "Keep-Alive": "timeout=10, max=500",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "onlinesbi.com": [
+                "103.68.221.190"
+            ],
+            "www.onlinesbi.com": [
+                "103.68.221.190"
+            ]
+        },
+        "ping": {
+            "onlinesbi.com": [
+                "103.68.221.190"
+            ],
+            "www.onlinesbi.com": [
+                "103.68.221.190"
+            ]
+        },
+        "CNAME": {
+            "www.onlinesbi.com": null
+        },
+        "A": {
+            "www.onlinesbi.com": [
+                "103.68.221.190"
+            ]
+        }
+    }
+}

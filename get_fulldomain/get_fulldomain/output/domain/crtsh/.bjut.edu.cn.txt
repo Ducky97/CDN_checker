@@ -1,0 +1,9 @@
+*.bjut.edu.cn
+*.emails.bjut.edu.cn
+*.webvpn.bjut.edu.cn
+autodiscover.bjut.edu.cn
+emails.bjut.edu.cn
+kjcxx.bjut.edu.cn
+mail.bjut.edu.cn
+owa.bjut.edu.cn
+webvpn.bjut.edu.cn

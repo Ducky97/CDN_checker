@@ -1,0 +1,101 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 10:01:23 GMT",
+            "x-amz-rid": "4HHKNN72MRMGRFFG5F4V",
+            "Set-cookie": "session-id-time=2082758401l; path=/; domain=.primevideo.com; expires=Thu, 16-Sep-2021 10:01:23 GMT, session-id=357-2933652-2154407; path=/; domain=.primevideo.com; expires=Thu, 16-Sep-2021 10:01:23 GMT; secure",
+            "x-amz-id-1": "4HHKNN72MRMGRFFG5F4V",
+            "x-av-id-2": "FrG/XajZDtDDmSLK52z6knLbjPj+FE0rXwbEF3fPhvZ6jyUOAUFZgA==",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 f9a9e5a2fe899e7acf3e13d8d7a34642.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "R06fH46Xwg6vShGjHcoKd_gR3W-8N9WnerF84TJRvcCLqJ-_w7WNew=="
+        },
+        "nslookup": {
+            "primevideo.com": [
+                "13.224.250.34",
+                "13.224.250.52",
+                "13.224.250.53",
+                "13.224.250.83"
+            ],
+            "www.primevideo.com": [
+                "13.35.20.221"
+            ]
+        },
+        "ping": {
+            "primevideo.com": [
+                "13.224.250.52",
+                "13.224.250.83",
+                "13.224.250.34"
+            ],
+            "www.primevideo.com": [
+                "13.35.20.221"
+            ]
+        },
+        "CNAME": {
+            "www.primevideo.com": null
+        },
+        "A": {
+            "www.primevideo.com": [
+                "13.35.20.221"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 10:01:24 GMT",
+            "x-amz-rid": "E18TVRFHP0AG79GZW783",
+            "Set-cookie": "session-id-time=2082758401l; path=/; domain=.primevideo.com; expires=Thu, 16-Sep-2021 10:01:24 GMT, session-id=356-4616304-3528030; path=/; domain=.primevideo.com; expires=Thu, 16-Sep-2021 10:01:24 GMT; secure",
+            "x-amz-id-1": "E18TVRFHP0AG79GZW783",
+            "x-av-id-2": "sVYhFbxKsUbt4JFISwC+fkeOilERkBFyGpaB9GVGwdKJYVKSxK9aYA==",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 f28347a3148f4f8fa1d930375689073d.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "JxdtY_gGKZcNIRXaEN7MAG39AJwo05BynwZj_xkzjs_Qlx-Ra0iklA=="
+        },
+        "nslookup": {
+            "primevideo.com": [
+                "13.224.250.83",
+                "13.224.250.52",
+                "13.224.250.53",
+                "13.224.250.34"
+            ],
+            "www.primevideo.com": [
+                "13.35.20.221"
+            ]
+        },
+        "ping": {
+            "primevideo.com": [
+                "13.224.250.52",
+                "13.224.250.53",
+                "13.224.250.83",
+                "13.224.250.34"
+            ],
+            "www.primevideo.com": [
+                "13.35.20.221"
+            ]
+        },
+        "CNAME": {
+            "www.primevideo.com": null
+        },
+        "A": {
+            "www.primevideo.com": [
+                "13.35.20.221"
+            ]
+        }
+    }
+}

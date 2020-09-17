@@ -1,0 +1,38 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 11:00:46 GMT",
+            "Server": "Apache",
+            "X-Powered-By": "PHP/5.3.3",
+            "Set-Cookie": "PHPSESSID=hu2i8c25hffht4iule422e9v22; path=/",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Content-Length": "1995",
+            "Keep-Alive": "timeout=150, max=10000",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html; charset=utf-8"
+        },
+        "nslookup": {
+            "commencement.saif.sjtu.edu.cn": [
+                "139.224.15.161"
+            ]
+        },
+        "ping": {
+            "commencement.saif.sjtu.edu.cn": [
+                "139.224.15.161"
+            ]
+        },
+        "CNAME": {
+            "commencement.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "commencement.saif.sjtu.edu.cn": [
+                "139.224.15.161"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,74 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:36:16 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "__cfduid=d8df99ac75753d4b4f3f6fb1316c83f831600256176; expires=Fri, 16-Oct-20 11:36:16 GMT; path=/; domain=.albawabhnews.com; HttpOnly; SameSite=Lax, __cf_bm=c37fa842f6231930abefafb721eea851cef30293-1600256176-1800-AXsDkn2o6n2KPywcWYzjo4mXPnAlBPOqr+l0cqw3K664uLxjUA/NxsTv+iJAkCvc8faA9lHq5Vjdnv+4uvfLZfE=; path=/; expires=Wed, 16-Sep-20 12:06:16 GMT; domain=.albawabhnews.com; HttpOnly; SameSite=None",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "cf-request-id": "05384c8b29000018c6110c1200000001",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a49f1db2918c6-SIN"
+        },
+        "nslookup": {
+            "albawabhnews.com": [
+                "172.67.223.207",
+                "104.24.120.1",
+                "104.24.121.1"
+            ]
+        },
+        "ping": {
+            "albawabhnews.com": [
+                "172.67.223.207",
+                "104.24.121.1"
+            ]
+        },
+        "CNAME": {
+            "albawabhnews.com": "still a low_level domain_name"
+        },
+        "A": {
+            "albawabhnews.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:36:17 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "__cfduid=ddec6bcd1af20d932cc1ae390eb7ad79a1600256177; expires=Fri, 16-Oct-20 11:36:17 GMT; path=/; domain=.albawabhnews.com; HttpOnly; SameSite=Lax",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "cf-request-id": "05384c8b97000018c2198f8200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a49f28a7718c2-SIN"
+        },
+        "nslookup": {
+            "albawabhnews.com": [
+                "104.24.120.1",
+                "172.67.223.207",
+                "104.24.121.1"
+            ]
+        },
+        "ping": {
+            "albawabhnews.com": [
+                "172.67.223.207",
+                "104.24.121.1",
+                "104.24.120.1"
+            ]
+        },
+        "CNAME": {
+            "albawabhnews.com": "still a low_level domain_name"
+        },
+        "A": {
+            "albawabhnews.com": "still a low_level domain_name"
+        }
+    }
+}

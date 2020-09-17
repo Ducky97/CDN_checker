@@ -1,0 +1,72 @@
+{
+    "http": {
+        "header": {
+            "Server": "SGW",
+            "Date": "Wed, 16 Sep 2020 11:59:35 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Wed, 16 Sep 2020 09:30:11 GMT",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5f61db23-6a18\"",
+            "Content-Encoding": "gzip",
+            "Expires": "Wed, 16 Sep 2020 11:59:34 GMT",
+            "Cache-Control": "no-cache, no-cache, no-store",
+            "Content-Security-Policy": "frame-ancestors 'self' *.shopeemobile.com *.shopee.com.my *.shopee.cn *.facebook.com; "
+        },
+        "nslookup": {
+            "shopee.com.my": [
+                "150.109.45.132",
+                "150.109.39.132"
+            ]
+        },
+        "ping": {
+            "shopee.com.my": [
+                "103.115.78.68"
+            ]
+        },
+        "CNAME": {
+            "shopee.com.my": null
+        },
+        "A": {
+            "shopee.com.my": [
+                "103.115.78.68"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "SGW",
+            "Date": "Wed, 16 Sep 2020 11:59:35 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Wed, 16 Sep 2020 09:30:11 GMT",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5f61db23-6a18\"",
+            "Content-Encoding": "gzip",
+            "Expires": "Wed, 16 Sep 2020 11:59:34 GMT",
+            "Cache-Control": "no-cache, no-cache, no-store",
+            "Content-Security-Policy": "frame-ancestors 'self' *.shopeemobile.com *.shopee.com.my *.shopee.cn *.facebook.com; "
+        },
+        "nslookup": {
+            "shopee.com.my": [
+                "150.109.39.132",
+                "150.109.45.132"
+            ]
+        },
+        "ping": {
+            "shopee.com.my": [
+                "103.115.78.68"
+            ]
+        },
+        "CNAME": {
+            "shopee.com.my": null
+        },
+        "A": {
+            "shopee.com.my": [
+                "103.115.78.68"
+            ]
+        }
+    }
+}

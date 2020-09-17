@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:29:29 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Tue, 15 Sep 2020 18:49:39 GMT",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5f610cc3-3121\"",
+            "Content-Encoding": "gzip",
+            "Set-Cookie": "BIGipServerPOOL_WWW_EBA=2536884234.20480.0000; path=/; Httponly, TS01b09a77=018ac14a76bb3389e25e93e7f0047647f5ae4dcf333f358bcbd5f930f436c78bdaab4e96ad0f32e1f2722d931e11c053ad5489c272c98acef6ae967e16e8e930a4400c9b8a; Path=/; Domain=.eba.gov.tr, TS94535cca027=08b640874eab2000504b7747bdec22b68e3485383b9021a6d3f5760e07a6e775d012555682818f40084bd3f470113000f270e22b39e9c488463c3e1b3a344dfc739bb0947dcd13666c5c2fd0c76d3eadcfd94c106854915f77a0ee10459c0fbe;Path=/",
+            "X-SERVER-ADDRESS": "10.200.53.151",
+            "X-SERVER-PORT": "80",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "eba.gov.tr": [
+                "85.111.38.85"
+            ]
+        },
+        "ping": {
+            "eba.gov.tr": [
+                "85.111.38.85"
+            ]
+        },
+        "CNAME": {
+            "eba.gov.tr": null
+        },
+        "A": {
+            "eba.gov.tr": [
+                "85.111.38.85"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:28:50 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Tue, 15 Sep 2020 18:49:13 GMT",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "ETag": "W/\"5f610ca9-3121\"",
+            "Content-Encoding": "gzip",
+            "Set-Cookie": "BIGipServerPOOL_WWW_EBA=2251671562.20480.0000; path=/; Httponly; Secure, TS01b09a77=018ac14a76ca6f8e8b69dddde2486bd331466d866081da2e1af0d1f3710e564df1311108a9c7a1aa42e730339c3db66e3baff9397a61fbcb9801bda8050504429e38b46827; Path=/; Domain=.eba.gov.tr, TSf4b5d23b027=08b640874eab200085d05e47cbe144c455eb5ebf1b346fec0ea9bd52ac075c06a3a84fec7a14f94508cb14e71a113000817195aeb1b0a0fc588a11403510b1c0ffbbc32fbb68ec7a9a4d890ae4570ab5e3cec719e90418a36ef0b1cf622125cd;Path=/",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "eba.gov.tr": [
+                "85.111.38.85"
+            ]
+        },
+        "ping": {
+            "eba.gov.tr": [
+                "85.111.38.85"
+            ]
+        },
+        "CNAME": {
+            "eba.gov.tr": null
+        },
+        "A": {
+            "eba.gov.tr": [
+                "85.111.38.85"
+            ]
+        }
+    }
+}

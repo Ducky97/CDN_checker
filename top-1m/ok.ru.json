@@ -1,0 +1,90 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache",
+            "Date": "Wed, 16 Sep 2020 09:18:53 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "bci=6241934876165688886; Domain=.ok.ru; Expires=Mon, 04-Oct-2088 12:33:00 GMT; Path=/; Secure; HttpOnly, _statid=9e3c2d57-37e0-4263-a9cd-ba6adf02fa0e; Domain=.ok.ru; Expires=Mon, 04-Oct-2088 12:33:00 GMT; Path=/; Secure; HttpOnly, landref=maoyan.com; Domain=.ok.ru; Path=/; Secure",
+            "Content-Security-Policy": "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.serving-sys.com *.googleapis.com *.gstatic.com www.google.com https://api-maps.yandex.ru yastatic.net yandex.st *.doubleverify.com *.adsafeprotected.com https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://football.sportmail.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru https://clck.yandex.ru *.googleapis.com *.gstatic.com www.google.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.doubleverify.com *.dvtps.com *.doubleclick.net *.googletagservices.com *.googlesyndication.com *.googleadservices.com *.goodgame.ru https://*.goodgame.ru https://*.moatads.com *.adlooxtracking.com *.adsafeprotected.com *.serving-sys.com https://enterprise.api-maps.yandex.ru https://suggest-maps.yandex.ru https://*.hit.gemius.pl https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://gum.criteo.com https://football.sportmail.ru;  worker-src blob: 'self';  connect-src * wss: blob:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;",
+            "Content-Security-Policy-Report-Only": "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;",
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=63072000;includeSubdomains;preload",
+            "Rendered-Blocks": "HtmlPage",
+            "X-ScT": "true",
+            "X-FRAME-OPTIONS": "SAMEORIGIN",
+            "fetchedAll": "true",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ok.ru": [
+                "217.20.155.13",
+                "217.20.147.1",
+                "5.61.23.11"
+            ]
+        },
+        "ping": {
+            "ok.ru": [
+                "217.20.147.1",
+                "5.61.23.11",
+                "217.20.155.13"
+            ]
+        },
+        "CNAME": {
+            "ok.ru": "still a low_level domain_name"
+        },
+        "A": {
+            "ok.ru": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Apache",
+            "Date": "Wed, 16 Sep 2020 09:18:55 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "bci=-2217880222296696348; Domain=.ok.ru; Expires=Mon, 04-Oct-2088 12:33:02 GMT; Path=/; Secure; HttpOnly, _statid=fee05338-9245-4a9e-91d8-eeef2dec5284; Domain=.ok.ru; Expires=Mon, 04-Oct-2088 12:33:02 GMT; Path=/; Secure; HttpOnly, landref=maoyan.com; Domain=.ok.ru; Path=/; Secure",
+            "Content-Security-Policy": "default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.serving-sys.com *.googleapis.com *.gstatic.com www.google.com https://api-maps.yandex.ru yastatic.net yandex.st *.doubleverify.com *.adsafeprotected.com https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://football.sportmail.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru https://clck.yandex.ru *.googleapis.com *.gstatic.com www.google.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.doubleverify.com *.dvtps.com *.doubleclick.net *.googletagservices.com *.googlesyndication.com *.googleadservices.com *.goodgame.ru https://*.goodgame.ru https://*.moatads.com *.adlooxtracking.com *.adsafeprotected.com *.serving-sys.com https://enterprise.api-maps.yandex.ru https://suggest-maps.yandex.ru https://*.hit.gemius.pl https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://gum.criteo.com https://football.sportmail.ru;  worker-src blob: 'self';  connect-src * wss: blob:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;",
+            "Content-Security-Policy-Report-Only": "default-src data: blob: about: 'self' 'unsafe-inline' 'unsafe-eval' https: wss:; report-uri /csp/report?always;",
+            "Cache-Control": "no-cache, no-store",
+            "Pragma": "no-cache",
+            "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=63072000;includeSubdomains;preload",
+            "Rendered-Blocks": "HtmlPage",
+            "X-ScT": "true",
+            "X-FRAME-OPTIONS": "SAMEORIGIN",
+            "fetchedAll": "true",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ok.ru": [
+                "5.61.23.11",
+                "217.20.147.1",
+                "217.20.155.13"
+            ]
+        },
+        "ping": {
+            "ok.ru": [
+                "217.20.147.1",
+                "5.61.23.11",
+                "217.20.155.13"
+            ]
+        },
+        "CNAME": {
+            "ok.ru": "still a low_level domain_name"
+        },
+        "A": {
+            "ok.ru": "still a low_level domain_name"
+        }
+    }
+}

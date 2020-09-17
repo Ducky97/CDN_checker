@@ -1,0 +1,96 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache",
+            "Strict-Transport-Security": "max-age=3600; includeSubDomains",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Credentials": "true",
+            "X-Frame-Options": "DENY",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Akamai-Transformed": "9 18458 0 pmb=mRUM,2",
+            "Cache-Control": "must-revalidate, max-age=3, s-maxage=21600",
+            "Date": "Wed, 16 Sep 2020 10:48:37 GMT",
+            "Content-Length": "20129",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=76"
+        },
+        "nslookup": {
+            "geeksforgeeks.org": [
+                "34.218.62.116"
+            ],
+            "www.geeksforgeeks.org": [
+                "111.223.64.18",
+                "111.223.64.8"
+            ]
+        },
+        "ping": {
+            "geeksforgeeks.org": [
+                "34.218.62.116"
+            ],
+            "www.geeksforgeeks.org": [
+                "124.155.222.145",
+                "124.155.222.146"
+            ]
+        },
+        "CNAME": {
+            "www.geeksforgeeks.org": [
+                "www.geeksforgeeks.org.edgesuite.net."
+            ]
+        },
+        "A": {
+            "www.geeksforgeeks.org": [
+                "124.155.222.145",
+                "124.155.222.146"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Apache",
+            "Strict-Transport-Security": "max-age=3600; includeSubDomains",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Credentials": "true",
+            "X-Frame-Options": "DENY",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Akamai-Transformed": "9 18458 0 pmb=mRUM,2",
+            "Cache-Control": "must-revalidate, max-age=3, s-maxage=21600",
+            "Date": "Wed, 16 Sep 2020 10:48:39 GMT",
+            "Content-Length": "20129",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=119"
+        },
+        "nslookup": {
+            "geeksforgeeks.org": [
+                "34.218.62.116"
+            ],
+            "www.geeksforgeeks.org": [
+                "111.223.64.8",
+                "111.223.64.18"
+            ]
+        },
+        "ping": {
+            "geeksforgeeks.org": [
+                "34.218.62.116"
+            ],
+            "www.geeksforgeeks.org": [
+                "124.155.222.145",
+                "124.155.222.146"
+            ]
+        },
+        "CNAME": {
+            "www.geeksforgeeks.org": [
+                "www.geeksforgeeks.org.edgesuite.net."
+            ]
+        },
+        "A": {
+            "www.geeksforgeeks.org": [
+                "124.155.222.145",
+                "124.155.222.146"
+            ]
+        }
+    }
+}

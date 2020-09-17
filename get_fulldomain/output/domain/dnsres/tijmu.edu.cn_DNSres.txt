@@ -1,0 +1,732 @@
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for asp.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for basemed.tijmu.edu.cn
+
+NXDOMAIN for ca.tijmu.edu.cn
+
+NXDOMAIN for ca.tijmu.edu.cn
+
+NXDOMAIN for ca.tijmu.edu.cn
+
+NXDOMAIN for ca.tijmu.edu.cn
+
+NXDOMAIN for ca.tijmu.edu.cn
+
+NXDOMAIN for ca.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for ccidd.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for cmc.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cnca.tijmu.edu.cn
+
+NXDOMAIN for www.tijmu.edu.cncwjf.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cndns2.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cndns2.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cnjpk.tijmu.edu.cn
+
+NXDOMAIN for dns2.tijmu.edu.cnjxpj.tijmu.edu.cn
+
+NXDOMAIN for www.tijmu.edu.cnlibks.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cnoa.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cnsimhosp.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cnvpn.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cnwww.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwcx.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+NXDOMAIN for cwjf.tijmu.edu.cn
+
+dns.tijmu.edu.cn. 3600 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns.tijmu.edu.cn. 3599 IN A 202.113.48.10
+
+dns2.tijmu.edu.cn. 3600 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+dns2.tijmu.edu.cn. 3599 IN A 202.113.48.11
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for english.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cn
+
+NXDOMAIN for esky.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for hotmail.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cn
+
+NXDOMAIN for ids1.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for inf.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for ipgw.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cn
+
+NXDOMAIN for jjxh.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for job.tijmu.edu.cn
+
+NXDOMAIN for jpk.tijmu.edu.cn
+
+NXDOMAIN for jpk.tijmu.edu.cn
+
+NXDOMAIN for jpk.tijmu.edu.cn
+
+NXDOMAIN for jpk.tijmu.edu.cn
+
+NXDOMAIN for jpk.tijmu.edu.cn
+
+NXDOMAIN for jpk.tijmu.edu.cn
+
+NXDOMAIN for jw.tijmu.edu.cn
+
+NXDOMAIN for jw.tijmu.edu.cn
+
+NXDOMAIN for jw.tijmu.edu.cn
+
+NXDOMAIN for jw.tijmu.edu.cn
+
+NXDOMAIN for jw.tijmu.edu.cn
+
+NXDOMAIN for jw.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cn
+
+NXDOMAIN for jwc.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jwxt.tijmu.edu.cn
+
+NXDOMAIN for jxpj.tijmu.edu.cn
+
+NXDOMAIN for jxpj.tijmu.edu.cn
+
+NXDOMAIN for jxpj.tijmu.edu.cn
+
+NXDOMAIN for jxpj.tijmu.edu.cn
+
+NXDOMAIN for jxpj.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for jy6.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for ky.tijmu.edu.cn
+
+NXDOMAIN for lib.tijmu.edu.cn
+
+NXDOMAIN for lib.tijmu.edu.cn
+
+NXDOMAIN for lib.tijmu.edu.cn
+
+NXDOMAIN for lib.tijmu.edu.cn
+
+NXDOMAIN for lib.tijmu.edu.cn
+
+NXDOMAIN for lib.tijmu.edu.cn
+
+NXDOMAIN for libks.tijmu.edu.cn
+
+NXDOMAIN for libks.tijmu.edu.cn
+
+NXDOMAIN for libks.tijmu.edu.cn
+
+NXDOMAIN for libks.tijmu.edu.cn
+
+NXDOMAIN for libks.tijmu.edu.cn
+
+NXDOMAIN for libks.tijmu.edu.cn
+
+mail.tijmu.edu.cn. 3600 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+mail.tijmu.edu.cn. 3599 IN CNAME mailhz.qiye.163.com.
+mailhz.qiye.163.com. 1346 IN A 123.58.177.239
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for mailgw.tijmu.edu.cn
+
+NXDOMAIN for oa.tijmu.edu.cn
+
+NXDOMAIN for oa.tijmu.edu.cn
+
+NXDOMAIN for oa.tijmu.edu.cn
+
+NXDOMAIN for oa.tijmu.edu.cn
+
+NXDOMAIN for oa.tijmu.edu.cn
+
+NXDOMAIN for oa.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for ppk2.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for riil.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for sg.tijmu.edu.cn
+
+NXDOMAIN for simhosp.tijmu.edu.cn
+
+NXDOMAIN for simhosp.tijmu.edu.cn
+
+NXDOMAIN for simhosp.tijmu.edu.cn
+
+NXDOMAIN for simhosp.tijmu.edu.cn
+
+NXDOMAIN for simhosp.tijmu.edu.cn
+
+NXDOMAIN for simhosp.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for yz.student.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tccwc.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for tijmu60.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for video.tijmu.edu.cn
+
+NXDOMAIN for vpn.tijmu.edu.cn
+
+NXDOMAIN for vpn.tijmu.edu.cn
+
+NXDOMAIN for vpn.tijmu.edu.cn
+
+NXDOMAIN for vpn.tijmu.edu.cn
+
+NXDOMAIN for vpn.tijmu.edu.cn
+
+NXDOMAIN for vpn.tijmu.edu.cn
+
+NXDOMAIN for web.tijmu.edu.cn
+
+NXDOMAIN for web.tijmu.edu.cn
+
+NXDOMAIN for web.tijmu.edu.cn
+
+NXDOMAIN for web.tijmu.edu.cn
+
+NXDOMAIN for web.tijmu.edu.cn
+
+NXDOMAIN for web.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cn
+
+NXDOMAIN for wps.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+NXDOMAIN for wsus.tijmu.edu.cn
+
+www.tijmu.edu.cn. 3600 IN CNAME ff1765a60581aefc.cname.365cyd.cn.
+ff1765a60581aefc.cname.365cyd.cn. 99 IN A 202.113.48.13
+
+www.tijmu.edu.cn. 3599 IN CNAME ff1765a60581aefc.cname.365cyd.cn.
+ff1765a60581aefc.cname.365cyd.cn. 99 IN A 202.113.48.13
+
+www.tijmu.edu.cn. 3599 IN CNAME ff1765a60581aefc.cname.365cyd.cn.
+ff1765a60581aefc.cname.365cyd.cn. 99 IN A 202.113.48.13
+
+NXDOMAIN for xggl.tijmu.edu.cn
+
+NXDOMAIN for xggl.tijmu.edu.cn
+
+NXDOMAIN for xggl.tijmu.edu.cn
+
+NXDOMAIN for xggl.tijmu.edu.cn
+
+NXDOMAIN for xggl.tijmu.edu.cn
+
+NXDOMAIN for xggl.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for yjscj.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for ykt.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for yx.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cn
+
+NXDOMAIN for zzb.tijmu.edu.cn
+

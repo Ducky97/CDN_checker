@@ -1,0 +1,2169 @@
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+NXDOMAIN for V.ZZU.EDU.CN
+
+www.V.ZZU.EDU.CN. 0 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 30 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+www.V.ZZU.EDU.CN. 29 IN A 220.250.64.225
+
+2018nanobio.zzu.edu.cn. 36000 IN A 202.197.190.85
+
+2018nanobio.zzu.edu.cn. 7199 IN A 202.197.190.85
+
+2018nanobio.zzu.edu.cn. 7199 IN A 202.197.190.85
+
+2018nanobio.zzu.edu.cn. 7199 IN A 202.197.190.85
+
+www.V.ZZU.EDU.CNgo.zzu.edu.cn. 0 IN A 220.250.64.225
+
+acc.zzu.edu.cn. 21806 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acc.zzu.edu.cn. 7199 IN A 202.196.64.11
+
+acm.zzu.edu.cn. 36000 IN A 222.22.65.164
+
+alumni.zzu.edu.cn. 3945 IN A 202.197.190.58
+
+alumni.zzu.edu.cn. 3944 IN A 202.197.190.58
+
+alumni.zzu.edu.cn. 3944 IN A 202.197.190.58
+
+alumni.zzu.edu.cn. 3944 IN A 202.197.190.58
+
+alumni.zzu.edu.cn. 3944 IN A 202.197.190.58
+
+ams.zzu.edu.cn. 36000 IN A 202.197.190.74
+
+ams.zzu.edu.cn. 7199 IN A 202.197.190.74
+
+ams.zzu.edu.cn. 7199 IN A 202.197.190.74
+
+ams.zzu.edu.cn. 7199 IN A 202.197.190.74
+
+ao.zzu.edu.cn. 36000 IN A 202.197.190.90
+
+ao.zzu.edu.cn. 7199 IN A 202.197.190.90
+
+ao.zzu.edu.cn. 7199 IN A 202.197.190.90
+
+ao.zzu.edu.cn. 7199 IN A 202.197.190.90
+
+ao.zzu.edu.cn. 7199 IN A 202.197.190.90
+
+app2.zzu.edu.cn. 36000 IN A 222.22.63.127
+
+app2.zzu.edu.cn. 7199 IN A 222.22.63.127
+
+app2.zzu.edu.cn. 7199 IN A 222.22.63.127
+
+app2.zzu.edu.cn. 7199 IN A 222.22.63.127
+
+app6.zzu.edu.cn. 36000 IN A 222.22.63.113
+
+app6.zzu.edu.cn. 7199 IN A 222.22.63.113
+
+app6.zzu.edu.cn. 7199 IN A 222.22.63.113
+
+app6.zzu.edu.cn. 7199 IN A 222.22.63.113
+
+app6.zzu.edu.cn. 7199 IN A 222.22.63.113
+
+apply.zzu.edu.cn. 0 IN A 220.250.64.225
+
+apply.zzu.edu.cn. 30 IN A 220.250.64.225
+
+apply.zzu.edu.cn. 29 IN A 220.250.64.225
+
+apply.zzu.edu.cn. 29 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 0 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 30 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 29 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 29 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 29 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 29 IN A 220.250.64.225
+
+b5.zzu.edu.cn. 29 IN A 220.250.64.225
+
+badip.zzu.edu.cn. 36000 IN A 202.196.64.224
+
+badip.zzu.edu.cn. 7199 IN A 202.196.64.224
+
+badip.zzu.edu.cn. 7199 IN A 202.196.64.224
+
+badip.zzu.edu.cn. 7199 IN A 202.196.64.224
+
+badip.zzu.edu.cn. 7199 IN A 202.196.64.224
+
+badip.zzu.edu.cn. 7199 IN A 202.196.64.224
+
+badip.zzu.edu.cn. 7199 IN A 202.196.64.224
+
+bookbuy.zzu.edu.cn. 36000 IN A 202.197.191.163
+
+bookbuy.zzu.edu.cn. 7199 IN A 202.197.191.163
+
+bookbuy.zzu.edu.cn. 7199 IN A 202.197.191.163
+
+bookbuy.zzu.edu.cn. 7199 IN A 202.197.191.163
+
+bslt.zzu.edu.cn. 36000 IN A 202.196.64.18
+
+bslt.zzu.edu.cn. 7199 IN A 202.196.64.18
+
+bslt.zzu.edu.cn. 7199 IN A 202.196.64.18
+
+bslt.zzu.edu.cn. 7199 IN A 202.196.64.18
+
+bslt.zzu.edu.cn. 7199 IN A 202.196.64.18
+
+bslt.zzu.edu.cn. 7199 IN A 202.196.64.18
+
+bslt.zzu.edu.cn. 7199 IN A 202.196.64.18
+
+ca.zzu.edu.cn. 36000 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+ca.zzu.edu.cn. 7199 IN A 202.196.64.187
+
+cas.zzu.edu.cn. 36000 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+cas.zzu.edu.cn. 7199 IN A 202.196.64.103
+
+ceee.zzu.edu.cn. 36000 IN A 222.22.63.60
+
+cictsmr-zzub.zzu.edu.cn. 36000 IN CNAME alumni.zzu.edu.cn.
+alumni.zzu.edu.cn. 7199 IN A 202.197.190.58
+
+cictsmr-zzub.zzu.edu.cn. 7199 IN CNAME alumni.zzu.edu.cn.
+alumni.zzu.edu.cn. 7199 IN A 202.197.190.58
+
+cictsmr-zzub.zzu.edu.cn. 7199 IN CNAME alumni.zzu.edu.cn.
+alumni.zzu.edu.cn. 7199 IN A 202.197.190.58
+
+cictsmr-zzub.zzu.edu.cn. 7199 IN CNAME alumni.zzu.edu.cn.
+alumni.zzu.edu.cn. 7199 IN A 202.197.190.58
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 0 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 30 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn<BR>zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+b5.zzu.edu.cnbslt.zzu.edu.cn. 0 IN A 220.250.64.225
+
+dls.v.zzu.edu.cndns2a.zzu.edu.cn. 0 IN A 220.250.64.225
+
+fanya.zzu.edu.cndns3.zzu.edu.cn. 0 IN A 220.250.64.225
+
+go.zzu.edu.cnv.zzu.edu.cn. 0 IN A 220.250.64.225
+
+www.v.zzu.edu.cnv.zzu.edu.cn. 0 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cnvod.zzu.edu.cn. 0 IN A 220.250.64.225
+
+paobu.zzu.edu.cnzhibo.zzu.edu.cn. 0 IN A 220.250.64.225
+
+cod.zzu.edu.cn. 0 IN A 220.250.64.225
+
+cod.zzu.edu.cn. 30 IN A 220.250.64.225
+
+cod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+cod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+cwp.zzu.edu.cn. 36000 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+cwp.zzu.edu.cn. 7199 IN A 202.196.64.121
+
+dayi.zzu.edu.cn. 600 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dayi.zzu.edu.cn. 599 IN A 123.15.57.83
+
+dls.zzu.edu.cn. 30 IN A 222.22.63.60
+
+dls.zzu.edu.cn. 29 IN A 222.22.63.60
+
+dls.zzu.edu.cn. 29 IN A 222.22.63.60
+
+dls.zzu.edu.cn. 29 IN A 222.22.63.60
+
+dls.zzu.edu.cn. 29 IN A 222.22.63.60
+
+dns.zzu.edu.cn. 36000 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns1a.zzu.edu.cn. 36000 IN A 202.196.64.27
+
+dns1a.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns1a.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns1a.zzu.edu.cn. 7199 IN A 202.196.64.27
+
+dns2.zzu.edu.cn. 36000 IN A 202.196.64.36
+
+dns2.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 36000 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns2a.zzu.edu.cn. 7199 IN A 202.196.64.36
+
+dns3.zzu.edu.cn. 36000 IN A 202.196.64.1
+
+dns3.zzu.edu.cn. 7199 IN A 202.196.64.1
+
+dns3.zzu.edu.cn. 7199 IN A 202.196.64.1
+
+dns3.zzu.edu.cn. 7199 IN A 202.196.64.1
+
+dns3.zzu.edu.cn. 7199 IN A 202.196.64.1
+
+dns3.zzu.edu.cn. 7199 IN A 202.196.64.1
+
+dns3.zzu.edu.cn. 7199 IN A 202.196.64.1
+
+dns4.zzu.edu.cn. 36000 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns4.zzu.edu.cn. 7199 IN A 202.196.64.2
+
+dns5.zzu.edu.cn. 36000 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns5.zzu.edu.cn. 7199 IN A 202.196.64.3
+
+dns55.zzu.edu.cn. 36000 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns55.zzu.edu.cn. 7199 IN A 202.196.64.4
+
+dns9.zzu.edu.cn. 36000 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dns9.zzu.edu.cn. 7199 IN A 202.196.64.57
+
+dongman.zzu.edu.cn. 36000 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+dongman.zzu.edu.cn. 7199 IN A 10.66.0.136
+
+ebook.zzu.edu.cn. 36000 IN A 202.196.64.114
+
+ecard.zzu.edu.cn. 0 IN A 220.250.64.225
+
+ecard.zzu.edu.cn. 29 IN A 220.250.64.225
+
+ecard.zzu.edu.cn. 28 IN A 220.250.64.225
+
+ecard.zzu.edu.cn. 28 IN A 220.250.64.225
+
+edf.zzu.edu.cn. 3943 IN A 202.197.190.58
+
+edf.zzu.edu.cn. 3942 IN A 202.197.190.58
+
+edf.zzu.edu.cn. 3942 IN A 202.197.190.58
+
+edf.zzu.edu.cn. 3942 IN A 202.197.190.58
+
+edf.zzu.edu.cn. 3942 IN A 202.197.190.58
+
+english.zzu.edu.cn. 600 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+english.zzu.edu.cn. 599 IN A 123.15.57.103
+
+fanya.zzu.edu.cn. 0 IN A 220.250.64.225
+
+fanya.zzu.edu.cn. 30 IN A 220.250.64.225
+
+fanya.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fanyai.zzu.edu.cn. 0 IN A 220.250.64.225
+
+fanyai.zzu.edu.cn. 30 IN A 220.250.64.225
+
+fanyai.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fanyai.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fanyamooc.zzu.edu.cn. 0 IN A 220.250.64.225
+
+fanyamooc.zzu.edu.cn. 30 IN A 220.250.64.225
+
+fanyamooc.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fanyamooc.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fanyapassport.zzu.edu.cn. 0 IN A 220.250.64.225
+
+fanyapassport.zzu.edu.cn. 30 IN A 220.250.64.225
+
+fanyapassport.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fanyapassport.zzu.edu.cn. 29 IN A 220.250.64.225
+
+fcc.zzu.edu.cn. 5389 IN A 123.15.54.100
+
+fcc.zzu.edu.cn. 5388 IN A 123.15.54.100
+
+fcc.zzu.edu.cn. 5388 IN A 123.15.54.100
+
+fcc.zzu.edu.cn. 5388 IN A 123.15.54.100
+
+fcc.zzu.edu.cn. 5388 IN A 123.15.54.100
+
+fcc2.zzu.edu.cn. 36000 IN A 123.15.57.40
+
+fcc2.zzu.edu.cn. 7199 IN A 123.15.57.40
+
+fcc2.zzu.edu.cn. 7199 IN A 123.15.57.40
+
+fcc2.zzu.edu.cn. 7199 IN A 123.15.57.40
+
+fcc3.zzu.edu.cn. 36000 IN A 123.15.57.40
+
+fcc3.zzu.edu.cn. 7199 IN A 123.15.57.40
+
+fcc3.zzu.edu.cn. 7199 IN A 123.15.57.40
+
+fcc3.zzu.edu.cn. 7199 IN A 123.15.57.40
+
+forum.zzu.edu.cn. 36000 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+forum.zzu.edu.cn. 7199 IN A 202.196.64.31
+
+gmzd.zzu.edu.cn. 36000 IN A 202.197.190.10
+
+gmzd.zzu.edu.cn. 7199 IN A 202.197.190.10
+
+gmzd.zzu.edu.cn. 7199 IN A 202.197.190.10
+
+gmzd.zzu.edu.cn. 7199 IN A 202.197.190.10
+
+go.zzu.edu.cn. 36000 IN A 202.196.64.60
+
+go.zzu.edu.cn. 7199 IN A 202.196.64.60
+
+go.zzu.edu.cn. 7199 IN A 202.196.64.60
+
+go.zzu.edu.cn. 7199 IN A 202.196.64.60
+
+go.zzu.edu.cn. 7199 IN A 202.196.64.60
+
+go.zzu.edu.cn. 7199 IN A 202.196.64.60
+
+goo.zzu.edu.cn. 36000 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+goo.zzu.edu.cn. 7199 IN A 202.196.64.64
+
+gs.zzu.edu.cn. 60 IN A 202.196.64.198
+
+gs.zzu.edu.cn. 59 IN A 202.196.64.198
+
+gs.zzu.edu.cn. 59 IN A 202.196.64.198
+
+gs.zzu.edu.cn. 59 IN A 202.196.64.198
+
+gs.zzu.edu.cn. 59 IN A 202.196.64.198
+
+gs2.zzu.edu.cn. 60 IN A 202.197.190.41
+
+gs2.zzu.edu.cn. 59 IN A 202.197.190.41
+
+gs2.zzu.edu.cn. 59 IN A 202.197.190.41
+
+gs2.zzu.edu.cn. 59 IN A 202.197.190.41
+
+gs2.zzu.edu.cn. 59 IN A 202.197.190.41
+
+guanyu.zzu.edu.cn. 0 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 30 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 29 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 29 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 29 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 29 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 29 IN A 220.250.64.225
+
+guanyu.zzu.edu.cn. 29 IN A 220.250.64.225
+
+gxb.zzu.edu.cn. 36000 IN A 202.197.190.81
+
+gxb.zzu.edu.cn. 7199 IN A 202.197.190.81
+
+gxb.zzu.edu.cn. 7199 IN A 202.197.190.81
+
+gxb.zzu.edu.cn. 7199 IN A 202.197.190.81
+
+gxb.zzu.edu.cn. 7199 IN A 202.197.190.81
+
+hg.zzu.edu.cn. 36000 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+hg.zzu.edu.cn. 7199 IN A 202.196.64.249
+
+houqin.zzu.edu.cn. 36000 IN A 202.197.190.35
+
+houqin.zzu.edu.cn. 7199 IN A 202.197.190.35
+
+houqin.zzu.edu.cn. 7199 IN A 202.197.190.35
+
+houqin.zzu.edu.cn. 7199 IN A 202.197.190.35
+
+houqin.zzu.edu.cn. 7199 IN A 202.197.190.35
+
+hqyy.zzu.edu.cn. 36000 IN A 222.22.63.207
+
+hqyy.zzu.edu.cn. 7199 IN A 222.22.63.207
+
+hqyy.zzu.edu.cn. 7199 IN A 222.22.63.207
+
+hqyy.zzu.edu.cn. 7199 IN A 222.22.63.207
+
+hqyy.zzu.edu.cn. 7199 IN A 222.22.63.207
+
+hqyy.zzu.edu.cn. 7199 IN A 222.22.63.207
+
+hwcs.zzu.edu.cn. 36000 IN A 123.15.57.86
+
+hwcs.zzu.edu.cn. 7199 IN A 123.15.57.86
+
+hwcs.zzu.edu.cn. 7199 IN A 123.15.57.86
+
+hwcs.zzu.edu.cn. 7199 IN A 123.15.57.86
+
+hxx.zzu.edu.cn. 0 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 30 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 29 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 29 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 29 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 29 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 29 IN A 220.250.64.225
+
+hxx.zzu.edu.cn. 29 IN A 220.250.64.225
+
+ie.zzu.edu.cn. 0 IN A 220.250.64.225
+
+ie.zzu.edu.cn. 30 IN A 220.250.64.225
+
+ie.zzu.edu.cn. 29 IN A 220.250.64.225
+
+ie.zzu.edu.cn. 29 IN A 220.250.64.225
+
+ih.zzu.edu.cn. 36000 IN A 125.46.31.224
+
+ih.zzu.edu.cn. 7199 IN A 125.46.31.224
+
+ih.zzu.edu.cn. 7199 IN A 125.46.31.224
+
+ih.zzu.edu.cn. 7199 IN A 125.46.31.224
+
+ih.zzu.edu.cn. 7199 IN A 125.46.31.224
+
+ilab.zzu.edu.cn. 36000 IN A 202.197.190.117
+
+info.zzu.edu.cn. 36000 IN A 202.196.64.206
+
+info5.zzu.edu.cn. 36000 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+info5.zzu.edu.cn. 7199 IN A 202.196.64.208
+
+international.zzu.edu.cn. 36000 IN A 202.197.190.69
+
+international.zzu.edu.cn. 7199 IN A 202.197.190.69
+
+international.zzu.edu.cn. 7199 IN A 202.197.190.69
+
+international.zzu.edu.cn. 7199 IN A 202.197.190.69
+
+international.zzu.edu.cn. 7199 IN A 202.197.190.69
+
+iscmc2018.zzu.edu.cn. 36000 IN A 202.197.190.85
+
+iscmc2018.zzu.edu.cn. 7199 IN A 202.197.190.85
+
+iscmc2018.zzu.edu.cn. 7199 IN A 202.197.190.85
+
+iscmc2018.zzu.edu.cn. 7199 IN A 202.197.190.85
+
+jc.zzu.edu.cn. 36000 IN A 202.197.190.16
+
+jc.zzu.edu.cn. 7199 IN A 202.197.190.16
+
+jc.zzu.edu.cn. 7199 IN A 202.197.190.16
+
+jc.zzu.edu.cn. 7199 IN A 202.197.190.16
+
+jc.zzu.edu.cn. 7199 IN A 202.197.190.16
+
+jksb.zzu.edu.cn. 36000 IN A 171.8.225.143
+jksb.zzu.edu.cn. 36000 IN A 202.196.64.111
+jksb.zzu.edu.cn. 36000 IN A 202.196.64.188
+
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.188
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.111
+jksb.zzu.edu.cn. 7199 IN A 171.8.225.143
+
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.188
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.111
+jksb.zzu.edu.cn. 7199 IN A 171.8.225.143
+
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.188
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.111
+jksb.zzu.edu.cn. 7199 IN A 171.8.225.143
+
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.188
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.111
+jksb.zzu.edu.cn. 7199 IN A 171.8.225.143
+
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.188
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.111
+jksb.zzu.edu.cn. 7199 IN A 171.8.225.143
+
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.188
+jksb.zzu.edu.cn. 7199 IN A 202.196.64.111
+jksb.zzu.edu.cn. 7199 IN A 171.8.225.143
+
+jms.zzu.edu.cn. 36000 IN A 202.197.190.54
+
+jms.zzu.edu.cn. 7199 IN A 202.197.190.54
+
+jms.zzu.edu.cn. 7199 IN A 202.197.190.54
+
+jms.zzu.edu.cn. 7199 IN A 202.197.190.54
+
+jms.zzu.edu.cn. 7199 IN A 202.197.190.54
+
+job.zzu.edu.cn. 12651 IN A 202.197.190.71
+
+job.zzu.edu.cn. 7199 IN A 202.197.190.71
+
+job.zzu.edu.cn. 7199 IN A 202.197.190.71
+
+job.zzu.edu.cn. 7199 IN A 202.197.190.71
+
+job.zzu.edu.cn. 7199 IN A 202.197.190.71
+
+jpkc.zzu.edu.cn. 36000 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jpkc.zzu.edu.cn. 7199 IN A 202.196.64.74
+
+jswz.zzu.edu.cn. 36000 IN A 202.197.190.48
+
+jswz.zzu.edu.cn. 7199 IN A 202.197.190.48
+
+jswz.zzu.edu.cn. 7199 IN A 202.197.190.48
+
+jswz.zzu.edu.cn. 7199 IN A 202.197.190.48
+
+jswz.zzu.edu.cn. 7199 IN A 202.197.190.48
+
+jw.zzu.edu.cn. 31141 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+jw.zzu.edu.cn. 7199 IN A 202.196.64.155
+
+kwb.zzu.edu.cn. 600 IN A 123.15.57.104
+
+kwb.zzu.edu.cn. 599 IN A 123.15.57.104
+
+kwb.zzu.edu.cn. 599 IN A 123.15.57.104
+
+kwb.zzu.edu.cn. 599 IN A 123.15.57.104
+
+kwb.zzu.edu.cn. 599 IN A 123.15.57.104
+
+ky.zzu.edu.cn. 600 IN A 123.15.57.103
+
+ky.zzu.edu.cn. 599 IN A 123.15.57.103
+
+ky.zzu.edu.cn. 599 IN A 123.15.57.103
+
+ky.zzu.edu.cn. 599 IN A 123.15.57.103
+
+ky.zzu.edu.cn. 599 IN A 123.15.57.103
+
+lib.zzu.edu.cn. 19247 IN A 202.196.119.129
+
+lib.zzu.edu.cn. 7199 IN A 202.196.119.129
+
+lib.zzu.edu.cn. 7199 IN A 202.196.119.129
+
+lib.zzu.edu.cn. 7199 IN A 202.196.119.129
+
+lib.zzu.edu.cn. 7199 IN A 202.196.119.129
+
+admindoc.lib.zzu.edu.cn. 36000 IN A 202.196.119.135
+
+admindoc.lib.zzu.edu.cn. 7199 IN A 202.196.119.135
+
+admindoc.lib.zzu.edu.cn. 7199 IN A 202.196.119.135
+
+admindoc.lib.zzu.edu.cn. 7199 IN A 202.196.119.135
+
+file.lib.zzu.edu.cn. 0 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 30 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+badip.zzu.edu.cnfile.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 0 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 0 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 30 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+file.lib.zzu.edu.cn<BR>www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 0 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 30 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.file.lib.zzu.edu.cn. 29 IN A 220.250.64.225
+
+life.zzu.edu.cn. 36000 IN A 202.196.64.236
+
+life.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+life.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+life.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lms.zzu.edu.cn. 36000 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+lms.zzu.edu.cn. 7199 IN A 202.196.64.93
+
+login.zzu.edu.cn. 600 IN A 123.15.57.103
+
+login6.zzu.edu.cn. 31426 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+login6.zzu.edu.cn. 7199 IN A 202.196.64.202
+
+lsj.zzu.edu.cn. 36000 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+lsj.zzu.edu.cn. 7199 IN A 202.196.64.236
+
+mail.zzu.edu.cn. 0 IN A 220.250.64.225
+
+mail.zzu.edu.cn. 30 IN A 220.250.64.225
+
+mail.zzu.edu.cn. 29 IN A 220.250.64.225
+
+mail.zzu.edu.cn. 29 IN A 220.250.64.225
+
+mechanics.zzu.edu.cn. 36000 IN A 202.197.190.82
+
+mechanics.zzu.edu.cn. 7199 IN A 202.197.190.82
+
+mechanics.zzu.edu.cn. 7199 IN A 202.197.190.82
+
+mechanics.zzu.edu.cn. 7199 IN A 202.197.190.82
+
+media2.zzu.edu.cn. 0 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 30 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 29 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 29 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 29 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 29 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 29 IN A 220.250.64.225
+
+media2.zzu.edu.cn. 29 IN A 220.250.64.225
+
+mirrors.zzu.edu.cn. 36000 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+mirrors.zzu.edu.cn. 7199 IN A 10.66.0.111
+
+moe.zzu.edu.cn. 600 IN A 125.46.31.225
+
+moe.zzu.edu.cn. 599 IN A 125.46.31.225
+
+moe.zzu.edu.cn. 599 IN A 125.46.31.225
+
+moe.zzu.edu.cn. 599 IN A 125.46.31.225
+
+moe.zzu.edu.cn. 599 IN A 125.46.31.225
+
+mooc1.mooc.zzu.edu.cn. 36000 IN CNAME dzmooc.chaoxing.com.
+dzmooc.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 333 IN A 140.210.88.212
+passport2.aichaoxing.com. 333 IN A 140.210.88.205
+passport2.aichaoxing.com. 333 IN A 140.210.88.211
+passport2.aichaoxing.com. 333 IN A 140.210.88.201
+passport2.aichaoxing.com. 333 IN A 140.210.88.207
+passport2.aichaoxing.com. 333 IN A 140.210.88.206
+passport2.aichaoxing.com. 333 IN A 140.210.88.203
+passport2.aichaoxing.com. 333 IN A 140.210.88.210
+passport2.aichaoxing.com. 333 IN A 140.210.88.208
+passport2.aichaoxing.com. 333 IN A 140.210.88.213
+passport2.aichaoxing.com. 333 IN A 140.210.88.214
+passport2.aichaoxing.com. 333 IN A 140.210.88.209
+passport2.aichaoxing.com. 333 IN A 140.210.88.202
+passport2.aichaoxing.com. 333 IN A 140.210.88.204
+
+mooc1.mooc.zzu.edu.cn. 7199 IN CNAME dzmooc.chaoxing.com.
+dzmooc.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 333 IN A 140.210.88.212
+passport2.aichaoxing.com. 333 IN A 140.210.88.205
+passport2.aichaoxing.com. 333 IN A 140.210.88.211
+passport2.aichaoxing.com. 333 IN A 140.210.88.201
+passport2.aichaoxing.com. 333 IN A 140.210.88.207
+passport2.aichaoxing.com. 333 IN A 140.210.88.206
+passport2.aichaoxing.com. 333 IN A 140.210.88.203
+passport2.aichaoxing.com. 333 IN A 140.210.88.210
+passport2.aichaoxing.com. 333 IN A 140.210.88.208
+passport2.aichaoxing.com. 333 IN A 140.210.88.213
+passport2.aichaoxing.com. 333 IN A 140.210.88.214
+passport2.aichaoxing.com. 333 IN A 140.210.88.209
+passport2.aichaoxing.com. 333 IN A 140.210.88.202
+passport2.aichaoxing.com. 333 IN A 140.210.88.204
+
+mooc1.mooc.zzu.edu.cn. 7199 IN CNAME dzmooc.chaoxing.com.
+dzmooc.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 333 IN A 140.210.88.212
+passport2.aichaoxing.com. 333 IN A 140.210.88.205
+passport2.aichaoxing.com. 333 IN A 140.210.88.211
+passport2.aichaoxing.com. 333 IN A 140.210.88.201
+passport2.aichaoxing.com. 333 IN A 140.210.88.207
+passport2.aichaoxing.com. 333 IN A 140.210.88.206
+passport2.aichaoxing.com. 333 IN A 140.210.88.203
+passport2.aichaoxing.com. 333 IN A 140.210.88.210
+passport2.aichaoxing.com. 333 IN A 140.210.88.208
+passport2.aichaoxing.com. 333 IN A 140.210.88.213
+passport2.aichaoxing.com. 333 IN A 140.210.88.214
+passport2.aichaoxing.com. 333 IN A 140.210.88.209
+passport2.aichaoxing.com. 333 IN A 140.210.88.202
+passport2.aichaoxing.com. 333 IN A 140.210.88.204
+
+mooc1.mooc.zzu.edu.cn. 7199 IN CNAME dzmooc.chaoxing.com.
+dzmooc.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 333 IN A 140.210.88.212
+passport2.aichaoxing.com. 333 IN A 140.210.88.205
+passport2.aichaoxing.com. 333 IN A 140.210.88.211
+passport2.aichaoxing.com. 333 IN A 140.210.88.201
+passport2.aichaoxing.com. 333 IN A 140.210.88.207
+passport2.aichaoxing.com. 333 IN A 140.210.88.206
+passport2.aichaoxing.com. 333 IN A 140.210.88.203
+passport2.aichaoxing.com. 333 IN A 140.210.88.210
+passport2.aichaoxing.com. 333 IN A 140.210.88.208
+passport2.aichaoxing.com. 333 IN A 140.210.88.213
+passport2.aichaoxing.com. 333 IN A 140.210.88.214
+passport2.aichaoxing.com. 333 IN A 140.210.88.209
+passport2.aichaoxing.com. 333 IN A 140.210.88.202
+passport2.aichaoxing.com. 333 IN A 140.210.88.204
+
+mooc1.mooc.zzu.edu.cn. 7199 IN CNAME dzmooc.chaoxing.com.
+dzmooc.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 333 IN A 140.210.88.212
+passport2.aichaoxing.com. 333 IN A 140.210.88.205
+passport2.aichaoxing.com. 333 IN A 140.210.88.211
+passport2.aichaoxing.com. 333 IN A 140.210.88.201
+passport2.aichaoxing.com. 333 IN A 140.210.88.207
+passport2.aichaoxing.com. 333 IN A 140.210.88.206
+passport2.aichaoxing.com. 333 IN A 140.210.88.203
+passport2.aichaoxing.com. 333 IN A 140.210.88.210
+passport2.aichaoxing.com. 333 IN A 140.210.88.208
+passport2.aichaoxing.com. 333 IN A 140.210.88.213
+passport2.aichaoxing.com. 333 IN A 140.210.88.214
+passport2.aichaoxing.com. 333 IN A 140.210.88.209
+passport2.aichaoxing.com. 333 IN A 140.210.88.202
+passport2.aichaoxing.com. 333 IN A 140.210.88.204
+
+passport2.mooc.zzu.edu.cn. 36000 IN CNAME dzpassport.chaoxing.com.
+dzpassport.chaoxing.com. 2 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 333 IN A 140.210.88.203
+passport2.aichaoxing.com. 333 IN A 140.210.88.207
+passport2.aichaoxing.com. 333 IN A 140.210.88.209
+passport2.aichaoxing.com. 333 IN A 140.210.88.208
+passport2.aichaoxing.com. 333 IN A 140.210.88.210
+passport2.aichaoxing.com. 333 IN A 140.210.88.202
+passport2.aichaoxing.com. 333 IN A 140.210.88.214
+passport2.aichaoxing.com. 333 IN A 140.210.88.205
+passport2.aichaoxing.com. 333 IN A 140.210.88.201
+passport2.aichaoxing.com. 333 IN A 140.210.88.213
+passport2.aichaoxing.com. 333 IN A 140.210.88.212
+passport2.aichaoxing.com. 333 IN A 140.210.88.206
+passport2.aichaoxing.com. 333 IN A 140.210.88.211
+passport2.aichaoxing.com. 333 IN A 140.210.88.204
+
+www.mooc.zzu.edu.cn. 30696 IN CNAME course.fanya.chaoxing.com.
+course.fanya.chaoxing.com. 59 IN A 42.62.2.150
+
+www.mooc.zzu.edu.cn. 7199 IN CNAME course.fanya.chaoxing.com.
+course.fanya.chaoxing.com. 59 IN A 42.62.2.150
+
+www.mooc.zzu.edu.cn. 7199 IN CNAME course.fanya.chaoxing.com.
+course.fanya.chaoxing.com. 59 IN A 42.62.2.150
+
+www.mooc.zzu.edu.cn. 7199 IN CNAME course.fanya.chaoxing.com.
+course.fanya.chaoxing.com. 59 IN A 42.62.2.150
+
+www.mooc.zzu.edu.cn. 7199 IN CNAME course.fanya.chaoxing.com.
+course.fanya.chaoxing.com. 59 IN A 42.62.2.150
+
+mrtg.zzu.edu.cn. 36000 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mrtg.zzu.edu.cn. 7199 IN A 202.196.64.110
+
+mtv.zzu.edu.cn. 36000 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+mtv.zzu.edu.cn. 7199 IN A 10.66.0.19
+
+museum.zzu.edu.cn. 36000 IN A 202.197.190.18
+
+museum.zzu.edu.cn. 7199 IN A 202.197.190.18
+
+museum.zzu.edu.cn. 7199 IN A 202.197.190.18
+
+museum.zzu.edu.cn. 7199 IN A 202.197.190.18
+
+music10.zzu.edu.cn. 0 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 30 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 29 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 29 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 29 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 29 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 29 IN A 220.250.64.225
+
+music10.zzu.edu.cn. 29 IN A 220.250.64.225
+
+mx.zzu.edu.cn. 9939 IN A 202.196.64.37
+mx.zzu.edu.cn. 9939 IN A 202.196.64.213
+mx.zzu.edu.cn. 9939 IN A 202.196.64.85
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+mx.zzu.edu.cn. 7199 IN A 202.196.64.85
+mx.zzu.edu.cn. 7199 IN A 202.196.64.213
+mx.zzu.edu.cn. 7199 IN A 202.196.64.37
+
+nc.zzu.edu.cn. 36000 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+nc.zzu.edu.cn. 7199 IN A 202.196.64.30
+
+net.zzu.edu.cn. 36000 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+net.zzu.edu.cn. 7199 IN A 202.196.64.15
+
+new.zzu.edu.cn. 36000 IN CNAME www.zzu.edu.cn.
+www.zzu.edu.cn. 599 IN A 202.196.64.199
+
+new.zzu.edu.cn. 7199 IN CNAME www.zzu.edu.cn.
+www.zzu.edu.cn. 599 IN A 202.196.64.199
+
+new.zzu.edu.cn. 7199 IN CNAME www.zzu.edu.cn.
+www.zzu.edu.cn. 599 IN A 202.196.64.199
+
+new.zzu.edu.cn. 7199 IN CNAME www.zzu.edu.cn.
+www.zzu.edu.cn. 599 IN A 202.196.64.199
+
+new.zzu.edu.cn. 7199 IN CNAME www.zzu.edu.cn.
+www.zzu.edu.cn. 599 IN A 202.196.64.199
+
+news.zzu.edu.cn. 600 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+news.zzu.edu.cn. 599 IN A 123.15.57.103
+
+nlp.zzu.edu.cn. 36000 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+nlp.zzu.edu.cn. 7199 IN A 202.196.64.69
+
+olddls.zzu.edu.cn. 30677 IN A 202.196.64.40
+
+oldmail.zzu.edu.cn. 36000 IN A 202.196.64.86
+
+oldmail.zzu.edu.cn. 7199 IN A 202.196.64.86
+
+oldmail.zzu.edu.cn. 7199 IN A 202.196.64.86
+
+oldmail.zzu.edu.cn. 7199 IN A 202.196.64.86
+
+page5.zzu.edu.cn. 36000 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page5.zzu.edu.cn. 7199 IN A 202.196.64.63
+
+page7.zzu.edu.cn. 36000 IN A 222.22.63.61
+
+paobu.zzu.edu.cn. 36000 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+paobu.zzu.edu.cn. 7199 IN A 222.22.63.196
+
+pcfpci.zzu.edu.cn. 36000 IN A 202.197.190.91
+
+photo.zzu.edu.cn. 36000 IN A 202.196.64.122
+
+pic.zzu.edu.cn. 36000 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+pic.zzu.edu.cn. 7199 IN A 10.66.0.10
+
+primo.zzu.edu.cn. 36000 IN A 202.197.191.172
+
+primo.zzu.edu.cn. 7199 IN A 202.197.191.172
+
+primo.zzu.edu.cn. 7199 IN A 202.197.191.172
+
+primo.zzu.edu.cn. 7199 IN A 202.197.191.172
+
+radio.zzu.edu.cn. 36000 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+radio.zzu.edu.cn. 7199 IN A 202.196.64.242
+
+rczp.zzu.edu.cn. 11669 IN A 222.22.63.202
+
+service.zzu.edu.cn. 36000 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+service.zzu.edu.cn. 7199 IN A 222.22.31.4
+
+sfx.zzu.edu.cn. 36000 IN A 202.197.191.174
+
+sfx.zzu.edu.cn. 7199 IN A 202.197.191.174
+
+sfx.zzu.edu.cn. 7199 IN A 202.197.191.174
+
+sfx.zzu.edu.cn. 7199 IN A 202.197.191.174
+
+sfx.zzu.edu.cn. 7199 IN A 202.197.191.174
+
+shi-s.zzu.edu.cn. 600 IN A 123.15.57.38
+
+shi-s.zzu.edu.cn. 599 IN A 123.15.57.38
+
+shi-s.zzu.edu.cn. 599 IN A 123.15.57.38
+
+shi-s.zzu.edu.cn. 599 IN A 123.15.57.38
+
+shufa.zzu.edu.cn. 36000 IN CNAME xg.zzu.edu.cn.
+xg.zzu.edu.cn. 7199 IN A 202.197.190.72
+
+sodi.zzu.edu.cn. 36000 IN A 42.62.107.226
+
+sodi.zzu.edu.cn. 7199 IN A 42.62.107.226
+
+sodi.zzu.edu.cn. 7199 IN A 42.62.107.226
+
+sodi.zzu.edu.cn. 7199 IN A 42.62.107.226
+
+sodi.zzu.edu.cn. 7199 IN A 42.62.107.226
+
+softlab.zzu.edu.cn. 36000 IN A 202.196.65.43
+
+softlab.zzu.edu.cn. 7199 IN A 202.196.65.43
+
+softlab.zzu.edu.cn. 7199 IN A 202.196.65.43
+
+softlab.zzu.edu.cn. 7199 IN A 202.196.65.43
+
+softlab.zzu.edu.cn. 7199 IN A 202.196.65.43
+
+softschool.zzu.edu.cn. 36000 IN A 202.197.190.72
+
+softschool.zzu.edu.cn. 7199 IN A 202.197.190.72
+
+softschool.zzu.edu.cn. 7199 IN A 202.197.190.72
+
+softschool.zzu.edu.cn. 7199 IN A 202.197.190.72
+
+study.zzu.edu.cn. 0 IN A 220.250.64.225
+
+study.zzu.edu.cn. 30 IN A 220.250.64.225
+
+study.zzu.edu.cn. 29 IN A 220.250.64.225
+
+study.zzu.edu.cn. 29 IN A 220.250.64.225
+
+study3.zzu.edu.cn. 36000 IN A 171.8.225.143
+
+sus.zzu.edu.cn. 600 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+sus.zzu.edu.cn. 599 IN A 123.15.57.98
+
+szhq.zzu.edu.cn. 36000 IN A 202.197.190.13
+
+szhq.zzu.edu.cn. 7199 IN A 202.197.190.13
+
+szhq.zzu.edu.cn. 7199 IN A 202.197.190.13
+
+szhq.zzu.edu.cn. 7199 IN A 202.197.190.13
+
+szhq.zzu.edu.cn. 7199 IN A 202.197.190.13
+
+teachers.zzu.edu.cn. 36000 IN A 202.197.190.17
+
+test5.zzu.edu.cn. 36000 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+test5.zzu.edu.cn. 7199 IN A 202.196.64.66
+
+tv.zzu.edu.cn. 0 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 30 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 29 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 29 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 29 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 29 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 29 IN A 220.250.64.225
+
+tv.zzu.edu.cn. 29 IN A 220.250.64.225
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+NXDOMAIN for v.zzu.edu.cn
+
+casgx.v.zzu.edu.cn. 2917 IN A 222.22.63.21
+
+casgx.v.zzu.edu.cn. 2916 IN A 222.22.63.21
+
+casgx.v.zzu.edu.cn. 2916 IN A 222.22.63.21
+
+casgx.v.zzu.edu.cn. 2916 IN A 222.22.63.21
+
+casgx.v.zzu.edu.cn. 2916 IN A 222.22.63.21
+
+cms.v.zzu.edu.cn. 3600 IN A 222.22.63.143
+
+cnc.v.zzu.edu.cn. 3600 IN A 123.15.57.58
+
+cnc.v.zzu.edu.cn. 3599 IN A 123.15.57.58
+
+cnc.v.zzu.edu.cn. 3599 IN A 123.15.57.58
+
+cnc.v.zzu.edu.cn. 3599 IN A 123.15.57.58
+
+cnc.v.zzu.edu.cn. 3599 IN A 123.15.57.58
+
+www.file.lib.zzu.edu.cncms.v.zzu.edu.cn. 0 IN A 220.250.64.225
+
+dagyy.v.zzu.edu.cn. 3600 IN A 222.22.63.189
+
+dls.v.zzu.edu.cn. 3600 IN A 202.197.190.106
+
+dls.v.zzu.edu.cn. 3599 IN A 202.197.190.106
+
+dls.v.zzu.edu.cn. 3599 IN A 202.197.190.106
+
+doorgx.v.zzu.edu.cn. 2917 IN A 222.22.63.26
+
+doorgx.v.zzu.edu.cn. 2916 IN A 222.22.63.26
+
+doorgx.v.zzu.edu.cn. 2916 IN A 222.22.63.26
+
+doorgx.v.zzu.edu.cn. 2916 IN A 222.22.63.26
+
+doorgx.v.zzu.edu.cn. 2916 IN A 222.22.63.26
+
+edu.v.zzu.edu.cn. 3600 IN A 202.196.64.105
+
+edu.v.zzu.edu.cn. 3599 IN A 202.196.64.105
+
+edu.v.zzu.edu.cn. 3599 IN A 202.196.64.105
+
+edu.v.zzu.edu.cn. 3599 IN A 202.196.64.105
+
+edu2.v.zzu.edu.cn. 3600 IN A 202.196.64.22
+
+edu2.v.zzu.edu.cn. 3599 IN A 202.196.64.22
+
+edu2.v.zzu.edu.cn. 3599 IN A 202.196.64.22
+
+edu2.v.zzu.edu.cn. 3599 IN A 202.196.64.22
+
+edu3.v.zzu.edu.cn. 3600 IN A 202.196.64.9
+
+edu3.v.zzu.edu.cn. 3599 IN A 202.196.64.9
+
+edu3.v.zzu.edu.cn. 3599 IN A 202.196.64.9
+
+edu3.v.zzu.edu.cn. 3599 IN A 202.196.64.9
+
+ehall.v.zzu.edu.cn. 3600 IN A 222.22.63.142
+
+ehall.v.zzu.edu.cn. 3599 IN A 222.22.63.142
+
+ehall.v.zzu.edu.cn. 3599 IN A 222.22.63.142
+
+ehall.v.zzu.edu.cn. 3599 IN A 222.22.63.142
+
+ehall.v.zzu.edu.cn. 3599 IN A 222.22.63.142
+
+jksb.v.zzu.edu.cn. 1686 IN A 171.8.225.143
+jksb.v.zzu.edu.cn. 1686 IN A 202.196.64.188
+jksb.v.zzu.edu.cn. 1686 IN A 202.196.64.111
+
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.111
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.188
+jksb.v.zzu.edu.cn. 1685 IN A 171.8.225.143
+
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.111
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.188
+jksb.v.zzu.edu.cn. 1685 IN A 171.8.225.143
+
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.111
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.188
+jksb.v.zzu.edu.cn. 1685 IN A 171.8.225.143
+
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.111
+jksb.v.zzu.edu.cn. 1685 IN A 202.196.64.188
+jksb.v.zzu.edu.cn. 1685 IN A 171.8.225.143
+
+jw.v.zzu.edu.cn. 3600 IN A 222.22.63.83
+
+jw.v.zzu.edu.cn. 3599 IN A 222.22.63.83
+
+jw.v.zzu.edu.cn. 3599 IN A 222.22.63.83
+
+jw.v.zzu.edu.cn. 3599 IN A 222.22.63.83
+
+jw.v.zzu.edu.cn. 3599 IN A 222.22.63.83
+
+mail.v.zzu.edu.cn. 3600 IN A 123.15.57.113
+mail.v.zzu.edu.cn. 3600 IN A 171.8.225.146
+mail.v.zzu.edu.cn. 3600 IN A 202.196.64.85
+
+mail.v.zzu.edu.cn. 3599 IN A 202.196.64.85
+mail.v.zzu.edu.cn. 3599 IN A 171.8.225.146
+mail.v.zzu.edu.cn. 3599 IN A 123.15.57.113
+
+mail.v.zzu.edu.cn. 3599 IN A 202.196.64.85
+mail.v.zzu.edu.cn. 3599 IN A 171.8.225.146
+mail.v.zzu.edu.cn. 3599 IN A 123.15.57.113
+
+mail.v.zzu.edu.cn. 3599 IN A 202.196.64.85
+mail.v.zzu.edu.cn. 3599 IN A 171.8.225.146
+mail.v.zzu.edu.cn. 3599 IN A 123.15.57.113
+
+mail.v.zzu.edu.cn. 3599 IN A 202.196.64.85
+mail.v.zzu.edu.cn. 3599 IN A 171.8.225.146
+mail.v.zzu.edu.cn. 3599 IN A 123.15.57.113
+
+meeting.v.zzu.edu.cn. 3600 IN A 222.22.63.152
+
+tel.v.zzu.edu.cn. 3600 IN A 171.8.225.160
+
+tel.v.zzu.edu.cn. 3599 IN A 171.8.225.160
+
+tel.v.zzu.edu.cn. 3599 IN A 171.8.225.160
+
+tel.v.zzu.edu.cn. 3599 IN A 171.8.225.160
+
+tel.v.zzu.edu.cn. 3599 IN A 171.8.225.160
+
+www.v.zzu.edu.cn. 24 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+www.v.zzu.edu.cn. 23 IN A 220.250.64.225
+
+vls3.zzu.edu.cn. 30 IN A 123.15.57.15
+
+vls3.zzu.edu.cn. 29 IN A 123.15.57.15
+
+vls3.zzu.edu.cn. 29 IN A 123.15.57.15
+
+vls3.zzu.edu.cn. 29 IN A 123.15.57.15
+
+vls3.zzu.edu.cn. 29 IN A 123.15.57.15
+
+vls3a.zzu.edu.cn. 600 IN A 202.196.64.212
+
+vls3a.zzu.edu.cn. 599 IN A 202.196.64.212
+
+vls3a.zzu.edu.cn. 599 IN A 202.196.64.212
+
+vls3a.zzu.edu.cn. 599 IN A 202.196.64.212
+
+vls3a.zzu.edu.cn. 599 IN A 202.196.64.212
+
+vod.zzu.edu.cn. 0 IN A 220.250.64.225
+
+vod.zzu.edu.cn. 30 IN A 220.250.64.225
+
+vod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+vod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+vod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+vod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+vod.zzu.edu.cn. 29 IN A 220.250.64.225
+
+vpn.zzu.edu.cn. 600 IN A 123.15.57.90
+
+vpn.zzu.edu.cn. 599 IN A 123.15.57.90
+
+vpn.zzu.edu.cn. 599 IN A 123.15.57.90
+
+vpn.zzu.edu.cn. 599 IN A 123.15.57.90
+
+vpn.zzu.edu.cn. 599 IN A 123.15.57.90
+
+vpn2.zzu.edu.cn. 36000 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+vpn2.zzu.edu.cn. 7199 IN A 202.196.64.222
+
+weixin.zzu.edu.cn. 36000 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+weixin.zzu.edu.cn. 7199 IN A 202.196.112.136
+
+www.zzu.edu.cn. 599 IN A 202.196.64.199
+
+www.zzu.edu.cn. 598 IN A 202.196.64.199
+
+www.zzu.edu.cn. 598 IN A 202.196.64.199
+
+www.zzu.edu.cn. 598 IN A 202.196.64.199
+
+www.zzu.edu.cn. 598 IN A 202.196.64.199
+
+www10.zzu.edu.cn. 36000 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www10.zzu.edu.cn. 7199 IN A 202.196.64.80
+
+www12.zzu.edu.cn. 600 IN A 123.15.57.91
+
+www15.zzu.edu.cn. 36000 IN A 202.196.64.199
+
+www15.zzu.edu.cn. 7199 IN A 202.196.64.199
+
+www15.zzu.edu.cn. 7199 IN A 202.196.64.199
+
+www15.zzu.edu.cn. 7199 IN A 202.196.64.199
+
+www15.zzu.edu.cn. 7199 IN A 202.196.64.199
+
+www16.zzu.edu.cn. 600 IN A 202.196.64.199
+
+www16.zzu.edu.cn. 599 IN A 202.196.64.199
+
+www16.zzu.edu.cn. 599 IN A 202.196.64.199
+
+www16.zzu.edu.cn. 599 IN A 202.196.64.199
+
+www16.zzu.edu.cn. 599 IN A 202.196.64.199
+
+www2.zzu.edu.cn. 600 IN A 123.15.57.118
+
+www2.zzu.edu.cn. 599 IN A 123.15.57.118
+
+www2.zzu.edu.cn. 599 IN A 123.15.57.118
+
+www2.zzu.edu.cn. 599 IN A 123.15.57.118
+
+www2.zzu.edu.cn. 599 IN A 123.15.57.118
+
+www3.zzu.edu.cn. 600 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www3.zzu.edu.cn. 599 IN A 123.15.57.103
+
+www4.zzu.edu.cn. 600 IN A 123.15.57.93
+
+www4.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www4.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www4.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www4.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www5.zzu.edu.cn. 30 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www5.zzu.edu.cn. 29 IN A 202.196.64.198
+
+www6.zzu.edu.cn. 36000 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www6.zzu.edu.cn. 7199 IN A 202.196.64.13
+
+www7.zzu.edu.cn. 600 IN A 123.15.57.67
+
+www7.zzu.edu.cn. 599 IN A 123.15.57.67
+
+www7.zzu.edu.cn. 599 IN A 123.15.57.67
+
+www7.zzu.edu.cn. 599 IN A 123.15.57.67
+
+www7.zzu.edu.cn. 599 IN A 123.15.57.67
+
+www8.zzu.edu.cn. 600 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+www8.zzu.edu.cn. 599 IN A 123.15.57.93
+
+xdfx.zzu.edu.cn. 36000 IN A 222.22.63.201
+
+xdfx.zzu.edu.cn. 7199 IN A 222.22.63.201
+
+xdfx.zzu.edu.cn. 7199 IN A 222.22.63.201
+
+xdfx.zzu.edu.cn. 7199 IN A 222.22.63.201
+
+xdfx.zzu.edu.cn. 7199 IN A 222.22.63.201
+
+xg.zzu.edu.cn. 7198 IN A 202.197.190.72
+
+xiaobao.zzu.edu.cn. 36000 IN A 202.197.190.55
+
+xiaobao.zzu.edu.cn. 7199 IN A 202.197.190.55
+
+xiaobao.zzu.edu.cn. 7199 IN A 202.197.190.55
+
+xiaobao.zzu.edu.cn. 7199 IN A 202.197.190.55
+
+xm.zzu.edu.cn. 36000 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xm.zzu.edu.cn. 7199 IN A 202.196.64.195
+
+xwss1.zzu.edu.cn. 36000 IN A 123.15.57.38
+
+xwss1.zzu.edu.cn. 7199 IN A 123.15.57.38
+
+xwss1.zzu.edu.cn. 7199 IN A 123.15.57.38
+
+xwss1.zzu.edu.cn. 7199 IN A 123.15.57.38
+
+xwss3.zzu.edu.cn. 36000 IN A 202.196.64.188
+
+xwssapp.zzu.edu.cn. 36000 IN A 123.15.57.65
+
+xwssapp.zzu.edu.cn. 7199 IN A 123.15.57.65
+
+xwssapp.zzu.edu.cn. 7199 IN A 123.15.57.65
+
+xwssapp.zzu.edu.cn. 7199 IN A 123.15.57.65
+
+zdaqjy.zzu.edu.cn. 36000 IN A 222.22.63.186
+
+zdaqjy.zzu.edu.cn. 7199 IN A 222.22.63.186
+
+zdaqjy.zzu.edu.cn. 7199 IN A 222.22.63.186
+
+zdaqjy.zzu.edu.cn. 7199 IN A 222.22.63.186
+
+zhdj.zzu.edu.cn. 36000 IN A 202.197.190.114
+
+zhibo.zzu.edu.cn. 600 IN A 222.22.63.209
+
+zhibo.zzu.edu.cn. 599 IN A 222.22.63.209
+
+zhibo.zzu.edu.cn. 599 IN A 222.22.63.209
+
+zhibo.zzu.edu.cn. 599 IN A 222.22.63.209
+
+zhibo.zzu.edu.cn. 599 IN A 222.22.63.209
+
+zhibo.zzu.edu.cn. 599 IN A 222.22.63.209
+
+zhibo.zzu.edu.cn. 599 IN A 222.22.63.209
+
+zhuoyue.zzu.edu.cn. 36000 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zhuoyue.zzu.edu.cn. 7199 IN A 202.196.64.168
+
+zsb.zzu.edu.cn. 36000 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zsb.zzu.edu.cn. 7199 IN A 202.196.64.112
+
+zxh.zzu.edu.cn. 36000 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+zxh.zzu.edu.cn. 7199 IN A 222.22.63.195
+
+www.zxh.zzu.edu.cn. 0 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 30 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+
+www.zxh.zzu.edu.cn. 29 IN A 220.250.64.225
+

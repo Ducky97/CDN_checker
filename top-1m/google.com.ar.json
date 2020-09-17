@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:20 GMT",
+            "Expires": "-1",
+            "Cache-Control": "private, max-age=0",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Strict-Transport-Security": "max-age=31536000",
+            "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+            "Content-Encoding": "gzip",
+            "Server": "gws",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "NID=204=UKaVa6l2gjeT1VUABN2R74iFgLcOnPij523gdSTMtEwRbCnLcsxhcDROgaroMbJvvh_1TQehGMYmJY-EehbgWZVLzYvlGrWDNJqeFK62rM_iJkEGlcSlsRb_yOf4QQqq_VH0fzEPkbywOPYWuNih-t-3VIZAtvGoyGFqwtVhVl0; expires=Thu, 18-Mar-2021 10:02:20 GMT; path=/; domain=.google.com.ar; Secure; HttpOnly; SameSite=none",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "google.com.ar": [
+                "172.217.160.67"
+            ],
+            "www.google.com.ar": [
+                "172.217.24.3"
+            ]
+        },
+        "ping": {
+            "google.com.ar": [
+                "74.125.24.94",
+                "172.217.160.35"
+            ],
+            "www.google.com.ar": [
+                "74.125.130.94",
+                "74.125.24.94",
+                "142.250.4.94",
+                "74.125.200.94"
+            ]
+        },
+        "CNAME": {
+            "google.com.ar": null
+        },
+        "A": {
+            "google.com.ar": [
+                "74.125.24.94"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:20 GMT",
+            "Expires": "-1",
+            "Cache-Control": "private, max-age=0",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Strict-Transport-Security": "max-age=31536000",
+            "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+            "Content-Encoding": "gzip",
+            "Server": "gws",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "NID=204=W30yBZ4bWaLEQ0lVXR1OgSH_ZkJakjTSgSOs2supJTO6KNWtHomtPdLIYkdSIAKUZRajZnwyNIxuppr0w2U9NfY0GyWA5kaAWmq51uVqAeDQzTIhHCQ_SPmGi842Ywd2kJjX0_Yz7uJXO3YKi_-7lQeFO2ea_qIbD1pEsB8e2JI; expires=Thu, 18-Mar-2021 10:02:20 GMT; path=/; domain=.google.com.ar; Secure; HttpOnly; SameSite=none",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "google.com.ar": [
+                "172.217.160.67"
+            ],
+            "www.google.com.ar": [
+                "172.217.24.3"
+            ]
+        },
+        "ping": {
+            "google.com.ar": [
+                "74.125.24.94",
+                "172.217.160.35"
+            ],
+            "www.google.com.ar": [
+                "74.125.130.94",
+                "74.125.24.94",
+                "142.250.4.94",
+                "74.125.200.94"
+            ]
+        },
+        "CNAME": {
+            "google.com.ar": null
+        },
+        "A": {
+            "google.com.ar": [
+                "74.125.24.94"
+            ]
+        }
+    }
+}

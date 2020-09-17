@@ -1,0 +1,2062 @@
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+NXDOMAIN for bupt.edu.cn
+
+360.bupt.edu.cn. 300 IN A 10.3.9.85
+
+360.bupt.edu.cn. 299 IN A 10.3.9.85
+
+360.bupt.edu.cn. 299 IN A 10.3.9.85
+
+60th.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6487 IN A 114.255.40.166
+
+aa.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+aa.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+aa.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+NXDOMAIN for andy.bupt.edu.cn
+
+app.bupt.edu.cn. 300 IN A 211.68.68.7
+
+app.bupt.edu.cn. 299 IN A 211.68.68.7
+
+app.bupt.edu.cn. 299 IN A 211.68.68.7
+
+app.bupt.edu.cn. 299 IN A 211.68.68.7
+
+archives.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+archives.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+archives.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+archives.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+auth.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+auth.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+auth.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+auth.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for aw.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+NXDOMAIN for backup.bupt.edu.cn
+
+bjsyzx.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+bklitsm.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+bklitsm.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+bklitsm.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+bklitsm.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+bmc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptdorm.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+NXDOMAIN for buptoa.bupt.edu.cn
+
+bwc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+bwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+by.bupt.edu.cn. 300 IN A 10.3.240.7
+
+by.bupt.edu.cn. 299 IN A 10.3.240.7
+
+by.bupt.edu.cn. 299 IN A 10.3.240.7
+
+byir.bupt.edu.cn. 300 IN A 10.3.210.78
+
+byir.bupt.edu.cn. 299 IN A 10.3.210.78
+
+byir.bupt.edu.cn. 299 IN A 10.3.210.78
+
+cce-sice.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+cg.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7199 IN A 211.68.69.240
+
+NXDOMAIN for emm.bupt.edu.cnwebapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cn<BR>webimg.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for board.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cnboard.bupt.edu.cn<BR>bupt.edu.cn<BR>mail.bupt.edu.cn<BR>www.bupt.edu.cn<BR>yiban.bupt.edu.cn
+
+NXDOMAIN for mail.bupt.edu.cnandy.bupt.edu.cn
+
+NXDOMAIN for yjzs.bupt.edu.cnjcupt.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cnlay.bupt.edu.cn
+
+NXDOMAIN for www.bupt.edu.cnlibvpn2.bupt.edu.cn
+
+NXDOMAIN for webapp.bupt.edu.cnplanetlab4.bupt.edu.cn
+
+NXDOMAIN for archives.bupt.edu.cnshahe.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cntank.bupt.edu.cn
+
+NXDOMAIN for mekltdcs.bupt.edu.cnwebimg.bupt.edu.cn
+
+code.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+code.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+code.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+code.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+NXDOMAIN for conference.bupt.edu.cn
+
+NXDOMAIN for conference.bupt.edu.cn
+
+NXDOMAIN for conference.bupt.edu.cn
+
+cwc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+cwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+cwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+cwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+cwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+dwgk.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+dwgk.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+ef.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+NXDOMAIN for emm.bupt.edu.cn
+
+english.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+english.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+english.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+english.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+english.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+NXDOMAIN for ettc.bupt.edu.cn
+
+NXDOMAIN for ettc.bupt.edu.cn
+
+NXDOMAIN for ettc.bupt.edu.cn
+
+NXDOMAIN for ettc.bupt.edu.cn
+
+fzzl.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+gemba.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gemba.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gh.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+gjc.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+grs.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+grs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+grs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+grs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+grs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+gus.bupt.edu.cn. 300 IN A 202.112.10.36
+
+gus.bupt.edu.cn. 299 IN A 202.112.10.36
+
+gus.bupt.edu.cn. 299 IN A 202.112.10.36
+
+hanyu.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hanyu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hanyu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hanyu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hnd.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+hnd.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+hnd.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+hnd.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+hongfu.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hongfu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hongfu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hongfu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hongfu.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hqc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hqc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hqc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hqc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+hqc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+iclass.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+iclass.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+iclass.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+iclass.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+iclass.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+imgapp.bupt.edu.cn. 300 IN A 211.68.68.7
+
+imgapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+imgapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+int.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+int.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+int.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+int.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+int.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+io.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+io.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+io.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+io.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+io.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7198 IN A 211.68.69.240
+
+ipoc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ipoc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ipoc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ipoc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ipoc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ir.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ir.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ir.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+istb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+ivi.bupt.edu.cn. 402 IN A 58.200.131.2
+ivi.bupt.edu.cn. 402 IN A 58.200.131.64
+ivi.bupt.edu.cn. 402 IN A 58.200.131.5
+ivi.bupt.edu.cn. 402 IN A 58.200.131.65
+ivi.bupt.edu.cn. 402 IN A 58.200.131.6
+ivi.bupt.edu.cn. 402 IN A 58.200.131.3
+
+ivi.bupt.edu.cn. 401 IN A 58.200.131.3
+ivi.bupt.edu.cn. 401 IN A 58.200.131.6
+ivi.bupt.edu.cn. 401 IN A 58.200.131.65
+ivi.bupt.edu.cn. 401 IN A 58.200.131.5
+ivi.bupt.edu.cn. 401 IN A 58.200.131.64
+ivi.bupt.edu.cn. 401 IN A 58.200.131.2
+
+ivi.bupt.edu.cn. 401 IN A 58.200.131.3
+ivi.bupt.edu.cn. 401 IN A 58.200.131.6
+ivi.bupt.edu.cn. 401 IN A 58.200.131.65
+ivi.bupt.edu.cn. 401 IN A 58.200.131.5
+ivi.bupt.edu.cn. 401 IN A 58.200.131.64
+ivi.bupt.edu.cn. 401 IN A 58.200.131.2
+
+ivi.bupt.edu.cn. 401 IN A 58.200.131.3
+ivi.bupt.edu.cn. 401 IN A 58.200.131.6
+ivi.bupt.edu.cn. 401 IN A 58.200.131.65
+ivi.bupt.edu.cn. 401 IN A 58.200.131.5
+ivi.bupt.edu.cn. 401 IN A 58.200.131.64
+ivi.bupt.edu.cn. 401 IN A 58.200.131.2
+
+ivi.bupt.edu.cn. 401 IN A 58.200.131.3
+ivi.bupt.edu.cn. 401 IN A 58.200.131.6
+ivi.bupt.edu.cn. 401 IN A 58.200.131.65
+ivi.bupt.edu.cn. 401 IN A 58.200.131.5
+ivi.bupt.edu.cn. 401 IN A 58.200.131.64
+ivi.bupt.edu.cn. 401 IN A 58.200.131.2
+
+iwww.bupt.edu.cn. 300 IN A 58.200.131.3
+
+jcupt.bupt.edu.cn. 300 IN A 211.68.69.81
+
+jcupt.bupt.edu.cn. 299 IN A 211.68.69.81
+
+jcupt.bupt.edu.cn. 299 IN A 211.68.69.81
+
+NXDOMAIN for jdb.bupt.edu.cn
+
+NXDOMAIN for jdb.bupt.edu.cn
+
+jgdw.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jgdw.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jgdw.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jgdw.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jjc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+job.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+job.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+job.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+job.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+job.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6485 IN A 114.255.40.166
+
+journal.bupt.edu.cn. 300 IN A 211.68.69.81
+
+journalsk.bupt.edu.cn. 300 IN A 211.68.69.81
+
+journalsk.bupt.edu.cn. 299 IN A 211.68.69.81
+
+journalsk.bupt.edu.cn. 299 IN A 211.68.69.81
+
+jsfz.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jsfz.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jsfz.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jsfz.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jsfz.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jwb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jwb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+jwc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+jwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+jwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+jwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+jwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+jwdw.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+NXDOMAIN for jwxt.bupt.edu.cn
+
+NXDOMAIN for jwxt.bupt.edu.cn
+
+NXDOMAIN for jwxt.bupt.edu.cn
+
+NXDOMAIN for kyy.bupt.edu.cn
+
+NXDOMAIN for kyy.bupt.edu.cn
+
+NXDOMAIN for kyy.bupt.edu.cn
+
+NXDOMAIN for kyy.bupt.edu.cn
+
+NXDOMAIN for kyy.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+NXDOMAIN for lay.bupt.edu.cn
+
+lib.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+lib.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+libcon.bupt.edu.cn. 300 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+libcon.bupt.edu.cn. 299 IN A 114.255.40.216
+
+NXDOMAIN for pdf.d.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for pdf.d.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for pdf.d.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for docdownload.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for docdownload.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for docdownload.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for kns.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for kns.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for kns.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for nvsm.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for nvsm.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for nvsm.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for piccache.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for piccache.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for piccache.cnki.libcon.bupt.edu.cn
+
+NXDOMAIN for g.wanfangdata.libcon.bupt.edu.cn
+
+NXDOMAIN for g.wanfangdata.libcon.bupt.edu.cn
+
+NXDOMAIN for g.wanfangdata.libcon.bupt.edu.cn
+
+libvpn.bupt.edu.cn. 1800 IN A 211.68.68.221
+
+libvpn.bupt.edu.cn. 1799 IN A 211.68.68.221
+
+libvpn.bupt.edu.cn. 1799 IN A 211.68.68.221
+
+libvpn.bupt.edu.cn. 1799 IN A 211.68.68.221
+
+libvpn2.bupt.edu.cn. 1800 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+libvpn2.bupt.edu.cn. 1799 IN A 211.68.68.220
+
+lqcx.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7197 IN A 211.68.69.240
+
+ltx.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mail.bupt.edu.cn. 60 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail.bupt.edu.cn. 59 IN CNAME ssl.exmail.qq.com.
+ssl.exmail.qq.com. 179 IN A 58.250.136.39
+ssl.exmail.qq.com. 179 IN A 58.251.81.43
+
+mail1.bupt.edu.cn. 300 IN A 114.255.40.142
+
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail2.bupt.edu.cn. 300 IN CNAME mail1.bupt.edu.cn.
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail3.bupt.edu.cn. 300 IN CNAME mail1.bupt.edu.cn.
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail3.bupt.edu.cn. 299 IN CNAME mail1.bupt.edu.cn.
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail3.bupt.edu.cn. 299 IN CNAME mail1.bupt.edu.cn.
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+mail3.bupt.edu.cn. 299 IN CNAME mail1.bupt.edu.cn.
+mail1.bupt.edu.cn. 299 IN A 114.255.40.142
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+NXDOMAIN for mdm.bupt.edu.cn
+
+meercin.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mekltdcs.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mekltdcs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mekltdcs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mekltdcs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mekluwc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mekluwc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mmt-sice.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+mmt-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+mmt-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+mmt-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+mmt-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6484 IN A 114.255.40.166
+
+msca.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+msca.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+msca.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+msca.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mtri.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+mtri.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx1.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx2.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+NXDOMAIN for mx3.bupt.edu.cn
+
+my.bupt.edu.cn. 600 IN A 10.3.55.39
+
+my.bupt.edu.cn. 599 IN A 10.3.55.39
+
+my.bupt.edu.cn. 599 IN A 10.3.55.39
+
+my.bupt.edu.cn. 599 IN A 10.3.55.39
+
+ne.bupt.edu.cn. 300 IN A 124.127.207.5
+
+NXDOMAIN for net.bupt.edu.cn
+
+NXDOMAIN for net.bupt.edu.cn
+
+NXDOMAIN for net.bupt.edu.cn
+
+netaccount.bupt.edu.cn. 300 IN A 10.3.8.208
+
+netaccount.bupt.edu.cn. 299 IN A 10.3.8.208
+
+netaccount.bupt.edu.cn. 299 IN A 10.3.8.208
+
+news.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+news.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+news.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+news.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+news.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+NXDOMAIN for ngw.bupt.edu.cn
+
+NXDOMAIN for ngw.bupt.edu.cn
+
+NXDOMAIN for ngw.bupt.edu.cn
+
+nic.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+nic.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+niclab.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+ns.bupt.edu.cn. 300 IN A 202.112.10.37
+
+ns.bupt.edu.cn. 299 IN A 202.112.10.37
+
+ns.bupt.edu.cn. 299 IN A 202.112.10.37
+
+ns.bupt.edu.cn. 299 IN A 202.112.10.37
+
+oa.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+ofc-sice.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+ofc-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+ofc-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+ofc-sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+opac.bupt.edu.cn. 7200 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+opac.bupt.edu.cn. 7199 IN A 211.68.68.217
+
+pay.bupt.edu.cn. 300 IN A 114.255.40.145
+
+ped.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+ped.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7196 IN A 211.68.69.240
+
+physlab.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+physlab.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+physlab.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+physlab.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+physlab.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab1pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab2pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab3pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+NXDOMAIN for planetlab4pcu.bupt.edu.cn
+
+post.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+NXDOMAIN for proxy.bupt.edu.cn
+
+rsc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sa.bupt.edu.cn. 1084 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6483 IN A 114.255.40.166
+
+sa.bupt.edu.cn. 1083 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6483 IN A 114.255.40.166
+
+sa.bupt.edu.cn. 1083 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6483 IN A 114.255.40.166
+
+sa.bupt.edu.cn. 1083 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6483 IN A 114.255.40.166
+
+sa.bupt.edu.cn. 1083 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6483 IN A 114.255.40.166
+
+sce.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sce.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sce.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sci.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sci.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sci.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sci.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sci.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+science.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+science.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scs.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scss.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scss.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scss.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scss.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+scss.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sdmda.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sdmda.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+see.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+see.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+see.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+see.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+see.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sem.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sem.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sem.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sem.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sem.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sembm.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sh.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+shahe.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+shahe.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+shahe.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sice.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sice.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7195 IN A 211.68.69.240
+
+sjc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sjc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sklnst.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sklnst.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sklnst.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sklnst.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sklnst.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6482 IN A 114.255.40.166
+
+sklnst-en.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+smp.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+smp.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+sppm.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+sse.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+sse.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+sse.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+sse.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+sse.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+stu.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+stu.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+studyinchina.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+studyinchina.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+studyinchina.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+studyinchina.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+syzx.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+syzx.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+syzx.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+syzx.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+szk.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+NXDOMAIN for tank.bupt.edu.cn
+
+teacher.bupt.edu.cn. 30 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 3846 IN A 114.255.40.166
+
+teacher.bupt.edu.cn. 29 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 3846 IN A 114.255.40.166
+
+teacher.bupt.edu.cn. 29 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 3846 IN A 114.255.40.166
+
+teacher.bupt.edu.cn. 29 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 3846 IN A 114.255.40.166
+
+teacher.bupt.edu.cn. 29 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 3846 IN A 114.255.40.166
+
+tzb.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+tzb.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+tzb.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+tzb.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+tzb.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+ucapp.bupt.edu.cn. 300 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+ucapp.bupt.edu.cn. 299 IN A 211.68.68.7
+
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+vpn.bupt.edu.cn. 60 IN A 118.229.255.32
+
+vpn.bupt.edu.cn. 59 IN A 118.229.255.32
+
+vpn.bupt.edu.cn. 59 IN A 118.229.255.32
+
+vpn-ce.bupt.edu.cn. 300 IN A 118.229.255.33
+
+vpn-ce.bupt.edu.cn. 299 IN A 118.229.255.33
+
+vpn-ce.bupt.edu.cn. 299 IN A 118.229.255.33
+
+vpn-cm.bupt.edu.cn. 300 IN A 223.71.185.90
+
+vpn-cm.bupt.edu.cn. 299 IN A 223.71.185.90
+
+vpn-cm.bupt.edu.cn. 299 IN A 223.71.185.90
+
+vpn-cm.bupt.edu.cn. 299 IN A 223.71.185.90
+
+vpn-ct.bupt.edu.cn. 300 IN A 124.127.207.90
+
+vpn-ct.bupt.edu.cn. 299 IN A 124.127.207.90
+
+vpn-ct.bupt.edu.cn. 299 IN A 124.127.207.90
+
+vpn-cu.bupt.edu.cn. 300 IN A 114.255.40.90
+
+vpn-cu.bupt.edu.cn. 299 IN A 114.255.40.90
+
+vpn-cu.bupt.edu.cn. 299 IN A 114.255.40.90
+
+vpn-cu.bupt.edu.cn. 299 IN A 114.255.40.90
+
+webapp.bupt.edu.cn. 300 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webapp.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 300 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webimg.bupt.edu.cn. 299 IN A 211.68.68.226
+
+webmail.bupt.edu.cn. 300 IN A 114.255.40.142
+
+webmail.bupt.edu.cn. 299 IN A 114.255.40.142
+
+webmail.bupt.edu.cn. 299 IN A 114.255.40.142
+
+webmail.bupt.edu.cn. 299 IN A 114.255.40.142
+
+webvpn.bupt.edu.cn. 300 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+webvpn.bupt.edu.cn. 299 IN A 211.68.69.250
+
+welcome.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+welcome.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+welcome.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+welcome.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+welcome.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+win.bupt.edu.cn. 7200 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+win.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+win.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+win.bupt.edu.cn. 7199 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+wmobile.bupt.edu.cn. 300 IN A 114.255.40.228
+
+wmobile.bupt.edu.cn. 299 IN A 114.255.40.228
+
+wmobile.bupt.edu.cn. 299 IN A 114.255.40.228
+
+www.bupt.edu.cn. 954 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www.bupt.edu.cn. 953 IN CNAME vn46.bupt.edu.cn.
+vn46.bupt.edu.cn. 196 IN A 114.255.40.166
+
+www1.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+www1.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xcb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+xcb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+xcb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+xfjs.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xfjs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xfjs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xfjs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xfjs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xintan.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xsb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+xsb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7194 IN A 211.68.69.240
+
+xsc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xsc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xsda.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xsda.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xsda.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xsda.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xsda.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xwb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xwb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+xxgk.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xxgk.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xxgk.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xxgk.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xxgk.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyh.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyh.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyy.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyy.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyy.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyy.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+xyy.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+ygb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+ygb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yiban.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yiban.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yjc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yjc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6481 IN A 114.255.40.166
+
+yjszs.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yjxt.bupt.edu.cn. 300 IN A 211.68.69.240
+
+yjxt.bupt.edu.cn. 299 IN A 211.68.69.240
+
+yjxt.bupt.edu.cn. 299 IN A 211.68.69.240
+
+yjxt.bupt.edu.cn. 299 IN A 211.68.69.240
+
+NXDOMAIN for yjzs.bupt.edu.cn
+
+NXDOMAIN for yjzs.bupt.edu.cn
+
+NXDOMAIN for yjzs.bupt.edu.cn
+
+NXDOMAIN for yjzs.bupt.edu.cn
+
+yqgx.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 6480 IN A 114.255.40.166
+
+yysyzx.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzfs.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzfs.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+yzfs.bupt.edu.cn. 299 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zcc.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zcc.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zcgs.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zcgs.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zsb.bupt.edu.cn. 1800 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zsb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zsb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zsb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zsb.bupt.edu.cn. 1799 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+
+zxwd.bupt.edu.cn. 300 IN CNAME vn.bupt.edu.cn.
+vn.bupt.edu.cn. 7193 IN A 211.68.69.240
+

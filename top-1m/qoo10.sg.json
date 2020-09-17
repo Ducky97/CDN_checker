@@ -1,0 +1,47 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "-1",
+            "Vary": "Accept-Encoding",
+            "P3P": "CP=\"NOI CURa ADMa DEVa TAIa OUR DELa BUS IND PHY ONL UNI COM NAV INT DEM PRE\"",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,1",
+            "Date": "Wed, 16 Sep 2020 11:35:37 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Set-Cookie": "tracking-sessionid=447a5857-8bef-4fdb-8eec-625e16fc8ce2::2020-09-16 19:35:36; domain=qoo10.sg; expires=Thu, 30-Dec-2100 16:00:00 GMT; path=/; SameSite=None; Secure, inflow_referer=https%3a%2f%2fmaoyan.com%2fboard%2f4; domain=qoo10.sg; path=/; SameSite=None; Secure, tracking-devcd-5=Windows_NT_10.0%3a%3aChrome%3a%3aDesktop; domain=qoo10.sg; path=/; SameSite=None; Secure, last_access_ip=47.241.77.232; domain=qoo10.sg; path=/; SameSite=None; Secure, last_access_nation=CN; domain=qoo10.sg; path=/; SameSite=None; Secure, SetShipto=CN; domain=qoo10.sg; expires=Thu, 16-Sep-2021 11:35:36 GMT; path=/; SameSite=None; Secure, gmktCurrency=CNY; domain=qoo10.sg; expires=Thu, 30-Dec-2100 16:00:00 GMT; path=/; SameSite=None; Secure, etc_info=shop_cd=111&class_cd=&class_kind=T; domain=qoo10.sg; path=/; SameSite=None; Secure; SameSite=None; Secure; SameSite=None; Secure, jaehu_id=MjAwMDE1OTgxNA%3d%3d; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, affiliate_group_id=NTg%3d; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, affiliate_co_code=MTAwMDAwMjMx; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, affiliate_app_purchase=Tg%3d%3d; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, affiliate_inside_yn=WQ%3d%3d; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, jaehu_id_sub_value=; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, jaehu_id_sub_value2=; domain=qoo10.sg; expires=Thu, 17-Sep-2020 11:35:36 GMT; path=/; SameSite=None; Secure, SPECIAL_SHOP_SITE_ID=; domain=qoo10.sg; path=/, referrer_svc_nation_cd=SG; domain=qoo10.sg; path=/; SameSite=None; Secure, tracking-landing-page=111!%3a%3a!; domain=qoo10.sg; path=/; SameSite=None; Secure, landing-flowpath-info=111%7c--%7c%7c--%7cT; domain=qoo10.sg; path=/; SameSite=None; Secure"
+        },
+        "nslookup": {
+            "qoo10.sg": [
+                "52.220.217.108",
+                "52.74.251.10"
+            ],
+            "www.qoo10.sg": [
+                "125.252.229.120"
+            ]
+        },
+        "ping": {
+            "qoo10.sg": [
+                "52.220.217.108",
+                "52.74.251.10"
+            ],
+            "www.qoo10.sg": [
+                "125.252.229.120"
+            ]
+        },
+        "CNAME": {
+            "www.qoo10.sg": [
+                "www.qoo10.sg.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.qoo10.sg": [
+                "125.252.229.120"
+            ]
+        }
+    },
+    "https": null
+}

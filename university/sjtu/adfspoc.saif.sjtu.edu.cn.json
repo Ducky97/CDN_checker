@@ -1,0 +1,55 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Date": "Thu, 17 Sep 2020 02:34:26 GMT",
+            "Set-Cookie": "acw_tc=a3b5249d16003100653113525e1d339e693fa0820f25be04796da1ad31;path=/;HttpOnly;Max-Age=1800, PHPSESSID=o3bnbbs19pdlonjgff22ig8rj6; path=/",
+            "X-Powered-By": "PHP/5.4.16",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Pragma": "no-cache",
+            "Via": "cache76.l2cn1850[700,0], cache9.sg6[778,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b5249d16003100653113525e",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "adfspoc.saif.sjtu.edu.cn": [
+                "47.102.148.130"
+            ],
+            "www.saif.sjtu.edu.cn": [
+                "163.181.36.227",
+                "163.181.36.228",
+                "163.181.36.229",
+                "163.181.36.230",
+                "163.181.36.231",
+                "163.181.36.224",
+                "163.181.36.225",
+                "163.181.36.226"
+            ]
+        },
+        "ping": {
+            "adfspoc.saif.sjtu.edu.cn": [
+                "47.102.148.130"
+            ],
+            "www.saif.sjtu.edu.cn": [
+                "163.181.36.226",
+                "163.181.36.224",
+                "163.181.36.229"
+            ]
+        },
+        "CNAME": {
+            "adfspoc.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "adfspoc.saif.sjtu.edu.cn": [
+                "47.102.148.130"
+            ]
+        }
+    },
+    "https": null
+}

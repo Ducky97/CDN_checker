@@ -1,0 +1,84 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 08:59:00 GMT",
+            "Server": "Apache",
+            "Last-Modified": "Tue, 12 Jan 2010 13:48:00 GMT",
+            "ETag": "\"51-47cf7e6ee8400\"",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "81",
+            "Cache-Control": "max-age=86400",
+            "Expires": "Thu, 17 Sep 2020 08:59:00 GMT",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "baidu.com": [
+                "39.156.69.79",
+                "220.181.38.148"
+            ]
+        },
+        "ping": {
+            "baidu.com": [
+                "39.156.69.79",
+                "220.181.38.148"
+            ]
+        },
+        "CNAME": {
+            "baidu.com": "still a low_level domain_name"
+        },
+        "A": {
+            "baidu.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Bdpagetype": "1",
+            "Bdqid": "0xb92bbb720000d516",
+            "Cache-Control": "private",
+            "Connection": "keep-alive",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html;charset=utf-8",
+            "Date": "Wed, 16 Sep 2020 08:59:03 GMT",
+            "Expires": "Wed, 16 Sep 2020 08:58:34 GMT",
+            "P3p": "CP=\" OTI DSP COR IVA OUR IND COM \", CP=\" OTI DSP COR IVA OUR IND COM \"",
+            "Server": "BWS/1.1",
+            "Set-Cookie": "BAIDUID=26E5DEB8BF116A14BF76701936A66082:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com, BIDUPSID=26E5DEB8BF116A14BF76701936A66082; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com, PSTM=1600246743; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2147483647; path=/; domain=.baidu.com, BAIDUID=26E5DEB8BF116A1414F823BCBEF1AB1D:FG=1; max-age=31536000; expires=Thu, 16-Sep-21 08:59:03 GMT; domain=.baidu.com; path=/; version=1; comment=bd, BDSVRTM=0; path=/, BD_HOME=1; path=/, H_PS_PSSID=7540_32617_1462_32693_31253_7620_32115_32719_26350; path=/; domain=.baidu.com",
+            "Strict-Transport-Security": "max-age=172800",
+            "Traceid": "1600246743036119988213342964419315946774",
+            "X-Ua-Compatible": "IE=Edge,chrome=1",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "baidu.com": [
+                "39.156.69.79",
+                "220.181.38.148"
+            ],
+            "www.baidu.com": [
+                "104.193.88.123",
+                "104.193.88.77"
+            ]
+        },
+        "ping": {
+            "baidu.com": [
+                "39.156.69.79",
+                "220.181.38.148"
+            ],
+            "www.baidu.com": [
+                "45.113.192.102",
+                "45.113.192.101"
+            ]
+        },
+        "CNAME": {
+            "www.baidu.com": [
+                "www.a.shifen.com."
+            ]
+        },
+        "A": {
+            "www.baidu.com": [
+                "45.113.192.102",
+                "45.113.192.101"
+            ]
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-cache=\"set-cookie, set-cookie2\",no-transform",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Language": "en-US",
+            "Expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+            "X-Powered-By": ", ",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Security-Policy": "frame-ancestors https://www.icicibank.com https://rmwb.icicibank.com https://ipfms.icicibank.com https://imbuat.icicibank.com https://cibnext.icicibank.com https://help.icicibank.com https://infiniteindia.icicibank.com",
+            "Strict-Transport-Security": "max-age=10886400",
+            "X-Xss-Protection": "1; mode=block",
+            "Access-Control-Allow-Origin": "https://infinity.icicibank.com",
+            "Access-Control-Allow-Credentials": "true",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:14:54 GMT",
+            "Content-Length": "26594",
+            "Connection": "keep-alive",
+            "Set-Cookie": "JSESSIONID=0000TGuLhv6UVABqH8uLpg6XX1m:22b3bvsii0; Path=/; Secure; HttpOnly"
+        },
+        "nslookup": {
+            "icicibank.com": [
+                "203.27.235.25"
+            ],
+            "www.icicibank.com": [
+                "184.26.195.184"
+            ]
+        },
+        "ping": {
+            "icicibank.com": [
+                "203.27.235.25"
+            ],
+            "www.icicibank.com": [
+                "184.26.195.184"
+            ]
+        },
+        "CNAME": {
+            "www.icicibank.com": [
+                "www.icicibank.com-v2.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.icicibank.com": [
+                "184.26.195.184"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache=\"set-cookie, set-cookie2\",no-transform",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Language": "en-US",
+            "Expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+            "X-Powered-By": ", ",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "frame-ancestors https://www.icicibank.com https://rmwb.icicibank.com https://ipfms.icicibank.com https://imbuat.icicibank.com https://cibnext.icicibank.com https://help.icicibank.com https://infiniteindia.icicibank.com",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=10886400",
+            "Access-Control-Allow-Origin": "https://infinity.icicibank.com",
+            "Access-Control-Allow-Credentials": "true",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:14:56 GMT",
+            "Content-Length": "26594",
+            "Connection": "keep-alive",
+            "Set-Cookie": "JSESSIONID=0000iQgebFNPwA7WklnWRsBW4sU:11b3bvsg6q; Path=/; Secure; HttpOnly"
+        },
+        "nslookup": {
+            "icicibank.com": [
+                "203.27.235.25"
+            ],
+            "www.icicibank.com": [
+                "184.26.195.184"
+            ]
+        },
+        "ping": {
+            "icicibank.com": [
+                "203.27.235.25"
+            ],
+            "www.icicibank.com": [
+                "184.26.195.184"
+            ]
+        },
+        "CNAME": {
+            "www.icicibank.com": [
+                "www.icicibank.com-v2.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.icicibank.com": [
+                "184.26.195.184"
+            ]
+        }
+    }
+}

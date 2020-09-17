@@ -1,0 +1,42 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Date": "Wed, 16 Sep 2020 11:36:21 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "PHPSESSID=s5vv9vuparppcftsp6269qqc14; path=/, citydomain=%25E5%258C%2597%25E4%25BA%25AC%7Cbj.haofang.net; expires=Thu, 17-Sep-2020 11:36:21 GMT; Max-Age=86400; path=/",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Pragma": "no-cache",
+            "Cache-control": "private",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "haofang.net": [
+                "47.110.21.4"
+            ],
+            "bj.myfangwang.com": [
+                "47.110.21.4"
+            ]
+        },
+        "ping": {
+            "haofang.net": [
+                "47.110.21.4"
+            ],
+            "bj.myfangwang.com": [
+                "47.110.21.4"
+            ]
+        },
+        "CNAME": {
+            "bj.myfangwang.com": null
+        },
+        "A": {
+            "bj.myfangwang.com": [
+                "47.110.21.4"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,88 @@
+{
+    "http": {
+        "header": {
+            "server": "nginx",
+            "date": "Wed, 16 Sep 2020 09:22:46 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "transfer-encoding": "chunked",
+            "cache-control": "private",
+            "vary": "User-Agent, Accept-Encoding",
+            "content-encoding": "gzip",
+            "link": "<https://ac-r.static.booking.cn/static/css/gprof_icons_alicloud.iq_ltr/2bf8f1720cb4bf6c2de29fc010c85a3283ffddde.css>; rel=preload; as=style, <https://ac-q.static.booking.cn/static/css/index_alicloud.iq_ltr/064d45ea80e6a780b3fad02e51c37cc3c59b16e2.css>; rel=preload; as=style, <https://ac-r.static.booking.cn/static/css/main_alicloud.iq_ltr/2018205d3ee15b573e375e01772b6b56993ba9f7.css>; rel=preload; as=style, <https://ac-q.static.booking.cn/static/css/main_exps_alicloud.iq_ltr/53be9540e893ef155c44240bc662e98ac9836485.css>; rel=preload; as=style, <https://ac-q.static.booking.cn/static/css/xp-index-sb_alicloud.iq_ltr/06479a6c99f227247a2e487cc974f0c1a4aa76d7.css>; rel=preload; as=style",
+            "set-cookie": "_pxhd=7ec8c96e898c4d8d5c7ae03900abc96f2e76d1b49f33734fa19f4b4f12f57cf5%3A2e2d3551-f7fe-11ea-b0a7-95c6a227ae69; path=/; expires=Thu, 16-Sep-2021 09:22:46 GMT, bkng=11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbiKbS0JOgDBKkWhLrPqmru5AYvflpXGaZdbE1ZLKqEFYZQFRcLqGTBQalqvBJUfcVFo4e5k7WEZILei6ahRlrXtJk6Z%2BcuVy%2FGxrHHreYe%2FHtzxZJPOisRlEWEFb9NIofEJnmOJY2n0J8KJs7f9lne7mc4zmnPfnc2TX1D7JxQqo%3D; domain=.booking.com; path=/; expires=Mon, 15-Sep-2025 09:22:46 GMT; Secure; HTTPOnly; SameSite=None",
+            "strict-transport-security": "max-age=604800",
+            "x-content-type-options": "nosniff",
+            "x-recruiting": "Like HTTP headers? Come write ours: https://careers.booking.com",
+            "x-xss-protection": "1; mode=block"
+        },
+        "nslookup": {
+            "booking.com": [
+                "5.57.16.220"
+            ],
+            "www.booking.com": [
+                "185.28.221.2"
+            ]
+        },
+        "ping": {
+            "booking.com": [
+                "5.57.16.220"
+            ],
+            "www.booking.com": [
+                "185.28.221.2"
+            ]
+        },
+        "CNAME": {
+            "www.booking.com": [
+                "www.c.booking.com."
+            ]
+        },
+        "A": {
+            "www.booking.com": [
+                "185.28.221.2"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "server": "nginx",
+            "date": "Wed, 16 Sep 2020 09:22:48 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "transfer-encoding": "chunked",
+            "cache-control": "private",
+            "vary": "Accept-Encoding, User-Agent",
+            "content-encoding": "gzip",
+            "link": "<https://ac-r.static.booking.cn/static/css/gprof_icons_alicloud.iq_ltr/2bf8f1720cb4bf6c2de29fc010c85a3283ffddde.css>; rel=preload; as=style, <https://ac-q.static.booking.cn/static/css/index_alicloud.iq_ltr/064d45ea80e6a780b3fad02e51c37cc3c59b16e2.css>; rel=preload; as=style, <https://ac-r.static.booking.cn/static/css/main_alicloud.iq_ltr/2018205d3ee15b573e375e01772b6b56993ba9f7.css>; rel=preload; as=style, <https://ac-q.static.booking.cn/static/css/main_exps_alicloud.iq_ltr/53be9540e893ef155c44240bc662e98ac9836485.css>; rel=preload; as=style, <https://ac-q.static.booking.cn/static/css/xp-index-sb_alicloud.iq_ltr/06479a6c99f227247a2e487cc974f0c1a4aa76d7.css>; rel=preload; as=style",
+            "set-cookie": "_pxhd=4202e0b3d2ebf281abb301f78d19763ce655e4ae0a0a77309a434c26e5b7b852%3A2f7f57d0-f7fe-11ea-81e5-313c7005a5d7; path=/; expires=Thu, 16-Sep-2021 09:22:48 GMT, bkng=11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbbmD9q%2B5pe3VAQebgAxCYEIAnrbaJwmxVFa4wLmGHcA3NBvm2p7kRyrctMNY4w2pYhLeY32LtLj0Cy3iWG0FdBXz6vpV6ZuJ3aTb10mT8p6Vbs3313O3kouHCojIVRwEbIypthWe%2BsBNnVbEtzJ7Nvh%2FbDlswoebG; domain=.booking.com; path=/; expires=Mon, 15-Sep-2025 09:22:48 GMT; Secure; HTTPOnly; SameSite=None",
+            "strict-transport-security": "max-age=604800",
+            "x-content-type-options": "nosniff",
+            "x-recruiting": "Like HTTP headers? Come write ours: https://careers.booking.com",
+            "x-xss-protection": "1; mode=block"
+        },
+        "nslookup": {
+            "booking.com": [
+                "5.57.16.220"
+            ],
+            "www.booking.com": [
+                "185.28.221.2"
+            ]
+        },
+        "ping": {
+            "booking.com": [
+                "5.57.16.220"
+            ],
+            "www.booking.com": [
+                "185.28.221.2"
+            ]
+        },
+        "CNAME": {
+            "www.booking.com": [
+                "www.c.booking.com."
+            ]
+        },
+        "A": {
+            "www.booking.com": [
+                "185.28.221.2"
+            ]
+        }
+    }
+}

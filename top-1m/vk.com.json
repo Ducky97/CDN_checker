@@ -1,0 +1,90 @@
+{
+    "http": {
+        "header": {
+            "Server": "kittenx",
+            "Date": "Wed, 16 Sep 2020 09:04:13 GMT",
+            "Content-Type": "text/html; charset=windows-1251",
+            "Content-Length": "20162",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/3.26253",
+            "Set-Cookie": "remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly, remixlang=18; expires=Sat, 18 Sep 2021 16:07:16 GMT; path=/; domain=.vk.com, remixbdr=0; expires=Thu, 17 Sep 2020 09:04:13 GMT; path=/; domain=.vk.com; secure, remixlhk=e8600dd6df104d5052; expires=Tue, 14 Sep 2021 19:46:12 GMT; path=/; domain=.vk.com; secure, remixstid=1458641985_ArGNn62WenjZPN8NWgpU36EJYYciIXj1LbEU15IyCTX; expires=Sat, 11 Sep 2021 01:18:35 GMT; path=/; domain=.vk.com; secure, remixlhk=80f8bbbf8ac143f18d; expires=Fri, 10 Sep 2021 21:34:56 GMT; path=/; domain=.vk.com; secure, remixrefkey=a7a228d0983539e5f4; expires=Mon, 13 Sep 2021 13:32:21 GMT; path=/; domain=.vk.com; secure",
+            "Cache-control": "no-store",
+            "Content-Security-Policy": "default-src * data: blob: about:;script-src 'self' https://*.vk.com https://static.vk.me https://*.mail.ru https://s.ytimg.com https://platform.twitter.com https://cdn.syndication.twimg.com https://www.instagram.com https://connect.facebook.net https://telegram.org https://*.yandex.ru https://*.google-analytics.com https://*.youtube.com https://maps.googleapis.com https://translate.googleapis.com https://*.google.com https://google.com https://*.vkpartner.ru https://*.moatads.com https://*.adlooxtracking.com https://*.gstatic.com https://*.google.ru https://securepubads.g.doubleclick.net https://cdn.ampproject.org https://www.googletagmanager.com https://googletagmanager.com https://*.vk-cdn.net https://*.hit.gemius.pl https://yastatic.net 'unsafe-inline' 'unsafe-eval' blob:;style-src https://vk.com https://*.vk.com https://static.vk.me https://ton.twimg.com https://tagmanager.google.com https://platform.twitter.com https://*.googleapis.com 'self' 'unsafe-inline'",
+            "X-XSS-Protection": "1; report=/xss_reports",
+            "X-Frame-Options": "deny",
+            "Content-Encoding": "gzip",
+            "X-Frontend": "front213209",
+            "Strict-Transport-Security": "max-age=15768000",
+            "Access-Control-Expose-Headers": "X-Frontend"
+        },
+        "nslookup": {
+            "vk.com": [
+                "87.240.139.194",
+                "87.240.137.158",
+                "87.240.190.67",
+                "87.240.190.72",
+                "87.240.190.78",
+                "93.186.225.208"
+            ]
+        },
+        "ping": {
+            "vk.com": [
+                "87.240.190.78",
+                "87.240.139.194",
+                "87.240.190.67",
+                "87.240.137.158"
+            ]
+        },
+        "CNAME": {
+            "vk.com": "still a low_level domain_name"
+        },
+        "A": {
+            "vk.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "kittenx",
+            "Date": "Wed, 16 Sep 2020 09:04:14 GMT",
+            "Content-Type": "text/html; charset=windows-1251",
+            "Content-Length": "20164",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/3.26253",
+            "Set-Cookie": "remixir=DELETED; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.vk.com; secure; HttpOnly, remixlang=18; expires=Fri, 10 Sep 2021 12:37:26 GMT; path=/; domain=.vk.com, remixbdr=0; expires=Thu, 17 Sep 2020 09:04:14 GMT; path=/; domain=.vk.com; secure, remixlhk=7e30e54ebabbb9ddba; expires=Wed, 22 Sep 2021 01:34:39 GMT; path=/; domain=.vk.com; secure, remixstid=42120020_zd6fjITj2DAEDVWH2CVXRdAf6rvAEi6EzeRzUzsUstk; expires=Thu, 09 Sep 2021 17:18:32 GMT; path=/; domain=.vk.com; secure, remixlhk=ba07bb78bbc80393e8; expires=Wed, 15 Sep 2021 11:48:14 GMT; path=/; domain=.vk.com; secure, remixrefkey=a7a228d0983539e5f4; expires=Tue, 14 Sep 2021 13:19:27 GMT; path=/; domain=.vk.com; secure",
+            "Cache-control": "no-store",
+            "Content-Security-Policy": "default-src * data: blob: about:;script-src 'self' https://*.vk.com https://static.vk.me https://*.mail.ru https://s.ytimg.com https://platform.twitter.com https://cdn.syndication.twimg.com https://www.instagram.com https://connect.facebook.net https://telegram.org https://*.yandex.ru https://*.google-analytics.com https://*.youtube.com https://maps.googleapis.com https://translate.googleapis.com https://*.google.com https://google.com https://*.vkpartner.ru https://*.moatads.com https://*.adlooxtracking.com https://*.gstatic.com https://*.google.ru https://securepubads.g.doubleclick.net https://cdn.ampproject.org https://www.googletagmanager.com https://googletagmanager.com https://*.vk-cdn.net https://*.hit.gemius.pl https://yastatic.net 'unsafe-inline' 'unsafe-eval' blob:;style-src https://vk.com https://*.vk.com https://static.vk.me https://ton.twimg.com https://tagmanager.google.com https://platform.twitter.com https://*.googleapis.com 'self' 'unsafe-inline'",
+            "X-XSS-Protection": "1; report=/xss_reports",
+            "X-Frame-Options": "deny",
+            "Content-Encoding": "gzip",
+            "X-Frontend": "front605107",
+            "Strict-Transport-Security": "max-age=15768000",
+            "Access-Control-Expose-Headers": "X-Frontend"
+        },
+        "nslookup": {
+            "vk.com": [
+                "87.240.190.72",
+                "87.240.190.78",
+                "93.186.225.208",
+                "87.240.139.194",
+                "87.240.137.158",
+                "87.240.190.67"
+            ]
+        },
+        "ping": {
+            "vk.com": [
+                "87.240.139.194",
+                "87.240.190.67",
+                "87.240.190.72",
+                "93.186.225.208",
+                "87.240.190.78",
+                "87.240.137.158"
+            ]
+        },
+        "CNAME": {
+            "vk.com": "still a low_level domain_name"
+        },
+        "A": {
+            "vk.com": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=us-ascii",
+            "Date": "Thu, 17 Sep 2020 02:34:19 GMT",
+            "Connection": "close",
+            "Content-Length": "315"
+        },
+        "nslookup": {
+            "adfsdev.saif.sjtu.edu.cn": [
+                "47.101.172.106"
+            ]
+        },
+        "ping": {
+            "adfsdev.saif.sjtu.edu.cn": [
+                "47.101.172.106"
+            ]
+        },
+        "CNAME": {
+            "adfsdev.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "adfsdev.saif.sjtu.edu.cn": [
+                "47.101.172.106"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache,no-store",
+            "Pragma": "no-cache",
+            "Content-Length": "10159",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "-1",
+            "Server": "Microsoft-HTTPAPI/2.0",
+            "x-frame-options": "DENY",
+            "X-MS-Forwarded-Status-Code": "500",
+            "Date": "Thu, 17 Sep 2020 02:34:20 GMT"
+        },
+        "nslookup": {
+            "adfsdev.saif.sjtu.edu.cn": [
+                "47.101.172.106"
+            ]
+        },
+        "ping": {
+            "adfsdev.saif.sjtu.edu.cn": [
+                "47.101.172.106"
+            ]
+        },
+        "CNAME": {
+            "adfsdev.saif.sjtu.edu.cn": null
+        },
+        "A": {
+            "adfsdev.saif.sjtu.edu.cn": [
+                "47.101.172.106"
+            ]
+        }
+    }
+}

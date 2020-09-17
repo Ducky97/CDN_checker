@@ -1,0 +1,113 @@
+{
+    "http": {
+        "header": {
+            "expect-ct": "max-age=31536000, report-uri=\"http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only\"",
+            "referrer-policy": "no-referrer-when-downgrade",
+            "strict-transport-security": "max-age=31536000",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "SAMEORIGIN",
+            "x-xss-protection": "1; mode=block",
+            "content-type": "text/html; charset=utf-8",
+            "vary": "Accept-Encoding",
+            "content-encoding": "gzip",
+            "set-cookie": "B=02e37ctfm3u4b&b=3&s=6i; expires=Wed, 16-Sep-2021 11:35:39 GMT; path=/; domain=.yahoo.com, BX=6a4if9hfm3u4a&b=3&s=82; Expires=Thu, 16 Sep 2021 17:35:39 GMT; Max-Age=31557600; Domain=.aol.com; Path=/, BX=6a4if9hfm3u4a&b=3&s=82; expires=Thu, 16-Sep-2021 11:35:39 GMT; path=/; domain=.aol.com",
+            "content-security-policy": "upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;",
+            "date": "Wed, 16 Sep 2020 11:35:39 GMT",
+            "x-envoy-upstream-service-time": "151",
+            "server": "ATS",
+            "Age": "0",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "aol.com": [
+                "212.82.100.150",
+                "98.136.103.23",
+                "74.6.136.150",
+                "124.108.115.100",
+                "106.10.248.150"
+            ],
+            "www.aol.com": [
+                "67.195.231.20"
+            ]
+        },
+        "ping": {
+            "aol.com": [
+                "212.82.100.150",
+                "124.108.115.100",
+                "98.136.103.23",
+                "74.6.136.150"
+            ],
+            "www.aol.com": [
+                "67.195.231.20",
+                "106.10.236.137"
+            ]
+        },
+        "CNAME": {
+            "www.aol.com": [
+                "media-router-aol1.prod.media.yahoo.com."
+            ]
+        },
+        "A": {
+            "www.aol.com": [
+                "67.195.231.20"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "expect-ct": "max-age=31536000, report-uri=\"http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only\"",
+            "referrer-policy": "no-referrer-when-downgrade",
+            "strict-transport-security": "max-age=31536000",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "SAMEORIGIN",
+            "x-xss-protection": "1; mode=block",
+            "content-type": "text/html; charset=utf-8",
+            "vary": "Accept-Encoding",
+            "content-encoding": "gzip",
+            "set-cookie": "B=dfqom7tfm3u4c&b=3&s=kh; expires=Wed, 16-Sep-2021 11:35:40 GMT; path=/; domain=.yahoo.com, BX=frmaft9fm3u4c&b=3&s=46; Expires=Thu, 16 Sep 2021 17:35:40 GMT; Max-Age=31557600; Domain=.aol.com; Path=/, BX=frmaft9fm3u4c&b=3&s=46; expires=Thu, 16-Sep-2021 11:35:40 GMT; path=/; domain=.aol.com",
+            "content-security-policy": "upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;",
+            "date": "Wed, 16 Sep 2020 11:35:40 GMT",
+            "x-envoy-upstream-service-time": "330",
+            "server": "ATS",
+            "Age": "0",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "aol.com": [
+                "124.108.115.100",
+                "74.6.136.150",
+                "212.82.100.150",
+                "98.136.103.23",
+                "106.10.248.150"
+            ],
+            "www.aol.com": [
+                "67.195.231.20"
+            ]
+        },
+        "ping": {
+            "aol.com": [
+                "212.82.100.150",
+                "74.6.136.150",
+                "124.108.115.100",
+                "98.136.103.23",
+                "106.10.248.150"
+            ],
+            "www.aol.com": [
+                "106.10.236.137",
+                "67.195.231.20"
+            ]
+        },
+        "CNAME": {
+            "www.aol.com": [
+                "media-router-aol1.prod.media.yahoo.com."
+            ]
+        },
+        "A": {
+            "www.aol.com": [
+                "106.10.236.137"
+            ]
+        }
+    }
+}

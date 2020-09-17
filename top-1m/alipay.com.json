@@ -1,0 +1,54 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine/2.1.0",
+            "Date": "Wed, 16 Sep 2020 09:12:49 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "x-server-id": "42-5014",
+            "request-id": "218f7d8d16002475696895591e2ab9",
+            "set-cookie": "csrfToken=58If5574yhA4c6Khj9As6zOf; path=/; domain=.alipay.com; secure, spanner=2oZVWznBXT+L+SHEFuDCoMmyulMBDdfPXt2T4qEYgj0=;path=/;secure;",
+            "x-frame-options": "SAMEORIGIN",
+            "x-xss-protection": "1; mode=block",
+            "x-content-type-options": "nosniff",
+            "x-download-options": "noopen",
+            "x-readtime": "1",
+            "Content-Encoding": "gzip",
+            "Via": "spanner-internet-5016.et2[200]"
+        },
+        "nslookup": {
+            "alipay.com": [
+                "110.75.129.5",
+                "110.75.139.5"
+            ],
+            "www.alipay.com": [
+                "203.209.245.130",
+                "203.209.247.64"
+            ]
+        },
+        "ping": {
+            "alipay.com": [
+                "110.75.129.5",
+                "110.75.139.5"
+            ],
+            "www.alipay.com": [
+                "203.209.245.130",
+                "203.209.247.64"
+            ]
+        },
+        "CNAME": {
+            "www.alipay.com": [
+                "rz-lb2.internet.v6.spanner.alipaydns.com."
+            ]
+        },
+        "A": {
+            "www.alipay.com": [
+                "203.209.245.130",
+                "203.209.247.64"
+            ]
+        }
+    },
+    "https": null
+}

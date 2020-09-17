@@ -1,0 +1,3 @@
+*.swufe.edu.cn
+hive.swufe.edu.cn
+m.swufe.edu.cn

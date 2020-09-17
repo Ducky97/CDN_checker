@@ -1,0 +1,14 @@
+*.xbz.xinsync.xju.edu.cn
+*.xinsync.xju.edu.cn
+acm.xju.edu.cn
+bbb11.xinsync.xju.edu.cn
+blog.xinsync.xju.edu.cn
+git.xinsync.xju.edu.cn
+help.yzx.xinsync.xju.edu.cn
+owncloud.xinsync.xju.edu.cn
+vconf.yzx.xinsync.xju.edu.cn
+w321.xju.edu.cn
+www.yzx.xinsync.xju.edu.cn
+xbz.xinsync.xju.edu.cn
+xinsync.xju.edu.cn
+yzx.xinsync.xju.edu.cn

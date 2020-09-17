@@ -1,0 +1,7 @@
+*.nwpu.edu.cn
+acm.nwpu.edu.cn
+clgl.nwpu.edu.cn
+dongnengwx.nwpu.edu.cn
+xyhgzpt.nwpu.edu.cn
+xypt.nwpu.edu.cn
+zbwx.nwpu.edu.cn

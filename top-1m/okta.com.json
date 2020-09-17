@@ -1,0 +1,135 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:26 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d88bc8e1b9f2d8ca9296e81209c4a260c1600248146; expires=Fri, 16-Oct-20 09:22:26 GMT; path=/; domain=.okta.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "public, max-age=86400",
+            "Content-Language": "en",
+            "Content-Security-Policy": "report-uri /report-csp-violation",
+            "Expires": "Thu, 17 Sep 2020 09:22:26 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 05:18:30 GMT",
+            "Link": "<https://www.okta.com/>; rel=\"shortlink\", <https://www.okta.com/>; rel=\"canonical\", <https://www.okta.com/homepage/>; rel=\"alternate\"; hreflang=\"en\", <https://www.okta.com/uk/homepage/>; rel=\"alternate\"; hreflang=\"uk\", <https://www.okta.com/fr/homepage/>; rel=\"alternate\"; hreflang=\"fr\", <https://www.okta.com/de/homepage/>; rel=\"alternate\"; hreflang=\"de\", <https://www.okta.com/jp/homepage/>; rel=\"alternate\"; hreflang=\"jp\", <https://www.okta.com/homepage/>; rel=\"revision\"",
+            "Strict-Transport-Security": "max-age=315360000, max-age=300",
+            "X-Content-Type-Options": "nosniff",
+            "X-Drupal-Cache": "MISS",
+            "X-Drupal-Dynamic-Cache": "MISS",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Generator": "Drupal 8 (https://www.drupal.org)",
+            "X-Pantheon-Styx-Hostname": "styx-fe3-b-5f5d494784-lxfdb",
+            "X-Styx-Req-Id": "0eda4e86-f7dc-11ea-879b-0a2df894a46a",
+            "X-Ua-Compatible": "IE=edge",
+            "X-Xss-Protection": "1; mode=block",
+            "X-Served-By": "cache-mdw17359-MDW, cache-sin18034-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "2, 1",
+            "X-Timer": "S1600248147.659161,VS0,VE3",
+            "Vary": "Accept-Encoding, Cookie, Cookie, Cookie",
+            "Via": "1.1 varnish",
+            "CF-Cache-Status": "MISS",
+            "cf-request-id": "0537d202a40000dcd63e35f200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3985e43a41dcd6-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "okta.com": [
+                "18.204.109.174"
+            ],
+            "www.okta.com": [
+                "104.18.211.105",
+                "104.18.212.105"
+            ]
+        },
+        "ping": {
+            "okta.com": [
+                "18.204.109.174"
+            ],
+            "www.okta.com": [
+                "104.18.211.105",
+                "104.18.212.105"
+            ]
+        },
+        "CNAME": {
+            "www.okta.com": [
+                "www.okta.com.cdn.cloudflare.net."
+            ]
+        },
+        "A": {
+            "www.okta.com": [
+                "104.18.211.105",
+                "104.18.212.105"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:27 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d786bbbf9cdc319076a28e5783e2a7d9f1600248147; expires=Fri, 16-Oct-20 09:22:27 GMT; path=/; domain=.okta.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "public, max-age=86400",
+            "Content-Language": "en",
+            "Content-Security-Policy": "report-uri /report-csp-violation",
+            "Expires": "Thu, 17 Sep 2020 09:22:27 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 05:18:30 GMT",
+            "Link": "<https://www.okta.com/>; rel=\"shortlink\", <https://www.okta.com/>; rel=\"canonical\", <https://www.okta.com/homepage/>; rel=\"alternate\"; hreflang=\"en\", <https://www.okta.com/uk/homepage/>; rel=\"alternate\"; hreflang=\"uk\", <https://www.okta.com/fr/homepage/>; rel=\"alternate\"; hreflang=\"fr\", <https://www.okta.com/de/homepage/>; rel=\"alternate\"; hreflang=\"de\", <https://www.okta.com/jp/homepage/>; rel=\"alternate\"; hreflang=\"jp\", <https://www.okta.com/homepage/>; rel=\"revision\"",
+            "Strict-Transport-Security": "max-age=315360000, max-age=300",
+            "X-Content-Type-Options": "nosniff",
+            "X-Drupal-Cache": "MISS",
+            "X-Drupal-Dynamic-Cache": "MISS",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Generator": "Drupal 8 (https://www.drupal.org)",
+            "X-Pantheon-Styx-Hostname": "styx-fe3-b-5f5d494784-lxfdb",
+            "X-Styx-Req-Id": "0eda4e86-f7dc-11ea-879b-0a2df894a46a",
+            "X-Ua-Compatible": "IE=edge",
+            "X-Xss-Protection": "1; mode=block",
+            "X-Served-By": "cache-mdw17359-MDW, cache-sin18034-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "2, 1",
+            "X-Timer": "S1600248147.659161,VS0,VE3",
+            "Vary": "Accept-Encoding, Cookie, Cookie, Cookie",
+            "Age": "1",
+            "Via": "1.1 varnish",
+            "CF-Cache-Status": "HIT",
+            "cf-request-id": "0537d207f000001960c78f0200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3985ecbf4c1960-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "okta.com": [
+                "18.204.109.174"
+            ],
+            "www.okta.com": [
+                "104.18.211.105",
+                "104.18.212.105"
+            ]
+        },
+        "ping": {
+            "okta.com": [
+                "18.204.109.174"
+            ],
+            "www.okta.com": [
+                "104.18.211.105",
+                "104.18.212.105"
+            ]
+        },
+        "CNAME": {
+            "www.okta.com": [
+                "www.okta.com.cdn.cloudflare.net."
+            ]
+        },
+        "A": {
+            "www.okta.com": [
+                "104.18.211.105",
+                "104.18.212.105"
+            ]
+        }
+    }
+}

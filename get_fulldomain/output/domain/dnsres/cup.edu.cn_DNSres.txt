@@ -1,0 +1,619 @@
+cup.edu.cn. 7200 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+cup.edu.cn. 7199 IN A 202.204.193.84
+
+NXDOMAIN for acm.cup.edu.cn
+
+admission.cup.edu.cn. 6098 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6096 IN A 202.204.193.84
+
+admission.cup.edu.cn. 6097 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6096 IN A 202.204.193.84
+
+alumni.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+aqks.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+NXDOMAIN for bbs.cup.edu.cn
+
+bkzs.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+career.cup.edu.cn. 6097 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6095 IN A 202.204.193.84
+
+career.cup.edu.cn. 6096 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6095 IN A 202.204.193.84
+
+NXDOMAIN for cii.cup.edu.cn
+
+NXDOMAIN for eserv.cup.edu.cneserv.cup.edu.cn
+
+NXDOMAIN for imgeserv.cup.edu.cnidp.cup.edu.cn
+
+NXDOMAIN for mx.cup.edu.cnidp.cup.edu.cn
+
+NXDOMAIN for cup.edu.cnimgeserv.cup.edu.cn
+
+NXDOMAIN for sso.cup.edu.cnimgeserv.cup.edu.cn
+
+NXDOMAIN for wschool.cup.edu.cnme.cup.edu.cn
+
+NXDOMAIN for menhu.cup.edu.cnmenhu.cup.edu.cn
+
+NXDOMAIN for idp.cup.edu.cnoverseas.cup.edu.cn
+
+NXDOMAIN for eserv.cup.edu.cnsso.cup.edu.cn
+
+NXDOMAIN for portal.cup.edu.cnwschool.cup.edu.cn
+
+NXDOMAIN for portal.cup.edu.cnwww.cup.edu.cn
+
+cpedc.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+cpedc.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+cuptc.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+cwpt.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+department1.cup.edu.cn. 30 IN A 220.250.64.225
+
+dmn1.cup.edu.cn. 7200 IN A 202.204.192.1
+
+dmn2.cup.edu.cn. 7200 IN A 202.204.193.1
+
+ecard.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eor.cup.edu.cn. 6097 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6095 IN A 202.204.193.84
+
+eor.cup.edu.cn. 6096 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6095 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+eserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+NXDOMAIN for fad.cup.edu.cn
+
+NXDOMAIN for fcg2016.cup.edu.cn
+
+fslab.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+fslab.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+NXDOMAIN for ftp.cup.edu.cn
+
+NXDOMAIN for gdssyld.cup.edu.cn
+
+geophysics.cup.edu.cn. 6097 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6095 IN A 202.204.193.84
+
+geophysics.cup.edu.cn. 6096 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6095 IN A 202.204.193.84
+
+geosci.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+gis.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+gis.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1656 IN A 202.204.193.84
+
+gmis.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+gmis.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+gmsa.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+gmss.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+hnd.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+houqin.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+houqin.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+hrzp.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+hrzp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+idp.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+ilab.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+imgeserv.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7198 IN A 202.204.193.84
+
+international.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+international.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+jdxy.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+jdxy.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+journal.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+journal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+NXDOMAIN for jwc.cup.edu.cn
+
+kaohe.cup.edu.cn. 7200 IN A 202.204.199.243
+
+kaohe.cup.edu.cn. 7199 IN A 202.204.199.243
+
+NXDOMAIN for kyglxt.cup.edu.cn
+
+NXDOMAIN for lib1.cup.edu.cn
+
+library.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+library.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+login.cup.edu.cn. 7200 IN A 202.204.193.222
+
+login.cup.edu.cn. 7199 IN A 202.204.193.222
+
+mail.cup.edu.cn. 7200 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 1210 IN A 123.58.177.239
+
+mail.cup.edu.cn. 7199 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 1210 IN A 123.58.177.239
+
+mba.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+mba.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+me.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+menhu.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+ne6.cup.edu.cn. 2189 IN A 202.204.193.84
+
+ne6.cup.edu.cn. 2188 IN A 202.204.193.84
+
+NXDOMAIN for nhce.cup.edu.cn
+
+npgc.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+npgc.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+oa.cup.edu.cn. 120 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+oa.cup.edu.cn. 119 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+overseas.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+petrochaxin.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+petrochaxin.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1655 IN A 202.204.193.84
+
+pop3.cup.edu.cn. 7200 IN CNAME pophm.qiye.163.com.
+pophm.qiye.163.com. 900 IN A 101.71.155.100
+
+portal.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+portal.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+pshcpedc.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+qingjia.cup.edu.cn. 7200 IN CNAME kaohe.cup.edu.cn.
+kaohe.cup.edu.cn. 7198 IN A 202.204.199.243
+
+qingjia.cup.edu.cn. 7199 IN CNAME kaohe.cup.edu.cn.
+kaohe.cup.edu.cn. 7198 IN A 202.204.199.243
+
+NXDOMAIN for science.cup.edu.cn
+
+smtp.cup.edu.cn. 7200 IN CNAME smtphm.qiye.163.com.
+smtphm.qiye.163.com. 2264 IN CNAME smtphz.qiye.163.com.
+smtphz.qiye.163.com. 2264 IN A 123.58.177.49
+smtphz.qiye.163.com. 2264 IN A 123.58.177.48
+smtphz.qiye.163.com. 2264 IN A 123.58.177.85
+
+sso.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sso.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+NXDOMAIN for stmail.cup.edu.cn
+
+mail.student.cup.edu.cn. 7200 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 592 IN A 123.58.177.239
+
+mail.student.cup.edu.cn. 7199 IN CNAME mailedu.qiye.163.com.
+mailedu.qiye.163.com. 592 IN A 123.58.177.239
+
+sykx.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+sykx.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+NXDOMAIN for sykxtb.cup.edu.cn
+
+NXDOMAIN for sykxtb.cup.edu.cn
+
+urp.cup.edu.cn. 6094 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6093 IN A 202.204.193.84
+
+urp.cup.edu.cn. 6093 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 6093 IN A 202.204.193.84
+
+urptch.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7197 IN A 202.204.193.84
+
+video.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+vpn.cup.edu.cn. 7200 IN A 202.204.193.87
+
+vpn.cup.edu.cn. 7199 IN A 202.204.193.87
+
+k.vpn.cup.edu.cn. 7200 IN A 202.204.193.87
+
+NXDOMAIN for wcogi2010.cup.edu.cn
+
+NXDOMAIN for wcogi2016.cup.edu.cn
+
+web.cup.edu.cn. 789 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 7198 IN A 202.204.193.84
+
+web.cup.edu.cn. 788 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 7198 IN A 202.204.193.84
+
+NXDOMAIN for webmail.cup.edu.cn
+
+NXDOMAIN for webservice.cup.edu.cn
+
+weixiao.cup.edu.cn. 7200 IN A 202.204.193.130
+
+wschool.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+wschool.cup.edu.cn. 7199 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+www.cup.edu.cn. 4142 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+www.cup.edu.cn. 4141 IN CNAME ne6.cup.edu.cn.
+ne6.cup.edu.cn. 469 IN A 202.204.193.84
+
+xgc.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 1654 IN A 202.204.193.84
+
+NXDOMAIN for xiaoyou.cup.edu.cn
+
+xslt.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7196 IN A 202.204.193.84
+
+NXDOMAIN for cs.yclass.cup.edu.cn
+
+NXDOMAIN for www.fanya.yclass.cup.edu.cn
+
+NXDOMAIN for mooc.yclass.cup.edu.cn
+
+NXDOMAIN for passport.yclass.cup.edu.cn
+
+yx.cup.edu.cn. 7200 IN CNAME ne.cup.edu.cn.
+ne.cup.edu.cn. 7196 IN A 202.204.193.84
+

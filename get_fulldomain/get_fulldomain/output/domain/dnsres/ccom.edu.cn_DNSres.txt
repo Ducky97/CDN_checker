@@ -1,0 +1,182 @@
+NXDOMAIN for ccom.edu.cn
+
+NXDOMAIN for ccom.edu.cn
+
+NXDOMAIN for ccom.edu.cn
+
+NXDOMAIN for ccom.edu.cn
+
+NXDOMAIN for ccom.edu.cn
+
+NXDOMAIN for ccom.edu.cn
+
+alumni.ccom.edu.cn. 60 IN A 124.127.54.175
+
+app.ccom.edu.cn. 3600 IN A 124.127.54.158
+
+authserver.ccom.edu.cn. 3600 IN A 114.251.152.135
+
+bmmf.ccom.edu.cn. 3600 IN A 123.124.145.246
+
+cce.ccom.edu.cn. 3600 IN A 123.124.145.247
+
+image.cce.ccom.edu.cn. 3600 IN A 123.124.145.194
+
+www.ccom.edu.cnwx.ccom.edu.cn<BR>wximg.ccom.edu.cn. 0 IN A 220.250.64.225
+
+wx.ccom.edu.cn<BR>wximg.ccom.edu.cn. 0 IN A 220.250.64.225
+
+wx.ccom.edu.cn<BR>wximg.ccom.edu.cn. 60 IN A 220.250.64.225
+
+wx.ccom.edu.cn<BR>wximg.ccom.edu.cn. 59 IN A 220.250.64.225
+
+kjwyh.ccom.edu.cn<BR>www.ccom.edu.cn<BR>zhaoban.ccom.edu.cn. 0 IN A 220.250.64.225
+
+kjwyh.ccom.edu.cn<BR>www.ccom.edu.cn<BR>zhaoban.ccom.edu.cn. 60 IN A 220.250.64.225
+
+kjwyh.ccom.edu.cn<BR>www.ccom.edu.cn<BR>zhaoban.ccom.edu.cn. 59 IN A 220.250.64.225
+
+kjwyh.ccom.edu.cn<BR>www.ccom.edu.cn<BR>zhaoban.ccom.edu.cn. 59 IN A 220.250.64.225
+
+ccom.edu.cnkjwyh.ccom.edu.cn. 0 IN A 220.250.64.225
+
+www.ccom.edu.cnmx.ccom.edu.cn. 0 IN A 220.250.64.225
+
+www.ccom.edu.cnwww.ccom.edu.cn. 0 IN A 220.250.64.225
+
+www.ccom.edu.cnwx.ccom.edu.cn. 0 IN A 220.250.64.225
+
+wximg.ccom.edu.cnwx.ccom.edu.cn. 0 IN A 220.250.64.225
+
+cw.ccom.edu.cn. 3600 IN A 124.127.54.164
+
+en.ccom.edu.cn. 891 IN A 123.124.145.203
+
+en.ccom.edu.cn. 890 IN A 123.124.145.203
+
+fuzhong.ccom.edu.cn. 891 IN A 123.124.145.203
+
+fuzhongzhaoban.ccom.edu.cn. 3600 IN A 114.251.152.131
+
+iom.ccom.edu.cn. 3600 IN A 123.124.145.207
+
+jiaowu.ccom.edu.cn. 3600 IN A 123.124.145.240
+
+www.jiaowu.ccom.edu.cn. 3600 IN A 123.124.145.240
+
+jw.ccom.edu.cn. 3600 IN A 123.124.145.240
+
+www.jw.ccom.edu.cn. 3600 IN A 123.124.145.240
+
+jxyf.ccom.edu.cn. 3600 IN A 124.127.54.173
+
+kjwyh.ccom.edu.cn. 3600 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+kjwyh.ccom.edu.cn. 3599 IN A 123.124.145.241
+
+library.ccom.edu.cn. 892 IN A 123.124.145.203
+
+liuxue.ccom.edu.cn. 891 IN A 124.127.54.179
+
+liuxue.ccom.edu.cn. 890 IN A 124.127.54.179
+
+mail.ccom.edu.cn. 3600 IN A 123.124.145.223
+
+mci.ccom.edu.cn. 3600 IN A 123.124.145.239
+
+mdmec.ccom.edu.cn. 890 IN A 123.124.145.202
+
+mdmec.ccom.edu.cn. 889 IN A 123.124.145.202
+
+musicacoustica.ccom.edu.cn. 3600 IN A 114.251.152.133
+
+mx.ccom.edu.cn. 0 IN A 220.250.64.225
+
+mx.ccom.edu.cn. 60 IN A 220.250.64.225
+
+newdns1.ccom.edu.cn. 3600 IN A 123.124.145.249
+
+newdns1.ccom.edu.cn. 3599 IN A 123.124.145.249
+
+newdns2.ccom.edu.cn. 3600 IN A 211.71.160.61
+
+newdns2.ccom.edu.cn. 3599 IN A 211.71.160.61
+
+pam.ccom.edu.cn. 3600 IN A 114.251.152.130
+
+pic.ccom.edu.cn. 3600 IN A 123.124.145.203
+
+press.ccom.edu.cn. 3600 IN A 123.124.145.228
+
+smg.ccom.edu.cn. 0 IN A 220.250.64.225
+
+smg.ccom.edu.cn. 60 IN A 220.250.64.225
+
+smg.ccom.edu.cn. 59 IN A 220.250.64.225
+
+syneme.ccom.edu.cn. 3600 IN A 123.124.145.254
+
+syneme-asia.ccom.edu.cn. 3600 IN A 123.124.145.254
+
+video.ccom.edu.cn. 891 IN A 123.124.145.242
+
+video.ccom.edu.cn. 890 IN A 123.124.145.242
+
+webmail.ccom.edu.cn. 891 IN A 123.124.145.223
+
+webvpn.ccom.edu.cn. 3600 IN A 114.251.152.135
+
+www.ccom.edu.cn. 2276 IN A 123.124.145.203
+
+www.ccom.edu.cn. 2275 IN A 123.124.145.203
+
+www.ccom.edu.cn. 2275 IN A 123.124.145.203
+
+www.ccom.edu.cn. 2275 IN A 123.124.145.203
+
+wx.ccom.edu.cn. 3600 IN A 124.127.54.153
+
+wx.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wx.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wx.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wx.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wx.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wx.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3600 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+wximg.ccom.edu.cn. 3599 IN A 124.127.54.153
+
+zhaoban.ccom.edu.cn. 3600 IN A 123.124.145.221
+
+zhaoban.ccom.edu.cnccom.edu.cn. 0 IN A 220.250.64.225
+

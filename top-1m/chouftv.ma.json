@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:53 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d0160e1633249ba2202289190f38b63ef1600250572; expires=Fri, 16-Oct-20 10:02:52 GMT; path=/; domain=.chouftv.ma; HttpOnly; SameSite=Lax; Secure",
+            "Vary": "Accept-Encoding",
+            "Link": "<https://chouftv.ma/wp-json/>; rel=\"https://api.w.org/\"",
+            "Expires": "Wed, 16 Sep 2020 10:02:58 GMT",
+            "Cache-Control": "max-age=300",
+            "X-CacheAtlasEnabled": "0",
+            "X-CacheAtlasDebug": "Nothingassigned",
+            "X-CacheAtlasStatus": "EXPIRED",
+            "X-CacheAtlasFor": "fullversion",
+            "X-Varnish": "676561118 675283640",
+            "Age": "294",
+            "Via": "1.1 varnish (Varnish/5.2)",
+            "X-VC-Cache": "HIT",
+            "X-VC-Hash": "/#chouftv.ma",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537f706ab0000dd3ecc221200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39c11ddf84dd3e-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "chouftv.ma": [
+                "104.22.63.192",
+                "104.22.62.192",
+                "172.67.29.78"
+            ]
+        },
+        "ping": {
+            "chouftv.ma": [
+                "172.67.29.78",
+                "104.22.62.192",
+                "104.22.63.192"
+            ]
+        },
+        "CNAME": {
+            "chouftv.ma": "still a low_level domain_name"
+        },
+        "A": {
+            "chouftv.ma": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:54 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d2ad387f4f76d75e1b30ea0b45517745c1600250573; expires=Fri, 16-Oct-20 10:02:53 GMT; path=/; domain=.chouftv.ma; HttpOnly; SameSite=Lax; Secure",
+            "Vary": "Accept-Encoding",
+            "Link": "<https://chouftv.ma/wp-json/>; rel=\"https://api.w.org/\"",
+            "Expires": "Wed, 16 Sep 2020 10:02:58 GMT",
+            "Cache-Control": "max-age=300",
+            "X-CacheAtlasEnabled": "0",
+            "X-CacheAtlasDebug": "Nothingassigned",
+            "X-CacheAtlasStatus": "EXPIRED",
+            "X-CacheAtlasFor": "fullversion",
+            "X-Varnish": "669320022 675283640",
+            "Age": "295",
+            "Via": "1.1 varnish (Varnish/5.2)",
+            "X-VC-Cache": "HIT",
+            "X-VC-Hash": "/#chouftv.ma",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537f70b43000001a382381200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39c1253eea01a3-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "chouftv.ma": [
+                "104.22.63.192",
+                "104.22.62.192",
+                "172.67.29.78"
+            ]
+        },
+        "ping": {
+            "chouftv.ma": [
+                "172.67.29.78",
+                "104.22.62.192",
+                "104.22.63.192"
+            ]
+        },
+        "CNAME": {
+            "chouftv.ma": "still a low_level domain_name"
+        },
+        "A": {
+            "chouftv.ma": "still a low_level domain_name"
+        }
+    }
+}

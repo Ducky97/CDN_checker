@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Expires": "-1",
+            "Server": "Microsoft-IIS/10.0",
+            "X-AspNetMvc-Version": "5.2",
+            "X-AspNet-Version": "4.0.30319",
+            "Set-Cookie": "_uid=73nR3PQpnITm1H+FHYhxgaS+Rj89pWCRyUPAbM3KWE1BS1Cwhu6Zrw7lvjiR6crv; domain=.varzesh3.com; expires=Mon, 16-Sep-2030 10:02:04 GMT; path=/; HttpOnly, plt=1; path=/",
+            "X-Powered-By": "ASP.NET",
+            "Host": "cGhin5dg80",
+            "Date": "Wed, 16 Sep 2020 10:02:04 GMT",
+            "Content-Length": "52436"
+        },
+        "nslookup": {
+            "varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ],
+            "www.varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ]
+        },
+        "ping": {
+            "varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ],
+            "www.varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ]
+        },
+        "CNAME": {
+            "www.varzesh3.com": null
+        },
+        "A": {
+            "www.varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Expires": "-1",
+            "Server": "Microsoft-IIS/10.0",
+            "X-AspNetMvc-Version": "5.2",
+            "X-AspNet-Version": "4.0.30319",
+            "Set-Cookie": "_uid=hVTLIUiCw14RwNdmmqV8XMv/IfV6xj6+W6T43yy7d1EiLvJcfFVfNaS5n8cANZ21; domain=.varzesh3.com; expires=Mon, 16-Sep-2030 10:02:07 GMT; path=/; HttpOnly, plt=1; path=/",
+            "X-Powered-By": "ASP.NET",
+            "Host": "cGhin5dg80",
+            "Date": "Wed, 16 Sep 2020 10:02:07 GMT",
+            "Content-Length": "52436"
+        },
+        "nslookup": {
+            "varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ],
+            "www.varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ]
+        },
+        "ping": {
+            "varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ],
+            "www.varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ]
+        },
+        "CNAME": {
+            "www.varzesh3.com": null
+        },
+        "A": {
+            "www.varzesh3.com": [
+                "94.182.163.51",
+                "94.182.163.52"
+            ]
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Accept-Ranges": "bytes",
+            "X-Mod-Pagespeed": "active",
+            "Content-Encoding": "gzip",
+            "X-Content-Type-Options": "nosniff",
+            "Referrer-Policy": "no-referrer-when-downgrade",
+            "X-UA-Compatible": "IE=9; IE=8; IE=7; IE=EDGE",
+            "Cache-Control": "max-age=0, no-cache, s-maxage=10",
+            "Content-Type": "text/html",
+            "X-Akamai-Transformed": "9 18942 0 pmb=mRUM,2",
+            "Date": "Wed, 16 Sep 2020 10:01:50 GMT",
+            "Content-Length": "20713",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=MISS, edge; dur=247, origin; dur=210"
+        },
+        "nslookup": {
+            "force.com": [
+                "184.25.179.132",
+                "23.1.106.133",
+                "104.109.12.129",
+                "184.31.10.133",
+                "184.31.3.130",
+                "104.109.11.129",
+                "184.25.103.129",
+                "23.1.35.132",
+                "23.1.99.130",
+                "104.109.10.129"
+            ],
+            "www.salesforce.com": [
+                "23.44.4.187",
+                "23.44.4.152"
+            ]
+        },
+        "ping": {
+            "force.com": [
+                "104.109.12.129",
+                "23.1.106.133",
+                "104.109.11.129",
+                "184.25.103.129",
+                "184.25.179.132",
+                "23.1.99.130",
+                "23.1.35.132"
+            ],
+            "www.salesforce.com": [
+                "23.44.4.152",
+                "23.44.4.187"
+            ]
+        },
+        "CNAME": {
+            "www.salesforce.com": [
+                "www.salesforce.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.salesforce.com": [
+                "23.44.4.152",
+                "23.44.4.187"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Apache",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Accept-Ranges": "bytes",
+            "X-Mod-Pagespeed": "active",
+            "Content-Encoding": "gzip",
+            "X-Content-Type-Options": "nosniff",
+            "Referrer-Policy": "no-referrer-when-downgrade",
+            "X-UA-Compatible": "IE=9; IE=8; IE=7; IE=EDGE",
+            "Cache-Control": "max-age=0, no-cache, s-maxage=10",
+            "Content-Type": "text/html",
+            "X-Akamai-Transformed": "9 18942 0 pmb=mRUM,2",
+            "Date": "Wed, 16 Sep 2020 10:01:51 GMT",
+            "Content-Length": "20705",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=MISS, edge; dur=246, origin; dur=195"
+        },
+        "nslookup": {
+            "force.com": [
+                "184.25.179.132",
+                "23.1.35.132",
+                "184.25.103.129",
+                "184.31.3.130",
+                "104.109.10.129",
+                "23.1.99.130",
+                "104.109.12.129",
+                "184.31.10.133",
+                "104.109.11.129",
+                "23.1.106.133"
+            ],
+            "www.salesforce.com": [
+                "23.44.4.187",
+                "23.44.4.152"
+            ]
+        },
+        "ping": {
+            "force.com": [
+                "104.109.12.129",
+                "104.109.11.129",
+                "184.25.103.129",
+                "184.25.179.132",
+                "104.109.10.129",
+                "184.31.10.133",
+                "23.1.99.130"
+            ],
+            "www.salesforce.com": [
+                "23.44.4.152",
+                "23.44.4.187"
+            ]
+        },
+        "CNAME": {
+            "www.salesforce.com": [
+                "www.salesforce.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.salesforce.com": [
+                "23.44.4.152",
+                "23.44.4.187"
+            ]
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "cache-control": "private",
+            "content-type": "text/html; charset=utf-8",
+            "content-encoding": "gzip",
+            "server": "Microsoft-IIS/10.0",
+            "strict-transport-security": "max-age=2592000",
+            "x-route-name": "Home/Index",
+            "x-frame-options": "SAMEORIGIN",
+            "x-flags": "AA",
+            "x-aspnet-duration-ms": "3",
+            "x-request-guid": "a163d886-8b2d-4c4a-894d-d11831f9b085",
+            "x-is-crawler": "0",
+            "x-providence-cookie": "1a7f2f1f-1933-8efd-529a-5d474e61c9d9",
+            "x-page-view": "1",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:17:48 GMT",
+            "Via": "1.1 varnish",
+            "X-Served-By": "cache-sin18027-SIN",
+            "X-Cache": "MISS",
+            "X-Cache-Hits": "0",
+            "X-Timer": "S1600247868.948394,VS0,VE251",
+            "Vary": "Accept-Encoding,Fastly-SSL",
+            "X-DNS-Prefetch-Control": "off",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "stackoverflow.com": [
+                "151.101.193.69",
+                "151.101.129.69",
+                "151.101.65.69",
+                "151.101.1.69"
+            ]
+        },
+        "ping": {
+            "stackoverflow.com": [
+                "151.101.1.69",
+                "151.101.65.69",
+                "151.101.193.69",
+                "151.101.129.69"
+            ]
+        },
+        "CNAME": {
+            "stackoverflow.com": "still a low_level domain_name"
+        },
+        "A": {
+            "stackoverflow.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "cache-control": "private",
+            "content-type": "text/html; charset=utf-8",
+            "content-encoding": "gzip",
+            "server": "Microsoft-IIS/10.0",
+            "strict-transport-security": "max-age=2592000",
+            "x-route-name": "Home/Index",
+            "x-frame-options": "SAMEORIGIN",
+            "x-flags": "AA",
+            "x-aspnet-duration-ms": "3",
+            "x-request-guid": "d08e48d2-818d-43f0-b9c2-ccb23a99398b",
+            "x-is-crawler": "0",
+            "x-providence-cookie": "9596e49c-6554-4822-3bcc-3ed53e3641df",
+            "x-page-view": "1",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:17:48 GMT",
+            "Via": "1.1 varnish",
+            "X-Served-By": "cache-sin18047-SIN",
+            "X-Cache": "MISS",
+            "X-Cache-Hits": "0",
+            "X-Timer": "S1600247868.226176,VS0,VE237",
+            "Vary": "Accept-Encoding,Fastly-SSL",
+            "X-DNS-Prefetch-Control": "off",
+            "Set-Cookie": "prov=9596e49c-6554-4822-3bcc-3ed53e3641df; domain=.stackoverflow.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "stackoverflow.com": [
+                "151.101.65.69",
+                "151.101.129.69",
+                "151.101.1.69",
+                "151.101.193.69"
+            ]
+        },
+        "ping": {
+            "stackoverflow.com": [
+                "151.101.65.69",
+                "151.101.1.69",
+                "151.101.129.69"
+            ]
+        },
+        "CNAME": {
+            "stackoverflow.com": "still a low_level domain_name"
+        },
+        "A": {
+            "stackoverflow.com": "still a low_level domain_name"
+        }
+    }
+}

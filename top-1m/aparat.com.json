@@ -1,0 +1,103 @@
+{
+    "http": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 09:19:02 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "transfer-encoding": "chunked",
+            "vary": "Accept-Encoding",
+            "set-cookie": "liveType=new; expires=Wed, 14-Apr-2021 09:19:02 GMT; Max-Age=18144000; path=/, AuthV1=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDAyNDc5NDIsImFmY24iOiIxNjAwMjQ3OTQyOTA4NDkifQ.2HCJ-sZ3zYzNueKBOyiD7aSkWyO8R4U_z06dRAVEFMM; expires=Mon, 15-Sep-2025 09:19:02 GMT; Max-Age=157680000; path=/; domain=.aparat.com, abui50=b; expires=Fri, 16-Oct-2020 09:19:02 GMT; Max-Age=2592000",
+            "access-control-allow-credentials": "true",
+            "content-encoding": "gzip",
+            "server": "nginx"
+        },
+        "nslookup": {
+            "aparat.com": [
+                "185.147.178.11",
+                "185.147.178.14",
+                "185.147.178.12",
+                "185.147.178.13"
+            ],
+            "www.aparat.com": [
+                "185.147.178.13",
+                "185.147.178.11",
+                "185.147.178.12",
+                "185.147.178.14"
+            ]
+        },
+        "ping": {
+            "aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.12",
+                "185.147.178.11"
+            ],
+            "www.aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.12"
+            ]
+        },
+        "CNAME": {
+            "www.aparat.com": null
+        },
+        "A": {
+            "www.aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.12",
+                "185.147.178.11"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 09:19:06 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "transfer-encoding": "chunked",
+            "vary": "Accept-Encoding",
+            "set-cookie": "liveType=new; expires=Wed, 14-Apr-2021 09:19:06 GMT; Max-Age=18144000; path=/, AuthV1=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDAyNDc5NDYsImFmY24iOiIxNjAwMjQ3OTQ2MDEyODMifQ.fbEwPA_B30hoeDXeI845PaoM-YJTuAX-53kaPF95ZHg; expires=Mon, 15-Sep-2025 09:19:06 GMT; Max-Age=157680000; path=/; domain=.aparat.com, abui50=b; expires=Fri, 16-Oct-2020 09:19:06 GMT; Max-Age=2592000",
+            "access-control-allow-credentials": "true",
+            "content-encoding": "gzip",
+            "server": "nginx"
+        },
+        "nslookup": {
+            "aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.11",
+                "185.147.178.12"
+            ],
+            "www.aparat.com": [
+                "185.147.178.13",
+                "185.147.178.11",
+                "185.147.178.12",
+                "185.147.178.14"
+            ]
+        },
+        "ping": {
+            "aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.12",
+                "185.147.178.11"
+            ],
+            "www.aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.12",
+                "185.147.178.11"
+            ]
+        },
+        "CNAME": {
+            "www.aparat.com": null
+        },
+        "A": {
+            "www.aparat.com": [
+                "185.147.178.14",
+                "185.147.178.13",
+                "185.147.178.12",
+                "185.147.178.11"
+            ]
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:23:08 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "CF-Ray": "5d3a36ae3c00173c-SIN",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Content-Encoding": "gzip",
+            "ETag": "W/\"a0aae443245f27662a323dd8c2c4a808\"",
+            "Set-Cookie": "_pxhd=a16044ee182273f6df824cf12d1df7f8b920a26299b379ecd2fe377446803c6e:ff05c421-f80e-11ea-9312-93097cbfe398; Expires=Thu, 16-Sep-21 11:23:08 GMT; Path=/, logged_out_currency=USD; domain=.fiverr.com; path=/, u_guid=79295625-3308-4de7-add7-e6d34d366bda; domain=.fiverr.com; path=/; expires=Thu, 16 Sep 2021 11:23:08 -0000, session_referer=https%3A%2F%2Fmaoyan.com%2Fboard%2F4; domain=.fiverr.com; path=/, pv_monthly=1%3B%3B1; domain=.fiverr.com; path=/; expires=Fri, 16 Oct 2020 11:23:08 -0000, visited_fiverr=true; domain=.fiverr.com; path=/; expires=Wed, 16 Sep 2020 11:28:08 -0000, _fiverr_session_key=294b2cbcccd10e33821cfad24363411a; path=/; expires=Wed, 23 Sep 2020 11:23:08 -0000; HttpOnly, __cfruid=dd56770d628163d40b6a50af44310628e13a472e-1600255388; path=/; domain=.fiverr.com; HttpOnly; Secure; SameSite=None",
+            "Vary": "Accept-Encoding",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "05384080de0000173c77323200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "hostname": "fiverr-app-b74b",
+            "route_id": "v4/perseus.generic_logged_out_homepage",
+            "service_name": "v2",
+            "Status": "200 OK",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Request-Id": "c0f9a810-7764-448d-8fff-417c96a4e601",
+            "X-Runtime": "0.137682",
+            "X-XSS-Protection": "1; mode=block",
+            "Server": "cloudflare"
+        },
+        "nslookup": {
+            "fiverr.com": [
+                "104.16.154.71",
+                "104.18.254.23"
+            ],
+            "www.fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ]
+        },
+        "ping": {
+            "fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ],
+            "www.fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ]
+        },
+        "CNAME": {
+            "www.fiverr.com": null
+        },
+        "A": {
+            "www.fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:23:09 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "31898",
+            "Connection": "keep-alive",
+            "CF-Ray": "5d3a36b7ae0cddf1-SIN",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Content-Encoding": "gzip",
+            "ETag": "W/\"44ae488218b4bed69bc552cf303bff41\"",
+            "Set-Cookie": "_pxhd=67f8e9ff515298a04009ea710b58f87cd3edbe419ad646c08fae15df211dc829:ffed3df1-f80e-11ea-ac14-3fa62573f9b8; Expires=Thu, 16-Sep-21 11:23:09 GMT; Path=/, logged_out_currency=USD; domain=.fiverr.com; path=/, u_guid=20f30696-3fbb-45f3-b4cc-4664de1ec2dc; domain=.fiverr.com; path=/; expires=Thu, 16 Sep 2021 11:23:09 -0000, session_referer=https%3A%2F%2Fmaoyan.com%2Fboard%2F4; domain=.fiverr.com; path=/, pv_monthly=1%3B%3B1; domain=.fiverr.com; path=/; expires=Fri, 16 Oct 2020 11:23:09 -0000, visited_fiverr=true; domain=.fiverr.com; path=/; expires=Wed, 16 Sep 2020 11:28:09 -0000, _fiverr_session_key=b332c499af590f4dad4c061fad2dfb0d; path=/; expires=Wed, 23 Sep 2020 11:23:09 -0000; HttpOnly, __cfruid=dd7ef47ed50824f113808210b2fb0c0de4fa894e-1600255389; path=/; domain=.fiverr.com; HttpOnly; Secure; SameSite=None",
+            "Vary": "Accept-Encoding",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "05384086ca0000ddf124396200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "hostname": "fiverr-app-c4de",
+            "route_id": "v4/perseus.generic_logged_out_homepage",
+            "service_name": "v2",
+            "Status": "200 OK",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Request-Id": "3e6442e3-61d4-4218-999a-40de2c6c41b7",
+            "X-Runtime": "0.135057",
+            "X-XSS-Protection": "1; mode=block",
+            "Server": "cloudflare"
+        },
+        "nslookup": {
+            "fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ],
+            "www.fiverr.com": [
+                "104.16.154.71",
+                "104.18.254.23"
+            ]
+        },
+        "ping": {
+            "fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ],
+            "www.fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ]
+        },
+        "CNAME": {
+            "www.fiverr.com": null
+        },
+        "A": {
+            "www.fiverr.com": [
+                "104.18.254.23",
+                "104.16.154.71"
+            ]
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Content-Type": "text/html",
+            "ETag": "W/\"27576-5af6b5d711aa6\"",
+            "Last-Modified": "Wed, 16 Sep 2020 10:02:27 GMT",
+            "Server": "Apache/2.4.23 (Unix) Communique/4.2.1",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Transformed": "9c 25333 0 pmb=mNONE,1mRUM,2",
+            "Expires": "Wed, 16 Sep 2020 10:02:32 GMT",
+            "Cache-Control": "max-age=0, no-cache",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:02:32 GMT",
+            "Content-Length": "30050",
+            "Connection": "keep-alive",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=25",
+            "X-Akam-SW-Version": "0.5.0",
+            "Vary": "User-Agent"
+        },
+        "nslookup": {
+            "manoramaonline.com": [
+                "23.74.168.249"
+            ],
+            "www.manoramaonline.com": [
+                "184.26.20.20"
+            ]
+        },
+        "ping": {
+            "manoramaonline.com": [
+                "23.74.168.249",
+                "23.4.0.155"
+            ],
+            "www.manoramaonline.com": [
+                "184.26.20.20"
+            ]
+        },
+        "CNAME": {
+            "www.manoramaonline.com": [
+                "www.manoramaonline.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.manoramaonline.com": [
+                "184.26.20.20"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Content-Type": "text/html",
+            "ETag": "W/\"27576-5af6b5d711aa6\"",
+            "Last-Modified": "Wed, 16 Sep 2020 10:02:27 GMT",
+            "Server": "Apache/2.4.23 (Unix) Communique/4.2.1",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Transformed": "9c - 0 pmb=mNONE,1mRUM,2",
+            "Expires": "Wed, 16 Sep 2020 10:02:34 GMT",
+            "Cache-Control": "max-age=0, no-cache",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:02:34 GMT",
+            "Content-Length": "30050",
+            "Connection": "keep-alive",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "X-Akam-SW-Version": "0.5.0",
+            "Vary": "User-Agent"
+        },
+        "nslookup": {
+            "manoramaonline.com": [
+                "23.74.168.249"
+            ],
+            "www.manoramaonline.com": [
+                "184.26.20.20"
+            ]
+        },
+        "ping": {
+            "manoramaonline.com": [
+                "23.74.168.249",
+                "23.4.0.155"
+            ],
+            "www.manoramaonline.com": [
+                "184.26.20.20"
+            ]
+        },
+        "CNAME": {
+            "www.manoramaonline.com": [
+                "www.manoramaonline.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.manoramaonline.com": [
+                "184.26.20.20"
+            ]
+        }
+    }
+}

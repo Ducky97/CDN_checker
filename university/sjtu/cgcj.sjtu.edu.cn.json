@@ -1,0 +1,37 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Date": "Thu, 17 Sep 2020 03:28:58 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "1694",
+            "Connection": "keep-alive",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "ASP.NET_SessionId=doa0trcth3fpe5jau2yf5k34; path=/; HttpOnly",
+            "X-AspNetMvc-Version": "4.0",
+            "X-AspNet-Version": "4.0.30319",
+            "X-UA-Compatible": "IE=EmulateIE8"
+        },
+        "nslookup": {
+            "cgcj.sjtu.edu.cn": [
+                "202.120.63.147"
+            ]
+        },
+        "ping": {
+            "cgcj.sjtu.edu.cn": [
+                "202.120.63.147"
+            ]
+        },
+        "CNAME": {
+            "cgcj.sjtu.edu.cn": null
+        },
+        "A": {
+            "cgcj.sjtu.edu.cn": [
+                "202.120.63.147"
+            ]
+        }
+    },
+    "https": null
+}

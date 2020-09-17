@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Tue, 01 Sep 2020 20:18:46 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"0174e189d80d61:0\"",
+            "Server": "Microsoft-IIS/10.0",
+            "X-Powered-By": "ASP.NET",
+            "X-Azure-Ref": "0KnZPXwAAAABIiiDyaslGT4KY4fFQyxMiSEsyRURHRTA1MDgAY2EzM2EyMjgtOTllZi00YzdiLWFhYzctYTRjMGJlOTBkOWNk",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,1",
+            "Date": "Wed, 16 Sep 2020 10:02:47 GMT",
+            "Content-Length": "13172",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "Strict-Transport-Security": "max-age=86400"
+        },
+        "nslookup": {
+            "ca.gov": [
+                "104.42.152.82"
+            ],
+            "www.ca.gov": [
+                "23.44.5.24",
+                "23.44.5.114"
+            ]
+        },
+        "ping": {
+            "ca.gov": [
+                "104.42.152.82"
+            ],
+            "www.ca.gov": [
+                "23.44.5.114",
+                "23.44.5.24"
+            ]
+        },
+        "CNAME": {
+            "www.ca.gov": [
+                "www.ca.gov.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.ca.gov": [
+                "23.44.5.114",
+                "23.44.5.24"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Last-Modified": "Tue, 01 Sep 2020 20:18:46 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"0174e189d80d61:0\"",
+            "Server": "Microsoft-IIS/10.0",
+            "X-Powered-By": "ASP.NET",
+            "X-Azure-Ref": "0KnZPXwAAAABIiiDyaslGT4KY4fFQyxMiSEsyRURHRTA1MDgAY2EzM2EyMjgtOTllZi00YzdiLWFhYzctYTRjMGJlOTBkOWNk",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,1",
+            "Date": "Wed, 16 Sep 2020 10:02:51 GMT",
+            "Content-Length": "13177",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "Strict-Transport-Security": "max-age=86400"
+        },
+        "nslookup": {
+            "ca.gov": [
+                "104.42.152.82"
+            ],
+            "www.ca.gov": [
+                "23.44.5.114",
+                "23.44.5.24"
+            ]
+        },
+        "ping": {
+            "ca.gov": [
+                "104.42.152.82"
+            ],
+            "www.ca.gov": [
+                "23.44.5.114",
+                "23.44.5.24"
+            ]
+        },
+        "CNAME": {
+            "www.ca.gov": [
+                "www.ca.gov.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.ca.gov": [
+                "23.44.5.114",
+                "23.44.5.24"
+            ]
+        }
+    }
+}

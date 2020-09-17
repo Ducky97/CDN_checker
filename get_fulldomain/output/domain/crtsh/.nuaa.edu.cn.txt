@@ -1,0 +1,8 @@
+*.i.nuaa.edu.cn
+*.nuaa.edu.cn
+*.v.nuaa.edu.cn
+122.nuaa.edu.cn
+aaos.nuaa.edu.cn
+dj.nuaa.edu.cn
+my.nuaa.edu.cn
+v.nuaa.edu.cn

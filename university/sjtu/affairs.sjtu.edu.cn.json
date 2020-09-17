@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache-Coyote/1.1",
+            "Set-Cookie": "JSESSIONID=A3F949E68D029BB0A9028CEBB7F42F1A; Path=/; HttpOnly",
+            "Accept-Ranges": "bytes",
+            "ETag": "W/\"369-1543200020000\"",
+            "Last-Modified": "Mon, 26 Nov 2018 02:40:20 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Cteonnt-Length": "369",
+            "Date": "Thu, 17 Sep 2020 02:40:00 GMT",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Content-Length": "308"
+        },
+        "nslookup": {
+            "affairs.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "ping": {
+            "affairs.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "CNAME": {
+            "affairs.sjtu.edu.cn": null
+        },
+        "A": {
+            "affairs.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Server           ",
+            "Set-Cookie": "JSESSIONID=B204CB6379F0D25B325DE7EC617E98CD; Path=/; HttpOnly",
+            "Accept-Ranges": "bytes",
+            "ETag": "W/\"369-1543200020000\"",
+            "Last-Modified": "Mon, 26 Nov 2018 02:40:20 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Cteonnt-Length": "369",
+            "Date": "Thu, 17 Sep 2020 02:40:03 GMT",
+            "Cache-Control": "private",
+            "Content-Encoding": "gzip",
+            "Content-Length": "308"
+        },
+        "nslookup": {
+            "affairs.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "ping": {
+            "affairs.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        },
+        "CNAME": {
+            "affairs.sjtu.edu.cn": null
+        },
+        "A": {
+            "affairs.sjtu.edu.cn": [
+                "202.120.35.195"
+            ]
+        }
+    }
+}

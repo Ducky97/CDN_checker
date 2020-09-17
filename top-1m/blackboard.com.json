@@ -1,0 +1,135 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:22 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=debc3bc61fece02df010cacdef58e1b491600250541; expires=Fri, 16-Oct-20 10:02:21 GMT; path=/; domain=.blackboard.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "max-age=900, public",
+            "X-Drupal-Dynamic-Cache": "HIT",
+            "Link": "<https://www.blackboard.com/>; rel=\"shortlink\", <https://www.blackboard.com/>; rel=\"canonical\"",
+            "X-UA-Compatible": "IE=edge",
+            "Content-language": "en",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 09:45:40 GMT",
+            "X-Generator": "Drupal 8 (https://www.drupal.org)",
+            "Content-Security-Policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+            "X-Content-Security-Policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+            "X-WebKit-CSP": "report-uri /report-csp-violation; upgrade-insecure-requests",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=1000",
+            "X-Request-ID": "v-6183cac4-f801-11ea-847e-aba12b903e70",
+            "X-AH-Environment": "prod",
+            "X-Geo-Country": "CN",
+            "Vary": "Cookie,Accept-Encoding,X-Geo-Country",
+            "Via": "varnish",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "6",
+            "CF-Cache-Status": "EXPIRED",
+            "cf-request-id": "0537f68d500000d9c4e506f200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39c05bb83fd9c4-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "blackboard.com": [
+                "69.196.244.99"
+            ],
+            "www.blackboard.com": [
+                "104.17.95.235",
+                "104.17.96.235"
+            ]
+        },
+        "ping": {
+            "blackboard.com": [
+                "69.196.244.99"
+            ],
+            "www.blackboard.com": [
+                "104.17.96.235",
+                "104.17.95.235"
+            ]
+        },
+        "CNAME": {
+            "www.blackboard.com": [
+                "www.blackboard.com.cdn.cloudflare.net."
+            ]
+        },
+        "A": {
+            "www.blackboard.com": [
+                "104.17.96.235",
+                "104.17.95.235"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:25 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=de56d3f278ad2df8fb30ecf41331978b81600250545; expires=Fri, 16-Oct-20 10:02:25 GMT; path=/; domain=.blackboard.com; HttpOnly; SameSite=Lax; Secure",
+            "Cache-Control": "max-age=900, public",
+            "X-Drupal-Dynamic-Cache": "HIT",
+            "Link": "<https://www.blackboard.com/>; rel=\"shortlink\", <https://www.blackboard.com/>; rel=\"canonical\"",
+            "X-UA-Compatible": "IE=edge",
+            "Content-language": "en",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 09:45:40 GMT",
+            "X-Generator": "Drupal 8 (https://www.drupal.org)",
+            "Content-Security-Policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+            "X-Content-Security-Policy": "report-uri /report-csp-violation; upgrade-insecure-requests",
+            "X-WebKit-CSP": "report-uri /report-csp-violation; upgrade-insecure-requests",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=1000",
+            "X-Request-ID": "v-6183cac4-f801-11ea-847e-aba12b903e70",
+            "X-AH-Environment": "prod",
+            "X-Geo-Country": "CN",
+            "Vary": "Cookie,Accept-Encoding,X-Geo-Country",
+            "Age": "3",
+            "Via": "varnish",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "6",
+            "CF-Cache-Status": "HIT",
+            "cf-request-id": "0537f69df9000019c5002da200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39c0765b7419c5-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "blackboard.com": [
+                "69.196.244.99"
+            ],
+            "www.blackboard.com": [
+                "104.17.95.235",
+                "104.17.96.235"
+            ]
+        },
+        "ping": {
+            "blackboard.com": [
+                "69.196.244.99"
+            ],
+            "www.blackboard.com": [
+                "104.17.96.235",
+                "104.17.95.235"
+            ]
+        },
+        "CNAME": {
+            "www.blackboard.com": [
+                "www.blackboard.com.cdn.cloudflare.net."
+            ]
+        },
+        "A": {
+            "www.blackboard.com": [
+                "104.17.96.235",
+                "104.17.95.235"
+            ]
+        }
+    }
+}

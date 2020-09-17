@@ -1,0 +1,34 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Server": "Microsoft-IIS/7.5",
+            "X-AspNet-Version": "2.0.50727",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 03:12:36 GMT",
+            "Content-Length": "9354"
+        },
+        "nslookup": {
+            "bne.sjtu.edu.cn": [
+                "202.120.54.131"
+            ]
+        },
+        "ping": {
+            "bne.sjtu.edu.cn": [
+                "202.120.54.131"
+            ]
+        },
+        "CNAME": {
+            "bne.sjtu.edu.cn": null
+        },
+        "A": {
+            "bne.sjtu.edu.cn": [
+                "202.120.54.131"
+            ]
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,104 @@
+{
+    "http": {
+        "header": {
+            "Content-Encoding": "gzip",
+            "X-Device-Type": "desktop",
+            "Accept-Ranges": "bytes",
+            "X-TM-ZONE": "us-central1-f",
+            "Content-Language": "en-US",
+            "Server": "nginx",
+            "X-Varnish": "52027569 52019070",
+            "X-Varnish-Cache": "HIT(8384)@default",
+            "Vary": "X-Device-Type,X-Proto,X-ALTEXP,Accept-Encoding",
+            "grace": "none",
+            "Content-Type": "text/html;charset=UTF-8",
+            "X-VARNISH-ESI": "true",
+            "X-Akamai-Transformed": "9 - 0 pmb=mTOE,1",
+            "Expires": "Wed, 16 Sep 2020 10:02:41 GMT",
+            "Cache-Control": "max-age=0, no-cache, no-store",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:02:41 GMT",
+            "Content-Length": "45115",
+            "Connection": "keep-alive",
+            "Set-Cookie": "akaau=1600250861~id=bdc5070762095d8230e113c6697a05ce; path=/, HD_DC=origin; Domain=.homedepot.com; Path=/, bm_sz=F63FAFD2CA96FE83D282216E1102DC44~YAAQrlUyuJ0iOFR0AQAAEcJdlgnwyOAFjLMmhioxbqbz2WJA7LJBrPDS0q8bWEsxchvOxZV1NJN32Ag+dBm7PLa+PGU0SKjQtpQsoNfOhECtzqY5KIXSo8M7JsDmlzj623vH5mffZEhqOqKsBGZLAmcY2cpHdjZjD6TS++CnzPcaK8kXfm/U8D6aPlLohPo3C44=; Domain=.homedepot.com; Path=/; Expires=Wed, 16 Sep 2020 14:02:40 GMT; Max-Age=14399; HttpOnly, _abck=7CDA399D9EEDF96D6E7F1B8706B407B8~-1~YAAQrlUyuJ4iOFR0AQAAEcJdlgTHyxWDTkyRX7PZfXmscE8xnPpy6uKlKoTBh1EXg0kRkWR4aJzbOZqQZZk8KnJOscH3IvE0n5VZoj1Br/Pn+DyYgOV73MCruZO9A9nVxt1rdCF+mLgHrQZnnkHbDYovFceLKeVdx/MJlkazPQQPgoXA8U6ux/VUXH0BC7shP30904gHCBhCCWJqReDavNWu9dPgC9TqudH4X9UN5rHK7bnVBNUxA0dsNDFtldH5rnN7ge6/qWfZzNqhGIXVG+zM3BPLOkW0YBw4K3ZaeCryLTQvWP9BgBDa1i1/~-1~-1~-1; Domain=.homedepot.com; Path=/; Expires=Thu, 16 Sep 2021 10:02:41 GMT; Max-Age=31536000; Secure",
+            "X-Proto": "secure"
+        },
+        "nslookup": {
+            "homedepot.com": [
+                "35.201.95.83"
+            ],
+            "www.homedepot.com": [
+                "118.215.84.86"
+            ]
+        },
+        "ping": {
+            "homedepot.com": [
+                "35.201.95.83"
+            ],
+            "www.homedepot.com": [
+                "96.6.70.96"
+            ]
+        },
+        "CNAME": {
+            "www.homedepot.com": [
+                "www.homedepot.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.homedepot.com": [
+                "96.6.70.96"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Encoding": "gzip",
+            "X-Device-Type": "desktop",
+            "Accept-Ranges": "bytes",
+            "X-TM-ZONE": "us-central1-c",
+            "Content-Language": "en-US",
+            "Server": "nginx",
+            "X-Varnish": "19329412 19433026",
+            "X-Varnish-Cache": "HIT(921)@default",
+            "Vary": "X-Device-Type,X-Proto,X-ALTEXP,Accept-Encoding",
+            "grace": "none",
+            "Content-Type": "text/html;charset=UTF-8",
+            "X-VARNISH-ESI": "true",
+            "X-Akamai-Transformed": "9 48971 0 pmb=mTOE,1",
+            "Expires": "Wed, 16 Sep 2020 10:02:42 GMT",
+            "Cache-Control": "max-age=0, no-cache, no-store",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:02:42 GMT",
+            "Content-Length": "45114",
+            "Connection": "keep-alive",
+            "Set-Cookie": "akaau=1600250862~id=f7f2154f8ca3493282af8e3778e90fa6; path=/, HD_DC=beta; Domain=.homedepot.com; Path=/, bm_sz=5F8017D629253E08DD3AE017702C914D~YAAQrlUyuKAiOFR0AQAAycddlgkyDv8BZo4Pq/CsKRSwEXbBEcxDFudH2PSVFmYPpPPurRf1xyhNyfijceTe1RI0mznfckp1DDtznwons7woC+nOkPOBtoavNu4Dq0ufYj0gjOeDTceBF2WA0DXhOKEg1b2je1YuFyYAq7lZ9QPo+wtDRPJzBvn0VfAFxY+yGZqX; Domain=.homedepot.com; Path=/; Expires=Wed, 16 Sep 2020 14:02:42 GMT; Max-Age=14400; HttpOnly, _abck=60637EBBC46C612F9466BECA63CC929C~-1~YAAQrlUyuKEiOFR0AQAAycddlgQ1DMtR1SRaln9nHvTbMj2Tk0A90kWhlu1NtjASxWCauFZb5o9ekYf+fXDczpBeojeD97/uj9dYEPO/yn8LGzfDCn6zXbZaRKAxgd7k//XTETuXg5gvo/TPFN5pUpjTQvPozai3kxzBforldcdKEQ7PPwJxWpsWyXKH+VD0Odjagvi334J29NiM7VrUPLQ6Db4X/hw++S5RzFq9t3OfjgBco+lLRMj8cg/LTAOQAtruiCo78L4RGOn+VjwkdDbpSrulQE47Ujm0SUo/8cEdRsu7kACNU0j5DXbX~-1~-1~-1; Domain=.homedepot.com; Path=/; Expires=Thu, 16 Sep 2021 10:02:42 GMT; Max-Age=31536000; Secure",
+            "X-Proto": "secure"
+        },
+        "nslookup": {
+            "homedepot.com": [
+                "35.201.95.83"
+            ],
+            "www.homedepot.com": [
+                "118.215.84.86"
+            ]
+        },
+        "ping": {
+            "homedepot.com": [
+                "35.201.95.83"
+            ],
+            "www.homedepot.com": [
+                "96.6.70.96"
+            ]
+        },
+        "CNAME": {
+            "www.homedepot.com": [
+                "www.homedepot.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.homedepot.com": [
+                "96.6.70.96"
+            ]
+        }
+    }
+}

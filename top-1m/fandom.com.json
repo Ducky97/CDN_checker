@@ -1,0 +1,129 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "29662",
+            "Cache-Control": "max-age=60, public",
+            "Content-Encoding": "gzip",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Content-Security-Policy-Report-Only": "default-src https: 'self' data: blob:; script-src https: 'self' data: 'unsafe-inline' 'unsafe-eval' blob:; style-src https: 'self' 'unsafe-inline' blob:; report-uri https://services.fandom.com/csp-logger/csp/f2",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Fandom.f2.datacenter": "sjc",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Datacenter": "SJC",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:23:21 GMT",
+            "Age": "19",
+            "X-Served-By": "cache-wk-sjc3163-WIKIA, cache-sin18037-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "15, 1",
+            "X-Timer": "S1600248201.162177,VS0,VE2",
+            "Vary": "Fastly-SSL, Fastly-SSL, Geo-Region,Accept-Encoding,Cookie",
+            "Set-Cookie": "wikia_beacon_id=M1j0MlPUJd; domain=.fandom.com; path=/; expires=Mon, 15 Mar 2021 09:23:21 GMT; SameSite=None; Secure;, wikia_session_id=cUmzZbSm1N; domain=.fandom.com; path=/; expires=Wed, 16 Sep 2020 09:53:21 GMT; SameSite=None; Secure;, Geo={%22region%22:%2201%22%2C%22country%22:%22SG%22%2C%22continent%22:%22AS%22}; path=/; domain=.fandom.com; SameSite=None; Secure;"
+        },
+        "nslookup": {
+            "fandom.com": [
+                "151.101.192.194",
+                "151.101.0.194",
+                "151.101.128.194",
+                "151.101.64.194"
+            ],
+            "www.fandom.com": [
+                "151.101.192.194",
+                "151.101.64.194",
+                "151.101.128.194",
+                "151.101.0.194"
+            ]
+        },
+        "ping": {
+            "fandom.com": [
+                "151.101.0.194",
+                "151.101.64.194",
+                "151.101.192.194"
+            ],
+            "www.fandom.com": [
+                "151.101.192.194",
+                "151.101.128.194"
+            ]
+        },
+        "CNAME": {
+            "www.fandom.com": [
+                "fandom.com."
+            ]
+        },
+        "A": {
+            "www.fandom.com": [
+                "151.101.0.194",
+                "151.101.64.194",
+                "151.101.192.194",
+                "151.101.128.194"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "29662",
+            "Cache-Control": "max-age=60, public",
+            "Content-Encoding": "gzip",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Content-Security-Policy-Report-Only": "default-src https: 'self' data: blob:; script-src https: 'self' data: 'unsafe-inline' 'unsafe-eval' blob:; style-src https: 'self' 'unsafe-inline' blob:; report-uri https://services.fandom.com/csp-logger/csp/f2",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Fandom.f2.datacenter": "sjc",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Datacenter": "SJC",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:23:21 GMT",
+            "Age": "19",
+            "X-Served-By": "cache-wk-sjc3163-WIKIA, cache-sin18036-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "15, 1",
+            "X-Timer": "S1600248201.496430,VS0,VE1",
+            "Vary": "Fastly-SSL, Fastly-SSL, Geo-Region,Accept-Encoding,Cookie",
+            "Set-Cookie": "wikia_beacon_id=Y7RNMCeSO_; domain=.fandom.com; path=/; expires=Mon, 15 Mar 2021 09:23:21 GMT; SameSite=None; Secure;, wikia_session_id=Jol-doNL9C; domain=.fandom.com; path=/; expires=Wed, 16 Sep 2020 09:53:21 GMT; SameSite=None; Secure;, Geo={%22region%22:%2201%22%2C%22country%22:%22SG%22%2C%22continent%22:%22AS%22}; path=/; domain=.fandom.com; SameSite=None; Secure;"
+        },
+        "nslookup": {
+            "fandom.com": [
+                "151.101.128.194",
+                "151.101.0.194",
+                "151.101.192.194",
+                "151.101.64.194"
+            ],
+            "www.fandom.com": [
+                "151.101.64.194",
+                "151.101.0.194",
+                "151.101.192.194",
+                "151.101.128.194"
+            ]
+        },
+        "ping": {
+            "fandom.com": [
+                "151.101.0.194",
+                "151.101.64.194",
+                "151.101.128.194",
+                "151.101.192.194"
+            ],
+            "www.fandom.com": [
+                "151.101.0.194",
+                "151.101.64.194",
+                "151.101.128.194",
+                "151.101.192.194"
+            ]
+        },
+        "CNAME": {
+            "www.fandom.com": [
+                "fandom.com."
+            ]
+        },
+        "A": {
+            "www.fandom.com": [
+                "151.101.0.194",
+                "151.101.64.194",
+                "151.101.192.194",
+                "151.101.128.194"
+            ]
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:24 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "support": "nantianmen",
+            "cache-control": "max-age=30",
+            "gear": "1",
+            "Vary": "Origin,Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Expires": "Wed, 16 Sep 2020 09:22:54 GMT",
+            "X-Cache-Webcdn": "BYPASS from cds-sg-webcdn-01"
+        },
+        "nslookup": {
+            "bilibili.com": [
+                "139.159.241.37",
+                "119.3.238.64",
+                "120.92.174.135",
+                "110.43.34.66",
+                "119.3.70.188"
+            ],
+            "www.bilibili.com": [
+                "164.52.28.62"
+            ]
+        },
+        "ping": {
+            "bilibili.com": [
+                "139.159.241.37",
+                "110.43.34.66",
+                "119.3.238.64",
+                "120.92.174.135"
+            ],
+            "www.bilibili.com": [
+                "164.52.28.62"
+            ]
+        },
+        "CNAME": {
+            "www.bilibili.com": [
+                "interface.biliapi.com."
+            ]
+        },
+        "A": {
+            "www.bilibili.com": [
+                "164.52.28.62"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:25 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "support": "nantianmen",
+            "cache-control": "max-age=30",
+            "gear": "1",
+            "Vary": "Origin,Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Expires": "Wed, 16 Sep 2020 09:22:55 GMT",
+            "X-Cache-Webcdn": "BYPASS from cds-sg-webcdn-01"
+        },
+        "nslookup": {
+            "bilibili.com": [
+                "120.92.174.135",
+                "110.43.34.66",
+                "119.3.70.188",
+                "139.159.241.37",
+                "119.3.238.64"
+            ],
+            "www.bilibili.com": [
+                "164.52.28.62"
+            ]
+        },
+        "ping": {
+            "bilibili.com": [
+                "139.159.241.37",
+                "119.3.238.64",
+                "120.92.174.135"
+            ],
+            "www.bilibili.com": [
+                "164.52.28.62"
+            ]
+        },
+        "CNAME": {
+            "www.bilibili.com": [
+                "interface.biliapi.com."
+            ]
+        },
+        "A": {
+            "www.bilibili.com": [
+                "164.52.28.62"
+            ]
+        }
+    }
+}

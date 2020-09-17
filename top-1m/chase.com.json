@@ -1,0 +1,121 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:38 GMT",
+            "Strict-Transport-Security": "max-age=31536000",
+            "X-Frame-Options": "SAMEORIGIN",
+            "x-xss-protection": "1; mode=block",
+            "Last-Modified": "Sun, 13 Sep 2020 04:06:10 GMT",
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "max-age=3600,s-maxage=3600",
+            "Access-Control-Allow-Origin": "*",
+            "X-Content-Security-Policy": "frame-ancestors 'none'",
+            "Content-Security-Policy": "frame-ancestors 'none'",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Connection": "Keep-Alive",
+            "Content-Encoding": "gzip",
+            "Age": "0",
+            "Set-Cookie": "TS01afb5d0=0162ca7a3d67f1cea84a821f7d0b41460c384cdda4f251e0b80552ae0580f83661f9ba794120cdda7776997e498f18355c7a3fc1ee; Path=/, ppnet_2777=!0klmBw9G76GRVtfxR9usC9w7H6fJpeBPUKG+qRjnHwFaSoodACTyMn0WXReBVasyRNNfMMqZ6c3R85A=; path=/; Httponly; Secure",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "chase.com": [
+                "159.53.113.168",
+                "159.53.84.126",
+                "159.53.42.11",
+                "159.53.85.137",
+                "159.53.224.21",
+                "159.53.44.60",
+                "159.53.116.62"
+            ],
+            "www.chase.com": [
+                "159.53.85.137"
+            ]
+        },
+        "ping": {
+            "chase.com": [
+                "159.53.42.11",
+                "159.53.44.60",
+                "159.53.85.137",
+                "159.53.84.126",
+                "159.53.116.62",
+                "159.53.224.21"
+            ],
+            "www.chase.com": [
+                "159.53.85.137",
+                "159.53.84.126",
+                "159.53.113.168"
+            ]
+        },
+        "CNAME": {
+            "www.chase.com": [
+                "wwwbcchase.gslb.bankone.com."
+            ]
+        },
+        "A": {
+            "www.chase.com": [
+                "159.53.84.126"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:00:41 GMT",
+            "Strict-Transport-Security": "max-age=31536000",
+            "X-Frame-Options": "SAMEORIGIN",
+            "x-xss-protection": "1; mode=block",
+            "Last-Modified": "Sun, 13 Sep 2020 04:06:10 GMT",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "16996",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "max-age=3600,s-maxage=3600",
+            "Access-Control-Allow-Origin": "*",
+            "X-Content-Security-Policy": "frame-ancestors 'none'",
+            "Content-Security-Policy": "frame-ancestors 'none'",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Connection": "Keep-Alive",
+            "Content-Encoding": "gzip",
+            "Age": "2",
+            "Set-Cookie": "TS01afb5d0=011deaa114d71ed499187d7388352468b1aa866eea75064f95f24098aa6c52015b700ab5ab913172fcfac4bd707652e71062b50375; Path=/, ppnet_2777=!BHfzd0+uQvPYx7hdjxX/VFsvz/lm3iy/wKFD37RX0hcCzO5K1/dhOUhP8nqa7cuiUMB0qcDX9tztcX4=; path=/; Httponly; Secure"
+        },
+        "nslookup": {
+            "chase.com": [
+                "159.53.85.137",
+                "159.53.44.60",
+                "159.53.113.168",
+                "159.53.116.62",
+                "159.53.84.126",
+                "159.53.42.11",
+                "159.53.224.21"
+            ],
+            "www.chase.com": [
+                "159.53.85.137"
+            ]
+        },
+        "ping": {
+            "chase.com": [
+                "159.53.44.60",
+                "159.53.84.126",
+                "159.53.116.62",
+                "159.53.113.168",
+                "159.53.224.21"
+            ],
+            "www.chase.com": [
+                "159.53.113.168",
+                "159.53.84.126",
+                "159.53.85.137"
+            ]
+        },
+        "CNAME": {
+            "www.chase.com": [
+                "wwwbcchase.gslb.bankone.com."
+            ]
+        },
+        "A": {
+            "www.chase.com": [
+                "159.53.85.137"
+            ]
+        }
+    }
+}

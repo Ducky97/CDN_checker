@@ -1,0 +1,95 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "40191",
+            "Server": "Cowboy",
+            "X-Powered-By": "Express",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000",
+            "X-Content-Type-Options": "nosniff",
+            "X-Xss-Protection": "1",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "Cache-Control": "max-age=3600, stale-while-revalidate=86400, stale-if-error=86400",
+            "Content-Type": "text/html; charset=utf-8",
+            "Etag": "W/\"47816-WehIYV2mok6ACaocKf0Ebg\"",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 vegur, 1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:01:16 GMT",
+            "Age": "1518",
+            "X-Served-By": "cache-dca17759-DCA, cache-sin18048-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "1, 5",
+            "Vary": "x-logged-in, Accept-Encoding, client-geo-region",
+            "Set-Cookie": "ugid=6591ddf7d59c20ebb71a98c5341fcf385334168;domain=.unsplash.com;path=/;expires=Thu, 16 Sep 2021 10:01:16 GMT;SameSite=None;Secure"
+        },
+        "nslookup": {
+            "unsplash.com": [
+                "151.101.129.181",
+                "151.101.193.181",
+                "151.101.65.181",
+                "151.101.1.181"
+            ]
+        },
+        "ping": {
+            "unsplash.com": [
+                "151.101.1.181",
+                "151.101.129.181"
+            ]
+        },
+        "CNAME": {
+            "unsplash.com": "still a low_level domain_name"
+        },
+        "A": {
+            "unsplash.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "40191",
+            "Server": "Cowboy",
+            "X-Powered-By": "Express",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000",
+            "X-Content-Type-Options": "nosniff",
+            "X-Xss-Protection": "1",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "Cache-Control": "max-age=3600, stale-while-revalidate=86400, stale-if-error=86400",
+            "Content-Type": "text/html; charset=utf-8",
+            "Etag": "W/\"47816-WehIYV2mok6ACaocKf0Ebg\"",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 vegur, 1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:01:16 GMT",
+            "Age": "1518",
+            "X-Served-By": "cache-dca17759-DCA, cache-sin18051-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "1, 3",
+            "Vary": "x-logged-in, Accept-Encoding, client-geo-region",
+            "Set-Cookie": "ugid=6591ddf7d59c20ebb71a98c5341fcf385334168;domain=.unsplash.com;path=/;expires=Thu, 16 Sep 2021 10:01:16 GMT;SameSite=None;Secure"
+        },
+        "nslookup": {
+            "unsplash.com": [
+                "151.101.1.181",
+                "151.101.65.181",
+                "151.101.129.181",
+                "151.101.193.181"
+            ]
+        },
+        "ping": {
+            "unsplash.com": [
+                "151.101.1.181",
+                "151.101.193.181",
+                "151.101.129.181"
+            ]
+        },
+        "CNAME": {
+            "unsplash.com": "still a low_level domain_name"
+        },
+        "A": {
+            "unsplash.com": "still a low_level domain_name"
+        }
+    }
+}

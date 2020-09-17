@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:18:12 GMT",
+            "Expires": "-1",
+            "Cache-Control": "private, max-age=0",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Strict-Transport-Security": "max-age=31536000",
+            "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+            "Content-Encoding": "gzip",
+            "Server": "gws",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "NID=204=PkNOrcGB7zeLeAsJ2Un0_vAm4_ZF5vsJi8_a0Fav72roTDXtN9eMu-JvEJCXbQQ5LUb7fg3wXlTHTsNIGEGbj3dfDIfgrSm5dMD4_1B07L9JZ71wZ3rjHeCaLxlGRhwd-I5u9sQI41SnGB9Djk8mUTtTtXwq1BsumEsE523XUTo; expires=Thu, 18-Mar-2021 09:18:12 GMT; path=/; domain=.google.co.in; Secure; HttpOnly; SameSite=none",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "google.co.in": [
+                "172.217.160.99"
+            ],
+            "www.google.co.in": [
+                "172.217.160.67"
+            ]
+        },
+        "ping": {
+            "google.co.in": [
+                "74.125.24.94",
+                "142.250.4.94",
+                "172.217.160.35"
+            ],
+            "www.google.co.in": [
+                "74.125.130.94",
+                "74.125.24.94",
+                "172.217.160.35"
+            ]
+        },
+        "CNAME": {
+            "google.co.in": null
+        },
+        "A": {
+            "google.co.in": [
+                "172.217.160.35"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:18:12 GMT",
+            "Expires": "-1",
+            "Cache-Control": "private, max-age=0",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Strict-Transport-Security": "max-age=31536000",
+            "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+            "Content-Encoding": "gzip",
+            "Server": "gws",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "NID=204=QDzq_2djxEngXZWrhCUUcRWr0O5CI_ADrzhjVsexsKwaota5nNWZanpFsk2pQByloXg07GhDXFN90smgme2t8_XsUUE8gdJJJDd9Ifew85i-EsIp1-30GiQlYkM8Mtmph1wB3R3bfHouZ1aj8Q-56bNzXQxvBINvxNOA1O9LsNc; expires=Thu, 18-Mar-2021 09:18:12 GMT; path=/; domain=.google.co.in; Secure; HttpOnly; SameSite=none",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "google.co.in": [
+                "172.217.160.99"
+            ],
+            "www.google.co.in": [
+                "172.217.160.67"
+            ]
+        },
+        "ping": {
+            "google.co.in": [
+                "74.125.24.94",
+                "142.250.4.94",
+                "172.217.160.35"
+            ],
+            "www.google.co.in": [
+                "74.125.130.94",
+                "74.125.24.94",
+                "172.217.160.35"
+            ]
+        },
+        "CNAME": {
+            "google.co.in": null
+        },
+        "A": {
+            "google.co.in": [
+                "74.125.24.94"
+            ]
+        }
+    }
+}

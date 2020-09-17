@@ -1,0 +1,88 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Server": "nginx",
+            "Last-Modified": "Wed, 16 Sep 2020 10:14:36 GMT",
+            "ETag": "W/\"91f9671883a590cca53edce369806440\"",
+            "X-Cache-Status": "HIT",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,1",
+            "Expires": "Wed, 16 Sep 2020 10:14:52 GMT",
+            "Cache-Control": "max-age=0, no-cache",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:14:52 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding, User-Agent",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1"
+        },
+        "nslookup": {
+            "ndtv.com": [
+                "96.6.73.208"
+            ],
+            "www.ndtv.com": [
+                "96.6.73.208"
+            ]
+        },
+        "ping": {
+            "ndtv.com": [
+                "96.6.73.208"
+            ],
+            "www.ndtv.com": [
+                "96.6.73.208"
+            ]
+        },
+        "CNAME": {
+            "www.ndtv.com": null
+        },
+        "A": {
+            "www.ndtv.com": [
+                "96.6.73.208"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Server": "nginx",
+            "Last-Modified": "Wed, 16 Sep 2020 10:14:36 GMT",
+            "ETag": "W/\"91f9671883a590cca53edce369806440\"",
+            "X-Cache-Status": "HIT",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,1",
+            "Expires": "Wed, 16 Sep 2020 10:14:53 GMT",
+            "Cache-Control": "max-age=0, no-cache",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 10:14:53 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding, User-Agent",
+            "Server-Timing": "edge; dur=1, origin; dur=0, cdn-cache; desc=MISS"
+        },
+        "nslookup": {
+            "ndtv.com": [
+                "96.6.73.208"
+            ],
+            "www.ndtv.com": [
+                "96.6.73.208"
+            ]
+        },
+        "ping": {
+            "ndtv.com": [
+                "96.6.73.208"
+            ],
+            "www.ndtv.com": [
+                "96.6.73.208"
+            ]
+        },
+        "CNAME": {
+            "www.ndtv.com": null
+        },
+        "A": {
+            "www.ndtv.com": [
+                "96.6.73.208"
+            ]
+        }
+    }
+}

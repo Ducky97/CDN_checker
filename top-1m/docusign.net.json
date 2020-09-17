@@ -1,0 +1,41 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Last-Modified": "Sat, 05 Sep 2020 07:54:54 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"d3313bd75983d61:0\"",
+            "X-DocuSign-Node": "SE5FE74",
+            "Date": "Wed, 16 Sep 2020 12:00:11 GMT",
+            "Content-Length": "637",
+            "Set-Cookie": "BIGipDocuSign_NA1=!5ij/3kIvnY7axDKP3XmkN+H0HpYLSau9SqBhb6+fDldWfalEhLYT7vaapLfoh//L51+G9kbXUXPhYgk=; path=/; Httponly; Secure"
+        },
+        "nslookup": {
+            "docusign.net": [
+                "162.248.184.27"
+            ],
+            "www.docusign.net": [
+                "162.248.184.27"
+            ]
+        },
+        "ping": {
+            "docusign.net": [
+                "162.248.184.27"
+            ],
+            "www.docusign.net": [
+                "162.248.184.27"
+            ]
+        },
+        "CNAME": {
+            "www.docusign.net": [
+                "www-geo.docusign.net.akadns.net."
+            ]
+        },
+        "A": {
+            "www.docusign.net": [
+                "162.248.184.27"
+            ]
+        }
+    },
+    "https": null
+}

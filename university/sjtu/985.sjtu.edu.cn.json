@@ -1,0 +1,68 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 02:29:47 GMT",
+            "Server": "VAppServer/6.0.0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Set-Cookie": "JSESSIONID=AD7FA3395ECC9FD9EDED41818FE63C5C; Path=/; HttpOnly",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Keep-Alive": "timeout=5, max=68",
+            "Connection": "Keep-Alive",
+            "Transfer-Encoding": "chunked",
+            "Content-Language": "zh-CN"
+        },
+        "nslookup": {
+            "985.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "ping": {
+            "985.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "CNAME": {
+            "985.sjtu.edu.cn": null
+        },
+        "A": {
+            "985.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 02:29:48 GMT",
+            "Server": "VAppServer/6.0.0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Set-Cookie": "JSESSIONID=461BDF38458A254F50AB4C3F31707D3E; Path=/; HttpOnly",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Keep-Alive": "timeout=5, max=46",
+            "Connection": "Keep-Alive",
+            "Transfer-Encoding": "chunked",
+            "Content-Language": "zh-CN"
+        },
+        "nslookup": {
+            "985.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "ping": {
+            "985.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        },
+        "CNAME": {
+            "985.sjtu.edu.cn": null
+        },
+        "A": {
+            "985.sjtu.edu.cn": [
+                "202.120.35.187"
+            ]
+        }
+    }
+}

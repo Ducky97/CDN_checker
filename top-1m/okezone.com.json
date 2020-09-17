@@ -1,0 +1,102 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:04:10 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, User-Agent",
+            "Expires": "Wed, 16 Sep 2020 09:04:10 GMT",
+            "Cache-Control": "max-age=0",
+            "Pragma": "no-cache",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Served-By": "okz",
+            "Strict-Transport-Security": "max-age=15768000; preload"
+        },
+        "nslookup": {
+            "okezone.com": [
+                "202.80.220.208",
+                "202.80.220.218"
+            ],
+            "www.okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ]
+        },
+        "ping": {
+            "okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ],
+            "www.okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ]
+        },
+        "CNAME": {
+            "www.okezone.com": [
+                "okezone.com."
+            ]
+        },
+        "A": {
+            "www.okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:04:10 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Expires": "Wed, 16 Sep 2020 09:04:10 GMT",
+            "Cache-Control": "max-age=0",
+            "Pragma": "no-cache",
+            "Vary": "User-Agent",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Served-By": "okz",
+            "Strict-Transport-Security": "max-age=15768000; preload"
+        },
+        "nslookup": {
+            "okezone.com": [
+                "202.80.220.208",
+                "202.80.220.218"
+            ],
+            "www.okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ]
+        },
+        "ping": {
+            "okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ],
+            "www.okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ]
+        },
+        "CNAME": {
+            "www.okezone.com": [
+                "okezone.com."
+            ]
+        },
+        "A": {
+            "www.okezone.com": [
+                "202.80.220.218",
+                "202.80.220.208"
+            ]
+        }
+    }
+}

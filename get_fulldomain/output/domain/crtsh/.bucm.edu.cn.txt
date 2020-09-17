@@ -1,0 +1,4 @@
+*.bucm.edu.cn
+bb.bucm.edu.cn
+wx.bucm.edu.cn
+wximg.bucm.edu.cn

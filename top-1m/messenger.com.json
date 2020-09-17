@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "private, no-cache, no-store, must-revalidate",
+            "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+            "Pragma": "no-cache",
+            "Strict-Transport-Security": "max-age=15552000; preload; includeSubDomains",
+            "Content-Encoding": "gzip",
+            "content-security-policy": "default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self' *.messenger.com;style-src data: blob: 'unsafe-inline' * *.messenger.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm *.messenger.com wss://*.messenger.com:*;font-src *.messenger.com *.facebook.com https://*.fbcdn.net data:;",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "DENY",
+            "X-XSS-Protection": "0",
+            "Content-Type": "text/html; charset=\"utf-8\"",
+            "X-FB-Debug": "tisg78F8CBFIqxqaNZ5UXzHlaTBFnthAu9e2mMqdvB+KQV0L8ggSFuIAzpuQ8l80XwJzcTzbJeyQjKGS7o727w==",
+            "Date": "Wed, 16 Sep 2020 10:39:52 GMT",
+            "Alt-Svc": "h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "messenger.com": [
+                "157.240.218.17"
+            ],
+            "www.messenger.com": [
+                "157.240.218.17"
+            ]
+        },
+        "ping": {
+            "messenger.com": [
+                "157.240.7.20"
+            ],
+            "www.messenger.com": [
+                "157.240.7.20"
+            ]
+        },
+        "CNAME": {
+            "www.messenger.com": [
+                "star.facebook.com."
+            ]
+        },
+        "A": {
+            "www.messenger.com": [
+                "157.240.7.20"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "private, no-cache, no-store, must-revalidate",
+            "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+            "Pragma": "no-cache",
+            "Strict-Transport-Security": "max-age=15552000; preload; includeSubDomains",
+            "Content-Encoding": "gzip",
+            "content-security-policy": "default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self' *.messenger.com;style-src data: blob: 'unsafe-inline' * *.messenger.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm *.messenger.com wss://*.messenger.com:*;font-src *.messenger.com *.facebook.com https://*.fbcdn.net data:;",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "DENY",
+            "X-XSS-Protection": "0",
+            "Content-Type": "text/html; charset=\"utf-8\"",
+            "X-FB-Debug": "+M/KQG9ufCOCwouT5ZzkTqNo+TQMh4wuVq3gCTZqz1/yz0nqLP8arMtRivpZ5vs2PNzqixbqwKVVI3888RtyVQ==",
+            "Date": "Wed, 16 Sep 2020 10:39:53 GMT",
+            "Alt-Svc": "h3-29=\":443\"; ma=3600,h3-27=\":443\"; ma=3600",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "messenger.com": [
+                "157.240.218.17"
+            ],
+            "www.messenger.com": [
+                "157.240.218.17"
+            ]
+        },
+        "ping": {
+            "messenger.com": [
+                "157.240.7.20"
+            ],
+            "www.messenger.com": [
+                "157.240.7.20"
+            ]
+        },
+        "CNAME": {
+            "www.messenger.com": [
+                "star.facebook.com."
+            ]
+        },
+        "A": {
+            "www.messenger.com": [
+                "157.240.7.20"
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "http": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 11:35:57 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "transfer-encoding": "chunked",
+            "vary": "Accept-Encoding",
+            "set-cookie": "AuthV1=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDAyNTYxNTcsImFmY24iOiIxNjAwMjU2MTU3ODY3MTcifQ.3gzAWo5MzLml2t1iqGh5e-khoO3ekfeIjWBGwDrBGF0; expires=Mon, 15-Sep-2025 11:35:57 GMT; Max-Age=157680000; path=/; domain=.filimo.com",
+            "access-control-allow-credentials": "true",
+            "content-encoding": "gzip",
+            "server": "nginx"
+        },
+        "nslookup": {
+            "filimo.com": [
+                "185.147.178.23"
+            ],
+            "www.filimo.com": [
+                "185.147.178.23"
+            ]
+        },
+        "ping": {
+            "filimo.com": [
+                "185.147.178.23"
+            ],
+            "www.filimo.com": [
+                "185.147.178.23"
+            ]
+        },
+        "CNAME": {
+            "www.filimo.com": null
+        },
+        "A": {
+            "www.filimo.com": [
+                "185.147.178.23"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 11:35:59 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "transfer-encoding": "chunked",
+            "vary": "Accept-Encoding",
+            "set-cookie": "AuthV1=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDAyNTYxNTgsImFmY24iOiIxNjAwMjU2MTU4NTkwNDkifQ.zulhbip2YG9lkMcGTsc-XsAaUmCfZqXe9i2uq7rygH4; expires=Mon, 15-Sep-2025 11:35:58 GMT; Max-Age=157680000; path=/; domain=.filimo.com",
+            "access-control-allow-credentials": "true",
+            "content-encoding": "gzip",
+            "server": "nginx"
+        },
+        "nslookup": {
+            "filimo.com": [
+                "185.147.178.23"
+            ],
+            "www.filimo.com": [
+                "185.147.178.23"
+            ]
+        },
+        "ping": {
+            "filimo.com": [
+                "185.147.178.23"
+            ],
+            "www.filimo.com": [
+                "185.147.178.23"
+            ]
+        },
+        "CNAME": {
+            "www.filimo.com": null
+        },
+        "A": {
+            "www.filimo.com": [
+                "185.147.178.23"
+            ]
+        }
+    }
+}

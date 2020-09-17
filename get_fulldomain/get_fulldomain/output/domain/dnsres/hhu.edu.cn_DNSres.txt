@@ -1,0 +1,922 @@
+hhic.hhu.edu.cnhhu.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for hhu.edu.cn
+
+NXDOMAIN for hhu.edu.cn
+
+NXDOMAIN for hhu.edu.cn
+
+NXDOMAIN for hhu.edu.cn
+
+NXDOMAIN for hhu.edu.cn
+
+NXDOMAIN for hhu.edu.cn
+
+NXDOMAIN for hhu.edu.cn
+
+acm.hhu.edu.cn. 3600 IN A 202.119.112.127
+
+acm.hhu.edu.cn. 3599 IN A 202.119.112.127
+
+acm.hhu.edu.cn. 3599 IN A 202.119.112.127
+
+alumni.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+alumni.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+alumni.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+archives.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+archives.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+archives.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+bkjxpg.hhu.edu.cn. 3600 IN A 202.119.112.86
+
+bwc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+bwc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+bylw.hhu.edu.cn. 3600 IN A 202.119.113.171
+
+bylw.hhu.edu.cn. 3599 IN A 202.119.113.171
+
+bylw.hhu.edu.cn. 3599 IN A 202.119.113.171
+
+ccte.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+ccte.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ccte.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ccte.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ccte.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ccte.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ceee.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+ceee.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ceee.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ceee.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ces.hhu.edu.cn. 3600 IN A 58.213.47.42
+
+cie.hhu.edu.cn. 60 IN A 202.119.112.70
+
+cie.hhu.edu.cn. 59 IN A 202.119.112.70
+
+cie.hhu.edu.cn. 59 IN A 202.119.112.70
+
+cies.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+cies.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+cies.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+yunpan.hhu.edu.cndns.hhu.edu.cn. 0 IN A 220.250.64.225
+
+labsafe.hhu.edu.cngps.hhu.edu.cn. 0 IN A 220.250.64.225
+
+ktzxmooc.hhu.edu.cnhhwsjs.hhu.edu.cn. 0 IN A 220.250.64.225
+
+hhbs.hhu.edu.cnmyapp.hhu.edu.cn. 0 IN A 220.250.64.225
+
+nsfceh.hhu.edu.cnnsfceh.hhu.edu.cn. 0 IN A 220.250.64.225
+
+myapp.hhu.edu.cnzcc.hhu.edu.cn. 0 IN A 220.250.64.225
+
+coast.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+coast.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+coast.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+cpl.hhu.edu.cn. 3600 IN A 202.119.113.216
+
+cpl.hhu.edu.cn. 3599 IN A 202.119.113.216
+
+cpl.hhu.edu.cn. 3599 IN A 202.119.113.216
+
+cpl.hhu.edu.cn. 3599 IN A 202.119.113.216
+
+cwc.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+cwc.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+cwc.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+cwc.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+cwc.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+cwcx.hhu.edu.cn. 3600 IN A 202.119.112.131
+
+cwcx.hhu.edu.cn. 3599 IN A 202.119.112.131
+
+cwcxnew.hhu.edu.cn. 3600 IN A 202.119.112.129
+
+cxyjy.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+cxyjy.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+cxzy.hhu.edu.cn. 3600 IN A 202.119.112.118
+
+dns.hhu.edu.cn. 3600 IN A 202.119.112.34
+
+dns.hhu.edu.cn. 3599 IN A 202.119.112.34
+
+dns.hhu.edu.cn. 3599 IN A 202.119.112.34
+
+dns.hhu.edu.cn. 3599 IN A 202.119.112.34
+
+dns.hhu.edu.cn. 3599 IN A 202.119.112.34
+
+dns.hhu.edu.cn. 3599 IN A 202.119.112.34
+
+dns.hhu.edu.cn. 3599 IN A 202.119.112.34
+
+dns2.hhu.edu.cn. 60 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dns2.hhu.edu.cn. 59 IN A 202.119.112.35
+
+dwb.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+dxy.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+dxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+dxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+dxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+dyxy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+dyxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+dyxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+dzgc.hhu.edu.cn. 3600 IN A 202.119.112.111
+
+dzgc.hhu.edu.cn. 3599 IN A 202.119.112.111
+
+dzgc.hhu.edu.cn. 3599 IN A 202.119.112.111
+
+ebs.hhu.edu.cn. 3600 IN A 202.119.112.169
+
+eidaswe.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+en.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+en.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+en.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+englib.hhu.edu.cn. 3600 IN A 202.119.113.165
+
+fzghc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+fzghc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+fzghc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+geo.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+geo.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+geo.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+geo.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+geohohai.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+geohohai.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+geokeylab.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+geokeylab.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+geolab.hhu.edu.cn. 3600 IN A 202.119.112.118
+
+geolab.hhu.edu.cn. 3599 IN A 202.119.112.118
+
+geolab.hhu.edu.cn. 3599 IN A 202.119.112.118
+
+geolab.hhu.edu.cn. 3599 IN A 202.119.112.118
+
+gfs.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+ggw.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+ggw.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+ggy.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+ggy.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+ggy.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+ghxy.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+ghxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+ghxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+gise.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+gjhzc.hhu.edu.cn. 60 IN A 202.119.112.7
+
+gjhzc.hhu.edu.cn. 60 IN A 202.119.112.7
+
+gjhzc.hhu.edu.cn. 59 IN A 202.119.112.7
+
+gonghui.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+gonghui.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+gonghui.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+gps.hhu.edu.cn. 3600 IN A 202.119.112.110
+
+gps.hhu.edu.cn. 3599 IN A 202.119.112.110
+
+gps.hhu.edu.cn. 3599 IN A 202.119.112.110
+
+gs.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+gs.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+gs.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+gs.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+gs.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+gs.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hhbs.hhu.edu.cn. 60 IN A 202.119.112.70
+
+hhbs.hhu.edu.cn. 59 IN A 202.119.112.70
+
+hhbs.hhu.edu.cn. 60 IN A 202.119.112.70
+
+hhbs.hhu.edu.cn. 59 IN A 202.119.112.70
+
+hhbs.hhu.edu.cn. 60 IN A 202.119.112.70
+
+hhdxjjw.hhu.edu.cn. 3600 IN A 202.119.113.240
+
+hhic.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+hhic.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hhic.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hhis.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+hhucy.hhu.edu.cn. 60 IN A 202.119.112.7
+
+hhuedf.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+hhuedf.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hhwsjs.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+hhwsjs.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+hhwsjs.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+hhwsjs.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+hjxy.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+hjxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+hpc.hhu.edu.cn. 3600 IN A 202.119.113.101
+
+hqglc.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+hqglc.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hqjt.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+hqjt.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hqjt.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hqjt.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+hr.hhu.edu.cn. 60 IN A 202.119.112.21
+
+hydro-lab.hhu.edu.cn. 3600 IN A 202.119.112.111
+
+hydro-lab.hhu.edu.cn. 3599 IN A 202.119.112.111
+
+hyxy.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+hyxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+hyxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+hzz.hhu.edu.cn. 3600 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+hzz.hhu.edu.cn. 3599 IN A 101.89.188.224
+
+ids.hhu.edu.cn. 3246 IN A 202.119.112.20
+
+ids.hhu.edu.cn. 3245 IN A 202.119.112.20
+
+ids1.hhu.edu.cn. 3600 IN A 202.119.112.20
+
+ie.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+ie.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+ie.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+ie.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+ie.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+jczx.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+jdgl.hhu.edu.cn. 60 IN A 202.119.112.137
+
+jgdw.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+jgdw.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+jjc.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+jjc.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+jjc.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+jjjc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+jjjc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+jjy.hhu.edu.cn. 60 IN A 202.119.112.7
+
+jjy.hhu.edu.cn. 59 IN A 202.119.112.7
+
+jjy.hhu.edu.cn. 59 IN A 202.119.112.7
+
+job.hhu.edu.cn. 3600 IN A 202.119.112.112
+
+job.hhu.edu.cn. 3599 IN A 202.119.112.112
+
+job.hhu.edu.cn. 3599 IN A 202.119.112.112
+
+jobs.hhu.edu.cn. 3600 IN A 202.119.112.21
+
+jobs.hhu.edu.cn. 3599 IN A 202.119.112.21
+
+jour.hhu.edu.cn. 3600 IN A 202.119.114.33
+
+jour.hhu.edu.cn. 3599 IN A 202.119.114.33
+
+jour.hhu.edu.cn. 3599 IN A 202.119.114.33
+
+jour.hhu.edu.cn. 3599 IN A 202.119.114.33
+
+jsce.hhu.edu.cn. 3600 IN A 202.119.112.158
+
+jszy.hhu.edu.cn. 3600 IN A 202.119.113.222
+
+jszy.hhu.edu.cn. 3599 IN A 202.119.113.222
+
+jszyzz.hhu.edu.cn. 3600 IN A 202.119.113.221
+
+jwc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+jwc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+jwc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+jwc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+jwxt.hhu.edu.cn. 3600 IN A 202.119.112.123
+
+jwxt.hhu.edu.cn. 3599 IN A 202.119.112.123
+
+jwxt1.hhu.edu.cn. 3600 IN A 202.119.113.135
+
+jwxt1.hhu.edu.cn. 3599 IN A 202.119.113.135
+
+jxcg2018gclx.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+jxycx.hhu.edu.cn. 3600 IN A 202.119.112.127
+
+jxycx.hhu.edu.cn. 3599 IN A 202.119.112.127
+
+kjc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+kjc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+kjc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+kjc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+kjc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+klcdd.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+ktzx.hhu.edu.cn. 3600 IN A 202.119.112.200
+
+ktzxcs.hhu.edu.cn. 3600 IN A 202.119.112.200
+
+ktzxmooc.hhu.edu.cn. 3600 IN A 202.119.112.200
+
+ktzxmooc.hhu.edu.cn. 3599 IN A 202.119.112.200
+
+ktzxmooc.hhu.edu.cn. 3599 IN A 202.119.112.200
+
+kyglxt.hhu.edu.cn. 3600 IN A 202.119.113.130
+
+labsafe.hhu.edu.cn. 3600 IN A 202.119.113.212
+
+law.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+law.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+law.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+law.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+lcy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+lcy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+lcy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+lcy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+lib.hhu.edu.cn. 3600 IN A 202.119.113.165
+
+lib.hhu.edu.cn. 3599 IN A 202.119.113.165
+
+lib.hhu.edu.cn. 3599 IN A 202.119.113.165
+
+lib.hhu.edu.cn. 3599 IN A 202.119.113.165
+
+lib.hhu.edu.cn. 3599 IN A 202.119.113.165
+
+lib1.hhu.edu.cn. 0 IN A 220.250.64.225
+
+libweb.hhu.edu.cn. 1208 IN A 202.119.113.175
+
+libweb.hhu.edu.cn. 1207 IN A 202.119.113.175
+
+llkjsxk.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+ltxc.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+ltxc.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+lx.hhu.edu.cn. 3600 IN A 202.119.112.123
+
+lx.hhu.edu.cn. 3599 IN A 202.119.112.123
+
+lxy.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+lxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+lxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+lxy.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+mail.hhu.edu.cn. 3600 IN A 202.119.112.48
+
+mail.hhu.edu.cn. 3599 IN A 202.119.112.48
+
+mail.hhu.edu.cn. 3599 IN A 202.119.112.48
+
+mail.hhu.edu.cn. 3599 IN A 202.119.112.48
+
+mail.hhu.edu.cn. 3599 IN A 202.119.112.48
+
+mailsvr.hhu.edu.cn. 2504 IN A 202.119.112.48
+
+mailsvr.hhu.edu.cn. 2503 IN A 202.119.112.48
+
+mailsvr.hhu.edu.cn. 2503 IN A 202.119.112.48
+
+mailsvr.hhu.edu.cn. 2503 IN A 202.119.112.48
+
+map.hhu.edu.cn. 3600 IN A 202.119.113.163
+
+map.hhu.edu.cn. 3599 IN A 202.119.113.163
+
+map.hhu.edu.cn. 3599 IN A 202.119.113.163
+
+map.hhu.edu.cn. 3599 IN A 202.119.113.163
+
+map.hhu.edu.cn. 3599 IN A 202.119.113.163
+
+mapp.hhu.edu.cn. 3600 IN A 202.119.113.230
+
+mba.hhu.edu.cn. 3600 IN A 202.119.113.242
+
+mba.hhu.edu.cn. 3599 IN A 202.119.113.242
+
+mba.hhu.edu.cn. 3599 IN A 202.119.113.242
+
+me.hhu.edu.cn. 3600 IN A 202.119.113.243
+
+mids.hhu.edu.cn. 3600 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mids.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+mks.hhu.edu.cn. 3600 IN A 202.119.112.111
+
+mks.hhu.edu.cn. 3599 IN A 202.119.112.111
+
+mks.hhu.edu.cn. 3599 IN A 202.119.112.111
+
+mky.hhu.edu.cn. 60 IN A 202.119.112.7
+
+mky.hhu.edu.cn. 59 IN A 202.119.112.7
+
+mnews.hhu.edu.cn. 3600 IN A 202.119.113.230
+
+mnews.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+my.hhu.edu.cn. 1203 IN A 202.119.112.21
+
+my.hhu.edu.cn. 1202 IN A 202.119.112.21
+
+my.hhu.edu.cn. 1203 IN A 202.119.112.21
+
+myapp.hhu.edu.cn. 3600 IN A 202.119.113.230
+
+myapp.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+myapp.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+myapp.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+myapp.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+myapp.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+myapp.hhu.edu.cn. 3599 IN A 202.119.113.230
+
+myhall.hhu.edu.cn. 3600 IN A 202.119.113.233
+
+ncysaq.hhu.edu.cn. 3600 IN A 218.78.19.46
+
+ncysaq.hhu.edu.cn. 3599 IN A 218.78.19.46
+
+ncysaq.hhu.edu.cn. 3599 IN A 218.78.19.46
+
+ncysaq.hhu.edu.cn. 3599 IN A 218.78.19.46
+
+ncysaq.hhu.edu.cn. 3599 IN A 218.78.19.46
+
+ncysaq.hhu.edu.cn. 3599 IN A 218.78.19.46
+
+news.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+news.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+news.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+news.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+ngy.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+ngy.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+ngy.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+ngy.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+nsfceh.hhu.edu.cn. 3600 IN A 202.119.112.130
+
+oa.hhu.edu.cn. 0 IN A 220.250.64.225
+
+online.hhu.edu.cn. 3600 IN A 202.119.113.123
+
+online-svr4.hhu.edu.cn. 3600 IN A 202.119.113.106
+
+openresource.hhu.edu.cn. 3600 IN A 202.119.112.84
+
+pave.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+pay.hhu.edu.cn. 60 IN A 202.119.112.21
+
+pay.hhu.edu.cn. 59 IN A 202.119.112.21
+
+pay.hhu.edu.cn. 59 IN A 202.119.112.21
+
+pay.hhu.edu.cn. 59 IN A 202.119.112.21
+
+postdoctor.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+postdoctor.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+postdoctor.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+rces.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+rces.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+rsc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+rsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+rsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+rsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+rsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+rsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+sdxy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+sdxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+sdxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+sea.hhu.edu.cn. 60 IN A 220.250.64.225
+
+sea.hhu.edu.cn. 59 IN A 220.250.64.225
+
+sfcx.hhu.edu.cn. 3600 IN A 202.119.112.10
+
+shxy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+shxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+shxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+shxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+sjc.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+sjc.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+sjjx.hhu.edu.cn. 3600 IN A 202.119.113.171
+
+sjjx.hhu.edu.cn. 3599 IN A 202.119.113.171
+
+sjjx.hhu.edu.cn. 3599 IN A 202.119.113.171
+
+skc.hhu.edu.cn. 60 IN A 202.119.112.70
+
+skc.hhu.edu.cn. 59 IN A 202.119.112.70
+
+skc.hhu.edu.cn. 59 IN A 202.119.112.70
+
+skc.hhu.edu.cn. 59 IN A 202.119.112.70
+
+slaqpx.hhu.edu.cn. 3600 IN A 58.213.47.44
+
+sljzw.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+sljzw.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+sljzw.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+sllab.hhu.edu.cn. 3600 IN A 202.119.112.112
+
+slsyzx.hhu.edu.cn. 3600 IN A 202.119.112.1
+
+slsyzx.hhu.edu.cn. 3599 IN A 202.119.112.1
+
+slzscx.hhu.edu.cn. 3600 IN A 58.213.47.46
+
+slzscx.hhu.edu.cn. 3599 IN A 58.213.47.46
+
+slzyds.hhu.edu.cn. 3600 IN A 202.119.113.137
+
+sms.hhu.edu.cn. 3600 IN A 202.119.112.178
+
+sms.hhu.edu.cn. 3599 IN A 202.119.112.178
+
+sms.hhu.edu.cn. 3599 IN A 202.119.112.178
+
+smst.hhu.edu.cn. 3600 IN A 202.119.112.178
+
+smst.hhu.edu.cn. 3599 IN A 202.119.112.178
+
+socialwork.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+socialwork.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+sociology.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+sociology.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+sociology.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+sqxx.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+sys.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+sys.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+sys.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+syw.hhu.edu.cn. 60 IN A 202.119.112.29
+
+syw.hhu.edu.cn. 59 IN A 202.119.112.29
+
+syzx.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+syzx.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+syzx.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+syzx.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+syzx.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+syzy.hhu.edu.cn. 3600 IN A 202.119.113.37
+
+syzy.hhu.edu.cn. 3599 IN A 202.119.113.37
+
+syzy.hhu.edu.cn. 3599 IN A 202.119.113.37
+
+syzy.hhu.edu.cn. 3599 IN A 202.119.113.37
+
+szxy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+szxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+tyx.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+vpn.hhu.edu.cn. 60 IN A 202.119.112.36
+
+vpn.hhu.edu.cn. 59 IN A 202.119.112.36
+
+vpn.hhu.edu.cn. 59 IN A 202.119.112.36
+
+webplus.hhu.edu.cn. 60 IN A 202.119.112.211
+
+webplus.hhu.edu.cn. 59 IN A 202.119.112.211
+
+wgyxy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+wgyxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+wgyxy.hhu.edu.cn. 3599 IN A 202.119.112.70
+
+wr.hhu.edu.cn. 3600 IN A 202.119.112.111
+
+www.hhu.edu.cn. 3600 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+www.hhu.edu.cn. 3599 IN A 202.119.112.100
+
+xb.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+xb.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xb.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xcb.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+xcb.hhu.edu.cn. 3599 IN A 202.119.112.29
+
+xinhu.hhu.edu.cn. 3600 IN A 202.119.112.110
+
+xkjsc.hhu.edu.cn. 3600 IN A 202.119.112.29
+
+xsc.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+xsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xsc.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xtcxbgs.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+xtcxbgs.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+xw.hhu.edu.cn. 3600 IN A 202.119.112.117
+
+xxgk.hhu.edu.cn. 3600 IN A 202.119.112.100
+
+yjkt.hhu.edu.cn. 3600 IN A 202.119.113.190
+
+yjkt.hhu.edu.cn. 3599 IN A 202.119.113.190
+
+yjs.hhu.edu.cn. 3600 IN A 202.119.112.195
+
+yjs.hhu.edu.cn. 3599 IN A 202.119.112.195
+
+yjs.hhu.edu.cn. 3599 IN A 202.119.112.195
+
+yjs.hhu.edu.cn. 3599 IN A 202.119.112.195
+
+youth.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+youth.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+yqgx.hhu.edu.cn. 3600 IN A 202.119.112.142
+
+yqgx.hhu.edu.cn. 3599 IN A 202.119.112.142
+
+yunpan.hhu.edu.cn. 3600 IN A 202.119.112.221
+
+yunpan.hhu.edu.cn. 3599 IN A 202.119.112.221
+
+yunpan.hhu.edu.cn. 3599 IN A 202.119.112.221
+
+yunpan.hhu.edu.cn. 3599 IN A 202.119.112.221
+
+yxxt.hhu.edu.cn. 3600 IN A 202.119.112.104
+
+zbb.hhu.edu.cn. 3600 IN A 202.119.114.13
+
+zbb.hhu.edu.cn. 3599 IN A 202.119.114.13
+
+zcc.hhu.edu.cn. 60 IN A 202.119.112.7
+
+zcc.hhu.edu.cn. 59 IN A 202.119.112.7
+
+zfw.hhu.edu.cn. 3600 IN A 202.119.112.127
+
+zmjc.hhu.edu.cn. 3600 IN A 202.119.112.174
+
+zsw.hhu.edu.cn. 3600 IN A 202.119.114.34
+
+zsw.hhu.edu.cn. 3599 IN A 202.119.114.34
+
+zsw.hhu.edu.cn. 3599 IN A 202.119.114.34
+
+zsw.hhu.edu.cn. 3599 IN A 202.119.114.34
+
+ztjy.hhu.edu.cn. 3600 IN A 202.119.112.70
+
+zuzb.hhu.edu.cn. 3600 IN A 202.119.112.7
+
+zuzb.hhu.edu.cn. 3599 IN A 202.119.112.7
+
+zyzx.hhu.edu.cn. 60 IN A 202.119.112.1
+
+zyzx.hhu.edu.cn. 60 IN A 202.119.112.1
+

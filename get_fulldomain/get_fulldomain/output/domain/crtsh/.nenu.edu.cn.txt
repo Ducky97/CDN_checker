@@ -1,0 +1,7 @@
+*.library.nenu.edu.cn
+*.nenu.edu.cn
+acm.nenu.edu.cn
+bb.nenu.edu.cn
+mail.nenu.edu.cn
+tasks.library.nenu.edu.cn
+www.bb.nenu.edu.cn

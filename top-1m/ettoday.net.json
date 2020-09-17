@@ -1,0 +1,76 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:22:14 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "et_token=cf2d6e27ce608aa6d43bab1b1a9f6d3c; expires=Fri, 23-Aug-2120 09:22:14 GMT; path=/; domain=ettoday.net, et_client_country=CN; expires=Thu, 17-Sep-2020 09:22:14 GMT; path=/; domain=ettoday.net, check_pc_mobile=pc; expires=Fri, 23-Aug-2120 09:22:14 GMT; path=/; domain=ettoday.net",
+            "Access-Control-Allow-Origin": "http://www.ettoday.net",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "ettoday.net": [
+                "219.85.79.131"
+            ],
+            "www.ettoday.net": [
+                "219.85.79.131"
+            ]
+        },
+        "ping": {
+            "ettoday.net": [
+                "219.85.79.131"
+            ],
+            "www.ettoday.net": [
+                "219.85.79.131"
+            ]
+        },
+        "CNAME": {
+            "www.ettoday.net": null
+        },
+        "A": {
+            "www.ettoday.net": [
+                "219.85.79.131"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:22:15 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "et_token=178cbdaea48a46c6c0ec37bf6ee36e8f; expires=Fri, 23-Aug-2120 09:22:15 GMT; path=/; domain=ettoday.net, et_client_country=CN; expires=Thu, 17-Sep-2020 09:22:15 GMT; path=/; domain=ettoday.net, check_pc_mobile=pc; expires=Fri, 23-Aug-2120 09:22:15 GMT; path=/; domain=ettoday.net",
+            "Access-Control-Allow-Origin": "http://www.ettoday.net",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "ettoday.net": [
+                "219.85.79.131"
+            ],
+            "www.ettoday.net": [
+                "219.85.79.131"
+            ]
+        },
+        "ping": {
+            "ettoday.net": [
+                "219.85.79.131"
+            ],
+            "www.ettoday.net": [
+                "219.85.79.131"
+            ]
+        },
+        "CNAME": {
+            "www.ettoday.net": null
+        },
+        "A": {
+            "www.ettoday.net": [
+                "219.85.79.131"
+            ]
+        }
+    }
+}

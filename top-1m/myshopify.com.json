@@ -1,0 +1,93 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:12:48 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=dc4423d6c354d5ab3aa83550e1e930ad21600247568; expires=Fri, 16-Oct-20 09:12:48 GMT; path=/; domain=.myshopify.com; HttpOnly; SameSite=Lax",
+            "X-Sorting-Hat-PodId": "-1",
+            "X-Storefront-Renderer-Rendered": "1",
+            "Vary": "Accept-Encoding, Accept",
+            "X-Frame-Options": "DENY",
+            "Content-Security-Policy": "frame-ancestors 'none';",
+            "X-ShopId": "",
+            "X-ShardId": "-1",
+            "X-Shopify-Stage": "production",
+            "Content-Encoding": "gzip",
+            "X-Dc": "gcp-us-central1",
+            "X-Request-ID": "4109f8b0-802b-45c0-8869-0b45d1f8cd84",
+            "X-Download-Options": "noopen",
+            "X-Permitted-Cross-Domain-Policies": "none",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537c9313d00001900b8bcb200000001",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3977c86f3c1900-SIN",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "myshopify.com": [
+                "23.227.38.32"
+            ]
+        },
+        "ping": {
+            "myshopify.com": [
+                "23.227.38.32"
+            ]
+        },
+        "CNAME": {
+            "myshopify.com": "still a low_level domain_name"
+        },
+        "A": {
+            "myshopify.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:12:49 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d9012a7c4d5a008dd5a250b44130da12b1600247568; expires=Fri, 16-Oct-20 09:12:48 GMT; path=/; domain=.myshopify.com; HttpOnly; SameSite=Lax",
+            "X-Sorting-Hat-PodId": "-1",
+            "X-Storefront-Renderer-Rendered": "1",
+            "Vary": "Accept-Encoding, Accept",
+            "X-Frame-Options": "DENY",
+            "Content-Security-Policy": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;",
+            "X-ShopId": "",
+            "X-ShardId": "-1",
+            "X-Shopify-Stage": "production",
+            "Content-Encoding": "gzip",
+            "X-Dc": "gcp-us-central1",
+            "X-Request-ID": "ae70092b-8621-4167-b47b-ece8952bec2d",
+            "X-Download-Options": "noopen",
+            "X-Permitted-Cross-Domain-Policies": "none",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537c932310000d9dce1136200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3977c9eb64d9dc-SIN",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "myshopify.com": [
+                "23.227.38.32"
+            ]
+        },
+        "ping": {
+            "myshopify.com": [
+                "23.227.38.32"
+            ]
+        },
+        "CNAME": {
+            "myshopify.com": "still a low_level domain_name"
+        },
+        "A": {
+            "myshopify.com": "still a low_level domain_name"
+        }
+    }
+}

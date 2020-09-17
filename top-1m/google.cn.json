@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Type": "text/html",
+            "Content-Security-Policy-Report-Only": "script-src 'nonce-BLJo0ouFD4JeW2ks6f68eg' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/static-on-bigtable; base-uri 'none'",
+            "Content-Length": "1435",
+            "Date": "Wed, 16 Sep 2020 09:18:45 GMT",
+            "Pragma": "no-cache",
+            "Expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+            "Cache-Control": "no-cache, must-revalidate",
+            "Last-Modified": "Fri, 19 Jun 2020 10:30:00 GMT",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Encoding": "gzip",
+            "Server": "sffe",
+            "X-XSS-Protection": "0"
+        },
+        "nslookup": {
+            "google.cn": [
+                "203.208.50.162"
+            ],
+            "www.google.cn": [
+                "203.208.43.66"
+            ]
+        },
+        "ping": {
+            "google.cn": [
+                "74.125.130.94",
+                "74.125.24.94",
+                "172.253.118.94",
+                "74.125.200.94"
+            ],
+            "www.google.cn": [
+                "74.125.24.94",
+                "142.250.4.94"
+            ]
+        },
+        "CNAME": {
+            "www.google.cn": null
+        },
+        "A": {
+            "www.google.cn": [
+                "74.125.24.94"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Type": "text/html",
+            "Content-Security-Policy-Report-Only": "script-src 'nonce--B9nOoF56lgfrGeaQAjoMA' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/static-on-bigtable; base-uri 'none'",
+            "Content-Length": "1435",
+            "Date": "Wed, 16 Sep 2020 09:18:45 GMT",
+            "Pragma": "no-cache",
+            "Expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+            "Cache-Control": "no-cache, must-revalidate",
+            "Last-Modified": "Fri, 19 Jun 2020 10:30:00 GMT",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Encoding": "gzip",
+            "Server": "sffe",
+            "X-XSS-Protection": "0"
+        },
+        "nslookup": {
+            "google.cn": [
+                "203.208.43.66"
+            ],
+            "www.google.cn": [
+                "203.208.43.66"
+            ]
+        },
+        "ping": {
+            "google.cn": [
+                "74.125.130.94",
+                "74.125.24.94",
+                "172.253.118.94",
+                "74.125.200.94"
+            ],
+            "www.google.cn": [
+                "74.125.24.94",
+                "142.250.4.94"
+            ]
+        },
+        "CNAME": {
+            "www.google.cn": null
+        },
+        "A": {
+            "www.google.cn": [
+                "74.125.24.94"
+            ]
+        }
+    }
+}

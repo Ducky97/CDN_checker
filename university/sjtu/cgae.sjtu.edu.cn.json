@@ -1,0 +1,64 @@
+{
+    "http": {
+        "header": {
+            "Server": "Server      ",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Connection": "keep-alive",
+            "Cache-Control": "no-cache, private",
+            "Date": "Thu, 17 Sep 2020 03:28:57 GMT",
+            "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IlduRktPUkxwUUFiVDhcL3N2SnZKU2hnPT0iLCJ2YWx1ZSI6InZJTEI3ZjF5UWJGZGVXdnFEM0xiUVpYcGxONlIzSFpcL2NSVDY4K3RucDBWeEwrR2FuZnVGWnJaRzJuWE8xYzFuIiwibWFjIjoiZjA3MzU3OGRhODNlODQ4ZjYwMzQ4OGNiNmVhOWZhNzYwODc0MWE0N2Y1OWI2MmUwMDU1NmJiMThjMDJkMzMxZCJ9; expires=Thu, 17-Sep-2020 05:28:57 GMT; Max-Age=7200; path=/, laravel_session=eyJpdiI6IlY0VEJ3a1ZzZXNHVGdSalhCeVAwMWc9PSIsInZhbHVlIjoiYkIrUnJBRlFIZ2N5TDZUb3BcLzhGQVpKZEs4K0RxY2FEXC9oY0V3VTAwTE53V0UrMTRcL0o1OWJtMXIyVVNxM2xtQiIsIm1hYyI6IjFjOWIyYWUwY2RlY2NjNTA0MTFhZDM1OTdhZDZjM2E5OWQxOTI3ZTMzOTM3ZjUwM2UyNmQ2ZjZhOGQzZDIyZDkifQ%3D%3D; expires=Thu, 17-Sep-2020 05:28:57 GMT; Max-Age=7200; path=/; httponly",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "cgae.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "ping": {
+            "cgae.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "CNAME": {
+            "cgae.sjtu.edu.cn": null
+        },
+        "A": {
+            "cgae.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Server      ",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Connection": "keep-alive",
+            "Cache-Control": "no-cache, private",
+            "Date": "Thu, 17 Sep 2020 03:28:57 GMT",
+            "Set-Cookie": "XSRF-TOKEN=eyJpdiI6InRsZzBYM0RZUGhZRGJlTEx1TUZ5MEE9PSIsInZhbHVlIjoiOVNiSDF5cTVSdkY2NWF1YmJlU2xHaUNFYU5MRmsycGt0YlJFVGFcL1wvaEhHZjdtZm5cL21QNFlSMG80aG5rNXBlVyIsIm1hYyI6ImQyZWQwYzBmODMzMDNkODVjNmFjN2I2NGU5MzhhNjA4YTg5NmVjNzgxOWIwYWYyYTgwNTRmMjg2YTVlM2U4ZTMifQ%3D%3D; expires=Thu, 17-Sep-2020 05:28:57 GMT; Max-Age=7200; path=/, laravel_session=eyJpdiI6IjdqSXM3UGVSWm9jTzd2TzUreE51QXc9PSIsInZhbHVlIjoiMmxwOVIySTV2cDFnZ0N5Yk9kTFo1TGVCYks0OUY3OWhEM2lMaXlhRG1LdHJDMlMxSlRISnBWUFljWTIrZWpzOSIsIm1hYyI6ImUwYjBkMzQxMDNlNGY1ZGQ3M2I0ZGZkNjBjZmY1MjQ1YzZiYjc4OGE3ZjM0MmZhNzkxNjQzODBhNmUzNWVmMjUifQ%3D%3D; expires=Thu, 17-Sep-2020 05:28:57 GMT; Max-Age=7200; path=/; httponly",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Content-Encoding": "gzip",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "cgae.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "ping": {
+            "cgae.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        },
+        "CNAME": {
+            "cgae.sjtu.edu.cn": null
+        },
+        "A": {
+            "cgae.sjtu.edu.cn": [
+                "202.120.35.241"
+            ]
+        }
+    }
+}

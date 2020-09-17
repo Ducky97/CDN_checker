@@ -1,0 +1,58 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "Date": "Wed, 16 Sep 2020 10:48:50 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Set-Cookie": "HASRV=services1_LB; path=/; HttpOnly",
+            "Cache-control": "private"
+        },
+        "nslookup": {
+            "videocampaign.co": [
+                "138.128.241.162"
+            ]
+        },
+        "ping": {
+            "videocampaign.co": [
+                "138.128.241.162"
+            ]
+        },
+        "CNAME": {
+            "videocampaign.co": "still a low_level domain_name"
+        },
+        "A": {
+            "videocampaign.co": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.18.0 (Ubuntu)",
+            "Date": "Wed, 16 Sep 2020 10:48:53 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Set-Cookie": "HASRV=services1_LB; path=/; HttpOnly",
+            "Cache-control": "private"
+        },
+        "nslookup": {
+            "videocampaign.co": [
+                "138.128.241.162"
+            ]
+        },
+        "ping": {
+            "videocampaign.co": [
+                "138.128.241.162"
+            ]
+        },
+        "CNAME": {
+            "videocampaign.co": "still a low_level domain_name"
+        },
+        "A": {
+            "videocampaign.co": "still a low_level domain_name"
+        }
+    }
+}

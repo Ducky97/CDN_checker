@@ -1,0 +1,120 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Age": "15502",
+            "Cache-Control": "public, max-age=21600",
+            "Content-Encoding": "gzip",
+            "Content-Language": "en",
+            "Content-Type": "text/html; charset=utf-8",
+            "Date": "Wed, 16 Sep 2020 09:46:34 GMT",
+            "Etag": "\"1600230705-1\"",
+            "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 04:31:45 GMT",
+            "Link": "<https://www.nih.gov/>; rel=\"canonical\",<https://www.nih.gov/>; rel=\"shortlink\"",
+            "Server": "nginx",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Vary": "Cookie,Accept-Encoding",
+            "Via": "varnish",
+            "X-AH-Environment": "prod",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "7613",
+            "X-Drupal-Cache": "HIT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Generator": "Drupal 7 (http://drupal.org)",
+            "X-Request-ID": "v-69e14cc4-f7dd-11ea-9b4f-c79f3774050e",
+            "X-UA-Compatible": "IE=edge,chrome=IE6",
+            "X-XSS-Protection": "1; mode=block",
+            "Content-Length": "14007",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "nih.gov": [
+                "54.235.145.223"
+            ],
+            "www.nih.gov": [
+                "54.88.128.235",
+                "54.152.245.79"
+            ]
+        },
+        "ping": {
+            "nih.gov": [
+                "54.235.145.223"
+            ],
+            "www.nih.gov": [
+                "54.152.245.79",
+                "54.88.128.235"
+            ]
+        },
+        "CNAME": {
+            "www.nih.gov": [
+                "mc-5845-vpc-vpc-395761797.us-east-1.elb.amazonaws.com."
+            ]
+        },
+        "A": {
+            "www.nih.gov": [
+                "54.152.245.79",
+                "54.88.128.235"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Age": "15505",
+            "Cache-Control": "public, max-age=21600",
+            "Content-Encoding": "gzip",
+            "Content-Language": "en",
+            "Content-Type": "text/html; charset=utf-8",
+            "Date": "Wed, 16 Sep 2020 09:46:38 GMT",
+            "Etag": "\"1600230705-1\"",
+            "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 04:31:45 GMT",
+            "Link": "<https://www.nih.gov/>; rel=\"canonical\",<https://www.nih.gov/>; rel=\"shortlink\"",
+            "Server": "nginx",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Vary": "Cookie,Accept-Encoding",
+            "Via": "varnish",
+            "X-AH-Environment": "prod",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "7614",
+            "X-Drupal-Cache": "HIT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Generator": "Drupal 7 (http://drupal.org)",
+            "X-Request-ID": "v-69e14cc4-f7dd-11ea-9b4f-c79f3774050e",
+            "X-UA-Compatible": "IE=edge,chrome=IE6",
+            "X-XSS-Protection": "1; mode=block",
+            "Content-Length": "14007",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "nih.gov": [
+                "54.235.145.223"
+            ],
+            "www.nih.gov": [
+                "54.88.128.235",
+                "54.152.245.79"
+            ]
+        },
+        "ping": {
+            "nih.gov": [
+                "54.235.145.223"
+            ],
+            "www.nih.gov": [
+                "54.152.245.79",
+                "54.88.128.235"
+            ]
+        },
+        "CNAME": {
+            "www.nih.gov": [
+                "mc-5845-vpc-vpc-395761797.us-east-1.elb.amazonaws.com."
+            ]
+        },
+        "A": {
+            "www.nih.gov": [
+                "54.152.245.79",
+                "54.88.128.235"
+            ]
+        }
+    }
+}

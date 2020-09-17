@@ -1,0 +1,49 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:14:48 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "140525",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, X-Forwarded-Proto",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=604800",
+            "Expires": "Wed, 16 Sep 2020 10:14:58 GMT",
+            "Cache-Control": "max-age=10",
+            "Content-Encoding": "gzip",
+            "Age": "0",
+            "X-Bip": "937249198 ah19 29 04",
+            "Via": "2.0 CachOS",
+            "Accept-Ranges": "bytes",
+            "X-Thanos": "0A819C08"
+        },
+        "nslookup": {
+            "globo.com": [
+                "186.192.90.5"
+            ],
+            "www.globo.com": [
+                "186.192.81.5"
+            ]
+        },
+        "ping": {
+            "globo.com": [
+                "186.192.90.5"
+            ],
+            "www.globo.com": [
+                "186.192.81.5"
+            ]
+        },
+        "CNAME": {
+            "www.globo.com": null
+        },
+        "A": {
+            "www.globo.com": [
+                "186.192.81.5"
+            ]
+        }
+    },
+    "https": null
+}

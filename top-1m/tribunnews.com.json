@@ -1,0 +1,55 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "36241",
+            "Connection": "keep-alive",
+            "Cache-Control": "no-transform",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 09:14:18 GMT",
+            "Server": "Apache",
+            "Set-Cookie": "3bun_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22acc8741b9d6bf16abdf754363f9207cf%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%22172.31.29.0%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A17%3A%22Amazon+CloudFront%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1600247658%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D551e59f60d8384c3c99d3e95d7594cea; expires=Wed, 16-Sep-2020 19:14:18 GMT; path=/; SameSite=None; domain=.tribunnews.com; secure",
+            "Vary": "Accept-Encoding,User-Agent",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 47f0d09d9d5d7d899c2e467cfbfb08e0.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "HCExh1quqWCqTYwXxjkm0V7T4mXtzCbUvJC7P1CpcgEwGPTzRopDXg==",
+            "Age": "251"
+        },
+        "nslookup": {
+            "tribunnews.com": [
+                "113.11.255.38"
+            ],
+            "www.tribunnews.com": [
+                "13.35.20.47",
+                "13.35.20.4",
+                "13.35.20.36",
+                "13.35.20.92"
+            ]
+        },
+        "ping": {
+            "tribunnews.com": [
+                "113.11.255.38"
+            ],
+            "www.tribunnews.com": [
+                "13.35.20.4",
+                "13.35.20.92",
+                "13.35.20.47"
+            ]
+        },
+        "CNAME": {
+            "www.tribunnews.com": [
+                "d3hndmbr6e28d5.cloudfront.net."
+            ]
+        },
+        "A": {
+            "www.tribunnews.com": [
+                "13.35.20.4",
+                "13.35.20.92",
+                "13.35.20.36",
+                "13.35.20.47"
+            ]
+        }
+    },
+    "https": null
+}

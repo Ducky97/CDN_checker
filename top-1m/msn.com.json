@@ -1,0 +1,112 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-cache, no-store, no-transform",
+            "Pragma": "no-cache",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "-1",
+            "Vary": "User-Agent",
+            "Set-Cookie": "PreferencesMsn=eyJFeHBpcnlUaW1lIjo2Mzc2NzM4MDcyNDE4NzYxNzEsIlZlcnNpb24iOjF90; expires=Thu, 16-Sep-2021 09:18:44 GMT; path=/; HttpOnly, anoncknm=; domain=msn.cn; path=/; HttpOnly",
+            "Access-Control-Allow-Origin": "*",
+            "X-AspNetMvc-Version": "5.2",
+            "X-AppVersion": "20200913_27036221",
+            "X-Activity-Id": "d63b5ef7-cc41-4979-a195-3e58e0de8c57",
+            "X-Az": "{did:a69776dd907442e598807d759ebaeadc, rid: 6, sn: easia-prod-hp, dt: 2020-09-01T19:03:13.0801367Z, bt: 2020-09-14T00:15:16.7442237Z}",
+            "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1.0}",
+            "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+            "Strict-Transport-Security": "max-age=1209600",
+            "Content-Security-Policy": "default-src 'self' data: 'unsafe-inline' 'unsafe-eval' https: blob:; media-src 'self' https: blob:; worker-src 'self' https: blob:; block-all-mixed-content; connect-src 'self' data: 'unsafe-inline' 'unsafe-eval' https: blob: https://*.trouter.io:443 https://*.trouter.skype.com:443 wss://*.trouter.io:443 wss://*.trouter.skype.com:443;",
+            "X-UA-Compatible": "IE=Edge;chrome=1",
+            "X-Content-Type-Options": "nosniff",
+            "X-FRAME-OPTIONS": "SAMEORIGIN",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Methods": "HEAD,GET,OPTIONS",
+            "X-XSS-Protection": "1",
+            "X-MSEdge-Ref": "Ref A: D63B5EF7CC414979A1953E58E0DE8C57 Ref B: SG2EDGE1008 Ref C: 2020-09-16T09:18:44Z",
+            "Date": "Wed, 16 Sep 2020 09:18:43 GMT"
+        },
+        "nslookup": {
+            "msn.com": [
+                "13.82.28.61"
+            ],
+            "www.msn.cn": [
+                "204.79.197.235"
+            ]
+        },
+        "ping": {
+            "msn.com": [
+                "13.82.28.61"
+            ],
+            "www.msn.cn": [
+                "204.79.197.235"
+            ]
+        },
+        "CNAME": {
+            "www.msn.cn": [
+                "msn-cn.a-0032.a-msedge.net."
+            ]
+        },
+        "A": {
+            "www.msn.cn": [
+                "204.79.197.235"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-cache, no-store, no-transform",
+            "Pragma": "no-cache",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "-1",
+            "Vary": "User-Agent",
+            "Set-Cookie": "PreferencesMsn=eyJFeHBpcnlUaW1lIjo2Mzc2NzM4MDcyNTQzMTA2OTgsIlZlcnNpb24iOjF90; expires=Thu, 16-Sep-2021 09:18:45 GMT; path=/; HttpOnly, anoncknm=; domain=msn.cn; path=/; HttpOnly",
+            "Access-Control-Allow-Origin": "*",
+            "X-AspNetMvc-Version": "5.2",
+            "X-AppVersion": "20200913_27036221",
+            "X-Activity-Id": "e64fbff8-9602-4796-b02f-f0d36836bfee",
+            "X-Az": "{did:a69776dd907442e598807d759ebaeadc, rid: 13, sn: easia-prod-hp, dt: 2020-09-01T19:56:21.5501479Z, bt: 2020-09-14T00:15:16.7442237Z}",
+            "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1.0}",
+            "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+            "Strict-Transport-Security": "max-age=1209600",
+            "Content-Security-Policy": "default-src 'self' data: 'unsafe-inline' 'unsafe-eval' https: blob:; media-src 'self' https: blob:; worker-src 'self' https: blob:; block-all-mixed-content; connect-src 'self' data: 'unsafe-inline' 'unsafe-eval' https: blob: https://*.trouter.io:443 https://*.trouter.skype.com:443 wss://*.trouter.io:443 wss://*.trouter.skype.com:443;",
+            "X-UA-Compatible": "IE=Edge;chrome=1",
+            "X-Content-Type-Options": "nosniff",
+            "X-FRAME-OPTIONS": "SAMEORIGIN",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Methods": "HEAD,GET,OPTIONS",
+            "X-XSS-Protection": "1",
+            "X-MSEdge-Ref": "Ref A: E64FBFF896024796B02FF0D36836BFEE Ref B: SG2EDGE1022 Ref C: 2020-09-16T09:18:45Z",
+            "Date": "Wed, 16 Sep 2020 09:18:45 GMT"
+        },
+        "nslookup": {
+            "msn.com": [
+                "13.82.28.61"
+            ],
+            "www.msn.cn": [
+                "204.79.197.235"
+            ]
+        },
+        "ping": {
+            "msn.com": [
+                "13.82.28.61"
+            ],
+            "www.msn.cn": [
+                "204.79.197.235"
+            ]
+        },
+        "CNAME": {
+            "www.msn.cn": [
+                "msn-cn.a-0032.a-msedge.net."
+            ]
+        },
+        "A": {
+            "www.msn.cn": [
+                "204.79.197.235"
+            ]
+        }
+    }
+}

@@ -1,0 +1,10 @@
+*.dlmu.edu.cn
+*.webvpn.dlmu.edu.cn
+bb.dlmu.edu.cn
+english.dlmu.edu.cn
+id.dlmu.edu.cn
+mail.dlmu.edu.cn
+my.dlmu.edu.cn
+oa.dlmu.edu.cn
+webvpn.dlmu.edu.cn
+www.dlmu.edu.cn

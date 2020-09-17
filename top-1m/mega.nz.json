@@ -1,0 +1,64 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Headers": "MEGA-Chrome-Antileak",
+            "Access-Control-Max-Age": "86400",
+            "Content-Encoding": "gzip",
+            "Content-Length": "941",
+            "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+            "X-Frame-Options": "DENY",
+            "Set-Cookie": "geoip=CN",
+            "Content-Security-Policy": "default-src 'self' data: blob: *.mega.co.nz *.mega.nz http://*.mega.co.nz http://*.mega.nz wss://*.karere.mega.nz *.karere.mega.nz:1380 http://127.0.0.1:6341 localhost.megasyncloopback.mega.nz:6342; script-src 'self' *.mega.co.nz *.mega.nz data: blob:; style-src 'self' 'unsafe-inline' *.mega.co.nz *.mega.nz data: blob:; frame-src 'self' mega: *.megaad.nz; img-src 'self' *.mega.co.nz *.mega.nz data: blob:",
+            "Connection": "Keep-Alive"
+        },
+        "nslookup": {
+            "mega.nz": [
+                "31.216.148.10"
+            ]
+        },
+        "ping": {
+            "mega.nz": [
+                "31.216.148.10"
+            ]
+        },
+        "CNAME": {
+            "mega.nz": "still a low_level domain_name"
+        },
+        "A": {
+            "mega.nz": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Headers": "MEGA-Chrome-Antileak",
+            "Access-Control-Max-Age": "86400",
+            "Content-Encoding": "gzip",
+            "Content-Length": "941",
+            "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+            "X-Frame-Options": "DENY",
+            "Set-Cookie": "geoip=CN",
+            "Content-Security-Policy": "default-src 'self' data: blob: *.mega.co.nz *.mega.nz http://*.mega.co.nz http://*.mega.nz wss://*.karere.mega.nz *.karere.mega.nz:1380 http://127.0.0.1:6341 localhost.megasyncloopback.mega.nz:6342; script-src 'self' *.mega.co.nz *.mega.nz data: blob:; style-src 'self' 'unsafe-inline' *.mega.co.nz *.mega.nz data: blob:; frame-src 'self' mega: *.megaad.nz; img-src 'self' *.mega.co.nz *.mega.nz data: blob:",
+            "Connection": "Keep-Alive"
+        },
+        "nslookup": {
+            "mega.nz": [
+                "31.216.148.10"
+            ]
+        },
+        "ping": {
+            "mega.nz": [
+                "31.216.148.10"
+            ]
+        },
+        "CNAME": {
+            "mega.nz": "still a low_level domain_name"
+        },
+        "A": {
+            "mega.nz": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:35:14 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "cf-request-id": "05384b97a4000018be0312d200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a486c3e1518be-SIN",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "dcard.tw": [
+                "104.16.204.58",
+                "104.16.105.87"
+            ],
+            "www.dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ]
+        },
+        "ping": {
+            "dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ],
+            "www.dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ]
+        },
+        "CNAME": {
+            "www.dcard.tw": null
+        },
+        "A": {
+            "www.dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:35:14 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "cf-request-id": "05384b9872000001cd989b9200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains; preload",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "cloudflare",
+            "CF-RAY": "5d3a486d8d6301cd-SIN",
+            "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+        },
+        "nslookup": {
+            "dcard.tw": [
+                "104.16.204.58",
+                "104.16.105.87"
+            ],
+            "www.dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ]
+        },
+        "ping": {
+            "dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ],
+            "www.dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ]
+        },
+        "CNAME": {
+            "www.dcard.tw": null
+        },
+        "A": {
+            "www.dcard.tw": [
+                "104.16.105.87",
+                "104.16.204.58"
+            ]
+        }
+    }
+}

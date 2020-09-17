@@ -1,0 +1,2071 @@
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+NXDOMAIN for nefu.edu.cn
+
+19.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+19.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+19.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+19.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+19.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+19.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+70.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+70.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+70.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+70.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+70.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+70.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+acm.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+acm.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+acm.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+acm.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+acm.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+acm.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+alumni.nefu.edu.cn. 36007 IN A 202.118.223.23
+
+alumni.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+alumni.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+alumni.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+alumni.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+app.nefu.edu.cn. 3600 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+app.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+archives.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+archives.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+archives.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+archives.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+archives.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+archives.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+aulin.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100a.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay1100b.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+NXDOMAIN for bay8010.nefu.edu.cn
+
+bbr.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+bbr.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+bbr.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+bbr.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+bbr.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+bbr.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+bioqueue.nefu.edu.cn. 36007 IN A 202.118.223.23
+
+bioqueue.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+bioqueue.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+bioqueue.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+bioqueue.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+bkjwgl.nefu.edu.cn. 3600 IN A 202.118.223.30
+
+bkjwgl.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+bkjwgl.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+bkjwgl.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+bkjwgl.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+bkjwgl.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+bmlab.nefu.edu.cn. 36008 IN A 202.118.223.50
+
+bszs.nefu.edu.cn. 36009 IN A 202.118.223.23
+
+bwb.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+c.nefu.edu.cn. 36000 IN A 202.118.223.23
+
+c.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+c.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+c.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+c.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+c.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+cailiao.nefu.edu.cn. 36007 IN A 202.118.223.50
+
+cailiao.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cailiao.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cailiao.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cailiao.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cas.nefu.edu.cn. 3600 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas.nefu.edu.cn. 3599 IN A 202.118.223.48
+
+cas2.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+cas3.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+cas3.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cas3.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cas3.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cas3.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cas3.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+NXDOMAIN for cbs.nefu.edu.cn
+
+cem.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+cem.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cem.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cem.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cem.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cem.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cer.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+NXDOMAIN for cernetfr.nefu.edu.cn
+
+cfl.nefu.edu.cn. 38407 IN A 202.118.223.50
+
+cfl.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cfl.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cfl.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cfl.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cfl.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cfm.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+cfm.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cfm.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cfm.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cfm.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+cfm.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+NXDOMAIN for chinanetfr.nefu.edu.cn
+
+chuxin.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+cie.nefu.edu.cn. 36009 IN A 202.118.223.50
+
+civil.nefu.edu.cn. 3144 IN A 202.118.223.50
+
+civil.nefu.edu.cn. 3143 IN A 202.118.223.50
+
+civil.nefu.edu.cn. 3143 IN A 202.118.223.50
+
+civil.nefu.edu.cn. 3143 IN A 202.118.223.50
+
+civil.nefu.edu.cn. 3143 IN A 202.118.223.50
+
+civil.nefu.edu.cn. 3143 IN A 202.118.223.50
+
+cj.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+cj.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cj.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cj.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cj.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cj.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cmee.nefu.edu.cn. 38407 IN A 202.118.223.50
+
+cmee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cmee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cmee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cmee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+cmee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+NXDOMAIN for ns1.nefu.edu.cnautodiscover.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cnchinanetfr.nefu.edu.cn
+
+NXDOMAIN for dwslx.nefu.edu.cncrjy.nefu.edu.cn
+
+NXDOMAIN for autodiscover.nefu.edu.cncwc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cncwc.nefu.edu.cn
+
+NXDOMAIN for ns1.nefu.edu.cngitlab.nefu.edu.cn
+
+NXDOMAIN for gitlab.nefu.edu.cnldfz.nefu.edu.cn
+
+NXDOMAIN for ns2.nefu.edu.cnns3.nefu.edu.cn
+
+NXDOMAIN for help.nefu.edu.cnslgc.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cnvdp02.nefu.edu.cn
+
+NXDOMAIN for dept.nefu.edu.cnzbb.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+NXDOMAIN for crjy.nefu.edu.cn
+
+cwc.nefu.edu.cn. 3600 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwc.nefu.edu.cn. 3599 IN A 202.118.223.60
+
+cwcweb.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+cwcweb.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+cwcweb.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+cwcweb.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+cwcweb.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+cwcweb.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+cwms.nefu.edu.cn. 3600 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+cwms.nefu.edu.cn. 3599 IN A 202.118.208.72
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+NXDOMAIN for cwmsweb.nefu.edu.cn
+
+dept.nefu.edu.cn. 36007 IN A 202.118.223.23
+
+dept.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dept.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dept.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dept.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dlxb.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+dlxb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+dlxb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+dlxb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+dlxb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+NXDOMAIN for dns3.nefu.edu.cn
+
+dwslx.nefu.edu.cn. 36007 IN A 202.118.223.50
+
+dwslx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+dwslx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+dwslx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+dwslx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+dxscyy.nefu.edu.cn. 36007 IN A 202.118.223.23
+
+dxscyy.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dxscyy.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dxscyy.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+dxscyy.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+NXDOMAIN for dzxy.nefu.edu.cn
+
+en.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+en.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+en.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+en.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+en.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+en.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+fdyzj.nefu.edu.cn. 36008 IN A 202.118.223.23
+
+forestry.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+forestry.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+forestry.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+forestry.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+forestry.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+forestry.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+NXDOMAIN for gcjs.nefu.edu.cn
+
+gh.nefu.edu.cn. 36008 IN A 202.118.223.50
+
+gitlab.nefu.edu.cn. 3600 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gitlab.nefu.edu.cn. 3599 IN A 202.118.223.32
+
+gjhzch.nefu.edu.cn. 36000 IN A 202.118.223.23
+
+gjhzch.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gjhzch.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gjhzch.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gjhzch.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gjhzch.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gjs.nefu.edu.cn. 3600 IN A 202.118.223.71
+
+gjs.nefu.edu.cn. 3599 IN A 202.118.223.71
+
+gjs.nefu.edu.cn. 3599 IN A 202.118.223.71
+
+gjs.nefu.edu.cn. 3599 IN A 202.118.223.71
+
+gjs.nefu.edu.cn. 3599 IN A 202.118.223.71
+
+gkzp.nefu.edu.cn. 36000 IN A 202.118.223.23
+
+gkzp.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gkzp.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gkzp.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gkzp.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gkzp.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+gqtzx.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+gqtzx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gqtzx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gqtzx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gqtzx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gqtzx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gra.nefu.edu.cn. 29868 IN A 202.118.223.50
+
+gra.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+gra.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+gra.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+gra.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+gra.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+gram.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+gs.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+gyzc.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+gyzc.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gyzc.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gyzc.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gyzc.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+gyzc.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+help.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+help.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+help.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+help.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+help.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+hljsdc.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+hljsdc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+hljsdc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+hljsdc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+hljsdc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+houqin.nefu.edu.cn. 36006 IN A 202.118.223.50
+
+hxxk.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+hzbx.nefu.edu.cn. 38408 IN A 202.118.223.50
+
+hzxy.nefu.edu.cn. 3600 IN A 202.118.223.53
+
+i.nefu.edu.cn. 3600 IN A 202.118.223.49
+
+i.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+i.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+i.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+i.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+i.nefu.edu.cn. 3599 IN A 202.118.223.49
+
+icec.nefu.edu.cn. 38406 IN A 202.118.223.50
+
+icec.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+icec.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+icec.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+icec.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+icec.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+ico.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+ico.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+ico.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+ico.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+ico.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+ico.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+idp-lib.nefu.edu.cn. 3600 IN A 202.118.223.103
+
+info.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+info.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+inlib.nefu.edu.cn. 3600 IN A 202.118.216.170
+
+inlib.nefu.edu.cn. 3599 IN A 202.118.216.170
+
+inlib.nefu.edu.cn. 3599 IN A 202.118.216.170
+
+inlib.nefu.edu.cn. 3599 IN A 202.118.216.170
+
+inlib.nefu.edu.cn. 3599 IN A 202.118.216.170
+
+ip.nefu.edu.cn. 36000 IN A 202.118.223.224
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+NXDOMAIN for jdxy.nefu.edu.cn
+
+jfr.nefu.edu.cn. 38406 IN A 118.145.16.238
+
+jfr.nefu.edu.cn. 7199 IN A 118.145.16.238
+
+jfr.nefu.edu.cn. 7199 IN A 118.145.16.238
+
+jfr.nefu.edu.cn. 7199 IN A 118.145.16.238
+
+jfr.nefu.edu.cn. 7199 IN A 118.145.16.238
+
+jfr.nefu.edu.cn. 7199 IN A 118.145.16.238
+
+jgb.nefu.edu.cn. 36008 IN A 202.118.223.23
+
+NXDOMAIN for jgzf.nefu.edu.cn
+
+NXDOMAIN for jgzf.nefu.edu.cn
+
+NXDOMAIN for jgzf.nefu.edu.cn
+
+NXDOMAIN for jgzf.nefu.edu.cn
+
+NXDOMAIN for jgzf.nefu.edu.cn
+
+jijin.nefu.edu.cn. 36007 IN A 202.118.223.23
+
+jjs.nefu.edu.cn. 3600 IN A 202.118.223.224
+
+job.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+job.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+job.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+job.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+job.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+job.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+jobhr.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+jobt.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+jtxy.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jtxy.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+jwc.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+jwc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwcnew.nefu.edu.cn. 3600 IN A 202.118.223.30
+
+jwcnew.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+jwcnew.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+jwcnew.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+jwcnew.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+jwcnew.nefu.edu.cn. 3599 IN A 202.118.223.30
+
+jwcweb2.nefu.edu.cn. 38400 IN A 202.118.223.30
+
+jwcweb2.nefu.edu.cn. 7199 IN A 202.118.223.30
+
+jwcweb2.nefu.edu.cn. 7199 IN A 202.118.223.30
+
+jwcweb2.nefu.edu.cn. 7199 IN A 202.118.223.30
+
+jwcweb2.nefu.edu.cn. 7199 IN A 202.118.223.30
+
+jwcxxzx.nefu.edu.cn. 36008 IN A 202.118.223.50
+
+jwcxxzx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwcxxzx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwcxxzx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwcxxzx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jwcxxzx.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+jysx.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+kjy.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+klp.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+klp.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+klp.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+klp.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+klp.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+klp.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+kygzl.nefu.edu.cn. 38400 IN A 202.118.223.232
+
+kygzl.nefu.edu.cn. 7199 IN A 202.118.223.232
+
+kygzl.nefu.edu.cn. 7199 IN A 202.118.223.232
+
+kygzl.nefu.edu.cn. 7199 IN A 202.118.223.232
+
+kygzl.nefu.edu.cn. 7199 IN A 202.118.223.232
+
+kypt.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+kypt.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+kypt.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+kypt.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+kypt.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+kypt.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+NXDOMAIN for labsafe.nefu.edu.cn
+
+NXDOMAIN for labsafe.nefu.edu.cn
+
+NXDOMAIN for labsafe.nefu.edu.cn
+
+NXDOMAIN for labsafe.nefu.edu.cn
+
+NXDOMAIN for labsafe.nefu.edu.cn
+
+larix.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+larix.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+larix.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+larix.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+larix.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+larix.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for lcgy.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+NXDOMAIN for ldfz.nefu.edu.cn
+
+lib.nefu.edu.cn. 38400 IN A 202.118.223.53
+
+lib.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+lib.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+lib.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+lib.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+lib.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+life.nefu.edu.cn. 36006 IN A 202.118.223.50
+
+life.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+life.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+life.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+life.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+life.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+lifeen.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+ls.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+lxgzl.nefu.edu.cn. 36007 IN A 202.118.223.23
+
+lxyz.nefu.edu.cn. 36006 IN A 202.118.223.23
+
+lxyz.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+lxyz.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+lxyz.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+lxyz.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+lxyz.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+mail.nefu.edu.cn. 3600 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+mail.nefu.edu.cn. 3599 IN A 202.118.223.147
+
+map.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+NXDOMAIN for mba.nefu.edu.cn
+
+NXDOMAIN for mba.nefu.edu.cn
+
+NXDOMAIN for mba.nefu.edu.cn
+
+NXDOMAIN for mba.nefu.edu.cn
+
+NXDOMAIN for mba.nefu.edu.cn
+
+mesjxq.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+mesjxq.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+mesjxq.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+mesjxq.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+mesjxq.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+mesjxq.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+mjzx.nefu.edu.cn. 36008 IN A 202.118.223.23
+
+mks.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+mks.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+mks.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+mks.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+mks.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+mks.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+NXDOMAIN for mx.nefu.edu.cn
+
+mx2.nefu.edu.cn. 30 IN A 222.27.239.146
+
+nefu13.nefu.edu.cn. 36009 IN A 202.118.223.23
+
+news.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+news.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+news.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+news.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+news.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+news.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+nic.nefu.edu.cn. 38399 IN A 202.118.223.53
+
+nic.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+nic.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+nic.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+nic.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+nic.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+ns1.nefu.edu.cn. 38400 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns1.nefu.edu.cn. 7199 IN A 202.118.223.1
+
+ns2.nefu.edu.cn. 38400 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns2.nefu.edu.cn. 7199 IN A 202.118.223.2
+
+ns3.nefu.edu.cn. 15382 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+ns3.nefu.edu.cn. 7199 IN A 202.118.223.3
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+NXDOMAIN for ns4.nefu.edu.cn
+
+oa.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+oa.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+oa.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+oa.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+oa.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+oa.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for olib.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+NXDOMAIN for owa.nefu.edu.cn
+
+pan.nefu.edu.cn. 3600 IN A 10.155.110.5
+
+pan.nefu.edu.cn. 3599 IN A 10.155.110.5
+
+pan.nefu.edu.cn. 3599 IN A 10.155.110.5
+
+pan.nefu.edu.cn. 3599 IN A 10.155.110.5
+
+pan.nefu.edu.cn. 3599 IN A 10.155.110.5
+
+pan.nefu.edu.cn. 3599 IN A 10.155.110.5
+
+report.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+rsc.nefu.edu.cn. 36009 IN A 202.118.223.50
+
+rsc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+rsc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+rsc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+rsc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+rsc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+sbgx.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+sbgx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+sbgx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+sbgx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+sbgx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+sbgx.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+science.nefu.edu.cn. 36007 IN A 202.118.223.50
+
+science.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+science.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+science.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+science.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+science.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+NXDOMAIN for sdsf.nefu.edu.cn
+
+NXDOMAIN for sdsf.nefu.edu.cn
+
+NXDOMAIN for sdsf.nefu.edu.cn
+
+NXDOMAIN for sdsf.nefu.edu.cn
+
+NXDOMAIN for sdsf.nefu.edu.cn
+
+sec.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+sengong.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+sengong.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sengong.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sengong.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sengong.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+serv.nefu.edu.cn. 38400 IN A 202.118.223.224
+
+serv.nefu.edu.cn. 7199 IN A 202.118.223.224
+
+serv.nefu.edu.cn. 7199 IN A 202.118.223.224
+
+serv.nefu.edu.cn. 7199 IN A 202.118.223.224
+
+serv.nefu.edu.cn. 7199 IN A 202.118.223.224
+
+serv.nefu.edu.cn. 7199 IN A 202.118.223.224
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+NXDOMAIN for sfxy.nefu.edu.cn
+
+shenjichu.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+shenjichu.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+shenjichu.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+shenjichu.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+shenjichu.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+shenjichu.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+siee.nefu.edu.cn. 36007 IN A 202.118.223.50
+
+siee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+siee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+siee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+siee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+siee.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+sis.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+slgc.nefu.edu.cn. 36009 IN A 202.118.223.23
+
+slgc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+slgc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+slgc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+slgc.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+NXDOMAIN for slzy.nefu.edu.cn
+
+srunself.nefu.edu.cn. 36000 IN A 202.118.223.23
+
+srunself.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+srunself.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+srunself.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+srunself.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+srunself.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+sxzx.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+sxzx.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sxzx.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sxzx.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sxzx.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sxzx.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+sys.nefu.edu.cn. 3600 IN A 202.118.223.23
+sys.nefu.edu.cn. 3600 IN A 10.10.92.133
+
+tblab.nefu.edu.cn. 36006 IN A 202.118.223.50
+
+tblab.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+tblab.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+tblab.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+tblab.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+tblab.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+tel.nefu.edu.cn. 36000 IN A 202.118.223.53
+
+tel.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+tel.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+tel.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+tel.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+tel.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+NXDOMAIN for tmgc.nefu.edu.cn
+
+ttdc.nefu.edu.cn. 38400 IN A 202.118.223.50
+
+ttdc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+ttdc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+ttdc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+ttdc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+ttdc.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+tx2.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+tyb.nefu.edu.cn. 36009 IN A 202.118.223.50
+
+tyg.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+tzb.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+vc5.nefu.edu.cn. 38400 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+vc5.nefu.edu.cn. 7199 IN A 10.10.10.105
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp01.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+NXDOMAIN for vdp02.nefu.edu.cn
+
+vpn.nefu.edu.cn. 38400 IN A 202.118.223.23
+
+vpn.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+vpn.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+vpn.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+vpn.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+vpn.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+vpn01.nefu.edu.cn. 38400 IN A 60.219.211.61
+
+vpn01.nefu.edu.cn. 7199 IN A 60.219.211.61
+
+vpn01.nefu.edu.cn. 7199 IN A 60.219.211.61
+
+vpn01.nefu.edu.cn. 7199 IN A 60.219.211.61
+
+vpn01.nefu.edu.cn. 7199 IN A 60.219.211.61
+
+vpnad.nefu.edu.cn. 38400 IN A 219.217.207.1
+
+vpnad.nefu.edu.cn. 7199 IN A 219.217.207.1
+
+vpnad.nefu.edu.cn. 7199 IN A 219.217.207.1
+
+vpnad.nefu.edu.cn. 7199 IN A 219.217.207.1
+
+vpnad.nefu.edu.cn. 7199 IN A 219.217.207.1
+
+w.nefu.edu.cn. 38407 IN A 202.118.223.23
+
+w.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+w.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+w.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+w.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+w.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+webvpn.nefu.edu.cn. 3600 IN A 60.219.211.17
+
+webvpn.nefu.edu.cn. 3599 IN A 60.219.211.17
+
+webvpn.nefu.edu.cn. 3599 IN A 60.219.211.17
+
+webvpn.nefu.edu.cn. 3599 IN A 60.219.211.17
+
+webvpn.nefu.edu.cn. 3599 IN A 60.219.211.17
+
+wenfa.nefu.edu.cn. 38407 IN A 202.118.223.50
+
+wildlife.nefu.edu.cn. 38406 IN A 202.118.223.50
+
+wildlife.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+wildlife.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+wildlife.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+wildlife.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+wildlife.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6794 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+www.nefu.edu.cn. 6793 IN A 202.118.223.50
+
+NXDOMAIN for www2009.nefu.edu.cn
+
+NXDOMAIN for www2009.nefu.edu.cn
+
+NXDOMAIN for www2009.nefu.edu.cn
+
+NXDOMAIN for www2009.nefu.edu.cn
+
+NXDOMAIN for www2009.nefu.edu.cn
+
+www3.nefu.edu.cn. 36009 IN A 202.118.223.23
+
+xgb.nefu.edu.cn. 36008 IN A 202.118.223.53
+
+xiaoyou.nefu.edu.cn. 3600 IN A 202.118.223.74
+
+xiaoyou.nefu.edu.cn. 3599 IN A 202.118.223.74
+
+xiaoyou.nefu.edu.cn. 3599 IN A 202.118.223.74
+
+xiaoyou.nefu.edu.cn. 3599 IN A 202.118.223.74
+
+xiaoyou.nefu.edu.cn. 3599 IN A 202.118.223.74
+
+xiaoyou.nefu.edu.cn. 3599 IN A 202.118.223.74
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+NXDOMAIN for xjxl.nefu.edu.cn
+
+xlcs.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+xlcs.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+xlcs.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+xlcs.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+xlcs.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+xlcs.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+xszz.nefu.edu.cn. 36008 IN A 202.118.223.23
+
+xxb.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+xxb.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+xxb.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+xxb.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+xxb.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+xxb.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+xxgk.nefu.edu.cn. 38400 IN A 202.118.223.53
+
+xxgk.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+xxgk.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+xxgk.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+xxgk.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+xxgk.nefu.edu.cn. 7199 IN A 202.118.223.53
+
+NXDOMAIN for ycjy.nefu.edu.cn
+
+NXDOMAIN for ycjy.nefu.edu.cn
+
+NXDOMAIN for ycjy.nefu.edu.cn
+
+NXDOMAIN for ycjy.nefu.edu.cn
+
+NXDOMAIN for ycjy.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+NXDOMAIN for yfl.nefu.edu.cn
+
+yjd.nefu.edu.cn. 38407 IN A 202.118.223.50
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for yjsl.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+NXDOMAIN for ylxy.nefu.edu.cn
+
+yuanlin.nefu.edu.cn. 38406 IN A 202.118.223.50
+
+yuanlin.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yuanlin.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yuanlin.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yuanlin.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yuanlin.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yxw.nefu.edu.cn. 36008 IN A 202.118.223.23
+
+yxw.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+yxw.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+yxw.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+yxw.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+yxw.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+yz.nefu.edu.cn. 8140 IN A 202.118.223.50
+
+yz.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yz.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yz.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yz.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+yz.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+zbb.nefu.edu.cn. 3600 IN A 202.118.223.23
+
+zbb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+zbb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+zbb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+zbb.nefu.edu.cn. 3599 IN A 202.118.223.23
+
+zcyhq.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+zhaosheng.nefu.edu.cn. 36009 IN A 202.118.223.50
+
+zhaosheng.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+zhaosheng.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+zhaosheng.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+zhaosheng.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+zhaosheng.nefu.edu.cn. 7199 IN A 202.118.223.50
+
+zhaoshengcx.nefu.edu.cn. 36009 IN A 202.118.223.23
+
+zhaoshengcx.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+zhaoshengcx.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+zhaoshengcx.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+zhaoshengcx.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+zhaoshengcx.nefu.edu.cn. 7199 IN A 202.118.223.23
+
+zspgc.nefu.edu.cn. 3600 IN A 202.118.223.50
+
+zspgc.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+zspgc.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+zspgc.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+zspgc.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+zspgc.nefu.edu.cn. 3599 IN A 202.118.223.50
+
+zzb.nefu.edu.cn. 36007 IN A 202.118.223.23
+

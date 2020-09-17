@@ -1,0 +1,8 @@
+hbb.www.baidu.com. 7065 IN A 61.135.169.125
+hbb.www.baidu.com. 7065 IN A 61.135.169.121
+hbb.www.baidu.com. 7065 IN A 61.135.185.31
+
+hdb.www.baidu.com. 7065 IN A 112.80.248.73
+hdb.www.baidu.com. 7065 IN A 112.80.248.74
+hdb.www.baidu.com. 7065 IN A 112.80.248.76
+

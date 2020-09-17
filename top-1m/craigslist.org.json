@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Last-Modified": "Wed, 16 Sep 2020 09:12:10 GMT",
+            "Cache-Control": "max-age=3600, public",
+            "Set-Cookie": "cl_def_hp=xian; path=/; domain=.craigslist.org; expires=Wed, 01-Jun-2072 18:24:20 GMT",
+            "Date": "Wed, 16 Sep 2020 09:12:10 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Content-Length": "12308",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Server": "Apache",
+            "Expires": "Wed, 16 Sep 2020 10:12:10 GMT",
+            "Strict-Transport-Security": "max-age=86400"
+        },
+        "nslookup": {
+            "craigslist.org": [
+                "208.82.237.129"
+            ],
+            "xian.craigslist.org": [
+                "208.82.238.130"
+            ]
+        },
+        "ping": {
+            "craigslist.org": [
+                "208.82.237.129"
+            ],
+            "xian.craigslist.org": [
+                "208.82.238.226",
+                "208.82.238.18",
+                "208.82.238.130",
+                "208.82.238.242"
+            ]
+        },
+        "CNAME": {
+            "xian.craigslist.org": [
+                "cities.g.craigslist.org."
+            ]
+        },
+        "A": {
+            "xian.craigslist.org": [
+                "208.82.238.130"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Last-Modified": "Wed, 16 Sep 2020 09:12:10 GMT",
+            "Cache-Control": "max-age=3600, public",
+            "Set-Cookie": "cl_def_hp=xian; path=/; domain=.craigslist.org; expires=Wed, 01-Jun-2072 18:24:20 GMT",
+            "Date": "Wed, 16 Sep 2020 09:12:10 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Content-Length": "12308",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Server": "Apache",
+            "Expires": "Wed, 16 Sep 2020 10:12:10 GMT",
+            "Strict-Transport-Security": "max-age=86400"
+        },
+        "nslookup": {
+            "craigslist.org": [
+                "208.82.237.129"
+            ],
+            "xian.craigslist.org": [
+                "208.82.238.146"
+            ]
+        },
+        "ping": {
+            "craigslist.org": [
+                "208.82.237.129"
+            ],
+            "xian.craigslist.org": [
+                "208.82.238.226",
+                "208.82.238.18",
+                "208.82.238.130",
+                "208.82.238.242"
+            ]
+        },
+        "CNAME": {
+            "xian.craigslist.org": [
+                "cities.g.craigslist.org."
+            ]
+        },
+        "A": {
+            "xian.craigslist.org": [
+                "208.82.238.226"
+            ]
+        }
+    }
+}

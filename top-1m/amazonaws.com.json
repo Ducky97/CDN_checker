@@ -1,0 +1,54 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 09:19:07 GMT",
+            "x-amz-rid": "06ZRV74VHKQQ4QSTWWNS",
+            "Set-Cookie": "aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9; Version=1; Comment=\"Anonymous cookie for privacy regulations\"; Domain=.aws.amazon.com; Max-Age=31536000; Expires=Thu, 16-Sep-2021 09:19:07 GMT; Path=/, aws_lang=en; Domain=.amazon.com; Path=/",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Content-Type-Options": "nosniff",
+            "x-amz-id-1": "06ZRV74VHKQQ4QSTWWNS",
+            "Last-Modified": "Tue, 15 Sep 2020 21:36:12 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "accept-encoding,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 e458de70cfe2237c659d4e5f2ae84565.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "DM1kv1XiiHrno9S8TH_y7nijMpxuabyK-V8uNykAj9JmjrTSinbs7g=="
+        },
+        "nslookup": {
+            "amazonaws.com": [
+                "207.171.166.22",
+                "72.21.210.29",
+                "72.21.206.80"
+            ],
+            "aws.amazon.com": [
+                "13.227.231.71"
+            ]
+        },
+        "ping": {
+            "amazonaws.com": [
+                "207.171.166.22",
+                "72.21.210.29",
+                "72.21.206.80"
+            ],
+            "aws.amazon.com": [
+                "13.227.231.71"
+            ]
+        },
+        "CNAME": {
+            "aws.amazon.com": [
+                "tp.8e49140c2-frontier.amazon.com."
+            ]
+        },
+        "A": {
+            "aws.amazon.com": [
+                "13.227.231.71"
+            ]
+        }
+    },
+    "https": null
+}

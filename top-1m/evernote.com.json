@@ -1,0 +1,74 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "web50017PreUserGuid=422cd7e8-88b1-4359-b5d2-82883566599a; Path=/; Domain=evernote.com; Max-Age=31536000; Secure",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Encoding": "gzip",
+            "X-Cloud-Trace-Context": "4ccd96efba7b0f93bbaec93da4061ffb",
+            "Date": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "Server": "Google Frontend",
+            "Cache-Control": "private",
+            "Expires": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "X-App-Server": "corpab-t6lb-haproxy-gsck/be_corpsite_gae/li_corpsite_gae",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Via": "1.1 google",
+            "Alt-Svc": "clear",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "evernote.com": [
+                "35.190.29.187"
+            ]
+        },
+        "ping": {
+            "evernote.com": [
+                "35.190.29.187"
+            ]
+        },
+        "CNAME": {
+            "evernote.com": "still a low_level domain_name"
+        },
+        "A": {
+            "evernote.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "web50017PreUserGuid=fe22dd3e-e5a0-41ba-b855-b7b0fff583ca; Path=/; Domain=evernote.com; Max-Age=31536000; Secure",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Encoding": "gzip",
+            "X-Cloud-Trace-Context": "2c08c50dd35a4e4ec3d9ad1602031733",
+            "Date": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "Server": "Google Frontend",
+            "Cache-Control": "private",
+            "Expires": "Wed, 16 Sep 2020 10:15:08 GMT",
+            "X-App-Server": "corpab-t6lb-haproxy-gsck/be_corpsite_gae/li_corpsite_gae",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Via": "1.1 google",
+            "Alt-Svc": "clear",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "evernote.com": [
+                "35.190.29.187"
+            ]
+        },
+        "ping": {
+            "evernote.com": [
+                "35.190.29.187"
+            ]
+        },
+        "CNAME": {
+            "evernote.com": "still a low_level domain_name"
+        },
+        "A": {
+            "evernote.com": "still a low_level domain_name"
+        }
+    }
+}

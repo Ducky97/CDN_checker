@@ -1,0 +1,575 @@
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+NXDOMAIN for nwu.edu.cn
+
+19th.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+app.nwu.edu.cn. 3600 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+app.nwu.edu.cn. 3599 IN A 111.114.174.253
+
+authserver.nwu.edu.cn. 3600 IN A 111.114.175.2
+
+bdlx.nwu.edu.cn. 3600 IN A 219.245.0.71
+
+biology.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for biology_en.nwu.edu.cn
+
+bwc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+bwcx.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+bwg.nwu.edu.cn. 3600 IN CNAME bwg-nwu-edu-cn.cname.saaswaf.com.
+bwg-nwu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+ccus.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+cetc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+chem.nwu.edu.cn. 3600 IN A 219.245.18.76
+
+chin.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for chy-en.nwu.edu.cn
+
+cmcenter.nwu.edu.cn. 3600 IN CNAME cmcenter-nwu-edu-cn.cname.saaswaf.com.
+cmcenter-nwu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+NXDOMAIN for imgapp.nwu.edu.cngis.nwu.edu.cn
+
+NXDOMAIN for imgapp.nwu.edu.cngis.nwu.edu.cn
+
+NXDOMAIN for www.nwu.edu.cngis.nwu.edu.cn
+
+NXDOMAIN for www.nwu.edu.cngis.nwu.edu.cn
+
+NXDOMAIN for www.nwu.edu.cngis.nwu.edu.cn
+
+NXDOMAIN for imgapp.nwu.edu.cngit.nwu.edu.cn
+
+NXDOMAIN for imgapp.nwu.edu.cngit.nwu.edu.cn
+
+NXDOMAIN for app.nwu.edu.cnmail.nwu.edu.cn
+
+NXDOMAIN for gis.nwu.edu.cnmail.nwu.edu.cn
+
+NXDOMAIN for app.nwu.edu.cnwww.nwu.edu.cn
+
+NXDOMAIN for cps.nwu.edu.cn
+
+css.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+culture.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for culture_en.nwu.edu.cn
+
+cw.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+cwc.nwu.edu.cn. 3600 IN A 219.245.18.57
+
+NXDOMAIN for cwsn.nwu.edu.cn
+
+cxzx.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+dag.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+ems.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for ems-en.nwu.edu.cn
+
+english.nwu.edu.cn. 3600 IN CNAME web.nwu.edu.cn.
+web.nwu.edu.cn. 3599 IN A 219.245.18.240
+
+env.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+finance.nwu.edu.cn. 3600 IN A 219.245.18.57
+
+food.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for fxkx.nwu.edu.cn
+
+fxy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+fz.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+geology.nwu.edu.cn. 3600 IN A 111.114.166.8
+
+NXDOMAIN for gfs.nwu.edu.cn
+
+NXDOMAIN for ggxy-en.nwu.edu.cn
+
+ghc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+ghxk.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+gis.nwu.edu.cn. 3600 IN A 111.114.174.58
+
+gis.nwu.edu.cn. 3599 IN A 111.114.174.58
+
+gis.nwu.edu.cn. 3599 IN A 111.114.174.58
+
+gis.nwu.edu.cn. 3599 IN A 111.114.174.58
+
+gis.nwu.edu.cn. 3599 IN A 111.114.174.58
+
+gis.nwu.edu.cn. 3599 IN A 111.114.174.58
+
+git.nwu.edu.cn. 3600 IN A 219.245.0.129
+
+git.nwu.edu.cn. 3599 IN A 219.245.0.129
+
+git.nwu.edu.cn. 3599 IN A 219.245.0.129
+
+git.nwu.edu.cn. 3599 IN A 219.245.0.129
+
+git.nwu.edu.cn. 3599 IN A 219.245.0.129
+
+git.nwu.edu.cn. 3599 IN A 219.245.0.129
+
+gj.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+gjjy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+gjzx.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+graph.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+gxjd.nwu.edu.cn. 3600 IN A 219.245.18.93
+
+gxyjy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for gzs-en.nwu.edu.cn
+
+NXDOMAIN for gzzs.nwu.edu.cn
+
+hby.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+hfcy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+history.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+hongfan.nwu.edu.cn. 3600 IN CNAME hongfan-nwu-edu-cn.cname.saaswaf.com.
+hongfan-nwu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+hospital.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+hqjt.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+htfsy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for ichmm.nwu.edu.cn
+
+ids.nwu.edu.cn. 3600 IN A 124.114.229.101
+
+ihome.nwu.edu.cn. 3600 IN A 219.245.18.47
+
+imgapp.nwu.edu.cn. 3600 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+imgapp.nwu.edu.cn. 3599 IN A 111.114.174.15
+
+NXDOMAIN for imp.nwu.edu.cn
+
+impnwu.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for ipc.nwu.edu.cn
+
+ippt.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+isrs.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+ist.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jgdw.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jiuye.nwu.edu.cn. 3600 IN CNAME jiuye-nwu-edu-cn.cname.saaswaf.com.
+jiuye-nwu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+jjc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jnwu.nwu.edu.cn. 3600 IN A 219.245.18.15
+
+NXDOMAIN for jonline.nwu.edu.cn
+
+NXDOMAIN for jpkc.nwu.edu.cn
+
+jsjxbs.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jw.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jwc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jwgl.nwu.edu.cn. 3600 IN A 111.114.163.35
+
+NXDOMAIN for jwxt.nwu.edu.cn
+
+jxjyzs.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jxsh.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+jyglxt.nwu.edu.cn. 3600 IN A 219.245.18.62
+
+jyzc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+kjc.nwu.edu.cn. 225 IN A 111.114.174.54
+
+lhsf.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+lib.nwu.edu.cn. 225 IN A 202.117.102.166
+
+live.nwu.edu.cn. 3600 IN A 111.114.174.36
+
+ltxc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+lxyz.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+mail.nwu.edu.cn. 3600 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+mail.nwu.edu.cn. 3599 IN A 202.117.96.98
+
+NXDOMAIN for mainpage.nwu.edu.cn
+
+NXDOMAIN for mainpage2.nwu.edu.cn
+
+math.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+med.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+mks.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+mxy.nwu.edu.cn. 3600 IN A 124.114.229.120
+
+my.nwu.edu.cn. 3600 IN A 111.114.175.2
+
+NXDOMAIN for ncbe.nwu.edu.cn
+
+news.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+nss.nwu.edu.cn. 3600 IN A 202.117.96.24
+
+ntia.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+nwu01.nwu.edu.cn. 3600 IN A 202.117.96.5
+
+nwu02.nwu.edu.cn. 3600 IN A 202.117.96.10
+
+nwuctf.nwu.edu.cn. 3600 IN A 111.114.171.3
+
+NXDOMAIN for nwupage.nwu.edu.cn
+
+nwupress.nwu.edu.cn. 3600 IN A 124.114.229.99
+
+oa.nwu.edu.cn. 3600 IN A 219.245.18.167
+
+office.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+physics.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+pms.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+rcb.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+rsc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+samr.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sccl.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+service.nwu.edu.cn. 3600 IN A 111.114.174.25
+
+sfzxx.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sie.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+skc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sklcd.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sksxjd.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for smg.nwu.edu.cn
+
+sneits.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+soft.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+std.nwu.edu.cn. 3600 IN A 124.114.229.118
+
+smtp.stumail.nwu.edu.cn. 3600 IN CNAME edu.icoremail.net.
+edu.icoremail.net. 179 IN A 59.111.192.150
+
+sxgjxh.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sxip.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sxs.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+sxsz.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for szhxy.nwu.edu.cn
+
+tuanwei.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+tyb.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+tzb.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+web.nwu.edu.cn. 3594 IN A 219.245.18.240
+
+bwc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+ccus.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+cetc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+csjs.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+csjsen.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+cw.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+food.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+fxkxcn.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+fxy.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+gcc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+gg.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+gglen.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+ghc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+ghxkc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+gj.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+gjzxnew.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+hbgb.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+hby.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+hg.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+hospital.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+hq.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+iashs.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+isrs.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+jjc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+jw.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+jxjy.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+jxsh.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+kjc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+kuku.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+lishich.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+lxyz.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+math.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+skcn.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+sksxjd.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+skyen.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+sxszwxh.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+tsgz.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+tyjy.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+tzb.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+wgy.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+whyc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+whycen.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+whyjzx.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+wxy.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xbfzcn.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xdwl.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xdzc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xgh.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xiaoban.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xinwen.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+xxgk.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+yjs.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+zcc.web.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+webvpn.nwu.edu.cn. 3600 IN A 202.117.96.26
+
+westjj.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+whyjzx.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3525 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+www.nwu.edu.cn. 3524 IN A 111.114.174.54
+
+wx.nwu.edu.cn. 3600 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wx.nwu.edu.cn. 3599 IN A 219.245.18.70
+
+wxy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+wyxy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+xdxs.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+xgh.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+xghxxpt.nwu.edu.cn. 3600 IN A 111.114.160.134
+
+xinwen.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+xxgk.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+xzyjy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+ybxggl.nwu.edu.cn. 3600 IN A 111.114.160.130
+
+ybyx.nwu.edu.cn. 3600 IN A 111.114.160.132
+
+yjs.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+yzb.nwu.edu.cn. 3600 IN A 219.245.18.240
+
+zcc.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+zhaopin.nwu.edu.cn. 3600 IN A 111.114.164.2
+
+zhengban.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+zjxy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+NXDOMAIN for zjxy-en.nwu.edu.cn
+
+zsb.nwu.edu.cn. 3600 IN CNAME web.nwu.edu.cn.
+web.nwu.edu.cn. 3590 IN A 219.245.18.240
+
+zxxy.nwu.edu.cn. 3600 IN A 111.114.174.54
+
+zzb.nwu.edu.cn. 3600 IN A 111.114.174.54
+

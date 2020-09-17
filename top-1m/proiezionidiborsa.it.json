@@ -1,0 +1,74 @@
+{
+    "http": {
+        "header": {
+            "Server": "aruba-proxy",
+            "Date": "Wed, 16 Sep 2020 10:39:34 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "X-ServerName": "ipvsproxy159.ad.aruba.it"
+        },
+        "nslookup": {
+            "proiezionidiborsa.it": [
+                "89.46.108.62"
+            ],
+            "www.proiezionidiborsa.it": [
+                "89.46.108.62"
+            ]
+        },
+        "ping": {
+            "proiezionidiborsa.it": [
+                "89.46.108.62"
+            ],
+            "www.proiezionidiborsa.it": [
+                "89.46.108.62"
+            ]
+        },
+        "CNAME": {
+            "www.proiezionidiborsa.it": null
+        },
+        "A": {
+            "www.proiezionidiborsa.it": [
+                "89.46.108.62"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "aruba-proxy",
+            "Date": "Wed, 16 Sep 2020 10:39:39 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "X-ServerName": "ipvsproxy159.ad.aruba.it"
+        },
+        "nslookup": {
+            "proiezionidiborsa.it": [
+                "89.46.108.62"
+            ],
+            "www.proiezionidiborsa.it": [
+                "89.46.108.62"
+            ]
+        },
+        "ping": {
+            "proiezionidiborsa.it": [
+                "89.46.108.62"
+            ],
+            "www.proiezionidiborsa.it": [
+                "89.46.108.62"
+            ]
+        },
+        "CNAME": {
+            "www.proiezionidiborsa.it": null
+        },
+        "A": {
+            "www.proiezionidiborsa.it": [
+                "89.46.108.62"
+            ]
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 11:03:04 GMT",
+            "X-Powered-By": "Next.js",
+            "Set-Cookie": "__vst=f05835b4-8484-47ea-bc5a-9b9a68e74635; Max-Age=630720000; Path=/; Expires=Tue, 11 Sep 2040 11:03:03 GMT, __ssn=f2e304b4-26b8-4a4d-98e7-38cf8bf22264; Path=/, __ssnstarttime=1600254183; Path=/",
+            "ETag": "\"59a8c-iGN/FwjXWmxp7ByixtKXwz+iINY\"",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 101fe44f3abacff135b2a73264d75b1e.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "zzRsY6mXT8K0_KUGDFxdGVX3JRcL2LZGOI4HrO6TSQaFpHKPG7nq0w=="
+        },
+        "nslookup": {
+            "realtor.com": [
+                "206.131.180.21"
+            ],
+            "www.realtor.com": [
+                "13.35.20.109",
+                "13.35.20.124",
+                "13.35.20.76",
+                "13.35.20.8"
+            ]
+        },
+        "ping": {
+            "realtor.com": [
+                "206.131.180.21"
+            ],
+            "www.realtor.com": [
+                "13.35.20.109",
+                "13.35.20.8",
+                "13.35.20.76"
+            ]
+        },
+        "CNAME": {
+            "www.realtor.com": [
+                "rdc-router-prod.rdc.moveaws.com."
+            ]
+        },
+        "A": {
+            "www.realtor.com": [
+                "13.35.20.124",
+                "13.35.20.109",
+                "13.35.20.8",
+                "13.35.20.76"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 11:03:06 GMT",
+            "X-Powered-By": "Next.js",
+            "Set-Cookie": "__vst=4f1db5ad-5177-41a5-be80-2dfb4071b767; Max-Age=630720000; Path=/; Expires=Tue, 11 Sep 2040 11:03:06 GMT, __ssn=85635521-bb55-406b-8d7b-4ae73b79b805; Path=/, __ssnstarttime=1600254186; Path=/",
+            "ETag": "\"59a8c-d4y3PpagpSafQWsC9sNiXQOaUZw\"",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 f2f73edfafc086543441bca742024226.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "nxobCC4rdGOGuI8_tQbRDaE2ocbgtGfV1yJPSX2WWIBD4KwScOFaTA=="
+        },
+        "nslookup": {
+            "realtor.com": [
+                "206.131.180.21"
+            ],
+            "www.realtor.com": [
+                "13.35.20.76",
+                "13.35.20.8",
+                "13.35.20.109",
+                "13.35.20.124"
+            ]
+        },
+        "ping": {
+            "realtor.com": [
+                "206.131.180.21"
+            ],
+            "www.realtor.com": [
+                "13.35.20.124",
+                "13.35.20.109",
+                "13.35.20.8",
+                "13.35.20.76"
+            ]
+        },
+        "CNAME": {
+            "www.realtor.com": [
+                "rdc-router-prod.rdc.moveaws.com."
+            ]
+        },
+        "A": {
+            "www.realtor.com": [
+                "13.35.20.124",
+                "13.35.20.109",
+                "13.35.20.8",
+                "13.35.20.76"
+            ]
+        }
+    }
+}

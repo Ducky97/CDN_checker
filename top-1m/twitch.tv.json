@@ -1,0 +1,97 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Type": "text/html",
+            "Set-Cookie": "unique_id=7ac8a98f8c33770b; expires=Mon, 16 Sep 2030 09:17:47 GMT; domain=.twitch.tv; path=/; secure; samesite=none, unique_id_durable=7ac8a98f8c33770b; expires=Mon, 16 Sep 2030 09:17:47 GMT; domain=.twitch.tv; path=/; secure; samesite=none; httponly, twitch.lohp.countryCode=SG; domain=.twitch.tv; expires=Sat, 14 Sep 2030 09:17:47 GMT;",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "private, max-age=0",
+            "Date": "Wed, 16 Sep 2020 09:17:47 GMT",
+            "Vary": "Accept-Encoding",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "twitch.tv": [
+                "151.101.2.167",
+                "151.101.194.167",
+                "151.101.130.167",
+                "151.101.66.167"
+            ],
+            "www.twitch.tv": [
+                "151.101.10.167"
+            ]
+        },
+        "ping": {
+            "twitch.tv": [
+                "151.101.130.167",
+                "151.101.2.167",
+                "151.101.194.167",
+                "151.101.66.167"
+            ],
+            "www.twitch.tv": [
+                "151.101.10.167"
+            ]
+        },
+        "CNAME": {
+            "www.twitch.tv": [
+                "twitch.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.twitch.tv": [
+                "151.101.10.167"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Type": "text/html",
+            "Set-Cookie": "unique_id=6dee4cbf91f9b38a; expires=Mon, 16 Sep 2030 09:17:47 GMT; domain=.twitch.tv; path=/; secure; samesite=none, unique_id_durable=6dee4cbf91f9b38a; expires=Mon, 16 Sep 2030 09:17:47 GMT; domain=.twitch.tv; path=/; secure; samesite=none; httponly, twitch.lohp.countryCode=SG; domain=.twitch.tv; expires=Sat, 14 Sep 2030 09:17:47 GMT;",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "private, max-age=0",
+            "Date": "Wed, 16 Sep 2020 09:17:47 GMT",
+            "Vary": "Accept-Encoding",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "twitch.tv": [
+                "151.101.194.167",
+                "151.101.2.167",
+                "151.101.130.167",
+                "151.101.66.167"
+            ],
+            "www.twitch.tv": [
+                "151.101.10.167"
+            ]
+        },
+        "ping": {
+            "twitch.tv": [
+                "151.101.2.167",
+                "151.101.194.167",
+                "151.101.66.167"
+            ],
+            "www.twitch.tv": [
+                "151.101.10.167"
+            ]
+        },
+        "CNAME": {
+            "www.twitch.tv": [
+                "twitch.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.twitch.tv": [
+                "151.101.10.167"
+            ]
+        }
+    }
+}

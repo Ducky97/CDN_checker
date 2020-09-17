@@ -1,0 +1,11 @@
+*.nankai.edu.cn
+*.webvpn.nankai.edu.cn
+ask.nankai.edu.cn
+cc.nankai.edu.cn
+ibs.nankai.edu.cn
+idp.nankai.edu.cn
+inankai.nankai.edu.cn
+webvpn.nankai.edu.cn
+www.idp.nankai.edu.cn
+wxdemo.nankai.edu.cn
+wxtest.nankai.edu.cn

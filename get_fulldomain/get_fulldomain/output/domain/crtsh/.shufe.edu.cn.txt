@@ -1,0 +1,10 @@
+*.shufe.edu.cn
+dvr.shufe.edu.cn
+finlab.shufe.edu.cn
+hls.shufe.edu.cn
+idp.shufe.edu.cn
+qiancun.shufe.edu.cn
+view.shufe.edu.cn
+wapp.syzx.shufe.edu.cn
+wechatpay.shufe.edu.cn
+www.shufe.edu.cn

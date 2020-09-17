@@ -1,0 +1,4 @@
+*.dhu.edu.cn
+acm.dhu.edu.cn
+idp.dhu.edu.cn
+portal.scf.dhu.edu.cn

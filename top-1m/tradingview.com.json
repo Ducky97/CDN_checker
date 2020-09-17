@@ -1,0 +1,110 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "tv",
+            "Date": "Wed, 16 Sep 2020 09:23:23 GMT",
+            "Expires": "Wed, 16 Sep 2020 09:25:23 GMT",
+            "Cache-Control": "max-age=120",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding,X-Requested-With,Cookie",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 dc82e67c3cbbf5963a8de3bcf19baccc.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "kjVpndoOdMfK2wEcXB-A4r6mnQjcr-CR-3o-rI2t61u7DijIU6qjlw=="
+        },
+        "nslookup": {
+            "tradingview.com": [
+                "34.215.69.139"
+            ],
+            "www.tradingview.com": [
+                "52.39.9.194"
+            ]
+        },
+        "ping": {
+            "tradingview.com": [
+                "35.160.152.202",
+                "34.215.69.139",
+                "52.39.9.194"
+            ],
+            "www.tradingview.com": [
+                "13.35.20.65",
+                "13.35.20.108",
+                "13.35.20.84",
+                "13.35.20.128"
+            ]
+        },
+        "CNAME": {
+            "www.tradingview.com": [
+                "www-default.tradingview.com."
+            ]
+        },
+        "A": {
+            "www.tradingview.com": [
+                "13.35.20.65",
+                "13.35.20.108",
+                "13.35.20.84",
+                "13.35.20.128"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "tv",
+            "Date": "Wed, 16 Sep 2020 09:23:23 GMT",
+            "Expires": "Wed, 16 Sep 2020 09:25:23 GMT",
+            "Cache-Control": "max-age=120",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding,X-Requested-With,Cookie",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 47f0d09d9d5d7d899c2e467cfbfb08e0.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "I3gDpBdaJ-El_e1QduCQCsfkwK-BCGrSz8jXN2geCRGycPdeyhXKsA==",
+            "Age": "1"
+        },
+        "nslookup": {
+            "tradingview.com": [
+                "52.39.9.194"
+            ],
+            "www.tradingview.com": [
+                "35.160.152.202"
+            ]
+        },
+        "ping": {
+            "tradingview.com": [
+                "35.160.152.202",
+                "34.215.69.139",
+                "52.39.9.194"
+            ],
+            "www.tradingview.com": [
+                "13.35.20.108",
+                "13.35.20.84",
+                "13.35.20.128"
+            ]
+        },
+        "CNAME": {
+            "www.tradingview.com": [
+                "www-default.tradingview.com."
+            ]
+        },
+        "A": {
+            "www.tradingview.com": [
+                "13.35.20.65",
+                "13.35.20.108",
+                "13.35.20.84",
+                "13.35.20.128"
+            ]
+        }
+    }
+}

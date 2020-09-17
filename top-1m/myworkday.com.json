@@ -1,0 +1,54 @@
+{
+    "http": null,
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:35:11 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "25671",
+            "Connection": "keep-alive",
+            "Server": "Apache",
+            "X-Content-Type-Options": "nosniff, nosniff",
+            "X-Drupal-Dynamic-Cache": "HIT",
+            "X-UA-Compatible": "IE=edge",
+            "Content-language": "en",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Drupal-Cache": "HIT",
+            "Cache-Control": "max-age=600",
+            "X-Varnish": "125272401 124159459",
+            "Age": "63",
+            "Via": "1.1 varnish-v4",
+            "X-Varnish-Cache": "HIT",
+            "Accept-Ranges": "bytes"
+        },
+        "nslookup": {
+            "myworkday.com": [
+                "209.177.165.18"
+            ],
+            "community.workday.com": [
+                "52.89.49.111",
+                "35.161.195.247",
+                "44.224.255.87"
+            ]
+        },
+        "ping": {
+            "myworkday.com": [
+                "209.177.165.18"
+            ],
+            "community.workday.com": [
+                "35.161.195.247",
+                "52.89.49.111",
+                "44.224.255.87"
+            ]
+        },
+        "CNAME": {
+            "community.workday.com": null
+        },
+        "A": {
+            "community.workday.com": [
+                "35.161.195.247",
+                "52.89.49.111",
+                "44.224.255.87"
+            ]
+        }
+    }
+}

@@ -1,0 +1,11 @@
+*.cuc.edu.cn
+*.w.cuc.edu.cn
+app.cuc.edu.cn
+ecezhaosheng.cuc.edu.cn
+eip.cuc.edu.cn
+imc.cuc.edu.cn
+mengxiao.cuc.edu.cn
+mximg.cuc.edu.cn
+radius.cuc.edu.cn
+sec.cuc.edu.cn
+w.cuc.edu.cn

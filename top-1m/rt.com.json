@@ -1,0 +1,78 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 11:02:40 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "no-cache,no-store,max-age=0",
+            "X-4vcta": "H10552N",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "nslookup": {
+            "rt.com": [
+                "207.244.80.166",
+                "82.202.190.90",
+                "82.202.190.91"
+            ],
+            "www.rt.com": [
+                "37.48.108.112"
+            ]
+        },
+        "ping": {
+            "rt.com": [
+                "207.244.80.166",
+                "82.202.190.91",
+                "82.202.190.90"
+            ],
+            "www.rt.com": [
+                "37.48.108.112"
+            ]
+        },
+        "CNAME": {
+            "www.rt.com": [
+                "wpc.en.rt.com."
+            ]
+        },
+        "A": {
+            "www.rt.com": [
+                "37.48.108.112"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 11:02:44 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "no-cache,no-store,max-age=0",
+            "X-4vcta": "H26611U2",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "nslookup": {
+            "rt.com": [
+                "82.202.190.91",
+                "207.244.80.166",
+                "82.202.190.90"
+            ]
+        },
+        "ping": {
+            "rt.com": [
+                "207.244.80.166",
+                "82.202.190.91",
+                "82.202.190.90"
+            ]
+        },
+        "CNAME": {
+            "rt.com": "still a low_level domain_name"
+        },
+        "A": {
+            "rt.com": "still a low_level domain_name"
+        }
+    }
+}

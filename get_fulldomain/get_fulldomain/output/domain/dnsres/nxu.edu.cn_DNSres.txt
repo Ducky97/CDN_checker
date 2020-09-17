@@ -1,0 +1,1791 @@
+nxu.edu.cn. 86400 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+nxu.edu.cn. 7199 IN A 202.201.128.2
+
+17czc.nxu.edu.cn. 86400 IN A 202.201.128.164
+
+211.nxu.edu.cn. 86400 IN A 202.201.128.64
+
+211.nxu.edu.cn. 7199 IN A 202.201.128.64
+
+211.nxu.edu.cn. 7199 IN A 202.201.128.64
+
+ajc.nxu.edu.cn. 86400 IN CNAME ajc-nxu-edu-cn.cname.saaswaf.com.
+ajc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+ajc.nxu.edu.cn. 7199 IN CNAME ajc-nxu-edu-cn.cname.saaswaf.com.
+ajc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+ajc.nxu.edu.cn. 7199 IN CNAME ajc-nxu-edu-cn.cname.saaswaf.com.
+ajc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+ajc.nxu.edu.cn. 7199 IN CNAME ajc-nxu-edu-cn.cname.saaswaf.com.
+ajc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+ajc.nxu.edu.cn. 7199 IN CNAME ajc-nxu-edu-cn.cname.saaswaf.com.
+ajc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+ajc.nxu.edu.cn. 7199 IN CNAME ajc-nxu-edu-cn.cname.saaswaf.com.
+ajc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+anri.nxu.edu.cn. 86400 IN CNAME anri-nxu-edu-cn.cname.saaswaf.com.
+anri-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+anri.nxu.edu.cn. 7199 IN CNAME anri-nxu-edu-cn.cname.saaswaf.com.
+anri-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+anri.nxu.edu.cn. 7199 IN CNAME anri-nxu-edu-cn.cname.saaswaf.com.
+anri-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+arabic.nxu.edu.cn. 86400 IN CNAME arabic-nxu-edu-cn.cname.saaswaf.com.
+arabic-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+arabic.nxu.edu.cn. 7199 IN CNAME arabic-nxu-edu-cn.cname.saaswaf.com.
+arabic-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+arabic.nxu.edu.cn. 7199 IN CNAME arabic-nxu-edu-cn.cname.saaswaf.com.
+arabic-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+arabic.nxu.edu.cn. 7199 IN CNAME arabic-nxu-edu-cn.cname.saaswaf.com.
+arabic-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+atc.nxu.edu.cn. 86400 IN A 222.23.196.251
+
+atc.nxu.edu.cn. 7199 IN A 222.23.196.251
+
+atc.nxu.edu.cn. 7199 IN A 222.23.196.251
+
+atc.nxu.edu.cn. 7199 IN A 222.23.196.251
+
+atc.nxu.edu.cn. 7199 IN A 222.23.196.251
+
+bwc.nxu.edu.cn. 86400 IN CNAME bwc-nxu-edu-cn.cname.saaswaf.com.
+bwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+bwc.nxu.edu.cn. 7199 IN CNAME bwc-nxu-edu-cn.cname.saaswaf.com.
+bwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+bwc.nxu.edu.cn. 7199 IN CNAME bwc-nxu-edu-cn.cname.saaswaf.com.
+bwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+bwc.nxu.edu.cn. 7199 IN CNAME bwc-nxu-edu-cn.cname.saaswaf.com.
+bwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+bwcx.nxu.edu.cn. 86400 IN CNAME bwcx-nxu-edu-cn.cname.saaswaf.com.
+bwcx-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+chem.nxu.edu.cn. 86400 IN CNAME chem-nxu-edu-cn.cname.saaswaf.com.
+chem-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+chem.nxu.edu.cn. 7199 IN CNAME chem-nxu-edu-cn.cname.saaswaf.com.
+chem-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+chem.nxu.edu.cn. 7199 IN CNAME chem-nxu-edu-cn.cname.saaswaf.com.
+chem-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+chem.nxu.edu.cn. 7199 IN CNAME chem-nxu-edu-cn.cname.saaswaf.com.
+chem-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+chemyjjxpt.nxu.edu.cn. 86400 IN A 202.201.128.22
+chemyjjxpt.nxu.edu.cn. 86400 IN A 202.201.128.161
+
+chemyjjxpt.nxu.edu.cn. 7199 IN A 202.201.128.161
+chemyjjxpt.nxu.edu.cn. 7199 IN A 202.201.128.22
+
+chemyjjxpt.nxu.edu.cn. 7199 IN A 202.201.128.161
+chemyjjxpt.nxu.edu.cn. 7199 IN A 202.201.128.22
+
+cjxy.nxu.edu.cn. 61855 IN CNAME cjxy-nxu-edu-cn.cname.saaswaf.com.
+cjxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+cjxy.nxu.edu.cn. 7199 IN CNAME cjxy-nxu-edu-cn.cname.saaswaf.com.
+cjxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+cjxy.nxu.edu.cn. 7199 IN CNAME cjxy-nxu-edu-cn.cname.saaswaf.com.
+cjxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+cjxy.nxu.edu.cn. 7199 IN CNAME cjxy-nxu-edu-cn.cname.saaswaf.com.
+cjxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+
+www.email.nxu.edu.cneco.nxu.edu.cn. 0 IN A 220.250.64.225
+
+hzjl.nxu.edu.cnemail.nxu.edu.cn. 0 IN A 220.250.64.225
+
+jwgl.nxu.edu.cnemail.nxu.edu.cn. 0 IN A 220.250.64.225
+
+ids.nxu.edu.cnguangfu.nxu.edu.cn. 0 IN A 220.250.64.225
+
+file.nxu.edu.cntyxy.nxu.edu.cn. 0 IN A 220.250.64.225
+
+hqjt.nxu.edu.cntyxy.nxu.edu.cn. 0 IN A 220.250.64.225
+
+atc.nxu.edu.cnzs.nxu.edu.cn. 0 IN A 220.250.64.225
+
+cxcy.nxu.edu.cn. 86400 IN CNAME cxcy-nxu-edu-cn.cname.saaswaf.com.
+cxcy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+cxcy.nxu.edu.cn. 7199 IN CNAME cxcy-nxu-edu-cn.cname.saaswaf.com.
+cxcy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+cxcy.nxu.edu.cn. 7199 IN CNAME cxcy-nxu-edu-cn.cname.saaswaf.com.
+cxcy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+dangan.nxu.edu.cn. 86400 IN CNAME dangan-nxu-edu-cn.cname.saaswaf.com.
+dangan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+dangan.nxu.edu.cn. 7199 IN CNAME dangan-nxu-edu-cn.cname.saaswaf.com.
+dangan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+dangan.nxu.edu.cn. 7199 IN CNAME dangan-nxu-edu-cn.cname.saaswaf.com.
+dangan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+dns.nxu.edu.cn. 86399 IN A 202.201.128.2
+
+dns.nxu.edu.cn. 7199 IN A 202.201.128.2
+
+dns.nxu.edu.cn. 7199 IN A 202.201.128.2
+
+dns.nxu.edu.cn. 7199 IN A 202.201.128.2
+
+dns.nxu.edu.cn. 7199 IN A 202.201.128.2
+
+dns.nxu.edu.cn. 7199 IN A 202.201.128.2
+
+dwbgs.nxu.edu.cn. 86400 IN CNAME dwbgs-nxu-edu-cn.cname.saaswaf.com.
+dwbgs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+dwbgs.nxu.edu.cn. 7199 IN CNAME dwbgs-nxu-edu-cn.cname.saaswaf.com.
+dwbgs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+dwbgs.nxu.edu.cn. 7199 IN CNAME dwbgs-nxu-edu-cn.cname.saaswaf.com.
+dwbgs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+eco.nxu.edu.cn. 86400 IN CNAME eco-nxu-edu-cn.cname.saaswaf.com.
+eco-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+eco.nxu.edu.cn. 7199 IN CNAME eco-nxu-edu-cn.cname.saaswaf.com.
+eco-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+eip.nxu.edu.cn. 86400 IN A 202.201.128.244
+
+eip.nxu.edu.cn. 7199 IN A 202.201.128.244
+
+eip.nxu.edu.cn. 7199 IN A 202.201.128.244
+
+eip.nxu.edu.cn. 7199 IN A 202.201.128.244
+
+eip.nxu.edu.cn. 7199 IN A 202.201.128.244
+
+eis.nxu.edu.cn. 86400 IN A 202.201.128.109
+
+eis.nxu.edu.cn. 7199 IN A 202.201.128.109
+
+eis.nxu.edu.cn. 7199 IN A 202.201.128.109
+
+eis.nxu.edu.cn. 7199 IN A 202.201.128.109
+
+em.nxu.edu.cn. 86400 IN CNAME em-nxu-edu-cn.cname.saaswaf.com.
+em-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+em.nxu.edu.cn. 7199 IN CNAME em-nxu-edu-cn.cname.saaswaf.com.
+em-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+em.nxu.edu.cn. 7199 IN CNAME em-nxu-edu-cn.cname.saaswaf.com.
+em-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+
+email.nxu.edu.cn. 86400 IN A 202.201.128.227
+email.nxu.edu.cn. 86400 IN A 202.201.128.3
+
+email.nxu.edu.cn. 7199 IN A 202.201.128.3
+email.nxu.edu.cn. 7199 IN A 202.201.128.227
+
+email.nxu.edu.cn. 7199 IN A 202.201.128.3
+email.nxu.edu.cn. 7199 IN A 202.201.128.227
+
+email.nxu.edu.cn. 7199 IN A 202.201.128.3
+email.nxu.edu.cn. 7199 IN A 202.201.128.227
+
+email.nxu.edu.cn. 7199 IN A 202.201.128.3
+email.nxu.edu.cn. 7199 IN A 202.201.128.227
+
+email.nxu.edu.cn. 7199 IN A 202.201.128.3
+email.nxu.edu.cn. 7199 IN A 202.201.128.227
+
+email.nxu.edu.cn. 7199 IN A 202.201.128.3
+email.nxu.edu.cn. 7199 IN A 202.201.128.227
+
+email.nxu.edu.cn<BR>www.email.nxu.edu.cn. 0 IN A 220.250.64.225
+
+email.nxu.edu.cn<BR>www.email.nxu.edu.cn. 60 IN A 220.250.64.225
+
+email.nxu.edu.cn<BR>www.email.nxu.edu.cn. 59 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 0 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 60 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 59 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 59 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 59 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 59 IN A 220.250.64.225
+
+www.email.nxu.edu.cn. 59 IN A 220.250.64.225
+
+env.nxu.edu.cn. 86400 IN CNAME env-nxu-edu-cn.cname.saaswaf.com.
+env-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+env.nxu.edu.cn. 7199 IN CNAME env-nxu-edu-cn.cname.saaswaf.com.
+env-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+env.nxu.edu.cn. 7199 IN CNAME env-nxu-edu-cn.cname.saaswaf.com.
+env-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+env.nxu.edu.cn. 7199 IN CNAME env-nxu-edu-cn.cname.saaswaf.com.
+env-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+farm.nxu.edu.cn. 86400 IN CNAME farm-nxu-edu-cn.cname.saaswaf.com.
+farm-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+farm.nxu.edu.cn. 7199 IN CNAME farm-nxu-edu-cn.cname.saaswaf.com.
+farm-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 58 IN A 121.194.14.84
+
+fengyl.nxu.edu.cn. 86400 IN CNAME fengyl-nxu-edu-cn.cname.saaswaf.com.
+fengyl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+fengyl.nxu.edu.cn. 7199 IN CNAME fengyl-nxu-edu-cn.cname.saaswaf.com.
+fengyl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+fengyl.nxu.edu.cn. 7199 IN CNAME fengyl-nxu-edu-cn.cname.saaswaf.com.
+fengyl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+file.nxu.edu.cn. 86400 IN A 202.201.128.218
+
+file.nxu.edu.cn. 7199 IN A 202.201.128.218
+
+ford.nxu.edu.cn. 0 IN A 220.250.64.225
+
+fwdt.nxu.edu.cn. 86400 IN CNAME fwdt-nxu-edu-cn.cname.saaswaf.com.
+fwdt-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+fwdt.nxu.edu.cn. 7199 IN CNAME fwdt-nxu-edu-cn.cname.saaswaf.com.
+fwdt-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+ghxk.nxu.edu.cn. 86400 IN CNAME ghxk-nxu-edu-cn.cname.saaswaf.com.
+ghxk-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+ghxk.nxu.edu.cn. 7199 IN CNAME ghxk-nxu-edu-cn.cname.saaswaf.com.
+ghxk-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+gjs.nxu.edu.cn. 86400 IN CNAME gjs-nxu-edu-cn.cname.saaswaf.com.
+gjs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+gjs.nxu.edu.cn. 7199 IN CNAME gjs-nxu-edu-cn.cname.saaswaf.com.
+gjs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+gjs.nxu.edu.cn. 7199 IN CNAME gjs-nxu-edu-cn.cname.saaswaf.com.
+gjs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+gonghui.nxu.edu.cn. 86400 IN CNAME gonghui-nxu-edu-cn.cname.saaswaf.com.
+gonghui-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+gonghui.nxu.edu.cn. 7199 IN CNAME gonghui-nxu-edu-cn.cname.saaswaf.com.
+gonghui-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+gonghui.nxu.edu.cn. 7199 IN CNAME gonghui-nxu-edu-cn.cname.saaswaf.com.
+gonghui-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+graduate.nxu.edu.cn. 69788 IN CNAME graduate-nxu-edu-cn.cname.saaswaf.com.
+graduate-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+graduate.nxu.edu.cn. 7199 IN CNAME graduate-nxu-edu-cn.cname.saaswaf.com.
+graduate-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+graduate.nxu.edu.cn. 7199 IN CNAME graduate-nxu-edu-cn.cname.saaswaf.com.
+graduate-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+graduate.nxu.edu.cn. 7199 IN CNAME graduate-nxu-edu-cn.cname.saaswaf.com.
+graduate-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+graduate.nxu.edu.cn. 7199 IN CNAME graduate-nxu-edu-cn.cname.saaswaf.com.
+graduate-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+graduate.nxu.edu.cn. 7199 IN CNAME graduate-nxu-edu-cn.cname.saaswaf.com.
+graduate-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+gspx.nxu.edu.cn. 86400 IN CNAME gspx-nxu-edu-cn.cname.saaswaf.com.
+gspx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+gspx.nxu.edu.cn. 7199 IN CNAME gspx-nxu-edu-cn.cname.saaswaf.com.
+gspx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+gspx.nxu.edu.cn. 7199 IN CNAME gspx-nxu-edu-cn.cname.saaswaf.com.
+gspx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+gspx.nxu.edu.cn. 7199 IN CNAME gspx-nxu-edu-cn.cname.saaswaf.com.
+gspx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+guangfu.nxu.edu.cn. 86400 IN CNAME guangfu-nxu-edu-cn.cname.saaswaf.com.
+guangfu-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+guangfu.nxu.edu.cn. 7199 IN CNAME guangfu-nxu-edu-cn.cname.saaswaf.com.
+guangfu-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+guofang.nxu.edu.cn. 86400 IN CNAME guofang-nxu-edu-cn.cname.saaswaf.com.
+guofang-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+guofang.nxu.edu.cn. 7199 IN CNAME guofang-nxu-edu-cn.cname.saaswaf.com.
+guofang-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+haocai.nxu.edu.cn. 86400 IN A 202.201.128.29
+
+hqjt.nxu.edu.cn. 86400 IN CNAME hqjt-nxu-edu-cn.cname.saaswaf.com.
+hqjt-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+hqjt.nxu.edu.cn. 7199 IN CNAME hqjt-nxu-edu-cn.cname.saaswaf.com.
+hqjt-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+hui.nxu.edu.cn. 86400 IN CNAME hui-nxu-edu-cn.cname.saaswaf.com.
+hui-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+hui.nxu.edu.cn. 7199 IN CNAME hui-nxu-edu-cn.cname.saaswaf.com.
+hui-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+hui.nxu.edu.cn. 7199 IN CNAME hui-nxu-edu-cn.cname.saaswaf.com.
+hui-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+hzjl.nxu.edu.cn. 86400 IN CNAME hzjl-nxu-edu-cn.cname.saaswaf.com.
+hzjl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+hzjl.nxu.edu.cn. 7199 IN CNAME hzjl-nxu-edu-cn.cname.saaswaf.com.
+hzjl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+hzjl.nxu.edu.cn. 7199 IN CNAME hzjl-nxu-edu-cn.cname.saaswaf.com.
+hzjl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+hzjl.nxu.edu.cn. 7199 IN CNAME hzjl-nxu-edu-cn.cname.saaswaf.com.
+hzjl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+hzjl.nxu.edu.cn. 7199 IN CNAME hzjl-nxu-edu-cn.cname.saaswaf.com.
+hzjl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+ids.nxu.edu.cn. 86400 IN A 202.201.128.213
+
+ids.nxu.edu.cn. 7199 IN A 202.201.128.213
+
+jcc.nxu.edu.cn. 13335 IN CNAME jcc-nxu-edu-cn.cname.saaswaf.com.
+jcc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jcc.nxu.edu.cn. 7199 IN CNAME jcc-nxu-edu-cn.cname.saaswaf.com.
+jcc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jcc.nxu.edu.cn. 7199 IN CNAME jcc-nxu-edu-cn.cname.saaswaf.com.
+jcc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jgdw.nxu.edu.cn. 86400 IN CNAME jgdw-nxu-edu-cn.cname.saaswaf.com.
+jgdw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jgdw.nxu.edu.cn. 7199 IN CNAME jgdw-nxu-edu-cn.cname.saaswaf.com.
+jgdw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jgdw.nxu.edu.cn. 7199 IN CNAME jgdw-nxu-edu-cn.cname.saaswaf.com.
+jgdw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjc.nxu.edu.cn. 86400 IN CNAME jjc-nxu-edu-cn.cname.saaswaf.com.
+jjc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+jjc.nxu.edu.cn. 7199 IN CNAME jjc-nxu-edu-cn.cname.saaswaf.com.
+jjc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+jjc.nxu.edu.cn. 7199 IN CNAME jjc-nxu-edu-cn.cname.saaswaf.com.
+jjc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+
+jjh.nxu.edu.cn. 86400 IN CNAME jjh-nxu-edu-cn.cname.saaswaf.com.
+jjh-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjh.nxu.edu.cn. 7199 IN CNAME jjh-nxu-edu-cn.cname.saaswaf.com.
+jjh-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjw.nxu.edu.cn. 86400 IN CNAME jjw-nxu-edu-cn.cname.saaswaf.com.
+jjw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjw.nxu.edu.cn. 7199 IN CNAME jjw-nxu-edu-cn.cname.saaswaf.com.
+jjw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjw.nxu.edu.cn. 7199 IN CNAME jjw-nxu-edu-cn.cname.saaswaf.com.
+jjw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjw.nxu.edu.cn. 7199 IN CNAME jjw-nxu-edu-cn.cname.saaswaf.com.
+jjw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjw.nxu.edu.cn. 7199 IN CNAME jjw-nxu-edu-cn.cname.saaswaf.com.
+jjw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jjw.nxu.edu.cn. 7199 IN CNAME jjw-nxu-edu-cn.cname.saaswaf.com.
+jjw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 56 IN A 121.194.14.84
+
+jpkc.nxu.edu.cn. 86400 IN A 202.201.128.14
+
+jpkc.nxu.edu.cn. 7199 IN A 202.201.128.14
+
+jpkc.nxu.edu.cn. 7199 IN A 202.201.128.14
+
+jpkc.nxu.edu.cn. 7199 IN A 202.201.128.14
+
+jsgzb.nxu.edu.cn. 86400 IN CNAME jsgzb-nxu-edu-cn.cname.saaswaf.com.
+jsgzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+
+jsgzb.nxu.edu.cn. 7199 IN CNAME jsgzb-nxu-edu-cn.cname.saaswaf.com.
+jsgzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+
+jsjx.nxu.edu.cn. 86400 IN CNAME jsjx-nxu-edu-cn.cname.saaswaf.com.
+jsjx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jsjx.nxu.edu.cn. 7199 IN CNAME jsjx-nxu-edu-cn.cname.saaswaf.com.
+jsjx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jsjx.nxu.edu.cn. 7199 IN CNAME jsjx-nxu-edu-cn.cname.saaswaf.com.
+jsjx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jwapp.nxu.edu.cn. 86400 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwapp.nxu.edu.cn. 7199 IN A 202.201.128.231
+
+jwc.nxu.edu.cn. 77154 IN CNAME jwc-nxu-edu-cn.cname.saaswaf.com.
+jwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+jwc.nxu.edu.cn. 7199 IN CNAME jwc-nxu-edu-cn.cname.saaswaf.com.
+jwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+jwc.nxu.edu.cn. 7199 IN CNAME jwc-nxu-edu-cn.cname.saaswaf.com.
+jwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+jwc.nxu.edu.cn. 7199 IN CNAME jwc-nxu-edu-cn.cname.saaswaf.com.
+jwc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 59 IN A 121.194.14.85
+
+jwgl.nxu.edu.cn. 86400 IN A 202.201.128.37
+
+jwgl.nxu.edu.cn. 7199 IN A 202.201.128.37
+
+jwgl.nxu.edu.cn. 7199 IN A 202.201.128.37
+
+jwgl.nxu.edu.cn. 7199 IN A 202.201.128.37
+
+jwgl.nxu.edu.cn. 7199 IN A 202.201.128.37
+
+jxgc.nxu.edu.cn. 86400 IN CNAME jxgc-nxu-edu-cn.cname.saaswaf.com.
+jxgc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jxgc.nxu.edu.cn. 7199 IN CNAME jxgc-nxu-edu-cn.cname.saaswaf.com.
+jxgc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jxgc.nxu.edu.cn. 7199 IN CNAME jxgc-nxu-edu-cn.cname.saaswaf.com.
+jxgc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jyxy.nxu.edu.cn. 86400 IN CNAME jyxy-nxu-edu-cn.cname.saaswaf.com.
+jyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jyxy.nxu.edu.cn. 7199 IN CNAME jyxy-nxu-edu-cn.cname.saaswaf.com.
+jyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jyxy.nxu.edu.cn. 7199 IN CNAME jyxy-nxu-edu-cn.cname.saaswaf.com.
+jyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+jyxy.nxu.edu.cn. 7199 IN CNAME jyxy-nxu-edu-cn.cname.saaswaf.com.
+jyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+kjc.nxu.edu.cn. 86400 IN CNAME kjc-nxu-edu-cn.cname.saaswaf.com.
+kjc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+kjc.nxu.edu.cn. 7199 IN CNAME kjc-nxu-edu-cn.cname.saaswaf.com.
+kjc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+kjc.nxu.edu.cn. 7199 IN CNAME kjc-nxu-edu-cn.cname.saaswaf.com.
+kjc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+www.lib.nxu.edu.cn. 86400 IN A 202.201.136.2
+
+www.lib.nxu.edu.cn. 7199 IN A 202.201.136.2
+
+www.lib.nxu.edu.cn. 7199 IN A 202.201.136.2
+
+www.lib.nxu.edu.cn. 7199 IN A 202.201.136.2
+
+www.lib.nxu.edu.cn. 7199 IN A 202.201.136.2
+
+www.lib.nxu.edu.cn. 7199 IN A 202.201.136.2
+
+ltx.nxu.edu.cn. 56138 IN CNAME ltx-nxu-edu-cn.cname.saaswaf.com.
+ltx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+
+ltx.nxu.edu.cn. 7199 IN CNAME ltx-nxu-edu-cn.cname.saaswaf.com.
+ltx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+
+mbc.nxu.edu.cn. 86400 IN CNAME mbc-nxu-edu-cn.cname.saaswaf.com.
+mbc-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+mbc.nxu.edu.cn. 7199 IN CNAME mbc-nxu-edu-cn.cname.saaswaf.com.
+mbc-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+
+minghe.nxu.edu.cn. 86400 IN CNAME minghe-nxu-edu-cn.cname.saaswaf.com.
+minghe-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 55 IN A 121.194.14.84
+
+mks.nxu.edu.cn. 86400 IN CNAME mks-nxu-edu-cn.cname.saaswaf.com.
+mks-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 54 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 54 IN A 121.194.14.85
+
+mks.nxu.edu.cn. 7199 IN CNAME mks-nxu-edu-cn.cname.saaswaf.com.
+mks-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 54 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 54 IN A 121.194.14.85
+
+mks.nxu.edu.cn. 7199 IN CNAME mks-nxu-edu-cn.cname.saaswaf.com.
+mks-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 54 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 54 IN A 121.194.14.85
+
+mobile.nxu.edu.cn. 86400 IN A 202.201.128.218
+
+mobile.nxu.edu.cn. 7199 IN A 202.201.128.218
+
+mobile.nxu.edu.cn. 7199 IN A 202.201.128.218
+
+mobile.nxu.edu.cn. 7199 IN A 202.201.128.218
+
+msx.nxu.edu.cn. 86400 IN CNAME msx-nxu-edu-cn.cname.saaswaf.com.
+msx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+msx.nxu.edu.cn. 7199 IN CNAME msx-nxu-edu-cn.cname.saaswaf.com.
+msx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+msx.nxu.edu.cn. 7199 IN CNAME msx-nxu-edu-cn.cname.saaswaf.com.
+msx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+msx.nxu.edu.cn. 7199 IN CNAME msx-nxu-edu-cn.cname.saaswaf.com.
+msx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+my.nxu.edu.cn. 86400 IN A 202.201.128.211
+
+my.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+my.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+my.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+my.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+myjx.nxu.edu.cn. 86400 IN A 222.23.225.143
+
+myjx.nxu.edu.cn. 7199 IN A 222.23.225.143
+
+myjx.nxu.edu.cn. 7199 IN A 222.23.225.143
+
+myy.nxu.edu.cn. 86400 IN CNAME myy-nxu-edu-cn.cname.saaswaf.com.
+myy-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+
+myy.nxu.edu.cn. 7199 IN CNAME myy-nxu-edu-cn.cname.saaswaf.com.
+myy-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+
+nac.nxu.edu.cn. 86400 IN CNAME nac-nxu-edu-cn.cname.saaswaf.com.
+nac-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+
+nac.nxu.edu.cn. 7199 IN CNAME nac-nxu-edu-cn.cname.saaswaf.com.
+nac-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+
+nac.nxu.edu.cn. 7199 IN CNAME nac-nxu-edu-cn.cname.saaswaf.com.
+nac-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+
+nac.nxu.edu.cn. 7199 IN CNAME nac-nxu-edu-cn.cname.saaswaf.com.
+nac-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+
+nclwxx.nxu.edu.cn. 0 IN A 220.250.64.225
+
+nddj.nxu.edu.cn. 86400 IN CNAME nddj-nxu-edu-cn.cname.saaswaf.com.
+nddj-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+nddj.nxu.edu.cn. 7199 IN CNAME nddj-nxu-edu-cn.cname.saaswaf.com.
+nddj-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndfz.nxu.edu.cn. 86400 IN CNAME ndfz-nxu-edu-cn.cname.saaswaf.com.
+ndfz-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndfz.nxu.edu.cn. 7199 IN CNAME ndfz-nxu-edu-cn.cname.saaswaf.com.
+ndfz-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndfz.nxu.edu.cn. 7199 IN CNAME ndfz-nxu-edu-cn.cname.saaswaf.com.
+ndfz-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndfz.nxu.edu.cn. 7199 IN CNAME ndfz-nxu-edu-cn.cname.saaswaf.com.
+ndfz-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndgbz.nxu.edu.cn. 86400 IN A 202.201.128.24
+
+ndgbz.nxu.edu.cn. 7199 IN A 202.201.128.24
+
+ndgbz.nxu.edu.cn. 7199 IN A 202.201.128.24
+
+ndgfs.nxu.edu.cn. 86400 IN CNAME ndgfs-nxu-edu-cn.cname.saaswaf.com.
+ndgfs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndgfs.nxu.edu.cn. 7199 IN CNAME ndgfs-nxu-edu-cn.cname.saaswaf.com.
+ndgfs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndgfs.nxu.edu.cn. 7199 IN CNAME ndgfs-nxu-edu-cn.cname.saaswaf.com.
+ndgfs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndgfs.nxu.edu.cn. 7199 IN CNAME ndgfs-nxu-edu-cn.cname.saaswaf.com.
+ndgfs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+ndoa.nxu.edu.cn. 86400 IN A 202.201.128.211
+
+ndoa.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+ndoa.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+ndoa.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+ndoa.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+ndyx.nxu.edu.cn. 86400 IN A 202.201.128.216
+
+ndyx.nxu.edu.cn. 7199 IN A 202.201.128.216
+
+ndzb.nxu.edu.cn. 86400 IN CNAME ndzb-nxu-edu-cn.cname.saaswaf.com.
+ndzb-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+ndzb.nxu.edu.cn. 7199 IN CNAME ndzb-nxu-edu-cn.cname.saaswaf.com.
+ndzb-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+nengyuan.nxu.edu.cn. 86400 IN CNAME nengyuan-nxu-edu-cn.cname.saaswaf.com.
+nengyuan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+nengyuan.nxu.edu.cn. 7199 IN CNAME nengyuan-nxu-edu-cn.cname.saaswaf.com.
+nengyuan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+nengyuan.nxu.edu.cn. 7199 IN CNAME nengyuan-nxu-edu-cn.cname.saaswaf.com.
+nengyuan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+nengyuan.nxu.edu.cn. 7199 IN CNAME nengyuan-nxu-edu-cn.cname.saaswaf.com.
+nengyuan-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+news.nxu.edu.cn. 86400 IN CNAME news-nxu-edu-cn.cname.saaswaf.com.
+news-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+news.nxu.edu.cn. 7199 IN CNAME news-nxu-edu-cn.cname.saaswaf.com.
+news-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+news.nxu.edu.cn. 7199 IN CNAME news-nxu-edu-cn.cname.saaswaf.com.
+news-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+news.nxu.edu.cn. 7199 IN CNAME news-nxu-edu-cn.cname.saaswaf.com.
+news-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 53 IN A 121.194.14.85
+
+njxp.nxu.edu.cn. 86400 IN A 202.201.128.51
+
+njxp.nxu.edu.cn. 7199 IN A 202.201.128.51
+
+njxp.nxu.edu.cn. 7199 IN A 202.201.128.51
+
+nxjxjy.nxu.edu.cn. 86400 IN A 202.201.128.59
+
+nxjxjy.nxu.edu.cn. 7199 IN A 202.201.128.59
+
+nxjxjy.nxu.edu.cn. 7199 IN A 202.201.128.59
+
+nxjxjy.nxu.edu.cn. 7199 IN A 202.201.128.59
+
+nxy.nxu.edu.cn. 67849 IN CNAME nxy-nxu-edu-cn.cname.saaswaf.com.
+nxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+nxy.nxu.edu.cn. 7199 IN CNAME nxy-nxu-edu-cn.cname.saaswaf.com.
+nxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+nxy.nxu.edu.cn. 7199 IN CNAME nxy-nxu-edu-cn.cname.saaswaf.com.
+nxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+nxy.nxu.edu.cn. 7199 IN CNAME nxy-nxu-edu-cn.cname.saaswaf.com.
+nxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+oa.nxu.edu.cn. 86400 IN A 202.201.128.69
+
+oa.nxu.edu.cn. 7199 IN A 202.201.128.69
+
+oa.nxu.edu.cn. 7199 IN A 202.201.128.69
+
+office.nxu.edu.cn. 86400 IN CNAME office-nxu-edu-cn.cname.saaswaf.com.
+office-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+
+office.nxu.edu.cn. 7199 IN CNAME office-nxu-edu-cn.cname.saaswaf.com.
+office-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+
+pay.nxu.edu.cn. 86400 IN A 210.27.203.252
+
+pay.nxu.edu.cn. 7199 IN A 210.27.203.252
+
+pay.nxu.edu.cn. 7199 IN A 210.27.203.252
+
+pay.nxu.edu.cn. 7199 IN A 210.27.203.252
+
+pay.nxu.edu.cn. 7199 IN A 210.27.203.252
+
+phys.nxu.edu.cn. 86400 IN CNAME phys-nxu-edu-cn.cname.saaswaf.com.
+phys-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+phys.nxu.edu.cn. 7199 IN CNAME phys-nxu-edu-cn.cname.saaswaf.com.
+phys-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+phys.nxu.edu.cn. 7199 IN CNAME phys-nxu-edu-cn.cname.saaswaf.com.
+phys-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+pl.nxu.edu.cn. 86400 IN CNAME pl-nxu-edu-cn.cname.saaswaf.com.
+pl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+pl.nxu.edu.cn. 7199 IN CNAME pl-nxu-edu-cn.cname.saaswaf.com.
+pl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+pl.nxu.edu.cn. 7199 IN CNAME pl-nxu-edu-cn.cname.saaswaf.com.
+pl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+putao.nxu.edu.cn. 86400 IN CNAME putao-nxu-edu-cn.cname.saaswaf.com.
+putao-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+
+putao.nxu.edu.cn. 7199 IN CNAME putao-nxu-edu-cn.cname.saaswaf.com.
+putao-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+
+putao.nxu.edu.cn. 7199 IN CNAME putao-nxu-edu-cn.cname.saaswaf.com.
+putao-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+
+qgzx.nxu.edu.cn. 86400 IN A 202.201.128.63
+
+qgzx.nxu.edu.cn. 7199 IN A 202.201.128.63
+
+qgzx.nxu.edu.cn. 7199 IN A 202.201.128.63
+
+rczp.nxu.edu.cn. 86400 IN A 202.201.128.211
+
+rczp.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rczp.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rczp.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rczp.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rczp.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rsc.nxu.edu.cn. 86400 IN CNAME rsc-nxu-edu-cn.cname.saaswaf.com.
+rsc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+rsc.nxu.edu.cn. 7199 IN CNAME rsc-nxu-edu-cn.cname.saaswaf.com.
+rsc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+rsc.nxu.edu.cn. 7199 IN CNAME rsc-nxu-edu-cn.cname.saaswaf.com.
+rsc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 52 IN A 121.194.14.84
+
+rsgl.nxu.edu.cn. 86400 IN A 202.201.128.211
+
+rsgl.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rsgl.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+rwxy.nxu.edu.cn. 86400 IN CNAME rwxy-nxu-edu-cn.cname.saaswaf.com.
+rwxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+rwxy.nxu.edu.cn. 7199 IN CNAME rwxy-nxu-edu-cn.cname.saaswaf.com.
+rwxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+rwxy.nxu.edu.cn. 7199 IN CNAME rwxy-nxu-edu-cn.cname.saaswaf.com.
+rwxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+rwxy.nxu.edu.cn. 7199 IN CNAME rwxy-nxu-edu-cn.cname.saaswaf.com.
+rwxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sflc.nxu.edu.cn. 86400 IN CNAME sflc-nxu-edu-cn.cname.saaswaf.com.
+sflc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+sflc.nxu.edu.cn. 7199 IN CNAME sflc-nxu-edu-cn.cname.saaswaf.com.
+sflc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+sflc.nxu.edu.cn. 7199 IN CNAME sflc-nxu-edu-cn.cname.saaswaf.com.
+sflc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+shc.nxu.edu.cn. 86400 IN CNAME shc-nxu-edu-cn.cname.saaswaf.com.
+shc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+sie.nxu.edu.cn. 86400 IN CNAME sie-nxu-edu-cn.cname.saaswaf.com.
+sie-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sie.nxu.edu.cn. 7199 IN CNAME sie-nxu-edu-cn.cname.saaswaf.com.
+sie-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sie.nxu.edu.cn. 7199 IN CNAME sie-nxu-edu-cn.cname.saaswaf.com.
+sie-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sie.nxu.edu.cn. 7199 IN CNAME sie-nxu-edu-cn.cname.saaswaf.com.
+sie-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sjc.nxu.edu.cn. 600 IN CNAME sjc-nxu-edu-cn.cname.saaswaf.com.
+sjc-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+sls.nxu.edu.cn. 86400 IN CNAME sls-nxu-edu-cn.cname.saaswaf.com.
+sls-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sls.nxu.edu.cn. 7199 IN CNAME sls-nxu-edu-cn.cname.saaswaf.com.
+sls-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sls.nxu.edu.cn. 7199 IN CNAME sls-nxu-edu-cn.cname.saaswaf.com.
+sls-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sls.nxu.edu.cn. 7199 IN CNAME sls-nxu-edu-cn.cname.saaswaf.com.
+sls-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+slslib.nxu.edu.cn. 86400 IN CNAME slslib-nxu-edu-cn.cname.saaswaf.com.
+slslib-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+slslib.nxu.edu.cn. 7199 IN CNAME slslib-nxu-edu-cn.cname.saaswaf.com.
+slslib-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+slslib.nxu.edu.cn. 7199 IN CNAME slslib-nxu-edu-cn.cname.saaswaf.com.
+slslib-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+spxxm.nxu.edu.cn. 86400 IN CNAME spxxm-nxu-edu-cn.cname.saaswaf.com.
+spxxm-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+sxtj.nxu.edu.cn. 86400 IN CNAME sxtj-nxu-edu-cn.cname.saaswaf.com.
+sxtj-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sxtj.nxu.edu.cn. 7199 IN CNAME sxtj-nxu-edu-cn.cname.saaswaf.com.
+sxtj-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+sxtj.nxu.edu.cn. 7199 IN CNAME sxtj-nxu-edu-cn.cname.saaswaf.com.
+sxtj-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+szjy.nxu.edu.cn. 86400 IN CNAME szjy-nxu-edu-cn.cname.saaswaf.com.
+szjy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+
+tmsl.nxu.edu.cn. 86400 IN CNAME tmsl-nxu-edu-cn.cname.saaswaf.com.
+tmsl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+tmsl.nxu.edu.cn. 7199 IN CNAME tmsl-nxu-edu-cn.cname.saaswaf.com.
+tmsl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+tmsl.nxu.edu.cn. 7199 IN CNAME tmsl-nxu-edu-cn.cname.saaswaf.com.
+tmsl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+tmsl.nxu.edu.cn. 7199 IN CNAME tmsl-nxu-edu-cn.cname.saaswaf.com.
+tmsl-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 51 IN A 121.194.14.85
+
+tryw.nxu.edu.cn. 86400 IN CNAME tryw-nxu-edu-cn.cname.saaswaf.com.
+tryw-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+tryw.nxu.edu.cn. 7199 IN CNAME tryw-nxu-edu-cn.cname.saaswaf.com.
+tryw-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+tuanwei.nxu.edu.cn. 86400 IN CNAME tuanwei-nxu-edu-cn.cname.saaswaf.com.
+tuanwei-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+tuanwei.nxu.edu.cn. 7199 IN CNAME tuanwei-nxu-edu-cn.cname.saaswaf.com.
+tuanwei-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+tuanwei.nxu.edu.cn. 7199 IN CNAME tuanwei-nxu-edu-cn.cname.saaswaf.com.
+tuanwei-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+tyxy.nxu.edu.cn. 39671 IN CNAME tyxy-nxu-edu-cn.cname.saaswaf.com.
+tyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+tyxy.nxu.edu.cn. 7199 IN CNAME tyxy-nxu-edu-cn.cname.saaswaf.com.
+tyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+tyxy.nxu.edu.cn. 7199 IN CNAME tyxy-nxu-edu-cn.cname.saaswaf.com.
+tyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+tyxy.nxu.edu.cn. 7199 IN CNAME tyxy-nxu-edu-cn.cname.saaswaf.com.
+tyxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+tzb.nxu.edu.cn. 86400 IN CNAME tzb-nxu-edu-cn.cname.saaswaf.com.
+tzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+tzb.nxu.edu.cn. 7199 IN CNAME tzb-nxu-edu-cn.cname.saaswaf.com.
+tzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+tzb.nxu.edu.cn. 7199 IN CNAME tzb-nxu-edu-cn.cname.saaswaf.com.
+tzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+vpn.nxu.edu.cn. 86400 IN A 222.23.196.190
+
+weixincw.nxu.edu.cn. 86400 IN A 210.27.203.248
+
+weixincw.nxu.edu.cn. 7199 IN A 210.27.203.248
+
+weixincw.nxu.edu.cn. 7199 IN A 210.27.203.248
+
+wine.nxu.edu.cn. 86400 IN CNAME wine-nxu-edu-cn.cname.saaswaf.com.
+wine-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+wine.nxu.edu.cn. 7199 IN CNAME wine-nxu-edu-cn.cname.saaswaf.com.
+wine-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+wine.nxu.edu.cn. 7199 IN CNAME wine-nxu-edu-cn.cname.saaswaf.com.
+wine-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+
+wljx.nxu.edu.cn. 86400 IN A 202.201.128.248
+
+wljx.nxu.edu.cn. 7199 IN A 202.201.128.248
+
+www.nxu.edu.cn. 86400 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+www.nxu.edu.cn. 7199 IN CNAME www-nxu-edu-cn.cname.saaswaf.com.
+www-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME nxu-edu-cn.cname.saaswaf.com.
+nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME nxu-edu-cn.cname.dbappwaf.cn.
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.85
+nxu-edu-cn.cname.dbappwaf.cn. 59 IN A 121.194.14.84
+
+xbfzyjzx.nxu.edu.cn. 86400 IN CNAME xbfzyjzx-nxu-edu-cn.cname.saaswaf.com.
+xbfzyjzx-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+xbfzyjzx.nxu.edu.cn. 7199 IN CNAME xbfzyjzx-nxu-edu-cn.cname.saaswaf.com.
+xbfzyjzx-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+xbyjzx.nxu.edu.cn. 86400 IN CNAME xbyjzx-nxu-edu-cn.cname.saaswaf.com.
+xbyjzx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+xbyjzx.nxu.edu.cn. 7199 IN CNAME xbyjzx-nxu-edu-cn.cname.saaswaf.com.
+xbyjzx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+xcb.nxu.edu.cn. 86400 IN CNAME xcb-nxu-edu-cn.cname.saaswaf.com.
+xcb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+xcb.nxu.edu.cn. 7199 IN CNAME xcb-nxu-edu-cn.cname.saaswaf.com.
+xcb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 50 IN A 121.194.14.84
+
+xinhua.nxu.edu.cn. 86400 IN A 222.23.216.237
+
+xinhua.nxu.edu.cn. 7199 IN A 222.23.216.237
+
+xinhua.nxu.edu.cn. 7199 IN A 222.23.216.237
+
+xinhua.nxu.edu.cn. 7199 IN A 222.23.216.237
+
+xinhua.nxu.edu.cn. 7199 IN A 222.23.216.237
+
+xinhua.nxu.edu.cn. 7199 IN A 222.23.216.237
+
+xixia.nxu.edu.cn. 86400 IN CNAME xixia-nxu-edu-cn.cname.saaswaf.com.
+xixia-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xixia.nxu.edu.cn. 7199 IN CNAME xixia-nxu-edu-cn.cname.saaswaf.com.
+xixia-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xixia.nxu.edu.cn. 7199 IN CNAME xixia-nxu-edu-cn.cname.saaswaf.com.
+xixia-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xixia.nxu.edu.cn. 7199 IN CNAME xixia-nxu-edu-cn.cname.saaswaf.com.
+xixia-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xjszx.nxu.edu.cn. 86400 IN CNAME xjszx-nxu-edu-cn.cname.saaswaf.com.
+xjszx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xjszx.nxu.edu.cn. 7199 IN CNAME xjszx-nxu-edu-cn.cname.saaswaf.com.
+xjszx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xjszx.nxu.edu.cn. 7199 IN CNAME xjszx-nxu-edu-cn.cname.saaswaf.com.
+xjszx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xjszx.nxu.edu.cn. 7199 IN CNAME xjszx-nxu-edu-cn.cname.saaswaf.com.
+xjszx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xl.nxu.edu.cn. 86400 IN A 202.201.128.31
+
+xl.nxu.edu.cn. 7199 IN A 202.201.128.31
+
+xl.nxu.edu.cn. 7199 IN A 202.201.128.31
+
+xsc.nxu.edu.cn. 86400 IN CNAME xsc-nxu-edu-cn.cname.saaswaf.com.
+xsc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xsc.nxu.edu.cn. 7199 IN CNAME xsc-nxu-edu-cn.cname.saaswaf.com.
+xsc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xsc.nxu.edu.cn. 7199 IN CNAME xsc-nxu-edu-cn.cname.saaswaf.com.
+xsc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xuegong.nxu.edu.cn. 86400 IN A 202.201.128.28
+
+xuegong.nxu.edu.cn. 7199 IN A 202.201.128.28
+
+xuegong.nxu.edu.cn. 7199 IN A 202.201.128.28
+
+xwcbxy.nxu.edu.cn. 86400 IN CNAME xwcbxy-nxu-edu-cn.cname.saaswaf.com.
+xwcbxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xwcbxy.nxu.edu.cn. 7199 IN CNAME xwcbxy-nxu-edu-cn.cname.saaswaf.com.
+xwcbxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xwcbxy.nxu.edu.cn. 7199 IN CNAME xwcbxy-nxu-edu-cn.cname.saaswaf.com.
+xwcbxy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xxgc.nxu.edu.cn. 86400 IN CNAME xxgc-nxu-edu-cn.cname.saaswaf.com.
+xxgc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xxgc.nxu.edu.cn. 7199 IN CNAME xxgc-nxu-edu-cn.cname.saaswaf.com.
+xxgc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xxgc.nxu.edu.cn. 7199 IN CNAME xxgc-nxu-edu-cn.cname.saaswaf.com.
+xxgc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+
+xy.nxu.edu.cn. 86400 IN CNAME xy-nxu-edu-cn.cname.saaswaf.com.
+xy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+
+xy.nxu.edu.cn. 7199 IN CNAME xy-nxu-edu-cn.cname.saaswaf.com.
+xy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+
+xy.nxu.edu.cn. 7199 IN CNAME xy-nxu-edu-cn.cname.saaswaf.com.
+xy-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 86400 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yingxin.nxu.edu.cn. 7199 IN CNAME yingxin-nxu-edu-cn.cname.saaswaf.com.
+yingxin-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 49 IN A 121.194.14.84
+
+yjs.nxu.edu.cn. 86400 IN A 202.201.128.211
+
+yjs.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+yjs.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+yjs.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+yjszs.nxu.edu.cn. 86400 IN A 202.201.128.225
+
+yjszs.nxu.edu.cn. 7199 IN A 202.201.128.225
+
+yjszs.nxu.edu.cn. 7199 IN A 202.201.128.225
+
+ykb.nxu.edu.cn. 86400 IN CNAME ykb-nxu-edu-cn.cname.saaswaf.com.
+ykb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+ykb.nxu.edu.cn. 7199 IN CNAME ykb-nxu-edu-cn.cname.saaswaf.com.
+ykb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+ykb.nxu.edu.cn. 7199 IN CNAME ykb-nxu-edu-cn.cname.saaswaf.com.
+ykb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+yqzt.nxu.edu.cn. 600 IN CNAME yqzt-nxu-edu-cn.cname.saaswaf.com.
+yqzt-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+
+yyx.nxu.edu.cn. 86400 IN CNAME yyx-nxu-edu-cn.cname.saaswaf.com.
+yyx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+yyx.nxu.edu.cn. 7199 IN CNAME yyx-nxu-edu-cn.cname.saaswaf.com.
+yyx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+yyx.nxu.edu.cn. 7199 IN CNAME yyx-nxu-edu-cn.cname.saaswaf.com.
+yyx-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+zcc.nxu.edu.cn. 86400 IN CNAME zcc-nxu-edu-cn.cname.saaswaf.com.
+zcc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+zcc.nxu.edu.cn. 7199 IN CNAME zcc-nxu-edu-cn.cname.saaswaf.com.
+zcc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+zcc.nxu.edu.cn. 7199 IN CNAME zcc-nxu-edu-cn.cname.saaswaf.com.
+zcc-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 48 IN A 121.194.14.85
+
+zhfw.nxu.edu.cn. 86400 IN A 202.201.128.211
+
+zhfw.nxu.edu.cn. 7199 IN A 202.201.128.211
+
+zrs.nxu.edu.cn. 86400 IN CNAME zrs-nxu-edu-cn.cname.saaswaf.com.
+zrs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+zrs.nxu.edu.cn. 7199 IN CNAME zrs-nxu-edu-cn.cname.saaswaf.com.
+zrs-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+zs.nxu.edu.cn. 86400 IN CNAME zs-nxu-edu-cn.cname.saaswaf.com.
+zs-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.85
+
+zs.nxu.edu.cn. 7199 IN CNAME zs-nxu-edu-cn.cname.saaswaf.com.
+zs-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.85
+
+zs.nxu.edu.cn. 7199 IN CNAME zs-nxu-edu-cn.cname.saaswaf.com.
+zs-nxu-edu-cn.cname.saaswaf.com. 599 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.85
+
+zsdw.nxu.edu.cn. 86400 IN CNAME zsdw-nxu-edu-cn.cname.saaswaf.com.
+zsdw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.84
+
+zsdw.nxu.edu.cn. 7199 IN CNAME zsdw-nxu-edu-cn.cname.saaswaf.com.
+zsdw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.84
+
+zsdw.nxu.edu.cn. 7199 IN CNAME zsdw-nxu-edu-cn.cname.saaswaf.com.
+zsdw-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 47 IN A 121.194.14.84
+
+zwxq.nxu.edu.cn. 86400 IN CNAME zwxq-nxu-edu-cn.cname.saaswaf.com.
+zwxq-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+zwxq.nxu.edu.cn. 7199 IN CNAME zwxq-nxu-edu-cn.cname.saaswaf.com.
+zwxq-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+
+zwxqbb.nxu.edu.cn. 86400 IN A 202.201.128.172
+
+zwxqbb.nxu.edu.cn. 7199 IN A 202.201.128.172
+
+zwxqbb.nxu.edu.cn. 7199 IN A 202.201.128.172
+
+zwxqbb.nxu.edu.cn. 7199 IN A 202.201.128.172
+
+zzb.nxu.edu.cn. 69598 IN CNAME zzb-nxu-edu-cn.cname.saaswaf.com.
+zzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+zzb.nxu.edu.cn. 7199 IN CNAME zzb-nxu-edu-cn.cname.saaswaf.com.
+zzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+
+zzb.nxu.edu.cn. 7199 IN CNAME zzb-nxu-edu-cn.cname.saaswaf.com.
+zzb-nxu-edu-cn.cname.saaswaf.com. 59 IN CNAME snedu.coop-node.51websec.com.
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.84
+snedu.coop-node.51websec.com. 57 IN A 121.194.14.85
+

@@ -1,0 +1,16 @@
+*.xidian.edu.cn
+api.ee.xidian.edu.cn
+cse.xidian.edu.cn
+ctf.xidian.edu.cn
+ids.xidian.edu.cn
+isnskl.xidian.edu.cn
+labxcx.xidian.edu.cn
+linux.xidian.edu.cn
+msscstc.xidian.edu.cn
+mssctf.xidian.edu.cn
+ncs.xidian.edu.cn
+qcall.xidian.edu.cn
+search.xidian.edu.cn
+webapi.xidian.edu.cn
+webmail.xidian.edu.cn
+zbx.ee.xidian.edu.cn

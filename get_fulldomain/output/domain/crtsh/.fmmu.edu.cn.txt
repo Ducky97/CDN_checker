@@ -1,0 +1,3 @@
+*.fmmu.edu.cn
+mail.fmmu.edu.cn
+wxfw.fmmu.edu.cn

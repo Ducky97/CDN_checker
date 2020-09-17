@@ -1,0 +1,108 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 10:38:26 GMT",
+            "x-amz-rid": "61Y9E6CRX8TX5Y5VVEGX",
+            "Set-Cookie": "session-id=257-6149049-9222055; Domain=.amazon.fr; Expires=Thu, 16-Sep-2021 10:38:26 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.fr; Expires=Thu, 16-Sep-2021 10:38:26 GMT; Path=/, i18n-prefs=EUR; Domain=.amazon.fr; Expires=Thu, 16-Sep-2021 10:38:26 GMT; Path=/",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Language": "fr-FR",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 f89fcc37b128414167e80016d2f77973.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "5P-I8Ec-Up7hwv-4F9Z3tZCJ0EkvacVZKqnZ0oduAr_E9dU1nFJkZQ=="
+        },
+        "nslookup": {
+            "amazon.fr": [
+                "52.95.116.113",
+                "52.95.120.39",
+                "54.239.33.91"
+            ],
+            "www.amazon.fr": [
+                "173.222.146.51"
+            ]
+        },
+        "ping": {
+            "amazon.fr": [
+                "52.95.116.113",
+                "54.239.33.91",
+                "52.95.120.39"
+            ],
+            "www.amazon.fr": [
+                "13.225.6.162",
+                "173.222.146.51"
+            ]
+        },
+        "CNAME": {
+            "www.amazon.fr": [
+                "tp.f0c2e5164-frontier.amazon.fr."
+            ]
+        },
+        "A": {
+            "www.amazon.fr": [
+                "13.225.6.162"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Length": "2347",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 10:38:29 GMT",
+            "x-amz-rid": "8PAB73J4XPN88C38KMRR",
+            "Vary": "Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 61cb5f44fd6bd171993a4c81d63d8cd5.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "jowkrwkzTyXwAIwpoR5U67nf1ShdjImHqwys71EzjuJjYgCUlsoAdA=="
+        },
+        "nslookup": {
+            "amazon.fr": [
+                "54.239.33.91",
+                "52.95.116.113",
+                "52.95.120.39"
+            ],
+            "www.amazon.fr": [
+                "173.222.146.51"
+            ]
+        },
+        "ping": {
+            "amazon.fr": [
+                "52.95.116.113",
+                "52.95.120.39",
+                "54.239.33.91"
+            ],
+            "www.amazon.fr": [
+                "13.225.6.162",
+                "173.222.146.51"
+            ]
+        },
+        "CNAME": {
+            "www.amazon.fr": [
+                "tp.f0c2e5164-frontier.amazon.fr."
+            ]
+        },
+        "A": {
+            "www.amazon.fr": [
+                "13.225.6.162"
+            ]
+        }
+    }
+}

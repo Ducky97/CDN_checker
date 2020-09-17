@@ -1,0 +1,64 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 03:34:16 GMT",
+            "Server": "Apache",
+            "X-Powered-By": "PHP/5.6.30",
+            "Upgrade": "h2",
+            "Connection": "Upgrade, close",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "8596",
+            "Content-Type": "text/html; charset=utf-8"
+        },
+        "nslookup": {
+            "chuangye.sjtu.edu.cn": [
+                "111.186.56.135"
+            ]
+        },
+        "ping": {
+            "chuangye.sjtu.edu.cn": [
+                "111.186.56.135"
+            ]
+        },
+        "CNAME": {
+            "chuangye.sjtu.edu.cn": null
+        },
+        "A": {
+            "chuangye.sjtu.edu.cn": [
+                "111.186.56.135"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 03:34:18 GMT",
+            "Server": "Apache",
+            "X-Powered-By": "PHP/5.6.30",
+            "Upgrade": "h2",
+            "Connection": "Upgrade, close",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "8631",
+            "Content-Type": "text/html; charset=utf-8"
+        },
+        "nslookup": {
+            "chuangye.sjtu.edu.cn": [
+                "111.186.56.135"
+            ]
+        },
+        "ping": {
+            "chuangye.sjtu.edu.cn": [
+                "111.186.56.135"
+            ]
+        },
+        "CNAME": {
+            "chuangye.sjtu.edu.cn": null
+        },
+        "A": {
+            "chuangye.sjtu.edu.cn": [
+                "111.186.56.135"
+            ]
+        }
+    }
+}

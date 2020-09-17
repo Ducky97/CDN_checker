@@ -1,0 +1,110 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Vary": "Accept-Encoding",
+            "P3P": "CP=\"CAO PSA OUR\"",
+            "X-Application-Context": "ae-buyer-homepage-f:prod:7001",
+            "yakult_utab": "aliabtest54309_32254",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-Frame-Options": "DENY",
+            "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains, max-age=31536000",
+            "Content-Language": "en-US",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "https://hz.aliexpress.com",
+            "Server": "Tengine/Aserver",
+            "EagleEye-TraceId": "0bb0622e16002478736221325ec57c",
+            "Timing-Allow-Origin": "*",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Date": "Wed, 16 Sep 2020 09:17:53 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Set-Cookie": "xman_us_f=x_locale=en_US&x_l=0&x_c_chg=1&x_as_i=%7B%22aeuCID%22%3A%22%22%2C%22cookieCacheEffectTime%22%3A1600248173635%2C%22isCookieCache%22%3A%22Y%22%2C%22ms%22%3A%220%22%7D&acs_rt=9012293fc2eb4c9b8fb5c64f4d8eee4c; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:00 GMT; Path=/; Secure; SameSite=None, acs_usuc_t=x_csrf=fhp5em4dj092&acs_rt=9012293fc2eb4c9b8fb5c64f4d8eee4c; Domain=.aliexpress.com; Path=/; Secure; SameSite=None, intl_locale=en_US; Domain=.aliexpress.com; Path=/, aep_usuc_f=site=glo&c_tp=USD&region=HK&b_locale=en_US; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:00 GMT; Path=/; Secure; SameSite=None, xman_t=8FgeioCYkwnV6bhhdcFW12Fwyve0e2I7smIoJfd8CJdRmVkfb2gUeVc64VB8kJoM; Domain=.aliexpress.com; Path=/; Secure; SameSite=None; HttpOnly, intl_common_forever=men21I2GoHEU9LQmZftLymg+pAfXjPK+DeYOQpbiJA3uXZKzYrhytA==; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:00 GMT; Path=/; HttpOnly, xman_f=2watKJCzFKerlOMBRCKAUxlcocMaKLB+yIg1pnL9eKv5ky/gL3D0rGfneuH7v2n0JuYPVBHmuZJki/1W/6CHnZ/blOJAHTaJK2qAOALekxfxHUgt0u9P5Q==; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:00 GMT; Path=/; Secure; SameSite=None; HttpOnly, JSESSIONID=E46106BA8E2E8A9F7F30BA40C9C65C7F; Path=/; HttpOnly",
+            "Server-Timing": "cdn-cache; desc=MISS, edge; dur=236, origin; dur=70"
+        },
+        "nslookup": {
+            "aliexpress.com": [
+                "198.11.132.250"
+            ],
+            "www.aliexpress.com": [
+                "23.50.92.45"
+            ]
+        },
+        "ping": {
+            "aliexpress.com": [
+                "198.11.132.250"
+            ],
+            "www.aliexpress.com": [
+                "23.50.92.45"
+            ]
+        },
+        "CNAME": {
+            "www.aliexpress.com": [
+                "global.aliexpress.com."
+            ]
+        },
+        "A": {
+            "www.aliexpress.com": [
+                "23.50.92.45"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Vary": "Accept-Encoding",
+            "P3P": "CP=\"CAO PSA OUR\"",
+            "X-Application-Context": "ae-buyer-homepage-f:prod:7001",
+            "yakult_utab": "aliabtest54309_32254",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "0",
+            "X-Frame-Options": "DENY",
+            "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains, max-age=31536000",
+            "Content-Language": "en-US",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "https://hz.aliexpress.com",
+            "Server": "Tengine/Aserver",
+            "EagleEye-TraceId": "0bb0622c16002478747143707e23d0",
+            "Timing-Allow-Origin": "*",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Date": "Wed, 16 Sep 2020 09:17:54 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Set-Cookie": "xman_us_f=x_locale=en_US&x_l=0&x_c_chg=1&x_as_i=%7B%22aeuCID%22%3A%22%22%2C%22cookieCacheEffectTime%22%3A1600248174732%2C%22isCookieCache%22%3A%22Y%22%2C%22ms%22%3A%220%22%7D&acs_rt=3979554a076b438aad20e5a4ae440f95; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:01 GMT; Path=/; Secure; SameSite=None, acs_usuc_t=x_csrf=v5it9otnzfyc&acs_rt=3979554a076b438aad20e5a4ae440f95; Domain=.aliexpress.com; Path=/; Secure; SameSite=None, intl_locale=en_US; Domain=.aliexpress.com; Path=/, aep_usuc_f=site=glo&c_tp=USD&region=HK&b_locale=en_US; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:01 GMT; Path=/; Secure; SameSite=None, xman_t=gOrPJUvOFpe473moQ1RZx/HsocbAQXYZvkU4vqBzPJSZLlLDQv0dXEDL///zVds8; Domain=.aliexpress.com; Path=/; Secure; SameSite=None; HttpOnly, intl_common_forever=9rQen9aXbHMxLVTGiS2qHnZXG9LhNgOeWexaEPJeJ94KUbqErvhZvw==; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:01 GMT; Path=/; HttpOnly, xman_f=6MNLtR720E5OhwxojN2ai3vaH/M7FBfoGupN/gkgmnmJ7bAVG1bJiQsTSV6AXyWtrmfg3LVUZ6QyMfrWMXyelp5tyDHSosqOqBPST/QvKYKaTE+hsve62Q==; Domain=.aliexpress.com; Expires=Mon, 04-Oct-2088 12:32:01 GMT; Path=/; Secure; SameSite=None; HttpOnly, JSESSIONID=D108900BC2D9D25964B9DF7F7B13FCB1; Path=/; HttpOnly",
+            "Server-Timing": "cdn-cache; desc=MISS, edge; dur=236, origin; dur=156"
+        },
+        "nslookup": {
+            "aliexpress.com": [
+                "198.11.132.250"
+            ],
+            "www.aliexpress.com": [
+                "23.50.92.45"
+            ]
+        },
+        "ping": {
+            "aliexpress.com": [
+                "198.11.132.250"
+            ],
+            "www.aliexpress.com": [
+                "23.50.92.45"
+            ]
+        },
+        "CNAME": {
+            "www.aliexpress.com": [
+                "global.aliexpress.com."
+            ]
+        },
+        "A": {
+            "www.aliexpress.com": [
+                "23.50.92.45"
+            ]
+        }
+    }
+}

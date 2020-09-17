@@ -1,0 +1,91 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.14.1",
+            "Date": "Wed, 16 Sep 2020 09:18:37 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "act=18c32c4a1cd64895be899d2d43251f8c; path=/; domain=.mail.ru; Secure; HttpOnly, mrcu=30985F61D86D66EE80BCE84DF12F; expires=Sat, 14 Sep 2030 09:18:37 GMT; path=/; domain=.mail.ru; Secure; HttpOnly",
+            "Cache-Control": "no-cache,no-store,must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "Tue, 17 Sep 2019 09:18:37 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 12:18:37 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block; report=https://cspreport.mail.ru/xxssprotection",
+            "X-Content-Type-Options": "nosniff",
+            "X-Host": "lf67.m.smailru.net",
+            "X-ETime": "0.156",
+            "Content-Security-Policy-Report-Only": "default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coubsecure-s.akamaihd.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net; report-uri https://cspreport.mail.ru/splash?v=10.08.20;",
+            "Content-Security-Policy": "default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coubsecure-s.akamaihd.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net; report-uri https://cspreport.mail.ru/splash?v=10.08.20;",
+            "Strict-Transport-Security": "max-age=16070400",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "mail.ru": [
+                "94.100.180.201",
+                "94.100.180.200",
+                "217.69.139.202",
+                "217.69.139.200"
+            ]
+        },
+        "ping": {
+            "mail.ru": [
+                "94.100.180.200",
+                "217.69.139.200",
+                "217.69.139.202"
+            ]
+        },
+        "CNAME": {
+            "mail.ru": "still a low_level domain_name"
+        },
+        "A": {
+            "mail.ru": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.14.1",
+            "Date": "Wed, 16 Sep 2020 09:18:38 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "act=a11fc8e79f6b43498f2bbe23c8007f3c; path=/; domain=.mail.ru; Secure; HttpOnly, mrcu=E9F75F61D86E457A55EEE84DF12F; expires=Sat, 14 Sep 2030 09:18:38 GMT; path=/; domain=.mail.ru; Secure; HttpOnly",
+            "Cache-Control": "no-cache,no-store,must-revalidate",
+            "Pragma": "no-cache",
+            "Expires": "Tue, 17 Sep 2019 09:18:38 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 12:18:38 GMT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block; report=https://cspreport.mail.ru/xxssprotection",
+            "X-Content-Type-Options": "nosniff",
+            "X-Host": "lf84.m.smailru.net",
+            "X-ETime": "0.045",
+            "Content-Security-Policy-Report-Only": "default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coubsecure-s.akamaihd.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net; report-uri https://cspreport.mail.ru/splash?v=10.08.20;",
+            "Content-Security-Policy": "default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coubsecure-s.akamaihd.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net; report-uri https://cspreport.mail.ru/splash?v=10.08.20;",
+            "Strict-Transport-Security": "max-age=16070400",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "mail.ru": [
+                "94.100.180.201",
+                "94.100.180.200",
+                "217.69.139.202",
+                "217.69.139.200"
+            ]
+        },
+        "ping": {
+            "mail.ru": [
+                "94.100.180.201",
+                "217.69.139.200",
+                "217.69.139.202",
+                "94.100.180.200"
+            ]
+        },
+        "CNAME": {
+            "mail.ru": "still a low_level domain_name"
+        },
+        "A": {
+            "mail.ru": "still a low_level domain_name"
+        }
+    }
+}

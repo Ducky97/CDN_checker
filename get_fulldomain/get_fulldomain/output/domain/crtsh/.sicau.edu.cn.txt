@@ -1,0 +1,8 @@
+*.sicau.edu.cn
+*.webvpn.sicau.edu.cn
+glxy.sicau.edu.cn
+i.sicau.edu.cn
+op.sicau.edu.cn
+pay.sicau.edu.cn
+webvpn.sicau.edu.cn
+www.op.sicau.edu.cn

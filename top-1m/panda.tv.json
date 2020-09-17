@@ -1,0 +1,89 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "111884",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "GitHub.com",
+            "X-Origin-Cache": "HIT",
+            "Last-Modified": "Sat, 04 Jan 2020 08:44:55 GMT",
+            "ETag": "W/\"5e105087-26714\"",
+            "Access-Control-Allow-Origin": "*",
+            "Expires": "Tue, 08 Sep 2020 21:27:45 GMT",
+            "Cache-Control": "max-age=600",
+            "Content-Encoding": "gzip",
+            "X-Proxy-Cache": "MISS",
+            "X-GitHub-Request-Id": "B35A:135E:7BA766:81523A:5F57F4F9",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:17:30 GMT",
+            "Via": "1.1 varnish",
+            "Age": "271",
+            "X-Served-By": "cache-sin18041-SIN",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "1",
+            "X-Timer": "S1600247850.110210,VS0,VE1",
+            "Vary": "Accept-Encoding",
+            "X-Fastly-Request-ID": "9dc5c18e5dfbd50e58aecf6bc00c3b246ede2445"
+        },
+        "nslookup": {
+            "panda.tv": []
+        },
+        "ping": {
+            "panda.tv": [
+                "185.199.110.153",
+                "185.199.108.153",
+                "185.199.109.153",
+                "185.199.111.153"
+            ]
+        },
+        "CNAME": {
+            "panda.tv": "still a low_level domain_name"
+        },
+        "A": {
+            "panda.tv": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "111884",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "GitHub.com",
+            "X-Origin-Cache": "HIT",
+            "Last-Modified": "Sat, 04 Jan 2020 08:44:55 GMT",
+            "ETag": "W/\"5e105087-26714\"",
+            "Access-Control-Allow-Origin": "*",
+            "Expires": "Tue, 08 Sep 2020 21:27:45 GMT",
+            "Cache-Control": "max-age=600",
+            "Content-Encoding": "gzip",
+            "X-Proxy-Cache": "MISS",
+            "X-GitHub-Request-Id": "B35A:135E:7BA766:81523A:5F57F4F9",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:17:37 GMT",
+            "Via": "1.1 varnish",
+            "Age": "278",
+            "X-Served-By": "cache-sin18035-SIN",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "3",
+            "X-Timer": "S1600247858.543574,VS0,VE0",
+            "Vary": "Accept-Encoding",
+            "X-Fastly-Request-ID": "339ceb7e96b7f363d2ae20c300665ca36740651c"
+        },
+        "nslookup": {
+            "panda.tv": []
+        },
+        "ping": {
+            "panda.tv": [
+                "185.199.110.153",
+                "185.199.108.153",
+                "185.199.109.153"
+            ]
+        },
+        "CNAME": {
+            "panda.tv": "still a low_level domain_name"
+        },
+        "A": {
+            "panda.tv": "still a low_level domain_name"
+        }
+    }
+}

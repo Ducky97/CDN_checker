@@ -1,0 +1,108 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache",
+            "Last-Modified": "Wed, 16 Sep 2020 03:23:51 GMT",
+            "Accept-Ranges": "bytes",
+            "CDCHOST": "wbxxweb-pub-prd2-02",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Type": "text/html",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Cache-Control": "public, max-age=84521",
+            "Expires": "Thu, 17 Sep 2020 09:29:58 GMT",
+            "Date": "Wed, 16 Sep 2020 10:01:17 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "x-wbx-about": "SG, 47.241.77.232",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Access-Control-Max-Age": "86400",
+            "Access-Control-Allow-Credentials": "false",
+            "Access-Control-Allow-Headers": "*",
+            "Access-Control-Allow-Methods": "POST, GET, OPTIONS, DELETE, PUT"
+        },
+        "nslookup": {
+            "webex.com": [
+                "64.68.121.205"
+            ],
+            "www.webex.com": [
+                "184.51.98.232"
+            ]
+        },
+        "ping": {
+            "webex.com": [
+                "64.68.121.205"
+            ],
+            "www.webex.com": [
+                "184.51.98.232"
+            ]
+        },
+        "CNAME": {
+            "www.webex.com": [
+                "all-www.webex.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.webex.com": [
+                "184.51.98.232"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Apache",
+            "Last-Modified": "Wed, 16 Sep 2020 03:23:51 GMT",
+            "Accept-Ranges": "bytes",
+            "CDCHOST": "wbxxweb-pub-prd2-02",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Type": "text/html",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Cache-Control": "public, max-age=84521",
+            "Expires": "Thu, 17 Sep 2020 09:29:59 GMT",
+            "Date": "Wed, 16 Sep 2020 10:01:18 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "x-wbx-about": "SG, 47.241.77.232",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Access-Control-Max-Age": "86400",
+            "Access-Control-Allow-Credentials": "false",
+            "Access-Control-Allow-Headers": "*",
+            "Access-Control-Allow-Methods": "POST, GET, OPTIONS, DELETE, PUT"
+        },
+        "nslookup": {
+            "webex.com": [
+                "64.68.121.205"
+            ],
+            "www.webex.com": [
+                "184.51.98.232"
+            ]
+        },
+        "ping": {
+            "webex.com": [
+                "64.68.121.205"
+            ],
+            "www.webex.com": [
+                "184.51.98.232"
+            ]
+        },
+        "CNAME": {
+            "www.webex.com": [
+                "all-www.webex.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.webex.com": [
+                "184.51.98.232"
+            ]
+        }
+    }
+}

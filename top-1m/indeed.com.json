@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:51:14 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "x-ratelimit-limit": "250",
+            "x-ratelimit-reset": "1600249875",
+            "x-ratelimit-remaining": "249",
+            "set-cookie": "CTK=1eib56hbiovih800; Expires=Mon, 15-Sep-2025 09:51:14 GMT; Path=/, indeed_rcc=CTK; Expires=Mon, 15-Sep-2025 09:51:14 GMT; Path=/, INDEED_CSRF_TOKEN=96FqIImqsXYIPtShXHne4lXoPdB7QboQ; Path=/, jasxMarvin=1; Expires=Tue, 15-Dec-2020 09:51:14 GMT; Path=/, LV=\"LA=1600249874:CV=1600249874:TS=1600249874\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:14 GMT; Path=/, UD=\"LA=1600249874:CV=1600249874:TS=1600249874\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:14 GMT; Path=/, jasxMarvin=1; Expires=Tue, 15-Dec-2020 09:51:14 GMT; Path=/, LV=\"LA=1600249874:CV=1600249874:TS=1600249874\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:14 GMT; Path=/, UD=\"LA=1600249874:CV=1600249874:TS=1600249874\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:14 GMT; Path=/",
+            "content-security-policy": "block-all-mixed-content; object-src 'none'; form-action 'self' *.indeed.com  https://go.indeedassessments.com/ https://take.indeedassessments.com/; frame-src 'self' *.indeed.com  https://accounts.google.com/ https://smartlock.google.com/ https://www.google.com/recaptcha/ https://www.youtube.com/embed/; img-src 'self' *.indeed.com  data: d13w2n5a9i6r56.cloudfront.net d3hbwax96mbv6t.cloudfront.net d12632ofg6v5f7.cloudfront.net d2q79iu7y748jz.cloudfront.net d3s4xzh46vzktb.cloudfront.net d1ymdoy4af119w.cloudfront.net d3fw5vlhllyvee.cloudfront.net https://res.cloudinary.com www.google-analytics.com https://www.google.com/ads https://www.facebook.com/tr/ https://sb.scorecardresearch.com https://stats.g.doubleclick.net https://pt.ispot.tv; default-src 'self' 'unsafe-inline' data: *.indeed.com  d3hbwax96mbv6t.cloudfront.net d3hbwax96mbv6t.cloudfront.net https://smartlock.google.com/ https://d13w2n5a9i6r56.cloudfront.net/ https://accounts.google.com/ https://cdn.ravenjs.com/3.14.2/raven.min.js d3hbwax96mbv6t.cloudfront.net d12632ofg6v5f7.cloudfront.net d2q79iu7y748jz.cloudfront.net d3s4xzh46vzktb.cloudfront.net d1ymdoy4af119w.cloudfront.net d3fw5vlhllyvee.cloudfront.net www.google-analytics.com https://www.facebook.com/tr/ https://sb.scorecardresearch.com https://connect.facebook.net *.serving-sys.com maps.googleapis.com csi.gstatic.com https://ad.doubleclick.net/ddm/activity/ https://www.google.com/recaptcha/ https://www.gstatic.com https://www.youtube.com https://pp.d2-apps.net/v1/impressions/log dpuk71x9wlmkf.cloudfront.net https://privacyportal.onetrust.com https://stats.g.doubleclick.net d3fw5vlhllyvee.cloudfront.net https://fonts.gstatic.com/ https://fonts.googleapis.com/ https://pxl.indeed.com/* https://match.prod.bidr.io/cookie-sync/indeed https://rs.fullstory.com/rec/;",
+            "lb_pool": "mesos_external_pool",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "indeed.com": [
+                "169.44.162.72"
+            ],
+            "cn.indeed.com": [
+                "203.60.5.88"
+            ]
+        },
+        "ping": {
+            "indeed.com": [
+                "169.44.165.64",
+                "169.44.159.200"
+            ],
+            "cn.indeed.com": [
+                "203.60.5.96",
+                "203.60.5.88",
+                "203.60.5.104"
+            ]
+        },
+        "CNAME": {
+            "cn.indeed.com": [
+                "eastasian.dyn.indeed.com."
+            ]
+        },
+        "A": {
+            "cn.indeed.com": [
+                "203.60.5.88"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:51:16 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "x-ratelimit-limit": "250",
+            "x-ratelimit-reset": "1600249877",
+            "x-ratelimit-remaining": "249",
+            "set-cookie": "CTK=1eib56jmmnpgj800; Expires=Mon, 15-Sep-2025 09:51:16 GMT; Path=/, indeed_rcc=CTK; Expires=Mon, 15-Sep-2025 09:51:16 GMT; Path=/, INDEED_CSRF_TOKEN=oobmkUPUxQTO9wSWc3r6HIW2BVMU7RMi; Path=/, jasxMarvin=1; Expires=Tue, 15-Dec-2020 09:51:16 GMT; Path=/, LV=\"LA=1600249876:CV=1600249876:TS=1600249876\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:16 GMT; Path=/, UD=\"LA=1600249876:CV=1600249876:TS=1600249876\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:16 GMT; Path=/, jasxMarvin=1; Expires=Tue, 15-Dec-2020 09:51:16 GMT; Path=/, LV=\"LA=1600249876:CV=1600249876:TS=1600249876\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:16 GMT; Path=/, UD=\"LA=1600249876:CV=1600249876:TS=1600249876\"; Version=1; Max-Age=157680000; Expires=Mon, 15-Sep-2025 09:51:16 GMT; Path=/",
+            "content-security-policy": "block-all-mixed-content; object-src 'none'; form-action 'self' *.indeed.com  https://go.indeedassessments.com/ https://take.indeedassessments.com/; frame-src 'self' *.indeed.com  https://accounts.google.com/ https://smartlock.google.com/ https://www.google.com/recaptcha/ https://www.youtube.com/embed/; img-src 'self' *.indeed.com  data: d13w2n5a9i6r56.cloudfront.net d3hbwax96mbv6t.cloudfront.net d12632ofg6v5f7.cloudfront.net d2q79iu7y748jz.cloudfront.net d3s4xzh46vzktb.cloudfront.net d1ymdoy4af119w.cloudfront.net d3fw5vlhllyvee.cloudfront.net https://res.cloudinary.com www.google-analytics.com https://www.google.com/ads https://www.facebook.com/tr/ https://sb.scorecardresearch.com https://stats.g.doubleclick.net https://pt.ispot.tv; default-src 'self' 'unsafe-inline' data: *.indeed.com  d3hbwax96mbv6t.cloudfront.net d3hbwax96mbv6t.cloudfront.net https://smartlock.google.com/ https://d13w2n5a9i6r56.cloudfront.net/ https://accounts.google.com/ https://cdn.ravenjs.com/3.14.2/raven.min.js d3hbwax96mbv6t.cloudfront.net d12632ofg6v5f7.cloudfront.net d2q79iu7y748jz.cloudfront.net d3s4xzh46vzktb.cloudfront.net d1ymdoy4af119w.cloudfront.net d3fw5vlhllyvee.cloudfront.net www.google-analytics.com https://www.facebook.com/tr/ https://sb.scorecardresearch.com https://connect.facebook.net *.serving-sys.com maps.googleapis.com csi.gstatic.com https://ad.doubleclick.net/ddm/activity/ https://www.google.com/recaptcha/ https://www.gstatic.com https://www.youtube.com https://pp.d2-apps.net/v1/impressions/log dpuk71x9wlmkf.cloudfront.net https://privacyportal.onetrust.com https://stats.g.doubleclick.net d3fw5vlhllyvee.cloudfront.net https://fonts.gstatic.com/ https://fonts.googleapis.com/ https://pxl.indeed.com/* https://match.prod.bidr.io/cookie-sync/indeed https://rs.fullstory.com/rec/;",
+            "lb_pool": "mesos_external_pool",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "indeed.com": [
+                "169.44.162.72"
+            ],
+            "cn.indeed.com": [
+                "203.60.5.104"
+            ]
+        },
+        "ping": {
+            "indeed.com": [
+                "169.44.165.64",
+                "169.44.159.200"
+            ],
+            "cn.indeed.com": [
+                "203.60.5.96",
+                "203.60.5.88",
+                "203.60.5.104"
+            ]
+        },
+        "CNAME": {
+            "cn.indeed.com": [
+                "eastasian.dyn.indeed.com."
+            ]
+        },
+        "A": {
+            "cn.indeed.com": [
+                "203.60.5.88"
+            ]
+        }
+    }
+}

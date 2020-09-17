@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html",
+            "Date": "Wed, 16 Sep 2020 11:59:57 GMT",
+            "Expires": "Wed, 16 Sep 2020 11:59:57 GMT",
+            "Cache-Control": "private, max-age=3000",
+            "Last-Modified": "Fri, 28 Aug 2020 07:45:00 GMT",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "sffe",
+            "X-XSS-Protection": "0",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "doubleclick.net": [
+                "172.217.27.142"
+            ],
+            "marketingplatform.google.com": [
+                "172.217.160.78"
+            ]
+        },
+        "ping": {
+            "doubleclick.net": [
+                "74.125.200.138",
+                "74.125.24.102",
+                "74.125.24.113",
+                "74.125.24.101",
+                "74.125.24.138",
+                "74.125.24.139"
+            ],
+            "marketingplatform.google.com": [
+                "216.58.221.78",
+                "172.217.160.46",
+                "172.217.160.14"
+            ]
+        },
+        "CNAME": {
+            "marketingplatform.google.com": null
+        },
+        "A": {
+            "marketingplatform.google.com": [
+                "172.217.160.46"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html",
+            "Date": "Wed, 16 Sep 2020 11:59:57 GMT",
+            "Expires": "Wed, 16 Sep 2020 11:59:57 GMT",
+            "Cache-Control": "private, max-age=3000",
+            "Last-Modified": "Fri, 28 Aug 2020 07:45:00 GMT",
+            "X-Content-Type-Options": "nosniff",
+            "Server": "sffe",
+            "X-XSS-Protection": "0",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "doubleclick.net": [
+                "172.217.27.142"
+            ],
+            "marketingplatform.google.com": [
+                "172.217.160.78"
+            ]
+        },
+        "ping": {
+            "doubleclick.net": [
+                "74.125.24.100",
+                "74.125.200.138",
+                "74.125.24.102",
+                "74.125.24.101",
+                "74.125.24.138",
+                "74.125.24.139"
+            ],
+            "marketingplatform.google.com": [
+                "216.58.221.78",
+                "172.217.160.46",
+                "172.217.160.14"
+            ]
+        },
+        "CNAME": {
+            "marketingplatform.google.com": null
+        },
+        "A": {
+            "marketingplatform.google.com": [
+                "172.217.160.46"
+            ]
+        }
+    }
+}

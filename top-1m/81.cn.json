@@ -1,0 +1,42 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:22:27 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "128081",
+            "Connection": "keep-alive",
+            "Server": "Apache",
+            "Last-Modified": "Wed, 16 Sep 2020 11:20:49 GMT",
+            "ETag": "\"113f004-1f451-5af6c75aaa640\"",
+            "Accept-Ranges": "bytes",
+            "X-Ser": "BC35_dx-lt-hebei-shijiazhuang-4-cache-4, BC53_lt-hebei-langfang-2-cache-7",
+            "X-Cache": "HIT from BC35_dx-lt-hebei-shijiazhuang-4-cache-4(baishan)"
+        },
+        "nslookup": {
+            "81.cn": [
+                "60.210.17.136",
+                "60.210.17.134",
+                "60.210.17.143",
+                "60.222.11.29",
+                "60.210.17.137",
+                "60.210.17.131",
+                "60.210.17.135",
+                "60.222.11.30",
+                "60.210.17.144",
+                "60.210.17.138"
+            ]
+        },
+        "ping": {
+            "81.cn": [
+                "120.52.72.50"
+            ]
+        },
+        "CNAME": {
+            "81.cn": "still a low_level domain_name"
+        },
+        "A": {
+            "81.cn": "still a low_level domain_name"
+        }
+    },
+    "https": null
+}

@@ -1,0 +1,126 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "nginx",
+            "Status": "200 OK",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Security-Policy": "frame-ancestors 'self'",
+            "Cache-Control": "private, no-store",
+            "Last-Modified": "Wed, 16 Sep 2020 10:48:34 GMT",
+            "Set-Cookie": "__CJ_nwt=%7B%22nw1723%22%3A4272%7D; domain=.scribd.com; path=/; expires=Fri, 16 Sep 2022 10:48:34 -0000; secure, _scribd_session=eyJzZXNzaW9uX2lkIjoiMjg2NzJkMDA1MjM1NzNhOThiMjYzOWYzOTU0YjZjNzIifQ%3D%3D--5c2efaf7e150ad023171195b3fabe434080da1f1; domain=.scribd.com; path=/; expires=Sat, 16 Sep 2023 10:48:34 -0000; secure; HttpOnly",
+            "X-Request-Id": "e038a61bf023029746ac3f81eb78de7779636156d6aa60aa5a8b53edc951bcbf",
+            "X-Runtime": "0.011172",
+            "Strict-Transport-Security": "max-age=2592000; includeSubDomains",
+            "Content-Encoding": "gzip",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:48:34 GMT",
+            "Via": "1.1 varnish",
+            "X-Served-By": "cache-sin18051-SIN",
+            "X-Cache": "MISS",
+            "X-Cache-Hits": "0",
+            "Vary": "Accept-Encoding, X-Language-Locale",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "scribd.com": [
+                "151.101.2.152",
+                "151.101.66.152",
+                "151.101.130.152",
+                "151.101.194.152"
+            ],
+            "www.scribd.com": [
+                "151.101.2.152",
+                "151.101.66.152",
+                "151.101.130.152",
+                "151.101.194.152"
+            ]
+        },
+        "ping": {
+            "scribd.com": [
+                "151.101.130.152",
+                "151.101.2.152",
+                "151.101.66.152",
+                "151.101.194.152"
+            ],
+            "www.scribd.com": [
+                "151.101.10.152"
+            ]
+        },
+        "CNAME": {
+            "www.scribd.com": [
+                "scribd.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.scribd.com": [
+                "151.101.10.152"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "nginx",
+            "Status": "200 OK",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Security-Policy": "frame-ancestors 'self'",
+            "Cache-Control": "private, no-store",
+            "Last-Modified": "Wed, 16 Sep 2020 10:48:34 GMT",
+            "Set-Cookie": "__CJ_nwt=%7B%22nw1723%22%3A4272%7D; domain=.scribd.com; path=/; expires=Fri, 16 Sep 2022 10:48:34 -0000; secure, _scribd_session=eyJzZXNzaW9uX2lkIjoiYmZiMjU1NDRkNWQyZTlmMTI4MGM0NGJiMTM4NTY5OTAifQ%3D%3D--04a04e37618c305847af963ec3c227ad1cd00695; domain=.scribd.com; path=/; expires=Sat, 16 Sep 2023 10:48:34 -0000; secure; HttpOnly",
+            "X-Request-Id": "b5523a09fb1d30443b8a97a184973b8838e6bcc063fcef842c4850ee70aa1179",
+            "X-Runtime": "0.014568",
+            "Strict-Transport-Security": "max-age=2592000; includeSubDomains",
+            "Content-Encoding": "gzip",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:48:35 GMT",
+            "Via": "1.1 varnish",
+            "X-Served-By": "cache-sin18022-SIN",
+            "X-Cache": "MISS",
+            "X-Cache-Hits": "0",
+            "Vary": "Accept-Encoding, X-Language-Locale",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "scribd.com": [
+                "151.101.194.152",
+                "151.101.2.152",
+                "151.101.130.152",
+                "151.101.66.152"
+            ],
+            "www.scribd.com": [
+                "151.101.2.152",
+                "151.101.66.152",
+                "151.101.130.152",
+                "151.101.194.152"
+            ]
+        },
+        "ping": {
+            "scribd.com": [
+                "151.101.194.152",
+                "151.101.2.152",
+                "151.101.66.152",
+                "151.101.130.152"
+            ],
+            "www.scribd.com": [
+                "151.101.10.152"
+            ]
+        },
+        "CNAME": {
+            "www.scribd.com": [
+                "scribd.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.scribd.com": [
+                "151.101.10.152"
+            ]
+        }
+    }
+}

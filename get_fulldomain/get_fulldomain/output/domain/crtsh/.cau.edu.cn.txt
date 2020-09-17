@@ -1,0 +1,14 @@
+*.cau.edu.cn
+*.ntc.cau.edu.cn
+*.vpn.cau.edu.cn
+gradsch.cau.edu.cn
+imgapp.cau.edu.cn
+mrtg.prox.cau.edu.cn
+mrtg114.prox.cau.edu.cn
+mrtg6.cau.edu.cn
+mrtg8.cau.edu.cn
+nxynew.cau.edu.cn
+v.prox.cau.edu.cn
+vpn.cau.edu.cn
+weixin.cau.edu.cn
+www.prox.cau.edu.cn

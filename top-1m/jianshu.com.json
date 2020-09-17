@@ -1,0 +1,169 @@
+{
+    "http": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:49:01 GMT",
+            "Vary": "Accept-Encoding",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "ETag": "W/\"1260ec7a56d4a6a4bfda0a6c55e0a84a\"",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Set-Cookie": "locale=zh-CN; path=/",
+            "X-Request-Id": "80b68eb0-199c-469a-a836-e88e3fcdd69f",
+            "X-Runtime": "0.004196",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Encoding": "gzip",
+            "Via": "cache48.l2nu16[45,0], cache36.l2hk71[87,0], cache6.sg7[126,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b5259a16002533410396280e"
+        },
+        "nslookup": {
+            "jianshu.com": [
+                "107.150.101.156"
+            ],
+            "www.jianshu.com": [
+                "163.181.36.230",
+                "163.181.37.224",
+                "163.181.37.226",
+                "163.181.37.225",
+                "163.181.37.229",
+                "163.181.37.228",
+                "163.181.37.223",
+                "163.181.37.230",
+                "163.181.37.227",
+                "163.181.36.228",
+                "163.181.36.227",
+                "163.181.36.231",
+                "163.181.36.226",
+                "163.181.36.229",
+                "163.181.36.224",
+                "163.181.36.225"
+            ]
+        },
+        "ping": {
+            "jianshu.com": [
+                "107.150.101.156"
+            ],
+            "www.jianshu.com": [
+                "163.181.37.228",
+                "163.181.36.227",
+                "163.181.36.231",
+                "163.181.37.226",
+                "163.181.36.230",
+                "163.181.36.229",
+                "163.181.37.224"
+            ]
+        },
+        "CNAME": {
+            "www.jianshu.com": [
+                "www.jianshu.com.w.cdngslb.com."
+            ]
+        },
+        "A": {
+            "www.jianshu.com": [
+                "163.181.36.226",
+                "163.181.37.230",
+                "163.181.36.228",
+                "163.181.37.228",
+                "163.181.37.225",
+                "163.181.36.224",
+                "163.181.36.227",
+                "163.181.36.225",
+                "163.181.36.231",
+                "163.181.37.226",
+                "163.181.36.230",
+                "163.181.36.229",
+                "163.181.37.229",
+                "163.181.37.223",
+                "163.181.37.224",
+                "163.181.37.227"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Tengine",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:49:02 GMT",
+            "Vary": "Accept-Encoding",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "ETag": "W/\"1260ec7a56d4a6a4bfda0a6c55e0a84a\"",
+            "Cache-Control": "max-age=0, private, must-revalidate",
+            "Set-Cookie": "locale=zh-CN; path=/",
+            "X-Request-Id": "c345d52f-2f0c-463f-8a00-44012f4a70b8",
+            "X-Runtime": "0.004805",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Encoding": "gzip",
+            "Via": "cache7.l2cm12-6[48,0], cache1.sg6[133,0]",
+            "Timing-Allow-Origin": "*",
+            "EagleId": "a3b5249516002533420198822e"
+        },
+        "nslookup": {
+            "jianshu.com": [
+                "107.150.101.156"
+            ],
+            "www.jianshu.com": [
+                "163.181.36.230",
+                "163.181.37.224",
+                "163.181.37.226",
+                "163.181.37.225",
+                "163.181.37.229",
+                "163.181.37.228",
+                "163.181.37.223",
+                "163.181.37.230",
+                "163.181.37.227",
+                "163.181.36.228",
+                "163.181.36.227",
+                "163.181.36.231",
+                "163.181.36.226",
+                "163.181.36.229",
+                "163.181.36.224",
+                "163.181.36.225"
+            ]
+        },
+        "ping": {
+            "jianshu.com": [
+                "107.150.101.156"
+            ],
+            "www.jianshu.com": [
+                "163.181.36.229",
+                "163.181.37.230",
+                "163.181.37.224",
+                "163.181.36.230"
+            ]
+        },
+        "CNAME": {
+            "www.jianshu.com": [
+                "www.jianshu.com.w.cdngslb.com."
+            ]
+        },
+        "A": {
+            "www.jianshu.com": [
+                "163.181.36.226",
+                "163.181.37.230",
+                "163.181.36.228",
+                "163.181.37.228",
+                "163.181.37.225",
+                "163.181.36.224",
+                "163.181.36.227",
+                "163.181.36.225",
+                "163.181.37.226",
+                "163.181.36.231",
+                "163.181.36.230",
+                "163.181.36.229",
+                "163.181.37.229",
+                "163.181.37.223",
+                "163.181.37.224",
+                "163.181.37.227"
+            ]
+        }
+    }
+}

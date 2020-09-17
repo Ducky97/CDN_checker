@@ -1,0 +1,653 @@
+acm.njust.edu.cn. 300 IN A 202.119.80.142
+
+acpr2017.njust.edu.cn. 300 IN A 202.119.80.142
+
+admission.njust.edu.cn. 300 IN CNAME dns.lface.org.
+dns.lface.org. 7199 IN A 123.127.134.6
+
+alstu.njust.edu.cn. 60 IN A 202.119.85.38
+
+alumni.njust.edu.cn. 300 IN A 202.119.80.142
+
+aolan.njust.edu.cn. 300 IN A 202.119.85.38
+
+aqgcx.njust.edu.cn. 300 IN A 202.119.80.142
+
+arc.njust.edu.cn. 300 IN A 202.119.81.236
+
+atc.njust.edu.cn. 300 IN A 202.119.80.142
+
+au.njust.edu.cn. 300 IN A 202.119.80.142
+
+bd.njust.edu.cn. 300 IN A 202.119.85.2
+
+bkjw.njust.edu.cn. 300 IN A 202.119.85.38
+
+bmc.njust.edu.cn. 300 IN A 202.119.80.142
+
+bqbwg.njust.edu.cn. 300 IN A 202.119.80.142
+
+bqw.njust.edu.cn. 300 IN A 202.119.85.38
+
+bqxk.njust.edu.cn. 300 IN A 202.119.85.150
+
+bsfx.njust.edu.cn. 300 IN A 202.119.80.142
+
+bwc.njust.edu.cn. 300 IN A 202.119.80.142
+
+bysj.njust.edu.cn. 300 IN A 202.119.85.38
+
+cardesign.njust.edu.cn. 300 IN A 202.119.80.142
+
+cee.njust.edu.cn. 300 IN A 202.119.81.134
+
+cgzx.njust.edu.cn. 300 IN A 202.119.80.142
+
+changshu.njust.edu.cn. 0 IN A 220.250.64.225
+
+cicss.njust.edu.cn. 300 IN A 202.119.80.142
+
+ciipr.njust.edu.cn. 300 IN A 202.119.80.142
+
+clkxsy.njust.edu.cn. 300 IN A 202.119.80.142
+
+cloud.njust.edu.cn. 300 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+cloud.njust.edu.cn. 299 IN A 202.119.84.99
+
+njust.edu.cn<BR>www.njust.edu.cnnjust.edu.cn<BR>www.njust.edu.cn. 30 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 0 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 30 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 29 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 29 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 29 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 29 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 29 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cn. 29 IN A 220.250.64.225
+
+zzfzsy.njust.edu.cnidp.njust.edu.cn. 0 IN A 220.250.64.225
+
+njust.edu.cn<BR>www.njust.edu.cnvpn.njust.edu.cn. 0 IN A 220.250.64.225
+
+cxy.njust.edu.cnwebvpn.njust.edu.cn. 0 IN A 220.250.64.225
+
+wechat.njust.edu.cnwechat.njust.edu.cn. 0 IN A 220.250.64.225
+
+webvpn.njust.edu.cnwechat2.njust.edu.cn. 0 IN A 220.250.64.225
+
+www.webvpn.njust.edu.cnwww.njust.edu.cn. 0 IN A 220.250.64.225
+
+zhkt.njust.edu.cnzhkt.njust.edu.cn. 0 IN A 220.250.64.225
+
+cs.njust.edu.cn. 300 IN A 202.119.80.142
+
+csbio.njust.edu.cn. 300 IN A 202.119.80.142
+
+cwc.njust.edu.cn. 300 IN A 202.119.80.142
+
+cwcmh.njust.edu.cn. 300 IN A 202.119.85.38
+
+cxy.njust.edu.cn. 300 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+cxy.njust.edu.cn. 299 IN A 202.119.88.26
+
+dams.njust.edu.cn. 300 IN A 202.119.80.142
+
+derd.njust.edu.cn. 300 IN A 202.119.80.142
+
+dgxg.njust.edu.cn. 300 IN A 202.119.80.142
+
+dicm.njust.edu.cn. 300 IN A 202.119.80.142
+
+dqgc.njust.edu.cn. 300 IN A 202.119.80.142
+
+dxyq.njust.edu.cn. 300 IN A 202.119.85.38
+
+dzxx.njust.edu.cn. 300 IN A 202.119.80.142
+
+ebe.njust.edu.cn. 300 IN A 202.119.80.142
+
+ebekeylab.njust.edu.cn. 300 IN A 202.119.80.142
+
+ehall.njust.edu.cn. 300 IN A 202.119.85.2
+
+emba.njust.edu.cn. 300 IN A 202.119.80.142
+
+english.njust.edu.cn. 300 IN A 202.119.80.142
+
+eoe.njust.edu.cn. 300 IN A 202.119.80.142
+
+esepec.njust.edu.cn. 300 IN A 202.119.80.142
+
+etc.njust.edu.cn. 300 IN A 202.119.80.142
+
+eval.njust.edu.cn. 300 IN A 202.119.85.38
+
+fund.njust.edu.cn. 300 IN A 202.119.80.142
+
+fzgh.njust.edu.cn. 300 IN A 202.119.80.142
+
+gdcx.njust.edu.cn. 300 IN A 202.119.80.142
+
+gh.njust.edu.cn. 300 IN A 202.119.80.142
+
+gjc.njust.edu.cn. 300 IN A 202.119.80.142
+
+gjs.njust.edu.cn. 300 IN A 202.119.80.142
+
+gs.njust.edu.cn. 300 IN A 202.119.80.142
+
+gsmis.njust.edu.cn. 300 IN A 202.119.85.163
+
+guihua.njust.edu.cn. 300 IN A 202.119.81.145
+
+gwy.njust.edu.cn. 300 IN A 202.119.80.142
+
+gzc.njust.edu.cn. 300 IN A 202.119.80.142
+
+hgdl.njust.edu.cn. 300 IN A 202.119.80.142
+
+hgi.njust.edu.cn. 300 IN A 202.119.80.142
+
+hiss.njust.edu.cn. 300 IN A 202.119.80.142
+
+hnaqsy.njust.edu.cn. 300 IN A 202.119.80.142
+
+hq.njust.edu.cn. 300 IN A 202.119.84.60
+
+hvacr.njust.edu.cn. 300 IN A 202.119.80.142
+
+hxpgl.njust.edu.cn. 300 IN A 202.119.81.171
+
+i.njust.edu.cn. 300 IN A 202.119.85.2
+
+icpc.njust.edu.cn. 300 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+icpc.njust.edu.cn. 299 IN A 202.119.84.52
+
+idp.njust.edu.cn. 300 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+idp.njust.edu.cn. 299 IN A 202.119.86.91
+
+ids.njust.edu.cn. 60 IN A 202.119.85.2
+
+iem.njust.edu.cn. 300 IN CNAME sce.njust.edu.cn.
+sce.njust.edu.cn. 299 IN A 202.119.80.142
+
+ifseem.njust.edu.cn. 300 IN A 202.119.84.78
+ifseem.njust.edu.cn. 300 IN A 202.119.80.142
+
+ild.njust.edu.cn. 300 IN A 202.119.80.142
+
+im.njust.edu.cn. 300 IN A 202.119.80.142
+
+imp.njust.edu.cn. 300 IN A 202.119.85.2
+
+ip.njust.edu.cn. 300 IN A 202.119.80.142
+
+ipr.njust.edu.cn. 300 IN A 202.119.80.142
+
+ipv6.njust.edu.cn. 300 IN A 202.119.80.142
+
+iscide.njust.edu.cn. 300 IN A 202.119.81.213
+
+jf.njust.edu.cn. 300 IN A 202.119.80.142
+
+jgdw.njust.edu.cn. 300 IN A 202.119.80.142
+
+jgmt.njust.edu.cn. 300 IN A 202.119.80.142
+
+jjc.njust.edu.cn. 300 IN A 202.119.80.142
+
+jjy.njust.edu.cn. 300 IN A 202.119.80.142
+
+jm.njust.edu.cn. 300 IN A 202.119.80.142
+
+jnaas.njust.edu.cn. 300 IN A 202.119.85.38
+
+jpkc.njust.edu.cn. 300 IN A 219.230.100.201
+
+jsss.njust.edu.cn. 300 IN A 202.119.80.142
+
+jszy.njust.edu.cn. 300 IN A 202.119.85.38
+
+jwb.njust.edu.cn. 300 IN A 202.119.80.142
+
+jwc.njust.edu.cn. 30 IN A 202.119.80.142
+
+jy.njust.edu.cn. 300 IN A 202.119.81.154
+
+kfyy.njust.edu.cn. 300 IN A 202.119.85.38
+
+kyy.njust.edu.cn. 300 IN A 202.119.80.142
+
+lib.njust.edu.cn. 60 IN A 202.119.83.7
+
+libopac.njust.edu.cn. 300 IN A 202.119.85.4
+
+ltx.njust.edu.cn. 300 IN A 202.119.80.142
+
+lxy.njust.edu.cn. 300 IN A 202.119.80.142
+
+lxyz.njust.edu.cn. 300 IN A 202.119.80.142
+
+lxzx.njust.edu.cn. 300 IN A 202.119.80.142
+
+mail.njust.edu.cn. 300 IN CNAME exmail.qq.com.
+exmail.qq.com. 408 IN A 113.96.233.155
+exmail.qq.com. 408 IN A 59.37.96.29
+
+mail1.njust.edu.cn. 0 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 30 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+mail1.njust.edu.cn. 29 IN A 220.250.64.225
+
+marx.njust.edu.cn. 300 IN A 202.119.80.142
+
+matphy.njust.edu.cn. 300 IN A 202.119.80.142
+
+mcm.njust.edu.cn. 300 IN A 202.119.81.133
+
+mooc.njust.edu.cn. 300 IN A 202.119.85.38
+
+mool.njust.edu.cn. 300 IN A 202.119.84.46
+
+mpa.njust.edu.cn. 300 IN A 202.119.80.142
+
+msw.njust.edu.cn. 300 IN A 202.119.80.142
+
+nc.njust.edu.cn. 300 IN A 202.119.80.11
+
+nd.njust.edu.cn. 300 IN A 202.119.80.142
+
+ndxg.njust.edu.cn. 300 IN A 202.119.80.142
+
+njdxpt.njust.edu.cn. 300 IN A 202.119.81.184
+
+njlgsx.njust.edu.cn. 300 IN A 202.119.80.142
+
+njust0.njust.edu.cn. 300 IN A 202.119.80.10
+
+nssperc.njust.edu.cn. 300 IN A 202.119.80.142
+
+pic2017.njust.edu.cn. 300 IN A 202.119.80.142
+
+qxs.njust.edu.cn. 300 IN A 202.119.80.142
+
+qzlx.njust.edu.cn. 300 IN A 202.119.80.142
+
+raam.njust.edu.cn. 300 IN A 202.119.81.236
+
+rczp.njust.edu.cn. 300 IN A 202.119.87.5
+
+rs.njust.edu.cn. 300 IN A 202.119.80.142
+
+sc.njust.edu.cn. 300 IN A 202.119.80.142
+
+sce.njust.edu.cn. 297 IN A 202.119.80.142
+
+scfm.njust.edu.cn. 300 IN A 202.119.80.142
+
+scxg.njust.edu.cn. 300 IN A 202.119.80.142
+
+sczx.njust.edu.cn. 300 IN A 202.119.80.142
+
+sec.njust.edu.cn. 300 IN A 202.119.80.142
+
+sem.njust.edu.cn. 300 IN A 202.119.80.142
+
+sfesn.njust.edu.cn. 300 IN A 202.119.80.142
+
+sfs.njust.edu.cn. 300 IN A 202.119.80.142
+
+sie.njust.edu.cn. 300 IN A 202.119.80.142
+
+sjc.njust.edu.cn. 300 IN A 202.119.80.142
+
+sme.njust.edu.cn. 300 IN A 202.119.80.142
+
+smse.njust.edu.cn. 300 IN A 202.119.80.142
+
+ssis.njust.edu.cn. 300 IN A 202.119.80.142
+
+study.njust.edu.cn. 300 IN A 202.119.80.142
+
+syjx.njust.edu.cn. 300 IN A 202.119.85.38
+
+tyb.njust.edu.cn. 300 IN A 202.119.80.142
+
+tz.njust.edu.cn. 300 IN A 202.119.81.73
+
+uldp.njust.edu.cn. 300 IN A 202.119.85.38
+
+vpn.njust.edu.cn. 231 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+vpn.njust.edu.cn. 230 IN A 202.119.80.152
+
+wechat.njust.edu.cnwww.vpn.njust.edu.cn. 300 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 300 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+www.vpn.njust.edu.cn. 299 IN A 202.119.80.152
+
+webvpn.njust.edu.cn. 300 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+cloud.njust.edu.cnwww.webvpn.njust.edu.cn. 300 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 300 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+www.webvpn.njust.edu.cn. 299 IN A 202.119.84.100
+
+wechat.njust.edu.cn. 300 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat.njust.edu.cn. 299 IN A 202.119.81.150
+
+wechat2.njust.edu.cn. 300 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wechat2.njust.edu.cn. 299 IN A 202.119.81.144
+
+wlkc.njust.edu.cn. 300 IN A 202.119.81.202
+
+wlsy.njust.edu.cn. 300 IN A 202.119.80.142
+
+wuxi.njust.edu.cn. 0 IN A 220.250.64.225
+
+www.njust.edu.cn. 300 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+www.njust.edu.cn. 299 IN A 202.119.80.142
+
+wzq.njust.edu.cn. 300 IN A 202.119.80.149
+
+xb.njust.edu.cn. 300 IN A 202.119.80.142
+
+xdzx.njust.edu.cn. 300 IN A 202.119.80.142
+
+xgc.njust.edu.cn. 300 IN A 202.119.80.142
+
+xsg.njust.edu.cn. 300 IN A 202.119.81.146
+
+xxgk.njust.edu.cn. 300 IN A 202.119.80.142
+
+ygjh.njust.edu.cn. 300 IN A 202.119.80.142
+
+yjs.njust.edu.cn. 300 IN A 202.119.85.38
+
+youth.njust.edu.cn. 300 IN A 202.119.80.142
+
+yww.njust.edu.cn. 300 IN A 202.119.80.142
+
+yy.njust.edu.cn. 300 IN A 202.119.80.142
+
+zbpt.njust.edu.cn. 300 IN A 202.119.85.38
+
+zcgs.njust.edu.cn. 300 IN A 202.119.80.142
+
+zdsys.njust.edu.cn. 300 IN A 202.119.80.142
+
+zhkt.njust.edu.cn. 300 IN A 202.119.95.67
+
+zhkt.njust.edu.cn. 299 IN A 202.119.95.67
+
+zhkt.njust.edu.cn. 299 IN A 202.119.95.67
+
+zhkt.njust.edu.cn. 299 IN A 202.119.95.67
+
+zhkt.njust.edu.cn. 299 IN A 202.119.95.67
+
+zhkt.njust.edu.cn. 299 IN A 202.119.95.67
+
+zhkt.njust.edu.cn. 299 IN A 202.119.95.67
+
+zikao.njust.edu.cn. 300 IN A 202.119.80.142
+
+zj.njust.edu.cn. 300 IN A 218.94.126.78
+
+zlzx.njust.edu.cn. 300 IN A 202.119.80.142
+
+zqcx.njust.edu.cn. 0 IN A 220.250.64.225
+
+zrxuebao.njust.edu.cn. 300 IN A 125.76.229.22
+
+zs.njust.edu.cn. 300 IN A 202.119.80.142
+
+zsb.njust.edu.cn. 300 IN A 202.119.81.135
+
+zscq.njust.edu.cn. 300 IN A 202.119.80.142
+
+zzb.njust.edu.cn. 300 IN A 202.119.80.142
+
+zzfzsy.njust.edu.cn. 300 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzfzsy.njust.edu.cn. 299 IN A 202.119.84.44
+
+zzzx.njust.edu.cn. 300 IN A 202.119.80.142
+

@@ -1,0 +1,100 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:18:34 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "no-cache",
+            "Content-Security-Policy": "base-uri 'self' ; child-src https://www.dropbox.com/static/serviceworker/ blob: ; connect-src https://* ws://127.0.0.1:*/ws ; default-src 'none' ; font-src https://* data: ; form-action 'self' https://www.dropbox.com/ https://dl-web.dropbox.com/ https://photos.dropbox.com/ https://paper.dropbox.com/ https://showcase.dropbox.com/ https://www.hellofax.com/ https://app.hellofax.com/ https://www.hellosign.com/ https://app.hellosign.com/ https://help.dropbox.com/ https://navi.dropbox.jp/ https://selfguidedlearning.dropboxbusiness.com/ https://instructorledlearning.dropboxbusiness.com/ https://sales.dropboxbusiness.com/ https://dropboxconnect.co.uk/ https://accounts.google.com/ https://api.login.yahoo.com/ https://login.yahoo.com/ https://experience.dropbox.com/ https://pal-test.adyen.com https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/ ; frame-src https://* carousel: dbapi-6: dbapi-7: dbapi-8: dropbox-client: itms-apps: itms-appss: ; img-src https://* data: blob: ; media-src https://* blob: ; object-src 'self' https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ https://flash.dropboxstatic.com https://swf.dropboxstatic.com https://dbxlocal.dropboxstatic.com ; report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist ; script-src 'unsafe-eval' https://www.dropbox.com/static/api/ https://www.dropbox.com/page_success/ https://cfl.dropboxstatic.com/static/js/ https://www.dropboxstatic.com/static/js/ https://cfl.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://www.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://cfl.dropboxstatic.com/static/previews/ https://www.dropboxstatic.com/static/previews/ https://cfl.dropboxstatic.com/static/api/ https://www.dropboxstatic.com/static/api/ https://cfl.dropboxstatic.com/static/cms/ https://www.dropboxstatic.com/static/cms/ 'nonce-BpWm6/LzUU7vecxYzG1l' ; style-src https://* 'unsafe-inline' 'unsafe-eval' ; worker-src https://www.dropbox.com/static/serviceworker/ blob:, report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-dynamic ; script-src 'unsafe-eval' 'strict-dynamic' 'nonce-BpWm6/LzUU7vecxYzG1l' 'nonce-iPQMpNbpxdVtQfLrNKIr'",
+            "Dropbox-Streaming": "V=1",
+            "Pragma": "no-cache",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "Set-Cookie": "__Host-ss=zoQplsdFsE; expires=Sat, 16 Sep 2023 09:18:34 GMT; httponly; Path=/; SameSite=strict; secure, locale=en; Domain=dropbox.com; expires=Mon, 15 Sep 2025 09:18:34 GMT; Path=/; secure, gvc=MTIwMDAwMjU1MjI4Njg4NDg2Nzc1MDE4NzQ2ODQ3MjAxNzkwMzk2; expires=Mon, 15 Sep 2025 09:18:34 GMT; httponly; Path=/; secure, flash=; Domain=dropbox.com; expires=Wed, 16 Sep 2020 09:18:34 GMT; Path=/; secure, puc=; expires=Wed, 16 Sep 2020 09:18:34 GMT; httponly; Path=/; secure, bang=; Domain=dropbox.com; expires=Wed, 16 Sep 2020 09:18:34 GMT; Path=/; secure, t=d5ofDahyYq5s24LG9YGQBT3Z; Domain=dropbox.com; expires=Sat, 16 Sep 2023 09:18:34 GMT; httponly; Path=/; secure, __Host-js_csrf=d5ofDahyYq5s24LG9YGQBT3Z; expires=Sat, 16 Sep 2023 09:18:34 GMT; Path=/; secure",
+            "X-Content-Type-Options": "nosniff",
+            "X-Dropbox-Request-Id": "2e82eea295f2ecb998b6993db3d0d846",
+            "X-Frame-Options": "DENY",
+            "X-Xss-Protection": "1; mode=block",
+            "X-Envoy-Upstream-Service-Time": "134",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "dropbox.com": [
+                "162.125.248.1"
+            ],
+            "www.dropbox.com": [
+                "162.125.82.1"
+            ]
+        },
+        "ping": {
+            "dropbox.com": [
+                "162.125.248.1"
+            ],
+            "www.dropbox.com": [
+                "162.125.81.1"
+            ]
+        },
+        "CNAME": {
+            "www.dropbox.com": [
+                "www.dropbox-dns.com."
+            ]
+        },
+        "A": {
+            "www.dropbox.com": [
+                "162.125.81.1"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:18:35 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "no-cache",
+            "Content-Security-Policy": "base-uri 'self' ; child-src https://www.dropbox.com/static/serviceworker/ blob: ; connect-src https://* ws://127.0.0.1:*/ws ; default-src 'none' ; font-src https://* data: ; form-action 'self' https://www.dropbox.com/ https://dl-web.dropbox.com/ https://photos.dropbox.com/ https://paper.dropbox.com/ https://showcase.dropbox.com/ https://www.hellofax.com/ https://app.hellofax.com/ https://www.hellosign.com/ https://app.hellosign.com/ https://help.dropbox.com/ https://navi.dropbox.jp/ https://selfguidedlearning.dropboxbusiness.com/ https://instructorledlearning.dropboxbusiness.com/ https://sales.dropboxbusiness.com/ https://dropboxconnect.co.uk/ https://accounts.google.com/ https://api.login.yahoo.com/ https://login.yahoo.com/ https://experience.dropbox.com/ https://pal-test.adyen.com https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/ ; frame-src https://* carousel: dbapi-6: dbapi-7: dbapi-8: dropbox-client: itms-apps: itms-appss: ; img-src https://* data: blob: ; media-src https://* blob: ; object-src 'self' https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ https://flash.dropboxstatic.com https://swf.dropboxstatic.com https://dbxlocal.dropboxstatic.com ; report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist ; script-src 'unsafe-eval' https://www.dropbox.com/static/api/ https://www.dropbox.com/page_success/ https://cfl.dropboxstatic.com/static/js/ https://www.dropboxstatic.com/static/js/ https://cfl.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://www.dropboxstatic.com/static/src/dws-ensemble-appshell/ https://cfl.dropboxstatic.com/static/previews/ https://www.dropboxstatic.com/static/previews/ https://cfl.dropboxstatic.com/static/api/ https://www.dropboxstatic.com/static/api/ https://cfl.dropboxstatic.com/static/cms/ https://www.dropboxstatic.com/static/cms/ 'nonce-9vLLJ4NflZElN7pDNhX8' ; style-src https://* 'unsafe-inline' 'unsafe-eval' ; worker-src https://www.dropbox.com/static/serviceworker/ blob:, report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-dynamic ; script-src 'unsafe-eval' 'strict-dynamic' 'nonce-9vLLJ4NflZElN7pDNhX8' 'nonce-/XS7IKeyiLpkZKZM0cll'",
+            "Dropbox-Streaming": "V=1",
+            "Pragma": "no-cache",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "Set-Cookie": "__Host-ss=OvFMtZMIz0; expires=Sat, 16 Sep 2023 09:18:35 GMT; httponly; Path=/; SameSite=strict; secure, locale=en; Domain=dropbox.com; expires=Mon, 15 Sep 2025 09:18:35 GMT; Path=/; secure, gvc=MjkxMjY5NDAyMTE0NDYxNjYyMTAzNDE2NzA1MzA4MjI1ODg0NjM0; expires=Mon, 15 Sep 2025 09:18:35 GMT; httponly; Path=/; secure, flash=; Domain=dropbox.com; expires=Wed, 16 Sep 2020 09:18:35 GMT; Path=/; secure, puc=; expires=Wed, 16 Sep 2020 09:18:35 GMT; httponly; Path=/; secure, bang=; Domain=dropbox.com; expires=Wed, 16 Sep 2020 09:18:35 GMT; Path=/; secure, t=r1rXY20gyo20dxHxd637zy2S; Domain=dropbox.com; expires=Sat, 16 Sep 2023 09:18:35 GMT; httponly; Path=/; secure, __Host-js_csrf=r1rXY20gyo20dxHxd637zy2S; expires=Sat, 16 Sep 2023 09:18:35 GMT; Path=/; secure",
+            "X-Content-Type-Options": "nosniff",
+            "X-Dropbox-Request-Id": "bc14d8888371e311cea9f262cda94309",
+            "X-Frame-Options": "DENY",
+            "X-Xss-Protection": "1; mode=block",
+            "X-Envoy-Upstream-Service-Time": "117",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "dropbox.com": [
+                "162.125.248.1"
+            ],
+            "www.dropbox.com": [
+                "162.125.82.1"
+            ]
+        },
+        "ping": {
+            "dropbox.com": [
+                "162.125.248.1"
+            ],
+            "www.dropbox.com": [
+                "162.125.81.1"
+            ]
+        },
+        "CNAME": {
+            "www.dropbox.com": [
+                "www.dropbox-dns.com."
+            ]
+        },
+        "A": {
+            "www.dropbox.com": [
+                "162.125.81.1"
+            ]
+        }
+    }
+}

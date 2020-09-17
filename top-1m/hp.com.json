@@ -1,0 +1,105 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Last-Modified": "Wed, 16 Sep 2020 10:18:08 GMT",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin, Origin, X-Requested-With, Content-Type, Accept",
+            "Access-Control-Allow-Methods": "GET, OPTIONS, POST, PUT, DELETE",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Max-Age": "3600",
+            "Content-Encoding": "gzip",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "30198",
+            "Cache-Control": "max-age=2311",
+            "Expires": "Wed, 16 Sep 2020 11:17:16 GMT",
+            "Date": "Wed, 16 Sep 2020 10:38:45 GMT",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding"
+        },
+        "nslookup": {
+            "hp.com": [
+                "15.72.164.74",
+                "15.72.228.83",
+                "15.73.104.147",
+                "15.73.192.108"
+            ],
+            "www8.hp.com": [
+                "104.69.145.213"
+            ]
+        },
+        "ping": {
+            "hp.com": [
+                "15.72.164.74",
+                "15.72.228.83",
+                "15.73.104.147"
+            ],
+            "www8.hp.com": [
+                "104.69.145.213"
+            ]
+        },
+        "CNAME": {
+            "www8.hp.com": [
+                "www8.hp.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www8.hp.com": [
+                "104.69.145.213"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Apache",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Last-Modified": "Wed, 16 Sep 2020 10:18:08 GMT",
+            "Access-Control-Allow-Headers": "Access-Control-Allow-Origin, Origin, X-Requested-With, Content-Type, Accept",
+            "Access-Control-Allow-Methods": "GET, OPTIONS, POST, PUT, DELETE",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Max-Age": "3600",
+            "Content-Encoding": "gzip",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "30198",
+            "Cache-Control": "max-age=2308",
+            "Expires": "Wed, 16 Sep 2020 11:17:16 GMT",
+            "Date": "Wed, 16 Sep 2020 10:38:48 GMT",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding"
+        },
+        "nslookup": {
+            "hp.com": [
+                "15.73.192.108",
+                "15.72.164.74",
+                "15.72.228.83",
+                "15.73.104.147"
+            ],
+            "www8.hp.com": [
+                "104.69.145.213"
+            ]
+        },
+        "ping": {
+            "hp.com": [
+                "15.72.228.83",
+                "15.72.164.74",
+                "15.73.192.108",
+                "15.73.104.147"
+            ],
+            "www8.hp.com": [
+                "104.69.145.213"
+            ]
+        },
+        "CNAME": {
+            "www8.hp.com": [
+                "www8.hp.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www8.hp.com": [
+                "104.69.145.213"
+            ]
+        }
+    }
+}

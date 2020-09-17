@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:01:51 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "cf-request-id": "0537f61a350000dcf2e30de200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39bfa38ca7dcf2-SIN"
+        },
+        "nslookup": {
+            "hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ],
+            "www.hdfcbank.com": [
+                "104.16.108.25",
+                "104.16.107.25"
+            ]
+        },
+        "ping": {
+            "hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ],
+            "www.hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ]
+        },
+        "CNAME": {
+            "www.hdfcbank.com": null
+        },
+        "A": {
+            "www.hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:01:52 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "cf-request-id": "0537f61a91000018fcf8870200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Vary": "Accept-Encoding",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39bfa41f3618fc-SIN"
+        },
+        "nslookup": {
+            "hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ],
+            "www.hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ]
+        },
+        "ping": {
+            "hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ],
+            "www.hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ]
+        },
+        "CNAME": {
+            "www.hdfcbank.com": null
+        },
+        "A": {
+            "www.hdfcbank.com": [
+                "104.16.107.25",
+                "104.16.108.25"
+            ]
+        }
+    }
+}

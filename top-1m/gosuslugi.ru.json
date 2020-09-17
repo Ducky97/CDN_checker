@@ -1,0 +1,76 @@
+{
+    "http": {
+        "header": {
+            "Set-Cookie": "userSelectedLanguage=ru; Domain=.gosuslugi.ru; Path=/; Expires=Mon, 02 Jul 2294 10:14:39 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "64459",
+            "ETag": "W/\"fbcb-nYIhnF9Jbm0I3ZVBedU0uG0buHY\"",
+            "Date": "Wed, 16 Sep 2020 10:14:39 GMT",
+            "Connection": "keep-alive",
+            "Strict-Transport-Security": "max-age=157680000"
+        },
+        "nslookup": {
+            "gosuslugi.ru": [
+                "109.207.1.97"
+            ],
+            "www.gosuslugi.ru": [
+                "109.207.1.97"
+            ]
+        },
+        "ping": {
+            "gosuslugi.ru": [
+                "109.207.1.97"
+            ],
+            "www.gosuslugi.ru": [
+                "109.207.1.97"
+            ]
+        },
+        "CNAME": {
+            "www.gosuslugi.ru": [
+                "gosuslugi.ru."
+            ]
+        },
+        "A": {
+            "www.gosuslugi.ru": [
+                "109.207.1.97"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Set-Cookie": "userSelectedLanguage=ru; Domain=.gosuslugi.ru; Path=/; Expires=Mon, 02 Jul 2294 10:14:43 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Length": "64459",
+            "ETag": "W/\"fbcb-nYIhnF9Jbm0I3ZVBedU0uG0buHY\"",
+            "Date": "Wed, 16 Sep 2020 10:14:43 GMT",
+            "Connection": "keep-alive",
+            "Strict-Transport-Security": "max-age=157680000"
+        },
+        "nslookup": {
+            "gosuslugi.ru": [
+                "109.207.1.97"
+            ],
+            "www.gosuslugi.ru": [
+                "109.207.1.97"
+            ]
+        },
+        "ping": {
+            "gosuslugi.ru": [
+                "109.207.1.97"
+            ],
+            "www.gosuslugi.ru": [
+                "109.207.1.97"
+            ]
+        },
+        "CNAME": {
+            "www.gosuslugi.ru": [
+                "gosuslugi.ru."
+            ]
+        },
+        "A": {
+            "www.gosuslugi.ru": [
+                "109.207.1.97"
+            ]
+        }
+    }
+}

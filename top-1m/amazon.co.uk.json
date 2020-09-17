@@ -1,0 +1,106 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html",
+            "Content-Length": "2287",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 09:22:12 GMT",
+            "x-amz-rid": "1DBW466FAXQQ3MT9CM6B",
+            "Vary": "Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 5157dedfe33ef5a309f236599901abe3.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "WdnB7NBk9bJ-kQdqSNXVK7gVaO51ODZhLSetVrrwQj_rnCgLQn-G4A=="
+        },
+        "nslookup": {
+            "amazon.co.uk": [
+                "178.236.7.220",
+                "54.239.33.58",
+                "54.239.34.171"
+            ],
+            "www.amazon.co.uk": [
+                "13.227.253.205"
+            ]
+        },
+        "ping": {
+            "amazon.co.uk": [
+                "54.239.33.58",
+                "54.239.34.171"
+            ],
+            "www.amazon.co.uk": [
+                "173.222.145.227",
+                "13.227.253.205"
+            ]
+        },
+        "CNAME": {
+            "amazon.co.uk": null
+        },
+        "A": {
+            "amazon.co.uk": [
+                "54.239.33.58",
+                "54.239.34.171",
+                "178.236.7.220"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 09:22:13 GMT",
+            "x-amz-rid": "BZ2RHM0AB8REW4SCYXQ7",
+            "Set-Cookie": "session-id=260-0163821-8626746; Domain=.amazon.co.uk; Expires=Thu, 16-Sep-2021 09:22:13 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.co.uk; Expires=Thu, 16-Sep-2021 09:22:13 GMT; Path=/, i18n-prefs=GBP; Domain=.amazon.co.uk; Expires=Thu, 16-Sep-2021 09:22:13 GMT; Path=/",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "X-UA-Compatible": "IE=edge",
+            "Content-Language": "en-GB",
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 bc2a5a75d0f4b8341ecc8aeb15690852.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "D2VLCDDD10AEIGrMIDmS6xQi2pMVzpTKJncxKtQltK86sTne3unWxw=="
+        },
+        "nslookup": {
+            "amazon.co.uk": [
+                "54.239.33.58",
+                "54.239.34.171",
+                "178.236.7.220"
+            ],
+            "www.amazon.co.uk": [
+                "173.222.145.227"
+            ]
+        },
+        "ping": {
+            "amazon.co.uk": [
+                "54.239.33.58",
+                "178.236.7.220"
+            ],
+            "www.amazon.co.uk": [
+                "173.222.145.227",
+                "13.227.253.205"
+            ]
+        },
+        "CNAME": {
+            "amazon.co.uk": null
+        },
+        "A": {
+            "amazon.co.uk": [
+                "54.239.33.58",
+                "54.239.34.171",
+                "178.236.7.220"
+            ]
+        }
+    }
+}

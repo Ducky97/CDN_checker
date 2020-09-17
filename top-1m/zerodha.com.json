@@ -1,0 +1,79 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:52 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Last-Modified": "Mon, 14 Sep 2020 09:14:13 GMT",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=15552000",
+            "X-Frame-Options": "DENY",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537f7057d0000d9e4c6a22200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39c11bfa2bd9e4-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "zerodha.com": [
+                "104.16.215.247",
+                "104.16.214.247"
+            ]
+        },
+        "ping": {
+            "zerodha.com": [
+                "104.16.215.247",
+                "104.16.214.247"
+            ]
+        },
+        "CNAME": {
+            "zerodha.com": "still a low_level domain_name"
+        },
+        "A": {
+            "zerodha.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 10:02:52 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=dccc97e2ac78873f3c08c9186360e53c71600250572; expires=Fri, 16-Oct-20 10:02:52 GMT; path=/; domain=.zerodha.com; HttpOnly; SameSite=Lax",
+            "Last-Modified": "Mon, 14 Sep 2020 09:14:13 GMT",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=15552000",
+            "X-Frame-Options": "DENY",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537f706040000e25b820df200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39c11cdfdbe25b-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "zerodha.com": [
+                "104.16.215.247",
+                "104.16.214.247"
+            ]
+        },
+        "ping": {
+            "zerodha.com": [
+                "104.16.215.247",
+                "104.16.214.247"
+            ]
+        },
+        "CNAME": {
+            "zerodha.com": "still a low_level domain_name"
+        },
+        "A": {
+            "zerodha.com": "still a low_level domain_name"
+        }
+    }
+}

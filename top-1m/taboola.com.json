@@ -1,0 +1,120 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "16610",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Link": "<https://www.taboola.com/>; rel=shortlink",
+            "Server": "nginx",
+            "X-Pantheon-Styx-Hostname": "styx-fe1-a-7cc598f5fb-djbh5",
+            "X-Styx-Req-Id": "d90d9113-f76f-11ea-ab23-12da6e48a4b9",
+            "X-Xss-Protection": "1; mode=block",
+            "Cache-Control": "no-cache",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:09:43 GMT",
+            "Age": "63949",
+            "X-Served-By": "cache-mdw17339-MDW, cache-sin18035-SIN, cache-sin18039-SIN",
+            "X-Cache": "HIT, HIT, HIT",
+            "X-Cache-Hits": "2, 4717, 5",
+            "X-Timer": "S1600250984.748010,VS0,VE0",
+            "Vary": "Accept-Encoding, Cookie, Cookie",
+            "Strict-Transport-Security": "max-age=31557600"
+        },
+        "nslookup": {
+            "taboola.com": [
+                "151.101.2.132",
+                "151.101.66.132",
+                "151.101.130.132",
+                "151.101.194.132"
+            ],
+            "www.taboola.com": [
+                "151.101.1.181",
+                "151.101.65.181",
+                "151.101.129.181",
+                "151.101.193.181"
+            ]
+        },
+        "ping": {
+            "taboola.com": [
+                "151.101.66.132",
+                "151.101.2.132",
+                "151.101.130.132",
+                "151.101.194.132"
+            ],
+            "www.taboola.com": [
+                "151.101.9.181"
+            ]
+        },
+        "CNAME": {
+            "www.taboola.com": [
+                "taboola.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.taboola.com": [
+                "151.101.9.181"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "16610",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Link": "<https://www.taboola.com/>; rel=shortlink",
+            "Server": "nginx",
+            "X-Pantheon-Styx-Hostname": "styx-fe1-a-7cc598f5fb-djbh5",
+            "X-Styx-Req-Id": "d90d9113-f76f-11ea-ab23-12da6e48a4b9",
+            "X-Xss-Protection": "1; mode=block",
+            "Cache-Control": "no-cache",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:09:44 GMT",
+            "Age": "63949",
+            "X-Served-By": "cache-mdw17339-MDW, cache-sin18035-SIN, cache-sin18044-SIN",
+            "X-Cache": "HIT, HIT, HIT",
+            "X-Cache-Hits": "2, 4717, 2",
+            "X-Timer": "S1600250984.014004,VS0,VE0",
+            "Vary": "Accept-Encoding, Cookie, Cookie",
+            "Strict-Transport-Security": "max-age=31557600"
+        },
+        "nslookup": {
+            "taboola.com": [
+                "151.101.2.132",
+                "151.101.66.132",
+                "151.101.130.132",
+                "151.101.194.132"
+            ],
+            "www.taboola.com": [
+                "151.101.1.181",
+                "151.101.65.181",
+                "151.101.129.181",
+                "151.101.193.181"
+            ]
+        },
+        "ping": {
+            "taboola.com": [
+                "151.101.66.132",
+                "151.101.2.132",
+                "151.101.130.132",
+                "151.101.194.132"
+            ],
+            "www.taboola.com": [
+                "151.101.9.181"
+            ]
+        },
+        "CNAME": {
+            "www.taboola.com": [
+                "taboola.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.taboola.com": [
+                "151.101.9.181"
+            ]
+        }
+    }
+}

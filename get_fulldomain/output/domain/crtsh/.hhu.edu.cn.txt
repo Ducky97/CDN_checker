@@ -1,0 +1,5 @@
+*.hhu.edu.cn
+hzz.hhu.edu.cn
+mids.hhu.edu.cn
+myapp.hhu.edu.cn
+ncysaq.hhu.edu.cn

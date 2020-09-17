@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:18:15 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "CF-Ray": "5d397fbede1619dd-SIN",
+            "Cache-Control": "no-cache",
+            "Content-Language": "en",
+            "Set-Cookie": "csrftoken=XXB0lHBDzsG8bLIbqf3o6PAOpl9Oo3bZjPLgQi3xHXAO7XxywHUXnXV7LHXl6fEe; expires=Wed, 15-Sep-2021 09:18:15 GMT; Max-Age=31449600; Path=/; secure, stcki=\"GkUUZp=0\\0547bERd5=0\\054jV5-cv=0\"; expires=Fri, 16-Oct-2020 09:18:15 GMT; Max-Age=2592000; Path=/, dwf_s_a=False; expires=Fri, 16-Oct-2020 09:18:15 GMT; Max-Age=2592000; Path=/; secure, __cf_bm=026871ef3a0f39987c52ba68c9a4fd1dafb4ec79-1600247895-1800-AchaDnaXowu2wlpyRwGYl5aGWzWcz+Xez9c2od6VQd1UydVjxb0vjE70bwxIxzjKA/KyskWV+lpJxrBNP6scKUI=; path=/; expires=Wed, 16-Sep-20 09:48:15 GMT; domain=.chaturbate.com; HttpOnly; Secure; SameSite=None",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Vary": "Accept-Encoding, Cookie, Accept-Language",
+            "CF-Cache-Status": "DYNAMIC",
+            "CF-Ctrl": "A",
+            "cf-request-id": "0537ce2b4b000019dd2c2a8200000001",
+            "Content-Security-Policy": "default-src 'self';  script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://ajax.googleapis.com https://cdn.exoticads.com https://js-agent.newrelic.com https://cdnjs.cloudflare.com https://www.google-analytics.com https://www.google.com/recaptcha/ https://www.google.com/cv/ https://www.gstatic.com/recaptcha/ https://www.gstatic.com/cv/ https://www.gstatic.com/eureka/ https://www.gstatic.com/cast/ https://bam.nr-data.net https://chaturbateapps.disqus.com https://*.disquscdn.com https://disqus.com https://certify-js.alexametrics.com ;  style-src 'self' data: 'unsafe-inline' https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.googleapis.com https://*.disquscdn.com ;  img-src 'self' data: https://*.highwebmedia.com https://*stream.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://www.google-analytics.com https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com https://cdnjs.cloudflare.com https://www.gstatic.com https://bam.nr-data.net https://*.disquscdn.com https://links.services.disqus.com https://referrer.disqus.com https://certify.alexametrics.com https://stats.g.doubleclick.net ;  font-src 'self' data: https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.gstatic.com ;  connect-src 'self' blob: blob https://*.highwebmedia.com wss://*.highwebmedia.com wss://*.highwebmedia.com:8443 https://bam.nr-data.net https://*.chaturbate.com https://chaturbate.com wss://recommend.chaturbate.com:8443 https://www.google-analytics.com https://links.services.disqus.com https://cbvideoupload.s3-accelerate.amazonaws.com https://stats.g.doubleclick.net https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  media-src 'self' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com mediasource: blob: data: https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com;  object-src 'self' https://*.highwebmedia.com https://download.macromedia.com https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  frame-src 'self' https://*.chaturbate.com https://chaturbate.com https://*.highwebmedia.com https://adserver.exoticads.com https://www.google.com/recaptcha/ https://disqus.com ;  child-src 'self' blob: blob ;  worker-src 'self' blob: blob ;  form-action 'self' https://*.chaturbate.com https://chaturbate.com https://*.stream.highwebmedia.com https://www.coinpayments.net https://wnu.com ;  manifest-src 'self' https://*.highwebmedia.com ;  report-uri https://report-uri.highwebmedia.com/r/t/csp/enforce;",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "NEL": "{\"report_to\":\"default\",\"max_age\":2592000,\"include_subdomains\":true}",
+            "P3P": "CP=\"ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI\"",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Report-To": "{\"group\":\"default\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://report-uri.highwebmedia.com/a/t/g\"}],\"include_subdomains\":true}",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block; report=https://report-uri.highwebmedia.com/r/t/xss/enforce",
+            "Server": "cloudflare",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "chaturbate.com": [
+                "104.18.101.40",
+                "104.18.100.40"
+            ]
+        },
+        "ping": {
+            "chaturbate.com": [
+                "104.18.101.40",
+                "104.18.100.40"
+            ]
+        },
+        "CNAME": {
+            "chaturbate.com": "still a low_level domain_name"
+        },
+        "A": {
+            "chaturbate.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:18:15 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=ddd06cc6f82ec84381f33332d017010311600247895; expires=Fri, 16-Oct-20 09:18:15 GMT; path=/; domain=.chaturbate.com; HttpOnly; SameSite=Lax, csrftoken=DpY2SfCSxvBTckxkVJRNdRVDcHKAbHF7uw3yX8zTmSJXTnkDRMMBkcATYXbzgPD7; expires=Wed, 15-Sep-2021 09:18:15 GMT; Max-Age=31449600; Path=/; secure, stcki=\"GkUUZp=0\\0547bERd5=1\\054jV5-cv=0\"; expires=Fri, 16-Oct-2020 09:18:15 GMT; Max-Age=2592000; Path=/, affkey=\"eJyrVipSslJQyigpKSi20tfPTcyvTMzTS87P1U/KTyxK0TdRqgUAzN8LpA==\"; Domain=.chaturbate.com; expires=Fri, 16-Oct-2020 09:18:15 GMT; Max-Age=2592000; Path=/, sbr=\"sec:sbrb993c574-b0e2-4ee8-9501-c1f382563550:1kITZv:FRA-ExyzCpg16m22E73DvejIcU0\"; expires=Mon, 12-Jun-2023 09:18:15 GMT; httponly; Max-Age=86313600; Path=/; secure, dwf_s_a=False; expires=Fri, 16-Oct-2020 09:18:15 GMT; Max-Age=2592000; Path=/; secure, __cf_bm=325f3be560b0fa48a8b16e5ea3f34aa6747da8d0-1600247895-1800-Ad/P6VaQZOXBimD/m61YTXDnYBDdNpfZSg1twKhscRtiErpjTsrB2hsUvhFqF5xKi9cC4+Pde4hAjTLPmrXr/Og=; path=/; expires=Wed, 16-Sep-20 09:48:15 GMT; domain=.chaturbate.com; HttpOnly; Secure; SameSite=None",
+            "CF-Ray": "5d397fc16f2fd9e8-SIN",
+            "Cache-Control": "no-cache",
+            "Content-Language": "en",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Vary": "Accept-Encoding, Cookie, Accept-Language",
+            "CF-Cache-Status": "DYNAMIC",
+            "CF-Ctrl": "A",
+            "cf-request-id": "0537ce2ce00000d9e8d72db200000001",
+            "Content-Security-Policy": "default-src 'self';  script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://ajax.googleapis.com https://cdn.exoticads.com https://js-agent.newrelic.com https://cdnjs.cloudflare.com https://www.google-analytics.com https://www.google.com/recaptcha/ https://www.google.com/cv/ https://www.gstatic.com/recaptcha/ https://www.gstatic.com/cv/ https://www.gstatic.com/eureka/ https://www.gstatic.com/cast/ https://bam.nr-data.net https://chaturbateapps.disqus.com https://*.disquscdn.com https://disqus.com https://certify-js.alexametrics.com ;  style-src 'self' data: 'unsafe-inline' https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.googleapis.com https://*.disquscdn.com ;  img-src 'self' data: https://*.highwebmedia.com https://*stream.highwebmedia.com https://*.chaturbate.com https://chaturbate.com https://www.google-analytics.com https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com https://cdnjs.cloudflare.com https://www.gstatic.com https://bam.nr-data.net https://*.disquscdn.com https://links.services.disqus.com https://referrer.disqus.com https://certify.alexametrics.com https://stats.g.doubleclick.net ;  font-src 'self' data: https://*.highwebmedia.com https://cdnjs.cloudflare.com https://fonts.gstatic.com ;  connect-src 'self' blob: blob https://*.highwebmedia.com wss://*.highwebmedia.com wss://*.highwebmedia.com:8443 https://bam.nr-data.net https://*.chaturbate.com https://chaturbate.com wss://recommend.chaturbate.com:8443 https://www.google-analytics.com https://links.services.disqus.com https://cbvideoupload.s3-accelerate.amazonaws.com https://stats.g.doubleclick.net https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  media-src 'self' https://*.highwebmedia.com https://*.chaturbate.com https://chaturbate.com mediasource: blob: data: https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com;  object-src 'self' https://*.highwebmedia.com https://download.macromedia.com https://public.chaturbate.com https://s3pv.highwebmedia.com https://cbphotovideo.s3.amazonaws.com https://cbphotovideo-eu.s3.amazonaws.com https://public.chaturbate.com.s3.amazonaws.com https://wowdvr.s3.amazonaws.com https://cbvideoupload.s3.amazonaws.com ;  frame-src 'self' https://*.chaturbate.com https://chaturbate.com https://*.highwebmedia.com https://adserver.exoticads.com https://www.google.com/recaptcha/ https://disqus.com ;  child-src 'self' blob: blob ;  worker-src 'self' blob: blob ;  form-action 'self' https://*.chaturbate.com https://chaturbate.com https://*.stream.highwebmedia.com https://www.coinpayments.net https://wnu.com ;  manifest-src 'self' https://*.highwebmedia.com ;  report-uri https://report-uri.highwebmedia.com/r/t/csp/enforce;",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "NEL": "{\"report_to\":\"default\",\"max_age\":2592000,\"include_subdomains\":true}",
+            "P3P": "CP=\"ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI\"",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Report-To": "{\"group\":\"default\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://report-uri.highwebmedia.com/a/t/g\"}],\"include_subdomains\":true}",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-XSS-Protection": "1; mode=block; report=https://report-uri.highwebmedia.com/r/t/xss/enforce",
+            "Server": "cloudflare",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "chaturbate.com": [
+                "104.18.100.40",
+                "104.18.101.40"
+            ]
+        },
+        "ping": {
+            "chaturbate.com": [
+                "104.18.101.40",
+                "104.18.100.40"
+            ]
+        },
+        "CNAME": {
+            "chaturbate.com": "still a low_level domain_name"
+        },
+        "A": {
+            "chaturbate.com": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "85339",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:09:40 GMT",
+            "Server": "marrakesh 1.16.6",
+            "Cache-Control": "no-transform, max-age=10, must-revalidate, proxy-revalidate",
+            "Last-Modified": "Wed, 16 Sep 2020 10:09:03 GMT",
+            "ETag": "fd0018e28655d3b25dd5a9eeb3b28c5b",
+            "Expires": "Wed, 16 Sep 2020 10:09:50 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding,User-Agent",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 92ebddd34a5dacfb924391ae6946602a.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "izTJOFuQtDNuYClqCd2jYP0M-KO2pelAWRO7XhcBvWLyyeFuGD3p8w==",
+            "Age": "5"
+        },
+        "nslookup": {
+            "uol.com.br": [
+                "200.147.3.157"
+            ],
+            "www.uol.com.br": [
+                "13.35.20.38",
+                "13.35.20.118",
+                "13.35.20.3",
+                "13.35.20.44"
+            ]
+        },
+        "ping": {
+            "uol.com.br": [
+                "200.147.35.149",
+                "200.147.3.157"
+            ],
+            "www.uol.com.br": [
+                "13.35.20.118",
+                "13.35.20.3"
+            ]
+        },
+        "CNAME": {
+            "uol.com.br": null
+        },
+        "A": {
+            "uol.com.br": [
+                "200.147.3.157"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html;charset=UTF-8",
+            "Content-Length": "85339",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:09:40 GMT",
+            "Server": "marrakesh 1.16.6",
+            "Cache-Control": "no-transform, max-age=10, must-revalidate, proxy-revalidate",
+            "Last-Modified": "Wed, 16 Sep 2020 10:09:03 GMT",
+            "ETag": "fd0018e28655d3b25dd5a9eeb3b28c5b",
+            "Expires": "Wed, 16 Sep 2020 10:09:50 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding,User-Agent",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 101fe44f3abacff135b2a73264d75b1e.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "TNpwpMukebnricsz9TUyQdt027ept73KBsE8UqxcW-4y_ak5_Di9Iw==",
+            "Age": "9"
+        },
+        "nslookup": {
+            "uol.com.br": [
+                "200.147.3.157"
+            ],
+            "www.uol.com.br": [
+                "13.35.20.3",
+                "13.35.20.38",
+                "13.35.20.118",
+                "13.35.20.44"
+            ]
+        },
+        "ping": {
+            "uol.com.br": [
+                "200.147.35.149",
+                "200.147.3.157"
+            ],
+            "www.uol.com.br": [
+                "13.35.20.118",
+                "13.35.20.3"
+            ]
+        },
+        "CNAME": {
+            "uol.com.br": null
+        },
+        "A": {
+            "uol.com.br": [
+                "200.147.35.149"
+            ]
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 08:57:20 GMT",
+            "Expires": "-1",
+            "Cache-Control": "private, max-age=0",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Strict-Transport-Security": "max-age=31536000",
+            "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+            "Content-Encoding": "gzip",
+            "Server": "gws",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "NID=204=LMBbsngUiX02fipXvY0jLJKNE4f2HNNaYIgn6MhQpZEgMrWK1sdGU3QihodSawuhQZyYXkdoyHZRgqeuSzKCfZCwaO82hdCIgqfUDp7M2oR2hnpk2WUk5Lh-6f30Anq3ZuDDmj-iqZBVraPj3f2hzdVyoxl34ktLqKTpXRCwvic; expires=Thu, 18-Mar-2021 08:57:20 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "google.com": [
+                "172.217.160.110"
+            ],
+            "www.google.com": [
+                "172.217.24.4"
+            ]
+        },
+        "ping": {
+            "google.com": [
+                "74.125.24.100",
+                "74.125.24.102",
+                "74.125.24.113",
+                "74.125.24.101",
+                "74.125.24.138"
+            ],
+            "www.google.com": [
+                "74.125.130.99",
+                "74.125.24.104",
+                "74.125.200.103",
+                "172.217.26.68",
+                "74.125.200.105",
+                "74.125.200.99"
+            ]
+        },
+        "CNAME": {
+            "www.google.com": null
+        },
+        "A": {
+            "www.google.com": [
+                "74.125.130.103",
+                "74.125.130.105",
+                "74.125.130.104",
+                "74.125.130.99",
+                "74.125.130.106",
+                "74.125.130.147"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 08:57:20 GMT",
+            "Expires": "-1",
+            "Cache-Control": "private, max-age=0",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Strict-Transport-Security": "max-age=31536000",
+            "P3P": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+            "Content-Encoding": "gzip",
+            "Server": "gws",
+            "X-XSS-Protection": "0",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Set-Cookie": "NID=204=tXNEiTPobImvRzL8CS52zaJNyBhcHfSgNxhuZovhizj-93YFZ3cjwerkhrafLTouwuwyBg7Pig3olAUBWFTzQ0bIko1aQoORXLCYfrWnBA208UVALT9xJlpFlyHP3fD58w7SvwQaETPEz-aDvDafhyXBqGXb0ZBBTZVE6B0ZkSE; expires=Thu, 18-Mar-2021 08:57:20 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none",
+            "Alt-Svc": "h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "google.com": [
+                "216.58.200.238"
+            ],
+            "www.google.com": [
+                "216.58.200.228"
+            ]
+        },
+        "ping": {
+            "google.com": [
+                "74.125.24.101",
+                "74.125.24.138",
+                "74.125.24.102"
+            ],
+            "www.google.com": [
+                "74.125.130.99",
+                "74.125.24.147",
+                "74.125.200.103",
+                "172.217.26.68",
+                "74.125.200.105",
+                "74.125.200.104"
+            ]
+        },
+        "CNAME": {
+            "www.google.com": null
+        },
+        "A": {
+            "www.google.com": [
+                "74.125.130.103",
+                "74.125.130.105",
+                "74.125.130.104",
+                "74.125.130.99",
+                "74.125.130.106",
+                "74.125.130.147"
+            ]
+        }
+    }
+}

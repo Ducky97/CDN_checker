@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:51:24 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cf-Railgun": "1cda8e46c1 1.34 0.038858 0031 57da",
+            "Set-Cookie": "last_page=d0d871453a5f7fd9dce313869139fc1282c838bb23ed01132b06aa39f1d596b4a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22last_page%22%3Bi%3A1%3BN%3B%7D; path=/; HttpOnly, page=95bf9d2796fd01415324180ad946a46aafc860d0ec1c467b66515d8e71027d00a%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22page%22%3Bi%3A1%3Bs%3A10%3A%22site%2Findex%22%3B%7D; path=/; HttpOnly, _csrf-ilovepdf=d48b5423a7f0b9b51c07225eefd5a403eadefb3511786401ebe22abd8ececdafa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-ilovepdf%22%3Bi%3A1%3Bs%3A32%3A%2266u0vT5EJtHaYEFo39EjVYH0SHCD4lou%22%3B%7D; path=/; HttpOnly",
+            "X-Powered-By": "PHP/7.2.15",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537ec8622000018c60e370200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39b0503b4d18c6-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ],
+            "www.ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ]
+        },
+        "ping": {
+            "ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ],
+            "www.ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ]
+        },
+        "CNAME": {
+            "www.ilovepdf.com": null
+        },
+        "A": {
+            "www.ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:51:25 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cf-Railgun": "0287acb35e 1.35 0.048156 0031 57da",
+            "Set-Cookie": "last_page=d0d871453a5f7fd9dce313869139fc1282c838bb23ed01132b06aa39f1d596b4a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22last_page%22%3Bi%3A1%3BN%3B%7D; path=/; HttpOnly, page=95bf9d2796fd01415324180ad946a46aafc860d0ec1c467b66515d8e71027d00a%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22page%22%3Bi%3A1%3Bs%3A10%3A%22site%2Findex%22%3B%7D; path=/; HttpOnly",
+            "X-Powered-By": "PHP/7.3.2",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537ec8b6c0000d9d88219f200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39b058aa8ed9d8-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ilovepdf.com": [
+                "104.20.1.94",
+                "104.20.0.94"
+            ],
+            "www.ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ]
+        },
+        "ping": {
+            "ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ],
+            "www.ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ]
+        },
+        "CNAME": {
+            "www.ilovepdf.com": null
+        },
+        "A": {
+            "www.ilovepdf.com": [
+                "104.20.0.94",
+                "104.20.1.94"
+            ]
+        }
+    }
+}

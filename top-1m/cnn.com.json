@@ -1,0 +1,127 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "157700",
+            "Content-Type": "text/html; charset=utf-8",
+            "x-servedByHost": "::ffff:127.0.0.1",
+            "access-control-allow-origin": "*",
+            "cache-control": "max-age=60",
+            "content-security-policy": "default-src 'self' blob: https://*.cnn.com:* http://*.cnn.com:* *.cnn.io:* *.cnn.net:* *.turner.com:* *.turner.io:* *.ugdturner.com:* courageousstudio.com *.vgtf.net:*; script-src 'unsafe-eval' 'unsafe-inline' 'self' *; style-src 'unsafe-inline' 'self' blob: *; child-src 'self' blob: *; frame-src 'self' *; object-src 'self' *; img-src 'self' data: blob: *; media-src 'self' data: blob: *; font-src 'self' data: *; connect-src 'self' *; frame-ancestors 'self' https://*.cnn.com:* http://*.cnn.com https://*.cnn.io:* http://*.cnn.io:* *.turner.com:* courageousstudio.com;",
+            "x-content-type-options": "nosniff",
+            "x-xss-protection": "1; mode=block",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:19:53 GMT",
+            "Age": "156",
+            "Set-Cookie": "countryCode=SG; Domain=.cnn.com; Path=/; SameSite=Lax, stateCode=01; Domain=.cnn.com; Path=/; SameSite=Lax, geoData=singapore|01|228211|SG|AS|800|broadband|1.280|103.850; Domain=.cnn.com; Path=/; SameSite=Lax, FastAB=0=9359,1=8057,2=0881,3=7792,4=6539,5=1033,6=6712,7=0995,8=3668,9=9708; Domain=.cnn.com; Path=/; Expires=Sat Jul 01 2023 00:00:00 GMT; SameSite=Lax",
+            "X-Served-By": "cache-dca17768-DCA, cache-sin18038-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "1, 20",
+            "X-Timer": "S1600247993.312186,VS0,VE0",
+            "Vary": "x-fastab-0,x-fastab-4, Accept-Encoding"
+        },
+        "nslookup": {
+            "cnn.com": [
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.1.67",
+                "151.101.193.67"
+            ],
+            "edition.cnn.com": [
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.193.67",
+                "151.101.1.67"
+            ]
+        },
+        "ping": {
+            "cnn.com": [
+                "151.101.193.67",
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.1.67"
+            ],
+            "edition.cnn.com": [
+                "151.101.193.67",
+                "151.101.65.67",
+                "151.101.129.67"
+            ]
+        },
+        "CNAME": {
+            "edition.cnn.com": null
+        },
+        "A": {
+            "edition.cnn.com": [
+                "151.101.193.67",
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.1.67"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "157700",
+            "Content-Type": "text/html; charset=utf-8",
+            "x-servedByHost": "::ffff:127.0.0.1",
+            "access-control-allow-origin": "*",
+            "cache-control": "max-age=60",
+            "content-security-policy": "default-src 'self' blob: https://*.cnn.com:* http://*.cnn.com:* *.cnn.io:* *.cnn.net:* *.turner.com:* *.turner.io:* *.ugdturner.com:* courageousstudio.com *.vgtf.net:*; script-src 'unsafe-eval' 'unsafe-inline' 'self' *; style-src 'unsafe-inline' 'self' blob: *; child-src 'self' blob: *; frame-src 'self' *; object-src 'self' *; img-src 'self' data: blob: *; media-src 'self' data: blob: *; font-src 'self' data: *; connect-src 'self' *; frame-ancestors 'self' https://*.cnn.com:* http://*.cnn.com https://*.cnn.io:* http://*.cnn.io:* *.turner.com:* courageousstudio.com;",
+            "x-content-type-options": "nosniff",
+            "x-xss-protection": "1; mode=block",
+            "Content-Encoding": "gzip",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 09:19:53 GMT",
+            "Age": "157",
+            "Set-Cookie": "countryCode=SG; Domain=.cnn.com; Path=/; SameSite=Lax, stateCode=01; Domain=.cnn.com; Path=/; SameSite=Lax, geoData=singapore|01|228211|SG|AS|800|broadband|1.280|103.850; Domain=.cnn.com; Path=/; SameSite=Lax, FastAB=0=8752,1=3808,2=6428,3=7911,4=2847,5=1046,6=4711,7=0059,8=6196,9=2129; Domain=.cnn.com; Path=/; Expires=Sat Jul 01 2023 00:00:00 GMT; SameSite=Lax",
+            "X-Served-By": "cache-dca17768-DCA, cache-sin18020-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "1, 54",
+            "X-Timer": "S1600247993.405935,VS0,VE0",
+            "Vary": "x-fastab-0,x-fastab-4, Accept-Encoding"
+        },
+        "nslookup": {
+            "cnn.com": [
+                "151.101.1.67",
+                "151.101.129.67",
+                "151.101.193.67",
+                "151.101.65.67"
+            ],
+            "edition.cnn.com": [
+                "151.101.1.67",
+                "151.101.129.67",
+                "151.101.193.67",
+                "151.101.65.67"
+            ]
+        },
+        "ping": {
+            "cnn.com": [
+                "151.101.193.67",
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.1.67"
+            ],
+            "edition.cnn.com": [
+                "151.101.193.67",
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.1.67"
+            ]
+        },
+        "CNAME": {
+            "edition.cnn.com": null
+        },
+        "A": {
+            "edition.cnn.com": [
+                "151.101.193.67",
+                "151.101.65.67",
+                "151.101.129.67",
+                "151.101.1.67"
+            ]
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 09:19:32 GMT",
+            "Server": "nginx",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "we-hiring": "jobs@kompas.com",
+            "mail-subject": "Join_via_header",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 a0dab1619e09a1e6e84a759dfdfe7343.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "t1zbJ4SuTuPZ0mIHEb3CTUfpDxl71ia4icHpB9DNGZxWrcQgp7wC-g=="
+        },
+        "nslookup": {
+            "kompas.com": [
+                "54.255.206.223",
+                "52.74.177.222"
+            ],
+            "www.kompas.com": [
+                "13.35.20.76",
+                "13.35.20.82",
+                "13.35.20.86",
+                "13.35.20.97"
+            ]
+        },
+        "ping": {
+            "kompas.com": [
+                "54.255.206.223",
+                "52.74.177.222"
+            ],
+            "www.kompas.com": [
+                "13.35.20.97",
+                "13.35.20.82",
+                "13.35.20.76"
+            ]
+        },
+        "CNAME": {
+            "www.kompas.com": null
+        },
+        "A": {
+            "www.kompas.com": [
+                "13.35.20.97",
+                "13.35.20.82",
+                "13.35.20.76",
+                "13.35.20.86"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 09:19:32 GMT",
+            "Server": "nginx",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "we-hiring": "jobs@kompas.com",
+            "mail-subject": "Join_via_header",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "Hit from cloudfront",
+            "Via": "1.1 23632109ecb3eb8245f17822f97fa88f.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "0xDpUZ_K9VgOqLaFoNYm-Tli7vH1F9TTqfTlyMMokQPDbinm81AQwQ=="
+        },
+        "nslookup": {
+            "kompas.com": [
+                "54.255.206.223",
+                "52.74.177.222"
+            ],
+            "www.kompas.com": [
+                "13.35.20.97",
+                "13.35.20.76",
+                "13.35.20.86",
+                "13.35.20.82"
+            ]
+        },
+        "ping": {
+            "kompas.com": [
+                "54.255.206.223",
+                "52.74.177.222"
+            ],
+            "www.kompas.com": [
+                "13.35.20.97",
+                "13.35.20.82",
+                "13.35.20.76",
+                "13.35.20.86"
+            ]
+        },
+        "CNAME": {
+            "www.kompas.com": null
+        },
+        "A": {
+            "www.kompas.com": [
+                "13.35.20.97",
+                "13.35.20.82",
+                "13.35.20.76",
+                "13.35.20.86"
+            ]
+        }
+    }
+}

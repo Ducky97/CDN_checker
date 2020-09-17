@@ -1,0 +1,2 @@
+*.snnu.edu.cn
+mail.snnu.edu.cn

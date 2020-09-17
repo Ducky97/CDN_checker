@@ -1,0 +1,149 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
+            "Date": "Wed, 16 Sep 2020 11:32:00 GMT",
+            "Server": "nginx",
+            "Set-Cookie": "ep201=hD5VVVW0etSx/8vUZtB0MaY/o9U=; Domain=.surveymonkey.com; Path=/; Expires=Wed, 16-Sep-20 12:02:00 GMT, ep202=5ll4lTkvw9Alpq27dYpw6BPzlGM=; Domain=.surveymonkey.com; Path=/; Expires=Tue, 15-Dec-20 11:32:00 GMT, ep203=whdMSOj6/I7Mf9h+U8fS+Rbx4Lg=; Domain=.surveymonkey.com; Path=/; Expires=Tue, 15-Dec-20 11:32:00 GMT, attr_multitouch=95gVqWSUyT3xmG1Gf0AJ2zI1tas=; Domain=.surveymonkey.com; Path=/; Expires=Thu, 16-Sep-21 17:32:00 GMT",
+            "ETag": "W/\"1d26a-7u0jlP+OBDt1giNrzmI8Od/+tV8\"",
+            "SL_NOREWRITE_REDIRECTS": "1",
+            "X-SL-Notranslate": "1",
+            "X-SL-Norewrite": "1",
+            "Content-Security-Policy-Report-Only": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self';  frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=false&c=prod&ar=true&a=cmscache",
+            "X-Webkit-CSP-Report-Only": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self';  frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=false&c=prod&ar=true&a=cmscache",
+            "X-Content-Security-Policy-Report-Only": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self';  frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=false&c=prod&ar=true&a=cmscache",
+            "Content-Security-Policy": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=true&c=prod&ar=true&a=cmscache",
+            "X-Webkit-CSP": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=true&c=prod&ar=true&a=cmscache",
+            "X-Content-Security-Policy": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=true&c=prod&ar=true&a=cmscache",
+            "X-XSS-Protection": "1;report=https://csp.surveymonkey.com/report?e=false&c=prod&ar=true",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 0b3572829f6f42309f3adfa694398770.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "Y-bE079L-vpzuam57WR0H3sm9HDRoJY9bEsPyWOLleD402Q4wZBVCg==",
+            "Age": "468197"
+        },
+        "nslookup": {
+            "surveymonkey.com": [
+                "13.33.144.101",
+                "13.33.144.127",
+                "13.33.144.38",
+                "13.33.144.45"
+            ],
+            "www.surveymonkey.com": [
+                "13.35.20.72",
+                "13.35.20.127",
+                "13.35.20.13",
+                "13.35.20.98"
+            ]
+        },
+        "ping": {
+            "surveymonkey.com": [
+                "13.249.71.89",
+                "13.226.45.65",
+                "13.226.45.112",
+                "99.84.251.43",
+                "13.226.45.40",
+                "99.84.47.17",
+                "13.226.45.85"
+            ],
+            "www.surveymonkey.com": [
+                "13.35.20.72",
+                "13.35.20.127",
+                "13.35.20.13",
+                "13.35.20.98"
+            ]
+        },
+        "CNAME": {
+            "www.surveymonkey.com": [
+                "primary-sm-prod-frontdoor-multiplex.svmkinfra.com."
+            ]
+        },
+        "A": {
+            "www.surveymonkey.com": [
+                "13.35.20.98",
+                "13.35.20.127",
+                "13.35.20.72",
+                "13.35.20.13"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
+            "Date": "Wed, 16 Sep 2020 11:32:02 GMT",
+            "Server": "nginx",
+            "Set-Cookie": "ep201=6SDjdm+5AkDzqjzOURSI2N35i9s=; Domain=.surveymonkey.com; Path=/; Expires=Wed, 16-Sep-20 12:02:02 GMT, ep202=LfnsWR5pZ8V06KuoDhLjKML/glM=; Domain=.surveymonkey.com; Path=/; Expires=Tue, 15-Dec-20 11:32:02 GMT, ep203=IUBZJ9/ARror8qOUDiRuVbcRgGI=; Domain=.surveymonkey.com; Path=/; Expires=Tue, 15-Dec-20 11:32:02 GMT, attr_multitouch=k7U5yzaNm5Sckp9HuMCgpfJR/yc=; Domain=.surveymonkey.com; Path=/; Expires=Thu, 16-Sep-21 17:32:02 GMT",
+            "ETag": "W/\"1d26b-17Fz82Lo6CDwYcAQ2RZTqOCF/dc\"",
+            "SL_NOREWRITE_REDIRECTS": "1",
+            "X-SL-Notranslate": "1",
+            "X-SL-Norewrite": "1",
+            "Content-Security-Policy-Report-Only": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self';  frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=false&c=prod&ar=true&a=cmscache",
+            "X-Webkit-CSP-Report-Only": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self';  frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=false&c=prod&ar=true&a=cmscache",
+            "X-Content-Security-Policy-Report-Only": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self';  frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=false&c=prod&ar=true&a=cmscache",
+            "Content-Security-Policy": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=true&c=prod&ar=true&a=cmscache",
+            "X-Webkit-CSP": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=true&c=prod&ar=true&a=cmscache",
+            "X-Content-Security-Policy": "default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net wss://*.hotjar.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com;report-uri https://csp.surveymonkey.com/report?e=true&c=prod&ar=true&a=cmscache",
+            "X-XSS-Protection": "1;report=https://csp.surveymonkey.com/report?e=false&c=prod&ar=true",
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 23632109ecb3eb8245f17822f97fa88f.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN5-C1",
+            "X-Amz-Cf-Id": "yyE66iAvz9IH_KzTIYsFL10aH4U6lX7PHOgPCWD1xhZu_TszT-EL6Q==",
+            "Age": "468199"
+        },
+        "nslookup": {
+            "surveymonkey.com": [
+                "13.33.144.45",
+                "13.33.144.127",
+                "13.33.144.38",
+                "13.33.144.101"
+            ],
+            "www.surveymonkey.com": [
+                "13.35.20.98",
+                "13.35.20.72",
+                "13.35.20.13",
+                "13.35.20.127"
+            ]
+        },
+        "ping": {
+            "surveymonkey.com": [
+                "13.249.71.89",
+                "99.84.251.43",
+                "13.226.45.40",
+                "99.84.47.17"
+            ],
+            "www.surveymonkey.com": [
+                "13.35.20.72",
+                "13.35.20.127",
+                "13.35.20.13",
+                "13.35.20.98"
+            ]
+        },
+        "CNAME": {
+            "www.surveymonkey.com": [
+                "primary-sm-prod-frontdoor-multiplex.svmkinfra.com."
+            ]
+        },
+        "A": {
+            "www.surveymonkey.com": [
+                "13.35.20.98",
+                "13.35.20.13",
+                "13.35.20.72",
+                "13.35.20.127"
+            ]
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "http": {
+        "header": {
+            "Content-Encoding": "gzip",
+            "Accept-Ranges": "bytes",
+            "Age": "1436",
+            "Cache-Control": "Public,public",
+            "Content-Type": "text/html",
+            "Date": "Wed, 16 Sep 2020 10:02:43 GMT",
+            "Expires": "Wed, 16 Sep 2020 14:02:43 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 09:38:47 GMT",
+            "Server": "ECS (sgb/C7B8)",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "HIT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Powered-By": "ASP.NET",
+            "Content-Length": "16384"
+        },
+        "nslookup": {
+            "w3schools.com": [
+                "66.29.212.110"
+            ],
+            "www.w3schools.com": [
+                "192.229.179.87"
+            ]
+        },
+        "ping": {
+            "w3schools.com": [
+                "66.29.212.110"
+            ],
+            "www.w3schools.com": [
+                "192.229.179.87"
+            ]
+        },
+        "CNAME": {
+            "www.w3schools.com": [
+                "cs837.wac.edgecastcdn.net."
+            ]
+        },
+        "A": {
+            "www.w3schools.com": [
+                "192.229.179.87"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Encoding": "gzip",
+            "Accept-Ranges": "bytes",
+            "Age": "1439",
+            "Cache-Control": "Public,public",
+            "Content-Type": "text/html",
+            "Date": "Wed, 16 Sep 2020 10:02:45 GMT",
+            "Expires": "Wed, 16 Sep 2020 14:02:45 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 09:38:47 GMT",
+            "Server": "ECS (sgb/C74B)",
+            "Vary": "Accept-Encoding",
+            "X-Cache": "HIT",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Powered-By": "ASP.NET",
+            "Content-Length": "16384"
+        },
+        "nslookup": {
+            "w3schools.com": [
+                "66.29.212.110"
+            ],
+            "www.w3schools.com": [
+                "192.229.179.87"
+            ]
+        },
+        "ping": {
+            "w3schools.com": [
+                "66.29.212.110"
+            ],
+            "www.w3schools.com": [
+                "192.229.179.87"
+            ]
+        },
+        "CNAME": {
+            "www.w3schools.com": [
+                "cs837.wac.edgecastcdn.net."
+            ]
+        },
+        "A": {
+            "www.w3schools.com": [
+                "192.229.179.87"
+            ]
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 10:10:15 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "x-amz-rid": "F0H12K0NV8SYB15KS0X7",
+            "Set-Cookie": "session-id=462-0637407-0302203; Domain=.amazon.cn; Expires=Thu, 16-Sep-2021 10:10:15 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.cn; Expires=Thu, 16-Sep-2021 10:10:15 GMT; Path=/, i18n-prefs=CNY; Domain=.amazon.cn; Expires=Thu, 16-Sep-2021 10:10:15 GMT; Path=/, session-id=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT, session-id-time=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT, session-token=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT, ubid-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT, at-main=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT, x-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT, UserPref=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:15 GMT",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "Cache-Control": "no-cache, no-transform",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN"
+        },
+        "nslookup": {
+            "amazon.cn": [
+                "54.222.60.218"
+            ],
+            "www.amazon.cn": [
+                "54.222.60.218"
+            ]
+        },
+        "ping": {
+            "amazon.cn": [
+                "54.222.60.218"
+            ],
+            "www.amazon.cn": [
+                "54.222.60.218"
+            ]
+        },
+        "CNAME": {
+            "www.amazon.cn": null
+        },
+        "A": {
+            "www.amazon.cn": [
+                "54.222.60.218"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Server",
+            "Date": "Wed, 16 Sep 2020 10:10:19 GMT",
+            "Content-Type": "text/html;charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "x-amz-rid": "JG08QV5JK3GKPPZEFJWD",
+            "Set-Cookie": "session-id=462-6126246-7420058; Domain=.amazon.cn; Expires=Thu, 16-Sep-2021 10:10:19 GMT; Path=/, session-id-time=2082787201l; Domain=.amazon.cn; Expires=Thu, 16-Sep-2021 10:10:19 GMT; Path=/, i18n-prefs=CNY; Domain=.amazon.cn; Expires=Thu, 16-Sep-2021 10:10:19 GMT; Path=/, session-id=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT, session-id-time=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT, session-token=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT, ubid-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT, at-main=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT, x-acbcn=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT, UserPref=-; path=/; domain=.www.amazon.cn; expires=Tue, 16-Sep-2008 10:10:19 GMT",
+            "Accept-CH": "ect,rtt,downlink",
+            "Accept-CH-Lifetime": "86400",
+            "Cache-Control": "no-cache, no-transform",
+            "Pragma": "no-cache",
+            "Expires": "-1",
+            "Content-Encoding": "gzip",
+            "X-XSS-Protection": "1;",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent",
+            "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload",
+            "X-Frame-Options": "SAMEORIGIN"
+        },
+        "nslookup": {
+            "amazon.cn": [
+                "54.222.60.218"
+            ],
+            "www.amazon.cn": [
+                "54.222.60.218"
+            ]
+        },
+        "ping": {
+            "amazon.cn": [
+                "54.222.60.218"
+            ],
+            "www.amazon.cn": [
+                "54.222.60.218"
+            ]
+        },
+        "CNAME": {
+            "www.amazon.cn": null
+        },
+        "A": {
+            "www.amazon.cn": [
+                "54.222.60.218"
+            ]
+        }
+    }
+}

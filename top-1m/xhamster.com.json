@@ -1,0 +1,65 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:46:39 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=daedbe28993d1926588453152825a9e411600249598; expires=Fri, 16-Oct-20 09:46:38 GMT; path=/; domain=.xhamster.com; HttpOnly; SameSite=Lax, stats_id=949034; expires=Wed, 23-Sep-2020 09:46:39 GMT; Max-Age=604800; path=/; domain=.xhamster.com",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537e82be80000a98e739ac200000001",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39a9597e1fa98e-SIN"
+        },
+        "nslookup": {
+            "xhamster.com": [
+                "104.18.155.3",
+                "104.18.156.3"
+            ]
+        },
+        "ping": {
+            "xhamster.com": [
+                "104.18.156.3",
+                "104.18.155.3"
+            ]
+        },
+        "CNAME": {
+            "xhamster.com": "still a low_level domain_name"
+        },
+        "A": {
+            "xhamster.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:46:39 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=d62832770bb4aa3b321996411cd6fecb01600249599; expires=Fri, 16-Oct-20 09:46:39 GMT; path=/; domain=.xhamster.com; HttpOnly; SameSite=Lax, stats_id=773790; expires=Wed, 23-Sep-2020 09:46:39 GMT; Max-Age=604800; path=/; domain=.xhamster.com",
+            "CF-Cache-Status": "DYNAMIC",
+            "cf-request-id": "0537e82cc7000001b032b11200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39a95adcbc01b0-SIN"
+        },
+        "nslookup": {
+            "xhamster.com": [
+                "104.18.156.3",
+                "104.18.155.3"
+            ]
+        },
+        "ping": {
+            "xhamster.com": [
+                "104.18.156.3",
+                "104.18.155.3"
+            ]
+        },
+        "CNAME": {
+            "xhamster.com": "still a low_level domain_name"
+        },
+        "A": {
+            "xhamster.com": "still a low_level domain_name"
+        }
+    }
+}

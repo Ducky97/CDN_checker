@@ -1,0 +1,120 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "x-xss-protection": "1; mode=block",
+            "x-content-type-options": "nosniff",
+            "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+            "x-ua-compatible": "IE=edge",
+            "set-cookie": "csrftoken=24334694e9eec325a32d7fb91f8964e4; path=/; expires=Thu, 16 Sep 2021 10:01:01 GMT; secure, _pinterest_sess=TWc9PSZyZktWZDY3dlFaUHIvRm5kbnkyazdTbkUrNklRcmptY1prTmovcGdtcUpTUE1nVXl2bU42amRRRXkxa0pheS9HaW9QZjV2aTlLa2dFU3F5RE5QMllMa1VlYWFSNURKazIwRVhmZUlPOUtOSzRWYVc1T0Y3cXd4SitWVFJPbEVOMWpGNXo4NVFmSmozVHNiVyswMExyUWc9PSYxTE8wZFdJT0NOQ1ZjTjJmZ1FqTEdXQStOQ3c9; path=/; expires=Sat, 11 Sep 2021 10:01:01 GMT; domain=.pinterest.com; samesite=none; secure; httponly, _auth=0; path=/; expires=Sat, 11 Sep 2021 10:01:01 GMT; domain=.pinterest.com; secure; httponly, _pinterest_referrer=https://maoyan.com/board/4; path=/; expires=Wed, 16 Sep 2020 15:01:01 GMT; domain=.pinterest.com, _routing_id=\"74880fd8-6c2a-4333-b6bd-0dd206f9927c\"; Max-Age=86400; Path=/; HttpOnly",
+            "p3p": "CP=\"This is not a P3P policy. See https://www.pinterest.com/_/_/help/articles/pinterest-and-p3p for more info.\"",
+            "content-security-policy": "script-src 'nonce-fa265f597e978a37ec3a193cbc22e608' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline' 'unsafe-eval'; connect-src 'self' *.pinimg.com *.pinterest.com accounts.google.com *.branch.io *.facebook.com *.dropboxapi.com *.adyen.com *.adyenpayments.com cdn.ampproject.org *.cdn.ampproject.org pinterest-aberdeen.s3.amazonaws.com pinterest-anaheim.s3.amazonaws.com pinterest-media-upload.s3.amazonaws.com pinterest-media-upload.s3-accelerate.amazonaws.com pinterest-poughkeepsie.s3.amazonaws.com pinterest-waterloo.s3.amazonaws.com pinterest-plymouth.s3.amazonaws.com *.cedexis.com *.cedexis-radar.net blob: *.appcues.com *.appcues.net wss://*.appcues.net *.bugsnag.com; media-src 'self' *.pinimg.com blob: data:; object-src 'self'; form-action 'self'; worker-src 'self' blob: https://www-pinterest-com.cdn.ampproject.org 'unsafe-inline'; base-uri 'none'; report-uri /_/_/csp_report/?rid=7204614359486032; frame-ancestors 'self'",
+            "content-security-policy-report-only": "frame-src 'self' *.google.com *.pinimg.com *.pinterest.com *.pinterdev.com *.facebook.com player.grabnetworks.com www.kickstarter.com staging.slideshare.com player.anyclip.com verify.vote.org movieclips.com scache.vevo.com *.adyen.com www.voteplz.org player.hulu.com www.crackle.com www.dailymotion.com cache.vevo.com www.slideshare.net crackle.com embed.5min.com embed.ted.com register.vote.org absentee.vote.org www.crunchyroll.com videoplayer.vevo.com w.soundcloud.com embed-ssl.ted.com *.youtube.com *.ytimg.com player.vimeo.com vine.co scache.vevo.com bid.g.doubleclick.net *.fls.doubleclick.net pinterest-waterloo.s3.amazonaws.com pinlogs.s3.amazonaws.com advertising-delivery-metric-reports.s3.amazonaws.com *.appcues.com *.cdn.ampproject.org; report-uri /_/_/csp_report/?reportonly",
+            "x-frame-options": "SAMEORIGIN",
+            "content-type": "text/html; charset=utf-8",
+            "x-envoy-upstream-service-time": "91",
+            "content-encoding": "gzip",
+            "x-pinterest-rid": "7204614359486032",
+            "Date": "Wed, 16 Sep 2020 10:01:01 GMT",
+            "Vary": "User-Agent, Accept-Encoding",
+            "X-CDN": "fastly",
+            "Pinterest-Generated-By": "coreapp-webapp-prod-0a018f79",
+            "Pinterest-Version": "b651532",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "pinterest.com": [
+                "151.101.0.84",
+                "151.101.64.84",
+                "151.101.128.84",
+                "151.101.192.84"
+            ],
+            "www.pinterest.com": [
+                "151.101.0.84",
+                "151.101.64.84",
+                "151.101.128.84",
+                "151.101.192.84"
+            ]
+        },
+        "ping": {
+            "pinterest.com": [
+                "151.101.128.84",
+                "151.101.0.84",
+                "151.101.64.84",
+                "151.101.192.84"
+            ],
+            "www.pinterest.com": [
+                "151.101.8.84"
+            ]
+        },
+        "CNAME": {
+            "www.pinterest.com": [
+                "www.pinterest.com.gslb.pinterest.com."
+            ]
+        },
+        "A": {
+            "www.pinterest.com": [
+                "151.101.8.84"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "x-xss-protection": "1; mode=block",
+            "x-content-type-options": "nosniff",
+            "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+            "x-ua-compatible": "IE=edge",
+            "set-cookie": "csrftoken=7cd16d142c82398eb563c094b6c8999c; path=/; expires=Thu, 16 Sep 2021 10:01:01 GMT; secure, _pinterest_sess=TWc9PSZoMjJBZU9LQzRRODlWTGJlenZqMy9UMU1CU1hIOVNwMXFxVEo1N09Ub2t1OExsbFliRWV6MUtMbEV3WjNjQ0xjQjNPRWVyd0pGQWZuZHQ1QkhqWm9PRGNpV1dCNVNzVlpMN2h3eFJrZE9hUEo1eHhqWU4rNDlUQWUzMzFZNDRvS1I0cmR2UDhIcG5rdkR2MTV0c1Zzd3c9PSZTb2NEUGlqUGI2dFZLRlJOSUU1Wnk3RmNMTms9; path=/; expires=Sat, 11 Sep 2021 10:01:01 GMT; domain=.pinterest.com; samesite=none; secure; httponly, _auth=0; path=/; expires=Sat, 11 Sep 2021 10:01:01 GMT; domain=.pinterest.com; secure; httponly, _pinterest_referrer=https://maoyan.com/board/4; path=/; expires=Wed, 16 Sep 2020 15:01:01 GMT; domain=.pinterest.com, _routing_id=\"050a68be-cc9d-4f02-bcb1-18b7c92c7996\"; Max-Age=86400; Path=/; HttpOnly",
+            "p3p": "CP=\"This is not a P3P policy. See https://www.pinterest.com/_/_/help/articles/pinterest-and-p3p for more info.\"",
+            "content-security-policy": "script-src 'nonce-d548e4f8ef493fdf6975f614e20b482f' 'strict-dynamic' 'report-sample' 'self' *.pinterest.com *.pinimg.com *.google.com connect.facebook.net *.google-analytics.com *.facebook.com *.googleadservices.com *.doubleclick.net *.googletagmanager.com *.adyen.com *.adyenpayments.com *.bnc.lt bnc.lt *.branch.io cdn.ampproject.org *.cdn.ampproject.org radar.cedexis.com *.cedexis-test.com www.gstatic.com/recaptcha/ 'unsafe-inline' 'unsafe-eval'; connect-src 'self' *.pinimg.com *.pinterest.com accounts.google.com *.branch.io *.facebook.com *.dropboxapi.com *.adyen.com *.adyenpayments.com cdn.ampproject.org *.cdn.ampproject.org pinterest-aberdeen.s3.amazonaws.com pinterest-anaheim.s3.amazonaws.com pinterest-media-upload.s3.amazonaws.com pinterest-media-upload.s3-accelerate.amazonaws.com pinterest-poughkeepsie.s3.amazonaws.com pinterest-waterloo.s3.amazonaws.com pinterest-plymouth.s3.amazonaws.com *.cedexis.com *.cedexis-radar.net blob: *.appcues.com *.appcues.net wss://*.appcues.net *.bugsnag.com; media-src 'self' *.pinimg.com blob: data:; object-src 'self'; form-action 'self'; worker-src 'self' blob: https://www-pinterest-com.cdn.ampproject.org 'unsafe-inline'; base-uri 'none'; report-uri /_/_/csp_report/?rid=0502595997702712; frame-ancestors 'self'",
+            "content-security-policy-report-only": "frame-src 'self' *.google.com *.pinimg.com *.pinterest.com *.pinterdev.com *.facebook.com player.grabnetworks.com www.kickstarter.com staging.slideshare.com player.anyclip.com verify.vote.org movieclips.com scache.vevo.com *.adyen.com www.voteplz.org player.hulu.com www.crackle.com www.dailymotion.com cache.vevo.com www.slideshare.net crackle.com embed.5min.com embed.ted.com register.vote.org absentee.vote.org www.crunchyroll.com videoplayer.vevo.com w.soundcloud.com embed-ssl.ted.com *.youtube.com *.ytimg.com player.vimeo.com vine.co scache.vevo.com bid.g.doubleclick.net *.fls.doubleclick.net pinterest-waterloo.s3.amazonaws.com pinlogs.s3.amazonaws.com advertising-delivery-metric-reports.s3.amazonaws.com *.appcues.com *.cdn.ampproject.org; report-uri /_/_/csp_report/?reportonly",
+            "x-frame-options": "SAMEORIGIN",
+            "content-type": "text/html; charset=utf-8",
+            "x-envoy-upstream-service-time": "66",
+            "content-encoding": "gzip",
+            "x-pinterest-rid": "0502595997702712",
+            "Date": "Wed, 16 Sep 2020 10:01:01 GMT",
+            "Vary": "User-Agent, Accept-Encoding",
+            "X-CDN": "fastly",
+            "Pinterest-Generated-By": "coreapp-webapp-prod-0a01c609",
+            "Pinterest-Version": "b651532",
+            "transfer-encoding": "chunked"
+        },
+        "nslookup": {
+            "pinterest.com": [
+                "151.101.0.84",
+                "151.101.64.84",
+                "151.101.128.84",
+                "151.101.192.84"
+            ],
+            "www.pinterest.com": [
+                "151.101.0.84",
+                "151.101.64.84",
+                "151.101.128.84",
+                "151.101.192.84"
+            ]
+        },
+        "ping": {
+            "pinterest.com": [
+                "151.101.64.84",
+                "151.101.0.84",
+                "151.101.128.84",
+                "151.101.192.84"
+            ],
+            "www.pinterest.com": [
+                "151.101.8.84"
+            ]
+        },
+        "CNAME": {
+            "www.pinterest.com": [
+                "www.pinterest.com.gslb.pinterest.com."
+            ]
+        },
+        "A": {
+            "www.pinterest.com": [
+                "151.101.8.84"
+            ]
+        }
+    }
+}

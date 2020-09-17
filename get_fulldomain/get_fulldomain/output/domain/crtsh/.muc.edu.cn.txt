@@ -1,0 +1,10 @@
+*.muc.edu.cn
+*.vpn.muc.edu.cn
+*.vpnnew.muc.edu.cn
+*.webvpn.muc.edu.cn
+ilaw.muc.edu.cn
+vpn.muc.edu.cn
+vpnnew.muc.edu.cn
+webvpn.muc.edu.cn
+wx.muc.edu.cn
+wximg.muc.edu.cn

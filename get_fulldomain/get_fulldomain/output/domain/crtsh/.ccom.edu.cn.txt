@@ -1,0 +1,6 @@
+*.ccom.edu.cn
+kjwyh.ccom.edu.cn
+www.ccom.edu.cn
+wx.ccom.edu.cn
+wximg.ccom.edu.cn
+zhaoban.ccom.edu.cn

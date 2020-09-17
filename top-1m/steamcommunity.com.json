@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src blob: data: https: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://steamcommunity-a.akamaihd.net/ https://api.steampowered.com/ https://media.st.dl.pinyuncloud.com/steamcommunity/public/assets/ *.google-analytics.com https://www.google.com https://www.gstatic.com https://apis.google.com https://recaptcha.net https://www.gstatic.cn/recaptcha/; object-src 'none'; connect-src 'self' https://steamcommunity-a.akamaihd.net/ https://api.steampowered.com/ https://store.steampowered.com/ wss://community.steam-api.com/websocket/ *.google-analytics.com https://*.valvesoftware.com https://*.steambeta.net https://*.steamcontent.com https://steambroadcast.akamaized.net https://steambroadcastchat.akamaized.net https://broadcast.st.dl.bscstorage.net https://broadcast.st.dl.eccdnx.com http://127.0.0.1:27060 ws://127.0.0.1:27060; frame-src 'self' steam: https://store.steampowered.com/ https://www.youtube.com https://www.google.com https://sketchfab.com https://player.vimeo.com https://medal.tv https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/;",
+            "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "Cache-Control": "no-cache",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Content-Length": "8265",
+            "Date": "Wed, 16 Sep 2020 11:35:49 GMT",
+            "Connection": "keep-alive",
+            "Set-Cookie": "sessionid=352d5b30da7313ab10939fea; Path=/; Secure; SameSite=None, steamCountry=CN%7C965e4a331692b57027407c237494267e; Path=/; Secure; SameSite=None"
+        },
+        "nslookup": {
+            "steamcommunity.com": [
+                "2.21.205.140"
+            ]
+        },
+        "ping": {
+            "steamcommunity.com": [
+                "96.6.229.181"
+            ]
+        },
+        "CNAME": {
+            "steamcommunity.com": "still a low_level domain_name"
+        },
+        "A": {
+            "steamcommunity.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src blob: data: https: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://steamcommunity-a.akamaihd.net/ https://api.steampowered.com/ https://media.st.dl.pinyuncloud.com/steamcommunity/public/assets/ *.google-analytics.com https://www.google.com https://www.gstatic.com https://apis.google.com https://recaptcha.net https://www.gstatic.cn/recaptcha/; object-src 'none'; connect-src 'self' https://steamcommunity-a.akamaihd.net/ https://api.steampowered.com/ https://store.steampowered.com/ wss://community.steam-api.com/websocket/ *.google-analytics.com https://*.valvesoftware.com https://*.steambeta.net https://*.steamcontent.com https://steambroadcast.akamaized.net https://steambroadcastchat.akamaized.net https://broadcast.st.dl.bscstorage.net https://broadcast.st.dl.eccdnx.com http://127.0.0.1:27060 ws://127.0.0.1:27060; frame-src 'self' steam: https://store.steampowered.com/ https://www.youtube.com https://www.google.com https://sketchfab.com https://player.vimeo.com https://medal.tv https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/;",
+            "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "Cache-Control": "no-cache",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Content-Length": "8265",
+            "Date": "Wed, 16 Sep 2020 11:35:50 GMT",
+            "Connection": "keep-alive",
+            "Set-Cookie": "sessionid=82b169552b07fb6c972231fc; Path=/; Secure; SameSite=None, steamCountry=CN%7C965e4a331692b57027407c237494267e; Path=/; Secure; SameSite=None"
+        },
+        "nslookup": {
+            "steamcommunity.com": [
+                "2.21.205.140"
+            ]
+        },
+        "ping": {
+            "steamcommunity.com": [
+                "96.6.229.181"
+            ]
+        },
+        "CNAME": {
+            "steamcommunity.com": "still a low_level domain_name"
+        },
+        "A": {
+            "steamcommunity.com": "still a low_level domain_name"
+        }
+    }
+}

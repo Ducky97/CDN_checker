@@ -1,0 +1,62 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 02:40:06 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Link": "<https://ailab-moe.sjtu.edu.cn/wp-json/>; rel=\"https://api.w.org/\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ailab-moe.sjtu.edu.cn": [
+                "111.186.58.6"
+            ]
+        },
+        "ping": {
+            "ailab-moe.sjtu.edu.cn": [
+                "111.186.58.6"
+            ]
+        },
+        "CNAME": {
+            "ailab-moe.sjtu.edu.cn": null
+        },
+        "A": {
+            "ailab-moe.sjtu.edu.cn": [
+                "111.186.58.6"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Thu, 17 Sep 2020 02:40:08 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Link": "<https://ailab-moe.sjtu.edu.cn/wp-json/>; rel=\"https://api.w.org/\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ailab-moe.sjtu.edu.cn": [
+                "111.186.58.6"
+            ]
+        },
+        "ping": {
+            "ailab-moe.sjtu.edu.cn": [
+                "111.186.58.6"
+            ]
+        },
+        "CNAME": {
+            "ailab-moe.sjtu.edu.cn": null
+        },
+        "A": {
+            "ailab-moe.sjtu.edu.cn": [
+                "111.186.58.6"
+            ]
+        }
+    }
+}

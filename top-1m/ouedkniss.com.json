@@ -1,0 +1,106 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:49:26 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "PHPSESSID=dtdtlgqpblu55qeid628oge56u; path=/; domain=.ouedkniss.com; secure; HttpOnly, language=fr; expires=Fri, 16-Oct-2020 10:49:26 GMT; Max-Age=2592000; path=/; domain=ouedkniss.com; secure; HttpOnly, dd=54137c51ef97d73956ea22dabc47aa0d; expires=Sun, 16-Jun-2030 10:49:26 GMT; Max-Age=307584000; path=/; domain=ouedkniss.com; secure; HttpOnly",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Pragma": "no-cache",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "Content-Security-Policy": "base-uri 'self'; form-action 'self' https://*.facebook.com https://plus.ouedkniss.com https://pubs.ouedkniss.com  https://images.ouedkniss.com; object-src 'self'; frame-ancestors 'self'; default-src data: 'self' 'unsafe-inline' 'unsafe-eval' https://*.ouedkniss.com https://*.criteo.com https://*.criteo.net https://*.googletagservices.com https://*.google-analytics.com https://*.cloudfront.net https://*.doubleclick.net https://*.google.dz https://*.alexametrics.com https://*.google.com https://*.googlesyndication.com https://*.autobip.com https://*.facebook.com https://*.facebook.net https://*.jquery.com https://*.gstatic.com https://*.tripadvisor.com https://*.googleapis.com https://*.google.fr https://*.doubleclick.net https://*.gstatic.com https://*.ampproject.org https://*.tripadvisor.com https://*.tripadvisor.fr https://*.facebook.com https://partner.googleadservices.com https://www.googletagmanager.com https://www.googleadservices.com https://annuaire.ouedkniss.com",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ouedkniss.com": [
+                "51.38.63.232",
+                "51.38.63.233",
+                "51.38.63.234"
+            ],
+            "www.ouedkniss.com": [
+                "51.38.63.232",
+                "51.38.63.234",
+                "51.38.63.233"
+            ]
+        },
+        "ping": {
+            "ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.232",
+                "51.38.63.234"
+            ],
+            "www.ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.232",
+                "51.38.63.234"
+            ]
+        },
+        "CNAME": {
+            "www.ouedkniss.com": null
+        },
+        "A": {
+            "www.ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.232",
+                "51.38.63.234"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:49:33 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "PHPSESSID=1gg16s9d9e7e7o1orogftqihde; path=/; domain=.ouedkniss.com; secure; HttpOnly, language=fr; expires=Fri, 16-Oct-2020 10:49:33 GMT; Max-Age=2592000; path=/; domain=ouedkniss.com; secure; HttpOnly, dd=bb2bf5575035450ca15ce8e5adb81686; expires=Sun, 16-Jun-2030 10:49:33 GMT; Max-Age=307584000; path=/; domain=ouedkniss.com; secure; HttpOnly",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Pragma": "no-cache",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "Content-Security-Policy": "base-uri 'self'; form-action 'self' https://*.facebook.com https://plus.ouedkniss.com https://pubs.ouedkniss.com  https://images.ouedkniss.com; object-src 'self'; frame-ancestors 'self'; default-src data: 'self' 'unsafe-inline' 'unsafe-eval' https://*.ouedkniss.com https://*.criteo.com https://*.criteo.net https://*.googletagservices.com https://*.google-analytics.com https://*.cloudfront.net https://*.doubleclick.net https://*.google.dz https://*.alexametrics.com https://*.google.com https://*.googlesyndication.com https://*.autobip.com https://*.facebook.com https://*.facebook.net https://*.jquery.com https://*.gstatic.com https://*.tripadvisor.com https://*.googleapis.com https://*.google.fr https://*.doubleclick.net https://*.gstatic.com https://*.ampproject.org https://*.tripadvisor.com https://*.tripadvisor.fr https://*.facebook.com https://partner.googleadservices.com https://www.googletagmanager.com https://www.googleadservices.com https://annuaire.ouedkniss.com",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.234",
+                "51.38.63.232"
+            ],
+            "www.ouedkniss.com": [
+                "51.38.63.232",
+                "51.38.63.234",
+                "51.38.63.233"
+            ]
+        },
+        "ping": {
+            "ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.232",
+                "51.38.63.234"
+            ],
+            "www.ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.232",
+                "51.38.63.234"
+            ]
+        },
+        "CNAME": {
+            "www.ouedkniss.com": null
+        },
+        "A": {
+            "www.ouedkniss.com": [
+                "51.38.63.233",
+                "51.38.63.232",
+                "51.38.63.234"
+            ]
+        }
+    }
+}

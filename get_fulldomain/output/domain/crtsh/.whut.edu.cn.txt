@@ -1,0 +1,15 @@
+*.whut.edu.cn
+cy.whut.edu.cn
+gzc.whut.edu.cn
+iot.whut.edu.cn
+lgdy.whut.edu.cn
+m.lgdy.whut.edu.cn
+m.news.whut.edu.cn
+news.whut.edu.cn
+rest.whut.edu.cn
+wljy.whut.edu.cn
+www.cy.whut.edu.cn
+www.iot.whut.edu.cn
+www.whut.edu.cn
+www.wljy.whut.edu.cn
+xcb.whut.edu.cn

@@ -1,0 +1,100 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:23:10 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=da65291d96e32ad9ec27231f343b484cb1600255389; expires=Fri, 16-Oct-20 11:23:09 GMT; path=/; domain=.ladbible.com; HttpOnly; SameSite=Lax, exp-ZWUTsLIMT6WPX6-bielpkQ=2; path=/; Domain=.ladbible.com; expires=Fri, 31 Dec 9999 23:59:59 GMT;, exp-o-QKSgygSz2UKEzRK2ck9g=0-1-0; path=/; Domain=.ladbible.com; expires=Fri, 31 Dec 9999 23:59:59 GMT;",
+            "CF-Ray": "5d3a36bafa06dcfa-SIN",
+            "Cache-Control": "public, max-age=30",
+            "Expires": "Wed, 16 Sep 2020 11:23:40 GMT",
+            "Vary": "Accept-Encoding",
+            "Via": "1.1 google",
+            "CF-Cache-Status": "MISS",
+            "cf-request-id": "05384088dd0000dcfa128c9200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "X-Git-Hash": "6a77d4416a35c17808e53bf3fa9b89701da09432",
+            "Server": "cloudflare",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ],
+            "www.ladbible.com": [
+                "104.17.98.32",
+                "104.17.97.32"
+            ]
+        },
+        "ping": {
+            "ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ],
+            "www.ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ]
+        },
+        "CNAME": {
+            "www.ladbible.com": null
+        },
+        "A": {
+            "www.ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:23:12 GMT",
+            "Content-Type": "text/html",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Set-Cookie": "__cfduid=da18b34880f998176ce78c72e63c4e92f1600255390; expires=Fri, 16-Oct-20 11:23:10 GMT; path=/; domain=.ladbible.com; HttpOnly; SameSite=Lax, exp-ZWUTsLIMT6WPX6-bielpkQ=3; path=/; Domain=.ladbible.com; expires=Fri, 31 Dec 9999 23:59:59 GMT;, exp-o-QKSgygSz2UKEzRK2ck9g=1-1-1; path=/; Domain=.ladbible.com; expires=Fri, 31 Dec 9999 23:59:59 GMT;",
+            "CF-Ray": "5d3a36c18c881a66-SIN",
+            "Cache-Control": "public, max-age=30",
+            "Expires": "Wed, 16 Sep 2020 11:23:41 GMT",
+            "Vary": "Accept-Encoding",
+            "Via": "1.1 google",
+            "CF-Cache-Status": "MISS",
+            "cf-request-id": "0538408cf400001a66c3327200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "X-Git-Hash": "6a77d4416a35c17808e53bf3fa9b89701da09432",
+            "Server": "cloudflare",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ],
+            "www.ladbible.com": [
+                "104.17.98.32",
+                "104.17.97.32"
+            ]
+        },
+        "ping": {
+            "ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ],
+            "www.ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ]
+        },
+        "CNAME": {
+            "www.ladbible.com": null
+        },
+        "A": {
+            "www.ladbible.com": [
+                "104.17.97.32",
+                "104.17.98.32"
+            ]
+        }
+    }
+}

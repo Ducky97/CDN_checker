@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:51:18 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Keep-Alive": "timeout=25",
+            "X-Powered-By": "PHP/7.0.27",
+            "Set-Cookie": "lang=en; expires=Sat, 14-Sep-2030 09:51:18 GMT; Max-Age=315360000; path=/; domain=.savefrom.net, country=CN;Path=/;Max-Age=604800",
+            "X-Frame-Options": "sameorigin",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "savefrom.net": [
+                "78.46.16.240"
+            ],
+            "en.savefrom.net": [
+                "51.38.52.137"
+            ]
+        },
+        "ping": {
+            "savefrom.net": [
+                "51.38.52.137",
+                "188.40.110.188",
+                "188.40.118.185",
+                "188.40.110.189"
+            ],
+            "en.savefrom.net": [
+                "51.38.52.137",
+                "188.40.110.188",
+                "188.40.118.185",
+                "188.40.110.189"
+            ]
+        },
+        "CNAME": {
+            "en.savefrom.net": [
+                "savefrom.net."
+            ]
+        },
+        "A": {
+            "en.savefrom.net": [
+                "188.40.110.188"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:51:20 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Keep-Alive": "timeout=25",
+            "X-Powered-By": "PHP/7.0.27",
+            "Set-Cookie": "lang=en; expires=Sat, 14-Sep-2030 09:51:20 GMT; Max-Age=315360000; path=/; domain=.savefrom.net, country=CN;Path=/;Max-Age=604800",
+            "X-Frame-Options": "sameorigin",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "savefrom.net": [
+                "51.38.52.137"
+            ],
+            "en.savefrom.net": [
+                "188.40.110.189"
+            ]
+        },
+        "ping": {
+            "savefrom.net": [
+                "51.38.52.137",
+                "188.40.110.188",
+                "188.40.118.185",
+                "188.40.110.189"
+            ],
+            "en.savefrom.net": [
+                "51.38.52.137",
+                "188.40.110.188",
+                "188.40.118.185",
+                "188.40.110.189"
+            ]
+        },
+        "CNAME": {
+            "en.savefrom.net": [
+                "savefrom.net."
+            ]
+        },
+        "A": {
+            "en.savefrom.net": [
+                "188.40.118.185"
+            ]
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Set-Cookie": "ak_bmsc=931642396B6EB7318B13CD071045E4A46011B40606650000DDF7615F9EEC3C5B~pltCV+yj6a4+6oWJXjkju3h1Gf6V3TN/6gnsD+bHuaF5DN7RmySx3VpDi5b1ClVfUDhYhBtYXn7RILaXk50O67cIlaqQP1IOU48qPPUOqXihEl3XEebfKy5+0ul9RpUPanaUFRe96gYvpP16Ggh3NAXeOUjIHP9I0wt5A7O/wu9pKAkOVblTeUoeG7Pdt0OO3c185wQy1XEfJrTLa1dJQVElMJEEYustit+G3UIlphP84=; expires=Wed, 16 Sep 2020 13:32:45 GMT; max-age=7200; path=/; domain=.nike.com; HttpOnly, feature_enabled__as_nav_rollout=true; Domain=.nike.com; Secure; Max-Age=86400; Path=/, audience_segmentation_performed=true; Domain=.nike.com; Secure; Max-Age=86400; Path=/",
+            "X-Powered-By": "Nessie v7.1.3-eureka-compatibility-wrapper-v7-1-3-e96cf533c-2",
+            "Server-Timing": "edge; dur=1, cdn-cache; desc=HIT",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "9 - 0 pmb=mTOE,3mRUM,3",
+            "ETag": "W/\"549ea-R/p3G91WmnZXISwpUBL1Hnk0P7c\"",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "X-Frame-Options": "deny",
+            "set-edgescape-cookie": "true",
+            "x-commit-sha": "unknown",
+            "x-build-number": "unknown",
+            "x-branch-name": "unknown",
+            "X-Request-Id": "87e7d6d0-f80e-11ea-a9d0-f39cf60a54d5",
+            "X-B3-TraceId": "250429023dd7257c",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "max-age=399",
+            "Expires": "Wed, 16 Sep 2020 11:39:24 GMT",
+            "Date": "Wed, 16 Sep 2020 11:32:45 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding"
+        },
+        "nslookup": {
+            "nike.com": [
+                "146.197.184.71"
+            ],
+            "www.nike.com": [
+                "23.50.93.79"
+            ]
+        },
+        "ping": {
+            "nike.com": [
+                "146.197.184.71"
+            ],
+            "www.nike.com": [
+                "23.10.23.13"
+            ]
+        },
+        "CNAME": {
+            "www.nike.com": [
+                "www-geo.nike.com.akadns.net."
+            ]
+        },
+        "A": {
+            "www.nike.com": [
+                "23.10.23.13"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Set-Cookie": "ak_bmsc=5900EE537BBD81B76C77B3533D0075236011B40606650000DFF7615FF4BDE70C~pl7PrL37ordsl/+MIsESonVj2SKFL8WT51VWU7xK2U3r8eZyaToDyIJE/ZQs3Vr7wjoWccdoV39oiSNDjonJer+s7/q16THqRoJ8oyYAUs6B42LoMuI4QirmCW81KU9c1OCHjgw2RCEYDXGAuN8NcPUEg6QSrkbU3LtofzmKnjIINYtS/NFnI1iNbCph5m7UjjzOY0FZflfLp0NQ5XhVNicEttBJpCo/1dCmKBVUEXN5I=; expires=Wed, 16 Sep 2020 13:32:47 GMT; max-age=7200; path=/; domain=.nike.com; HttpOnly, feature_enabled__as_nav_rollout=true; Domain=.nike.com; Secure; Max-Age=86400; Path=/, audience_segmentation_performed=true; Domain=.nike.com; Secure; Max-Age=86400; Path=/",
+            "X-Powered-By": "Nessie v7.1.3-eureka-compatibility-wrapper-v7-1-3-e96cf533c-2",
+            "Server-Timing": "edge; dur=1, cdn-cache; desc=HIT",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "9 - 0 pmb=mTOE,3mRUM,3",
+            "ETag": "W/\"549ea-R/p3G91WmnZXISwpUBL1Hnk0P7c\"",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "X-Frame-Options": "deny",
+            "set-edgescape-cookie": "true",
+            "x-commit-sha": "unknown",
+            "x-build-number": "unknown",
+            "x-branch-name": "unknown",
+            "X-Request-Id": "87e7d6d0-f80e-11ea-a9d0-f39cf60a54d5",
+            "X-B3-TraceId": "250429023dd7257c",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "max-age=399",
+            "Expires": "Wed, 16 Sep 2020 11:39:26 GMT",
+            "Date": "Wed, 16 Sep 2020 11:32:47 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding"
+        },
+        "nslookup": {
+            "nike.com": [
+                "146.197.184.71"
+            ],
+            "www.nike.com": [
+                "23.50.93.79"
+            ]
+        },
+        "ping": {
+            "nike.com": [
+                "146.197.184.71"
+            ],
+            "www.nike.com": [
+                "23.10.23.13"
+            ]
+        },
+        "CNAME": {
+            "www.nike.com": [
+                "www-geo.nike.com.akadns.net."
+            ]
+        },
+        "A": {
+            "www.nike.com": [
+                "23.10.23.13"
+            ]
+        }
+    }
+}

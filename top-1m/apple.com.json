@@ -1,0 +1,98 @@
+{
+    "http": {
+        "header": {
+            "Server": "Apache",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Set-Cookie": "geo=SG; path=/; domain=.apple.com, ccl=WUatRB4csjLKyWFW3swyTQ==; path=/; domain=.apple.com",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "X-Content-Type-Options": "nosniff",
+            "X-Xss-Protection": "1; mode=block",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "max-age=165",
+            "Expires": "Wed, 16 Sep 2020 09:20:44 GMT",
+            "Date": "Wed, 16 Sep 2020 09:17:59 GMT",
+            "Content-Length": "9522",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "apple.com": [
+                "17.172.224.47",
+                "17.178.96.59",
+                "17.142.160.59"
+            ],
+            "www.apple.com": [
+                "23.44.0.209"
+            ]
+        },
+        "ping": {
+            "apple.com": [
+                "17.142.160.59",
+                "17.172.224.47",
+                "17.178.96.59"
+            ],
+            "www.apple.com": [
+                "23.44.0.209"
+            ]
+        },
+        "CNAME": {
+            "www.apple.com": [
+                "www.apple.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.apple.com": [
+                "23.44.0.209"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "Apache",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Set-Cookie": "geo=SG; path=/; domain=.apple.com, ccl=eqv5g3FL6p2a6jTlHk1IFw==; path=/; domain=.apple.com",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "X-Content-Type-Options": "nosniff",
+            "X-Xss-Protection": "1; mode=block",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "max-age=148",
+            "Expires": "Wed, 16 Sep 2020 09:20:27 GMT",
+            "Date": "Wed, 16 Sep 2020 09:17:59 GMT",
+            "Content-Length": "9522",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "apple.com": [
+                "17.172.224.47",
+                "17.178.96.59",
+                "17.142.160.59"
+            ],
+            "www.apple.com": [
+                "23.44.0.209"
+            ]
+        },
+        "ping": {
+            "apple.com": [
+                "17.142.160.59",
+                "17.172.224.47",
+                "17.178.96.59"
+            ],
+            "www.apple.com": [
+                "23.44.0.209"
+            ]
+        },
+        "CNAME": {
+            "www.apple.com": [
+                "www.apple.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.apple.com": [
+                "23.44.0.209"
+            ]
+        }
+    }
+}

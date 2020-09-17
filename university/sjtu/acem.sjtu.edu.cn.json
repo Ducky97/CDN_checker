@@ -1,0 +1,32 @@
+{
+    "http": {
+        "header": {
+            "Date": "Thu, 17 Sep 2020 02:29:56 GMT",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "24633",
+            "Content-Type": "text/html",
+            "Last-Modified": "Wed, 16 Sep 2020 02:06:59 GMT",
+            "X-Powered-By": "Servlet/2.5 JSP/2.1",
+            "Set-Cookie": "a10_vhost_port-20480-AT_Portal_webserv_8000=CAIEHIAKEABP; Expires=Sun, 15-Sep-2030 02:29:55 GMT; Path=/"
+        },
+        "nslookup": {
+            "acem.sjtu.edu.cn": [
+                "202.120.35.140"
+            ]
+        },
+        "ping": {
+            "acem.sjtu.edu.cn": [
+                "202.120.35.140"
+            ]
+        },
+        "CNAME": {
+            "acem.sjtu.edu.cn": null
+        },
+        "A": {
+            "acem.sjtu.edu.cn": [
+                "202.120.35.140"
+            ]
+        }
+    },
+    "https": null
+}

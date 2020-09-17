@@ -1,0 +1,100 @@
+{
+    "http": {
+        "header": {
+            "Content-Security-Policy-Report-Only": "default-src https: blob: wss: data: android-webview-video-poster: android-webview: chrome-extension: safari-extension: 'unsafe-eval' 'unsafe-inline'; report-uri https://www.dailymotion.com/content_security_policy_report_uri",
+            "Server": "DMS/1.0.42",
+            "X-DM-BackNode": "web-068.adm.ix7.dailymotion.com:80",
+            "Vary": "X-DM-SSL,Accept-Encoding",
+            "Cache-Control": "no-cache",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Access-Control-Expose-Headers": "X-DM-BackNode-Response-Time",
+            "Strict-Transport-Security": "max-age=31708800; includeSubDomains",
+            "Date": "Wed, 16 Sep 2020 10:49:11 GMT",
+            "Keep-Alive": "timeout=60, max=4998",
+            "X-DM-LB-IP": "195.8.215.136",
+            "X-DM-LB-Name": "lb-02",
+            "X-DM-BackNode-Response-Time": "19",
+            "Connection": "Keep-Alive",
+            "Set-Cookie": "ts=734937; expires=Sat, 16-Oct-2021 10:49:11 GMT; Max-Age=34128000; path=/; domain=.dailymotion.com; Secure; SameSite=none;, v1st=1FB3655C07F741CDC82CC0A5F11CB109; expires=Sat, 16 Oct 2021 10:49:11 GMT; max-age=34128000; path=/; Secure; SameSite=None; domain=.dailymotion.com",
+            "Expect-Ct": "max-age=0, report-uri=\"https://www.dailymotion.com/content_security_policy_report_uri\"",
+            "Content-Length": "33594"
+        },
+        "nslookup": {
+            "dailymotion.com": [
+                "195.8.215.136"
+            ],
+            "www.dailymotion.com": [
+                "195.8.215.138"
+            ]
+        },
+        "ping": {
+            "dailymotion.com": [
+                "195.8.215.136"
+            ],
+            "www.dailymotion.com": [
+                "195.8.215.138"
+            ]
+        },
+        "CNAME": {
+            "www.dailymotion.com": [
+                "dmwww.api-aws.dailymotion.com."
+            ]
+        },
+        "A": {
+            "www.dailymotion.com": [
+                "195.8.215.138"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Security-Policy-Report-Only": "default-src https: blob: wss: data: android-webview-video-poster: android-webview: chrome-extension: safari-extension: 'unsafe-eval' 'unsafe-inline'; report-uri https://www.dailymotion.com/content_security_policy_report_uri",
+            "Server": "DMS/1.0.42",
+            "X-DM-BackNode": "web-094.adm.ix7.dailymotion.com:80",
+            "Vary": "X-DM-SSL,Accept-Encoding",
+            "Cache-Control": "no-cache",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "Access-Control-Expose-Headers": "X-DM-BackNode-Response-Time",
+            "Strict-Transport-Security": "max-age=31708800; includeSubDomains",
+            "Date": "Wed, 16 Sep 2020 10:49:13 GMT",
+            "Keep-Alive": "timeout=60, max=4995",
+            "X-DM-LB-IP": "195.8.215.136",
+            "X-DM-LB-Name": "lb-03",
+            "X-DM-BackNode-Response-Time": "22",
+            "Connection": "Keep-Alive",
+            "Set-Cookie": "ts=402069; expires=Sat, 16-Oct-2021 10:49:13 GMT; Max-Age=34128000; path=/; domain=.dailymotion.com; Secure; SameSite=none;, v1st=4C219BB4897E23757EF400F1CB7F8083; expires=Sat, 16 Oct 2021 10:49:12 GMT; max-age=34128000; path=/; Secure; SameSite=None; domain=.dailymotion.com",
+            "Expect-Ct": "max-age=0, report-uri=\"https://www.dailymotion.com/content_security_policy_report_uri\"",
+            "Content-Length": "33598"
+        },
+        "nslookup": {
+            "dailymotion.com": [
+                "195.8.215.136"
+            ],
+            "www.dailymotion.com": [
+                "195.8.215.138"
+            ]
+        },
+        "ping": {
+            "dailymotion.com": [
+                "195.8.215.136"
+            ],
+            "www.dailymotion.com": [
+                "195.8.215.138"
+            ]
+        },
+        "CNAME": {
+            "www.dailymotion.com": [
+                "dmwww.api-aws.dailymotion.com."
+            ]
+        },
+        "A": {
+            "www.dailymotion.com": [
+                "195.8.215.138"
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:18:47 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "max-age=300, public",
+            "Expires": "Wed, 16 Sep 2020 09:22:23 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 09:18:47 GMT",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
+            "Access-Control-Allow-Headers": "X-Requested-With",
+            "Content-Encoding": "gzip",
+            "Req-ID": "0000a88001e828c2f3b812e6",
+            "Cache-Status": "BYPASS, HIT, BYPASS",
+            "Edge-Cache-Age": "84",
+            "Server": "openresty+"
+        },
+        "nslookup": {
+            "huanqiu.com": [
+                "124.156.123.170"
+            ],
+            "www.huanqiu.com": [
+                "124.156.123.170"
+            ]
+        },
+        "ping": {
+            "huanqiu.com": [
+                "124.156.123.170"
+            ],
+            "www.huanqiu.com": [
+                "124.156.123.170"
+            ]
+        },
+        "CNAME": {
+            "www.huanqiu.com": [
+                "www.huanqiu.com.f1.zlibs.com."
+            ]
+        },
+        "A": {
+            "www.huanqiu.com": [
+                "124.156.123.170"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:18:50 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Cache-Control": "max-age=300, public",
+            "Expires": "Wed, 16 Sep 2020 09:23:29 GMT",
+            "Last-Modified": "Wed, 16 Sep 2020 09:18:50 GMT",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
+            "Access-Control-Allow-Headers": "X-Requested-With",
+            "Content-Encoding": "gzip",
+            "Req-ID": "0000a88001e828c2f3d0132e",
+            "Cache-Status": "BYPASS, HIT, BYPASS",
+            "Edge-Cache-Age": "21",
+            "Server": "openresty+"
+        },
+        "nslookup": {
+            "huanqiu.com": [
+                "124.156.123.170"
+            ],
+            "www.huanqiu.com": [
+                "124.156.123.170"
+            ]
+        },
+        "ping": {
+            "huanqiu.com": [
+                "124.156.123.170"
+            ],
+            "www.huanqiu.com": [
+                "124.156.123.170"
+            ]
+        },
+        "CNAME": {
+            "www.huanqiu.com": [
+                "www.huanqiu.com.f1.zlibs.com."
+            ]
+        },
+        "A": {
+            "www.huanqiu.com": [
+                "124.156.123.170"
+            ]
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Last-Modified": "Wed, 16 Sep 2020 08:28:51 GMT",
+            "ETag": "\"5c80a-5af6a0eaaa1b8\"",
+            "Accept-Ranges": "bytes",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:38:39 GMT",
+            "Content-Length": "36569",
+            "Connection": "keep-alive",
+            "Set-Cookie": "device_type=pc; path=/; domain=.samsung.com",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=2"
+        },
+        "nslookup": {
+            "samsung.com": [
+                "211.45.27.231"
+            ],
+            "www.samsung.com": [
+                "104.119.104.59"
+            ]
+        },
+        "ping": {
+            "samsung.com": [
+                "211.45.27.231"
+            ],
+            "www.samsung.com": [
+                "104.89.118.199"
+            ]
+        },
+        "CNAME": {
+            "www.samsung.com": [
+                "www.samsung.com.akadns.net."
+            ]
+        },
+        "A": {
+            "www.samsung.com": [
+                "104.89.118.199"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Last-Modified": "Wed, 16 Sep 2020 08:28:51 GMT",
+            "ETag": "\"5c80a-5af6a0eaaa1b8\"",
+            "Accept-Ranges": "bytes",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:38:41 GMT",
+            "Content-Length": "36576",
+            "Connection": "keep-alive",
+            "Set-Cookie": "device_type=pc; path=/; domain=.samsung.com",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1"
+        },
+        "nslookup": {
+            "samsung.com": [
+                "211.45.27.231"
+            ],
+            "www.samsung.com": [
+                "104.119.104.59"
+            ]
+        },
+        "ping": {
+            "samsung.com": [
+                "211.45.27.231"
+            ],
+            "www.samsung.com": [
+                "104.89.118.199"
+            ]
+        },
+        "CNAME": {
+            "www.samsung.com": [
+                "www.samsung.com.akadns.net."
+            ]
+        },
+        "A": {
+            "www.samsung.com": [
+                "104.89.118.199"
+            ]
+        }
+    }
+}

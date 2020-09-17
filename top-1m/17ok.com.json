@@ -1,0 +1,34 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:08:21 GMT",
+            "Server": "Apache",
+            "Last-Modified": "Wed, 16 Sep 2020 09:08:00 GMT",
+            "ETag": "\"fd6178-13720-5af6a9aad5c00\"",
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Content-Length": "16016",
+            "Keep-Alive": "timeout=5, max=1000",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "17ok.com": [
+                "120.133.17.148"
+            ]
+        },
+        "ping": {
+            "17ok.com": [
+                "120.133.17.148"
+            ]
+        },
+        "CNAME": {
+            "17ok.com": "still a low_level domain_name"
+        },
+        "A": {
+            "17ok.com": "still a low_level domain_name"
+        }
+    },
+    "https": null
+}

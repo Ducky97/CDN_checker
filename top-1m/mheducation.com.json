@@ -1,0 +1,50 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 11:20:16 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "14386",
+            "Connection": "keep-alive",
+            "Server": "Apache",
+            "Strict-Transport-Security": "max-age=31536000;",
+            "Accept-Ranges": "bytes",
+            "Vary": "Accept-Encoding",
+            "X-Mod-Pagespeed": "1.11.33.4-0",
+            "Content-Encoding": "gzip",
+            "Cache-Control": "max-age=0, no-cache"
+        },
+        "nslookup": {
+            "mheducation.com": [
+                "204.74.99.100"
+            ],
+            "www.mheducation.com": [
+                "34.205.151.194",
+                "52.21.192.213",
+                "54.205.210.109"
+            ]
+        },
+        "ping": {
+            "mheducation.com": [
+                "204.74.99.100"
+            ],
+            "www.mheducation.com": [
+                "54.205.210.109",
+                "52.21.192.213",
+                "34.205.151.194"
+            ]
+        },
+        "CNAME": {
+            "www.mheducation.com": [
+                "ecom-prod-alb-ext-501715900.us-east-1.elb.amazonaws.com."
+            ]
+        },
+        "A": {
+            "www.mheducation.com": [
+                "54.205.210.109",
+                "52.21.192.213",
+                "34.205.151.194"
+            ]
+        }
+    },
+    "https": null
+}

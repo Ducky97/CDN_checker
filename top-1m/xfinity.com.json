@@ -1,0 +1,86 @@
+{
+    "http": {
+        "header": {
+            "Mime-Version": "1.0",
+            "Content-Type": "text/html",
+            "Content-Length": "265",
+            "Expires": "Wed, 16 Sep 2020 11:22:25 GMT",
+            "Cache-Control": "max-age=0, no-cache, no-store",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 11:22:25 GMT",
+            "Connection": "close"
+        },
+        "nslookup": {
+            "xfinity.com": [
+                "96.114.14.140",
+                "68.87.41.40",
+                "96.114.21.40"
+            ],
+            "www.xfinity.com": [
+                "23.50.89.106"
+            ]
+        },
+        "ping": {
+            "xfinity.com": [
+                "96.114.14.140",
+                "96.114.21.40",
+                "68.87.41.40"
+            ],
+            "www.xfinity.com": [
+                "96.6.69.143"
+            ]
+        },
+        "CNAME": {
+            "www.xfinity.com": [
+                "www.xfinity.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.xfinity.com": [
+                "96.6.69.143"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Mime-Version": "1.0",
+            "Content-Type": "text/html",
+            "Content-Length": "265",
+            "Expires": "Wed, 16 Sep 2020 11:22:27 GMT",
+            "Cache-Control": "max-age=0, no-cache, no-store",
+            "Pragma": "no-cache",
+            "Date": "Wed, 16 Sep 2020 11:22:27 GMT",
+            "Connection": "close"
+        },
+        "nslookup": {
+            "xfinity.com": [
+                "96.114.14.140",
+                "68.87.41.40",
+                "96.114.21.40"
+            ],
+            "www.xfinity.com": [
+                "23.50.89.106"
+            ]
+        },
+        "ping": {
+            "xfinity.com": [
+                "96.114.14.140",
+                "96.114.21.40",
+                "68.87.41.40"
+            ],
+            "www.xfinity.com": [
+                "96.6.69.143"
+            ]
+        },
+        "CNAME": {
+            "www.xfinity.com": [
+                "www.xfinity.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.xfinity.com": [
+                "96.6.69.143"
+            ]
+        }
+    }
+}

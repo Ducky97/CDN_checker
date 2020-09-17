@@ -1,0 +1,138 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:51:31 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "76294",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "PHPSESSID=gi1sjb7fo4frpa5ft1uckql6bduk9ibt6ce5mv61d6jf8dm3le8bbmmba034hbfp; path=/, tracker_global=4xJrvDai; expires=Thu, 21-Aug-2025 09:51:31 GMT; Max-Age=155520000; path=/; secure; httponly; samesite=lax, tracker_session=4xJrvDai; expires=Wed, 16-Sep-2020 10:21:31 GMT; Max-Age=1800; path=/; secure; httponly; samesite=lax",
+            "Cache-Control": "no-cache, private",
+            "ocache": "1",
+            "Content-Encoding": "gzip",
+            "X-App-Server": "Desktop-B/Desktop-B124",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "X-Edge-Server": "SN-Desktop/Desktop-176",
+            "X-XSS-Protection": "1",
+            "cdn-request-time": "0.071",
+            "cdn-host": "isatis"
+        },
+        "nslookup": {
+            "digikala.com": [
+                "185.188.105.10"
+            ],
+            "www.digikala.com": [
+                "93.113.225.7",
+                "93.113.225.8",
+                "77.77.77.83",
+                "185.105.101.163",
+                "79.175.144.130",
+                "94.182.181.50",
+                "91.99.72.75",
+                "79.175.144.150",
+                "5.160.138.235",
+                "81.12.95.2"
+            ]
+        },
+        "ping": {
+            "digikala.com": [
+                "185.188.105.10"
+            ],
+            "www.digikala.com": [
+                "79.175.144.130",
+                "5.160.138.235",
+                "94.182.181.50",
+                "79.175.144.150",
+                "185.105.101.163"
+            ]
+        },
+        "CNAME": {
+            "www.digikala.com": [
+                "points.digikalacloud.com."
+            ]
+        },
+        "A": {
+            "www.digikala.com": [
+                "77.77.77.83",
+                "81.12.95.2",
+                "93.113.225.8",
+                "79.175.144.130",
+                "93.113.225.7",
+                "5.160.138.235",
+                "79.175.144.150",
+                "94.182.181.50",
+                "91.99.72.75",
+                "185.105.101.163"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 09:51:37 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "75978",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "PHPSESSID=t1eosqv8vtk6h1f91v7g5g2cg7pjkhkap9hgid5mlfhk9ocs7ijgr31rlurc19oa; path=/, tracker_global=4xJrvSaY; expires=Thu, 21-Aug-2025 09:51:37 GMT; Max-Age=155520000; path=/; secure; httponly; samesite=lax, tracker_session=4xJrvSaY; expires=Wed, 16-Sep-2020 10:21:37 GMT; Max-Age=1800; path=/; secure; httponly; samesite=lax",
+            "Cache-Control": "no-cache, private",
+            "ocache": "1",
+            "Content-Encoding": "gzip",
+            "X-App-Server": "Desktop-B/Desktop-B115",
+            "Referrer-Policy": "origin-when-cross-origin",
+            "X-Edge-Server": "SN-Desktop/Desktop-74",
+            "X-XSS-Protection": "1",
+            "cdn-request-time": "0.065",
+            "cdn-host": "atlanta"
+        },
+        "nslookup": {
+            "digikala.com": [
+                "185.188.105.10"
+            ],
+            "www.digikala.com": [
+                "185.105.101.163",
+                "94.182.181.50",
+                "93.113.225.7",
+                "81.12.95.2",
+                "93.113.225.8",
+                "91.99.72.75",
+                "5.160.138.235",
+                "77.77.77.83",
+                "79.175.144.130",
+                "79.175.144.150"
+            ]
+        },
+        "ping": {
+            "digikala.com": [
+                "185.188.105.10"
+            ],
+            "www.digikala.com": [
+                "77.77.77.83",
+                "93.113.225.8",
+                "5.160.138.235",
+                "94.182.181.50",
+                "185.105.101.163"
+            ]
+        },
+        "CNAME": {
+            "www.digikala.com": [
+                "points.digikalacloud.com."
+            ]
+        },
+        "A": {
+            "www.digikala.com": [
+                "77.77.77.83",
+                "81.12.95.2",
+                "93.113.225.8",
+                "79.175.144.130",
+                "93.113.225.7",
+                "5.160.138.235",
+                "79.175.144.150",
+                "94.182.181.50",
+                "91.99.72.75",
+                "185.105.101.163"
+            ]
+        }
+    }
+}

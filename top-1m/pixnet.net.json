@@ -1,0 +1,86 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:18 GMT",
+            "X-XSS-Protection": "1; mode=block",
+            "strict-transport-security": "max-age=300",
+            "X-Frame-Options": "deny",
+            "X-Content-Type-Options": "nosniff",
+            "Set-Cookie": "apps=ef40f4f7cb6652cef54cf437aa816ab6f315fc2c25b4878d1aa933eb407b5751%7C%7B%22data%22%3A%7B%22XSRF-TOKEN%22%3A%22a%2BJ2H3mIQr8yd6h5UVibKRcyfpgeOSG0j5QkWWxhhHw%3D%22%7D%2C%22expire%22%3A0%2C%22timestamp%22%3A1600248138%7D; path=/; domain=www.pixnet.net, uid=CgEAd19h2UoAADfGA7pPAg==; path=/; expires=Mon, 16-Sep-30 21:22:18 GMT, uid=CgEAd19h2UoAADfGA7pLAg==; path=/; expires=Mon, 16-Sep-30 21:22:18 GMT",
+            "Vary": "Accept-Encoding,User-Agent",
+            "Content-Encoding": "gzip",
+            "P3P": "CP=\"CURa ADMa DEVa PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"",
+            "X-FarmId": "aaa90edb2532925b26b9cb5d42cc9291bbc325fe8e0a06aed6d7380c759f9341",
+            "Content-Length": "2278",
+            "Keep-Alive": "timeout=5, max=98",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "pixnet.net": [
+                "103.23.108.107"
+            ],
+            "www.pixnet.net": [
+                "103.23.108.200"
+            ]
+        },
+        "ping": {
+            "pixnet.net": [
+                "103.23.108.107"
+            ],
+            "www.pixnet.net": [
+                "103.23.108.200"
+            ]
+        },
+        "CNAME": {
+            "www.pixnet.net": null
+        },
+        "A": {
+            "www.pixnet.net": [
+                "103.23.108.200"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:22:19 GMT",
+            "X-XSS-Protection": "1; mode=block",
+            "strict-transport-security": "max-age=300",
+            "X-Frame-Options": "deny",
+            "X-Content-Type-Options": "nosniff",
+            "Set-Cookie": "apps=d6c741851a0335821be17753702726f557091ba457881b94e42c435cefc4bc77%7C%7B%22data%22%3A%7B%22XSRF-TOKEN%22%3A%223ItkKersuxLEZltV9DqcEtvRk7Z7EGrek7LAwJO8bQ0%3D%22%7D%2C%22expire%22%3A0%2C%22timestamp%22%3A1600248139%7D; path=/; domain=www.pixnet.net, uid=CgEBhV9h2UsAAEcrCSNZAg==; path=/; expires=Mon, 16-Sep-30 21:22:19 GMT, uid=CgEBhV9h2UsAAEcrCSNVAg==; path=/; expires=Mon, 16-Sep-30 21:22:19 GMT",
+            "Vary": "Accept-Encoding,User-Agent",
+            "Content-Encoding": "gzip",
+            "P3P": "CP=\"CURa ADMa DEVa PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"",
+            "X-FarmId": "de34751cfcbbd5af6fc1ba54e09f2b01cc3dda6f2e7afa84dadfed20392caac5",
+            "Content-Length": "2279",
+            "Keep-Alive": "timeout=5, max=78",
+            "Connection": "Keep-Alive",
+            "Content-Type": "text/html"
+        },
+        "nslookup": {
+            "pixnet.net": [
+                "103.23.108.107"
+            ],
+            "www.pixnet.net": [
+                "103.23.108.200"
+            ]
+        },
+        "ping": {
+            "pixnet.net": [
+                "103.23.108.107"
+            ],
+            "www.pixnet.net": [
+                "103.23.108.200"
+            ]
+        },
+        "CNAME": {
+            "www.pixnet.net": null
+        },
+        "A": {
+            "www.pixnet.net": [
+                "103.23.108.200"
+            ]
+        }
+    }
+}

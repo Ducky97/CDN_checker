@@ -1,0 +1,94 @@
+{
+    "http": {
+        "header": {
+            "Server": "unknown",
+            "Date": "Wed, 16 Sep 2020 09:18:13 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "Set-Cookie": "session=g13b5e61b1ecf047ded9fbc53019b3373; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, unique_visitor_id=e678d171-20cb-40bd-aafc-6eb1d0e67569; expires=Fri, 16-Oct-2020 09:18:12 GMT; Max-Age=2592000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, originalNode=sgsin; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, gravity_cookie=a7b49be62ad337a0e6c1638339db75ef2; expires=Fri, 16-Oct-2020 09:18:12 GMT; Max-Age=2592000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, tppId=e7286fe1fd998c45e4af57f51a08ca693d6da71b5f61d854; expires=Thu, 16-Sep-2021 09:18:12 GMT; Max-Age=31536000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, isNativeSocketEnabled=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, category=girls; expires=Thu, 16-Sep-2021 09:18:12 GMT; Max-Age=31536000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, firstListPageOrderType=recommended; expires=Thu, 16-Sep-2021 09:18:12 GMT; Max-Age=31536000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, listPageOrderType=recommended; expires=Fri, 16-Oct-2020 09:18:12 GMT; Max-Age=2592000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, is_personalized_content_allowed=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, is_sensitive_data_collection_allowed=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax;; domain=.livejasmin.com; secure",
+            "Access-Control-Allow-Method": "*",
+            "Access-Control-Allow-Origin": "https://www.livejasmin.com",
+            "Access-Control-Allow-Headers": "X-Requested-With",
+            "Access-Control-Allow-Credentials": "true",
+            "Link": "<https://www.livejasmin.com/en/girls>; rel=\"canonical\"",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "max-age=0,no-cache,no-store,must-revalidate,post-check=0,pre-check=0",
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "livejasmin.com": [
+                "109.71.161.200"
+            ],
+            "www.livejasmin.com": [
+                "109.71.161.200"
+            ]
+        },
+        "ping": {
+            "livejasmin.com": [
+                "109.71.161.200"
+            ],
+            "www.livejasmin.com": [
+                "109.71.161.200"
+            ]
+        },
+        "CNAME": {
+            "www.livejasmin.com": null
+        },
+        "A": {
+            "www.livejasmin.com": [
+                "109.71.161.200"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "unknown",
+            "Date": "Wed, 16 Sep 2020 09:18:14 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "Set-Cookie": "session=gd7221cd9afeacb8a3257accc5480cf09; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, unique_visitor_id=810362da-ba45-4647-b24a-e1f9e72f5183; expires=Fri, 16-Oct-2020 09:18:14 GMT; Max-Age=2592000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, originalNode=sgsin; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, gravity_cookie=b5253949f5c73689fcc1e00c1111ff973; expires=Fri, 16-Oct-2020 09:18:14 GMT; Max-Age=2592000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, tppId=a2b0fc14a22584edf60108b2b586b6ea4bf361115f61d856; expires=Thu, 16-Sep-2021 09:18:14 GMT; Max-Age=31536000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, isNativeSocketEnabled=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, category=girls; expires=Thu, 16-Sep-2021 09:18:14 GMT; Max-Age=31536000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, firstListPageOrderType=recommended; expires=Thu, 16-Sep-2021 09:18:14 GMT; Max-Age=31536000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, listPageOrderType=recommended; expires=Fri, 16-Oct-2020 09:18:14 GMT; Max-Age=2592000; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, is_personalized_content_allowed=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax;; domain=.livejasmin.com; secure, is_sensitive_data_collection_allowed=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; SameSite=Lax;; domain=.livejasmin.com; secure",
+            "Access-Control-Allow-Method": "*",
+            "Access-Control-Allow-Origin": "https://www.livejasmin.com",
+            "Access-Control-Allow-Headers": "X-Requested-With",
+            "Access-Control-Allow-Credentials": "true",
+            "Link": "<https://www.livejasmin.com/en/girls>; rel=\"canonical\"",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "Cache-Control": "max-age=0,no-cache,no-store,must-revalidate,post-check=0,pre-check=0",
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "livejasmin.com": [
+                "109.71.161.200"
+            ],
+            "www.livejasmin.com": [
+                "109.71.161.200"
+            ]
+        },
+        "ping": {
+            "livejasmin.com": [
+                "109.71.161.200"
+            ],
+            "www.livejasmin.com": [
+                "109.71.161.200"
+            ]
+        },
+        "CNAME": {
+            "www.livejasmin.com": null
+        },
+        "A": {
+            "www.livejasmin.com": [
+                "109.71.161.200"
+            ]
+        }
+    }
+}

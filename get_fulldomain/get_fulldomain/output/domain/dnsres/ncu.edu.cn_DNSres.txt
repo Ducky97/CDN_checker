@@ -1,0 +1,1967 @@
+ncu.edu.cn. 300 IN A 210.35.240.3
+
+ncu.edu.cn. 299 IN A 210.35.240.3
+
+ncu.edu.cn. 299 IN A 210.35.240.3
+
+ncu.edu.cn. 299 IN A 210.35.240.3
+
+ncu.edu.cn. 299 IN A 210.35.240.3
+
+ncu.edu.cn. 299 IN A 210.35.240.3
+
+1.ncu.edu.cn. 0 IN A 220.250.64.225
+
+1.ncu.edu.cn. 60 IN A 220.250.64.225
+
+3d.ncu.edu.cn. 300 IN A 222.204.3.56
+
+3d.ncu.edu.cn. 299 IN A 222.204.3.56
+
+3d.ncu.edu.cn. 299 IN A 222.204.3.56
+
+3d.ncu.edu.cn. 299 IN A 222.204.3.56
+
+a10dns1.ncu.edu.cn. 300 IN A 222.204.1.143
+
+a10dns1.ncu.edu.cn. 299 IN A 222.204.1.143
+
+a10dns1.ncu.edu.cn. 299 IN A 222.204.1.143
+
+a10dns1.ncu.edu.cn. 299 IN A 222.204.1.143
+
+aaa.ncu.edu.cn. 300 IN A 222.204.3.221
+
+aaa.ncu.edu.cn. 299 IN A 222.204.3.221
+
+aaa.ncu.edu.cn. 300 IN A 222.204.3.221
+
+aaa.ncu.edu.cn. 299 IN A 222.204.3.221
+
+ag.ncu.edu.cn. 300 IN A 222.204.71.18
+
+ag.ncu.edu.cn. 299 IN A 222.204.71.18
+
+ag.ncu.edu.cn. 300 IN A 222.204.71.18
+
+ag.ncu.edu.cn. 299 IN A 222.204.71.18
+
+www.ag.ncu.edu.cn. 0 IN A 220.250.64.225
+
+www.ag.ncu.edu.cn. 60 IN A 220.250.64.225
+
+www.ag.ncu.edu.cn. 59 IN A 220.250.64.225
+
+www.ag.ncu.edu.cn. 59 IN A 220.250.64.225
+
+aging.ncu.edu.cn. 300 IN A 222.204.6.206
+
+aging.ncu.edu.cn. 299 IN A 222.204.6.206
+
+aging.ncu.edu.cn. 299 IN A 222.204.6.206
+
+aging.ncu.edu.cn. 299 IN A 222.204.6.206
+
+art.ncu.edu.cn. 300 IN A 222.204.6.206
+
+art.ncu.edu.cn. 299 IN A 222.204.6.206
+
+art.ncu.edu.cn. 299 IN A 222.204.6.206
+
+basedb.ncu.edu.cn. 300 IN A 222.204.70.201
+
+basedb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+basedb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+basedb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+basedb2.ncu.edu.cn. 300 IN A 222.204.70.202
+
+basedb2.ncu.edu.cn. 299 IN A 222.204.70.202
+
+basedb2.ncu.edu.cn. 299 IN A 222.204.70.202
+
+basedb2.ncu.edu.cn. 299 IN A 222.204.70.202
+
+bio.ncu.edu.cn. 300 IN A 218.64.56.57
+
+bio.ncu.edu.cn. 299 IN A 218.64.56.57
+
+bio.ncu.edu.cn. 299 IN A 218.64.56.57
+
+bio.ncu.edu.cn. 299 IN A 218.64.56.57
+
+bioinfo.ncu.edu.cn. 300 IN A 222.204.3.53
+
+bioinfo.ncu.edu.cn. 299 IN A 222.204.3.53
+
+bioinfo.ncu.edu.cn. 299 IN A 222.204.3.53
+
+bshj.ncu.edu.cn. 300 IN A 218.64.56.57
+
+bshj.ncu.edu.cn. 299 IN A 218.64.56.57
+
+bshj.ncu.edu.cn. 299 IN A 218.64.56.57
+
+bwc.ncu.edu.cn. 300 IN A 222.204.6.206
+
+bwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+bwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+bwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+bwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+bwcx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+bwcx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+bwcx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+calis.ncu.edu.cn. 300 IN A 210.35.251.128
+
+calis.ncu.edu.cn. 299 IN A 210.35.251.128
+
+cas.ncu.edu.cn. 300 IN A 222.204.6.31
+
+cas-mobile.ncu.edu.cn. 300 IN A 218.64.56.45
+
+cas-mobile.ncu.edu.cn. 299 IN A 218.64.56.45
+
+cas-mobile.ncu.edu.cn. 299 IN A 218.64.56.45
+
+cas-mobile.ncu.edu.cn. 299 IN A 218.64.56.45
+
+ccced.ncu.edu.cn. 300 IN A 218.64.56.57
+
+ccced.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ccced.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ccced.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ccced.ncu.edu.cn. 299 IN A 218.64.56.57
+
+cdgh.ncu.edu.cn. 300 IN A 218.64.56.57
+
+cdgh.ncu.edu.cn. 299 IN A 218.64.56.57
+
+cdgh.ncu.edu.cn. 299 IN A 218.64.56.57
+
+cdgh.ncu.edu.cn. 299 IN A 218.64.56.57
+
+cdgh.ncu.edu.cn. 299 IN A 218.64.56.57
+
+cg.ncu.edu.cn. 300 IN A 222.204.3.90
+
+cg.ncu.edu.cn. 299 IN A 222.204.3.90
+
+cg.ncu.edu.cn. 299 IN A 222.204.3.90
+
+cg.ncu.edu.cn. 299 IN A 222.204.3.90
+
+cg.ncu.edu.cn. 299 IN A 222.204.3.90
+
+cgjj.ncu.edu.cn. 300 IN A 222.204.3.42
+
+cgjj.ncu.edu.cn. 299 IN A 222.204.3.42
+
+cgjj.ncu.edu.cn. 300 IN A 222.204.3.42
+
+cgzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+chem.ncu.edu.cn. 300 IN A 222.204.6.206
+
+chem.ncu.edu.cn. 299 IN A 222.204.6.206
+
+chem.ncu.edu.cn. 299 IN A 222.204.6.206
+
+chem.ncu.edu.cn. 299 IN A 222.204.6.206
+
+chemlab.ncu.edu.cn. 300 IN A 222.204.3.25
+
+chemlab.ncu.edu.cn. 299 IN A 222.204.3.25
+
+chemlab.ncu.edu.cn. 299 IN A 222.204.3.25
+
+chemlab.ncu.edu.cn. 299 IN A 222.204.3.25
+
+chemlab.ncu.edu.cn. 299 IN A 222.204.3.25
+
+chgf.ncu.edu.cn. 300 IN A 222.204.6.206
+
+chgf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+chgf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+chgf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+chgf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+cloud.ncu.edu.cn. 0 IN A 220.250.64.225
+
+cloud.ncu.edu.cn. 60 IN A 220.250.64.225
+
+zjc.ncu.edu.cnlive.ncu.edu.cn. 3600 IN A 220.250.64.225
+
+sjc.ncu.edu.cnncutv.ncu.edu.cn. 3600 IN A 220.250.64.225
+
+www.ncu.edu.cnwww.ncu.edu.cn. 3600 IN A 220.250.64.225
+
+ncu.edu.cnzcc.ncu.edu.cn. 3600 IN A 220.250.64.225
+
+cwc.ncu.edu.cn. 300 IN A 222.204.3.11
+
+cwc.ncu.edu.cn. 299 IN A 222.204.3.11
+
+cwc.ncu.edu.cn. 299 IN A 222.204.3.11
+
+cwc.ncu.edu.cn. 299 IN A 222.204.3.11
+
+cwc.ncu.edu.cn. 299 IN A 222.204.3.11
+
+cxcyxy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+da.ncu.edu.cn. 300 IN A 222.204.3.65
+
+da.ncu.edu.cn. 299 IN A 222.204.3.65
+
+da.ncu.edu.cn. 299 IN A 222.204.3.65
+
+da.ncu.edu.cn. 299 IN A 222.204.3.65
+
+dag.ncu.edu.cn. 300 IN A 222.204.6.206
+
+dag.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dag.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dag.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dag.ncu.edu.cn. 299 IN A 222.204.6.206
+
+device.ncu.edu.cn. 300 IN A 222.204.2.1
+
+device.ncu.edu.cn. 299 IN A 222.204.2.1
+
+device.ncu.edu.cn. 299 IN A 222.204.2.1
+
+device.ncu.edu.cn. 299 IN A 222.204.2.1
+
+dfss.ncu.edu.cn. 300 IN A 222.204.3.31
+
+dgdz.ncu.edu.cn. 300 IN A 218.64.56.57
+
+dns1.ncu.edu.cn. 300 IN A 210.35.240.2
+
+dns1.ncu.edu.cn. 299 IN A 210.35.240.2
+
+dns1.ncu.edu.cn. 299 IN A 210.35.240.2
+
+dns1.ncu.edu.cn. 299 IN A 210.35.240.2
+
+dns1.ncu.edu.cn. 299 IN A 210.35.240.2
+
+dns2.ncu.edu.cn. 300 IN A 222.204.2.20
+
+dns2.ncu.edu.cn. 300 IN A 222.204.2.20
+
+dns2.ncu.edu.cn. 300 IN A 222.204.2.20
+
+dns2.ncu.edu.cn. 299 IN A 222.204.2.20
+
+dns2.ncu.edu.cn. 299 IN A 222.204.2.20
+
+dns210.ncu.edu.cn. 300 IN A 210.35.240.84
+
+dns210.ncu.edu.cn. 299 IN A 210.35.240.84
+
+dns210.ncu.edu.cn. 299 IN A 210.35.240.84
+
+dns210.ncu.edu.cn. 299 IN A 210.35.240.84
+
+dns222.ncu.edu.cn. 300 IN A 222.204.2.84
+
+dns222.ncu.edu.cn. 299 IN A 222.204.2.84
+
+dns222.ncu.edu.cn. 299 IN A 222.204.2.84
+
+dns222.ncu.edu.cn. 299 IN A 222.204.2.84
+
+dpb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+dpb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dpb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dpb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dpb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+dxvpn.ncu.edu.cn. 300 IN A 218.65.113.31
+
+dxvpn.ncu.edu.cn. 299 IN A 218.65.113.31
+
+dxvpn.ncu.edu.cn. 299 IN A 218.65.113.31
+
+e.ncu.edu.cn. 300 IN A 222.204.6.60
+
+e.ncu.edu.cn. 299 IN A 222.204.6.60
+
+e.ncu.edu.cn. 300 IN A 222.204.6.60
+
+e.ncu.edu.cn. 299 IN A 222.204.6.60
+
+e.ncu.edu.cn. 299 IN A 222.204.6.60
+
+e.ncu.edu.cn. 299 IN A 222.204.6.60
+
+e.ncu.edu.cn. 299 IN A 222.204.6.60
+
+e1.ncu.edu.cn. 300 IN A 222.204.6.106
+
+e1.ncu.edu.cn. 299 IN A 222.204.6.106
+
+e1.ncu.edu.cn. 299 IN A 222.204.6.106
+
+e1.ncu.edu.cn. 299 IN A 222.204.6.106
+
+e1.ncu.edu.cn. 299 IN A 222.204.6.106
+
+e1.ncu.edu.cn. 299 IN A 222.204.6.106
+
+e1.ncu.edu.cn. 299 IN A 222.204.6.106
+
+ehome.ncu.edu.cn. 300 IN A 222.204.6.30
+
+ehome.ncu.edu.cn. 299 IN A 222.204.6.30
+
+ehome.ncu.edu.cn. 299 IN A 222.204.6.30
+
+email.ncu.edu.cn. 300 IN A 210.35.240.3
+
+email.ncu.edu.cn. 299 IN A 210.35.240.3
+
+email.ncu.edu.cn. 299 IN A 210.35.240.3
+
+email.ncu.edu.cn. 299 IN A 210.35.240.3
+
+english.ncu.edu.cn. 300 IN A 218.64.56.57
+
+english.ncu.edu.cn. 299 IN A 218.64.56.57
+
+english.ncu.edu.cn. 299 IN A 218.64.56.57
+
+english.ncu.edu.cn. 299 IN A 218.64.56.57
+
+exchangedb.ncu.edu.cn. 300 IN A 222.204.70.211
+
+exchangedb.ncu.edu.cn. 299 IN A 222.204.70.211
+
+exchangedb.ncu.edu.cn. 299 IN A 222.204.70.211
+
+exchangedb.ncu.edu.cn. 299 IN A 222.204.70.211
+
+exchangedb2.ncu.edu.cn. 300 IN A 222.204.70.212
+
+exchangedb2.ncu.edu.cn. 299 IN A 222.204.70.212
+
+exchangedb2.ncu.edu.cn. 299 IN A 222.204.70.212
+
+exchangedb2.ncu.edu.cn. 299 IN A 222.204.70.212
+
+fcgl.ncu.edu.cn. 300 IN A 222.204.6.165
+
+fgc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+fgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+fgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+fgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+fgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+food-lab.ncu.edu.cn. 3600 IN A 220.250.64.225
+
+fx.ncu.edu.cn. 300 IN A 113.195.72.8
+
+fx.ncu.edu.cn. 299 IN A 113.195.72.8
+
+fx.ncu.edu.cn. 299 IN A 113.195.72.8
+
+fxcs.ncu.edu.cn. 300 IN A 218.64.56.57
+
+fxcs.ncu.edu.cn. 300 IN A 218.64.56.57
+
+fz.ncu.edu.cn. 300 IN A 218.65.25.166
+
+fz.ncu.edu.cn. 299 IN A 218.65.25.166
+
+fz.ncu.edu.cn. 300 IN A 218.65.25.166
+
+ganju.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ganju.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ganju.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gcxlsyzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+gcxlsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+gcxlsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+gjgrw.ncu.edu.cn. 300 IN A 218.64.56.57
+
+gjgrw.ncu.edu.cn. 299 IN A 218.64.56.57
+
+gjgrw.ncu.edu.cn. 299 IN A 218.64.56.57
+
+gjzf.ncu.edu.cn. 300 IN A 222.204.6.206
+
+gjzf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gjzf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gjzf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gjzf.ncu.edu.cn. 299 IN A 222.204.6.206
+
+glxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+glxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+glxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+good.ncu.edu.cn. 300 IN A 222.204.6.192
+
+good.ncu.edu.cn. 299 IN A 222.204.6.192
+
+good.ncu.edu.cn. 299 IN A 222.204.6.192
+
+good.ncu.edu.cn. 299 IN A 222.204.6.192
+
+good.ncu.edu.cn. 299 IN A 222.204.6.192
+
+grqc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+gxy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+gxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+gxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+gyb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+gyb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gyb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gyb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+gyb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 300 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hakka.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hjxy.ncu.edu.cn. 0 IN A 220.250.64.225
+
+hjxy.ncu.edu.cn. 60 IN A 220.250.64.225
+
+hlx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+hlx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+hlx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+home.ncu.edu.cn. 300 IN A 222.204.6.140
+
+home.ncu.edu.cn. 299 IN A 222.204.6.140
+
+home.ncu.edu.cn. 300 IN A 222.204.6.140
+
+home.ncu.edu.cn. 299 IN A 222.204.6.140
+
+home.ncu.edu.cn. 299 IN A 222.204.6.140
+
+home.ncu.edu.cn. 299 IN A 222.204.6.140
+
+home.ncu.edu.cn. 299 IN A 222.204.6.140
+
+hospital.ncu.edu.cn. 300 IN A 222.204.6.206
+
+hospital.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hospital.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hqbzb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+hqbzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hqbzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hqbzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hqbzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+hqfwjt.ncu.edu.cn. 300 IN A 218.64.56.57
+
+hqfwjt.ncu.edu.cn. 300 IN A 218.64.56.57
+
+hqfwjt.ncu.edu.cn. 299 IN A 218.64.56.57
+
+hr.ncu.edu.cn. 300 IN A 222.204.6.55
+
+hr.ncu.edu.cn. 299 IN A 222.204.6.55
+
+hxsyzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+hxsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+hxsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iad.ncu.edu.cn. 300 IN A 218.64.56.57
+
+iad.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iad.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iad.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iad.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ias.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ias.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ias.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ias.ncu.edu.cn. 300 IN A 222.204.6.206
+
+iec.ncu.edu.cn. 300 IN A 218.64.56.57
+
+iec.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iec.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iec.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iec.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ies.ncu.edu.cn. 60 IN A 222.204.6.206
+
+ies.ncu.edu.cn. 60 IN A 222.204.6.206
+
+ies.ncu.edu.cn. 60 IN A 222.204.6.206
+
+ies.ncu.edu.cn. 60 IN A 222.204.6.206
+
+ifcm.ncu.edu.cn. 300 IN A 222.204.6.22
+
+ifcm.ncu.edu.cn. 299 IN A 222.204.6.22
+
+ifcm.ncu.edu.cn. 299 IN A 222.204.6.22
+
+ils.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ils.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ils.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ioa.ncu.edu.cn. 300 IN A 218.64.56.47
+
+ioa.ncu.edu.cn. 299 IN A 218.64.56.47
+
+ios.ncu.edu.cn. 300 IN A 218.64.56.52
+
+ios.ncu.edu.cn. 299 IN A 218.64.56.52
+
+ios.ncu.edu.cn. 300 IN A 218.64.56.52
+
+iosdb.ncu.edu.cn. 300 IN A 222.204.70.201
+
+iosdb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+iosdb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+iosdb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+iot.ncu.edu.cn. 300 IN A 218.64.56.57
+
+iot.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iot.ncu.edu.cn. 300 IN A 218.64.56.57
+
+iot.ncu.edu.cn. 300 IN A 218.64.56.57
+
+iot.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iot.ncu.edu.cn. 299 IN A 218.64.56.57
+
+iot.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ipads.ncu.edu.cn. 300 IN A 218.64.56.57
+
+ipv.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ipv.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ipv.ncu.edu.cn. 299 IN A 222.204.6.206
+
+ipv.ncu.edu.cn. 300 IN A 222.204.6.206
+
+isst.ncu.edu.cn. 300 IN A 222.204.6.206
+
+isst.ncu.edu.cn. 299 IN A 222.204.6.206
+
+isst.ncu.edu.cn. 299 IN A 222.204.6.206
+
+isst.ncu.edu.cn. 299 IN A 222.204.6.206
+
+itm.ncu.edu.cn. 300 IN A 218.64.56.57
+
+itm.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jdgcxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jdgcxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jdgcxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jdgcxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jgdw.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jgxy.ncu.edu.cn. 60 IN A 218.64.56.57
+
+jgxy.ncu.edu.cn. 59 IN A 218.64.56.57
+
+jgxy.ncu.edu.cn. 59 IN A 218.64.56.57
+
+jlsy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jlsy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jlsy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jszx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jw.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jw.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jw.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jw.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jwc.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jwc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jwc101.ncu.edu.cn. 300 IN A 218.64.56.18
+
+jwc101.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc101.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc101.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc101.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc102.ncu.edu.cn. 300 IN A 218.64.56.18
+
+jwc102.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc102.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc102.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc102.ncu.edu.cn. 299 IN A 218.64.56.18
+
+jwc103.ncu.edu.cn. 300 IN A 218.64.56.55
+
+jwc103.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc103.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc103.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc103.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc104.ncu.edu.cn. 300 IN A 218.64.56.55
+
+jwc104.ncu.edu.cn. 300 IN A 218.64.56.55
+
+jwc104.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc104.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc104.ncu.edu.cn. 299 IN A 218.64.56.55
+
+jwc105.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jwc105.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jwc2.ncu.edu.cn. 300 IN A 222.204.3.123
+
+jwc2.ncu.edu.cn. 299 IN A 222.204.3.123
+
+jwc2.ncu.edu.cn. 299 IN A 222.204.3.123
+
+jwc2.ncu.edu.cn. 299 IN A 222.204.3.123
+
+jxams.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jxams.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jxams.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jxams.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jxds.ncu.edu.cn. 300 IN A 222.204.3.117
+
+jxfzyjy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jxfzyjy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jxfzyjy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jxfzzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jxfzzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jxfzzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jxjgkt.ncu.edu.cn. 300 IN A 222.204.6.173
+
+jxjgkt.ncu.edu.cn. 299 IN A 222.204.6.173
+
+jxjykt.ncu.edu.cn. 300 IN A 222.204.6.172
+
+jxmic.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jxmic.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jxmic.ncu.edu.cn. 299 IN A 218.64.56.57
+
+jxmic.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jxmu.ncu.edu.cn. 60 IN A 218.64.56.57
+
+jxmu.ncu.edu.cn. 59 IN A 218.64.56.57
+
+jxmu.ncu.edu.cn. 59 IN A 218.64.56.57
+
+jxoai.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jxoai.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jxoai.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jxxtzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jxxtzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jxxtzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jy.ncu.edu.cn. 300 IN A 222.204.6.143
+
+jy.ncu.edu.cn. 300 IN A 222.204.6.143
+
+jy.ncu.edu.cn. 300 IN A 222.204.6.143
+
+jydsj.ncu.edu.cn. 300 IN A 218.64.56.57
+
+jyzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+jyzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+jyzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+kjc.ncu.edu.cn. 60 IN A 218.64.56.57
+
+kjc.ncu.edu.cn. 59 IN A 218.64.56.57
+
+kjc.ncu.edu.cn. 59 IN A 218.64.56.57
+
+kjc.ncu.edu.cn. 59 IN A 218.64.56.57
+
+kjc.ncu.edu.cn. 59 IN A 218.64.56.57
+
+las.ncu.edu.cn. 300 IN A 222.204.6.206
+
+las.ncu.edu.cn. 299 IN A 222.204.6.206
+
+las.ncu.edu.cn. 299 IN A 222.204.6.206
+
+law.ncu.edu.cn. 300 IN A 222.204.6.206
+
+law.ncu.edu.cn. 299 IN A 222.204.6.206
+
+law.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lb.ncu.edu.cn. 300 IN A 222.204.3.12
+
+lb.ncu.edu.cn. 299 IN A 222.204.3.12
+
+lb.ncu.edu.cn. 299 IN A 222.204.3.12
+
+lb.ncu.edu.cn. 300 IN A 222.204.3.12
+
+lb.ncu.edu.cn. 299 IN A 222.204.3.12
+
+led.ncu.edu.cn. 300 IN A 218.64.56.57
+
+led.ncu.edu.cn. 299 IN A 218.64.56.57
+
+led.ncu.edu.cn. 299 IN A 218.64.56.57
+
+led.ncu.edu.cn. 299 IN A 218.64.56.57
+
+led.ncu.edu.cn. 299 IN A 218.64.56.57
+
+lfzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+lib.ncu.edu.cn. 60 IN A 218.64.56.57
+
+lib.ncu.edu.cn. 59 IN A 218.64.56.57
+
+lib.ncu.edu.cn. 59 IN A 218.64.56.57
+
+lib.ncu.edu.cn. 59 IN A 218.64.56.57
+
+lib.ncu.edu.cn. 59 IN A 218.64.56.57
+
+live.ncu.edu.cn. 300 IN A 222.204.3.201
+
+live.ncu.edu.cn. 299 IN A 222.204.3.201
+
+live.ncu.edu.cn. 300 IN A 222.204.3.201
+
+ltx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ltx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ltx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+lxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lxyxxpt.ncu.edu.cn. 300 IN A 222.204.6.89
+
+lxyxxpt.ncu.edu.cn. 299 IN A 222.204.6.89
+
+lygh.ncu.edu.cn. 300 IN A 222.204.6.206
+
+lygh.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lygh.ncu.edu.cn. 300 IN A 222.204.6.206
+
+lygh.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lygh.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lyxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+lyxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lyxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+lyxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+m.ncu.edu.cn. 60 IN A 218.64.56.30
+
+m.ncu.edu.cn. 60 IN A 218.64.56.30
+
+m.ncu.edu.cn. 59 IN A 218.64.56.30
+
+mail.ncu.edu.cn. 300 IN A 210.35.240.3
+
+mail.ncu.edu.cn. 299 IN A 210.35.240.3
+
+mail.ncu.edu.cn. 299 IN A 210.35.240.3
+
+oa.ncu.edu.cnssl.mail.ncu.edu.cn. 0 IN A 220.250.64.225
+
+ssl.mail.ncu.edu.cn. 0 IN A 220.250.64.225
+
+ssl.mail.ncu.edu.cn. 60 IN A 220.250.64.225
+
+ssl.mail.ncu.edu.cn. 60 IN A 220.250.64.225
+
+ssl.mail.ncu.edu.cn. 59 IN A 220.250.64.225
+
+ssl.mail.ncu.edu.cn. 59 IN A 220.250.64.225
+
+mba.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mba.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mba.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mba.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mba.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mech.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mech.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mech.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mech.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mech.ncu.edu.cn. 299 IN A 218.64.56.57
+
+NXDOMAIN for media.ncu.edu.cn
+
+NXDOMAIN for media.ncu.edu.cn
+
+mks.ncu.edu.cn. 300 IN A 222.204.3.117
+
+mmc.ncu.edu.cn. 0 IN A 220.250.64.225
+
+mpa.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mpa.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mpa.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mpa.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mpa.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mpacc.ncu.edu.cn. 300 IN A 222.204.6.206
+
+mpacc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+mpacc.ncu.edu.cn. 300 IN A 222.204.6.206
+
+mpacc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+mpacc.ncu.edu.cn. 299 IN A 222.204.6.206
+
+mrtg2.ncu.edu.cn. 300 IN A 222.204.2.30
+
+mrtg2.ncu.edu.cn. 299 IN A 222.204.2.30
+
+mrtg2.ncu.edu.cn. 299 IN A 222.204.2.30
+
+mrtg2.ncu.edu.cn. 299 IN A 222.204.2.30
+
+mse.ncu.edu.cn. 60 IN A 218.64.56.57
+
+mse.ncu.edu.cn. 59 IN A 218.64.56.57
+
+mse.ncu.edu.cn. 59 IN A 218.64.56.57
+
+mse.ncu.edu.cn. 59 IN A 218.64.56.57
+
+mse.ncu.edu.cn. 59 IN A 218.64.56.57
+
+mssql2008.ncu.edu.cn. 300 IN A 222.204.2.3
+
+mssql2008.ncu.edu.cn. 300 IN A 222.204.2.3
+
+mssql2008.ncu.edu.cn. 300 IN A 222.204.2.3
+
+mssql2008.ncu.edu.cn. 299 IN A 222.204.2.3
+
+mteaching.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mteaching.ncu.edu.cn. 300 IN A 218.64.56.57
+
+mteaching.ncu.edu.cn. 299 IN A 218.64.56.57
+
+mteaching.ncu.edu.cn. 299 IN A 218.64.56.57
+
+museum.ncu.edu.cn. 300 IN A 222.204.6.206
+
+mx.ncu.edu.cn. 300 IN A 210.35.240.3
+
+mx.ncu.edu.cn. 299 IN A 210.35.240.3
+
+my.ncu.edu.cn. 300 IN A 222.204.6.30
+
+my.ncu.edu.cn. 299 IN A 222.204.6.30
+
+my.ncu.edu.cn. 300 IN A 222.204.6.30
+
+my.ncu.edu.cn. 299 IN A 222.204.6.30
+
+mzt.ncu.edu.cn. 300 IN A 222.204.3.117
+
+mzt.ncu.edu.cn. 299 IN A 222.204.3.117
+
+ncueco.ncu.edu.cn. 300 IN A 218.64.56.57
+
+ncueco.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ncueco.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ncuhome.ncu.edu.cn. 300 IN A 222.204.6.27
+
+ncuhome.ncu.edu.cn. 299 IN A 222.204.6.27
+
+ncuhome.ncu.edu.cn. 299 IN A 222.204.6.27
+
+ncuhome.ncu.edu.cn. 299 IN A 222.204.6.27
+
+ncutv.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ncutv.ncu.edu.cn. 300 IN A 222.204.6.206
+
+ncuxyh.ncu.edu.cn. 300 IN A 218.64.56.57
+
+ncuxyh.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ncuxyh.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ndkj.ncu.edu.cn. 300 IN A 117.40.83.61
+
+ndkj.ncu.edu.cn. 299 IN A 117.40.83.61
+
+ndkj.ncu.edu.cn. 299 IN A 117.40.83.61
+
+cj.ndkj.ncu.edu.cn. 300 IN A 117.40.83.69
+
+lg.ndkj.ncu.edu.cn. 300 IN A 117.40.83.69
+
+oa2.ndkj.ncu.edu.cn. 300 IN A 117.40.83.61
+
+oa2.ndkj.ncu.edu.cn. 299 IN A 117.40.83.61
+
+rw.ndkj.ncu.edu.cn. 300 IN A 117.40.83.69
+
+ndsjy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+ndsjy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ndsjy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ndxl.ncu.edu.cn. 60 IN A 220.250.64.225
+
+ndxl.ncu.edu.cn. 59 IN A 220.250.64.225
+
+ndzcjygs.ncu.edu.cn. 300 IN A 218.64.56.57
+
+nec.ncu.edu.cn. 300 IN CNAME nuip.ncu.edu.cn.
+nuip.ncu.edu.cn. 299 IN A 218.64.56.57
+
+nec.ncu.edu.cn. 300 IN A 218.64.56.57
+
+net.ncu.edu.cn. 300 IN A 222.204.6.206
+
+net.ncu.edu.cn. 300 IN A 222.204.6.206
+
+net.ncu.edu.cn. 299 IN A 222.204.6.206
+
+net.ncu.edu.cn. 299 IN A 222.204.6.206
+
+netdoc.ncu.edu.cn. 300 IN A 222.204.2.16
+
+netdoc.ncu.edu.cn. 299 IN A 222.204.2.16
+
+netdoc.ncu.edu.cn. 299 IN A 222.204.2.16
+
+netdoc.ncu.edu.cn. 300 IN A 222.204.2.16
+
+netsafe.ncu.edu.cn. 300 IN A 222.204.6.206
+
+netsafe.ncu.edu.cn. 299 IN A 222.204.6.206
+
+netsafe.ncu.edu.cn. 300 IN A 222.204.6.206
+
+netsafe.ncu.edu.cn. 299 IN A 222.204.6.206
+
+netsafe.ncu.edu.cn. 299 IN A 222.204.6.206
+
+news.ncu.edu.cn. 60 IN A 218.64.56.30
+
+news.ncu.edu.cn. 60 IN A 218.64.56.30
+
+news.ncu.edu.cn. 59 IN A 218.64.56.30
+
+news.ncu.edu.cn. 59 IN A 218.64.56.30
+
+zhuanti.news.ncu.edu.cn. 300 IN A 218.64.56.30
+
+zhuanti.news.ncu.edu.cn. 299 IN A 218.64.56.30
+
+zhuanti.news.ncu.edu.cn. 300 IN A 218.64.56.30
+
+news1.ncu.edu.cn. 300 IN A 222.204.3.93
+
+news1.ncu.edu.cn. 299 IN A 222.204.3.93
+
+news1.ncu.edu.cn. 299 IN A 222.204.3.93
+
+news1.ncu.edu.cn. 299 IN A 222.204.3.93
+
+news1.ncu.edu.cn. 299 IN A 222.204.3.93
+
+ns3.ncu.edu.cn. 300 IN A 218.64.56.8
+
+ns3.ncu.edu.cn. 299 IN A 218.64.56.8
+
+ns3.ncu.edu.cn. 299 IN A 218.64.56.8
+
+ns3.ncu.edu.cn. 299 IN A 218.64.56.8
+
+ns3.ncu.edu.cn. 299 IN A 218.64.56.8
+
+nsitc.ncu.edu.cn. 300 IN A 222.204.6.206
+
+nsntl.ncu.edu.cn. 300 IN A 218.64.56.57
+
+nsntl.ncu.edu.cn. 299 IN A 218.64.56.57
+
+nsntl.ncu.edu.cn. 299 IN A 218.64.56.57
+
+nuip.ncu.edu.cn. 299 IN A 218.64.56.57
+
+nuip.ncu.edu.cn. 298 IN A 218.64.56.57
+
+nuip.ncu.edu.cn. 298 IN A 218.64.56.57
+
+nutri.ncu.edu.cn. 60 IN A 222.204.6.206
+
+nutri.ncu.edu.cn. 60 IN A 222.204.6.206
+
+oa.ncu.edu.cn. 300 IN A 218.64.56.40
+
+oa.ncu.edu.cn. 299 IN A 218.64.56.40
+
+oa.ncu.edu.cn. 299 IN A 218.64.56.40
+
+oa.ncu.edu.cn. 299 IN A 218.64.56.40
+
+oa1.ncu.edu.cn. 300 IN A 218.64.56.40
+
+oa1.ncu.edu.cn. 299 IN A 218.64.56.40
+
+oa2.ncu.edu.cn. 300 IN A 218.64.56.47
+
+oa2.ncu.edu.cn. 299 IN A 218.64.56.47
+
+online.ncu.edu.cn. 300 IN A 218.64.56.27
+
+online.ncu.edu.cn. 300 IN A 218.64.56.27
+
+online.ncu.edu.cn. 299 IN A 218.64.56.27
+
+online.ncu.edu.cn. 299 IN A 218.64.56.27
+
+online.ncu.edu.cn. 299 IN A 218.64.56.27
+
+opac.ncu.edu.cn. 300 IN A 210.35.251.243
+
+opac.ncu.edu.cn. 299 IN A 210.35.251.243
+
+opac.ncu.edu.cn. 299 IN A 210.35.251.243
+
+opac.ncu.edu.cn. 299 IN A 210.35.251.243
+
+pf.ncu.edu.cn. 300 IN A 222.204.6.58
+
+pf.ncu.edu.cn. 299 IN A 222.204.6.58
+
+pf.ncu.edu.cn. 299 IN A 222.204.6.58
+
+pf.ncu.edu.cn. 299 IN A 222.204.6.58
+
+physics-ilab.ncu.edu.cn. 300 IN A 222.204.3.82
+
+physics-ilab.ncu.edu.cn. 300 IN A 222.204.3.82
+
+pmail.ncu.edu.cn. 3600 IN A 220.250.64.225
+
+pmail.ncu.edu.cn. 3599 IN A 220.250.64.225
+
+portaldata.ncu.edu.cn. 300 IN A 222.204.70.220
+
+portaldata.ncu.edu.cn. 299 IN A 222.204.70.220
+
+portaldata.ncu.edu.cn. 300 IN A 222.204.70.220
+
+portaldata.ncu.edu.cn. 299 IN A 222.204.70.220
+
+portaldb.ncu.edu.cn. 300 IN A 222.204.70.201
+
+portaldb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+portaldb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+portaldb.ncu.edu.cn. 299 IN A 222.204.70.201
+
+psc.ncu.edu.cn. 300 IN A 218.64.56.58
+
+psc.ncu.edu.cn. 299 IN A 218.64.56.58
+
+psc.ncu.edu.cn. 299 IN A 218.64.56.58
+
+psc.ncu.edu.cn. 299 IN A 218.64.56.58
+
+psc.ncu.edu.cn. 299 IN A 218.64.56.58
+
+psc.ncu.edu.cn. 299 IN A 218.64.56.58
+
+psc.ncu.edu.cn. 299 IN A 218.64.56.58
+
+qhxy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+qhxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+qhxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+qks.ncu.edu.cn. 300 IN A 218.64.56.49
+
+qks.ncu.edu.cn. 299 IN A 218.64.56.49
+
+qks.ncu.edu.cn. 299 IN A 218.64.56.49
+
+qks.ncu.edu.cn. 299 IN A 218.64.56.49
+
+qmfile.ncu.edu.cn. 300 IN A 218.65.113.21
+
+qmfile.ncu.edu.cn. 299 IN A 218.65.113.21
+
+qmfile.ncu.edu.cn. 299 IN A 218.65.113.21
+
+qmfile.ncu.edu.cn. 299 IN A 218.65.113.21
+
+qmj2019.ncu.edu.cn. 300 IN A 218.64.56.57
+
+qmul.ncu.edu.cn. 300 IN A 218.64.56.57
+
+qmul.ncu.edu.cn. 299 IN A 218.64.56.57
+
+qmul.ncu.edu.cn. 299 IN A 218.64.56.57
+
+qmul.ncu.edu.cn. 299 IN A 218.64.56.57
+
+registry.ncu.edu.cn. 300 IN A 218.65.113.11
+
+rsc.ncu.edu.cn. 60 IN A 222.204.6.206
+
+rsc.ncu.edu.cn. 59 IN A 222.204.6.206
+
+rsc.ncu.edu.cn. 59 IN A 222.204.6.206
+
+rsc.ncu.edu.cn. 59 IN A 222.204.6.206
+
+rsc.ncu.edu.cn. 59 IN A 222.204.6.206
+
+rspay.ncu.edu.cn. 300 IN A 222.204.6.97
+
+rwb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+rwb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+rwb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+rwb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+rwb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+rwxy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+rwxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+rwxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+rwxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+savimanage.ncu.edu.cn. 300 IN A 222.204.3.183
+
+savimanage.ncu.edu.cn. 299 IN A 222.204.3.183
+
+savimanage.ncu.edu.cn. 299 IN A 222.204.3.183
+
+savimanage.ncu.edu.cn. 299 IN A 222.204.3.183
+
+sbms.ncu.edu.cn. 300 IN A 218.64.56.57
+
+sbms.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sbms.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sbms.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sce.ncu.edu.cn. 300 IN A 222.204.6.206
+
+sce.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sce.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sce.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sce.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sce1.ncu.edu.cn. 300 IN A 218.64.56.43
+
+sce1.ncu.edu.cn. 299 IN A 218.64.56.43
+
+sce1.ncu.edu.cn. 299 IN A 218.64.56.43
+
+sce1.ncu.edu.cn. 299 IN A 218.64.56.43
+
+sce1.ncu.edu.cn. 299 IN A 218.64.56.43
+
+sce2.ncu.edu.cn. 300 IN A 222.204.3.105
+
+sce2.ncu.edu.cn. 299 IN A 222.204.3.105
+
+sce2.ncu.edu.cn. 299 IN A 222.204.3.105
+
+sce2.ncu.edu.cn. 299 IN A 222.204.3.105
+
+sem.ncu.edu.cn. 300 IN A 222.204.6.206
+
+sem.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sem.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sem.ncu.edu.cn. 299 IN A 222.204.6.206
+
+sfst.ncu.edu.cn. 300 IN A 218.64.56.57
+
+sfst.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sfst.ncu.edu.cn. 299 IN A 218.64.56.57
+
+shpg.ncu.edu.cn. 300 IN A 218.64.56.57
+
+shpg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+shpg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+shpg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+shpg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sjc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+sjc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sjc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sjc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+sjzx.ncu.edu.cn. 300 IN A 222.204.6.86
+
+sjzx.ncu.edu.cn. 299 IN A 222.204.6.86
+
+sjzx.ncu.edu.cn. 299 IN A 222.204.6.86
+
+skc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+skc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+skc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+skc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+skc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+skglxt.ncu.edu.cn. 300 IN A 222.204.3.72
+
+sklf.ncu.edu.cn. 300 IN A 218.64.56.57
+
+sklf.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sklf.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sklf.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sklf.ncu.edu.cn. 300 IN A 218.64.56.57
+
+smkxclg.ncu.edu.cn. 300 IN A 218.64.56.57
+
+smkxclg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+smkxclg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+smkxclg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+soft.ncu.edu.cn. 300 IN A 218.64.56.57
+
+soft.ncu.edu.cn. 299 IN A 218.64.56.57
+
+soft.ncu.edu.cn. 299 IN A 218.64.56.57
+
+soft.ncu.edu.cn. 299 IN A 218.64.56.57
+
+spe.ncu.edu.cn. 300 IN A 218.64.56.57
+
+spe.ncu.edu.cn. 299 IN A 218.64.56.57
+
+spe.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sph.ncu.edu.cn. 300 IN A 218.64.56.57
+
+sph.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sph.ncu.edu.cn. 299 IN A 218.64.56.57
+
+spm.ncu.edu.cn. 300 IN A 218.64.56.57
+
+spm.ncu.edu.cn. 299 IN A 218.64.56.57
+
+spm.ncu.edu.cn. 299 IN A 218.64.56.57
+
+srun.ncu.edu.cn. 60 IN A 222.204.6.206
+
+swsyzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+swsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+swsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+swsyzx.ncu.edu.cn. 299 IN A 218.64.56.57
+
+sxfj.ncu.edu.cn. 300 IN A 222.204.3.117
+
+szb.ncu.edu.cn. 300 IN A 218.64.56.57
+
+szb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+szb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+szb.ncu.edu.cn. 300 IN A 218.64.56.57
+
+szb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+tajx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+tajx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+tajx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+thz.ncu.edu.cn. 300 IN A 218.64.56.57
+
+tj.ncu.edu.cn. 300 IN A 218.64.56.58
+
+tj.ncu.edu.cn. 299 IN A 218.64.56.58
+
+tj.ncu.edu.cn. 299 IN A 218.64.56.58
+
+tv4.ncu.edu.cn. 300 IN A 222.204.3.62
+
+tv4.ncu.edu.cn. 299 IN A 222.204.3.62
+
+tv4.ncu.edu.cn. 299 IN A 222.204.3.62
+
+tv4.ncu.edu.cn. 300 IN A 222.204.3.62
+
+tv6.ncu.edu.cn. 300 IN A 222.204.3.62
+
+tv6.ncu.edu.cn. 299 IN A 222.204.3.62
+
+tv6.ncu.edu.cn. 299 IN A 222.204.3.62
+
+tv6.ncu.edu.cn. 299 IN A 222.204.3.62
+
+txsyzx.ncu.edu.cn. 0 IN A 220.250.64.225
+
+txsyzx.ncu.edu.cn. 60 IN A 220.250.64.225
+
+tyyjyxy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+tyyjyxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+tyyjyxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+tyyjyxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+tzb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+tzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+tzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+tzb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+tzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+update360.ncu.edu.cn. 300 IN A 222.204.2.114
+
+update360.ncu.edu.cn. 299 IN A 222.204.2.114
+
+update360.ncu.edu.cn. 299 IN A 222.204.2.114
+
+update360.ncu.edu.cn. 299 IN A 222.204.2.114
+
+video.ncu.edu.cn. 300 IN A 222.204.6.206
+
+vpn.ncu.edu.cn. 300 IN A 218.64.56.38
+
+vpn.ncu.edu.cn. 299 IN A 218.64.56.38
+
+vpn.ncu.edu.cn. 299 IN A 218.64.56.38
+
+vpn.ncu.edu.cn. 299 IN A 218.64.56.38
+
+wap.ncu.edu.cn. 60 IN A 222.204.6.206
+
+waplib.ncu.edu.cn. 300 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 42.62.107.229
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+5read.aichaoxing.com. 9 IN A 140.210.72.6
+5read.aichaoxing.com. 9 IN A 42.62.107.226
+
+waplib.ncu.edu.cn. 299 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 10 IN A 42.62.107.226
+5read.aichaoxing.com. 10 IN A 140.210.72.6
+5read.aichaoxing.com. 10 IN A 140.210.72.5
+5read.aichaoxing.com. 10 IN A 42.62.107.229
+
+waplib.ncu.edu.cn. 300 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 59 IN A 42.62.107.226
+5read.aichaoxing.com. 59 IN A 42.62.107.229
+5read.aichaoxing.com. 59 IN A 140.210.72.5
+5read.aichaoxing.com. 59 IN A 140.210.72.6
+
+ms.waplib.ncu.edu.cn. 300 IN A 210.35.251.127
+
+ms.waplib.ncu.edu.cn. 299 IN A 210.35.251.127
+
+ms.waplib.ncu.edu.cn. 299 IN A 210.35.251.127
+
+ms.waplib.ncu.edu.cn. 299 IN A 210.35.251.127
+
+webvpn.ncu.edu.cn. 300 IN CNAME vpn.ncu.edu.cn.
+vpn.ncu.edu.cn. 298 IN A 218.64.56.38
+
+webvpn.ncu.edu.cn. 299 IN CNAME vpn.ncu.edu.cn.
+vpn.ncu.edu.cn. 298 IN A 218.64.56.38
+
+webvpn.ncu.edu.cn. 299 IN CNAME vpn.ncu.edu.cn.
+vpn.ncu.edu.cn. 298 IN A 218.64.56.38
+
+wgyxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+wgyxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+wgyxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+wgyxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+wlan.ncu.edu.cn. 300 IN A 222.204.3.226
+
+wlsyzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+wlsyzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+wlsyzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+wlzx.ncu.edu.cn. 0 IN A 220.250.64.225
+
+wlzx.ncu.edu.cn. 60 IN A 220.250.64.225
+
+wsdx.ncu.edu.cn. 300 IN A 222.204.6.6
+
+wsdx.ncu.edu.cn. 299 IN A 222.204.6.6
+
+wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+210-35-251-219.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+cajviewer-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+cb-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+check-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+cms-8080.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+cy-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+data-cnki-net.wvpn.ncu.edu.cn. 60 IN A 218.64.56.34
+
+elearning-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+elib-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+gaige-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+help-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+image-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+jwc.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+kns-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+lib.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+lib.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+my-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+myhk-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+navi-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+qa-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+r-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+scholar-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+tongji-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+trend-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+vpn0.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+weibo-com.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+wk-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+wl-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+wlan.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+writeaid-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www-adobe-com-443.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-bl-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-ccpd-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-chkd-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-cp-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-ncbi-nlm-nih-gov-443.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+www-wanfangdata-com-cn.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+x-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+xinyongdlds-cnki-net.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+yjsgl.wvpn.ncu.edu.cn. 300 IN A 218.64.56.34
+
+yjsgl.wvpn.ncu.edu.cn. 299 IN A 218.64.56.34
+
+www.ncu.edu.cn. 60 IN A 222.204.6.206
+
+www.ncu.edu.cn. 60 IN A 222.204.6.206
+
+www.ncu.edu.cn. 59 IN A 222.204.6.206
+
+www.ncu.edu.cn. 59 IN A 222.204.6.206
+
+www.ncu.edu.cn. 59 IN A 222.204.6.206
+
+wx.ncu.edu.cn. 300 IN A 218.65.113.19
+
+wyjx.ncu.edu.cn. 300 IN A 222.204.6.46
+
+wyjx.ncu.edu.cn. 299 IN A 222.204.6.46
+
+wyjx.ncu.edu.cn. 299 IN A 222.204.6.46
+
+wyjx.ncu.edu.cn. 300 IN A 222.204.6.46
+
+wyzt.ncu.edu.cn. 300 IN A 218.64.56.57
+
+xcb.ncu.edu.cn. 300 IN A 218.64.56.57
+
+xcb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xcb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xcb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xcb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xgc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+xgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xgc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xljk.ncu.edu.cn. 300 IN A 222.204.6.18
+
+xljk.ncu.edu.cn. 299 IN A 222.204.6.18
+
+xscw.ncu.edu.cn. 300 IN A 222.204.6.149
+
+xscw.ncu.edu.cn. 300 IN A 222.204.6.149
+
+xsg.ncu.edu.cn. 300 IN A 218.64.56.57
+
+xsg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xsg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xsg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xsg.ncu.edu.cn. 299 IN A 218.64.56.57
+
+xsyb.ncu.edu.cn. 300 IN A 222.204.3.75
+
+xsyb.ncu.edu.cn. 299 IN A 222.204.3.75
+
+xsyb.ncu.edu.cn. 299 IN A 222.204.3.75
+
+xsyb.ncu.edu.cn. 299 IN A 222.204.3.75
+
+xsyb.ncu.edu.cn. 299 IN A 222.204.3.75
+
+xwycb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+xwycb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xwycb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xwycb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xwycb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xxwl.ncu.edu.cn. 300 IN A 222.204.6.206
+
+xxwl.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xxwl.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xxwl.ncu.edu.cn. 299 IN A 222.204.6.206
+
+xyh.ncu.edu.cn. 300 IN A 218.64.56.13
+
+xyh.ncu.edu.cn. 299 IN A 218.64.56.13
+
+xyh.ncu.edu.cn. 299 IN A 218.64.56.13
+
+ygb.ncu.edu.cn. 300 IN A 218.64.56.57
+
+ygb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ygb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ygb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+ygb.ncu.edu.cn. 299 IN A 218.64.56.57
+
+yjsgl.ncu.edu.cn. 300 IN A 222.204.6.103
+
+yjsgl.ncu.edu.cn. 300 IN A 222.204.6.103
+
+yjsgl.ncu.edu.cn. 299 IN A 222.204.6.103
+
+yjsy.ncu.edu.cn. 60 IN A 218.64.56.57
+
+yjsy.ncu.edu.cn. 60 IN A 218.64.56.57
+
+yjsy.ncu.edu.cn. 59 IN A 218.64.56.57
+
+yjsy.ncu.edu.cn. 59 IN A 218.64.56.57
+
+yk.ncu.edu.cn. 300 IN A 212.64.72.93
+
+yk.ncu.edu.cn. 299 IN A 212.64.72.93
+
+youth.ncu.edu.cn. 300 IN A 218.64.56.57
+
+youth.ncu.edu.cn. 299 IN A 218.64.56.57
+
+youth.ncu.edu.cn. 299 IN A 218.64.56.57
+
+yqgx.ncu.edu.cn. 300 IN A 222.204.6.72
+
+yqgx.ncu.edu.cn. 299 IN A 222.204.6.72
+
+yqgx.ncu.edu.cn. 299 IN A 222.204.6.72
+
+yqyy.ncu.edu.cn. 300 IN A 222.204.6.7
+
+yrezdata.ncu.edu.cn. 300 IN A 222.204.6.67
+
+yrezdata.ncu.edu.cn. 299 IN A 222.204.6.67
+
+yrezdata.ncu.edu.cn. 299 IN A 222.204.6.67
+
+yrezdata.ncu.edu.cn. 300 IN A 222.204.6.67
+
+yrezdata.ncu.edu.cn. 299 IN A 222.204.6.67
+
+yszx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+yxsyjxzx.ncu.edu.cn. 300 IN A 222.204.6.206
+
+yxsyjxzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+yxsyjxzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+yxsyjxzx.ncu.edu.cn. 299 IN A 222.204.6.206
+
+yxsyzx.ncu.edu.cn. 300 IN A 218.64.56.57
+
+yxxnfz.ncu.edu.cn. 300 IN A 222.204.6.206
+
+yxxnfz.ncu.edu.cn. 300 IN A 222.204.6.206
+
+yxxnfz.ncu.edu.cn. 299 IN A 222.204.6.206
+
+yxy.ncu.edu.cn. 300 IN A 218.64.56.57
+
+yxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+yxy.ncu.edu.cn. 299 IN A 218.64.56.57
+
+yyg.ncu.edu.cn. 0 IN A 220.250.64.225
+
+yyg.ncu.edu.cn. 60 IN A 220.250.64.225
+
+yywz.ncu.edu.cn. 300 IN A 222.204.6.206
+
+yywz.ncu.edu.cn. 300 IN A 222.204.6.206
+
+yywz.ncu.edu.cn. 299 IN A 222.204.6.206
+
+yzkc.ncu.edu.cn. 300 IN A 210.35.240.88
+
+yzkc.ncu.edu.cn. 300 IN A 210.35.240.88
+
+yzkc.ncu.edu.cn. 299 IN A 210.35.240.88
+
+yzkc.ncu.edu.cn. 299 IN A 210.35.240.88
+
+yzkc.ncu.edu.cn. 299 IN A 210.35.240.88
+
+zcc.ncu.edu.cn. 300 IN A 218.64.56.57
+
+zcc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+zcc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+zcc.ncu.edu.cn. 299 IN A 218.64.56.57
+
+zcgl.ncu.edu.cn. 300 IN A 222.204.6.14
+
+zhxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+zhxy.ncu.edu.cn. 299 IN A 222.204.6.206
+
+zhxy.ncu.edu.cn. 300 IN A 222.204.6.206
+
+zjc.ncu.edu.cn. 60 IN A 218.64.56.57
+
+zjc.ncu.edu.cn. 60 IN A 218.64.56.57
+
+zjc.ncu.edu.cn. 60 IN A 218.64.56.57
+
+zjc.ncu.edu.cn. 59 IN A 218.64.56.57
+
+webservice.zjc.ncu.edu.cn. 300 IN A 222.204.3.43
+
+webservice.zjc.ncu.edu.cn. 299 IN A 222.204.3.43
+
+webservice.zjc.ncu.edu.cn. 299 IN A 222.204.3.43
+
+webservice.zjc.ncu.edu.cn. 299 IN A 222.204.3.43
+
+webservice.zjc.ncu.edu.cn. 299 IN A 222.204.3.43
+
+webservice.zjc.ncu.edu.cn. 300 IN A 222.204.3.43
+
+webservice.zjc.ncu.edu.cn. 299 IN A 222.204.3.43
+
+zydy.ncu.edu.cn. 300 IN A 222.204.14.1
+
+zydy.ncu.edu.cn. 299 IN A 222.204.14.1
+
+zydy.ncu.edu.cn. 300 IN A 222.204.14.1
+
+zydy.ncu.edu.cn. 299 IN A 222.204.14.1
+
+zyflrcjyw.ncu.edu.cn. 0 IN A 220.250.64.225
+
+zyflrcjyw.ncu.edu.cn. 60 IN A 220.250.64.225
+
+zyjh.ncu.edu.cn. 300 IN A 222.204.6.206
+
+zyjh.ncu.edu.cn. 300 IN A 222.204.6.206
+
+zyjh.ncu.edu.cn. 299 IN A 222.204.6.206
+
+zyjh.ncu.edu.cn. 299 IN A 222.204.6.206
+
+zyjh.ncu.edu.cn. 299 IN A 222.204.6.206
+
+zypg.ncu.edu.cn. 300 IN A 222.204.3.40
+
+zypg.ncu.edu.cn. 299 IN A 222.204.3.40
+
+zzb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+zzb.ncu.edu.cn. 300 IN A 222.204.6.206
+
+zzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+zzb.ncu.edu.cn. 299 IN A 222.204.6.206
+
+zzb.ncu.edu.cn. 300 IN A 222.204.6.206
+

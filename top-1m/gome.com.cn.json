@@ -1,0 +1,80 @@
+{
+    "http": {
+        "header": {
+            "Server": "GOMEWS",
+            "Date": "Wed, 16 Sep 2020 10:00:09 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Info": "s1sw008 s1sw015",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, DELETE",
+            "Access-Control-Allow-Headers": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "gome.com.cn": [],
+            "www.gome.com.cn": [
+                "188.131.208.239"
+            ]
+        },
+        "ping": {
+            "gome.com.cn": [
+                "124.250.72.168"
+            ],
+            "www.gome.com.cn": [
+                "188.131.208.239"
+            ]
+        },
+        "CNAME": {
+            "gome.com.cn": null
+        },
+        "A": {
+            "gome.com.cn": [
+                "124.250.72.168"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "GOMEWS",
+            "Date": "Wed, 16 Sep 2020 10:00:17 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Info": "spa-201-22-58 s1sw014",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, DELETE",
+            "Access-Control-Allow-Headers": "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "gome.com.cn": [
+                "124.250.72.168"
+            ],
+            "www.gome.com.cn": [
+                "188.131.208.239"
+            ]
+        },
+        "ping": {
+            "gome.com.cn": [
+                "124.250.72.168"
+            ],
+            "www.gome.com.cn": [
+                "188.131.208.239"
+            ]
+        },
+        "CNAME": {
+            "gome.com.cn": null
+        },
+        "A": {
+            "gome.com.cn": [
+                "124.250.72.168"
+            ]
+        }
+    }
+}

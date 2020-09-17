@@ -1,0 +1,101 @@
+{
+    "http": {
+        "header": {
+            "Server": "NWS",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "P3P": "CP=\"CAO DSP CURa ADMa TAIa PSAa OUR LAW STP PHY ONL UNI PUR FIN COM NAV INT DEM STA PRE\"",
+            "X-Frame-Options": "DENY",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=63072000; includeSubdomains",
+            "Referrer-Policy": "unsafe-url",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 09:17:43 GMT",
+            "Content-Length": "28514",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "naver.com": [
+                "210.89.164.90",
+                "210.89.160.88",
+                "125.209.222.141",
+                "125.209.222.142"
+            ],
+            "www.naver.com": [
+                "23.54.56.205"
+            ]
+        },
+        "ping": {
+            "naver.com": [
+                "125.209.222.141",
+                "210.89.164.90",
+                "210.89.160.88"
+            ],
+            "www.naver.com": [
+                "23.54.56.205"
+            ]
+        },
+        "CNAME": {
+            "www.naver.com": [
+                "www.naver.com.nheos.com."
+            ]
+        },
+        "A": {
+            "www.naver.com": [
+                "23.54.56.205"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "NWS",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "P3P": "CP=\"CAO DSP CURa ADMa TAIa PSAa OUR LAW STP PHY ONL UNI PUR FIN COM NAV INT DEM STA PRE\"",
+            "X-Frame-Options": "DENY",
+            "X-XSS-Protection": "1; mode=block",
+            "Strict-Transport-Security": "max-age=63072000; includeSubdomains",
+            "Referrer-Policy": "unsafe-url",
+            "Vary": "Accept-Encoding",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 09:17:44 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding"
+        },
+        "nslookup": {
+            "naver.com": [
+                "210.89.164.90",
+                "210.89.160.88",
+                "125.209.222.141",
+                "125.209.222.142"
+            ],
+            "www.naver.com": [
+                "23.54.56.205"
+            ]
+        },
+        "ping": {
+            "naver.com": [
+                "210.89.164.90",
+                "125.209.222.142",
+                "125.209.222.141",
+                "210.89.160.88"
+            ],
+            "www.naver.com": [
+                "23.54.56.205"
+            ]
+        },
+        "CNAME": {
+            "www.naver.com": [
+                "www.naver.com.nheos.com."
+            ]
+        },
+        "A": {
+            "www.naver.com": [
+                "23.54.56.205"
+            ]
+        }
+    }
+}

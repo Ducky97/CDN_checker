@@ -1,0 +1,97 @@
+{
+    "http": {
+        "header": {
+            "x-content-type-options": "nosniff",
+            "strict-transport-security": "max-age=31536000, max-age=31536000",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src 'self' blob: wss: data: https:; img-src 'self' data: https:; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: data: https:; style-src 'self' 'unsafe-inline' data: https:; ",
+            "Content-Type": "text/html;charset=utf-8",
+            "rlogid": "t6klaook%60b0%3D%3C%3Dqkiojbnkmcc4%3B(u1ok%60*w%60ut3541-1749634b05e-0x1204",
+            "Content-Encoding": "gzip",
+            "x-envoy-upstream-service-time": "51",
+            "Server": "ebay-proxy-server",
+            "X-EdgeConnect-MidMile-RTT": "177",
+            "X-EdgeConnect-Origin-MEX-Latency": "59",
+            "X-EdgeConnect-Cache-Status": "0",
+            "Date": "Wed, 16 Sep 2020 09:17:49 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "dp1=bbl/SG63243f3d^; Domain=.ebay.com; Path=/; Expires=Fri, 16 Sep 2022 09:17:49 GMT, nonsession=BAQAAAXQoEGjGAAaAADMABmFDC70yMjgyMTEAygAgYyQ/PTk2MzRiMDZlMTc0MGE0ZDZiMTZkMjEzMmZmZmRjMWI0AMsAAV9h30Ux7gpOX+SamlyZTkum9xcYPVh6LXk*; Domain=.ebay.com; Path=/; Expires=Fri, 16 Sep 2022 09:17:49 GMT, s=CgAD4ACBfYym9OTYzNGIwNmUxNzQwYTRkNmIxNmQyMTMyZmZmZGMxYjQc8pCl; Domain=.ebay.com; Path=/; HttpOnly, ebay=%5Esbf%3D%23000000%5E; Domain=.ebay.com; Path=/"
+        },
+        "nslookup": {
+            "ebay.com": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ],
+            "www.ebay.com": [
+                "23.199.245.238"
+            ]
+        },
+        "ping": {
+            "ebay.com": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ],
+            "www.ebay.com": [
+                "23.199.245.238"
+            ]
+        },
+        "CNAME": {
+            "www.ebay.com": [
+                "slot9428.ebay.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.ebay.com": [
+                "23.199.245.238"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "X-Content-Type-Options": "nosniff",
+            "Strict-Transport-Security": "max-age=31536000, max-age=31536000",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "SAMEORIGIN",
+            "Content-Security-Policy": "default-src 'self' blob: wss: data: https:; img-src 'self' data: https:; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: data: https:; style-src 'self' 'unsafe-inline' data: https:; ",
+            "Content-Type": "text/html;charset=utf-8",
+            "rlogid": "t6klaook%60b0%3D%3C%3Dpieojbnkmcc4%3B(5512465-1749634b548-0x202",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 09:17:50 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "dp1=bbl/SG63243f3e^; Domain=.ebay.com; Path=/; Expires=Fri, 16 Sep 2022 09:17:50 GMT, nonsession=BAQAAAXQoEGjGAAaAADMABmFDC74yMjgyMTEAygAgYyQ/Pjk2MzRiNTVhMTc0MGFjM2NmOTBlZTYzOWZmZmU4MzEwAMsAAV9h30Yx293hgonA0psIVk8vQlGZlZSdOxg*; Domain=.ebay.com; Path=/; Expires=Fri, 16 Sep 2022 09:17:50 GMT, s=CgAD4ACBfYym+OTYzNGI1NWExNzQwYWMzY2Y5MGVlNjM5ZmZmZTgzMTD3fQna; Domain=.ebay.com; Path=/; HttpOnly, ebay=%5Esbf%3D%23000000%5E; Domain=.ebay.com; Path=/"
+        },
+        "nslookup": {
+            "ebay.com": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ],
+            "www.ebay.com": [
+                "23.199.245.238"
+            ]
+        },
+        "ping": {
+            "ebay.com": [
+                "66.135.195.175",
+                "66.135.196.249"
+            ],
+            "www.ebay.com": [
+                "23.199.245.238"
+            ]
+        },
+        "CNAME": {
+            "www.ebay.com": [
+                "slot9428.ebay.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.ebay.com": [
+                "23.199.245.238"
+            ]
+        }
+    }
+}

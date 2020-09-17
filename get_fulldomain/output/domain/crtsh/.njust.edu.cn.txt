@@ -1,0 +1,10 @@
+*.vpn.njust.edu.cn
+*.webvpn.njust.edu.cn
+cloud.njust.edu.cn
+icpc.njust.edu.cn
+vpn.njust.edu.cn
+webvpn.njust.edu.cn
+wechat.njust.edu.cn
+wechat2.njust.edu.cn
+www.njust.edu.cn
+zzfzsy.njust.edu.cn

@@ -1,0 +1,80 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:14:59 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Wed, 16 Sep 2020 10:01:17 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "ETag": "W/\"5f61e26d-1441e\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "360.com": [
+                "104.192.110.203"
+            ],
+            "www.360.cn": [
+                "36.99.170.84",
+                "36.110.213.10"
+            ]
+        },
+        "ping": {
+            "360.com": [
+                "104.192.110.203"
+            ],
+            "www.360.cn": [
+                "36.110.213.10",
+                "36.99.170.84"
+            ]
+        },
+        "CNAME": {
+            "www.360.cn": null
+        },
+        "A": {
+            "www.360.cn": [
+                "36.110.213.10",
+                "36.99.170.84"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:15:01 GMT",
+            "Content-Type": "text/html",
+            "Last-Modified": "Wed, 16 Sep 2020 10:01:17 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "close",
+            "ETag": "W/\"5f61e26d-1441e\"",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "360.com": [
+                "104.192.110.203"
+            ],
+            "www.360.cn": [
+                "36.99.170.84",
+                "36.110.213.10"
+            ]
+        },
+        "ping": {
+            "360.com": [
+                "104.192.110.203"
+            ],
+            "www.360.cn": [
+                "36.110.213.10",
+                "36.99.170.84"
+            ]
+        },
+        "CNAME": {
+            "www.360.cn": null
+        },
+        "A": {
+            "www.360.cn": [
+                "36.110.213.10",
+                "36.99.170.84"
+            ]
+        }
+    }
+}

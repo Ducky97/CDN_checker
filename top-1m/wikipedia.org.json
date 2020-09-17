@@ -1,0 +1,96 @@
+{
+    "http": {
+        "header": {
+            "Date": "Tue, 15 Sep 2020 10:27:05 GMT",
+            "Cache-Control": "s-maxage=86400, must-revalidate, max-age=3600",
+            "Server": "ATS/8.0.8",
+            "ETag": "W/\"10d6d-5af439e1047e2\"",
+            "Last-Modified": "Mon, 14 Sep 2020 10:37:13 GMT",
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Age": "81141",
+            "X-Cache": "cp5009 hit, cp5008 hit/276189",
+            "X-Cache-Status": "hit-front",
+            "Server-Timing": "cache;desc=\"hit-front\"",
+            "Strict-Transport-Security": "max-age=106384710; includeSubDomains; preload",
+            "X-Client-IP": "47.241.77.232",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "17870",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "wikipedia.org": [
+                "198.35.26.96"
+            ],
+            "www.wikipedia.org": [
+                "198.35.26.96"
+            ]
+        },
+        "ping": {
+            "wikipedia.org": [
+                "103.102.166.224"
+            ],
+            "www.wikipedia.org": [
+                "103.102.166.224"
+            ]
+        },
+        "CNAME": {
+            "www.wikipedia.org": [
+                "dyna.wikimedia.org."
+            ]
+        },
+        "A": {
+            "www.wikipedia.org": [
+                "103.102.166.224"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Tue, 15 Sep 2020 10:27:05 GMT",
+            "Cache-Control": "s-maxage=86400, must-revalidate, max-age=3600",
+            "Server": "ATS/8.0.8",
+            "ETag": "W/\"10d6d-5af439e1047e2\"",
+            "Last-Modified": "Mon, 14 Sep 2020 10:37:13 GMT",
+            "Content-Type": "text/html",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "Age": "81142",
+            "X-Cache": "cp5009 hit, cp5008 hit/276195",
+            "X-Cache-Status": "hit-front",
+            "Server-Timing": "cache;desc=\"hit-front\"",
+            "Strict-Transport-Security": "max-age=106384710; includeSubDomains; preload",
+            "X-Client-IP": "47.241.77.232",
+            "Accept-Ranges": "bytes",
+            "Content-Length": "17870",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "wikipedia.org": [
+                "198.35.26.96"
+            ],
+            "www.wikipedia.org": [
+                "198.35.26.96"
+            ]
+        },
+        "ping": {
+            "wikipedia.org": [
+                "103.102.166.224"
+            ],
+            "www.wikipedia.org": [
+                "103.102.166.224"
+            ]
+        },
+        "CNAME": {
+            "www.wikipedia.org": [
+                "dyna.wikimedia.org."
+            ]
+        },
+        "A": {
+            "www.wikipedia.org": [
+                "103.102.166.224"
+            ]
+        }
+    }
+}

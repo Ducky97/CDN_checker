@@ -1,0 +1,116 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "openresty",
+            "fusion-content-id": "undefined",
+            "fusion-content-source": "undefined",
+            "fusion-template-id": "page/poZcLt1ZOcfL2s",
+            "fusion-component-id": "undefined",
+            "fusion-deployment-id": "392",
+            "ETag": "W/\"129dcd-sluniC4Up5CTUvFawxGXHGRIHBE\"",
+            "Fusion-Source": "lambda",
+            "Last-Modified": "Wednesday, 16-Sep-2020 11:32:04 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Cache-Control": "max-age=60",
+            "Expires": "Wed, 16 Sep 2020 11:33:59 GMT",
+            "Date": "Wed, 16 Sep 2020 11:32:59 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Security-Policy": "upgrade-insecure-requests; media-src https: blob:; child-src https: blob:; default-src https: wss: 'unsafe-inline' 'unsafe-eval' data:; font-src https: data:; img-src https: data:;"
+        },
+        "nslookup": {
+            "infobae.com": [
+                "23.67.57.67",
+                "23.67.57.88"
+            ],
+            "www.infobae.com": [
+                "124.155.222.39",
+                "124.155.222.37"
+            ]
+        },
+        "ping": {
+            "infobae.com": [
+                "23.34.60.56",
+                "23.67.57.67",
+                "23.67.57.88"
+            ],
+            "www.infobae.com": [
+                "124.155.222.37",
+                "124.155.222.39"
+            ]
+        },
+        "CNAME": {
+            "www.infobae.com": [
+                "cdn.infobae.arcpublishing.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.infobae.com": [
+                "124.155.222.37",
+                "124.155.222.39"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "openresty",
+            "fusion-content-id": "undefined",
+            "fusion-content-source": "undefined",
+            "fusion-template-id": "page/poZcLt1ZOcfL2s",
+            "fusion-component-id": "undefined",
+            "fusion-deployment-id": "392",
+            "ETag": "W/\"129dcd-sluniC4Up5CTUvFawxGXHGRIHBE\"",
+            "Fusion-Source": "lambda",
+            "Last-Modified": "Wednesday, 16-Sep-2020 11:32:04 GMT",
+            "Content-Encoding": "gzip",
+            "Vary": "Accept-Encoding",
+            "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+            "Cache-Control": "max-age=60",
+            "Expires": "Wed, 16 Sep 2020 11:34:00 GMT",
+            "Date": "Wed, 16 Sep 2020 11:33:00 GMT",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive, Transfer-Encoding",
+            "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+            "Content-Security-Policy": "upgrade-insecure-requests; media-src https: blob:; child-src https: blob:; default-src https: wss: 'unsafe-inline' 'unsafe-eval' data:; font-src https: data:; img-src https: data:;"
+        },
+        "nslookup": {
+            "infobae.com": [
+                "23.67.57.88",
+                "23.67.57.67"
+            ],
+            "www.infobae.com": [
+                "124.155.222.39",
+                "124.155.222.37"
+            ]
+        },
+        "ping": {
+            "infobae.com": [
+                "23.34.60.56",
+                "23.67.57.67",
+                "23.67.57.88"
+            ],
+            "www.infobae.com": [
+                "124.155.222.37",
+                "124.155.222.39"
+            ]
+        },
+        "CNAME": {
+            "www.infobae.com": [
+                "cdn.infobae.arcpublishing.com.edgekey.net."
+            ]
+        },
+        "A": {
+            "www.infobae.com": [
+                "124.155.222.37",
+                "124.155.222.39"
+            ]
+        }
+    }
+}

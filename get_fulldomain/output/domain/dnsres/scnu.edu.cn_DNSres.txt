@@ -1,0 +1,2953 @@
+scnu.edu.cn. 1800 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+scnu.edu.cn. 1799 IN A 202.116.36.58
+
+5ystudy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+80.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+80.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+85th.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+85th.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aia.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+amd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aoe.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+aol.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+app.scnu.edu.cn. 30 IN A 121.8.171.26
+
+app.scnu.edu.cn. 29 IN A 121.8.171.26
+
+atc.scnu.edu.cn. 1800 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+atc.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+auth2.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mail-scnu-edu-cn.auth2.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+av2.scnu.edu.cn. 1800 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+av2.scnu.edu.cn. 1799 IN A 202.116.45.234
+
+banshi.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+bbs.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+bdc.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+biop.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+biop.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+biye.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+bmyy.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+bwc.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+camis.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+career.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+career.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+certificate.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+cgzx.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+cic.scnu.edu.cn. 1800 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cic.scnu.edu.cn. 1799 IN A 202.116.32.140
+
+cicgz.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+cicgz.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for cloudwaf.scnu.edu.cn
+
+NXDOMAIN for lib.scnu.edu.cncswh.scnu.edu.cn
+
+NXDOMAIN for sun3500.scnu.edu.cndbserver.scnu.edu.cn
+
+NXDOMAIN for nc.scnu.edu.cnex-front3.scnu.edu.cn
+
+NXDOMAIN for mba.scnu.edu.cnjichu1.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cnna.scnu.edu.cn
+
+NXDOMAIN for moodle.scnu.edu.cnnewoa.scnu.edu.cn
+
+NXDOMAIN for aol.scnu.edu.cnskc.scnu.edu.cn
+
+NXDOMAIN for zsb.scnu.edu.cnteach.scnu.edu.cn
+
+coer.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+coer.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+comment.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+counselling.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+counselling.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cs.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+cs.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+csap.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+csap.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cscg.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+cswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+ctcp.scnu.edu.cn. 1800 IN A 211.66.96.5
+
+cte.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+cte.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctf.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ctld.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ctld.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+curds.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+curds.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+dag.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+dag.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+db.scnu.edu.cn. 1800 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+db.scnu.edu.cn. 1799 IN A 202.116.32.89
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+NXDOMAIN for dbback.scnu.edu.cn
+
+dbserver.scnu.edu.cn. 1800 IN A 222.200.128.16
+
+dbserver.scnu.edu.cn. 1799 IN A 222.200.128.16
+
+dbserver.scnu.edu.cn. 1799 IN A 222.200.128.16
+
+dbserver.scnu.edu.cn. 1799 IN A 222.200.128.16
+
+dbserver.scnu.edu.cn. 1799 IN A 222.200.128.16
+
+dbserver.scnu.edu.cn. 1799 IN A 222.200.128.16
+
+dbserver.scnu.edu.cn. 1799 IN A 222.200.128.16
+
+dfwh.scnu.edu.cn. 1800 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dfwh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+dxcxgb.scnu.edu.cn. 1800 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+dxcxgb.scnu.edu.cn. 1799 IN A 202.116.45.197
+
+e.scnu.edu.cn. 1800 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+e.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+ehall.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+hall.ehall.scnu.edu.cn. 900 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+hall.ehall.scnu.edu.cn. 899 IN A 202.116.36.59
+
+elab.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+elab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+em.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+em.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+email.scnu.edu.cn. 1800 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+email.scnu.edu.cn. 1799 IN A 222.200.128.4
+
+emzkos.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+english.scnu.edu.cn. 0 IN A 121.8.171.52
+
+english.scnu.edu.cn. 60 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+english.scnu.edu.cn. 59 IN A 121.8.171.52
+
+erp.scnu.edu.cn. 1800 IN A 222.200.135.210
+
+es.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+es.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ex-front1.scnu.edu.cn. 1800 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front1.scnu.edu.cn. 1799 IN A 222.200.128.34
+
+ex-front2.scnu.edu.cn. 1800 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front2.scnu.edu.cn. 1799 IN A 222.200.128.35
+
+ex-front3.scnu.edu.cn. 1800 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+ex-front3.scnu.edu.cn. 1799 IN A 202.116.32.24
+
+faculty.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+faculty.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+former.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+fund.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fund.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+fx.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+fxy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+fxy.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzghb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+fzskc.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+fzskc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+gbs.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+gbs.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccce2018.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gccse2013.scnu.edu.cn. 1800 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gccse2013.scnu.edu.cn. 1799 IN A 222.200.137.64
+
+gcrz.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+gdou.scnu.edu.cn. 1468 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdou.scnu.edu.cn. 1467 IN A 113.108.140.189
+
+gdsz.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+gdsz.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geaa.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+geography.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+geography.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ggy.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+ggy.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+gh.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gh.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+gjc.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gjc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+gpa-gd.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+graduate.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hnjj.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+hnjj.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hnsdfx.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+hnsdfx.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+home.scnu.edu.cn. 1800 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+home.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+hospital.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+hospital.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+hqglc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hqglc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hr.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+hrsys.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+hscw.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+hscw.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hscwxf.scnu.edu.cn. 1800 IN A 202.116.36.59
+
+hsdj.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+hsdj.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+hsnc.scnu.edu.cn. 1800 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsnc.scnu.edu.cn. 1799 IN A 202.116.32.8
+
+hsut.scnu.edu.cn. 1800 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+hsut.scnu.edu.cn. 1799 IN A 202.116.32.4
+
+iam.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ibrr.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ibrr.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+io.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+io.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ioe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+iomt.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+iomt.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+ipv6.scnu.edu.cn. 1800 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+ipv6.scnu.edu.cn. 1799 IN A 202.116.32.137
+
+iqm.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+iqm.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+istudy.scnu.edu.cn. 1800 IN CNAME dns.lface.org.
+dns.lface.org. 7199 IN A 123.127.134.6
+
+iuc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jgdw.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jgdw.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jichu1.scnu.edu.cn. 1800 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jichu1.scnu.edu.cn. 1799 IN A 202.116.45.224
+
+jjc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jjy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jjy.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jky.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jky.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jobs.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+journal.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+journal-n.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+journal-n.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+journal-s.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jpkc.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jpkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+jw.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jw.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwc.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwc.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+jwjc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+jwxt.scnu.edu.cn. 1800 IN A 121.8.171.51
+
+jyfzzx.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+jyfzzx.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+kjc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lawyers.scnu.edu.cn. 1800 IN A 222.200.129.228
+
+lawyers.scnu.edu.cn. 1799 IN A 222.200.129.228
+
+ld.scnu.edu.cn. 1800 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+ld.scnu.edu.cn. 1799 IN A 202.116.45.200
+
+learntv.scnu.edu.cn. 1800 IN CNAME learntv.scnu.edu.cn.w.kunlunca.com.
+learntv.scnu.edu.cn.w.kunlunca.com. 59 IN A 122.193.130.89
+
+liangke.scnu.edu.cn. 1800 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+liangke.scnu.edu.cn. 1799 IN A 202.116.45.216
+
+lib.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+lib-ic.scnu.edu.cn. 1800 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+lib-ic.scnu.edu.cn. 1799 IN A 202.116.41.201
+
+idp.lib.scnu.edu.cn. 1800 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+idp.lib.scnu.edu.cn. 1799 IN A 202.116.45.199
+
+learn.lib.scnu.edu.cn. 1800 IN A 202.116.41.211
+
+libxwlw.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+life.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+live.scnu.edu.cn. 1800 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+live.scnu.edu.cn. 1799 IN A 121.8.171.17
+
+lnh.scnu.edu.cn. 1800 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lnh.scnu.edu.cn. 1799 IN A 202.116.32.160
+
+lswh.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+lswh.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ltb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+m.scnu.edu.cn. 1800 IN A 222.200.128.131
+
+mail.scnu.edu.cn. 1800 IN A 222.200.128.131
+mail.scnu.edu.cn. 1800 IN A 222.200.128.130
+
+map.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+mathlab.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mathlab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+maths.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+maths.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mba.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+meeting.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+messenger.scnu.edu.cn. 1800 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+messenger.scnu.edu.cn. 1799 IN A 222.200.128.42
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg1.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+NXDOMAIN for mg2.scnu.edu.cn
+
+mingshi.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+mingshi.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mks.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+mks.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mlopt.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+mlopt.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mobile.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+mobile.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+module.scnu.edu.cn. 30 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+module.scnu.edu.cn. 29 IN A 121.8.171.26
+
+moodle.scnu.edu.cn. 1800 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+moodle.scnu.edu.cn. 1799 IN CNAME moodle.scnu.edu.cn.w.kunluncan.com.
+moodle.scnu.edu.cn.w.kunluncan.com. 59 IN A 153.3.231.197
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+NXDOMAIN for msad.scnu.edu.cn
+
+adfs.msad.scnu.edu.cn. 1800 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+adfs.msad.scnu.edu.cn. 1799 IN A 121.8.171.9
+
+NXDOMAIN for ioe.scnu.edu.cnadfs.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+NXDOMAIN for www.msad.scnu.edu.cn
+
+music.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+music.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+mx1.scnu.edu.cn. 1800 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx1.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+mx2.scnu.edu.cn. 1800 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+mx2.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+my.scnu.edu.cn. 1800 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1800 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+na.scnu.edu.cn. 1799 IN A 202.116.32.92
+
+nano.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+nano.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nbkz.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+nc3.scnu.edu.cn. 1800 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+nc3.scnu.edu.cn. 1799 IN A 222.200.129.147
+
+newoa.scnu.edu.cn. 1800 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+newoa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+news.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+news.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+NXDOMAIN for newwww.scnu.edu.cn
+
+nhlib.scnu.edu.cn. 1800 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+nhlib.scnu.edu.cn. 1799 IN A 218.192.99.10
+
+ns2.scnu.edu.cn. 1800 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns2.scnu.edu.cn. 1799 IN A 202.116.32.254
+
+ns5.scnu.edu.cn. 1800 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+ns5.scnu.edu.cn. 1799 IN A 222.200.128.81
+
+oa.scnu.edu.cn. 1800 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oa.scnu.edu.cn. 1799 IN A 121.8.171.51
+
+oadb.scnu.edu.cn. 1800 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+oadb.scnu.edu.cn. 1799 IN A 202.116.32.226
+
+office.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+office.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+p.scnu.edu.cn. 1800 IN A 121.8.171.3
+
+pay.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+pd.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pd.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pec.scnu.edu.cn. 1800 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+pec.scnu.edu.cn. 1799 IN A 222.200.137.63
+
+physics.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+physics.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+pop.scnu.edu.cn. 1800 IN A 222.200.128.131
+pop.scnu.edu.cn. 1800 IN A 222.200.128.130
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1800 IN A 222.200.128.131
+pop3.scnu.edu.cn. 1800 IN A 222.200.128.130
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.130
+pop3.scnu.edu.cn. 1799 IN A 222.200.128.131
+
+portal.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+portal.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+psy.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psylab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+psyvslab.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+psyvslab.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+pth.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+px.scnu.edu.cn. 1800 IN A 101.36.138.53
+
+qgzx.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+qyyjy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+rcsl.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rsc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+rteach.scnu.edu.cn. 1800 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+rteach.scnu.edu.cn. 1799 IN A 202.116.32.232
+
+sau.scnu.edu.cn. 1800 IN CNAME www2s.scnu.edu.cn.
+www2s.scnu.edu.cn. 1799 IN A 202.116.45.212
+
+sce.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sce.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+scms.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+seri.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+seri.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sfs.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+sfs.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+shengming.scnu.edu.cn. 1800 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shengming.scnu.edu.cn. 1799 IN A 202.116.45.213
+
+shfw.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+shpg.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+site.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+site.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+skc.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+skc.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+sky.scnu.edu.cn. 1800 IN A 222.201.80.33
+
+smtp.scnu.edu.cn. 1800 IN A 222.200.128.130
+smtp.scnu.edu.cn. 1800 IN A 222.200.128.131
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.131
+smtp.scnu.edu.cn. 1799 IN A 222.200.128.130
+
+soe.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+soe.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sport.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+sport.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+sportlab.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ss.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+ss.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+ssl.scnu.edu.cn. 1800 IN A 121.8.171.37
+
+sso.scnu.edu.cn. 273 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+sso.scnu.edu.cn. 272 IN A 121.8.171.26
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+NXDOMAIN for sso.scnu.edu.cn<BR>www.sso.scnu.edu.cn
+
+ssp.scnu.edu.cn. 60 IN A 121.8.171.26
+
+ssp.scnu.edu.cn. 59 IN A 121.8.171.26
+
+sssmcenter.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+staff.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+statics.scnu.edu.cn. 60 IN A 121.8.171.26
+
+stm.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+stm.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+sun3500.scnu.edu.cn. 1800 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+sun3500.scnu.edu.cn. 1799 IN A 202.116.32.98
+
+superform.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+sxxx.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+syyy.scnu.edu.cn. 1800 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+syyy.scnu.edu.cn. 1799 IN A 222.200.137.124
+
+szhq.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+szhq.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+teach.scnu.edu.cn. 1800 IN A 202.116.32.142
+teach.scnu.edu.cn. 1800 IN A 202.116.32.149
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+teach.scnu.edu.cn. 1799 IN A 202.116.32.149
+teach.scnu.edu.cn. 1799 IN A 202.116.32.142
+
+tstc.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+tws.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+tws.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+ucity.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+unitown.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+univs.scnu.edu.cn. 1800 IN A 202.116.45.213
+
+user.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+user.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expc.vc.scnu.edu.cn<BR>expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+NXDOMAIN for expe.vc.scnu.edu.cn<BR>www.vc.scnu.edu.cn
+
+expe.vc.scnu.edu.cn. 1800 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+expe.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1800 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+www.vc.scnu.edu.cn. 1799 IN A 222.201.80.110
+
+vrlife.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+webc.scnu.edu.cn. 1800 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+webc.scnu.edu.cn. 1799 IN A 202.116.32.141
+
+wiki.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+wiki.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+wise.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+www.scnu.edu.cn. 30 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www.scnu.edu.cn. 29 IN A 121.8.171.51
+
+www2s.scnu.edu.cn. 1797 IN A 202.116.45.212
+
+wxy.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+wxy.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+wxyjx.scnu.edu.cn. 1800 IN A 222.200.129.204
+
+xcb.scnu.edu.cn. 1800 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xcb.scnu.edu.cn. 1799 IN A 202.116.45.241
+
+xinfang.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xinfang.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xsb.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xxgk.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+xxgk.scnu.edu.cn. 1799 IN A 121.8.171.16
+
+xy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+xy.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+xyh.scnu.edu.cn. 1800 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+xyh.scnu.edu.cn. 1799 IN A 202.116.32.5
+
+yey.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+yjsy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+yjsy.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+yjszx.scnu.edu.cn. 1800 IN A 121.8.171.16
+
+youth.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+youth.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+yx.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+yx.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+yz.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+yz.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+yzsys.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+zhx.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+zhx.scnu.edu.cn. 1799 IN A 121.8.171.52
+
+zj.scnu.edu.cn. 1800 IN A 218.19.141.72
+
+zj.scnu.edu.cn. 1799 IN A 218.19.141.72
+
+zj.scnu.edu.cn. 1799 IN A 218.19.141.72
+
+zj.scnu.edu.cn. 1799 IN A 218.19.141.72
+
+zj.scnu.edu.cn. 1799 IN A 218.19.141.72
+
+zj.scnu.edu.cn. 1799 IN A 218.19.141.72
+
+zj.scnu.edu.cn. 1799 IN A 218.19.141.72
+
+zkc.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zkc.scnu.edu.cn. 1799 IN A 121.8.171.26
+
+zlgc.scnu.edu.cn. 1800 IN A 121.8.171.26
+
+zsb.scnu.edu.cn. 1810 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zsb.scnu.edu.cn. 1809 IN A 121.8.171.52
+
+zyjy.scnu.edu.cn. 1800 IN A 121.8.171.52
+
+zyjy.scnu.edu.cn. 1799 IN A 121.8.171.52
+

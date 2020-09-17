@@ -1,0 +1,106 @@
+{
+    "http": {
+        "header": {
+            "Accept-Ranges": "none",
+            "Cache-Control": "private, no-cache, no-store, must-revalidate",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Date": "Wed, 16 Sep 2020 09:17:05 GMT",
+            "Expires": "-1",
+            "Pragma": "no-cache",
+            "Set-Cookie": "B=7tr6869fm3m0g&b=3&s=jj; expires=Sat, 17-Sep-2022 09:17:05 GMT; path=/; domain=.yahoo.co.jp, XB=7tr6869fm3m0g&b=3&s=jj; expires=Sat, 17-Sep-2022 09:17:05 GMT; path=/; domain=.yahoo.co.jp; secure; samesite=none",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Vcap-Request-Id": "dd612810-693b-4e42-51d8-5024dd9b54d4",
+            "X-Xss-Protection": "1; mode=block",
+            "Age": "2",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Via": "http/1.1 edge2441.img.djm.yahoo.co.jp (ApacheTrafficServer [c sSf ])",
+            "Server": "ATS"
+        },
+        "nslookup": {
+            "yahoo.co.jp": [
+                "183.79.135.206",
+                "182.22.59.229"
+            ],
+            "www.yahoo.co.jp": [
+                "183.79.219.252"
+            ]
+        },
+        "ping": {
+            "yahoo.co.jp": [
+                "182.22.59.229",
+                "183.79.135.206"
+            ],
+            "www.yahoo.co.jp": [
+                "183.79.250.251",
+                "183.79.217.124",
+                "183.79.219.252",
+                "183.79.250.123"
+            ]
+        },
+        "CNAME": {
+            "yahoo.co.jp": null
+        },
+        "A": {
+            "yahoo.co.jp": [
+                "182.22.59.229",
+                "183.79.135.206"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Accept-Ranges": "none",
+            "Cache-Control": "private, no-cache, no-store, must-revalidate",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Date": "Wed, 16 Sep 2020 09:17:06 GMT",
+            "Expires": "-1",
+            "Pragma": "no-cache",
+            "Set-Cookie": "B=0sst259fm3m0i&b=3&s=p7; expires=Sat, 17-Sep-2022 09:17:06 GMT; path=/; domain=.yahoo.co.jp, XB=0sst259fm3m0i&b=3&s=p7; expires=Sat, 17-Sep-2022 09:17:06 GMT; path=/; domain=.yahoo.co.jp; secure; samesite=none",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Vcap-Request-Id": "f88c3c3a-2cef-4306-7aed-d13538ae891b",
+            "X-Xss-Protection": "1; mode=block",
+            "Age": "0",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Via": "http/1.1 edge2443.img.djm.yahoo.co.jp (ApacheTrafficServer [c sSf ])",
+            "Server": "ATS"
+        },
+        "nslookup": {
+            "yahoo.co.jp": [
+                "183.79.135.206",
+                "182.22.59.229"
+            ],
+            "www.yahoo.co.jp": [
+                "183.79.217.124"
+            ]
+        },
+        "ping": {
+            "yahoo.co.jp": [
+                "182.22.59.229",
+                "183.79.135.206"
+            ],
+            "www.yahoo.co.jp": [
+                "183.79.250.251",
+                "183.79.217.124",
+                "183.79.219.252",
+                "183.79.250.123"
+            ]
+        },
+        "CNAME": {
+            "yahoo.co.jp": null
+        },
+        "A": {
+            "yahoo.co.jp": [
+                "182.22.59.229",
+                "183.79.135.206"
+            ]
+        }
+    }
+}

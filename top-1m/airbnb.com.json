@@ -1,0 +1,137 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "65603",
+            "Server": "nginx",
+            "Content-Type": "text/html;charset=utf-8",
+            "x-instrumentation": "airbnb",
+            "x-server-lifecycle-phase": "running",
+            "status": "200 OK",
+            "x-kraken-loop-name": "core-guest-loop",
+            "cache-control": "max-age=7200, public",
+            "accept-ch-lifetime": "31536000",
+            "content-security-policy": "child-src blob:; connect-src 'self' https: wss://ws.airbnb.com https://netverify.com https://*.netverify.com wss: *.amap.com https://*.mapbox.com; default-src 'self' https: blob:; font-src 'self' data: https://*.muscache.com fonts.gstatic.com https://use.typekit.net; frame-src * https://*.cardinalcommerce.com; img-src 'self' https: data: https://*.mapbox.com blob:; media-src 'self' https: blob:; script-src 'self' 'unsafe-eval' https://a0.muscache.com https://cdn.siftscience.com https://ss.musthird.com https://t1.musthird.com https://bat.bing.com https://connect.facebook.net https://www.google-analytics.com https://www.googleadservices.com https://tpc.googlesyndication.com https://www.googletagmanager.com https://a.cdn.intentmedia.net https://maps.googleapis.com https://ajax.googleapis.com https://*.g.doubleclick.net https://www.google.com https://www.gstatic.com https://smartlock.google.com https://accounts.google.com https://app.link https://cdn.branch.io https://api.branch.io https://bam.nr-data.net https://js-agent.newrelic.com https://sslwidget.criteo.com https://static.criteo.net https://dis.criteo.com https://widget.us.criteo.com https://*.gbc.criteo.net https://ethn.io https://s.yimg.jp https://api.geetest.com https://cdn.ampproject.org https://storage.googleapis.com/workbox-cdn/ https://tagmanager.google.com https://pay.google.com https://songbird.cardinalcommerce.com/ https://www.recaptcha.net https://www.gstatic.cn 'sha256-rAm9O8JPZLtQmd84zMDzhsG5q35JscESxxcaFL7+DDc=' 'sha256-ck0NYnSq6evDrSU3QAgDAso6GSMHXE8SDlqTKWnxpKI=' 'sha256-5KBEXRYYyGOFtUxLa7OMdKJrKhFrdJgtVMdeRdWd+A0=' 'sha256-+DMqUACVS8B0N29g0M3MeqqvH2pF88VHSCl59PH+Z0Q=' 'sha256-2/yXkkTVHnugYrntfDcr3lt7RqMS4ygfw4RRB1zP0VM=' 'sha256-IHl3vH+GqA+cA317zSZ1UMqVGO7oeUm5eQmDuO1DSF0=' https://netverify.com https://*.netverify.com https://icm.aexp-static.com https://qicm.americanexpress.com https://qwww435.americanexpress.com https://checkout.americanexpress.com https://www.paypalobjects.com https://c.paypal.com https://www.paypal.com blob: https://vdata.amap.com https://webapi.amap.com https://restapi.amap.com https://*.mapbox.com https://songbird.cardinalcommerce.com https://songbirdstag.cardinalcommerce.com https://includes.ccdc02.com https://includestest.ccdc02.com https://js.stripe.com; style-src 'self' https: 'unsafe-inline' https://*.mapbox.com; worker-src 'self'; report-uri /tracking/csp?controller=core-guest-loop&action=%2F&req_uuid=44ed9e96-02ba-4392-819f-6055ac8c0213&version=sha%3Daea896f0c6f&report_only=false; report-to /tracking/csp?controller=core-guest-loop&action=%2F&req_uuid=44ed9e96-02ba-4392-819f-6055ac8c0213&version=sha%3Daea896f0c6f&report_only=false",
+            "x-ua-compatible": "IE=Edge,chrome=1",
+            "x-frame-options": "SAMEORIGIN",
+            "x-envoy-upstream-service-time": "82",
+            "x-xss-protection": "1; mode=block",
+            "accept-ch": "Device-Memory, DPR, ECT, Viewport-Width",
+            "x-content-type-options": "nosniff",
+            "link": "<https://a0.muscache.com/airbnb/static/packages/dls/dls-lite_cereal-d9f6fdb2a0dd4a18c37f8ee01de8ec3d.css>;rel=preload;as=style,<https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Book-9a1c9cca9bb3d65fefa2aa487617805e.woff2>;rel=preload;as=font;type=font/woff2;crossorigin=crossorigin,<https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Medium-50fc004b3082375f12ff0cfb67bf8e56.woff2>;rel=preload;as=font;type=font/woff2;crossorigin=crossorigin,<https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Bold-bdfb98485e7836ba31b456f65cded088.woff2>;rel=preload;as=font;type=font/woff2;crossorigin=crossorigin",
+            "content-encoding": "gzip",
+            "Strict-Transport-Security": "max-age=10886400; includeSubdomains",
+            "X-Server-Name": "www.airbnb.com",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:38:33 GMT",
+            "Age": "2634",
+            "Set-Cookie": "016951b48=treatment; expires=Sun, 15 Nov 2020 10:38:33 GMT; domain=.airbnb.com; path=/, cdn_exp_7dca6d1e7c8097004=treatment_with_curtain; expires=Sun, 15 Nov 2020 10:38:33 GMT; domain=.airbnb.com; path=/, cdn_exp_f699727e78669251b=control; expires=Sun, 15 Nov 2020 10:38:33 GMT; domain=.airbnb.com; path=/, cache_state=1; domain=.airbnb.com; path=/;  Secure, country=SG; domain=.airbnb.com; path=/;  Secure",
+            "X-Served-By": "cache-bwi5125-BWI, cache-sin18028-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "1, 1",
+            "X-Timer": "S1600252714.502276,VS0,VE1",
+            "Vary": "Accept-Encoding"
+        },
+        "nslookup": {
+            "airbnb.com": [
+                "54.198.180.40",
+                "3.233.127.216",
+                "50.16.22.222"
+            ],
+            "www.airbnb.com": [
+                "151.101.1.254",
+                "151.101.65.254",
+                "151.101.129.254",
+                "151.101.193.254"
+            ]
+        },
+        "ping": {
+            "airbnb.com": [
+                "3.233.127.216",
+                "50.16.22.222",
+                "54.198.180.40"
+            ],
+            "www.airbnb.com": [
+                "151.101.9.254"
+            ]
+        },
+        "CNAME": {
+            "www.airbnb.com": [
+                "cdx.muscache.com."
+            ]
+        },
+        "A": {
+            "www.airbnb.com": [
+                "151.101.9.254"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "66429",
+            "Server": "nginx",
+            "Content-Type": "text/html;charset=utf-8",
+            "x-instrumentation": "airbnb",
+            "x-server-lifecycle-phase": "running",
+            "status": "200 OK",
+            "x-kraken-loop-name": "core-guest-loop",
+            "cache-control": "max-age=7200, public",
+            "accept-ch-lifetime": "31536000",
+            "content-security-policy": "child-src blob:; connect-src 'self' https: wss://ws.airbnb.com https://netverify.com https://*.netverify.com wss: *.amap.com https://*.mapbox.com; default-src 'self' https: blob:; font-src 'self' data: https://*.muscache.com fonts.gstatic.com https://use.typekit.net; frame-src * https://*.cardinalcommerce.com; img-src 'self' https: data: https://*.mapbox.com blob:; media-src 'self' https: blob:; script-src 'self' 'unsafe-eval' https://a0.muscache.com https://cdn.siftscience.com https://ss.musthird.com https://t1.musthird.com https://bat.bing.com https://connect.facebook.net https://www.google-analytics.com https://www.googleadservices.com https://tpc.googlesyndication.com https://www.googletagmanager.com https://a.cdn.intentmedia.net https://maps.googleapis.com https://ajax.googleapis.com https://*.g.doubleclick.net https://www.google.com https://www.gstatic.com https://smartlock.google.com https://accounts.google.com https://app.link https://cdn.branch.io https://api.branch.io https://bam.nr-data.net https://js-agent.newrelic.com https://sslwidget.criteo.com https://static.criteo.net https://dis.criteo.com https://widget.us.criteo.com https://*.gbc.criteo.net https://ethn.io https://s.yimg.jp https://api.geetest.com https://cdn.ampproject.org https://storage.googleapis.com/workbox-cdn/ https://tagmanager.google.com https://pay.google.com https://songbird.cardinalcommerce.com/ https://www.recaptcha.net https://www.gstatic.cn 'sha256-rAm9O8JPZLtQmd84zMDzhsG5q35JscESxxcaFL7+DDc=' 'sha256-ck0NYnSq6evDrSU3QAgDAso6GSMHXE8SDlqTKWnxpKI=' 'sha256-5KBEXRYYyGOFtUxLa7OMdKJrKhFrdJgtVMdeRdWd+A0=' 'sha256-+DMqUACVS8B0N29g0M3MeqqvH2pF88VHSCl59PH+Z0Q=' 'sha256-2/yXkkTVHnugYrntfDcr3lt7RqMS4ygfw4RRB1zP0VM=' 'sha256-IHl3vH+GqA+cA317zSZ1UMqVGO7oeUm5eQmDuO1DSF0=' https://netverify.com https://*.netverify.com https://icm.aexp-static.com https://qicm.americanexpress.com https://qwww435.americanexpress.com https://checkout.americanexpress.com https://www.paypalobjects.com https://c.paypal.com https://www.paypal.com blob: https://vdata.amap.com https://webapi.amap.com https://restapi.amap.com https://*.mapbox.com https://songbird.cardinalcommerce.com https://songbirdstag.cardinalcommerce.com https://includes.ccdc02.com https://includestest.ccdc02.com https://js.stripe.com; style-src 'self' https: 'unsafe-inline' https://*.mapbox.com; worker-src 'self'; report-uri /tracking/csp?controller=core-guest-loop&action=%2F&req_uuid=6367c85c-bbb6-4df2-8624-b81b254ba6ae&version=sha%3Daea896f0c6f&report_only=false; report-to /tracking/csp?controller=core-guest-loop&action=%2F&req_uuid=6367c85c-bbb6-4df2-8624-b81b254ba6ae&version=sha%3Daea896f0c6f&report_only=false",
+            "x-ua-compatible": "IE=Edge,chrome=1",
+            "x-frame-options": "SAMEORIGIN",
+            "x-envoy-upstream-service-time": "83",
+            "x-xss-protection": "1; mode=block",
+            "accept-ch": "Device-Memory, DPR, ECT, Viewport-Width",
+            "x-content-type-options": "nosniff",
+            "link": "<https://a0.muscache.com/airbnb/static/packages/dls/dls-lite_cereal-d9f6fdb2a0dd4a18c37f8ee01de8ec3d.css>;rel=preload;as=style,<https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Book-9a1c9cca9bb3d65fefa2aa487617805e.woff2>;rel=preload;as=font;type=font/woff2;crossorigin=crossorigin,<https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Medium-50fc004b3082375f12ff0cfb67bf8e56.woff2>;rel=preload;as=font;type=font/woff2;crossorigin=crossorigin,<https://a0.muscache.com/airbnb/static/airbnb-dls-web/build/fonts/Airbnb_Cereal-Bold-bdfb98485e7836ba31b456f65cded088.woff2>;rel=preload;as=font;type=font/woff2;crossorigin=crossorigin",
+            "content-encoding": "gzip",
+            "Strict-Transport-Security": "max-age=10886400; includeSubdomains",
+            "X-Server-Name": "www.airbnb.com",
+            "Via": "1.1 varnish, 1.1 varnish",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:38:34 GMT",
+            "Age": "7825",
+            "Set-Cookie": "016951b48=control; expires=Sun, 15 Nov 2020 10:38:34 GMT; domain=.airbnb.com; path=/, cdn_exp_7dca6d1e7c8097004=treatment_with_card; expires=Sun, 15 Nov 2020 10:38:34 GMT; domain=.airbnb.com; path=/, cdn_exp_f699727e78669251b=treatment; expires=Sun, 15 Nov 2020 10:38:34 GMT; domain=.airbnb.com; path=/, cache_state=1; domain=.airbnb.com; path=/;  Secure, country=SG; domain=.airbnb.com; path=/;  Secure",
+            "X-Served-By": "cache-bwi5120-BWI, cache-sin18044-SIN",
+            "X-Cache": "HIT, HIT",
+            "X-Cache-Hits": "7, 1",
+            "X-Timer": "S1600252715.905296,VS0,VE1",
+            "Vary": "Accept-Encoding"
+        },
+        "nslookup": {
+            "airbnb.com": [
+                "54.198.180.40",
+                "3.233.127.216",
+                "50.16.22.222"
+            ],
+            "www.airbnb.com": [
+                "151.101.1.254",
+                "151.101.65.254",
+                "151.101.129.254",
+                "151.101.193.254"
+            ]
+        },
+        "ping": {
+            "airbnb.com": [
+                "50.16.22.222",
+                "54.198.180.40"
+            ],
+            "www.airbnb.com": [
+                "151.101.9.254"
+            ]
+        },
+        "CNAME": {
+            "www.airbnb.com": [
+                "cdx.muscache.com."
+            ]
+        },
+        "A": {
+            "www.airbnb.com": [
+                "151.101.9.254"
+            ]
+        }
+    }
+}

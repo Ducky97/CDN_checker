@@ -1,0 +1,35 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-cache",
+            "Content-Length": "565",
+            "Content-Type": "text/html",
+            "Content-Location": "http://comic.sjtu.edu.cn/Default.htm",
+            "Last-Modified": "Wed, 05 Nov 2008 08:30:55 GMT",
+            "Accept-Ranges": "bytes",
+            "ETag": "\"905b2bd2203fc91:3ee\"",
+            "Server": "Microsoft-IIS/6.0",
+            "X-Powered-By": "ASP.NET",
+            "Date": "Thu, 17 Sep 2020 03:46:05 GMT"
+        },
+        "nslookup": {
+            "comic.sjtu.edu.cn": [
+                "202.120.58.178"
+            ]
+        },
+        "ping": {
+            "comic.sjtu.edu.cn": [
+                "202.120.58.178"
+            ]
+        },
+        "CNAME": {
+            "comic.sjtu.edu.cn": null
+        },
+        "A": {
+            "comic.sjtu.edu.cn": [
+                "202.120.58.178"
+            ]
+        }
+    },
+    "https": null
+}

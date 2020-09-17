@@ -1,0 +1,119 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 11:22:32 GMT",
+            "X-Powered-By": "Express",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "Cache-Control": "public, max-age=0",
+            "Set-Cookie": "wsjregion=na%2Cus; Domain=.wsj.com; Path=/; Expires=Fri, 16 Oct 2020 11:22:31 GMT, gdprApplies=false; Domain=.wsj.com; Path=/, ccpaApplies=false; Domain=.wsj.com; Path=/, usr_prof_v2=eyJpYyI6MH0%3D; Domain=.wsj.com; Path=/; Expires=Thu, 17 Sep 2020 11:22:31 GMT, ab_uuid=45e848f5-ee0c-4fdd-9c03-b288e3739062; Domain=.wsj.com; Path=/; Expires=Sat, 14 Sep 2030 11:22:31 GMT, usr_bkt=HY0f8Of9M1; Domain=.wsj.com; Path=/; Expires=Sat, 14 Sep 2030 11:22:31 GMT",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 016985a5cb3f344371d2da04a4cef0e9.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "C8oeixSPTMT7c_-kwe0dcMT8zbZZTdghFB-lDyzcjH5_Z4dwteKw_w=="
+        },
+        "nslookup": {
+            "wsj.com": [
+                "13.35.20.105",
+                "13.35.20.8",
+                "13.35.20.12",
+                "13.35.20.75"
+            ],
+            "www.wsj.com": [
+                "13.227.228.59",
+                "13.227.228.115",
+                "13.227.228.114",
+                "13.227.228.11"
+            ]
+        },
+        "ping": {
+            "wsj.com": [
+                "13.35.20.8",
+                "13.35.20.12",
+                "13.35.20.75",
+                "13.35.20.105"
+            ],
+            "www.wsj.com": [
+                "13.227.228.11",
+                "13.227.228.59",
+                "13.227.228.115"
+            ]
+        },
+        "CNAME": {
+            "www.wsj.com": [
+                "dlp0y1mxy0v3u.cloudfront.net."
+            ]
+        },
+        "A": {
+            "www.wsj.com": [
+                "13.227.228.11",
+                "13.227.228.59",
+                "13.227.228.114",
+                "13.227.228.115"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 11:22:33 GMT",
+            "X-Powered-By": "Express",
+            "X-Content-Type-Options": "nosniff",
+            "X-XSS-Protection": "1; mode=block",
+            "Cache-Control": "public, max-age=0",
+            "Set-Cookie": "wsjregion=na%2Cus; Domain=.wsj.com; Path=/; Expires=Fri, 16 Oct 2020 11:22:32 GMT, gdprApplies=false; Domain=.wsj.com; Path=/, ccpaApplies=false; Domain=.wsj.com; Path=/, usr_prof_v2=eyJpYyI6MH0%3D; Domain=.wsj.com; Path=/; Expires=Thu, 17 Sep 2020 11:22:32 GMT, ab_uuid=d3cdcbab-60fb-4996-9298-5964781de2c3; Domain=.wsj.com; Path=/; Expires=Sat, 14 Sep 2030 11:22:32 GMT, usr_bkt=2qgQ1WCa3A; Domain=.wsj.com; Path=/; Expires=Sat, 14 Sep 2030 11:22:32 GMT",
+            "Content-Encoding": "gzip",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 d19f6de4de1eb10d5b27d86de6b4a7d5.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C3",
+            "X-Amz-Cf-Id": "tCHlYGNxA_iVIPba0Q0caKgGBXu4KfMFZ0CPAylYeo1SXocHhun_rA=="
+        },
+        "nslookup": {
+            "wsj.com": [
+                "13.35.20.12",
+                "13.35.20.8",
+                "13.35.20.75",
+                "13.35.20.105"
+            ],
+            "www.wsj.com": [
+                "13.227.228.59",
+                "13.227.228.115",
+                "13.227.228.114",
+                "13.227.228.11"
+            ]
+        },
+        "ping": {
+            "wsj.com": [
+                "13.35.20.8",
+                "13.35.20.12",
+                "13.35.20.75",
+                "13.35.20.105"
+            ],
+            "www.wsj.com": [
+                "13.227.228.11",
+                "13.227.228.59",
+                "13.227.228.114",
+                "13.227.228.115"
+            ]
+        },
+        "CNAME": {
+            "www.wsj.com": [
+                "dlp0y1mxy0v3u.cloudfront.net."
+            ]
+        },
+        "A": {
+            "www.wsj.com": [
+                "13.227.228.11",
+                "13.227.228.59",
+                "13.227.228.114",
+                "13.227.228.115"
+            ]
+        }
+    }
+}

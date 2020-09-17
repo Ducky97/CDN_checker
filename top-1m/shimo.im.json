@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=utf-8",
+            "Date": "Wed, 16 Sep 2020 11:29:46 GMT",
+            "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "Server": "openresty/1.15.8.2",
+            "Set-Cookie": "_csrf=d74b9f3Iyq4KIGYCnvLQ90wF; Path=/, deviceId=1130854d-e238-4fc6-8e25-13c71e4d48a8; Domain=.shimo.im; Path=/, deviceIdGenerateTime=1600255786390; Domain=.shimo.im; Path=/, shimo_gatedlaunch=3; Domain=.shimo.im; Path=/; Expires=Mon, 16 Sep 2030 11:29:46 GMT, shimo_kong=2; Domain=.shimo.im; Path=/; Expires=Mon, 16 Sep 2030 11:29:46 GMT, shimo_svc_edit=8685; Domain=.shimo.im; Path=/; Expires=Sun, 15 Sep 2030 10:29:53 GMT, anonymousUser=-11427077797; Domain=.shimo.im; Path=/, shimo_sid=s%3AGDmgZtgo3zigbQRH4JMjDhjDM8KAzWVl.wyhbAXUBO154Ca0oMdiPqz%2BfBeAF90WLxsneueIIQRs; Domain=shimo.im; Path=/; Expires=Wed, 16 Sep 2020 12:29:46 GMT; HttpOnly",
+            "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+            "Vary": "Accept-Encoding",
+            "X-Request-Id": "6e07b494-6560-47cf-b3e8-28f4686d2af9",
+            "X-Served-By": "SHIMO-COW",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "shimo.im": [
+                "203.107.46.212"
+            ]
+        },
+        "ping": {
+            "shimo.im": [
+                "203.107.46.212"
+            ]
+        },
+        "CNAME": {
+            "shimo.im": "still a low_level domain_name"
+        },
+        "A": {
+            "shimo.im": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Content-Encoding": "gzip",
+            "Content-Type": "text/html; charset=utf-8",
+            "Date": "Wed, 16 Sep 2020 11:29:47 GMT",
+            "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+            "Server": "openresty/1.15.8.2",
+            "Set-Cookie": "_csrf=iL3f9LM7Jc09TQzFHNyrc9AU; Path=/, deviceId=adbd5855-5fd8-472c-86be-dd78e15b3be5; Domain=.shimo.im; Path=/, deviceIdGenerateTime=1600255787535; Domain=.shimo.im; Path=/, shimo_gatedlaunch=3; Domain=.shimo.im; Path=/; Expires=Mon, 16 Sep 2030 11:29:47 GMT, shimo_kong=0; Domain=.shimo.im; Path=/; Expires=Mon, 16 Sep 2030 11:29:47 GMT, shimo_svc_edit=8661; Domain=.shimo.im; Path=/; Expires=Sun, 15 Sep 2030 10:29:36 GMT, anonymousUser=-11427078474; Domain=.shimo.im; Path=/, shimo_sid=s%3AqI4Hk2NsR0-JqsCqvTXR5A1SU_JDFvro.FCimdIMK189%2FQH7Ommc1rrYPMhk5KEpXBGFVZ2s%2FXa4; Domain=shimo.im; Path=/; Expires=Wed, 16 Sep 2020 12:29:47 GMT; HttpOnly",
+            "Strict-Transport-Security": "max-age=15724800; includeSubDomains",
+            "Vary": "Accept-Encoding",
+            "X-Request-Id": "35866227-37f6-4899-ad35-4a6a1892e471",
+            "X-Served-By": "SHIMO-COW",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "shimo.im": [
+                "203.107.46.212"
+            ]
+        },
+        "ping": {
+            "shimo.im": [
+                "203.107.46.212"
+            ]
+        },
+        "CNAME": {
+            "shimo.im": "still a low_level domain_name"
+        },
+        "A": {
+            "shimo.im": "still a low_level domain_name"
+        }
+    }
+}

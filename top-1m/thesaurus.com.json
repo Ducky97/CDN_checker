@@ -1,0 +1,123 @@
+{
+    "http": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "29269",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "nginx/1.16.1",
+            "X-Powered-By": "Express",
+            "Cache-Control": "max-age=3600, public",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "ETag": "W/\"23651-o7kvr6QnPZ+qoHT7uTsTnCWbafQ\"",
+            "Content-Encoding": "gzip",
+            "is-eu": "false",
+            "adler-geo": "ROWHIpacific",
+            "platform": "Desktop",
+            "x-variation": "(null)",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:49:48 GMT",
+            "Via": "1.1 varnish",
+            "Age": "5016",
+            "X-Served-By": "cache-sin18046-SIN",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "1",
+            "X-Timer": "S1600253389.774583,VS0,VE1",
+            "Vary": "Accept-Encoding, is-eu, is-us, platform, adler-geo, x-variation"
+        },
+        "nslookup": {
+            "thesaurus.com": [
+                "151.101.194.133",
+                "151.101.2.133",
+                "151.101.130.133",
+                "151.101.66.133"
+            ],
+            "www.thesaurus.com": [
+                "151.101.2.133",
+                "151.101.66.133",
+                "151.101.130.133",
+                "151.101.194.133"
+            ]
+        },
+        "ping": {
+            "thesaurus.com": [
+                "151.101.66.133",
+                "151.101.2.133",
+                "151.101.130.133"
+            ],
+            "www.thesaurus.com": [
+                "151.101.10.133"
+            ]
+        },
+        "CNAME": {
+            "www.thesaurus.com": [
+                "dictionary.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.thesaurus.com": [
+                "151.101.10.133"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Connection": "keep-alive",
+            "Content-Length": "29269",
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "nginx/1.16.1",
+            "X-Powered-By": "Express",
+            "Cache-Control": "max-age=3600, public",
+            "Content-Security-Policy": "upgrade-insecure-requests",
+            "ETag": "W/\"23651-o7kvr6QnPZ+qoHT7uTsTnCWbafQ\"",
+            "Content-Encoding": "gzip",
+            "is-eu": "false",
+            "adler-geo": "ROWHIpacific",
+            "platform": "Desktop",
+            "x-variation": "(null)",
+            "Accept-Ranges": "bytes",
+            "Date": "Wed, 16 Sep 2020 10:49:48 GMT",
+            "Via": "1.1 varnish",
+            "Age": "5016",
+            "X-Served-By": "cache-sin18021-SIN",
+            "X-Cache": "HIT",
+            "X-Cache-Hits": "1",
+            "X-Timer": "S1600253389.839167,VS0,VE6",
+            "Vary": "Accept-Encoding, is-eu, is-us, platform, adler-geo, x-variation"
+        },
+        "nslookup": {
+            "thesaurus.com": [
+                "151.101.2.133",
+                "151.101.194.133",
+                "151.101.130.133",
+                "151.101.66.133"
+            ],
+            "www.thesaurus.com": [
+                "151.101.2.133",
+                "151.101.66.133",
+                "151.101.130.133",
+                "151.101.194.133"
+            ]
+        },
+        "ping": {
+            "thesaurus.com": [
+                "151.101.2.133",
+                "151.101.66.133",
+                "151.101.194.133",
+                "151.101.130.133"
+            ],
+            "www.thesaurus.com": [
+                "151.101.10.133"
+            ]
+        },
+        "CNAME": {
+            "www.thesaurus.com": [
+                "dictionary.map.fastly.net."
+            ]
+        },
+        "A": {
+            "www.thesaurus.com": [
+                "151.101.10.133"
+            ]
+        }
+    }
+}

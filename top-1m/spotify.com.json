@@ -1,0 +1,96 @@
+{
+    "http": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 09:19:55 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "vary": "X-Forwarded-Proto,Accept-Encoding",
+            "x-cache": "HIT from 0f34a916a8b9",
+            "cache-control": "no-cache, private",
+            "set-cookie": "sp_usid=7cb112a5-94a0-4361-baca-b5728e9b0cda; expires=Wed, 16-Sep-2020 09:49:55 GMT; Max-Age=1800; path=/; domain=.spotify.com; secure",
+            "content-encoding": "gzip",
+            "report-to": "{ \"group\": \"csp-endpoint\", \"max_age\": 86400, \"endpoints\": [{ \"url\": \"/api/concierge/csp/report-to\" }] }",
+            "x-join-the-band": "https://www.spotify.com/jobs/",
+            "content-security-policy": "base-uri 'none'; connect-src https: wss:; form-action https:; frame-ancestors 'self' https://*.spotify.com https://*.spotify.net; object-src 'none'",
+            "sp-trace-id": "2eef7af7822d0b51",
+            "strict-transport-security": "max-age=31536000",
+            "x-content-type-options": "nosniff",
+            "server": "envoy",
+            "Via": "HTTP/2 edgeproxy, 1.1 google",
+            "Alt-Svc": "clear",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "spotify.com": [
+                "35.186.224.25"
+            ],
+            "www.spotify.com": [
+                "35.186.224.25"
+            ]
+        },
+        "ping": {
+            "spotify.com": [
+                "35.186.224.25"
+            ],
+            "www.spotify.com": [
+                "35.186.224.25"
+            ]
+        },
+        "CNAME": {
+            "www.spotify.com": [
+                "edge-web-split-geo.dual-gslb.spotify.com."
+            ]
+        },
+        "A": {
+            "www.spotify.com": [
+                "35.186.224.25"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 09:19:56 GMT",
+            "content-type": "text/html; charset=UTF-8",
+            "vary": "X-Forwarded-Proto,Accept-Encoding",
+            "x-cache": "HIT from 6ec30b09039f",
+            "cache-control": "no-cache, private",
+            "set-cookie": "sp_usid=9faa0148-7497-499b-a381-325877649b84; expires=Wed, 16-Sep-2020 09:49:56 GMT; Max-Age=1800; path=/; domain=.spotify.com; secure",
+            "content-encoding": "gzip",
+            "report-to": "{ \"group\": \"csp-endpoint\", \"max_age\": 86400, \"endpoints\": [{ \"url\": \"/api/concierge/csp/report-to\" }] }",
+            "x-join-the-band": "https://www.spotify.com/jobs/",
+            "content-security-policy": "base-uri 'none'; connect-src https: wss:; form-action https:; frame-ancestors 'self' https://*.spotify.com https://*.spotify.net; object-src 'none'",
+            "sp-trace-id": "baa1c0e178d5c910",
+            "strict-transport-security": "max-age=31536000",
+            "x-content-type-options": "nosniff",
+            "server": "envoy",
+            "Via": "HTTP/2 edgeproxy, 1.1 google",
+            "Alt-Svc": "clear",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "spotify.com": [
+                "35.186.224.25"
+            ],
+            "www.spotify.com": [
+                "35.186.224.25"
+            ]
+        },
+        "ping": {
+            "spotify.com": [
+                "35.186.224.25"
+            ],
+            "www.spotify.com": [
+                "35.186.224.25"
+            ]
+        },
+        "CNAME": {
+            "www.spotify.com": [
+                "edge-web-split-geo.dual-gslb.spotify.com."
+            ]
+        },
+        "A": {
+            "www.spotify.com": [
+                "35.186.224.25"
+            ]
+        }
+    }
+}

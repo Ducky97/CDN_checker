@@ -1,0 +1,1645 @@
+fudan.edu.cn. 600 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+fudan.edu.cn. 599 IN A 202.120.224.81
+
+224.fudan.edu.cn. 60 IN A 220.250.64.225
+
+224.fudan.edu.cn. 59 IN A 220.250.64.225
+
+224.fudan.edu.cn. 59 IN A 220.250.64.225
+
+224.fudan.edu.cn. 59 IN A 220.250.64.225
+
+247.fudan.edu.cn. 0 IN A 220.250.64.225
+
+247.fudan.edu.cn. 60 IN A 220.250.64.225
+
+247.fudan.edu.cn. 59 IN A 220.250.64.225
+
+247.fudan.edu.cn. 59 IN A 220.250.64.225
+
+2fx.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+www.2fz.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.2fz.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+a3meta.fudan.edu.cn. 0 IN A 220.250.64.225
+
+a3meta.fudan.edu.cn. 60 IN A 220.250.64.225
+
+acsp.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+adfs.fudan.edu.cn. 600 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+adfs.fudan.edu.cn. 599 IN A 202.120.224.171
+
+mail.alu.fudan.edu.cn. 377 IN A 61.129.42.112
+
+mail.alu.fudan.edu.cn. 376 IN A 61.129.42.112
+
+mail.alu.fudan.edu.cn. 376 IN A 61.129.42.112
+
+mail.alu.fudan.edu.cn. 376 IN A 61.129.42.112
+
+mail.alu.fudan.edu.cn. 376 IN A 61.129.42.112
+
+alumni.fudan.edu.cn. 1334 IN A 202.120.224.82
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 0 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 60 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+alumnidb.fudan.edu.cn<BR>www.alumnidb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.ao.fudan.edu.cn. 211 IN A 202.120.224.64
+
+www.ao.fudan.edu.cn. 210 IN A 202.120.224.64
+
+www.ao.fudan.edu.cn. 210 IN A 202.120.224.64
+
+aos.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+archsci.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+atmsci.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+basicmed.fudan.edu.cn. 60 IN A 202.120.64.60
+
+basicmed.fudan.edu.cn. 59 IN A 202.120.64.60
+
+basicmed.fudan.edu.cn. 59 IN A 202.120.64.60
+
+bbs.fudan.edu.cn. 591 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bbs.fudan.edu.cn. 590 IN A 202.120.225.9
+
+bigcode.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+bigvid.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+binglibiaobenguan.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+binglibiaobenguan.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+brgg.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+brgg.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+brgg.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+www.buee.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+can.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+can.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+career.fudan.edu.cn. 2723 IN A 202.120.224.83
+
+career.fudan.edu.cn. 2722 IN A 202.120.224.83
+
+career.fudan.edu.cn. 2722 IN A 202.120.224.83
+
+www.ccda.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ccdc.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ceis.cce.fudan.edu.cn. 60 IN A 202.120.224.114
+
+www.cce.fudan.edu.cn. 3065 IN A 202.120.224.114
+
+www.cce.fudan.edu.cn. 3064 IN A 202.120.224.114
+
+www.cces.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ce.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ce.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+cec.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+cec.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+cert.fudan.edu.cn. 0 IN A 220.250.64.225
+
+cert.fudan.edu.cn. 60 IN A 220.250.64.225
+
+cert.fudan.edu.cn. 59 IN A 220.250.64.225
+
+cert.fudan.edu.cn. 59 IN A 220.250.64.225
+
+cfd.fudan.edu.cn. 60 IN A 202.120.224.188
+
+cgsc.fudan.edu.cn. 3600 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+cgsc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+chenxi.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+chinese.fudan.edu.cn. 3582 IN A 202.120.224.114
+
+chinese.fudan.edu.cn. 3581 IN A 202.120.224.114
+
+chinese.fudan.edu.cn. 3581 IN A 202.120.224.114
+
+www.chm.fudan.edu.cn. 3590 IN A 202.120.224.114
+
+chta.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+www.ci.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+cics.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+www.cifu.fudan.edu.cn. 2315 IN A 202.120.224.114
+
+www.cifu.fudan.edu.cn. 2314 IN A 202.120.224.114
+
+cisco-fudan.fudan.edu.cn. 600 IN CNAME cfna.fudan.edu.cn.
+cisco-fudan.fudan.edu.cn. 0 IN A 220.250.64.225
+
+cisco-fudan.fudan.edu.cn. 599 IN CNAME cfna.fudan.edu.cn.
+cfna.fudan.edu.cn. 0 IN A 220.250.64.225
+
+cisco-fudan.fudan.edu.cn. 599 IN CNAME cfna.fudan.edu.cn.
+cfna.fudan.edu.cn. 60 IN A 220.250.64.225
+
+cisco-fudan.fudan.edu.cn. 599 IN CNAME cfna.fudan.edu.cn.
+cfna.fudan.edu.cn. 59 IN A 220.250.64.225
+
+cjoo.fudan.edu.cn. 3203 IN A 202.120.224.83
+
+cloud.fudan.edu.cn. 600 IN A 202.120.233.15
+
+fdsm.fudan.edu.cnbk.fudan.edu.cn. 0 IN A 220.250.64.225
+
+bwcx.fudan.edu.cnfdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+mail.delta.fudan.edu.cnmailrelay1.fudan.edu.cn. 0 IN A 220.250.64.225
+
+application.fisf.fudan.edu.cnns.fudan.edu.cn. 0 IN A 220.250.64.225
+
+idpfudan.fudan.edu.cnweblogin.fudan.edu.cn. 0 IN A 220.250.64.225
+
+corr.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.cs.fudan.edu.cn. 505 IN A 202.120.224.114
+
+www.cs.fudan.edu.cn. 504 IN A 202.120.224.114
+
+www.cs.fudan.edu.cn. 504 IN A 202.120.224.114
+
+ctf.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+ctf.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+cwc.fudan.edu.cn. 1099 IN A 202.120.224.114
+
+www.cwc.fudan.edu.cn. 3597 IN A 202.120.224.114
+
+czzx.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+dangxiao.fudan.edu.cn. 2969 IN A 202.120.224.114
+
+danshi.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+danshi.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+dc.fudan.edu.cn. 3600 IN A 202.120.224.116
+
+dc.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+mail.delta.fudan.edu.cn. 600 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+mail.delta.fudan.edu.cn. 599 IN A 202.120.224.46
+
+dfll.fudan.edu.cn. 509 IN A 202.120.224.114
+
+discovery.fudan.edu.cn. 502 IN A 202.120.230.9
+
+discovery.fudan.edu.cn. 501 IN A 202.120.230.9
+
+www.dmg.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+dns2.fudan.edu.cn. 0 IN A 220.250.64.225
+
+dspt.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+dspt.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+dspt.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+dyjygl.fudan.edu.cn. 3600 IN A 202.120.224.116
+
+dyjygl.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+ecology.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+econ.fudan.edu.cn. 1738 IN A 202.120.224.82
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 0 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 60 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn<BR>www.oa.econ.fudan.edu.cn. 59 IN A 220.250.64.225
+
+homepage.fudan.edu.cnm.oa.econ.fudan.edu.cn. 0 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cnwww.oa.econ.fudan.edu.cn. 0 IN A 220.250.64.225
+
+m.oa.econ.fudan.edu.cn. 3600 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+m.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3600 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.oa.econ.fudan.edu.cn. 3599 IN A 202.120.224.116
+
+www.edp.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ee.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ee.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+ee.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+ehall.fudan.edu.cn. 3082 IN A 202.120.224.111
+
+ehall.fudan.edu.cn. 3081 IN A 202.120.224.111
+
+ehall.fudan.edu.cn. 3081 IN A 202.120.224.111
+
+elearning.fudan.edu.cn. 2730 IN A 202.120.224.82
+
+elearning.fudan.edu.cn. 2729 IN A 202.120.224.82
+
+elearning.fudan.edu.cn. 2729 IN A 202.120.224.82
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 0 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 60 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 59 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 59 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 59 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 59 IN A 220.250.64.225
+
+assets.elearning.fudan.edu.cn<BR>www.assets.elearning.fudan.edu.cn. 59 IN A 220.250.64.225
+
+elife.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+environment.fudan.edu.cn. 505 IN A 202.120.224.114
+
+environment.fudan.edu.cn. 504 IN A 202.120.224.114
+
+environment.fudan.edu.cn. 504 IN A 202.120.224.114
+
+epedigree.fudan.edu.cn. 0 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 60 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+epedigree.fudan.edu.cn. 59 IN A 220.250.64.225
+
+faet.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.fao.fudan.edu.cn. 2702 IN A 202.120.224.114
+
+www.fao.fudan.edu.cn. 2701 IN A 202.120.224.114
+
+fckyy.fudan.edu.cn. 2702 IN A 220.250.64.225
+
+fckyy.fudan.edu.cn. 2701 IN A 220.250.64.225
+
+fddi.fudan.edu.cn. 2133 IN A 202.120.224.114
+
+fdecocenter.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+fdias.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+fdjpkc.fudan.edu.cn. 1043 IN A 202.120.224.83
+
+fdjpkc.fudan.edu.cn. 1042 IN A 202.120.224.83
+
+fdjpkc.fudan.edu.cn. 1042 IN A 202.120.224.83
+
+fdjpkc.fudan.edu.cn. 1042 IN A 202.120.224.83
+
+fdsm.fudan.edu.cn. 86400 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+analytics.fdsm.fudan.edu.cn. 86400 IN A 61.129.42.244
+
+app.fdsm.fudan.edu.cn. 2567 IN A 61.129.42.244
+
+apply.fdsm.fudan.edu.cn. 57658 IN A 61.129.42.244
+
+apply.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+bk.fdsm.fudan.edu.cn. 86400 IN A 61.129.42.244
+
+bk.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+case.fdsm.fudan.edu.cn. 5284 IN A 61.129.42.244
+
+case.fdsm.fudan.edu.cn. 5283 IN A 61.129.42.244
+
+cdo.fdsm.fudan.edu.cn. 86400 IN A 61.129.42.244
+
+cgsc.fudan.edu.cnwww.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+competition.fdsm.fudan.edu.cn. 60 IN A 220.250.64.225
+
+cs.fdsm.fudan.edu.cn. 80113 IN A 61.129.42.244
+
+cs.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+ddim.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+el.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+elearning.fdsm.fudan.edu.cn. 78271 IN A 61.129.42.244
+
+events.fdsm.fudan.edu.cn. 53465 IN A 61.129.42.244
+
+events.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+fdrs.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+fdvod.fdsm.fudan.edu.cn. 72432 IN A 61.129.42.244
+
+imbaapply.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+lms.fdsm.fudan.edu.cn. 59607 IN A 61.129.42.244
+
+m.fdsm.fudan.edu.cn. 86400 IN A 61.129.42.244
+
+m.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+mobile.fdsm.fudan.edu.cn. 65916 IN A 61.129.42.244
+
+msc.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+myknowledge.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+ns.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+olinembatxl.fdsm.fudan.edu.cn. 86400 IN A 61.129.42.244
+
+piwik.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+resource.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+rs.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+runforlove.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+sso.fdsm.fudan.edu.cn. 67630 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+sso.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+test.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+topemba.fdsm.fudan.edu.cn. 0 IN A 220.250.64.225
+
+vod.fdsm.fudan.edu.cn. 86400 IN A 61.129.42.243
+
+www.fdsm.fudan.edu.cn. 69536 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdsm.fudan.edu.cn. 7199 IN A 61.129.42.244
+
+www.fdty.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.fdty.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+fdy.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+fdy.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.fef.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+fisf.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+fisf.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+fisf.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+fisf.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+application.fisf.fudan.edu.cn. 1707 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+application.fisf.fudan.edu.cn. 1706 IN A 202.120.224.116
+
+www.fisf.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+flauc.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+freshman.fudan.edu.cn. 1414 IN A 202.120.224.82
+
+www.fso.fudan.edu.cn. 970 IN A 202.120.224.114
+
+www.fso.fudan.edu.cn. 969 IN A 202.120.224.114
+
+www.fso.fudan.edu.cn. 969 IN A 202.120.224.114
+
+funoptics.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+funoptics.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+fx.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+fx.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+fx.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+gateway.fudan.edu.cn. 600 IN A 202.120.224.134
+
+gateway.fudan.edu.cn. 599 IN A 202.120.224.134
+
+gateway.fudan.edu.cn. 599 IN A 202.120.224.134
+
+gateway.fudan.edu.cn. 599 IN A 202.120.224.134
+
+gdm.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.gdwx.fudan.edu.cn. 3588 IN A 202.120.224.114
+
+gecc.fudan.edu.cn. 1042 IN A 202.120.224.83
+
+genus.fudan.edu.cn. 600 IN CNAME ftp.fudan.edu.cn.
+genus.fudan.edu.cn. 0 IN A 220.250.64.225
+
+genus.fudan.edu.cn. 599 IN CNAME ftp.fudan.edu.cn.
+ftp.fudan.edu.cn. 0 IN A 220.250.64.225
+
+genus.fudan.edu.cn. 599 IN CNAME ftp.fudan.edu.cn.
+ftp.fudan.edu.cn. 60 IN A 220.250.64.225
+
+www.gs.fudan.edu.cn. 824 IN A 202.120.224.114
+
+www.gs.fudan.edu.cn. 823 IN A 202.120.224.114
+
+www.gs.fudan.edu.cn. 823 IN A 202.120.224.114
+
+www.gs.fudan.edu.cn. 823 IN A 202.120.224.114
+
+www.gsao.fudan.edu.cn. 2044 IN A 202.120.224.114
+
+www.gsao.fudan.edu.cn. 2043 IN A 202.120.224.114
+
+gsas.fudan.edu.cn. 510 IN A 202.120.224.82
+
+gsras.fudan.edu.cn. 60 IN A 202.120.224.67
+
+gsstatic.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.gwz.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.gwz.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.gwz.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+hat.fudan.edu.cn. 0 IN A 220.250.64.225
+
+hat.fudan.edu.cn. 60 IN A 220.250.64.225
+
+hat.fudan.edu.cn. 59 IN A 220.250.64.225
+
+hat.fudan.edu.cn. 59 IN A 220.250.64.225
+
+heyonghe-chem.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+heyonghe-chem.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+highschool.fudan.edu.cn. 0 IN A 220.250.64.225
+
+highschool.fudan.edu.cn. 60 IN A 220.250.64.225
+
+highschool.fudan.edu.cn. 59 IN A 220.250.64.225
+
+highschool.fudan.edu.cn. 59 IN A 220.250.64.225
+
+history.fudan.edu.cn. 3588 IN A 202.120.224.114
+
+hk10000.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+homepage.fudan.edu.cn. 449 IN A 61.129.42.36
+
+homepage.fudan.edu.cn. 448 IN A 61.129.42.36
+
+homepage.fudan.edu.cn. 448 IN A 61.129.42.36
+
+hospital.fudan.edu.cn. 60 IN A 202.120.224.114
+
+hospital.fudan.edu.cn. 59 IN A 202.120.224.114
+
+www.hr.fudan.edu.cn. 3580 IN A 202.120.224.114
+
+hupi.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+hupi.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+hupi.fudan.edu.cn. 3599 IN A 202.120.224.83
+
+dzl.ias.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+dzl.ias.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.ias.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+ibs.fudan.edu.cn. 1690 IN A 202.120.224.114
+
+www.ices.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+icpc.fudan.edu.cn. 600 IN A 218.193.131.253
+
+icscc.fudan.edu.cn. 60 IN A 202.120.224.114
+
+icscc.fudan.edu.cn. 59 IN A 202.120.224.114
+
+icscc.fudan.edu.cn. 59 IN A 202.120.224.114
+
+icscc.fudan.edu.cn. 59 IN A 202.120.224.114
+
+idm.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+idp.fudan.edu.cn. 600 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idp.fudan.edu.cn. 599 IN A 202.120.231.10
+
+idpfudan.fudan.edu.cn. 60 IN A 202.120.224.102
+
+idpfudan.fudan.edu.cn. 59 IN A 202.120.224.102
+
+idpfudan.fudan.edu.cn. 59 IN A 202.120.224.102
+
+idpfudan.fudan.edu.cn. 59 IN A 202.120.224.102
+
+idpfudan.fudan.edu.cn. 59 IN A 202.120.224.102
+
+idpfudan.fudan.edu.cn. 59 IN A 202.120.224.102
+
+idpfudan.fudan.edu.cn. 59 IN A 202.120.224.102
+
+www.ihe.fudan.edu.cn. 3587 IN A 202.120.224.114
+
+www.iis.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.iis.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+imib.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+imib.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+imp.fudan.edu.cn. 3587 IN A 202.120.224.114
+
+imp.fudan.edu.cn. 3586 IN A 202.120.224.114
+
+imp.fudan.edu.cn. 3586 IN A 202.120.224.114
+
+imp.fudan.edu.cn. 3586 IN A 202.120.224.114
+
+inqc.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+iobs.fudan.edu.cn. 2700 IN A 202.120.224.82
+
+irm.fudan.edu.cn. 2700 IN A 202.120.224.82
+
+iso.fudan.edu.cn. 1096 IN A 202.120.224.82
+
+iso.fudan.edu.cn. 1095 IN A 202.120.224.82
+
+iss.fudan.edu.cn. 2288 IN A 202.120.224.82
+
+ist.fudan.edu.cn. 1183 IN A 202.120.224.82
+
+istbi.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+istbi.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+istbi.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+www.it.fudan.edu.cn. 504 IN A 202.120.224.114
+
+www.it.fudan.edu.cn. 503 IN A 202.120.224.114
+
+jiguan.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+jinchb.fudan.edu.cn. 0 IN A 220.250.64.225
+
+jinchb.fudan.edu.cn. 60 IN A 220.250.64.225
+
+jinchb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+jinchb.fudan.edu.cn. 59 IN A 220.250.64.225
+
+jmi.fudan.edu.cn. 600 IN A 202.120.64.92
+
+jmi.fudan.edu.cn. 599 IN A 202.120.64.92
+
+jmi.fudan.edu.cn. 599 IN A 202.120.64.92
+
+jmi.fudan.edu.cn. 599 IN A 202.120.64.92
+
+jms.fudan.edu.cn. 600 IN A 202.120.64.28
+
+jpkc.fudan.edu.cn. 60 IN A 202.120.224.199
+jpkc.fudan.edu.cn. 60 IN A 202.120.224.114
+
+jpkc.fudan.edu.cn. 59 IN A 202.120.224.114
+jpkc.fudan.edu.cn. 59 IN A 202.120.224.199
+
+jpkc.fudan.edu.cn. 59 IN A 202.120.224.114
+jpkc.fudan.edu.cn. 59 IN A 202.120.224.199
+
+www.jsc.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.jwc.fudan.edu.cn. 3124 IN A 202.120.224.114
+
+jwfw.fudan.edu.cn. 60 IN A 202.120.224.83
+
+jwfw.fudan.edu.cn. 59 IN A 202.120.224.83
+
+jxpt.fudan.edu.cn. 600 IN A 202.120.224.179
+
+jxpt.fudan.edu.cn. 599 IN A 202.120.224.179
+
+klca.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.klmm.fudan.edu.cn. 600 IN A 202.120.64.22
+
+kw.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+kw.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+labanimal.fudan.edu.cn. 2700 IN A 202.120.224.114
+
+www.lam.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.law.fudan.edu.cn. 502 IN A 202.120.224.114
+
+lcyx.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+lcyx.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.library.fudan.edu.cn. 145 IN A 202.120.227.4
+
+www.library.fudan.edu.cn. 144 IN A 202.120.227.4
+
+life.fudan.edu.cn. 497 IN A 202.120.224.114
+
+life.fudan.edu.cn. 496 IN A 202.120.224.114
+
+life.fudan.edu.cn. 496 IN A 202.120.224.114
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+NXDOMAIN for limsmp.lims.fudan.edu.cn
+
+logic.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+logic.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+lsem.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+lsfb.fudan.edu.cn. 1961 IN A 202.120.224.114
+
+lsfb.fudan.edu.cn. 1960 IN A 202.120.224.114
+
+lsfb.fudan.edu.cn. 1960 IN A 202.120.224.114
+
+m4.fudan.edu.cn. 600 IN A 202.120.224.45
+
+m4.fudan.edu.cn. 599 IN A 202.120.224.45
+
+mail.fudan.edu.cn. 60 IN A 61.129.42.10
+mail.fudan.edu.cn. 60 IN A 202.120.224.73
+mail.fudan.edu.cn. 60 IN A 202.120.224.10
+mail.fudan.edu.cn. 60 IN A 61.129.42.33
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mail.fudan.edu.cn. 59 IN A 61.129.42.33
+mail.fudan.edu.cn. 59 IN A 202.120.224.10
+mail.fudan.edu.cn. 59 IN A 202.120.224.73
+mail.fudan.edu.cn. 59 IN A 61.129.42.10
+
+mailrelay1.fudan.edu.cn. 148 IN A 61.129.42.33
+mailrelay1.fudan.edu.cn. 148 IN A 61.129.42.10
+
+mailrelay1.fudan.edu.cn. 147 IN A 61.129.42.10
+mailrelay1.fudan.edu.cn. 147 IN A 61.129.42.33
+
+mailrelay3.fudan.edu.cn. 0 IN A 220.250.64.225
+
+mailrelay3.fudan.edu.cn. 60 IN A 220.250.64.225
+
+mailrelay3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+mailrelay3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+map.fudan.edu.cn. 2368 IN A 202.120.224.114
+
+math.fudan.edu.cn. 3586 IN A 202.120.224.83
+
+math.fudan.edu.cn. 3585 IN A 202.120.224.83
+
+math.fudan.edu.cn. 3585 IN A 202.120.224.83
+
+math.fudan.edu.cn. 3585 IN A 202.120.224.83
+
+mech.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+medicine.fudan.edu.cn. 600 IN A 202.120.64.60
+
+mobile.fudan.edu.cn. 600 IN A 61.129.42.120
+
+mobile.fudan.edu.cn. 599 IN A 61.129.42.120
+
+moboss.fudan.edu.cn. 0 IN A 220.250.64.225
+
+moboss.fudan.edu.cn. 60 IN A 220.250.64.225
+
+moboss.fudan.edu.cn. 59 IN A 220.250.64.225
+
+moboss.fudan.edu.cn. 59 IN A 220.250.64.225
+
+mosse.fudan.edu.cn. 0 IN A 220.250.64.225
+
+mosse.fudan.edu.cn. 60 IN A 220.250.64.225
+
+mosse.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.mpa.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+mse.fudan.edu.cn. 495 IN A 202.120.224.83
+
+mse.fudan.edu.cn. 494 IN A 202.120.224.83
+
+mse.fudan.edu.cn. 494 IN A 202.120.224.83
+
+www.mse.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.mta.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.mta.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+my.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+my.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+napp.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+nat.fudan.edu.cn. 0 IN A 220.250.64.225
+
+nat.fudan.edu.cn. 60 IN A 220.250.64.225
+
+nat.fudan.edu.cn. 59 IN A 220.250.64.225
+
+nat.fudan.edu.cn. 59 IN A 220.250.64.225
+
+nccd2019.fudan.edu.cn. 3600 IN A 202.120.224.83
+
+news.fudan.edu.cn. 60 IN A 202.120.224.81
+
+news.fudan.edu.cn. 59 IN A 202.120.224.81
+
+nlp.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+nlp.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+ns.fudan.edu.cn. 60 IN A 202.120.224.26
+
+ns.fudan.edu.cn. 59 IN A 202.120.224.26
+
+ns.fudan.edu.cn. 59 IN A 202.120.224.26
+
+ns.fudan.edu.cn. 59 IN A 202.120.224.26
+
+ns1.fudan.edu.cn. 600 IN A 202.120.224.6
+
+ns1.fudan.edu.cn. 599 IN A 202.120.224.6
+
+ntp.fudan.edu.cn. 595 IN A 10.108.68.100
+
+ntp.fudan.edu.cn. 594 IN A 10.108.68.100
+
+ntp.fudan.edu.cn. 594 IN A 10.108.68.100
+
+nursing.fudan.edu.cn. 60 IN A 202.120.64.12
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 0 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 60 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn<BR>www.oa.fudan.edu.cn. 59 IN A 220.250.64.225
+
+m.oa.fudan.edu.cn. 600 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+m.oa.fudan.edu.cn. 599 IN A 10.107.20.203
+
+www.oa.fudan.edu.cn. 60 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+www.oa.fudan.edu.cn. 59 IN A 10.110.6.95
+
+optics.fudan.edu.cn. 444 IN A 202.120.224.82
+
+optics.fudan.edu.cn. 443 IN A 202.120.224.82
+
+patty1.fudan.edu.cn. 0 IN A 220.250.64.225
+
+patty1.fudan.edu.cn. 60 IN A 220.250.64.225
+
+patty1.fudan.edu.cn. 59 IN A 220.250.64.225
+
+patty1.fudan.edu.cn. 59 IN A 220.250.64.225
+
+patty2.fudan.edu.cn. 0 IN A 220.250.64.225
+
+patty2.fudan.edu.cn. 60 IN A 220.250.64.225
+
+patty2.fudan.edu.cn. 59 IN A 220.250.64.225
+
+patty2.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.payment.fudan.edu.cn. 600 IN A 202.120.224.67
+
+phenomics.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+phenomics.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+philosophy.fudan.edu.cn. 499 IN A 202.120.224.114
+
+philosophy.fudan.edu.cn. 498 IN A 202.120.224.114
+
+phylab.fudan.edu.cn. 3325 IN A 202.120.224.114
+
+phylab.fudan.edu.cn. 3324 IN A 202.120.224.114
+
+phylab.fudan.edu.cn. 3324 IN A 202.120.224.114
+
+phylab.fudan.edu.cn. 3324 IN A 202.120.224.114
+
+phys.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+phys.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+phys.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.physics.fudan.edu.cn. 3586 IN A 202.120.224.114
+
+www.physics.fudan.edu.cn. 3585 IN A 202.120.224.114
+
+polymer.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+polymer.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+polymer.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+ppi.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+proxy.fudan.edu.cn. 192 IN A 202.120.224.104
+proxy.fudan.edu.cn. 192 IN A 202.120.224.4
+
+proxy.fudan.edu.cn. 191 IN A 202.120.224.4
+proxy.fudan.edu.cn. 191 IN A 202.120.224.104
+
+proxy.fudan.edu.cn. 191 IN A 202.120.224.4
+proxy.fudan.edu.cn. 191 IN A 202.120.224.104
+
+proxy.fudan.edu.cn. 191 IN A 202.120.224.4
+proxy.fudan.edu.cn. 191 IN A 202.120.224.104
+
+rcmrs.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+redcap.fudan.edu.cn. 60 IN A 202.120.64.89
+
+renlab.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+retiree.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+reuters.fudan.edu.cn. 0 IN A 220.250.64.225
+
+reuters.fudan.edu.cn. 60 IN A 220.250.64.225
+
+reuters.fudan.edu.cn. 59 IN A 220.250.64.225
+
+s.fudan.edu.cn. 600 IN A 61.129.42.76
+
+s3.fudan.edu.cn. 600 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+s3.fudan.edu.cn. 599 IN A 202.120.224.116
+
+www.s3.fudan.edu.cn. 0 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 60 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.s3.fudan.edu.cn. 59 IN A 220.250.64.225
+
+scd.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.scms.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.se.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+shdi.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+shlap.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+shmc.fudan.edu.cn. 3478 IN A 202.120.224.114
+
+shmc.fudan.edu.cn. 3477 IN A 202.120.224.114
+
+shun.fudan.edu.cn. 0 IN A 220.250.64.225
+
+shun.fudan.edu.cn. 60 IN A 220.250.64.225
+
+shun.fudan.edu.cn. 59 IN A 220.250.64.225
+
+shun.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.shyjsjy.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.sirpa.fudan.edu.cn. 3585 IN A 202.120.224.83
+
+sjc.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+skmn.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+sme.fudan.edu.cn. 2922 IN A 202.120.224.82
+
+soc.fudan.edu.cn. 0 IN A 220.250.64.225
+
+soc.fudan.edu.cn. 60 IN A 220.250.64.225
+
+som.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+som.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+som.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+spfdu.fudan.edu.cn. 60 IN A 202.120.64.19
+
+spfdu.fudan.edu.cn. 59 IN A 202.120.64.19
+
+spfdu.fudan.edu.cn. 59 IN A 202.120.64.19
+
+sph.fudan.edu.cn. 60 IN A 202.120.64.25
+
+sph.fudan.edu.cn. 59 IN A 202.120.64.25
+
+sph.fudan.edu.cn. 59 IN A 202.120.64.25
+
+spinsummit.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+sslvpn.fudan.edu.cn. 220 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+sslvpn.fudan.edu.cn. 219 IN A 61.129.42.12
+
+www.sslvpn.fudan.edu.cn. 0 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 60 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+www.sslvpn.fudan.edu.cn. 59 IN A 220.250.64.225
+
+NXDOMAIN for stu.fudan.edu.cn
+
+NXDOMAIN for stu.fudan.edu.cn
+
+NXDOMAIN for stu.fudan.edu.cn
+
+NXDOMAIN for stu.fudan.edu.cn
+
+www.stuaff.fudan.edu.cn. 60 IN A 202.120.224.114
+
+stuvpn.fudan.edu.cn. 410 IN A 202.120.224.58
+
+stuvpn.fudan.edu.cn. 409 IN A 202.120.224.58
+
+stuvpn.fudan.edu.cn. 409 IN A 202.120.224.58
+
+sun450.fudan.edu.cn. 0 IN A 220.250.64.225
+
+sun450.fudan.edu.cn. 60 IN A 220.250.64.225
+
+sun450.fudan.edu.cn. 59 IN A 220.250.64.225
+
+supramol.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+supramol.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.surface.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+tac.fudan.edu.cn. 60 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tac.fudan.edu.cn. 59 IN A 61.129.42.55
+
+tlife.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+training.fudan.edu.cn. 600 IN A 202.120.224.7
+
+training.fudan.edu.cn. 599 IN A 202.120.224.7
+
+training.fudan.edu.cn. 599 IN A 202.120.224.7
+
+training.fudan.edu.cn. 599 IN A 202.120.224.7
+
+tyndallcentre.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+tyndallcentre.fudan.edu.cn. 3599 IN A 202.120.224.114
+
+www.tzb.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.udi.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+uis.fudan.edu.cn. 599 IN A 202.120.224.14
+uis.fudan.edu.cn. 599 IN A 202.120.224.15
+
+uis.fudan.edu.cn. 598 IN A 202.120.224.15
+uis.fudan.edu.cn. 598 IN A 202.120.224.14
+
+uis.fudan.edu.cn. 598 IN A 202.120.224.15
+uis.fudan.edu.cn. 598 IN A 202.120.224.14
+
+uis2.fudan.edu.cn. 205 IN A 202.120.224.13
+
+uis2.fudan.edu.cn. 204 IN A 202.120.224.13
+
+unicenter.fudan.edu.cn. 0 IN A 220.250.64.225
+
+unicenter.fudan.edu.cn. 60 IN A 220.250.64.225
+
+unicenter.fudan.edu.cn. 59 IN A 220.250.64.225
+
+unicenter.fudan.edu.cn. 59 IN A 220.250.64.225
+
+visa.fudan.edu.cn. 60 IN A 202.120.224.114
+
+pt.vm.fudan.edu.cn. 352 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+pt.vm.fudan.edu.cn. 351 IN A 202.120.247.20
+
+weblogin.fudan.edu.cn. 600 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+weblogin.fudan.edu.cn. 599 IN A 202.120.235.10
+
+webvpn.fudan.edu.cn. 2729 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+webvpn.fudan.edu.cn. 2728 IN A 202.120.224.150
+
+wkkyc.fudan.edu.cn. 367 IN A 202.120.224.114
+
+wmarxism.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+www.fudan.edu.cn. 501 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+www.fudan.edu.cn. 500 IN A 202.120.224.81
+
+xk.fudan.edu.cn. 60 IN A 202.120.224.69
+
+xk.fudan.edu.cn. 59 IN A 202.120.224.69
+
+xk.fudan.edu.cn. 59 IN A 202.120.224.69
+
+xk.fudan.edu.cn. 59 IN A 202.120.224.69
+
+xuefeng.fudan.edu.cn. 1093 IN A 202.120.224.114
+
+xulab.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+xwsys.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+www.xwxy.fudan.edu.cn. 506 IN A 202.120.224.114
+
+www.xwxy.fudan.edu.cn. 505 IN A 202.120.224.114
+
+xxb.fudan.edu.cn. 2366 IN A 202.120.224.82
+
+xxb.fudan.edu.cn. 2365 IN A 202.120.224.82
+
+www.xxb.fudan.edu.cn. 3473 IN A 202.120.224.116
+
+xxgk.fudan.edu.cn. 1091 IN A 202.120.224.114
+
+www.xxgk.fudan.edu.cn. 1092 IN A 202.120.224.114
+
+www.xyfw.fudan.edu.cn. 60 IN A 202.120.224.114
+
+www.ygb.fudan.edu.cn. 502 IN A 202.120.224.114
+
+yin.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+www.yjsdj.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+yjsxk.fudan.edu.cn. 324 IN A 202.120.224.89
+
+yjsxktest.fudan.edu.cn. 600 IN A 202.120.224.89
+
+yjsxktest.fudan.edu.cn. 599 IN A 202.120.224.89
+
+yjsxktest.fudan.edu.cn. 599 IN A 202.120.224.89
+
+yst.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yst.fudan.edu.cn. 3599 IN A 202.120.224.82
+
+yugong.fudan.edu.cn. 1368 IN A 202.120.224.114
+
+yxky.fudan.edu.cn. 2697 IN A 202.120.224.114
+
+yxphd.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+yz.fudan.edu.cn. 60 IN A 202.120.224.47
+yz.fudan.edu.cn. 60 IN A 202.120.224.50
+yz.fudan.edu.cn. 60 IN A 202.120.224.48
+
+yz.fudan.edu.cn. 59 IN A 202.120.224.48
+yz.fudan.edu.cn. 59 IN A 202.120.224.50
+yz.fudan.edu.cn. 59 IN A 202.120.224.47
+
+yzsfwapp.fudan.edu.cn. 3215 IN A 202.120.224.116
+
+yzsfwapp.fudan.edu.cn. 3214 IN A 202.120.224.116
+
+yzsfwapp.fudan.edu.cn. 3214 IN A 202.120.224.116
+
+yzsfwapp.fudan.edu.cn. 3214 IN A 202.120.224.116
+
+zll.fudan.edu.cn. 3600 IN A 202.120.224.114
+
+zongwuchu.fudan.edu.cn. 3600 IN A 202.120.224.82
+
+www.zzb.fudan.edu.cn. 3600 IN A 202.120.224.114
+

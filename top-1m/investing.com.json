@@ -1,0 +1,92 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx/1.16.1",
+            "Date": "Wed, 16 Sep 2020 09:51:10 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "154088",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/7.1.8",
+            "Set-Cookie": "ses_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=cn.investing.com, PHPSESSID=ju6oev28lu02thhfcjkgogqult; path=/, geoC=CN; expires=Wed, 16-Sep-2020 17:51:10 GMT; Max-Age=28800; path=/, prebid_page=1; path=/; domain=cn.investing.com, prebid_session=0; path=/; domain=cn.investing.com, adBlockerNewUserDomains=1600249870; expires=Tue, 01-Jan-2030 00:00:00 GMT; Max-Age=293206130; path=/; domain=.investing.com, adBlockerNewUserDomains=1600249870; expires=Tue, 01-Jan-2030 00:00:00 GMT; Max-Age=293206130; path=/; domain=.forexpros.com, nyxDorf=MDE0YGMrN2lkNjs2MH0yNzJkMHU1MDEwYmE%3D; expires=Wed, 16-Sep-2020 10:51:10 GMT; Max-Age=3600; path=/, StickySession=id.68639141568.282cn.investing.com; path=/;, StickySession=id.68639141568.282cn.investing.com; path=/;",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Pragma": "no-cache",
+            "Vary": "Accept-Encoding,User-Agent",
+            "Content-Encoding": "gzip",
+            "Accept-Ranges": "bytes",
+            "X-Varnish": "1760249578",
+            "Age": "0",
+            "Via": "1.1 varnish",
+            "Content-Security-Policy": "upgrade-insecure-requests; block-all-mixed-content"
+        },
+        "nslookup": {
+            "investing.com": [
+                "185.94.84.100"
+            ],
+            "cn.investing.com": [
+                "142.54.23.72"
+            ]
+        },
+        "ping": {
+            "investing.com": [
+                "185.94.84.100"
+            ],
+            "cn.investing.com": [
+                "142.54.23.72"
+            ]
+        },
+        "CNAME": {
+            "cn.investing.com": null
+        },
+        "A": {
+            "cn.investing.com": [
+                "142.54.23.72"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx/1.16.1",
+            "Date": "Wed, 16 Sep 2020 09:51:12 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Content-Length": "154057",
+            "Connection": "keep-alive",
+            "X-Powered-By": "PHP/7.1.8",
+            "Set-Cookie": "ses_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=cn.investing.com, PHPSESSID=upl5lgg6n7c6t1dvaevaq6ruo0; path=/, geoC=CN; expires=Wed, 16-Sep-2020 17:51:12 GMT; Max-Age=28800; path=/, prebid_page=1; path=/; domain=cn.investing.com, prebid_session=0; path=/; domain=cn.investing.com, adBlockerNewUserDomains=1600249872; expires=Tue, 01-Jan-2030 00:00:00 GMT; Max-Age=293206128; path=/; domain=.investing.com, adBlockerNewUserDomains=1600249872; expires=Tue, 01-Jan-2030 00:00:00 GMT; Max-Age=293206128; path=/; domain=.forexpros.com, nyxDorf=Z2Y0YDR8PmA%2FbW1gMH1lYGcxZCE1MDY3Z2Q%3D; expires=Wed, 16-Sep-2020 10:51:12 GMT; Max-Age=3600; path=/, StickySession=id.30746969431.592cn.investing.com; path=/;, StickySession=id.30746969431.592cn.investing.com; path=/;",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Pragma": "no-cache",
+            "Vary": "Accept-Encoding,User-Agent",
+            "Content-Encoding": "gzip",
+            "Accept-Ranges": "bytes",
+            "X-Varnish": "1760249819",
+            "Age": "0",
+            "Via": "1.1 varnish",
+            "Content-Security-Policy": "upgrade-insecure-requests; block-all-mixed-content"
+        },
+        "nslookup": {
+            "investing.com": [
+                "185.94.84.100"
+            ],
+            "cn.investing.com": [
+                "142.54.23.72"
+            ]
+        },
+        "ping": {
+            "investing.com": [
+                "185.94.84.100"
+            ],
+            "cn.investing.com": [
+                "142.54.23.72"
+            ]
+        },
+        "CNAME": {
+            "cn.investing.com": null
+        },
+        "A": {
+            "cn.investing.com": [
+                "142.54.23.72"
+            ]
+        }
+    }
+}

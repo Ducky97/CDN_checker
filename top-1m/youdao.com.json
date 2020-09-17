@@ -1,0 +1,66 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 11:02:38 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "private",
+            "Content-Language": "en-US",
+            "Set-Cookie": "DICT_UGC=be3af0da19b5c5e6aa4e17bd8d90b28a|; domain=.youdao.com, OUTFOX_SEARCH_USER_ID=1663958307@47.241.77.232; domain=.youdao.com; expires=Fri, 09-Sep-2050 11:02:38 GMT, JSESSIONID=abcu1EyYzw5768wukLwsx; domain=youdao.com; path=/",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "youdao.com": [
+                "103.72.47.249",
+                "103.72.47.248"
+            ]
+        },
+        "ping": {
+            "youdao.com": [
+                "103.72.47.249",
+                "103.72.47.248"
+            ]
+        },
+        "CNAME": {
+            "youdao.com": "still a low_level domain_name"
+        },
+        "A": {
+            "youdao.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 11:02:38 GMT",
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Cache-Control": "private",
+            "Content-Language": "en-US",
+            "Set-Cookie": "DICT_UGC=be3af0da19b5c5e6aa4e17bd8d90b28a|; domain=.youdao.com, OUTFOX_SEARCH_USER_ID=1977396265@47.241.77.232; domain=.youdao.com; expires=Fri, 09-Sep-2050 11:02:38 GMT, JSESSIONID=abcnaYGMJjZ7B4kCkLwsx; domain=youdao.com; path=/",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "youdao.com": [
+                "103.72.47.249",
+                "103.72.47.248"
+            ]
+        },
+        "ping": {
+            "youdao.com": [
+                "103.72.47.249",
+                "103.72.47.248"
+            ]
+        },
+        "CNAME": {
+            "youdao.com": "still a low_level domain_name"
+        },
+        "A": {
+            "youdao.com": "still a low_level domain_name"
+        }
+    }
+}

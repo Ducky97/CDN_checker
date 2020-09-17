@@ -1,0 +1,59 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "no-store, no-cache",
+            "Pragma": "no-cache",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "-1",
+            "Vary": "Accept-Encoding",
+            "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+            "X-Content-Type-Options": "nosniff",
+            "P3P": "CP=\"DSP CUR OTPi IND OTRi ONL FIN\"",
+            "x-ms-request-id": "8454ed6d-f853-4fc2-948a-516b81a41e00",
+            "x-ms-ests-server": "2.1.11021.16 - BJB1 ProdSlices",
+            "Set-Cookie": "fpc=Akqwl2qwA-1OguvxYnWFqsM; expires=Sat, 17-Oct-2020 03:04:54 GMT; path=/; secure; HttpOnly, x-ms-gateway-slice=productionb; path=/; secure; httponly, stsservicecookie=estschina; path=/; secure; httponly",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Date": "Thu, 17 Sep 2020 03:04:54 GMT",
+            "Content-Length": "50681"
+        },
+        "nslookup": {
+            "autodiscover.saif.sjtu.edu.cn": [
+                "42.159.33.136",
+                "42.159.161.152",
+                "42.159.161.184"
+            ],
+            "login.partner.microsoftonline.cn": [
+                "139.217.115.121",
+                "139.217.118.46",
+                "139.217.118.25",
+                "139.217.118.54"
+            ]
+        },
+        "ping": {
+            "autodiscover.saif.sjtu.edu.cn": [
+                "42.159.33.136",
+                "42.159.161.152"
+            ],
+            "login.partner.microsoftonline.cn": [
+                "139.217.231.219",
+                "139.217.118.46",
+                "139.217.231.208",
+                "139.217.228.95"
+            ]
+        },
+        "CNAME": {
+            "autodiscover.saif.sjtu.edu.cn": [
+                "autodiscover.partner.outlook.cn."
+            ]
+        },
+        "A": {
+            "autodiscover.saif.sjtu.edu.cn": [
+                "42.159.161.184",
+                "42.159.33.136",
+                "42.159.161.152"
+            ]
+        }
+    },
+    "https": null
+}

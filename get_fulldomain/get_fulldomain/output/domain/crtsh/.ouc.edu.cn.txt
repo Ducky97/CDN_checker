@@ -1,0 +1,17 @@
+*.ouc.edu.cn
+admin.stu.ouc.edu.cn
+app.ouc.edu.cn
+bk1.yunpan.s3.ouc.edu.cn
+hqwx.ouc.edu.cn
+id.ouc.edu.cn
+it.ouc.edu.cn
+jxpj.ouc.edu.cn
+mail.stu.ouc.edu.cn
+mob.ouc.edu.cn
+mobile.ouc.edu.cn
+stu.ouc.edu.cn
+web.stu.ouc.edu.cn
+wlkc.ouc.edu.cn
+www.app.ouc.edu.cn
+www.stu.ouc.edu.cn
+www.wlkc.ouc.edu.cn

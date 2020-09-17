@@ -1,0 +1,86 @@
+{
+    "http": {
+        "header": {
+            "Date": "Tue, 15 Sep 2020 12:41:11 GMT",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "*.imimg.com",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "sameorigin",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent",
+            "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+            "Server": "IM WServer Ver 1.0",
+            "Accept-Ranges": "bytes",
+            "Via": "1.1 google",
+            "Alt-Svc": "clear",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "indiamart.com": [
+                "35.190.37.46"
+            ],
+            "www.indiamart.com": [
+                "35.190.37.46"
+            ]
+        },
+        "ping": {
+            "indiamart.com": [
+                "35.190.37.46"
+            ],
+            "www.indiamart.com": [
+                "35.190.37.46"
+            ]
+        },
+        "CNAME": {
+            "www.indiamart.com": null
+        },
+        "A": {
+            "www.indiamart.com": [
+                "35.190.37.46"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Tue, 15 Sep 2020 12:41:11 GMT",
+            "Content-Encoding": "gzip",
+            "Access-Control-Allow-Origin": "*.imimg.com",
+            "Content-Type": "text/html; charset=UTF-8",
+            "X-Frame-Options": "sameorigin",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Content-Type-Options": "nosniff",
+            "Vary": "Accept-Encoding,User-Agent",
+            "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+            "Server": "IM WServer Ver 1.0",
+            "Accept-Ranges": "bytes",
+            "Via": "1.1 google",
+            "Alt-Svc": "clear",
+            "Transfer-Encoding": "chunked"
+        },
+        "nslookup": {
+            "indiamart.com": [
+                "35.190.37.46"
+            ],
+            "www.indiamart.com": [
+                "35.190.37.46"
+            ]
+        },
+        "ping": {
+            "indiamart.com": [
+                "35.190.37.46"
+            ],
+            "www.indiamart.com": [
+                "35.190.37.46"
+            ]
+        },
+        "CNAME": {
+            "www.indiamart.com": null
+        },
+        "A": {
+            "www.indiamart.com": [
+                "35.190.37.46"
+            ]
+        }
+    }
+}

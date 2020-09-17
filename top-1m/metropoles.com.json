@@ -1,0 +1,97 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:46:30 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Via": "1.1 google",
+            "Cache-Control": "public, max-age=14400",
+            "Alt-Svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+            "CF-Cache-Status": "EXPIRED",
+            "cf-request-id": "0537e809f10000cc0c0bb88200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39a9231dbecc0c-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ],
+            "www.metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ]
+        },
+        "ping": {
+            "metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ],
+            "www.metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ]
+        },
+        "CNAME": {
+            "www.metropoles.com": null
+        },
+        "A": {
+            "www.metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:46:31 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Via": "1.1 google",
+            "Cache-Control": "public, max-age=14400",
+            "Age": "1",
+            "Alt-Svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+            "CF-Cache-Status": "HIT",
+            "cf-request-id": "0537e80dcc000019c963b4b200000001",
+            "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+            "Server": "cloudflare",
+            "CF-RAY": "5d39a9294f6d19c9-SIN",
+            "Content-Encoding": "gzip"
+        },
+        "nslookup": {
+            "metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ],
+            "www.metropoles.com": [
+                "104.18.25.118",
+                "104.18.24.118"
+            ]
+        },
+        "ping": {
+            "metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ],
+            "www.metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ]
+        },
+        "CNAME": {
+            "www.metropoles.com": null
+        },
+        "A": {
+            "www.metropoles.com": [
+                "104.18.24.118",
+                "104.18.25.118"
+            ]
+        }
+    }
+}

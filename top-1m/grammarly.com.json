@@ -1,0 +1,90 @@
+{
+    "http": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:46:40 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Xss-Protection": "1; mode=block",
+            "Referrer-Policy": "no-referrer-when-downgrade",
+            "Cache-Control": "max-age=0, no-store, no-cache",
+            "Content-Security-Policy": "frame-ancestors 'self' *.grammarly.com",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Set-Cookie": "funnelType=free; Max-Age=108000; Domain=grammarly.com; Path=/, browser_info=CHROME:67:COMPUTER:SUPPORTED:FREEMIUM:WINDOWS_10:WINDOWS; Max-Age=3600; Domain=grammarly.com; Path=/, redirect_location=eyJ0eXBlIjoiIiwibG9jYXRpb24iOiJodHRwczovL3d3dy5ncmFtbWFybHkuY29tLyJ9; Max-Age=3600; Domain=grammarly.com; Path=/; Secure; HttpOnly, gnar_containerId=2dYltTy4D66D; Max-Age=315360000; Domain=grammarly.com; Path=/"
+        },
+        "nslookup": {
+            "grammarly.com": [
+                "52.200.190.23",
+                "52.70.5.31",
+                "52.4.101.9"
+            ],
+            "www.grammarly.com:443": []
+        },
+        "ping": {
+            "grammarly.com": [
+                "52.200.190.23",
+                "52.70.5.31",
+                "52.4.101.9"
+            ],
+            "www.grammarly.com:443": null
+        },
+        "CNAME": {
+            "www.grammarly.com:443": null
+        },
+        "A": {
+            "www.grammarly.com:443": null
+        }
+    },
+    "https": {
+        "header": {
+            "Date": "Wed, 16 Sep 2020 09:46:43 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "X-Xss-Protection": "1; mode=block",
+            "Referrer-Policy": "no-referrer-when-downgrade",
+            "Cache-Control": "max-age=0, no-store, no-cache",
+            "Content-Security-Policy": "frame-ancestors 'self' *.grammarly.com",
+            "X-Content-Type-Options": "nosniff",
+            "Content-Encoding": "gzip",
+            "Strict-Transport-Security": "max-age=31536000",
+            "Set-Cookie": "funnelType=free; Max-Age=108000; Domain=grammarly.com; Path=/, browser_info=CHROME:67:COMPUTER:SUPPORTED:FREEMIUM:WINDOWS_10:WINDOWS; Max-Age=3600; Domain=grammarly.com; Path=/, redirect_location=eyJ0eXBlIjoiIiwibG9jYXRpb24iOiJodHRwczovL3d3dy5ncmFtbWFybHkuY29tLyJ9; Max-Age=3600; Domain=grammarly.com; Path=/; Secure; HttpOnly, gnar_containerId=chJkFAmvMQ1q; Max-Age=315360000; Domain=grammarly.com; Path=/"
+        },
+        "nslookup": {
+            "grammarly.com": [
+                "52.200.190.23",
+                "52.70.5.31",
+                "52.4.101.9"
+            ],
+            "www.grammarly.com": [
+                "52.200.190.23",
+                "52.4.101.9",
+                "52.70.5.31"
+            ]
+        },
+        "ping": {
+            "grammarly.com": [
+                "52.200.190.23",
+                "52.70.5.31",
+                "52.4.101.9"
+            ],
+            "www.grammarly.com": [
+                "52.200.190.23",
+                "52.70.5.31",
+                "52.4.101.9"
+            ]
+        },
+        "CNAME": {
+            "www.grammarly.com": null
+        },
+        "A": {
+            "www.grammarly.com": [
+                "52.200.190.23",
+                "52.70.5.31",
+                "52.4.101.9"
+            ]
+        }
+    }
+}

@@ -1,0 +1,970 @@
+NXDOMAIN for ouc.edu.cn
+
+NXDOMAIN for ouc.edu.cn
+
+NXDOMAIN for ouc.edu.cn
+
+NXDOMAIN for ouc.edu.cn
+
+NXDOMAIN for ouc.edu.cn
+
+NXDOMAIN for ouc.edu.cn
+
+NXDOMAIN for ouc.edu.cn
+
+aco.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+admission.ouc.edu.cn. 3600 IN A 211.64.142.232
+
+admission.ouc.edu.cn. 3599 IN A 211.64.142.232
+
+afo.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+akfs.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+akfs.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+mail.almn.ouc.edu.cn. 3600 IN A 222.195.158.130
+
+mail.almn.ouc.edu.cn. 3599 IN A 222.195.158.130
+
+mail.almn.ouc.edu.cn. 3599 IN A 222.195.158.130
+
+aoc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+aoc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+aoc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+app.ouc.edu.cn. 3600 IN A 211.64.142.132
+
+app.ouc.edu.cn. 3599 IN A 211.64.142.132
+
+app.ouc.edu.cn. 3599 IN A 211.64.142.132
+
+app.ouc.edu.cn. 3599 IN A 211.64.142.132
+
+app.ouc.edu.cn. 3599 IN A 211.64.142.132
+
+app.ouc.edu.cn. 3599 IN A 211.64.142.132
+
+app.ouc.edu.cn<BR>www.app.ouc.edu.cn. 0 IN A 220.250.64.225
+
+app.ouc.edu.cn<BR>www.app.ouc.edu.cn. 60 IN A 220.250.64.225
+
+app.ouc.edu.cn<BR>www.app.ouc.edu.cn. 59 IN A 220.250.64.225
+
+app.ouc.edu.cn<BR>www.app.ouc.edu.cn. 59 IN A 220.250.64.225
+
+app.ouc.edu.cn<BR>www.app.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.app.ouc.edu.cnwww.app.ouc.edu.cn. 0 IN A 220.250.64.225
+
+www.app.ouc.edu.cn. 0 IN A 220.250.64.225
+
+www.app.ouc.edu.cn. 60 IN A 220.250.64.225
+
+www.app.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.app.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.app.ouc.edu.cn. 59 IN A 220.250.64.225
+
+appplus.ouc.edu.cn. 3600 IN A 211.64.142.157
+
+archives.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+bbs.ouc.edu.cn. 3600 IN A 222.195.158.221
+
+bbs.ouc.edu.cn. 3599 IN A 222.195.158.221
+
+bbs.ouc.edu.cn. 3599 IN A 222.195.158.221
+
+bbs.ouc.edu.cn. 3599 IN A 222.195.158.221
+
+bkpg.ouc.edu.cn. 3600 IN A 222.195.158.142
+
+bkzs.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+bkzs.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+bt.ouc.edu.cn. 3600 IN A 222.195.158.27
+
+bt.ouc.edu.cn. 3599 IN A 222.195.158.27
+
+bt.ouc.edu.cn. 3599 IN A 222.195.158.27
+
+bwc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+bwc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+bwc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+bwcmdatabase.ouc.edu.cn. 3600 IN A 211.64.142.238
+
+card.ouc.edu.cn. 3600 IN A 222.195.158.3
+
+card.ouc.edu.cn. 3599 IN A 222.195.158.3
+
+career.ouc.edu.cn. 3600 IN A 211.64.143.10
+
+career.ouc.edu.cn. 3599 IN A 211.64.143.10
+
+cbzx.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+cese.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+cetl.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+cfse.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+cfse.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+chem.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+chem.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+clajc.ouc.edu.cn. 60 IN A 211.64.142.154
+
+clajc.ouc.edu.cn. 59 IN A 211.64.142.154
+
+clajc.ouc.edu.cn. 60 IN A 211.64.142.154
+
+clajc.ouc.edu.cn. 59 IN A 211.64.142.154
+
+cloud.ouc.edu.cn. 3600 IN A 222.195.158.252
+
+cloud.ouc.edu.cn. 3599 IN A 222.195.158.252
+
+cloud.ouc.edu.cn. 3599 IN A 222.195.158.252
+
+cmg.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+cmls.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+cmls.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+cmls.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+cmttc.ouc.edu.cn. 3600 IN A 211.64.142.238
+
+cmttc.ouc.edu.cn. 3599 IN A 211.64.142.238
+
+app.ouc.edu.cnid.ouc.edu.cn. 0 IN A 220.250.64.225
+
+graduate.ouc.edu.cnit.ouc.edu.cn. 0 IN A 220.250.64.225
+
+wlkc.ouc.edu.cn<BR>www.wlkc.ouc.edu.cnklmd.ouc.edu.cn. 0 IN A 220.250.64.225
+
+coadc.ouc.edu.cn. 3600 IN A 222.195.137.86
+
+coas.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+coas.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+coe.ouc.edu.cn. 405 IN A 211.64.142.154
+
+coe.ouc.edu.cn. 404 IN A 211.64.142.154
+
+cs.ouc.edu.cn. 3600 IN A 211.64.142.247
+
+cvpr.ouc.edu.cn. 3600 IN A 211.64.149.77
+
+cvpr.ouc.edu.cn. 3599 IN A 211.64.149.77
+
+cw.ouc.edu.cn. 3600 IN A 222.195.158.66
+
+cw.ouc.edu.cn. 3599 IN A 222.195.158.66
+
+cw.ouc.edu.cn. 3599 IN A 222.195.158.66
+
+dns.ouc.edu.cn. 3600 IN A 211.64.142.6
+
+dns.ouc.edu.cn. 3599 IN A 211.64.142.6
+
+dns.ouc.edu.cn. 3599 IN A 211.64.142.6
+
+dns17.ouc.edu.cn. 3600 IN A 211.64.142.17
+
+dns17.ouc.edu.cn. 3599 IN A 211.64.142.17
+
+dns17.ouc.edu.cn. 3599 IN A 211.64.142.17
+
+dns2.ouc.edu.cn. 3600 IN A 211.64.142.7
+
+dns2.ouc.edu.cn. 3599 IN A 211.64.142.7
+
+dns2.ouc.edu.cn. 3599 IN A 211.64.142.7
+
+dns2.ouc.edu.cn. 3599 IN A 211.64.142.7
+
+doctor.ouc.edu.cn. 3600 IN A 222.195.158.142
+
+doctor.ouc.edu.cn. 3599 IN A 222.195.158.142
+
+dpstar.ouc.edu.cn. 3600 IN A 222.195.158.180
+
+dpstar.ouc.edu.cn. 3599 IN A 222.195.158.180
+
+dpstar.ouc.edu.cn. 3599 IN A 222.195.158.180
+
+dwxcb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+dxb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+dxb.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+dxzx.ouc.edu.cn. 3600 IN A 211.64.142.194
+
+dxzx.ouc.edu.cn. 3599 IN A 211.64.142.194
+
+ecard.ouc.edu.cn. 3600 IN A 222.195.158.133
+
+ecard.ouc.edu.cn. 3599 IN A 222.195.158.133
+
+ecard.ouc.edu.cn. 3599 IN A 222.195.158.133
+
+econ.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+econ.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+eweb.ouc.edu.cn. 3600 IN A 211.64.142.43
+
+eweb.ouc.edu.cn. 3599 IN A 211.64.142.43
+
+flc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+flc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+flc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+ftp.ouc.edu.cn. 3600 IN A 222.195.158.26
+
+ftp.ouc.edu.cn. 3599 IN A 222.195.158.26
+
+ftp.ouc.edu.cn. 3599 IN A 222.195.158.26
+
+ftp2.ouc.edu.cn. 3600 IN A 222.195.158.141
+
+ftp2.ouc.edu.cn. 3599 IN A 222.195.158.141
+
+ftp2.ouc.edu.cn. 3599 IN A 222.195.158.141
+
+ftp4.ouc.edu.cn. 3600 IN A 222.195.158.46
+
+ftp4.ouc.edu.cn. 3599 IN A 222.195.158.46
+
+ftp5.ouc.edu.cn. 3600 IN A 222.195.158.46
+
+fwh.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+fzgh.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+geolab.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+gh.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+gjpg.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+grad.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+grad.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+grad.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+graduate.ouc.edu.cn. 3600 IN A 211.64.142.123
+
+gzc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+gzc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+gzcx.ouc.edu.cn. 3600 IN A 211.64.142.225
+
+hdjc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+hqbzc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+hqcahmc.ouc.edu.cn. 3600 IN A 211.64.142.82
+
+hqcggl.ouc.edu.cn. 3600 IN A 211.64.143.27
+
+hqht.ouc.edu.cn. 3600 IN A 211.64.142.82
+
+hqjt.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+hqsz.ouc.edu.cn. 3600 IN A 211.64.142.82
+
+hqsz.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3600 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqwx.ouc.edu.cn. 3599 IN A 211.64.142.82
+
+hqxsgy.ouc.edu.cn. 3600 IN A 211.64.142.212
+
+huanjing.ouc.edu.cn. 3600 IN A 222.195.158.131
+
+hyfzyjy.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+hyfzyjy.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+iaos.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+ibs.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+ibs.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+id.ouc.edu.cn. 275 IN A 222.195.158.177
+
+id.ouc.edu.cn. 274 IN A 222.195.158.177
+
+id.ouc.edu.cn. 274 IN A 222.195.158.177
+
+id.ouc.edu.cn. 274 IN A 222.195.158.177
+
+id.ouc.edu.cn. 274 IN A 222.195.158.177
+
+id.ouc.edu.cn. 274 IN A 222.195.158.177
+
+id.ouc.edu.cn. 274 IN A 222.195.158.177
+
+idp.ouc.edu.cn. 3600 IN A 211.64.142.113
+
+idp.ouc.edu.cn. 3599 IN A 211.64.142.113
+
+idp.ouc.edu.cn. 3599 IN A 211.64.142.113
+
+ids.ouc.edu.cn. 3600 IN A 222.195.158.182
+
+ids.ouc.edu.cn. 3599 IN A 222.195.158.182
+
+ids.ouc.edu.cn. 3599 IN A 222.195.158.182
+
+ids1.ouc.edu.cn. 3600 IN A 222.195.158.183
+
+ids1.ouc.edu.cn. 3599 IN A 222.195.158.183
+
+ids1.ouc.edu.cn. 3599 IN A 222.195.158.183
+
+iec.ouc.edu.cn. 3600 IN A 222.195.158.142
+
+iemb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+iemb.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+ihcil.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+imap.ouc.edu.cn. 3600 IN CNAME mail.ouc.edu.cn.
+mail.ouc.edu.cn. 1381 IN A 222.195.158.137
+
+innovation.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+intl.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+intl.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+intl.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+it.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+jgdw.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jjc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jjh.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jjh.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+jw.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jwc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jwc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+jwgl.ouc.edu.cn. 3600 IN A 222.195.158.207
+
+jwgl.ouc.edu.cn. 3599 IN A 222.195.158.207
+
+jwgl2.ouc.edu.cn. 3600 IN A 222.195.158.208
+
+jwgl2.ouc.edu.cn. 3599 IN A 222.195.158.208
+
+jxfz.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jxjy.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+jxjy.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+jxpj.ouc.edu.cn. 3600 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+jxpj.ouc.edu.cn. 3599 IN A 211.64.143.4
+
+kg.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+kg.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+klmd.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+klmee.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+law.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+law.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+lg24h.ouc.edu.cn. 3600 IN A 211.64.142.82
+
+library.ouc.edu.cn. 3600 IN A 222.195.226.77
+
+library.ouc.edu.cn. 3599 IN A 222.195.226.77
+
+lixiao.ouc.edu.cn. 3600 IN A 222.195.158.184
+
+lixiao.ouc.edu.cn. 3599 IN A 222.195.158.184
+
+lixiao.ouc.edu.cn. 3599 IN A 222.195.158.184
+
+lixiao.ouc.edu.cn. 3599 IN A 222.195.158.184
+
+ltxgzc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+m.ouc.edu.cn. 3600 IN A 211.64.142.86
+
+m.ouc.edu.cn. 3599 IN A 211.64.142.86
+
+mail.ouc.edu.cn. 1380 IN A 222.195.158.137
+
+mail.ouc.edu.cn. 1379 IN A 222.195.158.137
+
+mail.ouc.edu.cn. 1379 IN A 222.195.158.137
+
+mail.ouc.edu.cn. 1379 IN A 222.195.158.137
+
+marxism.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+math.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+math.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+mctl.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+mctl.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+mgb.ouc.edu.cn. 3600 IN A 222.195.158.195
+
+mgb.ouc.edu.cn. 3599 IN A 222.195.158.195
+
+mgb.ouc.edu.cn. 3599 IN A 222.195.158.195
+
+mgb.ouc.edu.cn. 3599 IN A 222.195.158.195
+
+mob.ouc.edu.cn. 3600 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mob.ouc.edu.cn. 3599 IN A 211.64.142.25
+
+mobile.ouc.edu.cn. 3600 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mobile.ouc.edu.cn. 3599 IN A 211.64.142.26
+
+mse.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+mse.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+my.ouc.edu.cn. 60 IN A 222.195.158.178
+
+my.ouc.edu.cn. 59 IN A 222.195.158.178
+
+net.ouc.edu.cn. 3600 IN A 222.195.158.36
+
+news.ouc.edu.cn. 3600 IN A 211.64.143.81
+
+news.ouc.edu.cn. 3599 IN A 211.64.143.81
+
+newsvideo.ouc.edu.cn. 3600 IN A 222.195.158.236
+
+newsvideo.ouc.edu.cn. 3599 IN A 222.195.158.236
+
+newsvideo.ouc.edu.cn. 3599 IN A 222.195.158.236
+
+newsvideo.ouc.edu.cn. 3599 IN A 222.195.158.236
+
+nic.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+nic.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+ore.ouc.edu.cn. 3600 IN A 211.64.142.213
+
+orsi.ouc.edu.cn. 3600 IN A 211.64.133.112
+
+osn.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+osn.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+ouc-bt.ouc.edu.cn. 3600 IN A 222.195.158.143
+
+hcpad.pan.ouc.edu.cn. 3600 IN A 211.64.142.48
+
+yun.pan.ouc.edu.cn. 3600 IN A 211.64.142.47
+yun.pan.ouc.edu.cn. 3600 IN A 211.64.142.46
+
+pay.ouc.edu.cn. 3600 IN A 222.195.158.72
+
+pgb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+pol.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+pub.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+pub.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+rsc.ouc.edu.cn. 788 IN A 211.64.142.154
+
+rsc.ouc.edu.cn. 787 IN A 211.64.142.154
+
+rx2600a.ouc.edu.cn. 3600 IN A 222.195.158.131
+
+rx2600a.ouc.edu.cn. 3599 IN A 222.195.158.131
+
+bk1.yunpan.s3.ouc.edu.cn. 3600 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+bk1.yunpan.s3.ouc.edu.cn. 3599 IN A 211.64.143.73
+
+scsy.ouc.edu.cn. 3600 IN A 211.64.142.235
+
+scxy.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+security.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+security.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+shipinxueyuan.ouc.edu.cn. 0 IN A 220.250.64.225
+
+shpg.ouc.edu.cn. 3600 IN A 211.64.143.47
+
+siapa.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+sie.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+sie.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+sjc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+sjjx.ouc.edu.cn. 3600 IN A 222.195.158.212
+
+sjjx.ouc.edu.cn. 3599 IN A 222.195.158.212
+
+smp.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+smp.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+spjx.ouc.edu.cn. 3600 IN A 211.64.142.233
+
+srdp.ouc.edu.cn. 3600 IN A 222.195.158.220
+
+srdp.ouc.edu.cn. 3599 IN A 222.195.158.220
+
+srdp.ouc.edu.cn. 3599 IN A 222.195.158.220
+
+www.station.ouc.edu.cn. 3600 IN A 222.195.158.202
+
+www.station.ouc.edu.cn. 3599 IN A 222.195.158.202
+
+www.station.ouc.edu.cn. 3599 IN A 222.195.158.202
+
+stu.ouc.edu.cn. 3600 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+admin.stu.ouc.edu.cn. 0 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn. 60 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn<BR>mail.stu.ouc.edu.cn<BR>stu.ouc.edu.cn<BR>web.stu.ouc.edu.cn<BR>www.stu.ouc.edu.cn. 0 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn<BR>mail.stu.ouc.edu.cn<BR>stu.ouc.edu.cn<BR>web.stu.ouc.edu.cn<BR>www.stu.ouc.edu.cn. 60 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn<BR>mail.stu.ouc.edu.cn<BR>stu.ouc.edu.cn<BR>web.stu.ouc.edu.cn<BR>www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn<BR>mail.stu.ouc.edu.cn<BR>stu.ouc.edu.cn<BR>web.stu.ouc.edu.cn<BR>www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+admin.stu.ouc.edu.cn<BR>mail.stu.ouc.edu.cn<BR>stu.ouc.edu.cn<BR>web.stu.ouc.edu.cn<BR>www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+app.ouc.edu.cnadmin.stu.ouc.edu.cn. 0 IN A 220.250.64.225
+
+wlkc.ouc.edu.cn<BR>www.wlkc.ouc.edu.cnadmin.stu.ouc.edu.cn. 0 IN A 220.250.64.225
+
+mail.stu.ouc.edu.cn. 3600 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+mail.stu.ouc.edu.cn. 3599 IN A 222.195.158.140
+
+web.stu.ouc.edu.cn. 0 IN A 220.250.64.225
+
+web.stu.ouc.edu.cn. 60 IN A 220.250.64.225
+
+web.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+web.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+web.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+web.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+web.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 0 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 60 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.stu.ouc.edu.cn. 59 IN A 220.250.64.225
+
+szjx.ouc.edu.cn. 3600 IN A 222.195.158.247
+
+szjx.ouc.edu.cn. 3599 IN A 222.195.158.247
+
+szkc.ouc.edu.cn. 3600 IN A 222.195.158.216
+
+szkc.ouc.edu.cn. 3599 IN A 222.195.158.216
+
+szkc.ouc.edu.cn. 3599 IN A 222.195.158.216
+
+tcfc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+tcfc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+tzb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+urp.ouc.edu.cn. 3600 IN A 222.195.158.178
+
+urp.ouc.edu.cn. 3599 IN A 222.195.158.178
+
+uv.ouc.edu.cn. 3600 IN A 211.64.142.66
+
+vcard.ouc.edu.cn. 3600 IN A 222.195.158.40
+
+vcard.ouc.edu.cn. 3599 IN A 222.195.158.40
+
+vcard.ouc.edu.cn. 3599 IN A 222.195.158.40
+
+mail.vip.ouc.edu.cn. 3600 IN A 211.64.142.33
+
+mail.vip.ouc.edu.cn. 3599 IN A 211.64.142.33
+
+vision.ouc.edu.cn. 3600 IN A 211.64.142.66
+
+vision.ouc.edu.cn. 3599 IN A 211.64.142.66
+
+vpn2.ouc.edu.cn. 3600 IN A 222.195.158.186
+
+vpn2.ouc.edu.cn. 3599 IN A 222.195.158.186
+
+vpn2.ouc.edu.cn. 3599 IN A 222.195.158.186
+
+web.ouc.edu.cn. 0 IN A 220.250.64.225
+
+web1.ouc.edu.cn. 3600 IN A 10.128.8.36
+
+web1.ouc.edu.cn. 3599 IN A 10.128.8.36
+
+welcome.ouc.edu.cn. 3600 IN A 211.64.142.141
+
+windowsupdate.ouc.edu.cn. 3600 IN A 222.195.158.145
+
+windowsupdate.ouc.edu.cn. 3599 IN A 222.195.158.145
+
+windowsupdate.ouc.edu.cn. 3599 IN A 222.195.158.145
+
+wkc.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+wkc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+wkc.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+wlaq.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+wlaq.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+wlaq.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+wljf.ouc.edu.cn. 3600 IN A 222.195.158.36
+
+wljf.ouc.edu.cn. 3599 IN A 222.195.158.36
+
+wlkc.ouc.edu.cn. 7200 IN A 211.64.143.91
+wlkc.ouc.edu.cn. 7200 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7200 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7200 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7200 IN A 211.64.143.95
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.95
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.96
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.97
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.94
+wlkc.ouc.edu.cn. 7199 IN A 211.64.143.91
+
+wlkc.ouc.edu.cn<BR>www.wlkc.ouc.edu.cn. 0 IN A 220.250.64.225
+
+wlkc.ouc.edu.cn<BR>www.wlkc.ouc.edu.cn. 60 IN A 220.250.64.225
+
+wlkc.ouc.edu.cn<BR>www.wlkc.ouc.edu.cn. 59 IN A 220.250.64.225
+
+www.ouc.edu.cn. 389 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www.ouc.edu.cn. 388 IN A 211.64.142.153
+
+www2.ouc.edu.cn. 60 IN A 222.195.158.142
+
+www2.ouc.edu.cn. 59 IN A 222.195.158.142
+
+www3.ouc.edu.cn. 3600 IN A 222.195.158.143
+
+www3.ouc.edu.cn. 3599 IN A 222.195.158.143
+
+www3.ouc.edu.cn. 3599 IN A 222.195.158.143
+
+www3.ouc.edu.cn. 3599 IN A 222.195.158.143
+
+wzb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+wzb.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+xgzx.ouc.edu.cn. 3600 IN A 211.64.142.207
+
+xgzx.ouc.edu.cn. 3599 IN A 211.64.142.207
+
+xhaxq.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+xiaoyouhui.ouc.edu.cn. 3600 IN A 211.64.142.122
+
+xiaoyouhui.ouc.edu.cn. 3599 IN A 211.64.142.122
+
+xinwen.ouc.edu.cn. 60 IN A 222.195.158.237
+
+xinwen.ouc.edu.cn. 59 IN A 222.195.158.237
+
+xinwen.ouc.edu.cn. 59 IN A 222.195.158.237
+
+xinwen.ouc.edu.cn. 59 IN A 222.195.158.237
+
+xlzx.ouc.edu.cn. 60 IN A 211.64.142.154
+
+xlzx.ouc.edu.cn. 59 IN A 211.64.142.154
+
+xqhw.ouc.edu.cn. 3600 IN A 211.64.149.77
+
+xsgz.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+xsgz.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+xuebao.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+xuebao.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+xysy.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+xysy.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+ygb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+ygb.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+ygb.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+yingxin.ouc.edu.cn. 3600 IN A 211.64.142.141
+
+yingxin.ouc.edu.cn. 3599 IN A 211.64.142.141
+
+yjh.ouc.edu.cn. 3600 IN A 222.195.158.142
+
+yjh.ouc.edu.cn. 3599 IN A 222.195.158.142
+
+yjswljx.ouc.edu.cn. 3600 IN A 222.195.158.135
+
+yjswljx.ouc.edu.cn. 3599 IN A 222.195.158.135
+
+yjswljx.ouc.edu.cn. 3599 IN A 222.195.158.135
+
+youth.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+yunpan.ouc.edu.cn. 3600 IN A 211.64.142.48
+
+yunpan.ouc.edu.cn. 3599 IN A 211.64.142.48
+
+yz.ouc.edu.cn. 2401 IN A 211.64.142.154
+
+yz.ouc.edu.cn. 2400 IN A 211.64.142.154
+
+zb.ouc.edu.cn. 3600 IN A 211.64.142.249
+
+zb.ouc.edu.cn. 3599 IN A 211.64.142.249
+
+zcgl.ouc.edu.cn. 3600 IN A 211.64.142.251
+
+zizhu.ouc.edu.cn. 3600 IN A 222.195.158.240
+
+zizhu.ouc.edu.cn. 3599 IN A 222.195.158.240
+
+zysfxy.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+zzb.ouc.edu.cn. 3600 IN A 211.64.142.154
+
+zzb.ouc.edu.cn. 3599 IN A 211.64.142.154
+
+zzb.ouc.edu.cn. 3599 IN A 211.64.142.154
+

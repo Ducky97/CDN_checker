@@ -1,0 +1,43 @@
+{
+    "http": {
+        "header": {
+            "Cache-Control": "public",
+            "Content-Type": "text/html; charset=utf-8",
+            "Content-Encoding": "gzip",
+            "Expires": "Wed, 16 Sep 2020 11:03:23 GMT",
+            "Server": "Microsoft-IIS/10.0",
+            "X-Powered-By": "ASP.NET, ARR/3.0, ASP.NET",
+            "Date": "Wed, 16 Sep 2020 11:03:11 GMT",
+            "Content-Length": "88695"
+        },
+        "nslookup": {
+            "tsetmc.com": [
+                "185.117.204.245",
+                "185.117.206.245",
+                "212.33.195.203",
+                "94.182.184.226",
+                "91.99.96.232",
+                "79.175.151.173",
+                "185.13.228.35",
+                "185.117.205.245"
+            ]
+        },
+        "ping": {
+            "tsetmc.com": [
+                "91.99.96.232",
+                "185.117.205.245",
+                "185.13.228.35",
+                "212.33.195.203",
+                "94.182.184.226",
+                "185.117.206.245"
+            ]
+        },
+        "CNAME": {
+            "tsetmc.com": "still a low_level domain_name"
+        },
+        "A": {
+            "tsetmc.com": "still a low_level domain_name"
+        }
+    },
+    "https": null
+}

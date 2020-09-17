@@ -1,0 +1,82 @@
+{
+    "http": {
+        "header": {
+            "Server": "openresty/1.15.8.3",
+            "Date": "Wed, 16 Sep 2020 09:22:34 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "_S=6bgn4sl5kap6c276v2ujbg50v0; expires=Wed, 16-Sep-2020 09:32:34 GMT; Max-Age=600; path=/, QiHooGUID=9961C44C5D7ECF399E8251259BB8C7E3.1600248154411; Max-Age=63072000; Domain=so.com; Path=/",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Pragma": "no-cache"
+        },
+        "nslookup": {
+            "so.com": [
+                "101.198.191.55"
+            ],
+            "www.so.com": [
+                "104.192.110.226"
+            ]
+        },
+        "ping": {
+            "so.com": [
+                "104.192.110.226"
+            ],
+            "www.so.com": [
+                "104.192.110.226"
+            ]
+        },
+        "CNAME": {
+            "www.so.com": [
+                "so.seos-lb.com."
+            ]
+        },
+        "A": {
+            "www.so.com": [
+                "104.192.110.226"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "openresty/1.15.8.3",
+            "Date": "Wed, 16 Sep 2020 09:22:40 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "_S=9mikokkiqe0sk4jk3v973ahc44; expires=Wed, 16-Sep-2020 09:32:39 GMT; Max-Age=600; path=/, QiHooGUID=72DFA0D93BF9870A5FF2BAA23B5CE90C.1600248159645; Max-Age=63072000; Domain=so.com; Path=/",
+            "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+            "Cache-Control": "no-store, no-cache, must-revalidate",
+            "Pragma": "no-cache"
+        },
+        "nslookup": {
+            "so.com": [
+                "101.198.191.55"
+            ],
+            "www.so.com": [
+                "104.192.110.226"
+            ]
+        },
+        "ping": {
+            "so.com": [
+                "104.192.110.226"
+            ],
+            "www.so.com": [
+                "104.192.110.226"
+            ]
+        },
+        "CNAME": {
+            "www.so.com": [
+                "so.seos-lb.com."
+            ]
+        },
+        "A": {
+            "www.so.com": [
+                "104.192.110.226"
+            ]
+        }
+    }
+}

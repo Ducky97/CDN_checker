@@ -1,0 +1,86 @@
+{
+    "http": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 11:02:47 GMT",
+            "content-type": "text/html; charset=utf-8",
+            "content-length": "62441",
+            "vary": "Accept, Accept-Encoding, Accept-Language, x-cache-me, x-forwarded-proto, x-internalip, x-mobile-app, x-ua-device",
+            "cache-control": "public, max-age=1",
+            "accept-ch": "DPR, Width, Viewport-Width",
+            "accept-ch-lifetime": "86400",
+            "feature-policy": "ch-width https://a.allegroimg.com",
+            "content-security-policy": "object-src 'none'; base-uri 'none'; script-src https://cdn.ampproject.org/v0.js https://cdn.ampproject.org/v0/ https://cdn.ampproject.org/viewer/ https://cdn.ampproject.org/rtv/ https://ngastatic.com https://www.googletagmanager.com https://assets.allegrostatic.com https://adservice.google.pl https://adservice.google.com https://securepubads.g.doubleclick.net https://ad.doubleclick.net https://allegro.hit.gemius.pl https://connect.facebook.net https://nebula-cdn.kampyle.com https://www.googletagservices.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://www.youtube.com https://player.vimeo.com https://www.googleadservices.com https://s.ytimg.com https://www.google-analytics.com https://secure.payu.com https://maps.googleapis.com 'nonce-sXNHUg8mYo6gZk2MsiWZ2w==' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' 'report-sample'; block-all-mixed-content; report-uri https://edge.allegro.pl/seclog/csp",
+            "content-encoding": "gzip",
+            "age": "4",
+            "access-control-allow-origin": "https://allegro.pl",
+            "access-control-allow-credentials": "true",
+            "x-content-type-options": "nosniff",
+            "grace": "normal(limited)",
+            "x-xss-protection": "1; report=https://allegro.pl/seclog/xss",
+            "accept-ranges": "bytes",
+            "x-datadome": "protected",
+            "set-cookie": "datadome=Yx64SorRPGoVpk9u9m0ztRi2LBpthS6yPccie.m8QS-hCYVyuVgRNWJ_Ba6kwv-hjJ41Gj9Kr_ji0pgFq-IfAD8f1dZRrBwxoEGDMQdAQp; Max-Age=31536000; Domain=.allegro.pl; Path=/; Secure; SameSite=Lax",
+            "x-frame-options": "SAMEORIGIN",
+            "strict-transport-security": "max-age=15552000"
+        },
+        "nslookup": {
+            "allegro.pl": [
+                "5.134.213.82"
+            ]
+        },
+        "ping": {
+            "allegro.pl": [
+                "185.31.27.161",
+                "5.134.213.82"
+            ]
+        },
+        "CNAME": {
+            "allegro.pl": "still a low_level domain_name"
+        },
+        "A": {
+            "allegro.pl": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "date": "Wed, 16 Sep 2020 11:02:49 GMT",
+            "content-type": "text/html; charset=utf-8",
+            "content-length": "62503",
+            "vary": "Accept, Accept-Encoding, Accept-Language, x-cache-me, x-forwarded-proto, x-internalip, x-mobile-app, x-ua-device",
+            "cache-control": "public, max-age=1",
+            "accept-ch": "DPR, Width, Viewport-Width",
+            "accept-ch-lifetime": "86400",
+            "feature-policy": "ch-width https://a.allegroimg.com",
+            "content-security-policy": "object-src 'none'; base-uri 'none'; script-src https://cdn.ampproject.org/v0.js https://cdn.ampproject.org/v0/ https://cdn.ampproject.org/viewer/ https://cdn.ampproject.org/rtv/ https://ngastatic.com https://www.googletagmanager.com https://assets.allegrostatic.com https://adservice.google.pl https://adservice.google.com https://securepubads.g.doubleclick.net https://ad.doubleclick.net https://allegro.hit.gemius.pl https://connect.facebook.net https://nebula-cdn.kampyle.com https://www.googletagservices.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://www.youtube.com https://player.vimeo.com https://www.googleadservices.com https://s.ytimg.com https://www.google-analytics.com https://secure.payu.com https://maps.googleapis.com 'nonce-RyEeAfOpb0YsNPlRiT9n0w==' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' 'report-sample'; block-all-mixed-content; report-uri https://edge.allegro.pl/seclog/csp",
+            "content-encoding": "gzip",
+            "age": "0",
+            "access-control-allow-origin": "https://allegro.pl",
+            "access-control-allow-credentials": "true",
+            "x-content-type-options": "nosniff",
+            "grace": "none",
+            "x-xss-protection": "1; report=https://allegro.pl/seclog/xss",
+            "accept-ranges": "bytes",
+            "x-datadome": "protected",
+            "set-cookie": "datadome=RYWEYUjiXa6xulN1x0lDcCrSqD1hJD6CzxHvI2C4QT1jwVV8SptEs4ExPic0D~DPI3EOGxDCDiN~OfjZgEBHem50WB6.a4a~TGFPXwnlG6; Max-Age=31536000; Domain=.allegro.pl; Path=/; Secure; SameSite=Lax",
+            "x-frame-options": "SAMEORIGIN",
+            "strict-transport-security": "max-age=15552000"
+        },
+        "nslookup": {
+            "allegro.pl": [
+                "185.31.27.161"
+            ]
+        },
+        "ping": {
+            "allegro.pl": [
+                "185.31.27.161",
+                "5.134.213.82"
+            ]
+        },
+        "CNAME": {
+            "allegro.pl": "still a low_level domain_name"
+        },
+        "A": {
+            "allegro.pl": "still a low_level domain_name"
+        }
+    }
+}

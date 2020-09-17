@@ -1,0 +1,72 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:05:10 GMT",
+            "Content-Type": "application/octet-stream, text/plain",
+            "Content-Length": "8",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "eikegolehem.com": [
+                "139.45.195.94",
+                "139.45.195.38",
+                "139.45.196.14",
+                "139.45.196.108",
+                "139.45.195.150",
+                "139.45.197.193"
+            ]
+        },
+        "ping": {
+            "eikegolehem.com": [
+                "139.45.195.94",
+                "139.45.196.108",
+                "139.45.195.38",
+                "139.45.196.14",
+                "139.45.195.150",
+                "139.45.197.193"
+            ]
+        },
+        "CNAME": {
+            "eikegolehem.com": "still a low_level domain_name"
+        },
+        "A": {
+            "eikegolehem.com": "still a low_level domain_name"
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Date": "Wed, 16 Sep 2020 10:05:11 GMT",
+            "Content-Type": "application/octet-stream, text/plain",
+            "Content-Length": "8",
+            "Connection": "keep-alive"
+        },
+        "nslookup": {
+            "eikegolehem.com": [
+                "139.45.196.108",
+                "139.45.195.94",
+                "139.45.197.193",
+                "139.45.195.150",
+                "139.45.196.14",
+                "139.45.195.38"
+            ]
+        },
+        "ping": {
+            "eikegolehem.com": [
+                "139.45.195.94",
+                "139.45.196.108",
+                "139.45.195.38",
+                "139.45.196.14",
+                "139.45.195.150",
+                "139.45.197.193"
+            ]
+        },
+        "CNAME": {
+            "eikegolehem.com": "still a low_level domain_name"
+        },
+        "A": {
+            "eikegolehem.com": "still a low_level domain_name"
+        }
+    }
+}

@@ -1,0 +1,5024 @@
+sdu.edu.cn. 60 IN A 202.194.14.6
+sdu.edu.cn. 60 IN A 202.194.15.6
+sdu.edu.cn. 60 IN A 211.86.56.247
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+sdu.edu.cn. 59 IN A 211.86.56.247
+sdu.edu.cn. 59 IN A 202.194.15.6
+sdu.edu.cn. 59 IN A 202.194.14.6
+
+abc.sdu.edu.cn. 0 IN A 220.250.64.225
+
+abc.sdu.edu.cn. 30 IN A 220.250.64.225
+
+abc.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.ac.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.adult.sdu.edu.cn. 300 IN CNAME sv6.sdns.wljy.sdu.edu.cn.
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.76
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.6
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.44
+
+aec.sdu.edu.cn. 300 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.aec.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ai.sdu.edu.cn. 300 IN A 202.194.15.159
+
+ai.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ai.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.amri.sdu.edu.cn. 300 IN A 202.194.15.5
+
+apply.sdu.edu.cn. 300 IN A 202.194.7.119
+
+www.apply.sdu.edu.cn. 300 IN CNAME apply.sdu.edu.cn.
+apply.sdu.edu.cn. 299 IN A 202.194.7.119
+
+www.apply.sdu.edu.cn. 299 IN CNAME apply.sdu.edu.cn.
+apply.sdu.edu.cn. 299 IN A 202.194.7.119
+
+www.apply.sdu.edu.cn. 299 IN CNAME apply.sdu.edu.cn.
+apply.sdu.edu.cn. 299 IN A 202.194.7.119
+
+www.apply.sdu.edu.cn. 299 IN CNAME apply.sdu.edu.cn.
+apply.sdu.edu.cn. 299 IN A 202.194.7.119
+
+aqks.sdu.edu.cn. 300 IN A 202.194.14.114
+
+arc.sdu.edu.cn. 300 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.arc.sdu.edu.cn. 300 IN CNAME arc.sdu.edu.cn.
+arc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+NXDOMAIN for archives.sdu.edu.cn
+
+NXDOMAIN for archives.sdu.edu.cn
+
+www.archives.sdu.edu.cn. 300 IN A 202.194.15.78
+
+arrc.sdu.edu.cn. 300 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.arrc.sdu.edu.cn. 300 IN CNAME arrc.sdu.edu.cn.
+arrc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+art.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.art.sdu.edu.cn. 300 IN CNAME art.sdu.edu.cn.
+art.sdu.edu.cn. 299 IN A 202.194.15.5
+
+nrc.artrg.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.nrc.artrg.sdu.edu.cn. 300 IN CNAME nrc.artrg.sdu.edu.cn.
+nrc.artrg.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.atzl.sdu.edu.cn. 300 IN A 202.194.15.78
+
+autodiscover.sdu.edu.cn. 0 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 30 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.sdu.edu.cn. 29 IN A 220.250.64.225
+
+avrvi.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.avrvi.sdu.edu.cn. 300 IN CNAME avrvi.sdu.edu.cn.
+avrvi.sdu.edu.cn. 299 IN A 202.194.15.5
+
+bbs.sdu.edu.cn. 0 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 30 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bbs.sdu.edu.cn. 29 IN A 220.250.64.225
+
+bigdata.sdu.edu.cn. 300 IN A 211.87.224.213
+
+www.bigdata.sdu.edu.cn. 300 IN CNAME bigdata.sdu.edu.cn.
+bigdata.sdu.edu.cn. 299 IN A 211.87.224.213
+
+bioinfo.sdu.edu.cn. 300 IN A 202.194.15.23
+
+www.bioinfo.sdu.edu.cn. 300 IN CNAME bioinfo.sdu.edu.cn.
+bioinfo.sdu.edu.cn. 299 IN A 202.194.15.23
+
+biostat.sdu.edu.cn. 300 IN A 202.194.15.78
+
+bkjws.sdu.edu.cn. 300 IN A 202.194.15.39
+
+bkjwt.sdu.edu.cn. 300 IN A 202.194.15.35
+
+bkjwxk.sdu.edu.cn. 300 IN A 202.194.15.19
+
+bkjx.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.bkjx.sdu.edu.cn. 300 IN CNAME bkjx.sdu.edu.cn.
+bkjx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.bkjx.sdu.edu.cn. 299 IN CNAME bkjx.sdu.edu.cn.
+bkjx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.bkjx.sdu.edu.cn. 299 IN CNAME bkjx.sdu.edu.cn.
+bkjx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.bkjx.sdu.edu.cn. 299 IN CNAME bkjx.sdu.edu.cn.
+bkjx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+bkjx1.sdu.edu.cn. 300 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkjx1.sdu.edu.cn. 299 IN A 202.194.7.156
+
+bkzs.sdu.edu.cn. 300 IN A 202.194.15.109
+
+bkzs.sdu.edu.cn. 299 IN A 202.194.15.109
+
+bkzs.sdu.edu.cn. 299 IN A 202.194.15.109
+
+bkzs.sdu.edu.cn. 299 IN A 202.194.15.109
+
+www.bkzs.sdu.edu.cn. 60 IN A 202.194.7.211
+
+www.bkzssys.sdu.edu.cn. 300 IN A 202.194.15.47
+
+bms.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.bms.sdu.edu.cn. 300 IN CNAME bms.sdu.edu.cn.
+bms.sdu.edu.cn. 299 IN A 202.194.15.78
+
+bmsgrade.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.bmsgrade.sdu.edu.cn. 300 IN CNAME bmsgrade.sdu.edu.cn.
+bmsgrade.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.bmsyjs.sdu.edu.cn. 300 IN A 202.194.15.159
+
+cac2017.sdu.edu.cn. 300 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cac2017.sdu.edu.cn. 299 IN A 202.194.201.24
+
+cah.sdu.edu.cn. 300 IN A 202.194.15.23
+
+www.cah.sdu.edu.cn. 300 IN CNAME cah.sdu.edu.cn.
+cah.sdu.edu.cn. 299 IN A 202.194.15.23
+
+cajet.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.cajet.sdu.edu.cn. 300 IN CNAME cajet.sdu.edu.cn.
+cajet.sdu.edu.cn. 299 IN A 202.194.15.5
+
+card.sdu.edu.cn. 300 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card.sdu.edu.cn. 299 IN A 222.206.1.161
+
+card2.sdu.edu.cn. 300 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+card2.sdu.edu.cn. 299 IN A 222.206.1.213
+
+cas.sdu.edu.cn. 300 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cas.sdu.edu.cn. 299 IN A 202.194.7.237
+
+cbs.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cbs.sdu.edu.cn. 300 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ccc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ccis.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cellneuro.sdu.edu.cn. 300 IN A 202.194.15.78
+
+cer.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.cer.sdu.edu.cn. 60 IN CNAME cer.sdu.edu.cn.
+cer.sdu.edu.cn. 59 IN A 202.194.15.159
+
+cfd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cfms.sdu.edu.cn. 300 IN A 202.194.15.78
+
+cgw.sdu.edu.cn. 300 IN A 202.194.7.24
+
+www.cgw.sdu.edu.cn. 30 IN CNAME cgw.sdu.edu.cn.
+cgw.sdu.edu.cn. 29 IN A 202.194.7.24
+
+www.cgw.sdu.edu.cn. 29 IN CNAME cgw.sdu.edu.cn.
+cgw.sdu.edu.cn. 29 IN A 202.194.7.24
+
+www.cgw.sdu.edu.cn. 29 IN CNAME cgw.sdu.edu.cn.
+cgw.sdu.edu.cn. 29 IN A 202.194.7.24
+
+www.cgw.sdu.edu.cn. 29 IN CNAME cgw.sdu.edu.cn.
+cgw.sdu.edu.cn. 29 IN A 202.194.7.24
+
+www.chem.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.chem.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.chem.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.chem.sdu.edu.cn. 299 IN A 202.194.15.159
+
+chemnew.sdu.edu.cn. 300 IN A 210.44.211.253
+
+www.chemnew.sdu.edu.cn. 300 IN CNAME chemnew.sdu.edu.cn.
+chemnew.sdu.edu.cn. 299 IN A 210.44.211.253
+
+cie.sdu.edu.cn. 300 IN A 202.194.15.78
+
+en.cie.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cie.sdu.edu.cn. 300 IN CNAME cie.sdu.edu.cn.
+cie.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cis.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cjs.sdu.edu.cn. 300 IN A 202.194.15.5
+
+cloud.sdu.edu.cn. 300 IN A 211.87.224.132
+
+club.sdu.edu.cn. 300 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+club.sdu.edu.cn. 299 IN A 202.194.15.159
+
+cmpc.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.cmpc.sdu.edu.cn. 300 IN CNAME cmpc.sdu.edu.cn.
+cmpc.sdu.edu.cn. 298 IN A 202.194.15.5
+
+cmse.sdu.edu.cn. 300 IN A 202.194.15.5
+
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.en.cmse.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.cmse.sdu.edu.cn. 300 IN CNAME cmse.sdu.edu.cn.
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cmse.sdu.edu.cn. 299 IN CNAME cmse.sdu.edu.cn.
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cmse.sdu.edu.cn. 299 IN CNAME cmse.sdu.edu.cn.
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cmse.sdu.edu.cn. 299 IN CNAME cmse.sdu.edu.cn.
+cmse.sdu.edu.cn. 299 IN A 202.194.15.5
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 0 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 30 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+card.sdu.edu.cn<BR>epay.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 0 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 30 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+sdu.edu.cn<BR>www.sdu.edu.cn. 29 IN A 220.250.64.225
+
+hqc.sdu.edu.cnaec.sdu.edu.cn. 0 IN A 220.250.64.225
+
+klcb.sdu.edu.cnarchives.sdu.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cnclub.sdu.edu.cn
+
+sjjyc.lib.sdu.edu.cnflc.sdu.edu.cn. 0 IN A 220.250.64.225
+
+www.media.sdu.edu.cnjzb.sdu.edu.cn. 0 IN A 220.250.64.225
+
+morlab.sdu.edu.cnsdeac.sdu.edu.cn. 0 IN A 220.250.64.225
+
+mpa.sdu.edu.cnsdunetnms.sdu.edu.cn. 0 IN A 220.250.64.225
+
+xuchaoshufa.sdu.edu.cnwebvpn.sdu.edu.cn. 0 IN A 220.250.64.225
+
+cocoon2018.sdu.edu.cn. 300 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cocoon2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+control.sdu.edu.cn. 300 IN A 202.194.15.78
+
+aec.control.sdu.edu.cn. 300 IN CNAME control.sdu.edu.cn.
+control.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.control.sdu.edu.cn. 300 IN CNAME control.sdu.edu.cn.
+control.sdu.edu.cn. 299 IN A 202.194.15.78
+
+course.sdu.edu.cn. 300 IN A 202.194.14.55
+
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+www.course.sdu.edu.cn. 300 IN CNAME course.sdu.edu.cn.
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+www.course.sdu.edu.cn. 299 IN CNAME course.sdu.edu.cn.
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+www.course.sdu.edu.cn. 299 IN CNAME course.sdu.edu.cn.
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+www.course.sdu.edu.cn. 299 IN CNAME course.sdu.edu.cn.
+course.sdu.edu.cn. 299 IN A 202.194.14.55
+
+cpepr.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.cpepr.sdu.edu.cn. 300 IN CNAME cpepr.sdu.edu.cn.
+cpepr.sdu.edu.cn. 299 IN A 202.194.15.5
+
+cper.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cper.sdu.edu.cn. 300 IN CNAME cper.sdu.edu.cn.
+cper.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 300 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+cpm2018.sdu.edu.cn. 299 IN A 202.194.15.78
+
+irc.cs.sdu.edu.cn. 300 IN A 202.194.15.159
+
+irc.cs.sdu.edu.cn. 299 IN A 202.194.15.159
+
+irc.cs.sdu.edu.cn. 299 IN A 202.194.15.159
+
+irc.cs.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.cs.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.cs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.cslab.sdu.edu.cn. 300 IN A 202.194.15.78
+
+csyh.sdu.edu.cn. 300 IN A 202.194.15.78
+
+csyh.sdu.edu.cn. 299 IN A 202.194.15.78
+
+csyh.sdu.edu.cn. 299 IN A 202.194.15.78
+
+csyh.sdu.edu.cn. 299 IN A 202.194.15.78
+
+culture.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.culture.sdu.edu.cn. 300 IN CNAME culture.sdu.edu.cn.
+culture.sdu.edu.cn. 299 IN A 202.194.15.5
+
+cwc.sdu.edu.cn. 300 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+www.cwc.sdu.edu.cn. 300 IN CNAME cwc.sdu.edu.cn.
+cwc.sdu.edu.cn. 299 IN A 202.194.15.152
+
+cybersecurity.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.cyc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+dangxiao.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.dangxiao.sdu.edu.cn. 300 IN CNAME dangxiao.sdu.edu.cn.
+dangxiao.sdu.edu.cn. 299 IN A 202.194.15.5
+
+dbxb.sdu.edu.cn. 300 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dbxb.sdu.edu.cn. 300 IN CNAME dbxb.sdu.edu.cn.
+dbxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+dcd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dcxc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.dent.sdu.edu.cn. 300 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 300 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dplab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+dxsjs.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.dxsjs.sdu.edu.cn. 300 IN CNAME dxsjs.sdu.edu.cn.
+dxsjs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+eceramic.sdu.edu.cn. 300 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.eceramic.sdu.edu.cn. 300 IN CNAME eceramic.sdu.edu.cn.
+eceramic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eco.sdu.edu.cn. 300 IN A 58.194.176.229
+
+www.eco.sdu.edu.cn. 300 IN CNAME eco.sdu.edu.cn.
+eco.sdu.edu.cn. 299 IN A 58.194.176.229
+
+econ.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.econ.sdu.edu.cn. 300 IN CNAME econ.sdu.edu.cn.
+econ.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ee.sdu.edu.cn. 300 IN A 202.194.15.5
+
+djs.ee.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.ee.sdu.edu.cn. 300 IN CNAME ee.sdu.edu.cn.
+ee.sdu.edu.cn. 299 IN A 202.194.15.5
+
+email.sdu.edu.cn. 300 IN A 123.58.178.130
+
+www.emba.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.emba.sdu.edu.cn. 299 IN A 202.194.15.78
+
+en.sdu.edu.cn. 300 IN A 202.194.15.159
+
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.en.sdu.edu.cn. 300 IN CNAME en.sdu.edu.cn.
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.en.sdu.edu.cn. 299 IN CNAME en.sdu.edu.cn.
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.en.sdu.edu.cn. 299 IN CNAME en.sdu.edu.cn.
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.en.sdu.edu.cn. 299 IN CNAME en.sdu.edu.cn.
+en.sdu.edu.cn. 299 IN A 202.194.15.159
+
+eol.sdu.edu.cn. 300 IN A 202.194.15.107
+
+www.eol.sdu.edu.cn. 300 IN CNAME eol.sdu.edu.cn.
+eol.sdu.edu.cn. 299 IN A 202.194.15.107
+
+epay.sdu.edu.cn. 300 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epay.sdu.edu.cn. 299 IN A 222.206.1.162
+
+epe.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.epe.sdu.edu.cn. 300 IN CNAME epe.sdu.edu.cn.
+epe.sdu.edu.cn. 299 IN A 202.194.15.159
+
+erccn.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.erccn.sdu.edu.cn. 300 IN CNAME erccn.sdu.edu.cn.
+erccn.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ercdm.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.europe.sdu.edu.cn. 300 IN CNAME europe.sdu.edu.cn.
+europe.sdu.edu.cn. 299 IN A 211.86.56.203
+
+www.europe.sdu.edu.cn. 299 IN CNAME europe.sdu.edu.cn.
+europe.sdu.edu.cn. 299 IN A 211.86.56.203
+
+www.europe.sdu.edu.cn. 299 IN CNAME europe.sdu.edu.cn.
+europe.sdu.edu.cn. 299 IN A 211.86.56.203
+
+faculty.sdu.edu.cn. 300 IN A 211.86.56.228
+
+faculty.sdu.edu.cn. 299 IN A 211.86.56.228
+
+faculty.sdu.edu.cn. 299 IN A 211.86.56.228
+
+faculty.sdu.edu.cn. 299 IN A 211.86.56.228
+
+www.fdyjd.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.fdyjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+flc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+flc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.flc.sdu.edu.cn. 300 IN CNAME flc.sdu.edu.cn.
+flc.sdu.edu.cn. 298 IN A 202.194.15.159
+
+www.fwsd.sdu.edu.cn. 300 IN CNAME fwsd.sdu.edu.cn.
+fwsd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+fzgh.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.fzgh.sdu.edu.cn. 300 IN CNAME fzgh.sdu.edu.cn.
+fzgh.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 300 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.gac.sdu.edu.cn. 300 IN CNAME gac.sdu.edu.cn.
+gac.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.genetics.sdu.edu.cn. 300 IN A 202.194.15.78
+
+geo.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.geo.sdu.edu.cn. 300 IN CNAME geo.sdu.edu.cn.
+geo.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gj.sdu.edu.cn. 300 IN A 202.194.15.78
+
+glxy.sdu.edu.cn. 300 IN A 219.218.118.135
+
+bk.glxy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+english.glxy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+glzx.glxy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+jxjy.glxy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+labcenter.glxy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.glxy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+yjs.glxy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+zzjy.glxy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+zzjy.glxy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zzjy.glxy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zzjy.glxy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+glycoeng.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.glycoeng.sdu.edu.cn. 300 IN CNAME glycoeng.sdu.edu.cn.
+glycoeng.sdu.edu.cn. 299 IN A 202.194.15.5
+
+gonghui.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.gonghui.sdu.edu.cn. 300 IN CNAME gonghui.sdu.edu.cn.
+gonghui.sdu.edu.cn. 299 IN A 202.194.15.5
+
+grad.sdu.edu.cn. 300 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+grad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.grad.sdu.edu.cn. 60 IN CNAME grad.sdu.edu.cn.
+grad.sdu.edu.cn. 59 IN A 202.194.15.78
+
+www.grad.sdu.edu.cn. 59 IN CNAME grad.sdu.edu.cn.
+grad.sdu.edu.cn. 59 IN A 202.194.15.78
+
+www.grad.sdu.edu.cn. 59 IN CNAME grad.sdu.edu.cn.
+grad.sdu.edu.cn. 59 IN A 202.194.15.78
+
+www.grad.sdu.edu.cn. 59 IN CNAME grad.sdu.edu.cn.
+grad.sdu.edu.cn. 59 IN A 202.194.15.78
+
+gradms.sdu.edu.cn. 300 IN A 202.194.15.183
+
+www.gradms.sdu.edu.cn. 300 IN A 202.194.15.183
+
+gsp.sdu.edu.cn. 300 IN A 202.194.15.176
+
+www.gsp.sdu.edu.cn. 300 IN A 202.194.15.78
+
+gu.sdu.edu.cn. 300 IN A 202.194.15.5
+
+gxzx.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.gxzx.sdu.edu.cn. 300 IN CNAME gxzx.sdu.edu.cn.
+gxzx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hecmm.sdu.edu.cn. 300 IN A 202.194.15.78
+
+hepg.sdu.edu.cn. 1800 IN A 101.76.228.124
+
+hepg.sdu.edu.cn. 1799 IN A 101.76.228.124
+
+hepg.sdu.edu.cn. 1799 IN A 101.76.228.124
+
+hepg.sdu.edu.cn. 1799 IN A 101.76.228.124
+
+web.hepg.sdu.edu.cn. 1800 IN A 101.76.228.124
+
+wiki.hepg.sdu.edu.cn. 1800 IN CNAME web.hepg.sdu.edu.cn.
+web.hepg.sdu.edu.cn. 1799 IN A 101.76.228.124
+
+hglx.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.hglx.sdu.edu.cn. 300 IN CNAME hglx.sdu.edu.cn.
+hglx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+history.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.history.sdu.edu.cn. 300 IN CNAME history.sdu.edu.cn.
+history.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.history.sdu.edu.cn. 299 IN CNAME history.sdu.edu.cn.
+history.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.history.sdu.edu.cn. 299 IN CNAME history.sdu.edu.cn.
+history.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.history.sdu.edu.cn. 299 IN CNAME history.sdu.edu.cn.
+history.sdu.edu.cn. 299 IN A 202.194.15.5
+
+hj.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.hj.sdu.edu.cn. 300 IN CNAME hj.sdu.edu.cn.
+hj.sdu.edu.cn. 299 IN A 202.194.15.5
+
+hqc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.hqc.sdu.edu.cn. 300 IN CNAME hqc.sdu.edu.cn.
+hqc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+huanke.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.huanke.sdu.edu.cn. 300 IN CNAME huanke.sdu.edu.cn.
+huanke.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.huanke.sdu.edu.cn. 299 IN CNAME huanke.sdu.edu.cn.
+huanke.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.huanke.sdu.edu.cn. 299 IN CNAME huanke.sdu.edu.cn.
+huanke.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.huanke.sdu.edu.cn. 299 IN CNAME huanke.sdu.edu.cn.
+huanke.sdu.edu.cn. 299 IN A 202.194.15.78
+
+huankeen.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.hv.sdu.edu.cn. 300 IN A 202.194.15.159
+
+iaps.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.iaps.sdu.edu.cn. 300 IN CNAME iaps.sdu.edu.cn.
+iaps.sdu.edu.cn. 299 IN A 202.194.15.5
+
+icic.sdu.edu.cn. 300 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.icic.sdu.edu.cn. 300 IN CNAME icic.sdu.edu.cn.
+icic.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.icm.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.icon.sdu.edu.cn. 300 IN A 202.194.15.5
+
+idclab.sdu.edu.cn. 300 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.idclab.sdu.edu.cn. 300 IN CNAME idclab.sdu.edu.cn.
+idclab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.iic.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.imj.sdu.edu.cn. 300 IN A 202.194.15.78
+
+immuno.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.immuno.sdu.edu.cn. 300 IN CNAME immuno.sdu.edu.cn.
+immuno.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ims.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.ims.sdu.edu.cn. 300 IN CNAME ims.sdu.edu.cn.
+ims.sdu.edu.cn. 299 IN A 202.194.15.5
+
+imst.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.imst.sdu.edu.cn. 300 IN CNAME imst.sdu.edu.cn.
+imst.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.info.sdu.edu.cn. 300 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 300 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.infosec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+intergrad.sdu.edu.cn. 300 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+intergrad.sdu.edu.cn. 299 IN A 202.194.15.118
+
+www.iog.sdu.edu.cn. 300 IN A 202.194.15.78
+
+ipo.sdu.edu.cn. 300 IN A 202.194.15.152
+
+www.ipo.sdu.edu.cn. 300 IN CNAME ipo.sdu.edu.cn.
+ipo.sdu.edu.cn. 299 IN A 202.194.15.152
+
+www.ipo.sdu.edu.cn. 299 IN CNAME ipo.sdu.edu.cn.
+ipo.sdu.edu.cn. 299 IN A 202.194.15.152
+
+www.ipo.sdu.edu.cn. 299 IN CNAME ipo.sdu.edu.cn.
+ipo.sdu.edu.cn. 299 IN A 202.194.15.152
+
+www.ipo.sdu.edu.cn. 299 IN CNAME ipo.sdu.edu.cn.
+ipo.sdu.edu.cn. 299 IN A 202.194.15.152
+
+ipv6.sdu.edu.cn. 300 IN A 202.194.7.6
+
+ir.sdu.edu.cn. 300 IN A 202.194.15.159
+
+ise.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.ise.sdu.edu.cn. 300 IN A 202.194.15.78
+
+istudy.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.istudy.sdu.edu.cn. 300 IN CNAME istudy.sdu.edu.cn.
+istudy.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.istudy.sdu.edu.cn. 299 IN CNAME istudy.sdu.edu.cn.
+istudy.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.istudy.sdu.edu.cn. 299 IN CNAME istudy.sdu.edu.cn.
+istudy.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.istudy.sdu.edu.cn. 299 IN CNAME istudy.sdu.edu.cn.
+istudy.sdu.edu.cn. 299 IN A 202.194.15.5
+
+iv.sdu.edu.cn. 300 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+iv.sdu.edu.cn. 299 IN A 202.194.7.90
+
+rwc.iv.sdu.edu.cn. 300 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwc.iv.sdu.edu.cn. 299 IN A 202.194.7.94
+
+rwg.iv.sdu.edu.cn. 300 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+rwg.iv.sdu.edu.cn. 299 IN A 202.194.7.95
+
+jc.sdu.edu.cn. 300 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.jc.sdu.edu.cn. 300 IN CNAME jc.sdu.edu.cn.
+jc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jcyxybks.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.jcyxybks.sdu.edu.cn. 300 IN CNAME jcyxybks.sdu.edu.cn.
+jcyxybks.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.jgb.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jgb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.jichu.sdu.edu.cn. 60 IN A 202.194.15.89
+
+jj.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.jj.sdu.edu.cn. 300 IN CNAME jj.sdu.edu.cn.
+jj.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jjh.sdu.edu.cn. 300 IN A 202.194.7.220
+
+www.jjh.sdu.edu.cn. 300 IN CNAME jjh.sdu.edu.cn.
+jjh.sdu.edu.cn. 299 IN A 202.194.7.220
+
+jjsh.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.jmrh.sdu.edu.cn. 300 IN A 202.194.15.152
+
+job.sdu.edu.cn. 300 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+job.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.job.sdu.edu.cn. 247 IN CNAME job.sdu.edu.cn.
+job.sdu.edu.cn. 246 IN A 202.194.15.78
+
+www.job.sdu.edu.cn. 246 IN CNAME job.sdu.edu.cn.
+job.sdu.edu.cn. 246 IN A 202.194.15.78
+
+www.job.sdu.edu.cn. 246 IN CNAME job.sdu.edu.cn.
+job.sdu.edu.cn. 246 IN A 202.194.15.78
+
+www.job.sdu.edu.cn. 246 IN CNAME job.sdu.edu.cn.
+job.sdu.edu.cn. 246 IN A 202.194.15.78
+
+jobcareer.sdu.edu.cn. 246 IN A 211.86.56.142
+
+www.journal.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.jsaq.sdu.edu.cn. 300 IN A 202.194.15.159
+
+jzb.sdu.edu.cn. 300 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.jzb.sdu.edu.cn. 300 IN CNAME jzb.sdu.edu.cn.
+jzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+NXDOMAIN for klcb.sdu.edu.cn
+
+krics.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.krics.sdu.edu.cn. 300 IN CNAME krics.sdu.edu.cn.
+krics.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.krilta.sdu.edu.cn. 299 IN A 202.194.15.78
+
+kzxy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.laser.sdu.edu.cn. 300 IN A 202.194.15.78
+
+law.sdu.edu.cn. 300 IN A 202.194.15.78
+
+law.sdu.edu.cn. 299 IN A 202.194.15.78
+
+law.sdu.edu.cn. 299 IN A 202.194.15.78
+
+law.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.law.sdu.edu.cn. 300 IN A 202.194.15.78
+
+lcyxtszy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.lcyxtszy.sdu.edu.cn. 300 IN CNAME lcyxtszy.sdu.edu.cn.
+lcyxtszy.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.lhjy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.lhp.sdu.edu.cn. 300 IN A 202.194.15.78
+
+alpha.lib.sdu.edu.cn. 3600 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+alpha.lib.sdu.edu.cn. 3599 IN A 58.194.172.66
+
+www.cashl.lib.sdu.edu.cn. 3600 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.cashl.lib.sdu.edu.cn. 3599 IN A 202.194.15.78
+
+www.dw.lib.sdu.edu.cn. 3600 IN A 202.194.15.5
+
+en.lib.sdu.edu.cn. 3600 IN A 58.194.172.140
+
+guide.lib.sdu.edu.cn. 3600 IN A 58.194.172.3
+
+idp.lib.sdu.edu.cn. 3600 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+idp.lib.sdu.edu.cn. 3599 IN A 58.194.172.87
+
+ir.lib.sdu.edu.cn. 3600 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+ir.lib.sdu.edu.cn. 3599 IN A 58.194.172.42
+
+m.lib.sdu.edu.cn. 3600 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+5read.aichaoxing.com. 9 IN A 42.62.107.226
+5read.aichaoxing.com. 9 IN A 140.210.72.6
+5read.aichaoxing.com. 9 IN A 42.62.107.229
+
+opac.lib.sdu.edu.cn. 3600 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+opac.lib.sdu.edu.cn. 3599 IN A 58.194.172.34
+
+seat.lib.sdu.edu.cn. 3600 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+seat.lib.sdu.edu.cn. 3599 IN A 58.194.172.92
+
+sjjyc.lib.sdu.edu.cn. 3600 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+sjjyc.lib.sdu.edu.cn. 3599 IN A 58.194.172.30
+
+www.tgw.lib.sdu.edu.cn. 3600 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.tgw.lib.sdu.edu.cn. 3599 IN A 202.194.15.5
+
+www.lib.sdu.edu.cn. 97 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+www.lib.sdu.edu.cn. 96 IN A 58.194.172.14
+
+lifesci.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.lifesci.sdu.edu.cn. 300 IN CNAME lifesci.sdu.edu.cn.
+lifesci.sdu.edu.cn. 299 IN A 202.194.15.5
+
+lit.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.lit.sdu.edu.cn. 300 IN A 202.194.15.159
+
+lmct.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.lmct.sdu.edu.cn. 300 IN CNAME lmct.sdu.edu.cn.
+lmct.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ltxc.sdu.edu.cn. 300 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.ltxc.sdu.edu.cn. 300 IN CNAME ltxc.sdu.edu.cn.
+ltxc.sdu.edu.cn. 299 IN A 202.194.15.5
+
+lxjsy.sdu.edu.cn. 0 IN A 220.250.64.225
+
+lxjsy.sdu.edu.cn. 30 IN A 220.250.64.225
+
+lxjsy.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.lxjsy.sdu.edu.cn. 0 IN A 220.250.64.225
+
+www.lxjsy.sdu.edu.cn. 30 IN A 220.250.64.225
+
+www.lxjsy.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.sdu.edu.cn. 30 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+mail.sdu.edu.cn. 29 IN A 123.58.178.129
+
+sdms.math.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.math.sdu.edu.cn. 300 IN A 202.194.15.5
+
+mathfinance.sdu.edu.cn. 300 IN A 202.194.15.159
+
+maths.sdu.edu.cn. 300 IN A 58.194.179.1
+
+www.maths.sdu.edu.cn. 300 IN CNAME maths.sdu.edu.cn.
+maths.sdu.edu.cn. 299 IN A 58.194.179.1
+
+mba.sdu.edu.cn. 300 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+pxjd.sdu.edu.cnen.mba.sdu.edu.cn. 0 IN A 220.250.64.225
+
+en.mba.sdu.edu.cn. 300 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+en.mba.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.mba.sdu.edu.cn. 300 IN CNAME mba.sdu.edu.cn.
+mba.sdu.edu.cn. 298 IN A 202.194.15.159
+
+www.mba.sdu.edu.cn. 299 IN CNAME mba.sdu.edu.cn.
+mba.sdu.edu.cn. 298 IN A 202.194.15.159
+
+www.mba.sdu.edu.cn. 299 IN CNAME mba.sdu.edu.cn.
+mba.sdu.edu.cn. 298 IN A 202.194.15.159
+
+www.mba.sdu.edu.cn. 299 IN CNAME mba.sdu.edu.cn.
+mba.sdu.edu.cn. 298 IN A 202.194.15.159
+
+mbbs.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.mbbs.sdu.edu.cn. 300 IN CNAME mbbs.sdu.edu.cn.
+mbbs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.mbbs.sdu.edu.cn. 299 IN CNAME mbbs.sdu.edu.cn.
+mbbs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.mbbs.sdu.edu.cn. 299 IN CNAME mbbs.sdu.edu.cn.
+mbbs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.mbbs.sdu.edu.cn. 299 IN CNAME mbbs.sdu.edu.cn.
+mbbs.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mbtech.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.mbtech.sdu.edu.cn. 300 IN CNAME mbtech.sdu.edu.cn.
+mbtech.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.mbtech.sdu.edu.cn. 299 IN CNAME mbtech.sdu.edu.cn.
+mbtech.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.me.sdu.edu.cn. 300 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 300 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.mec.sdu.edu.cn. 300 IN CNAME mec.sdu.edu.cn.
+mec.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mech.sdu.edu.cn. 300 IN A 202.194.15.5
+
+mech.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mech.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mech.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.mech.sdu.edu.cn. 300 IN CNAME mech.sdu.edu.cn.
+mech.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mededu.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.mededu.sdu.edu.cn. 300 IN CNAME mededu.sdu.edu.cn.
+mededu.sdu.edu.cn. 299 IN A 202.194.15.5
+
+NXDOMAIN for media.sdu.edu.cn
+
+NXDOMAIN for media.sdu.edu.cn
+
+NXDOMAIN for media.sdu.edu.cn
+
+NXDOMAIN for media.sdu.edu.cn
+
+www.media.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.media.sdu.edu.cn. 299 IN A 202.194.15.78
+
+NXDOMAIN for medicine.sdu.edu.cn
+
+NXDOMAIN for medicine.sdu.edu.cn
+
+NXDOMAIN for medicine.sdu.edu.cn
+
+www.medicine.sdu.edu.cn. 300 IN A 202.194.15.78
+
+mele.sdu.edu.cn. 300 IN A 202.194.15.159
+
+mima.sdu.edu.cn. 300 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mima.sdu.edu.cn. 299 IN A 202.194.15.78
+
+mirror.sdu.edu.cn. 0 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 30 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mirror.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.mis.sdu.edu.cn. 300 IN A 202.194.15.159
+
+mla.sdu.edu.cn. 300 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mla.sdu.edu.cn. 299 IN A 202.194.15.5
+
+mlb.sdu.edu.cn. 300 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mlb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.mlb.sdu.edu.cn. 300 IN CNAME mlb.sdu.edu.cn.
+mlb.sdu.edu.cn. 298 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 300 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.morlab.sdu.edu.cn. 300 IN CNAME morlab.sdu.edu.cn.
+morlab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 300 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ais.mpa.sdu.edu.cn. 300 IN A 202.194.15.211
+
+www.mpa.sdu.edu.cn. 300 IN CNAME mpa.sdu.edu.cn.
+mpa.sdu.edu.cn. 299 IN A 202.194.15.159
+
+mpe.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.mpe.sdu.edu.cn. 300 IN CNAME mpe.sdu.edu.cn.
+mpe.sdu.edu.cn. 299 IN A 202.194.15.159
+
+museum.sdu.edu.cn. 300 IN A 202.194.15.78
+
+mvl.sdu.edu.cn. 300 IN A 1.51.216.56
+
+nc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nccm.sdu.edu.cn. 300 IN A 202.194.15.5
+
+nccm.sdu.edu.cn. 299 IN A 202.194.15.5
+
+nccm.sdu.edu.cn. 299 IN A 202.194.15.5
+
+nccm.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.nccm.sdu.edu.cn. 300 IN CNAME nccm.sdu.edu.cn.
+nccm.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ndbc2019.sdu.edu.cn. 300 IN A 202.194.15.78
+
+ndbc2019.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ndbc2019.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ndbc2019.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nelect.sdu.edu.cn. 300 IN A 202.194.15.78
+
+netstu.sdu.edu.cn. 300 IN A 211.86.56.190
+
+www.netstu.sdu.edu.cn. 300 IN CNAME netstu.sdu.edu.cn.
+netstu.sdu.edu.cn. 299 IN A 211.86.56.190
+
+njournal.sdu.edu.cn. 79 IN A 202.194.15.78
+
+ebhyxbwk.njournal.sdu.edu.cn. 300 IN A 202.194.7.198
+
+gxbwk.njournal.sdu.edu.cn. 300 IN A 202.194.7.197
+
+lxbwk.njournal.sdu.edu.cn. 300 IN A 202.194.7.195
+
+lxbwk.njournal.sdu.edu.cn. 299 IN A 202.194.7.195
+
+lxbwk.njournal.sdu.edu.cn. 299 IN A 202.194.7.195
+
+lxbwk.njournal.sdu.edu.cn. 299 IN A 202.194.7.195
+
+yxbwk.njournal.sdu.edu.cn. 300 IN A 202.194.7.196
+
+nursing.sdu.edu.cn. 300 IN A 202.194.15.78
+
+nursing.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nursing.sdu.edu.cn. 299 IN A 202.194.15.78
+
+nursing.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursing.sdu.edu.cn. 300 IN CNAME nursing.sdu.edu.cn.
+nursing.sdu.edu.cn. 298 IN A 202.194.15.78
+
+www.nursingedu.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinggrad.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.nursinglab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+oa.sdu.edu.cn. 299 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oa.sdu.edu.cn. 298 IN A 202.194.7.238
+
+oatest.sdu.edu.cn. 300 IN A 202.194.15.178
+
+online.sdu.edu.cn. 300 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 0 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 30 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+online.sdu.edu.cn<BR>www.online.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.online.sdu.edu.cn. 300 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+www.online.sdu.edu.cn. 299 IN CNAME online.sdu.edu.cn.
+online.sdu.edu.cn. 299 IN A 202.194.15.140
+
+onlineqd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 0 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 30 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+support.qd.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.onlineqd.sdu.edu.cn. 300 IN CNAME onlineqd.sdu.edu.cn.
+onlineqd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.onlineqlyx.sdu.edu.cn. 300 IN A 202.194.15.159
+
+otrc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.otrc.sdu.edu.cn. 300 IN CNAME otrc.sdu.edu.cn.
+otrc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+owa.sdu.edu.cn. 0 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 30 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+pack.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.pack.sdu.edu.cn. 300 IN CNAME pack.sdu.edu.cn.
+pack.sdu.edu.cn. 299 IN A 202.194.15.159
+
+pass.sdu.edu.cn. 300 IN A 202.194.1.105
+
+pass.sdu.edu.cn. 299 IN A 202.194.1.105
+
+pay.sdu.edu.cn. 300 IN A 202.194.15.175
+
+NXDOMAIN for pegi.sdu.edu.cn
+
+NXDOMAIN for pegi.sdu.edu.cn
+
+NXDOMAIN for pegi.sdu.edu.cn
+
+peixun.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.peixun.sdu.edu.cn. 300 IN CNAME peixun.sdu.edu.cn.
+peixun.sdu.edu.cn. 299 IN A 202.194.15.159
+
+perc.sdu.edu.cn. 300 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+perc.sdu.edu.cn. 299 IN A 219.231.150.250
+
+peterson-elites.sdu.edu.cn. 300 IN A 202.194.15.5
+
+pharm.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.pharm.sdu.edu.cn. 300 IN CNAME pharm.sdu.edu.cn.
+pharm.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.pharm.sdu.edu.cn. 299 IN CNAME pharm.sdu.edu.cn.
+pharm.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.pharm.sdu.edu.cn. 299 IN CNAME pharm.sdu.edu.cn.
+pharm.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.pharm.sdu.edu.cn. 299 IN CNAME pharm.sdu.edu.cn.
+pharm.sdu.edu.cn. 299 IN A 202.194.15.159
+
+pharmaco.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.pharmaco.sdu.edu.cn. 300 IN A 202.194.15.78
+
+phy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+phy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+phy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+phy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phy.sdu.edu.cn. 300 IN CNAME phy.sdu.edu.cn.
+phy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.phylab.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.physiology.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.physiology.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.physiology.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.physiology.sdu.edu.cn. 299 IN A 202.194.15.78
+
+phystu.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.phystu.sdu.edu.cn. 300 IN CNAME phystu.sdu.edu.cn.
+phystu.sdu.edu.cn. 299 IN A 202.194.15.159
+
+portal.sdu.edu.cn. 300 IN A 202.194.7.237
+
+portal.sdu.edu.cn. 299 IN A 202.194.7.237
+
+portal.sdu.edu.cn. 299 IN A 202.194.7.237
+
+portal.sdu.edu.cn. 299 IN A 202.194.7.237
+
+powerxlab.sdu.edu.cn. 0 IN A 220.250.64.225
+
+powerxlab.sdu.edu.cn. 30 IN A 220.250.64.225
+
+powerxlab.sdu.edu.cn. 29 IN A 220.250.64.225
+
+powerxlab.sdu.edu.cn. 29 IN A 220.250.64.225
+
+powerxlab.sdu.edu.cn. 29 IN A 220.250.64.225
+
+powerxlab.sdu.edu.cn. 29 IN A 220.250.64.225
+
+ppcb.sdu.edu.cn. 300 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+ppcb.sdu.edu.cn. 299 IN A 202.194.15.23
+
+pppi.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.pppi.sdu.edu.cn. 300 IN CNAME pppi.sdu.edu.cn.
+pppi.sdu.edu.cn. 299 IN A 202.194.15.159
+
+president.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.president.sdu.edu.cn. 300 IN CNAME president.sdu.edu.cn.
+president.sdu.edu.cn. 299 IN A 202.194.15.159
+
+prime.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.prime.sdu.edu.cn. 300 IN CNAME prime.sdu.edu.cn.
+prime.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.pspa.sdu.edu.cn. 0 IN A 220.250.64.225
+
+www.pspa.sdu.edu.cn. 30 IN A 220.250.64.225
+
+www.pspa.sdu.edu.cn. 29 IN A 220.250.64.225
+
+px.sdu.edu.cn. 300 IN A 211.86.56.2
+
+www.px.sdu.edu.cn. 300 IN CNAME px.sdu.edu.cn.
+px.sdu.edu.cn. 299 IN A 211.86.56.2
+
+pxjd.sdu.edu.cn. 300 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+pxjd.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.pxjd.sdu.edu.cn. 300 IN CNAME pxjd.sdu.edu.cn.
+pxjd.sdu.edu.cn. 298 IN A 202.194.15.5
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+NXDOMAIN for qd.sdu.edu.cn
+
+autodiscover.qd.sdu.edu.cn. 0 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 30 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+autodiscover.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.bgxx.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.bwc.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.cs.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.cst.qd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+daohang.qd.sdu.edu.cn. 300 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+daohang.qd.sdu.edu.cn. 299 IN A 202.194.7.76
+
+www.dbxb.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.cs.en.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.enisie.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.enpspa.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.frontier.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+icloud.qd.sdu.edu.cn. 300 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+icloud.qd.sdu.edu.cn. 299 IN A 101.76.224.9
+
+www.isebks.qd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.isie.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.jjc.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.jjs.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+mail.qd.sdu.edu.cn. 0 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 30 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+mail.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.en.mbtechinst.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.mbtechinst.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.mbtechinst.qd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.mbtechinst.qd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.mbtechinst.qd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+owa.qd.sdu.edu.cn. 0 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 30 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+owa.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.pspa.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.qddx.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.qitcs.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.rsc.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.rwsk.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+support.qd.sdu.edu.cn. 300 IN A 10.102.7.111
+support.qd.sdu.edu.cn. 300 IN A 101.76.224.4
+
+support.qd.sdu.edu.cn. 299 IN A 101.76.224.4
+support.qd.sdu.edu.cn. 299 IN A 10.102.7.111
+
+support.qd.sdu.edu.cn. 299 IN A 101.76.224.4
+support.qd.sdu.edu.cn. 299 IN A 10.102.7.111
+
+www.tyzx.qd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+vpn.qd.sdu.edu.cn. 300 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+vpn.qd.sdu.edu.cn. 299 IN A 101.76.193.209
+
+www.vpn.qd.sdu.edu.cn. 300 IN A 101.76.193.209
+
+webvpn.qd.sdu.edu.cn. 300 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 300 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.webvpn.qd.sdu.edu.cn. 299 IN A 101.76.193.148
+
+www.qd.sdu.edu.cn. 0 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 30 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.qd.sdu.edu.cn. 29 IN A 220.250.64.225
+
+www.yqpt.qd.sdu.edu.cn. 300 IN A 101.76.224.8
+
+www.zbcg.qd.sdu.edu.cn. 300 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+www.zbcg.qd.sdu.edu.cn. 299 IN A 101.76.224.7
+
+qdsyzx.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.qdsyzx.sdu.edu.cn. 300 IN CNAME qdsyzx.sdu.edu.cn.
+qdsyzx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxq.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.qdxq.sdu.edu.cn. 300 IN CNAME qdxq.sdu.edu.cn.
+qdxq.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qdxqcwc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.qdxqcwc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+qdxqyxb.sdu.edu.cn. 300 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qdxqyxb.sdu.edu.cn. 300 IN CNAME qdxqyxb.sdu.edu.cn.
+qdxqyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qltrans.sdu.edu.cn. 300 IN A 202.194.15.78
+
+qlyxb.sdu.edu.cn. 300 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qlyxb.sdu.edu.cn. 300 IN CNAME qlyxb.sdu.edu.cn.
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qlyxb.sdu.edu.cn. 299 IN CNAME qlyxb.sdu.edu.cn.
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qlyxb.sdu.edu.cn. 299 IN CNAME qlyxb.sdu.edu.cn.
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qlyxb.sdu.edu.cn. 299 IN CNAME qlyxb.sdu.edu.cn.
+qlyxb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxbkjy.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.qlyxbkjy.sdu.edu.cn. 300 IN CNAME qlyxbkjy.sdu.edu.cn.
+qlyxbkjy.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 300 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qlyxgrad.sdu.edu.cn. 300 IN CNAME qlyxgrad.sdu.edu.cn.
+qlyxgrad.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.qlyxrc.sdu.edu.cn. 300 IN CNAME qlyxrc.sdu.edu.cn.
+qlyxrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rcsm.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.rcsm.sdu.edu.cn. 300 IN CNAME rcsm.sdu.edu.cn.
+rcsm.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.rd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 300 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rida.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rie.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.rie.sdu.edu.cn. 300 IN CNAME rie.sdu.edu.cn.
+rie.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rjwm.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.rjwm.sdu.edu.cn. 300 IN CNAME rjwm.sdu.edu.cn.
+rjwm.sdu.edu.cn. 299 IN A 202.194.15.78
+
+rsrc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrc.sdu.edu.cn. 300 IN CNAME rsrc.sdu.edu.cn.
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrc.sdu.edu.cn. 299 IN CNAME rsrc.sdu.edu.cn.
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrc.sdu.edu.cn. 299 IN CNAME rsrc.sdu.edu.cn.
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrc.sdu.edu.cn. 299 IN CNAME rsrc.sdu.edu.cn.
+rsrc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrczp.sdu.edu.cn. 300 IN CNAME rsrczp.sdu.edu.cn.
+rsrczp.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrczp.sdu.edu.cn. 299 IN CNAME rsrczp.sdu.edu.cn.
+rsrczp.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrczp.sdu.edu.cn. 299 IN CNAME rsrczp.sdu.edu.cn.
+rsrczp.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rsrczp.sdu.edu.cn. 299 IN CNAME rsrczp.sdu.edu.cn.
+rsrczp.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.rwsk.sdu.edu.cn. 300 IN A 202.194.15.159
+
+rxgdyjy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.rxgdyjy.sdu.edu.cn. 300 IN CNAME rxgdyjy.sdu.edu.cn.
+rxgdyjy.sdu.edu.cn. 298 IN A 202.194.15.78
+
+sbjjgl.sdu.edu.cn. 300 IN A 202.194.7.184
+
+sbjjgl.sdu.edu.cn. 299 IN A 202.194.7.184
+
+sbjjgl.sdu.edu.cn. 299 IN A 202.194.7.184
+
+sbjjgl.sdu.edu.cn. 299 IN A 202.194.7.184
+
+sc.sdu.edu.cn. 300 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+sc.sdu.edu.cn. 299 IN A 202.194.15.247
+
+www.sc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 300 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdeac.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sden.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.sden.sdu.edu.cn. 300 IN CNAME sden.sdu.edu.cn.
+sden.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdfr.sdu.edu.cn. 30 IN A 202.194.15.89
+
+www.sdfr.sdu.edu.cn. 30 IN CNAME sdfr.sdu.edu.cn.
+sdfr.sdu.edu.cn. 29 IN A 202.194.15.89
+
+www.sdkeylabdent.sdu.edu.cn. 300 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sdklmd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.sdkq.sdu.edu.cn. 300 IN A 202.194.15.78
+
+sdlx.sdu.edu.cn. 300 IN A 202.194.15.5
+
+sdrj.sdu.edu.cn. 300 IN A 202.194.15.43
+
+www.sdrj.sdu.edu.cn. 300 IN CNAME sdrj.sdu.edu.cn.
+sdrj.sdu.edu.cn. 299 IN A 202.194.15.43
+
+www.sdsc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdsx.sdu.edu.cn. 30 IN A 202.194.15.78
+
+sdsy.sdu.edu.cn. 30 IN A 202.194.15.5
+
+www.sdsy.sdu.edu.cn. 60 IN CNAME sdsy.sdu.edu.cn.
+sdsy.sdu.edu.cn. 59 IN A 202.194.15.5
+
+sdtz.sdu.edu.cn. 300 IN A 202.194.15.152
+
+sdtz.sdu.edu.cn. 299 IN A 202.194.15.152
+
+sdtz.sdu.edu.cn. 299 IN A 202.194.15.152
+
+sdtz.sdu.edu.cn. 299 IN A 202.194.15.152
+
+sdunetnms.sdu.edu.cn. 300 IN A 202.194.15.12
+
+sdunetnms.sdu.edu.cn. 299 IN A 202.194.15.12
+
+sdunetnms.sdu.edu.cn. 299 IN A 202.194.15.12
+
+sdunetsv2.sdu.edu.cn. 300 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv2.sdu.edu.cn. 299 IN A 202.194.15.13
+
+sdunetsv3.sdu.edu.cn. 300 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdunetsv3.sdu.edu.cn. 299 IN A 202.194.14.12
+
+sdutc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sdutc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.sdyf.sdu.edu.cn. 300 IN A 202.194.15.159
+
+search.sdu.edu.cn. 300 IN A 202.194.14.207
+
+service.sdu.edu.cn. 300 IN A 202.194.1.105
+
+shcm.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.shcm.sdu.edu.cn. 300 IN CNAME shcm.sdu.edu.cn.
+shcm.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 300 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.shenghua.sdu.edu.cn. 300 IN CNAME shenghua.sdu.edu.cn.
+shenghua.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shikong.sdu.edu.cn. 30 IN A 202.194.15.78
+
+shikong.sdu.edu.cn. 29 IN A 202.194.15.78
+
+shikong.sdu.edu.cn. 29 IN A 202.194.15.78
+
+shikong.sdu.edu.cn. 29 IN A 202.194.15.78
+
+shj.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.shj.sdu.edu.cn. 300 IN CNAME shj.sdu.edu.cn.
+shj.sdu.edu.cn. 299 IN A 202.194.15.78
+
+shz.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.shz.sdu.edu.cn. 300 IN CNAME shz.sdu.edu.cn.
+shz.sdu.edu.cn. 299 IN A 202.194.15.159
+
+sjrxdh.sdu.edu.cn. 300 IN A 202.194.15.159
+
+sklcm.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.sklcm.sdu.edu.cn. 300 IN CNAME sklcm.sdu.edu.cn.
+sklcm.sdu.edu.cn. 299 IN A 202.194.15.5
+
+soe.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.soe.sdu.edu.cn. 300 IN CNAME soe.sdu.edu.cn.
+soe.sdu.edu.cn. 299 IN A 202.194.15.5
+
+softms.sdu.edu.cn. 300 IN A 202.194.14.109
+
+softms.sdu.edu.cn. 299 IN A 202.194.14.109
+
+softms.sdu.edu.cn. 299 IN A 202.194.14.109
+
+softms.sdu.edu.cn. 299 IN A 202.194.14.109
+
+sp.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.sp.sdu.edu.cn. 300 IN CNAME sp.sdu.edu.cn.
+sp.sdu.edu.cn. 299 IN A 202.194.15.5
+
+sph.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.sph.sdu.edu.cn. 300 IN CNAME sph.sdu.edu.cn.
+sph.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 300 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+splab.sdu.edu.cn. 299 IN A 202.194.15.78
+
+sps.sdu.edu.cn. 300 IN A 202.194.15.5
+
+en.sps.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.sps.sdu.edu.cn. 300 IN CNAME sps.sdu.edu.cn.
+sps.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.sps.sdu.edu.cn. 299 IN CNAME sps.sdu.edu.cn.
+sps.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.sps.sdu.edu.cn. 299 IN CNAME sps.sdu.edu.cn.
+sps.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.sps.sdu.edu.cn. 299 IN CNAME sps.sdu.edu.cn.
+sps.sdu.edu.cn. 299 IN A 202.194.15.5
+
+ssd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.ssd.sdu.edu.cn. 300 IN CNAME ssd.sdu.edu.cn.
+ssd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+staff.sdu.edu.cn. 300 IN A 202.194.14.129
+
+sts.sdu.edu.cn. 300 IN A 202.194.15.5
+
+stu.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.stu.sdu.edu.cn. 300 IN CNAME stu.sdu.edu.cn.
+stu.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.summer.sdu.edu.cn. 300 IN A 202.194.15.78
+
+suz.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.suz.sdu.edu.cn. 300 IN CNAME suz.sdu.edu.cn.
+suz.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.swpx.sdu.edu.cn. 300 IN CNAME swpx.sdu.edu.cn.
+swpx.sdu.edu.cn. 299 IN A 202.194.15.5
+
+syhc.sdu.edu.cn. 300 IN A 211.86.56.248
+
+sysg.sdu.edu.cn. 300 IN A 202.194.7.130
+
+sysg.sdu.edu.cn. 299 IN A 202.194.7.130
+
+sysg.sdu.edu.cn. 299 IN A 202.194.7.130
+
+sysg.sdu.edu.cn. 299 IN A 202.194.7.130
+
+sywh.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.sywh.sdu.edu.cn. 300 IN A 202.194.15.5
+
+terat.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.terat.sdu.edu.cn. 300 IN CNAME terat.sdu.edu.cn.
+terat.sdu.edu.cn. 299 IN A 202.194.15.159
+
+tjsl.sdu.edu.cn. 300 IN A 202.194.15.78
+
+tjsl.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tjsl.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tjsl.sdu.edu.cn. 299 IN A 202.194.15.78
+
+en.tjsl.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.tjsl.sdu.edu.cn. 300 IN CNAME tjsl.sdu.edu.cn.
+tjsl.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.tjsltest.sdu.edu.cn. 300 IN A 202.194.15.78
+
+freshmen.tsxt.sdu.edu.cn. 300 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+freshmen.tsxt.sdu.edu.cn. 299 IN A 202.194.14.131
+
+info.tsxt.sdu.edu.cn. 300 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+info.tsxt.sdu.edu.cn. 299 IN A 202.194.14.237
+
+www.tsxt.sdu.edu.cn. 300 IN A 202.194.15.5
+
+ttc.sdu.edu.cn. 300 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+ttc.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.ttc.sdu.edu.cn. 300 IN CNAME ttc.sdu.edu.cn.
+ttc.sdu.edu.cn. 298 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 300 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.tyb.sdu.edu.cn. 300 IN CNAME tyb.sdu.edu.cn.
+tyb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+urp.sdu.edu.cn. 300 IN A 202.194.15.139
+
+v.sdu.edu.cn. 300 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+v.sdu.edu.cn. 299 IN A 124.128.56.201
+
+view.sdu.edu.cn. 300 IN A 202.194.15.43
+
+view.sdu.edu.cn. 299 IN A 202.194.15.43
+
+view.sdu.edu.cn. 299 IN A 202.194.15.43
+
+view.sdu.edu.cn. 299 IN A 202.194.15.43
+
+www.view.sdu.edu.cn. 60 IN A 202.194.15.43
+
+www.view.sdu.edu.cn. 59 IN A 202.194.15.43
+
+www.view.sdu.edu.cn. 59 IN A 202.194.15.43
+
+vpn.sdu.edu.cn. 30 IN A 124.128.56.9
+
+vpn.sdu.edu.cn. 29 IN A 124.128.56.9
+
+vpn.sdu.edu.cn. 29 IN A 124.128.56.9
+
+vpn.sdu.edu.cn. 29 IN A 124.128.56.9
+
+vr.sdu.edu.cn. 300 IN A 202.194.15.78
+
+vr.sdu.edu.cn. 299 IN A 202.194.15.78
+
+vr.sdu.edu.cn. 299 IN A 202.194.15.78
+
+vr.sdu.edu.cn. 299 IN A 202.194.15.78
+
+webvpn.sdu.edu.cn. 300 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn.sdu.edu.cn. 299 IN A 202.194.19.1
+
+webvpn1.sdu.edu.cn. 300 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+webvpn1.sdu.edu.cn. 299 IN A 202.194.14.137
+
+wf.sdu.edu.cn. 300 IN A 202.194.7.239
+
+www.wf.sdu.edu.cn. 300 IN CNAME wf.sdu.edu.cn.
+wf.sdu.edu.cn. 299 IN A 202.194.7.239
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+NXDOMAIN for wh.sdu.edu.cn
+
+acm.wh.sdu.edu.cn. 86400 IN A 202.194.40.99
+
+acm.wh.sdu.edu.cn. 7199 IN A 202.194.40.99
+
+acmme.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+adult.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+adult.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+NXDOMAIN for www.adult.wh.sdu.edu.cn
+
+aishanda.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+www.aishanda.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+alumni.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+apd.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+apd.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+apd1.wh.sdu.edu.cn. 3600 IN A 202.194.40.90
+
+apdlab.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+apdlab.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+art.wh.sdu.edu.cn. 2320 IN A 202.194.40.139
+
+art.wh.sdu.edu.cn. 2319 IN A 202.194.40.139
+
+art.wh.sdu.edu.cn. 2319 IN A 202.194.40.139
+
+art.wh.sdu.edu.cn. 2319 IN A 202.194.40.139
+
+astro.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+astro.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+bbs.wh.sdu.edu.cn. 86400 IN A 202.194.40.10
+
+bbs.wh.sdu.edu.cn. 7199 IN A 202.194.40.10
+
+bbs.wh.sdu.edu.cn. 7199 IN A 202.194.40.10
+
+bbs.wh.sdu.edu.cn. 7199 IN A 202.194.40.10
+
+bkzsw.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+bkzsw.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+bkzsw.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+bkzsw.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+bwc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+bwcx.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+cie.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+www.cie.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+www.cie.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+csa.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+csa.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+csic.wh.sdu.edu.cn. 3600 IN A 202.194.40.8
+
+csic.wh.sdu.edu.cn. 3599 IN A 202.194.40.8
+
+cwc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+cwc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+dby.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+dby.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+deyu.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+djzx.wh.sdu.edu.cn. 86400 IN A 202.194.40.18
+
+djzx.wh.sdu.edu.cn. 7199 IN A 202.194.40.18
+
+dxyq.wh.sdu.edu.cn. 3600 IN A 202.194.40.29
+
+en.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+en.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+enapd.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+enpds.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+enpds.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+enpds.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+enpds.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+esnea.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+fxipo.wh.sdu.edu.cn. 3600 IN A 202.194.40.9
+
+fxipo.wh.sdu.edu.cn. 3599 IN A 202.194.40.9
+
+fxy.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+fxy.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+NXDOMAIN for wap.fxy.wh.sdu.edu.cn
+
+fxy1.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+fxylw.wh.sdu.edu.cn. 3600 IN A 202.194.40.90
+
+fyxy.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+fyxy.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+ggkf.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+gnhz.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+gonghui.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+gonghui.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+grad.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+grad.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+guoxue.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+hdsq.wh.sdu.edu.cn. 3600 IN A 202.194.40.42
+
+hpc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+hpc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+hqc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+hqc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+hzs.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+hzs.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+ie.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+ie.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+NXDOMAIN for www.ie.wh.sdu.edu.cn
+
+ie1.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+iss.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+iss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+ivolunteer.wh.sdu.edu.cn. 3600 IN A 202.194.40.90
+
+jjc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+jjc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+jjs.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+job.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+job.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+job.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+job.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+jpk.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+jsc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+jscen.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+jwc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+jwc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+jwc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+jwc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+jw.jwc.wh.sdu.edu.cn. 86400 IN A 202.194.40.87
+
+ko.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+ko.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+korean.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+www.korean.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+kryj.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+www.kryj.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+kyxt.wh.sdu.edu.cn. 86400 IN A 202.194.40.43
+
+kyxt.wh.sdu.edu.cn. 7199 IN A 202.194.40.43
+
+leadiss.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+leadiss.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+lib.wh.sdu.edu.cn. 79590 IN A 202.194.40.73
+
+lib.wh.sdu.edu.cn. 7199 IN A 202.194.40.73
+
+www.lib.wh.sdu.edu.cn. 82881 IN A 202.194.40.73
+
+www.lib.wh.sdu.edu.cn. 7199 IN A 202.194.40.73
+
+lsty.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+lxq.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+lxq.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+m.lxq.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+m.lxq.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+www.lxq.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+lygh.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+lykx.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+mail.wh.sdu.edu.cn. 86400 IN A 202.194.15.6
+mail.wh.sdu.edu.cn. 86400 IN A 211.86.56.247
+mail.wh.sdu.edu.cn. 86400 IN A 202.194.14.6
+
+mail.wh.sdu.edu.cn. 7199 IN A 202.194.14.6
+mail.wh.sdu.edu.cn. 7199 IN A 211.86.56.247
+mail.wh.sdu.edu.cn. 7199 IN A 202.194.15.6
+
+math.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+math.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+maths.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+mc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+mc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.mcxy.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+mktlab.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+mlb.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+mlb.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+mlb.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+mlb.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+mlib.wh.sdu.edu.cn. 86400 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 42.62.107.229
+5read.aichaoxing.com. 9 IN A 42.62.107.226
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+5read.aichaoxing.com. 9 IN A 140.210.72.6
+
+mlib.wh.sdu.edu.cn. 7199 IN CNAME www.3g.chaoxing.com.
+www.3g.chaoxing.com. 599 IN CNAME 5read.aichaoxing.com.
+5read.aichaoxing.com. 9 IN A 42.62.107.229
+5read.aichaoxing.com. 9 IN A 42.62.107.226
+5read.aichaoxing.com. 9 IN A 140.210.72.5
+5read.aichaoxing.com. 9 IN A 140.210.72.6
+
+navrs.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+net.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+net.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+nuclear.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+oa.wh.sdu.edu.cn. 86400 IN A 202.194.40.78
+
+oaste.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+pass.wh.sdu.edu.cn. 3600 IN A 202.194.40.51
+
+pds.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+pds.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+portal.wh.sdu.edu.cn. 86400 IN A 202.194.40.88
+
+portal.wh.sdu.edu.cn. 7199 IN A 202.194.40.88
+
+portal.wh.sdu.edu.cn. 7199 IN A 202.194.40.88
+
+portal.wh.sdu.edu.cn. 7199 IN A 202.194.40.88
+
+ps.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+pwxkapd.wh.sdu.edu.cn. 86400 IN A 202.194.40.9
+
+pwxkapd.wh.sdu.edu.cn. 7199 IN A 202.194.40.9
+
+rsc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+rsc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+rsc2.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+scms.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+sdam.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+sdor.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+sdse.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+sdum.wh.sdu.edu.cn. 86400 IN A 202.194.40.90
+
+sdum.wh.sdu.edu.cn. 7199 IN A 202.194.40.90
+
+NXDOMAIN for www.sdum.wh.sdu.edu.cn
+
+service.wh.sdu.edu.cn. 3600 IN A 202.194.40.51
+
+shetuan.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+shxy.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+shxy.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+shxy1.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+snea.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+space.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+space.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+swzh.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+tifc.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+tlx.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+transjpk.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+twtapd.wh.sdu.edu.cn. 86400 IN A 202.194.40.9
+
+tyb.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+tyb.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+volunteer.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+volunteer.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+vpn.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+vpnportal.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+vtc.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+whcb.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+whcb.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+wsn.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+wsw.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+wsw.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+www.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+www.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+xb.wh.sdu.edu.cn. 3600 IN A 192.168.75.138
+
+xinwen.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+xinwen.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+xlgl.wh.sdu.edu.cn. 86400 IN A 202.194.40.9
+
+xsgzc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+xsgzc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+xwcb.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+xx19th.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+xx19th.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+xytp.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+yjsh.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+yjsh.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+ykt.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+yktsv.wh.sdu.edu.cn. 86400 IN A 202.194.40.151
+
+youth.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+youth.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+yplworkshop.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+yplworkshop.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+yw.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+zbb.wh.sdu.edu.cn. 775 IN A 202.194.40.50
+
+zbb.wh.sdu.edu.cn. 774 IN A 202.194.40.50
+
+zcc.wh.sdu.edu.cn. 3600 IN A 202.194.40.139
+
+zcc.wh.sdu.edu.cn. 3599 IN A 202.194.40.139
+
+zccggg.wh.sdu.edu.cn. 86400 IN A 202.194.40.186
+
+zgcjr.wh.sdu.edu.cn. 3600 IN A 222.174.213.213
+
+zgcjr.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+zgcjr.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+zgcjr.wh.sdu.edu.cn. 3599 IN A 222.174.213.213
+
+www.whjd.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whjd.sdu.edu.cn. 299 IN A 202.194.15.78
+
+whycyjy.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.whycyjy.sdu.edu.cn. 300 IN CNAME whycyjy.sdu.edu.cn.
+whycyjy.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whycyjy.sdu.edu.cn. 299 IN CNAME whycyjy.sdu.edu.cn.
+whycyjy.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whycyjy.sdu.edu.cn. 299 IN CNAME whycyjy.sdu.edu.cn.
+whycyjy.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.whycyjy.sdu.edu.cn. 299 IN CNAME whycyjy.sdu.edu.cn.
+whycyjy.sdu.edu.cn. 299 IN A 202.194.15.78
+
+wljx.sdu.edu.cn. 300 IN A 124.128.56.16
+
+video.fy.sdns.wljy.sdu.edu.cn. 30 IN CNAME video.fy.chaoxing.com.
+video.fy.chaoxing.com. 29 IN CNAME fanya.aichaoxing.com.
+fanya.aichaoxing.com. 29 IN A 140.210.69.130
+fanya.aichaoxing.com. 29 IN A 140.210.69.134
+fanya.aichaoxing.com. 29 IN A 140.210.69.132
+fanya.aichaoxing.com. 29 IN A 140.210.69.133
+fanya.aichaoxing.com. 29 IN A 140.210.69.131
+
+jxjw.sdns.wljy.sdu.edu.cn. 30 IN A 60.208.85.55
+
+jxjw.sdns.wljy.sdu.edu.cn. 29 IN A 60.208.85.55
+
+jxjw.sdns.wljy.sdu.edu.cn. 29 IN A 60.208.85.55
+
+jxjw.sdns.wljy.sdu.edu.cn. 29 IN A 60.208.85.55
+
+jxjw1.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.55
+jxjw1.sdns.wljy.sdu.edu.cn. 60 IN A 211.86.56.19
+jxjw1.sdns.wljy.sdu.edu.cn. 60 IN A 58.56.6.87
+
+i.mooc.sdns.wljy.sdu.edu.cn. 30 IN CNAME dzi.mooc.chaoxing.com.
+dzi.mooc.chaoxing.com. 29 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 29 IN A 140.210.88.214
+passport2.aichaoxing.com. 29 IN A 140.210.88.212
+passport2.aichaoxing.com. 29 IN A 140.210.88.207
+passport2.aichaoxing.com. 29 IN A 140.210.88.205
+passport2.aichaoxing.com. 29 IN A 140.210.88.206
+passport2.aichaoxing.com. 29 IN A 140.210.88.204
+passport2.aichaoxing.com. 29 IN A 140.210.88.201
+passport2.aichaoxing.com. 29 IN A 140.210.88.202
+passport2.aichaoxing.com. 29 IN A 140.210.88.209
+passport2.aichaoxing.com. 29 IN A 140.210.88.213
+passport2.aichaoxing.com. 29 IN A 140.210.88.203
+passport2.aichaoxing.com. 29 IN A 140.210.88.211
+passport2.aichaoxing.com. 29 IN A 140.210.88.210
+passport2.aichaoxing.com. 29 IN A 140.210.88.208
+
+mooc1.sdns.wljy.sdu.edu.cn. 60 IN CNAME dzmooc.chaoxing.com.
+dzmooc.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 273 IN A 140.210.88.204
+passport2.aichaoxing.com. 273 IN A 140.210.88.202
+passport2.aichaoxing.com. 273 IN A 140.210.88.201
+passport2.aichaoxing.com. 273 IN A 140.210.88.207
+passport2.aichaoxing.com. 273 IN A 140.210.88.212
+passport2.aichaoxing.com. 273 IN A 140.210.88.208
+passport2.aichaoxing.com. 273 IN A 140.210.88.206
+passport2.aichaoxing.com. 273 IN A 140.210.88.210
+passport2.aichaoxing.com. 273 IN A 140.210.88.214
+passport2.aichaoxing.com. 273 IN A 140.210.88.209
+passport2.aichaoxing.com. 273 IN A 140.210.88.211
+passport2.aichaoxing.com. 273 IN A 140.210.88.205
+passport2.aichaoxing.com. 273 IN A 140.210.88.203
+passport2.aichaoxing.com. 273 IN A 140.210.88.213
+
+newbx.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.55
+
+passport2.sdns.wljy.sdu.edu.cn. 60 IN CNAME dzpassport.chaoxing.com.
+dzpassport.chaoxing.com. 59 IN CNAME passport2.aichaoxing.com.
+passport2.aichaoxing.com. 59 IN A 140.210.88.206
+passport2.aichaoxing.com. 59 IN A 140.210.88.214
+passport2.aichaoxing.com. 59 IN A 140.210.88.209
+passport2.aichaoxing.com. 59 IN A 140.210.88.203
+passport2.aichaoxing.com. 59 IN A 140.210.88.202
+passport2.aichaoxing.com. 59 IN A 140.210.88.201
+passport2.aichaoxing.com. 59 IN A 140.210.88.210
+passport2.aichaoxing.com. 59 IN A 140.210.88.204
+passport2.aichaoxing.com. 59 IN A 140.210.88.207
+passport2.aichaoxing.com. 59 IN A 140.210.88.213
+passport2.aichaoxing.com. 59 IN A 140.210.88.205
+passport2.aichaoxing.com. 59 IN A 140.210.88.212
+passport2.aichaoxing.com. 59 IN A 140.210.88.211
+passport2.aichaoxing.com. 59 IN A 140.210.88.208
+
+sv100.sdns.wljy.sdu.edu.cn. 60 IN A 211.86.56.10
+sv100.sdns.wljy.sdu.edu.cn. 60 IN A 58.56.6.80
+sv100.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.48
+
+sv13.sdns.wljy.sdu.edu.cn. 60 IN A 211.86.56.18
+sv13.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.54
+sv13.sdns.wljy.sdu.edu.cn. 60 IN A 58.56.6.86
+
+sv3.sdns.wljy.sdu.edu.cn. 60 IN A 211.86.56.3
+sv3.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.41
+sv3.sdns.wljy.sdu.edu.cn. 60 IN A 58.56.6.73
+
+sv5.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.43
+
+sv6.sdns.wljy.sdu.edu.cn. 28 IN A 58.56.6.76
+sv6.sdns.wljy.sdu.edu.cn. 28 IN A 211.86.56.6
+sv6.sdns.wljy.sdu.edu.cn. 28 IN A 60.208.85.44
+
+sv8.sdns.wljy.sdu.edu.cn. 60 IN A 211.86.56.11
+sv8.sdns.wljy.sdu.edu.cn. 60 IN A 58.56.6.81
+sv8.sdns.wljy.sdu.edu.cn. 60 IN A 60.208.85.49
+
+zyk.sdns.wljy.sdu.edu.cn. 30 IN CNAME jxjwfy.zyk.chaoxing.com.
+jxjwfy.zyk.chaoxing.com. 29 IN CNAME fanya.zlgc.chaoxing.com.
+fanya.zlgc.chaoxing.com. 29 IN A 42.62.2.150
+
+sv100.wljy.sdu.edu.cn. 300 IN CNAME sv100.sdns.wljy.sdu.edu.cn.
+sv100.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.80
+sv100.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.48
+sv100.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.10
+
+sv13.wljy.sdu.edu.cn. 300 IN CNAME sv13.sdns.wljy.sdu.edu.cn.
+sv13.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.86
+sv13.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.18
+sv13.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.54
+
+sv3.wljy.sdu.edu.cn. 300 IN CNAME sv3.sdns.wljy.sdu.edu.cn.
+sv3.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.41
+sv3.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.3
+sv3.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.73
+
+sv5.wljy.sdu.edu.cn. 300 IN CNAME sv5.sdns.wljy.sdu.edu.cn.
+sv5.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.43
+
+sv6.wljy.sdu.edu.cn. 60 IN CNAME sv6.sdns.wljy.sdu.edu.cn.
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.44
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.76
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.6
+
+sv8.wljy.sdu.edu.cn. 300 IN CNAME sv8.sdns.wljy.sdu.edu.cn.
+sv8.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.81
+sv8.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.49
+sv8.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.11
+
+www.wljy.sdu.edu.cn. 300 IN CNAME sv6.sdns.wljy.sdu.edu.cn.
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 211.86.56.6
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 58.56.6.76
+sv6.sdns.wljy.sdu.edu.cn. 59 IN A 60.208.85.44
+
+wlxh.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.wlxh.sdu.edu.cn. 300 IN CNAME wlxh.sdu.edu.cn.
+wlxh.sdu.edu.cn. 299 IN A 202.194.15.5
+
+women.sdu.edu.cn. 300 IN A 202.194.15.5
+
+www.women.sdu.edu.cn. 300 IN CNAME women.sdu.edu.cn.
+women.sdu.edu.cn. 299 IN A 202.194.15.5
+
+worldpublaw.sdu.edu.cn. 300 IN A 202.194.15.25
+
+wvtest.sdu.edu.cn. 300 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+wvtest.sdu.edu.cn. 299 IN A 202.194.14.150
+
+www.sdu.edu.cn. 60 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+www.sdu.edu.cn. 59 IN A 202.194.7.118
+
+wx.sdu.edu.cn. 300 IN A 202.194.7.206
+
+xcb.sdu.edu.cn. 300 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+xcb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+www.xcb.sdu.edu.cn. 300 IN CNAME xcb.sdu.edu.cn.
+xcb.sdu.edu.cn. 298 IN A 202.194.15.5
+
+xgb.sdu.edu.cn. 300 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+xgb.sdu.edu.cn. 299 IN A 202.194.15.125
+
+www.xgb.sdu.edu.cn. 300 IN CNAME xgb.sdu.edu.cn.
+xgb.sdu.edu.cn. 298 IN A 202.194.15.125
+
+www.xlcs.sdu.edu.cn. 300 IN A 202.194.7.166
+
+xljk.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.xljk.sdu.edu.cn. 300 IN CNAME xljk.sdu.edu.cn.
+xljk.sdu.edu.cn. 299 IN A 202.194.15.78
+
+xlzx.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.xlzx.sdu.edu.cn. 300 IN CNAME xlzx.sdu.edu.cn.
+xlzx.sdu.edu.cn. 299 IN A 202.194.15.159
+
+xuchaoshufa.sdu.edu.cn. 300 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xuchaoshufa.sdu.edu.cn. 299 IN A 125.76.225.15
+
+xxbqd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.xxbqd.sdu.edu.cn. 300 IN CNAME xxbqd.sdu.edu.cn.
+xxbqd.sdu.edu.cn. 299 IN A 202.194.15.159
+
+xxgk.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.xxgk.sdu.edu.cn. 300 IN CNAME xxgk.sdu.edu.cn.
+xxgk.sdu.edu.cn. 299 IN A 202.194.15.159
+
+xyfz.sdu.edu.cn. 300 IN A 202.194.15.159
+
+www.xyy.sdu.edu.cn. 300 IN A 202.194.15.5
+
+ygb.sdu.edu.cn. 300 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.ygb.sdu.edu.cn. 300 IN CNAME ygb.sdu.edu.cn.
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.ygb.sdu.edu.cn. 299 IN CNAME ygb.sdu.edu.cn.
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.ygb.sdu.edu.cn. 299 IN CNAME ygb.sdu.edu.cn.
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.ygb.sdu.edu.cn. 299 IN CNAME ygb.sdu.edu.cn.
+ygb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.youth.sdu.edu.cn. 300 IN A 202.194.15.152
+
+yxjc.sdu.edu.cn. 300 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.yxjc.sdu.edu.cn. 300 IN CNAME yxjc.sdu.edu.cn.
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.yxjc.sdu.edu.cn. 299 IN CNAME yxjc.sdu.edu.cn.
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.yxjc.sdu.edu.cn. 299 IN CNAME yxjc.sdu.edu.cn.
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.yxjc.sdu.edu.cn. 299 IN CNAME yxjc.sdu.edu.cn.
+yxjc.sdu.edu.cn. 299 IN A 202.194.15.159
+
+yxwqd.sdu.edu.cn. 300 IN A 202.194.15.159
+
+yz.sdu.edu.cn. 300 IN A 202.194.15.78
+
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.yz.sdu.edu.cn. 300 IN CNAME yz.sdu.edu.cn.
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.yz.sdu.edu.cn. 299 IN CNAME yz.sdu.edu.cn.
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.yz.sdu.edu.cn. 299 IN CNAME yz.sdu.edu.cn.
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.yz.sdu.edu.cn. 299 IN CNAME yz.sdu.edu.cn.
+yz.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zcb.sdu.edu.cn. 300 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+zcb.sdu.edu.cn. 299 IN A 202.194.15.159
+
+www.zcb.sdu.edu.cn. 300 IN CNAME zcb.sdu.edu.cn.
+zcb.sdu.edu.cn. 298 IN A 202.194.15.159
+
+zcgl.sdu.edu.cn. 300 IN A 202.194.7.225
+
+zcgl.sdu.edu.cn. 299 IN A 202.194.7.225
+
+zcgl.sdu.edu.cn. 299 IN A 202.194.7.225
+
+zcgl.sdu.edu.cn. 299 IN A 202.194.7.225
+
+zcysysb.sdu.edu.cn. 300 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+zcysysb.sdu.edu.cn. 299 IN A 202.194.7.130
+
+www.zdyjs.sdu.edu.cn. 300 IN A 202.194.15.78
+
+zhouyi.sdu.edu.cn. 300 IN A 202.194.15.5
+
+zhouyi.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zhouyi.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zhouyi.sdu.edu.cn. 299 IN A 202.194.15.5
+
+NXDOMAIN for www.zhuoyue.sdu.edu.cn
+
+NXDOMAIN for www.zhuoyue.sdu.edu.cn
+
+NXDOMAIN for www.zhuoyue.sdu.edu.cn
+
+zhyhb.sdu.edu.cn. 300 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+zhyhb.sdu.edu.cn. 299 IN A 202.194.15.78
+
+www.zk.sdu.edu.cn. 300 IN CNAME sv100.wljy.sdu.edu.cn.
+sv100.wljy.sdu.edu.cn. 297 IN CNAME sv100.sdns.wljy.sdu.edu.cn.
+sv100.sdns.wljy.sdu.edu.cn. 57 IN A 60.208.85.48
+sv100.sdns.wljy.sdu.edu.cn. 57 IN A 211.86.56.10
+sv100.sdns.wljy.sdu.edu.cn. 57 IN A 58.56.6.80
+
+zzb.sdu.edu.cn. 300 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+zzb.sdu.edu.cn. 299 IN A 202.194.15.5
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+NXDOMAIN for support.qd.sdu.edu.cn<BR>www.archives.sdu.edu.cn<BR>www.art.sdu.edu.cn<BR>www.bkjx.sdu.edu.cn<BR>www.bkzs.sdu.edu.cn<BR>www.bms.sdu.edu.cn<BR>www.cbs.sdu.edu.cn<BR>www.chem.sdu.edu.cn<BR>www.cie.sdu.edu.cn<BR>www.cs.sdu.edu.cn<BR>www.culture.sdu.edu.cn<BR>www.cwc.sdu.edu.cn<BR>www.dangxiao.sdu.edu.cn<BR>www.dbxb.sdu.edu.cn<BR>www.dcd.sdu.edu.cn<BR>www.dcxc.sdu.edu.cn<BR>www.dent.sdu.edu.cn<BR>www.econ.sdu.edu.cn<BR>www.ee.sdu.edu.cn<BR>www.en.sdu.edu.cn<BR>www.epe.sdu.edu.cn<BR>www.flc.sdu.edu.cn<BR>www.fwsd.sdu.edu.cn<BR>www.fzgh.sdu.edu.cn<BR>www.gac.sdu.edu.cn<BR>www.glxy.sdu.edu.cn<BR>www.gonghui.sdu.edu.cn<BR>www.grad.sdu.edu.cn<BR>www.history.sdu.edu.cn<BR>www.hj.sdu.edu.cn<BR>www.hqc.sdu.edu.cn<BR>www.huanke.sdu.edu.cn<BR>www.icm.sdu.edu.cn<BR>www.imst.sdu.edu.cn<BR>www.ipo.sdu.edu.cn<BR>www.ise.sdu.edu.cn<BR>www.istudy.sdu.edu.cn<BR>www.jc.sdu.edu.cn<BR>www.jgb.sdu.edu.cn<BR>www.jgdw.sdu.edu.cn<BR>www.jj.sdu.edu.cn<BR>www.jjsh.sdu.edu.cn<BR>www.jmrh.sdu.edu.cn<BR>www.job.sdu.edu.cn<BR>www.journal.sdu.edu.cn<BR>www.jzb.sdu.edu.cn<BR>www.law.sdu.edu.cn<BR>www.lhp.sdu.edu.cn<BR>www.lib.sdu.edu.cn<BR>www.lit.sdu.edu.cn<BR>www.ltxc.sdu.edu.cn<BR>www.math.sdu.edu.cn<BR>www.mech.sdu.edu.cn<BR>www.media.sdu.edu.cn<BR>www.medicine.sdu.edu.cn<BR>www.nc.sdu.edu.cn<BR>www.nursing.sdu.edu.cn<BR>www.onlineqd.sdu.edu.cn<BR>www.onlineqlyx.sdu.edu.cn<BR>www.online.sdu.edu.cn<BR>www.pharm.sdu.edu.cn<BR>www.phy.sdu.edu.cn<BR>www.qdxq.sdu.edu.cn<BR>www.qltrans.sdu.edu.cn<BR>www.qlyxb.sdu.edu.cn<BR>www.rd.sdu.edu.cn<BR>www.rsrc.sdu.edu.cn<BR>www.rsrczp.sdu.edu.cn<BR>www.rwsk.sdu.edu.cn<BR>www.rxgdyjy.sdu.edu.cn<BR>www.sc.sdu.edu.cn<BR>www.sdrj.sdu.edu.cn<BR>www.sdtz.sdu.edu.cn<BR>www.sdu.edu.cn<BR>www.shcm.sdu.edu.cn<BR>www.shj.sdu.edu.cn<BR>www.sklcm.sdu.edu.cn<BR>www.sph.sdu.edu.cn<BR>www.sp.sdu.edu.cn<BR>www.sps.sdu.edu.cn<BR>www.stu.sdu.edu.cn<BR>www.swpx.sdu.edu.cn<BR>www.tjsl.sdu.edu.cn<BR>www.tsxt.sdu.edu.cn<BR>www.ttc.sdu.edu.cn<BR>www.tyb.sdu.edu.cn<BR>www.view.sdu.edu.cn<BR>www.wljy.sdu.edu.cn<BR>www.women.sdu.edu.cn<BR>www.xcb.sdu.edu.cn<BR>www.xljk.sdu.edu.cn<BR>www.xlzx.sdu.edu.cn<BR>www.xxgk.sdu.edu.cn<BR>www.xyy.sdu.edu.cn<BR>www.ygb.sdu.edu.cn<BR>www.youth.sdu.edu.cn<BR>www.yz.sdu.edu.cn<BR>www.zcb.sdu.edu.cn<BR>www.zsdw.sdu.edu.cn<BR>www.zzb.sdu.edu.cn
+
+zzzs.sdu.edu.cn. 300 IN A 202.194.15.220
+
+www.zzzs.sdu.edu.cn. 300 IN CNAME zzzs.sdu.edu.cn.
+zzzs.sdu.edu.cn. 299 IN A 202.194.15.220
+
+zzzx.sdu.edu.cn. 300 IN A 202.194.15.78
+
+www.zzzx.sdu.edu.cn. 300 IN CNAME zzzx.sdu.edu.cn.
+zzzx.sdu.edu.cn. 299 IN A 202.194.15.78
+

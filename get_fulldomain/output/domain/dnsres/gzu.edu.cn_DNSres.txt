@@ -1,0 +1,1632 @@
+pxgl.cce.gzu.edu.cngzu.edu.cn. 0 IN A 220.250.64.225
+
+eyougate.gzu.edu.cngzu.edu.cn. 0 IN A 220.250.64.225
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+NXDOMAIN for gzu.edu.cn
+
+aa.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+abe.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+acc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+acc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+acc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+acc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+agbr.gzu.edu.cn. 0 IN A 220.250.64.225
+
+agr.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+agr.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+agr.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+agr.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+alumni.gzu.edu.cn. 3600 IN A 210.40.12.232
+
+amt.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+ao.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aoff.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aoff.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aoff.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+aoff.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+ar.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+ar.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+ar.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+ar.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+art.gzu.edu.cn. 3600 IN A 210.40.13.113
+
+art.gzu.edu.cn. 3599 IN A 210.40.13.113
+
+art.gzu.edu.cn. 3599 IN A 210.40.13.113
+
+art.gzu.edu.cn. 3599 IN A 210.40.13.113
+
+as.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+as.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+as.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+as.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+asean.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+bbs.gzu.edu.cn. 3600 IN A 210.40.3.28
+
+bbs.gzu.edu.cn. 3599 IN A 210.40.3.28
+
+bbs.gzu.edu.cn. 3599 IN A 210.40.3.28
+
+bbs.gzu.edu.cn. 3599 IN A 210.40.3.28
+
+bdiri.gzu.edu.cn. 3600 IN A 210.40.13.101
+
+bdiri.gzu.edu.cn. 3599 IN A 210.40.13.101
+
+bdiri.gzu.edu.cn. 3599 IN A 210.40.13.101
+
+bdiri.gzu.edu.cn. 3599 IN A 210.40.13.101
+
+bioes.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ca.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ca.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ca.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ca.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+caup.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+caup.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+caup.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+caup.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+cc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+cc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+cc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+cc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ccd.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+cce.gzu.edu.cn. 604800 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+ck.cce.gzu.edu.cn. 603362 IN CNAME ms.cce.gzu.edu.cn.
+ms.cce.gzu.edu.cn. 7199 IN A 210.40.13.13
+
+fwdt.cce.gzu.edu.cn. 604800 IN A 210.40.12.229
+
+mpm.cce.gzu.edu.cn. 590891 IN A 210.40.13.13
+
+ms.cce.gzu.edu.cn. 7199 IN A 210.40.13.13
+
+ncre.cce.gzu.edu.cn. 604800 IN A 210.40.13.97
+
+ncre.cce.gzu.edu.cn. 7199 IN A 210.40.13.97
+
+ncre.cce.gzu.edu.cn. 7199 IN A 210.40.13.97
+
+ncre.cce.gzu.edu.cn. 7199 IN A 210.40.13.97
+
+pxgl.cce.gzu.edu.cn. 604800 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+pxgl.cce.gzu.edu.cn. 7199 IN CNAME www.cce.gzu.edu.cn.
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+www.cce.gzu.edu.cn. 7199 IN A 210.40.12.229
+
+ccm.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ccm.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ccm.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ccm.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3598 IN A 210.40.13.13
+
+ccvsetc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+ccvsetc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+ccvsetc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+ccvsetc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cdo.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cfa.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cfa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cfa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cfa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cie.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cie.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cie.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cie.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3597 IN A 210.40.13.13
+
+cjs.gzu.edu.cn. 0 IN A 220.250.64.225
+
+cjs.gzu.edu.cn. 30 IN A 220.250.64.225
+
+cjs.gzu.edu.cn. 29 IN A 220.250.64.225
+
+pri-dns.gzu.edu.cngzu.edu.cn<BR>www.gzu.edu.cn. 0 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 0 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 30 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+gzu.edu.cn<BR>www.gzu.edu.cn. 29 IN A 220.250.64.225
+
+www.gzu.edu.cnmailar.gzu.edu.cn. 0 IN A 220.250.64.225
+
+su.gzu.edu.cnmailgate.gzu.edu.cn. 0 IN A 220.250.64.225
+
+pxgl.cce.gzu.edu.cnnewmail.gzu.edu.cn. 0 IN A 220.250.64.225
+
+news.gzu.edu.cnnic.gzu.edu.cn. 0 IN A 220.250.64.225
+
+xhnews.gzu.edu.cnsec-dns.gzu.edu.cn. 0 IN A 220.250.64.225
+
+dns.fl.gzu.edu.cnsu.gzu.edu.cn. 0 IN A 220.250.64.225
+
+lem.gzu.edu.cnvod.gzu.edu.cn. 0 IN A 220.250.64.225
+
+co.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cs.gzu.edu.cn. 3600 IN A 210.40.12.54
+
+cs.gzu.edu.cn. 3599 IN A 210.40.12.54
+
+cs.gzu.edu.cn. 3599 IN A 210.40.12.54
+
+cs.gzu.edu.cn. 3599 IN A 210.40.12.54
+
+cst.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cst.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cst.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cst.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cyl.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cyl.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cyl.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+cyl.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+di.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+dj.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+dj.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+dj.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+dj.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+dpo.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+ecb.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+ecca.gzu.edu.cn. 3600 IN A 210.40.2.241
+
+ecca.gzu.edu.cn. 3599 IN A 210.40.2.241
+
+ecca.gzu.edu.cn. 3599 IN A 210.40.2.241
+
+econ.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+econ.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+econ.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+econ.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3596 IN A 210.40.13.13
+
+eda.gzu.edu.cn. 3600 IN A 210.40.13.225
+
+edf.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+ee.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+eie.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+eie.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+eie.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+eie.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+em.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+em.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+em.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+em.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+emba.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+eol.gzu.edu.cn. 3600 IN A 210.40.3.153
+
+eyougate.gzu.edu.cn. 3600 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+eyougate.gzu.edu.cn. 3599 IN A 210.40.0.37
+
+farm.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fbklab.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fbklab.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fbklab.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fbklab.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fcc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fcc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fcc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fcc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fempc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3594 IN A 210.40.13.13
+
+fepay.gzu.edu.cn. 3600 IN A 210.40.4.112
+
+fepay.gzu.edu.cn. 3599 IN A 210.40.4.112
+
+fepay.gzu.edu.cn. 3599 IN A 210.40.4.112
+
+fl.gzu.edu.cn. 498479 IN A 210.40.13.13
+
+fl.gzu.edu.cn. 7199 IN A 210.40.13.13
+
+fl.gzu.edu.cn. 7199 IN A 210.40.13.13
+
+fl.gzu.edu.cn. 7199 IN A 210.40.13.13
+
+NXDOMAIN for mailar.gzu.edu.cndns.fl.gzu.edu.cn
+
+lib.gzu.edu.cnunipus2.fl.gzu.edu.cn. 0 IN A 220.250.64.225
+
+dns.fl.gzu.edu.cn. 604800 IN A 210.40.0.28
+
+dns.fl.gzu.edu.cn. 7199 IN A 210.40.0.28
+
+dns.fl.gzu.edu.cn. 7199 IN A 210.40.0.28
+
+dns.fl.gzu.edu.cn. 7199 IN A 210.40.0.28
+
+dns.fl.gzu.edu.cn. 7199 IN A 210.40.0.28
+
+dns.fl.gzu.edu.cn. 7199 IN A 210.40.0.28
+
+dns.fl.gzu.edu.cn. 7199 IN A 210.40.0.28
+
+unipus2.fl.gzu.edu.cn. 595728 IN A 210.40.3.64
+
+unipus2.fl.gzu.edu.cn. 7199 IN A 210.40.3.64
+
+unipus2.fl.gzu.edu.cn. 7199 IN A 210.40.3.64
+
+fo.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3593 IN A 210.40.13.13
+
+frerc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3593 IN A 210.40.13.13
+
+frerc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3593 IN A 210.40.13.13
+
+frerc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3593 IN A 210.40.13.13
+
+frerc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3593 IN A 210.40.13.13
+
+gedu.gzu.edu.cn. 3600 IN A 210.40.0.59
+
+ghpcc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3592 IN A 210.40.13.13
+
+gpabl.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3592 IN A 210.40.13.13
+
+gs.gzu.edu.cn. 1179 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 1178 IN A 210.40.13.13
+
+gs.gzu.edu.cn. 1178 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 1178 IN A 210.40.13.13
+
+gs.gzu.edu.cn. 1178 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 1178 IN A 210.40.13.13
+
+gs.gzu.edu.cn. 1178 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 1178 IN A 210.40.13.13
+
+gsa.gzu.edu.cn. 3600 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3599 IN A 210.40.13.115
+
+gsa.gzu.edu.cn. 3599 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3599 IN A 210.40.13.115
+
+gsa.gzu.edu.cn. 3599 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3599 IN A 210.40.13.115
+
+gsa.gzu.edu.cn. 3599 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3599 IN A 210.40.13.115
+
+gsgl.gzu.edu.cn. 1858 IN A 210.40.13.23
+
+gsgl.gzu.edu.cn. 1857 IN A 210.40.13.23
+
+gsgl.gzu.edu.cn. 1857 IN A 210.40.13.23
+
+gsgl.gzu.edu.cn. 1857 IN A 210.40.13.23
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+NXDOMAIN for dns.gygs.gzu.edu.cn
+
+hec.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hec.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hec.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hec.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hr.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hr.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hr.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hr.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hss.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hss.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hss.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hss.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+hum.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+i.gzu.edu.cn. 3600 IN A 210.40.4.74
+
+i.gzu.edu.cn. 3599 IN A 210.40.4.74
+
+i.gzu.edu.cn. 3599 IN A 210.40.4.74
+
+iat.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+ic.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3582 IN A 210.40.13.13
+
+icc.gzu.edu.cn. 3600 IN A 210.40.14.233
+
+icds.gzu.edu.cn. 3600 IN A 210.40.13.217
+
+icmic.gzu.edu.cn. 0 IN A 220.250.64.225
+
+icmic.gzu.edu.cn. 30 IN A 220.250.64.225
+
+icmic.gzu.edu.cn. 29 IN A 220.250.64.225
+
+ig.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+imiapd.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+jobs.gzu.edu.cn. 2198 IN A 210.40.20.2
+
+jobs.gzu.edu.cn. 2197 IN A 210.40.20.2
+
+jobs.gzu.edu.cn. 2197 IN A 210.40.20.2
+
+jobs.gzu.edu.cn. 2197 IN A 210.40.20.2
+
+jour.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+www.journal.gzu.edu.cn. 3600 IN CNAME gs.gzu.edu.cn.
+gs.gzu.edu.cn. 3588 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+www.journal.gzu.edu.cn. 3599 IN CNAME gs.gzu.edu.cn.
+gs.gzu.edu.cn. 3588 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+www.journal.gzu.edu.cn. 3599 IN CNAME gs.gzu.edu.cn.
+gs.gzu.edu.cn. 3588 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+jswm.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+kctm.gzu.edu.cn. 3600 IN A 210.40.13.113
+
+kst.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+kst.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+kst.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+kst.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+law.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+law.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+law.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+law.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lem.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lem.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lem.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lfe.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lfe.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lfe.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lfe.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3581 IN A 210.40.13.13
+
+lg.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lg.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lg.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lg.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lib.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lib.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lib.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+life.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lsirss.gzu.edu.cn. 3600 IN A 210.40.13.15
+
+lsirss.gzu.edu.cn. 3599 IN A 210.40.13.15
+
+lsirss.gzu.edu.cn. 3599 IN A 210.40.13.15
+
+lsirss.gzu.edu.cn. 3599 IN A 210.40.13.15
+
+lu.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lu.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lu.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lu.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+lxyz.gzu.edu.cn. 3600 IN A 210.40.13.21
+
+mail.gzu.edu.cn. 3600 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mailar.gzu.edu.cn. 3600 IN A 210.40.0.39
+
+mailar.gzu.edu.cn. 3599 IN A 210.40.0.39
+
+mailar.gzu.edu.cn. 3599 IN A 210.40.0.39
+
+mailar.gzu.edu.cn. 3599 IN A 210.40.0.39
+
+mailar.gzu.edu.cn. 3599 IN A 210.40.0.39
+
+mailar.gzu.edu.cn. 3599 IN A 210.40.0.39
+
+mailar.gzu.edu.cn. 3599 IN A 210.40.0.39
+
+mailgate.gzu.edu.cn. 3600 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailgate.gzu.edu.cn. 3599 IN A 210.40.0.36
+
+mailmx.gzu.edu.cn. 3600 IN A 210.40.0.42
+
+mailmx.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+mailmx.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+math.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+math.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+math.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+math.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3580 IN A 210.40.13.13
+
+mbet.gzu.edu.cn. 3600 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3579 IN A 210.40.12.232
+
+mc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mdc.gzu.edu.cn. 3600 IN A 210.40.60.62
+
+mdc.gzu.edu.cn. 3599 IN A 210.40.60.62
+
+mdc.gzu.edu.cn. 3599 IN A 210.40.60.62
+
+mdc.gzu.edu.cn. 3599 IN A 210.40.60.62
+
+www.mdc.gzu.edu.cn. 3600 IN CNAME mdc.gzu.edu.cn.
+mdc.gzu.edu.cn. 3599 IN A 210.40.60.62
+
+mdjob.gzu.edu.cn. 3600 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3579 IN A 210.40.12.232
+
+mdstu.gzu.edu.cn. 3600 IN A 210.40.60.3
+
+mdzs.gzu.edu.cn. 3600 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3579 IN A 210.40.12.232
+
+mech.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mech.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mech.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mech.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+med.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+med.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+med.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+med.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+media.gzu.edu.cn. 3600 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+media.gzu.edu.cn. 3599 IN A 210.40.0.78
+
+metalklab.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mfh.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3579 IN A 210.40.13.13
+
+mm.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mm.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mm.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mm.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mnc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mnc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mnc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mnc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mpa.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mpa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mpa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mpa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mt.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+music.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+music.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+music.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+music.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+mwuu.gzu.edu.cn. 3600 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3578 IN A 210.40.12.232
+
+mwuu.gzu.edu.cn. 3599 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3578 IN A 210.40.12.232
+
+mwuu.gzu.edu.cn. 3599 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3578 IN A 210.40.12.232
+
+mwuu.gzu.edu.cn. 3599 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3578 IN A 210.40.12.232
+
+newmail.gzu.edu.cn. 3600 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+newmail.gzu.edu.cn. 3599 IN A 210.40.0.46
+
+news.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+news.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+news.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3578 IN A 210.40.13.13
+
+newspaper.gzu.edu.cn. 3600 IN A 210.40.13.27
+
+nic.gzu.edu.cn. 3600 IN A 210.40.0.38
+
+nic.gzu.edu.cn. 3599 IN A 210.40.0.38
+
+nic.gzu.edu.cn. 3599 IN A 210.40.0.38
+
+nic.gzu.edu.cn. 3599 IN A 210.40.0.38
+
+nic.gzu.edu.cn. 3599 IN A 210.40.0.38
+
+nic.gzu.edu.cn. 3599 IN A 210.40.0.38
+
+nic.gzu.edu.cn. 3599 IN A 210.40.0.38
+
+noc.gzu.edu.cn. 3600 IN A 210.40.0.38
+
+nrdi.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+ns2018.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+nsla.gzu.edu.cn. 3600 IN A 210.40.13.79
+
+nsla.gzu.edu.cn. 3599 IN A 210.40.13.79
+
+nsla.gzu.edu.cn. 3599 IN A 210.40.13.79
+
+ocpc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+ocpc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+ocpc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+ocpc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+oir.gzu.edu.cn. 3600 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3584 IN A 210.40.13.115
+
+oir.gzu.edu.cn. 3599 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3584 IN A 210.40.13.115
+
+oir.gzu.edu.cn. 3599 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3584 IN A 210.40.13.115
+
+oir.gzu.edu.cn. 3599 IN CNAME tw.gzu.edu.cn.
+tw.gzu.edu.cn. 3584 IN A 210.40.13.115
+
+oldmail.gzu.edu.cn. 3600 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+oldmail.gzu.edu.cn. 3599 IN A 210.40.0.40
+
+pac.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pac.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pac.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pac.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pbd.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pcl.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pcl.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pcl.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pcl.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+pei.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+phc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+phc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+phc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+phc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3577 IN A 210.40.13.13
+
+phcis.gzu.edu.cn. 3600 IN A 210.40.12.210
+
+phy.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+phy.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+phy.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+phy.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+pmc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+pmc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+pmc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+pmc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+po.gzu.edu.cn. 3600 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3576 IN A 210.40.12.232
+
+po.gzu.edu.cn. 3599 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3576 IN A 210.40.12.232
+
+po.gzu.edu.cn. 3599 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3576 IN A 210.40.12.232
+
+pr.gzu.edu.cn. 3600 IN CNAME webpluswebn.gzu.edu.cn.
+webpluswebn.gzu.edu.cn. 3599 IN A 210.40.13.13
+
+press.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+pri-dns.gzu.edu.cn. 2716 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+pri-dns.gzu.edu.cn. 2715 IN A 210.40.0.33
+
+ps.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+ps.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+ps.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+ps.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+qeer.gzu.edu.cn. 0 IN A 220.250.64.225
+
+qeer.gzu.edu.cn. 30 IN A 220.250.64.225
+
+qeer.gzu.edu.cn. 29 IN A 220.250.64.225
+
+re.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+re.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+re.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+re.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3576 IN A 210.40.13.13
+
+rlib.gzu.edu.cn. 3600 IN A 210.40.8.20
+
+rp.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+rs.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+rso.gzu.edu.cn. 3600 IN A 210.40.20.2
+
+rso.gzu.edu.cn. 3599 IN A 210.40.20.2
+
+rso.gzu.edu.cn. 3599 IN A 210.40.20.2
+
+rso.gzu.edu.cn. 3599 IN A 210.40.20.2
+
+sa.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+scm.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sec.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sec-dns.gzu.edu.cn. 2715 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sec-dns.gzu.edu.cn. 2714 IN A 210.40.0.34
+
+sfaa.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sfaa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sfaa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sfaa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sfmis.gzu.edu.cn. 3600 IN A 210.40.13.213
+
+sfmis.gzu.edu.cn. 3599 IN A 210.40.13.213
+
+sfmis.gzu.edu.cn. 3599 IN A 210.40.13.213
+
+sfmis.gzu.edu.cn. 3599 IN A 210.40.13.213
+
+sh.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sh.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sh.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sh.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sipark.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sipark.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sipark.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+sipark.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3575 IN A 210.40.13.13
+
+smtp.gzu.edu.cn. 3600 IN CNAME mailmx.gzu.edu.cn.
+mailmx.gzu.edu.cn. 3594 IN A 210.40.0.42
+
+smtp.gzu.edu.cn. 3599 IN CNAME mailmx.gzu.edu.cn.
+mailmx.gzu.edu.cn. 3594 IN A 210.40.0.42
+
+smtp.gzu.edu.cn. 3599 IN CNAME mailmx.gzu.edu.cn.
+mailmx.gzu.edu.cn. 3594 IN A 210.40.0.42
+
+spa.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+spa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+spa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+spa.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+spsd.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+ssrc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+st.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+stc.gzu.edu.cn. 3600 IN A 210.40.13.100
+
+su.gzu.edu.cn. 3600 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+su.gzu.edu.cn. 3599 IN A 210.40.13.34
+
+sxzx.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tac.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tci.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tci.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tci.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tci.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tea.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tea.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tea.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tea.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+train.gzu.edu.cn. 3600 IN A 210.40.2.193
+
+train.gzu.edu.cn. 3599 IN A 210.40.2.193
+
+train.gzu.edu.cn. 3599 IN A 210.40.2.193
+
+ts.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+ts.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+ts.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+ts.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3574 IN A 210.40.13.13
+
+tw.gzu.edu.cn. 3581 IN A 210.40.13.115
+
+tw.gzu.edu.cn. 3581 IN A 210.40.13.115
+
+tw.gzu.edu.cn. 3581 IN A 210.40.13.115
+
+tw.gzu.edu.cn. 3581 IN A 210.40.13.115
+
+uf.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3573 IN A 210.40.13.13
+
+vsme.gzu.edu.cn. 3600 IN CNAME alumni.gzu.edu.cn.
+alumni.gzu.edu.cn. 3573 IN A 210.40.12.232
+
+NXDOMAIN for vt.gzu.edu.cn
+
+NXDOMAIN for vt.gzu.edu.cn
+
+NXDOMAIN for vt.gzu.edu.cn
+
+web.gzu.edu.cn. 3600 IN A 210.40.3.19
+
+web.gzu.edu.cn. 3599 IN A 210.40.3.19
+
+web.gzu.edu.cn. 3599 IN A 210.40.3.19
+
+web2.gzu.edu.cn. 3600 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+web2.gzu.edu.cn. 3599 IN A 210.40.0.57
+
+webmail.gzu.edu.cn. 3600 IN A 210.40.0.42
+
+webmail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+webmail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+webmail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+webmail.gzu.edu.cn. 3599 IN A 210.40.0.42
+
+webplus.gzu.edu.cn. 3600 IN A 210.40.3.17
+
+webplus.gzu.edu.cn. 3599 IN A 210.40.3.17
+
+webplus.gzu.edu.cn. 3599 IN A 210.40.3.17
+
+webplus.gzu.edu.cn. 3599 IN A 210.40.3.17
+
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+webpluswebn.gzu.edu.cn. 3595 IN A 210.40.13.13
+
+wic.gzu.edu.cn. 0 IN A 220.250.64.225
+
+wic.gzu.edu.cn. 30 IN A 220.250.64.225
+
+wic.gzu.edu.cn. 29 IN A 220.250.64.225
+
+www.gzu.edu.cn. 1425 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+www.gzu.edu.cn. 1424 IN A 210.40.12.58
+
+wwwcache.gzu.edu.cn. 3600 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+wwwcache.gzu.edu.cn. 3599 IN A 210.40.0.55
+
+xhnews.gzu.edu.cn. 3600 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+xhnews.gzu.edu.cn. 3599 IN A 210.40.0.56
+
+ymc.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymc.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymcxw.gzu.edu.cn. 3600 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymcxw.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymcxw.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+ymcxw.gzu.edu.cn. 3599 IN CNAME webplusweb.gzu.edu.cn.
+webplusweb.gzu.edu.cn. 3571 IN A 210.40.13.13
+
+yz.gzu.edu.cn. 0 IN A 220.250.64.225
+
+yz.gzu.edu.cn. 30 IN A 220.250.64.225
+
+yz.gzu.edu.cn. 29 IN A 220.250.64.225
+
+yz.gzu.edu.cn. 29 IN A 220.250.64.225
+

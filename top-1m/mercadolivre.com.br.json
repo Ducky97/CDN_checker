@@ -1,0 +1,136 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:39:41 GMT",
+            "Server": "Tengine",
+            "Set-Cookie": "_d2id=abb426c9-23e9-43bd-9f1a-654b70d8198e-n; Path=/; Domain=.mercadolivre.com.br; Expires=Thu, 16 Sep 2021 10:39:41 GMT, _csrf=m5v00RkwsqtzCeeh7IkryrAz; Path=/; HttpOnly, c_ui-navigation=5.10.2; Domain=www.mercadolivre.com.br; Path=/; Expires=Fri, 16 Oct 2020 10:39:41 GMT; HttpOnly; Secure; SameSite=None",
+            "Accept-CH": "device-memory, dpr, viewport-width, rtt, downlink, ect, save-data",
+            "Accept-CH-Lifetime": "60",
+            "Cache-Control": "private, max-age=0, no-cache, no-store, must-revalidate",
+            "Content-Encoding": "gzip",
+            "ETag": "W/\"4fe30-LukRBLYswHOApbZylJlzOFMz3NE\"",
+            "Link": "<https://http2.mlstatic.com/frontend-assets/homes-palpatine/vendor.39bf16cb.js>; rel=preload; as=script; crossorigin=anonymous, <https://http2.mlstatic.com/frontend-assets/homes-palpatine/home.desktop.71fd409d.js>; rel=preload; as=script; crossorigin=anonymous",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-DNS-Prefetch-Control": "on",
+            "X-Download-Options": "noopen",
+            "X-Navigation-Version": "layout-3.45.2",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Request-Id": "abb426c9-23e9-43bd-9f1a-654b70d8198e",
+            "X-D2id": "abb426c9-23e9-43bd-9f1a-654b70d8198e",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 3ce5fe2903e47f603ef50d554e75dcb1.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "eBiqzs-KazpuQf2nGmfBnpIJHiaOvYGFnHLGZXgn41KofSqLMBZWPA=="
+        },
+        "nslookup": {
+            "mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.4",
+                "13.224.250.25",
+                "13.224.250.36"
+            ],
+            "www.mercadolivre.com.br": [
+                "13.224.250.4",
+                "13.224.250.25",
+                "13.224.250.129",
+                "13.224.250.36"
+            ]
+        },
+        "ping": {
+            "mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.4",
+                "13.224.250.36",
+                "13.224.250.25"
+            ],
+            "www.mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.4",
+                "13.224.250.36",
+                "13.224.250.25"
+            ]
+        },
+        "CNAME": {
+            "mercadolivre.com.br": null
+        },
+        "A": {
+            "mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.25",
+                "13.224.250.4",
+                "13.224.250.36"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "Date": "Wed, 16 Sep 2020 10:39:43 GMT",
+            "Server": "Tengine",
+            "Set-Cookie": "_d2id=284dd841-349e-4983-9834-88cc90d5551c-n; Path=/; Domain=.mercadolivre.com.br; Expires=Thu, 16 Sep 2021 10:39:43 GMT, _csrf=7QoGn4P9JtVhZf0GNRr1Dak_; Path=/; HttpOnly, c_ui-navigation=5.10.2; Domain=www.mercadolivre.com.br; Path=/; Expires=Fri, 16 Oct 2020 10:39:43 GMT; HttpOnly; Secure; SameSite=None",
+            "Accept-CH": "device-memory, dpr, viewport-width, rtt, downlink, ect, save-data",
+            "Accept-CH-Lifetime": "60",
+            "Cache-Control": "private, max-age=0, no-cache, no-store, must-revalidate",
+            "Content-Encoding": "gzip",
+            "ETag": "W/\"4ff7a-k1SvK7Bi+wXdXDDV3CBwYj/xO04\"",
+            "Link": "<https://http2.mlstatic.com/frontend-assets/homes-palpatine/vendor.39bf16cb.js>; rel=preload; as=script; crossorigin=anonymous, <https://http2.mlstatic.com/frontend-assets/homes-palpatine/home.desktop.71fd409d.js>; rel=preload; as=script; crossorigin=anonymous",
+            "Strict-Transport-Security": "max-age=15552000; includeSubDomains",
+            "Vary": "Accept-Encoding",
+            "X-Content-Type-Options": "nosniff",
+            "X-DNS-Prefetch-Control": "on",
+            "X-Download-Options": "noopen",
+            "X-Navigation-Version": "layout-3.45.2",
+            "X-XSS-Protection": "1; mode=block",
+            "X-Request-Id": "284dd841-349e-4983-9834-88cc90d5551c",
+            "X-D2id": "284dd841-349e-4983-9834-88cc90d5551c",
+            "X-Cache": "Miss from cloudfront",
+            "Via": "1.1 3a121bfa9fd8f1948df6cf2868bc292f.cloudfront.net (CloudFront)",
+            "X-Amz-Cf-Pop": "SIN52-C2",
+            "X-Amz-Cf-Id": "lUfWfdFieJXhHYZXyTqdSEzs95-na9E0dd9NmZX4NcdC46KFI16lAw=="
+        },
+        "nslookup": {
+            "mercadolivre.com.br": [
+                "13.224.250.4",
+                "13.224.250.129",
+                "13.224.250.36",
+                "13.224.250.25"
+            ],
+            "www.mercadolivre.com.br": [
+                "13.224.250.4",
+                "13.224.250.25",
+                "13.224.250.129",
+                "13.224.250.36"
+            ]
+        },
+        "ping": {
+            "mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.4",
+                "13.224.250.36"
+            ],
+            "www.mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.36",
+                "13.224.250.25"
+            ]
+        },
+        "CNAME": {
+            "mercadolivre.com.br": null
+        },
+        "A": {
+            "mercadolivre.com.br": [
+                "13.224.250.129",
+                "13.224.250.25",
+                "13.224.250.4",
+                "13.224.250.36"
+            ]
+        }
+    }
+}

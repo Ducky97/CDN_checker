@@ -1,0 +1,54 @@
+{
+    "http": {
+        "header": {
+            "Content-Length": "62",
+            "Connection": "close",
+            "Cache-Control": "no-cache,no-store",
+            "Pragma": "no-cache"
+        },
+        "nslookup": {
+            "api.sjtu.edu.cn": [
+                "202.120.35.146"
+            ]
+        },
+        "ping": {
+            "api.sjtu.edu.cn": [
+                "202.120.35.146"
+            ]
+        },
+        "CNAME": {
+            "api.sjtu.edu.cn": null
+        },
+        "A": {
+            "api.sjtu.edu.cn": [
+                "202.120.35.146"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Length": "62",
+            "Connection": "close",
+            "Cache-Control": "no-cache,no-store",
+            "Pragma": "no-cache"
+        },
+        "nslookup": {
+            "api.sjtu.edu.cn": [
+                "202.120.35.146"
+            ]
+        },
+        "ping": {
+            "api.sjtu.edu.cn": [
+                "202.120.35.146"
+            ]
+        },
+        "CNAME": {
+            "api.sjtu.edu.cn": null
+        },
+        "A": {
+            "api.sjtu.edu.cn": [
+                "202.120.35.146"
+            ]
+        }
+    }
+}

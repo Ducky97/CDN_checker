@@ -1,0 +1,90 @@
+{
+    "http": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Kestrel",
+            "X-Vcap-Request-Id": "f0ab8343-e2e5-490e-5d03-c2aab297a334",
+            "X-Upstream": "https://homepage-PROD",
+            "Content-Encoding": "gzip",
+            "Content-Length": "30947",
+            "Vary": "Accept-Encoding",
+            "Date": "Wed, 16 Sep 2020 10:49:35 GMT",
+            "Connection": "keep-alive",
+            "X-Akamai-ERPolicy": "Responsive_redirects",
+            "X-Akamai-ERRuleID": "",
+            "Set-Cookie": "akavpau_maintenance_vp=1600253675~id=777bd1e07e24b122530a9f726a1c7e0e; Path=/; Secure; SameSite=None"
+        },
+        "nslookup": {
+            "dell.com": [
+                "143.166.147.101",
+                "143.166.135.105"
+            ],
+            "www.dell.com": [
+                "118.215.81.56"
+            ]
+        },
+        "ping": {
+            "dell.com": [
+                "143.166.147.101",
+                "143.166.135.105"
+            ],
+            "www.dell.com": [
+                "23.10.21.221"
+            ]
+        },
+        "CNAME": {
+            "www.dell.com": [
+                "www1.dell-cidr.akadns.net."
+            ]
+        },
+        "A": {
+            "www.dell.com": [
+                "23.10.21.221"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Content-Type": "text/html; charset=utf-8",
+            "Server": "Kestrel",
+            "X-Vcap-Request-Id": "f0ab8343-e2e5-490e-5d03-c2aab297a334",
+            "X-Upstream": "https://homepage-PROD",
+            "Content-Encoding": "gzip",
+            "Content-Length": "30947",
+            "Vary": "Accept-Encoding",
+            "Date": "Wed, 16 Sep 2020 10:49:37 GMT",
+            "Connection": "keep-alive",
+            "X-Akamai-ERPolicy": "Responsive_redirects",
+            "X-Akamai-ERRuleID": "",
+            "Set-Cookie": "akavpau_maintenance_vp=1600253677~id=002bc5219bea0633d4cfb350024f067c; Path=/; Secure; SameSite=None"
+        },
+        "nslookup": {
+            "dell.com": [
+                "143.166.147.101",
+                "143.166.135.105"
+            ],
+            "www.dell.com": [
+                "118.215.81.56"
+            ]
+        },
+        "ping": {
+            "dell.com": [
+                "143.166.147.101",
+                "143.166.135.105"
+            ],
+            "www.dell.com": [
+                "23.10.21.221"
+            ]
+        },
+        "CNAME": {
+            "www.dell.com": [
+                "www1.dell-cidr.akadns.net."
+            ]
+        },
+        "A": {
+            "www.dell.com": [
+                "23.10.21.221"
+            ]
+        }
+    }
+}

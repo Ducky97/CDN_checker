@@ -1,0 +1,177 @@
+{
+    "http": {
+        "header": {
+            "Server": "nginx",
+            "Content-Type": "text/html; charset=utf-8",
+            "x-janus-mini-api-forward": "Janus-Mini(fast)",
+            "x-krakend": "Version 2",
+            "x-krakend-completed": "false",
+            "x-tt-logid": "202009161000500101150040501900F324",
+            "x-content-type-options": "nosniff",
+            "x-csp-nonce": "v6E4UYTqpaLhoa3lm0BUc",
+            "Cache-Control": "no-store",
+            "x-frame-options": "DENY",
+            "Expires": "0",
+            "x-xss-protection": "1; mode=block",
+            "x-download-options": "noopen",
+            "content-security-policy-report-only": "default-src 'self' data: blob: *.tiktokcdn.com *.akamaized.net *.tiktok.com *.byteoversea.com *.ibytedtos.com *.tiktokcdn-in.com;connect-src *.google-analytics.com *.ibytedtos.com *.bytedanceapi.com *.tiktokv.com *.tiktok.com *.byteoversea.com *.tiktokcdn.com *.tiktokcdn-in.com *.hypstarcdn.com *.ipstatp.com *.bytedance.com;script-src data: blob: 'unsafe-inline' 'unsafe-eval' *.byteoversea.com *.ibytedtos.com *.ipstatp.com *.tiktok.com *.tiktokcdn-in.com *.tiktokcdn.com *.hypstarcdn.com *.googletagmanager.com *.google-analytics.com *.akamaized.com *.googleapis.com *.sgpstatp.com 'nonce-y8M5dRZ0wOLaW2vEl9uC1';style-src 'unsafe-inline' *.tiktokcdn.com *.tiktokcdn-in.com *.akamaized.net *.ibytedtos.com *.tiktok.com *.ipstatp.com *.ibyteimg.com *.googleapis.com;img-src data: *.akamaized.net *.tiktokcdn.com *.tiktokcdn-in.com *.ibytedtos.com *.ibyteimg.com *.tiktok.com *.hypstarcdn.com *.facebook.com *.google-analytics.com *.googletagmanager.com;frame-src *.tiktok.com;media-src blob: *.tiktok.com *.tiktokv.com *.tiktokcdn.com *.tiktokcdn-in.com *.akamaized.net *.ibyteimg.com *.ibytedtos.com;report-uri https://mon-va.byteoversea.com/log/sentry/v2/api/slardar/main/?ev_type=csp&bid=tiktok_web",
+            "strict-transport-security": "max-age=31536000",
+            "x-ua-compatible": "IE=Edge,chrome=1",
+            "Pragma": "no-cache",
+            "server-timing": "inner; dur=52, cdn-cache; desc=MISS, edge; dur=5, origin; dur=71",
+            "x-tt-trace-host": "0103302b94ddd4e3a049692c6e6d4533015a7cb0aaa763043bf18fcce67e0dba68d1eef967810a9b6a3f6d723a79b5d9550a0347a5caf7be9f9734b3c70f871a8adbe58887e2f02860a55a27850d81e6e3",
+            "Content-Encoding": "gzip",
+            "Date": "Wed, 16 Sep 2020 10:00:50 GMT",
+            "Content-Length": "30263",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "tt_webid=6873023328674039298; path=/; expires=Thu, 16 Sep 2021 10:00:50 GMT; domain=.tiktok.com; secure; httponly, tt_webid=6873023328674039298; path=/; expires=Thu, 16 Sep 2021 10:00:50 GMT; domain=.tiktok.com; secure; httponly, tt_webid_v2=6873023328674039298; path=/; expires=Thu, 16 Sep 2021 10:00:50 GMT; domain=.tiktok.com; secure; httponly",
+            "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn",
+            "X-Origin-Response-Time": "71,124.155.222.187"
+        },
+        "nslookup": {
+            "tiktok.com": [
+                "161.117.96.158",
+                "161.117.71.12",
+                "161.117.98.196",
+                "161.117.98.223",
+                "161.117.70.24",
+                "161.117.111.4",
+                "161.117.112.172"
+            ],
+            "www.tiktok.com": [
+                "111.223.64.17",
+                "111.223.64.40",
+                "111.223.64.34",
+                "111.223.64.25",
+                "111.223.64.35",
+                "111.223.64.8",
+                "111.223.64.10",
+                "111.223.64.16",
+                "111.223.64.41"
+            ]
+        },
+        "ping": {
+            "tiktok.com": [
+                "161.117.71.12",
+                "161.117.112.172",
+                "161.117.70.24",
+                "161.117.98.223",
+                "161.117.98.196",
+                "161.117.111.4"
+            ],
+            "www.tiktok.com": [
+                "124.155.222.224",
+                "124.155.222.192",
+                "124.155.222.191",
+                "124.155.222.146",
+                "124.155.222.72",
+                "124.155.222.226"
+            ]
+        },
+        "CNAME": {
+            "www.tiktok.com": [
+                "www.tiktok.com.edgesuite.net."
+            ]
+        },
+        "A": {
+            "www.tiktok.com": [
+                "124.155.222.224",
+                "124.155.222.192",
+                "124.155.222.191",
+                "124.155.222.146",
+                "124.155.222.223",
+                "124.155.222.226",
+                "124.155.222.72",
+                "124.155.222.145",
+                "124.155.222.231"
+            ]
+        }
+    },
+    "https": {
+        "header": {
+            "Server": "nginx",
+            "Content-Type": "text/html; charset=utf-8",
+            "x-janus-mini-api-forward": "Janus-Mini(fast)",
+            "x-krakend": "Version 2",
+            "x-krakend-completed": "false",
+            "strict-transport-security": "max-age=31536000",
+            "x-xss-protection": "1; mode=block",
+            "x-frame-options": "DENY",
+            "content-security-policy-report-only": "default-src 'self' data: blob: *.tiktokcdn.com *.akamaized.net *.tiktok.com *.byteoversea.com *.ibytedtos.com *.tiktokcdn-in.com;connect-src *.google-analytics.com *.ibytedtos.com *.bytedanceapi.com *.tiktokv.com *.tiktok.com *.byteoversea.com *.tiktokcdn.com *.tiktokcdn-in.com *.hypstarcdn.com *.ipstatp.com *.bytedance.com;script-src data: blob: 'unsafe-inline' 'unsafe-eval' *.byteoversea.com *.ibytedtos.com *.ipstatp.com *.tiktok.com *.tiktokcdn-in.com *.tiktokcdn.com *.hypstarcdn.com *.googletagmanager.com *.google-analytics.com *.akamaized.com *.googleapis.com *.sgpstatp.com 'nonce-wD4rQ6XN6COSTBlRP56bs';style-src 'unsafe-inline' *.tiktokcdn.com *.tiktokcdn-in.com *.akamaized.net *.ibytedtos.com *.tiktok.com *.ipstatp.com *.ibyteimg.com *.googleapis.com;img-src data: *.akamaized.net *.tiktokcdn.com *.tiktokcdn-in.com *.ibytedtos.com *.ibyteimg.com *.tiktok.com *.hypstarcdn.com *.facebook.com *.google-analytics.com *.googletagmanager.com;frame-src *.tiktok.com;media-src blob: *.tiktok.com *.tiktokv.com *.tiktokcdn.com *.tiktokcdn-in.com *.akamaized.net *.ibyteimg.com *.ibytedtos.com;report-uri https://mon-va.byteoversea.com/log/sentry/v2/api/slardar/main/?ev_type=csp&bid=tiktok_web",
+            "x-tt-logid": "202009161000500102340870133000CAF6",
+            "Expires": "0",
+            "x-csp-nonce": "xf2v7TEr_r9k5B19yNX5F",
+            "Pragma": "no-cache",
+            "x-download-options": "noopen",
+            "x-ua-compatible": "IE=Edge,chrome=1",
+            "Cache-Control": "no-store",
+            "x-content-type-options": "nosniff",
+            "x-tt-trace-host": "015388f6d34f85713c9e445d4c21846d4534241c82975694bfe3f5d136dd14640e2f595655e82508eda7f27de7bc74956f6f4230bd12396191e044d67b3a8d7fc298c7628c96f0bfa45c4275defdb0a9118d96e12a0bf728e67e7e4272f2bab093",
+            "Content-Encoding": "gzip",
+            "Content-Length": "30404",
+            "X-Origin-Response-Time": "67,23.211.140.54",
+            "Date": "Wed, 16 Sep 2020 10:00:50 GMT",
+            "Connection": "keep-alive",
+            "Vary": "Accept-Encoding",
+            "Set-Cookie": "tt_webid=6873023330048443905; path=/; expires=Thu, 16 Sep 2021 10:00:50 GMT; domain=.tiktok.com; secure; httponly, tt_webid=6873023330048443905; path=/; expires=Thu, 16 Sep 2021 10:00:50 GMT; domain=.tiktok.com; secure; httponly, tt_webid_v2=6873023330048443905; path=/; expires=Thu, 16 Sep 2021 10:00:50 GMT; domain=.tiktok.com; secure; httponly",
+            "x-tt-trace-tag": "id=16;cdn-cache=miss;type=dyn",
+            "server-timing": "cdn-cache; desc=MISS, edge; dur=6, origin; dur=67, inner; dur=64",
+            "X-Parent-Response-Time": "73,124.155.222.142"
+        },
+        "nslookup": {
+            "tiktok.com": [
+                "161.117.98.223",
+                "161.117.98.196",
+                "161.117.70.24",
+                "161.117.71.12",
+                "161.117.112.172",
+                "161.117.96.158",
+                "161.117.111.4"
+            ],
+            "www.tiktok.com": [
+                "111.223.64.17",
+                "111.223.64.33",
+                "111.223.64.16",
+                "111.223.64.34",
+                "111.223.64.8",
+                "111.223.64.41",
+                "111.223.64.25",
+                "111.223.64.35",
+                "111.223.64.10"
+            ]
+        },
+        "ping": {
+            "tiktok.com": [
+                "161.117.111.4",
+                "161.117.98.223",
+                "161.117.98.196",
+                "161.117.70.24"
+            ],
+            "www.tiktok.com": [
+                "124.155.222.146",
+                "124.155.222.192",
+                "124.155.222.191",
+                "124.155.222.223"
+            ]
+        },
+        "CNAME": {
+            "www.tiktok.com": [
+                "www.tiktok.com.edgesuite.net."
+            ]
+        },
+        "A": {
+            "www.tiktok.com": [
+                "124.155.222.233",
+                "124.155.222.224",
+                "124.155.222.192",
+                "124.155.222.191",
+                "124.155.222.231",
+                "124.155.222.146",
+                "124.155.222.226",
+                "124.155.222.145",
+                "124.155.222.194"
+            ]
+        }
+    }
+}
