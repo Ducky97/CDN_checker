@@ -12,6 +12,7 @@ import getopt
 import multiprocessing
 
 
+
 # 使用Json保存结果
 class MyEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -118,7 +119,7 @@ def save(domain, result):
     
 
 # 还是要保存header
-def crawl_one_page(domain):
+def crawl_one_page(domain,share_var=None, share_lock=None):
     total_result = dict()
     # 开始爬取页面
     protocol_s = ["http", "https"]
@@ -172,7 +173,18 @@ def crawl_one_page(domain):
             if protocol not in total_result:
                 total_result[protocol] = e
             pass
-    save(domain, total_result)
+    if share_lock != None:
+        # share_var.append(total_num)
+        # share_var.append(checking_num)
+        share_lock.acquire()
+        save(domain, total_result)
+        print(share_var[1], "/", share_var[0], domain)
+        share_var[1] += 1
+        share_lock.release()
+    else:
+        save(domain, total_result)
+    
+
 
 
 def crawl_multi_papges(university, domain_set):
@@ -186,9 +198,17 @@ def crawl_multi_papges(university, domain_set):
             continue
         checked_domain_set.add(domain)
     # 开始多进程爬网页
+    total_num = len(checked_domain_set)
     pool = multiprocessing.Pool(10)
+    checking_num = 1
+    total_num = len(checked_domain_set)
+    share_lock = multiprocessing.Manager().Lock()
+    share_var = multiprocessing.Manager().list()
+    share_var.append(total_num)
+    share_var.append(checking_num)
+
     for domain in checked_domain_set:
-        pool.apply_async(crawl_one_page, (domain,), callback=save)
+        pool.apply_async(crawl_one_page, (domain,share_var,share_lock,))
         # pool = multiprocessing.Process(target=crawl_one_page, args=(domain,))
         # pool.start()
         # pool.join()
@@ -267,10 +287,10 @@ def main(argv):
         elif opt in ("-m", "--multi"):
             # 多进程爬取多个学校
             universities_path = "full_domain.txt"
+            university_num = 1
             with open(universities_path, 'r') as f:
                 line = f.readline()
                 while line:
-                    print(line)
                     university = line.strip().split('.')[0]
 
                     # # 先检查, 如果存在，就向下检查，以后可以弹性调整
@@ -286,7 +306,7 @@ def main(argv):
                     cmd = "mkdir university/" + university
                     os.system(cmd)
 
-                    
+                    print(university_num, "/ 114. now checking", university)
                     domain_set = set()
                     with open(path, 'r') as domain_f:
                         domain_line = domain_f.readline()
@@ -295,34 +315,10 @@ def main(argv):
                             domain = domain_line.strip()
                             domain_set.add(domain)
                             domain_line = domain_f.readline()
-                    print("hello")
+                    # print("hello")
                     crawl_multi_papges(university, domain_set)
                     line = f.readline()
                             
-
-                    # for university in university_list:
-                    #     path = "dataset/get_fulldomain/output/domain/fulldomain_nd/" + university + ".edu.cn.txt"
-                    #     cmd = "mkdir university/" + university
-                    #     os.system(cmd)
-                    #     domain_set = set()
-                    #     with open(path, 'r') as f:
-                    #         line = f.readline()
-                    #         # num = 0
-                    #         while line: #and num<500:
-                    #             domain = line.strip()
-                    #             # print(line.strip(), domain)
-                    #             # crawl_one_page(domain)
-                    #             line = f.readline()
-                    #             domain_set.add(domain)
-                    #         total_num = len(domain_set)
-                    #         count = 1
-                    #         for domain in domain_set:
-                    #             print(count, "/", total_num, domain)
-                    #             start = time.clock()
-                    #             crawl_one_page(domain)
-                    #             end = time.clock()
-                    #             print("use time: ", end-start)
-                    #             count += 1 
                     
         else:
             pass
